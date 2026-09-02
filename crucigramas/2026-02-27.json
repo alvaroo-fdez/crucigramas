@@ -1,0 +1,552 @@
+{
+  "data": {
+    "id": 5003,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-26T16:00:25.733252Z",
+      "updatedAt": "2026-02-26T16:02:36.011941Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ASOMA#EDAM#MAMA\r\nMOLIDO#ESCRUTAR\r\nORIGEN#RIMO#ERG\r\nROMANCERA#DARIO\r\n#LP#TEJA#SERRAT\r\n#LIARE#POKEMON#\r\nLACRA#LELO#A#AP\r\nI#ATRAE#ALADA#A\r\nCA#E#RIES#POLAR\r\n#CARTEAN#ERREN#\r\nTENIAS#GRUI#JE#\r\nRIFAR#NOTREDAME\r\nITO#ETER#OTEROS\r\nBARBACID#SAJONA\r\nUSAN#ASEA#NANAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sentimiento intenso de afecto",
+              "answer": "AMOR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Joaquín…\" el pintor de la luz del Mediterráneo",
+              "answer": "SOROLLA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "La vuelta que se da al campo luego de ganar la competición",
+              "answer": "OLIMPICA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Porción pequeñísima de pan",
+              "answer": "MIGA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Penetrar en el interior de algo",
+              "answer": "ADENTRAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Eevee",
+              "answer": "E"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Desvío lateral intencional de la dirección original al patinar",
+              "answer": "DERRAPE"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "El más poblado de los continentes",
+              "answer": "ASIA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Mínimo común múltiplo",
+              "answer": "MCM"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "No opinó, no dijo ni…",
+              "answer": "MU"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Costa Rica Obstrucción por un derrumbamiento de tierra",
+              "answer": "ATERRO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "La regente de España cuando se firma el Tratado de Lisboa (1668)",
+              "answer": "MARIANA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Grato pero raro: el lenguaje coloquial",
+              "answer": "ARGOT"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Pese por onzas",
+              "answer": "ONCEE"
+            },
+            "17": {
+              "col": 10,
+              "row": 1,
+              "clue": "Circunscribí, envolví, asedié",
+              "answer": "RODEE"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "Un pequeño ejemplo",
+              "answer": "EJ"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "Hombre que arma a un barco para su explotación comercial",
+              "answer": "ARMADOR"
+            },
+            "27": {
+              "col": 9,
+              "row": 4,
+              "clue": "¡Salud! pero a lo vikingo",
+              "answer": "SKOL"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Lleva la sangre desde el corazón al cuerpo",
+              "answer": "ARTERIA"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Cambios repentinos de temperatura",
+              "answer": "OLAS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "En la tarjeta del licenciado",
+              "answer": "LIC"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "\"… Organa\" nacida como una Skywalker",
+              "answer": "LEIA"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "\"Sólo un… de palabras te diré\" Hombres G",
+              "answer": "PAR"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Dios olímpico de la guerra",
+              "answer": "ARES"
+            },
+            "41": {
+              "col": 10,
+              "row": 7,
+              "clue": "Comprimen con fuerza",
+              "answer": "APRIETAN"
+            },
+            "42": {
+              "col": 12,
+              "row": 7,
+              "clue": "Se distanciaron o apartaron",
+              "answer": "ALEJARON"
+            },
+            "45": {
+              "col": 1,
+              "row": 8,
+              "clue": "Empapas con óleos",
+              "answer": "ACEITAS"
+            },
+            "48": {
+              "col": 7,
+              "row": 8,
+              "clue": "Me excedí con las comidas y mi cuerpo lo enseña",
+              "answer": "ENGORDE"
+            },
+            "50": {
+              "col": 13,
+              "row": 8,
+              "clue": "Hogar en los arrecifes de los peces payasos",
+              "answer": "ANEMONA"
+            },
+            "52": {
+              "col": 2,
+              "row": 9,
+              "clue": "Jarrón con doble asa, populares en la antigua Roma",
+              "answer": "ANFORA"
+            },
+            "53": {
+              "col": 4,
+              "row": 9,
+              "clue": "Deber, responsabilidad",
+              "answer": "TAREA"
+            },
+            "54": {
+              "col": 9,
+              "row": 9,
+              "clue": "€€",
+              "answer": "EUROS"
+            },
+            "55": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo es, la Zulú, la Tuareg o la Masái",
+              "answer": "TRIBU"
+            },
+            "57": {
+              "col": 8,
+              "row": 10,
+              "clue": "Centro de Arte",
+              "answer": "RT"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "Sin infusión, tenéis la sien de Inés",
+              "answer": "NEIS"
+            },
+            "61": {
+              "col": 11,
+              "row": 11,
+              "clue": "Abandona, renuncia",
+              "answer": "DEJA"
+            },
+            "62": {
+              "col": 14,
+              "row": 11,
+              "clue": "Estas no, las otras",
+              "answer": "ESAS"
+            },
+            "65": {
+              "col": 5,
+              "row": 12,
+              "clue": "Trastorno de Conducta Alimentaria (siglas)",
+              "answer": "TCA"
+            },
+            "68": {
+              "col": 3,
+              "row": 13,
+              "clue": "Bloquearon, la entrada y la salida",
+              "answer": "BN"
+            },
+            "72": {
+              "col": 8,
+              "row": 14,
+              "clue": "Alakazam",
+              "answer": "A"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Surge, brota, aflora",
+              "answer": "ASOMA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "No quiero el queso gouda, mejor dame el otro",
+              "answer": "EDAM"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "El órgano que afecta la mastitis",
+              "answer": "MAMA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Café en grano ya pasado por la trituradora",
+              "answer": "MOLIDO"
+            },
+            "16": {
+              "col": 7,
+              "row": 1,
+              "clue": "Curraste como loco en revisar y computar los votos",
+              "answer": "ESCRUTAR"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Película protagonizada por DiCaprio que hace referencia a los sueños",
+              "answer": "ORIGEN"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Compongo en verso",
+              "answer": "RIMO"
+            },
+            "20": {
+              "col": 12,
+              "row": 2,
+              "clue": "Región arenosa de un desierto",
+              "answer": "ERG"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "A ella le encanta el romance y por eso canta",
+              "answer": "ROMANCERA"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"Rubén…\" El príncipe de las letras castellanas",
+              "answer": "DARIO"
+            },
+            "25": {
+              "col": 1,
+              "row": 4,
+              "clue": "El vinilo de Luciano Pavarotti",
+              "answer": "LP"
+            },
+            "26": {
+              "col": 4,
+              "row": 4,
+              "clue": "Pieza de barro cocido para techos",
+              "answer": "TEJA"
+            },
+            "27": {
+              "col": 9,
+              "row": 4,
+              "clue": "\"Joan Manuel …\", cantando 'Penélope'",
+              "answer": "SERRAT"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Ataré y aseguraré las cargas",
+              "answer": "LIARE"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Los villanos de esta serie son el Team Rocket",
+              "answer": "POKEMON"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Vicio físico o moral que marca a quien lo tiene",
+              "answer": "LACRA"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Simple o atontado",
+              "answer": "LELO"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Aerodactyl",
+              "answer": "A"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "El fin de semana, empieza el partido",
+              "answer": "AP"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ivysaur",
+              "answer": "I"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Seduce, cautiva",
+              "answer": "ATRAE"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "A la dama con alas",
+              "answer": "ALADA"
+            },
+            "43": {
+              "col": 14,
+              "row": 7,
+              "clue": "Ash",
+              "answer": "A"
+            },
+            "44": {
+              "col": 0,
+              "row": 8,
+              "clue": "Se viene abajo con un bloque atravesado*",
+              "answer": "CA"
+            },
+            "46": {
+              "col": 3,
+              "row": 8,
+              "clue": "* (viene de la pista anterior)",
+              "answer": "E"
+            },
+            "47": {
+              "col": 5,
+              "row": 8,
+              "clue": "Te partes, te…",
+              "answer": "RIES"
+            },
+            "49": {
+              "col": 10,
+              "row": 8,
+              "clue": "El que osó oponerse a la extinción (feliz grandioso día)",
+              "answer": "POLAR"
+            },
+            "51": {
+              "col": 1,
+              "row": 9,
+              "clue": "En la cantera cantaré que ustedes se envían misivas",
+              "answer": "CARTEAN"
+            },
+            "54": {
+              "col": 9,
+              "row": 9,
+              "clue": "¿Hay alguna forma menos culta de que yerren?",
+              "answer": "ERREN"
+            },
+            "55": {
+              "col": 0,
+              "row": 10,
+              "clue": "Poseías a las lombrices solitarias",
+              "answer": "TENIAS"
+            },
+            "56": {
+              "col": 7,
+              "row": 10,
+              "clue": "Emití el sonido de las grullas",
+              "answer": "GRUI"
+            },
+            "58": {
+              "col": 12,
+              "row": 10,
+              "clue": "¡Qué risa con Jacob Elordi!",
+              "answer": "JE"
+            },
+            "59": {
+              "col": 0,
+              "row": 11,
+              "clue": "Sortear algo",
+              "answer": "RIFAR"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "En cierta forma lo amedrentó en la catedral parisina",
+              "answer": "NOTREDAME"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Este tío se volvió loco",
+              "answer": "ITO"
+            },
+            "64": {
+              "col": 4,
+              "row": 12,
+              "clue": "La quintaesencia griega",
+              "answer": "ETER"
+            },
+            "66": {
+              "col": 9,
+              "row": 12,
+              "clue": "Cerros aislados que dominan un llano",
+              "answer": "OTEROS"
+            },
+            "67": {
+              "col": 0,
+              "row": 13,
+              "clue": "El oncólogo que logra eliminar el cáncer de páncreas en animales",
+              "answer": "BARBACID"
+            },
+            "69": {
+              "col": 9,
+              "row": 13,
+              "clue": "Esta palabra no es finlandesa,  es de Sajonia",
+              "answer": "SAJONA"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Utilizan, emplean",
+              "answer": "USAN"
+            },
+            "71": {
+              "col": 5,
+              "row": 14,
+              "clue": "Se lava",
+              "answer": "ASEA"
+            },
+            "73": {
+              "col": 10,
+              "row": 14,
+              "clue": "Niñeras, ayas",
+              "answer": "NANAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Sentimiento intenso de afecto\r\n2-\"Joaquín…\" el pintor de la luz del Mediterráneo\r\n3-La vuelta que se da al campo luego de ganar la competición\r\n4-Porción pequeñísima de pan\r\n5-Penetrar en el interior de algo\r\n6-Eevee\r\n7-Desvío lateral intencional de la dirección original al patinar\r\n8-El más poblado de los continentes\r\n9-Mínimo común múltiplo\r\n10-No opinó, no dijo ni… \r\n11-Costa Rica Obstrucción por un derrumbamiento de tierra\r\n12-La regente de España cuando se firma el Tratado de Lisboa (1668)\r\n13-Grato pero raro: el lenguaje coloquial\r\n15-Pese por onzas\r\n17-Circunscribí, envolví, asedié\r\n22-Un pequeño ejemplo\r\n24-Hombre que arma a un barco para su explotación comercial\r\n27-¡Salud! pero a lo vikingo\r\n29-Lleva la sangre desde el corazón al cuerpo\r\n31-Cambios repentinos de temperatura\r\n32-En la tarjeta del licenciado\r\n33-\"… Organa\" nacida como una Skywalker\r\n36-\"Sólo un… de palabras te diré\" Hombres G\r\n39-Dios olímpico de la guerra\r\n41-Comprimen con fuerza \r\n42-Se distanciaron o apartaron \r\n45-Empapas con óleos\r\n48-Me excedí con las comidas y mi cuerpo lo enseña\r\n50-Hogar en los arrecifes de los peces payasos\r\n52-Jarrón con doble asa, populares en la antigua Roma\r\n53-Deber, responsabilidad\r\n54-€€ \r\n55-Lo es, la Zulú, la Tuareg o la Masái\r\n57-Centro de Arte\r\n60-Sin infusión, tenéis la sien de Inés\r\n61-Abandona, renuncia\r\n62-Estas no, las otras\r\n65-Trastorno de Conducta Alimentaria (siglas)\r\n68-Bloquearon, la entrada y la salida\r\n72-Alakazam",
+        "horizontal_clues": "1-Surge, brota, aflora\r\n6-No quiero el queso gouda, mejor dame el otro\r\n10-El órgano que afecta la mastitis\r\n14-Café en grano ya pasado por la trituradora \r\n16-Curraste como loco en revisar y computar los votos\r\n18-Película protagonizada por DiCaprio que hace referencia a los sueños\r\n19-Compongo en verso\r\n20-Región arenosa de un desierto\r\n21-A ella le encanta el romance y por eso canta\r\n23-\"Rubén…\" El príncipe de las letras castellanas\r\n25-El vinilo de Luciano Pavarotti\r\n26-Pieza de barro cocido para techos\r\n27-\"Joan Manuel …\", cantando 'Penélope'\r\n28-Ataré y aseguraré las cargas\r\n30-Los villanos de esta serie son el Team Rocket\r\n32-Vicio físico o moral que marca a quien lo tiene\r\n33-Simple o atontado\r\n34-Aerodactyl\r\n35-El fin de semana, empieza el partido\r\n37-Ivysaur\r\n38-Seduce, cautiva\r\n40-A la dama con alas\r\n43-Ash\r\n44-Se viene abajo con un bloque atravesado* \r\n46-* (viene de la pista anterior)\r\n47-Te partes, te…\r\n49-El que osó oponerse a la extinción (feliz grandioso día)\r\n51-En la cantera cantaré que ustedes se envían misivas\r\n54-¿Hay alguna forma menos culta de que yerren? \r\n55-Poseías a las lombrices solitarias\r\n56-Emití el sonido de las grullas\r\n58-¡Qué risa con Jacob Elordi! \r\n59-Sortear algo\r\n60-En cierta forma lo amedrentó en la catedral parisina\r\n63-Este tío se volvió loco\r\n64-La quintaesencia griega \r\n66-Cerros aislados que dominan un llano\r\n67-El oncólogo que logra eliminar el cáncer de páncreas en animales\r\n69-Esta palabra no es finlandesa,  es de Sajonia \r\n70-Utilizan, emplean\r\n71-Se lava\r\n73-Niñeras, ayas",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,16,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,#,19,#,#,#,#,20,#,#\r\n21,#,#,#,#,#,22,#,#,#,23,24,#,#,#\r\n#,25,#,#,26,#,#,#,#,27,#,#,#,#,#\r\n#,28,#,29,#,#,#,30,31,#,#,#,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,34,#,35,36\r\n37,#,38,#,#,39,#,#,40,#,41,#,42,#,43\r\n44,45,#,46,#,47,#,48,#,#,49,#,#,50,#\r\n#,51,52,#,53,#,#,#,#,54,#,#,#,#,#\r\n55,#,#,#,#,#,#,56,57,#,#,#,58,#,#\r\n59,#,#,#,#,#,60,#,#,#,#,61,#,#,62\r\n63,#,#,#,64,65,#,#,#,66,#,#,#,#,#\r\n67,#,#,68,#,#,#,#,#,69,#,#,#,#,#\r\n70,#,#,#,#,71,#,#,72,#,73,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

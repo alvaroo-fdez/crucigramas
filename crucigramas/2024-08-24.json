@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 743,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-23T21:35:16.531626Z",
+      "updatedAt": "2024-08-23T21:35:16.531650Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-24",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##GRECA#VINCI##\r\n#FRUGAL#OVARIO#\r\nCI#MACHETAZO#BL\r\nALBACEA#ANIMICO\r\nLOEN##JED##ANEN\r\nOSNI#MAMAR#DECA\r\nRODADA#E#ETAPAS\r\n##I#ENGRANE#T##\r\nSACRAS#S#COMIAS\r\nERIO#ACOJA#ITZA\r\nCAOS##ENI##CUCO\r\nABNEGAR#PAGADOR\r\nSI#TIROLIBRE#NC\r\n#AMORES#ABOLIA#\r\n##ENANA#RAGAP##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic. de la modelo argentina, pareja de Cristiano.",
+              "answer": "GR"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "País natal de Vlad el Empalador.",
+              "answer": "RUMANIA"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "El ascenso de Nicolas, el prota de \"Leaving Las Vegas\".",
+              "answer": "EGAC"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Persiga fieras para comerlas.",
+              "answer": "CACE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Joya, adorno de metales o piedras preciosas.",
+              "answer": "ALHAJA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Elegida mediante sufragio popular.",
+              "answer": "VOTADA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"... el terrible\" primer zar de Rusia.",
+              "answer": "IVAN"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Partidario del nacionalsocialismo.",
+              "answer": "NAZI"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Bañada con una sustancia metálica que la hace inoxidable.",
+              "answer": "CROMADA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pause.",
+              "answer": "II"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Afilado.",
+              "answer": "FILOSO"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Ofusca, se empeña en una posición.",
+              "answer": "OBCECA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Claro desajuste que no es propio del clima de invierno.",
+              "answer": "CALOR"
+            },
+            "17": {
+              "col": 14,
+              "row": 2,
+              "clue": "Busca las telas en el salón.",
+              "answer": "LONAS"
+            },
+            "19": {
+              "col": 2,
+              "row": 3,
+              "clue": "Gesto paternal común en la cultura hispana.",
+              "answer": "BENDICION"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Falta total de habilidad o competencia.",
+              "answer": "INEPTITUD"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"... Fittipaldi\" expiloto de F1.",
+              "answer": "EMERSON"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "La bestia es tranquila pero no mensa.",
+              "answer": "MANSA"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Coja por lesión de las caderas.",
+              "answer": "RENCA"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Agencia temida por los narcos.",
+              "answer": "DEA"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Lingüística. Prefijo que refiere a la religión.",
+              "answer": "TEO"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Que carecen de humedad (fem).",
+              "answer": "SECAS"
+            },
+            "36": {
+              "col": 1,
+              "row": 8,
+              "clue": "Península situada en la confluencia de África y Asia.",
+              "answer": "ARABIA"
+            },
+            "37": {
+              "col": 3,
+              "row": 8,
+              "clue": "Arq. Ventana circular calada, con adornos.",
+              "answer": "ROSETON"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"... Torres Palop\"  bailarina y pedagoga española (1937",
+              "answer": "MICAELA"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"Rafael...\" guionista español, ganador de 6 Goyas.",
+              "answer": "AZCONA"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Haces como una rana (inv).",
+              "answer": "SAORC"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Que tiene cera.",
+              "answer": "CEROSA"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Sollozar con fuerza y de manera entrecortada.",
+              "answer": "JIPIAR"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Serie de actuaciones sucesivas de un artista en diferentes localidades.",
+              "answer": "GIRA"
+            },
+            "52": {
+              "col": 5,
+              "row": 11,
+              "clue": "Surquen las tierras.",
+              "answer": "AREN"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Grupo sueco de los 70, autores de Mamma Mía.",
+              "answer": "ABBA"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Agua caliente azucarada mezclada con ron.",
+              "answer": "GROG"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "No llego a fin de mes.",
+              "answer": "ME"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "El número único de mi ordenador es 6141,3.",
+              "answer": "IP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cafetera italiana, moka, macchinetta.",
+              "answer": "GRECA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Leonardo da la última cena.",
+              "answer": "VINCI"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Ser parco en comer y beber.",
+              "answer": "FRUGAL"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Gónada femenina.",
+              "answer": "OVARIO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "101 en numeración romana.",
+              "answer": "CI"
+            },
+            "15": {
+              "col": 3,
+              "row": 2,
+              "clue": "Golpe contundente con arma blanca típica del campo.",
+              "answer": "MACHETAZO"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Inic. del artista marcial más influyente de todos los tiempos.",
+              "answer": "BL"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Balacea enloquecido, a la del testamento.",
+              "answer": "ALBACEA"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Relacionado con el estado de ánimo.",
+              "answer": "ANIMICO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Alaben, den por bueno algo.",
+              "answer": "LOEN"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "El cinturón del tejedor.",
+              "answer": "JED"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "La Daconte cantando frente al espejo.",
+              "answer": "ANEN"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Como el OVNI pero submarino.",
+              "answer": "OSNI"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Tomar la leche directa del pecho.",
+              "answer": "MAMAR"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Prefijo que significa 10 veces.",
+              "answer": "DECA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Filmada, grabada, una peli.",
+              "answer": "RODADA"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Partes en las que se divide el Tour de Francia.",
+              "answer": "ETAPAS"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Encaje las ruedas dentadas.",
+              "answer": "ENGRANE"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sagradas, dignas de veneración.",
+              "answer": "SACRAS"
+            },
+            "38": {
+              "col": 9,
+              "row": 8,
+              "clue": "Masticabas el alimento en la boca y lo pasabas al estómago.",
+              "answer": "COMIAS"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "El misterio de Valerio.",
+              "answer": "ERIO"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Admita en su casa o compañía a alguien.",
+              "answer": "ACOJA"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "“Chichen...\" sitio arqueológico en Yucatán, México.",
+              "answer": "ITZA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "El caso de las ocas del saco da asco porque es un desastre.",
+              "answer": "CAOS"
+            },
+            "48": {
+              "col": 6,
+              "row": 10,
+              "clue": "Un poco enigmático.",
+              "answer": "ENI"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "El pajarito del tiempo.",
+              "answer": "CUCO"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Renunciar voluntariamente a los propios deseos en favor de otros.",
+              "answer": "ABNEGAR"
+            },
+            "53": {
+              "col": 8,
+              "row": 11,
+              "clue": "El que paga la deuda.",
+              "answer": "PAGADOR"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "La última de la escala musical.",
+              "answer": "SI"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "Lanzamiento sin oposición en el fútbol.",
+              "answer": "TIROLIBRE"
+            },
+            "58": {
+              "col": 13,
+              "row": 12,
+              "clue": "Nadia Comaneci no contesta.",
+              "answer": "NC"
+            },
+            "59": {
+              "col": 1,
+              "row": 13,
+              "clue": "Estos son de barra y hay un lápiz de labios mal puesto en el baño.",
+              "answer": "AMORES"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Terminaba con la esclavitud.",
+              "answer": "ABOLIA"
+            },
+            "63": {
+              "col": 2,
+              "row": 14,
+              "clue": "\"... blanca\", estrella en su fase final.",
+              "answer": "ENANA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Lo de saldar la deuda será cuando venga de regreso.",
+              "answer": "RAGAP"
+            }
+          }
+        },
+        "vertical_clues": "1-Inic. de la modelo argentina, pareja de Cristiano.\r\n2-País natal de Vlad el Empalador.\r\n3-El ascenso de Nicolas, el prota de \"Leaving Las Vegas\".\r\n4-Persiga fieras para comerlas.\r\n5-Joya, adorno de metales o piedras preciosas.\r\n6-Elegida mediante sufragio popular. \r\n7-\"... el terrible\" primer zar de Rusia.\r\n8-Partidario del nacionalsocialismo.\r\n9-Bañada con una sustancia metálica que la hace inoxidable.\r\n10-Pause.\r\n11-Afilado. \r\n13-Ofusca, se empeña en una posición.\r\n14-Claro desajuste que no es propio del clima de invierno.\r\n17-Busca las telas en el salón.\r\n19-Gesto paternal común en la cultura hispana. \r\n21-Falta total de habilidad o competencia. \r\n24-\"... Fittipaldi\" expiloto de F1.\r\n27-La bestia es tranquila pero no mensa.\r\n28-Coja por lesión de las caderas.\r\n31-Agencia temida por los narcos.\r\n33-Lingüística. Prefijo que refiere a la religión.\r\n35-Que carecen de humedad (fem).\r\n36-Península situada en la confluencia de África y Asia.\r\n37-Arq. Ventana circular calada, con adornos.\r\n39-\"... Torres Palop\"  bailarina y pedagoga española (1937-2024). \r\n40-\"Rafael...\" guionista español, ganador de 6 Goyas. \r\n41-Haces como una rana (inv).\r\n44-Que tiene cera.\r\n45-Sollozar con fuerza y de manera entrecortada. \r\n51-Serie de actuaciones sucesivas de un artista en diferentes localidades.\r\n52-Surquen las tierras.\r\n54-Grupo sueco de los 70, autores de Mamma Mía.\r\n55-Agua caliente azucarada mezclada con ron.\r\n60-No llego a fin de mes.\r\n62-El número único de mi ordenador es 6141,3.",
+        "horizontal_clues": "1-Cafetera italiana, moka, macchinetta.\r\n6-Leonardo da la última cena.\r\n11-Ser parco en comer y beber.\r\n12-Gónada femenina.\r\n14-101 en numeración romana.\r\n15-Golpe contundente con arma blanca típica del campo. \r\n16-Inic. del artista marcial más influyente de todos los tiempos.\r\n18-Balacea enloquecido, a la del testamento.\r\n20-Relacionado con el estado de ánimo.\r\n22-Alaben, den por bueno algo.\r\n23-El cinturón del tejedor.\r\n25-La Daconte cantando frente al espejo.\r\n26-Como el OVNI pero submarino.\r\n27-Tomar la leche directa del pecho.\r\n29-Prefijo que significa 10 veces.\r\n30-Filmada, grabada, una peli.\r\n32-Partes en las que se divide el Tour de Francia.\r\n34-Encaje las ruedas dentadas.\r\n35-Sagradas, dignas de veneración.\r\n38-Masticabas el alimento en la boca y lo pasabas al estómago.\r\n42-El misterio de Valerio.\r\n43-Admita en su casa o compañía a alguien.\r\n46-“Chichen...\" sitio arqueológico en Yucatán, México.\r\n47-El caso de las ocas del saco da asco porque es un desastre.\r\n48-Un poco enigmático.\r\n49-El pajarito del tiempo.\r\n50-Renunciar voluntariamente a los propios deseos en favor de otros.\r\n53-El que paga la deuda.\r\n56-La última de la escala musical.\r\n57-Lanzamiento sin oposición en el fútbol. \r\n58-Nadia Comaneci no contesta.\r\n59-Estos son de barra y hay un lápiz de labios mal puesto en el baño.\r\n61-Terminaba con la esclavitud.\r\n63-\"... blanca\", estrella en su fase final.\r\n64-Lo de saldar la deuda será cuando venga de regreso.",
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,13,#\r\n14,#,#,15,#,#,#,#,#,#,#,#,#,16,17\r\n18,#,19,#,#,#,#,#,20,#,#,#,21,#,#\r\n22,#,#,#,#,#,23,24,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,#,31,#,#,#,#,32,33,#,#,#,#\r\n#,#,#,#,34,#,#,#,#,#,#,#,#,#,#\r\n35,36,#,37,#,#,#,#,#,38,#,39,#,40,41\r\n42,#,#,#,#,43,44,#,45,#,#,46,#,#,#\r\n47,#,#,#,#,#,48,#,#,#,#,49,#,#,#\r\n50,#,#,#,51,52,#,#,53,54,55,#,#,#,#\r\n56,#,#,57,#,#,#,#,#,#,#,#,#,58,#\r\n#,59,60,#,#,#,#,#,61,#,#,#,62,#,#\r\n#,#,63,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "data": {
+    "id": 8672,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-29T15:22:51.966684Z",
+      "updatedAt": "2026-08-29T15:24:25.625746Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TRASPASAR#DEGAS\r\nREGRESAR#HALAGA\r\nIPO#ZINC#TRITON\r\nBIRD#ASINTIO#NC\r\nUSAIN#ALEPO#PII\r\n#ARCO##LG##MAZO\r\nI##TRAMAR#RIJAN\r\nLABAMBA#EVOCARA\r\nEVADA#IVERNA##S\r\nGELA##SI##CEOS#\r\nICA#FAENA#ALTAR\r\nTI#HILLARY#AOJO\r\nINSANO#GREG#MAT\r\nMARLEY#RELAJADO\r\nOREAS#DESAYUNAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo es, la zulú, la tuareg o la masái",
+              "answer": "TRIBU"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tabla perpendicular a la pared, que sirve para colocar cositas",
+              "answer": "REPISA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Predecir, anunciar, generalmente desdichas",
+              "answer": "AGORAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Inic del cubano que, junto a Luis Eduardo Aute, grabó el álbum 'Mano a mano'",
+              "answer": "SR"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Está cómodo, está como… en el agua",
+              "answer": "PEZ"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "El más poblado de los continentes",
+              "answer": "ASIA"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Personaje de Sophie Turner en 'Juego de tronos'",
+              "answer": "SANSA"
+            },
+            "8": {
+              "col": 7,
+              "row": 0,
+              "clue": "Tierra para moldear",
+              "answer": "ARCILLA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Debió morir a manos de Alejandro y no del sátrapa de Bessos",
+              "answer": "DARIO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… González\", el hijo de los Guerra en 'Aquí no hay quien viva'",
+              "answer": "ELIO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ciudad donde vivía Goliat",
+              "answer": "GAT"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Sufrir angustiosamente",
+              "answer": "AGONIZAR"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Aplicas un castigo o penalidad",
+              "answer": "SANCIONAS"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Primera parte de un link, el protocolo",
+              "answer": "HTTP"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "La sentencia ha sido impuesta, establecida",
+              "answer": "DICTADA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Ennegrezca, pinte de negro",
+              "answer": "NEGREE"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Muy mal, Ramón, apégate a la ley",
+              "answer": "NORMA"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Caña de los cereales, seca y separada del grano",
+              "answer": "PAJA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Canción con nombre de mujer de la Sonora Carruseles de Colombia",
+              "answer": "MICAELA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Carente de validez jurídica (masc)",
+              "answer": "ILEGITIMO"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dos de absenta, por favor",
+              "answer": "AB"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "La maravillosa señora de la serie de Amy Sherman Palladino",
+              "answer": "MAISEL"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "No me deja dormir, hace demasiado ruido",
+              "answer": "RONCA"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Acercar, aproximar",
+              "answer": "AVECINAR"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Proyectil que evoluciona de la piedra",
+              "answer": "BALA"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Gafas de Realidad Virtual",
+              "answer": "VR"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Toque ácido en ensaladas",
+              "answer": "VINAGRE"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Tela de tejido acordonado para vestidos de mujer",
+              "answer": "OTOMAN"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"Ventosa…\" órgano para adherirse a las superficies",
+              "answer": "SAJADA"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"… de semana\" los mejores para descansar",
+              "answer": "FINES"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "La prota del videojuego 'Horizon Forbidden West'",
+              "answer": "ALOY"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Voz usada para estimular a los caballos (pl)",
+              "answer": "ARRES"
+            },
+            "54": {
+              "col": 14,
+              "row": 10,
+              "clue": "Parte giratoria del helicóptero",
+              "answer": "ROTOR"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"… Madrid y nada más\" el himno del Real",
+              "answer": "HALA"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"Mariano…\" uno de los padres de la psicología española",
+              "answer": "YELA"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Secretaría de Relaciones Exteriores",
+              "answer": "SRE"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Persona homosexual",
+              "answer": "GAY"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Risa solapada",
+              "answer": "JU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Atravesar y llegar al otro lado",
+              "answer": "TRASPASAR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "El pintor de las bailarinas",
+              "answer": "DEGAS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Volver",
+              "answer": "REGRESAR"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Mima verbalmente",
+              "answer": "HALAGA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Núcleo de Trípoli",
+              "answer": "IPO"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Elemento químico cuyo símbolo es Zn",
+              "answer": "ZINC"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "El hijo de Poseidón parece un poco tristón",
+              "answer": "TRITON"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"Larry…\", exjugador de baloncesto de los Boston Celtics",
+              "answer": "BIRD"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Dijo que sí sin decirlo",
+              "answer": "ASINTIO"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Iniciales del creador del musical 'Malinche'",
+              "answer": "NC"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Atleta más rápido del mundo",
+              "answer": "USAIN"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "Ciudad de Siria, destruida por la guerra",
+              "answer": "ALEPO"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "El sonido de la censura",
+              "answer": "PII"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Geometría: Porción continua de una curva",
+              "answer": "ARCO"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Laura Gallego, fantástica escritora española autora de 'Finis Mundi'",
+              "answer": "LG"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Martillo grande de madera",
+              "answer": "MAZO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Preparar con astucia un enredo",
+              "answer": "TRAMAR"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Se orienten, se guíen, se…",
+              "answer": "RIJAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Primera canción en español en ocupar el primer puesto en los Billboard Hot 100, en 1987 (dos palabras)",
+              "answer": "LABAMBA"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Recordará, añorará",
+              "answer": "EVOCARA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "No pague impuestos",
+              "answer": "EVADA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Desuso: inverna, refúgiate del frío",
+              "answer": "IVERNA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Fruto: Se seca antes de tiempo, se…",
+              "answer": "GELA"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "La última de la escala musical",
+              "answer": "SI"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Directores ejecutivos",
+              "answer": "CEOS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ubica a la derecha",
+              "answer": "ICA"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Trabajo, labor",
+              "answer": "FAENA"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Mesa donde se celebra el matrimonio religioso",
+              "answer": "ALTAR"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"Edmund …\" el primero en llegar a la cima del monte Everest (1953)",
+              "answer": "HILLARY"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Hago mal de ojo",
+              "answer": "AOJO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Meme: Siempre sano, nunca…",
+              "answer": "INSANO"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "\"… Norman\", famoso golfista australiano",
+              "answer": "GREG"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "Casi lo mato",
+              "answer": "MAT"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Bob, el jamaicano que canta “No Woman, No Cry”",
+              "answer": "MARLEY"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Tranquilo y sin estrés",
+              "answer": "RELAJADO"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Aireas para que seque",
+              "answer": "OREAS"
+            },
+            "68": {
+              "col": 6,
+              "row": 14,
+              "clue": "Romper el ayuno",
+              "answer": "DESAYUNAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Lo es, la zulú, la tuareg o la masái\r\n2-Tabla perpendicular a la pared, que sirve para colocar cositas\r\n3-Predecir, anunciar, generalmente desdichas\r\n4-Inic del cubano que, junto a Luis Eduardo Aute, grabó el álbum 'Mano a mano'\r\n5-Está cómodo, está como… en el agua\r\n6-El más poblado de los continentes\r\n7-Personaje de Sophie Turner en 'Juego de tronos' \r\n8-Tierra para moldear\r\n9-Debió morir a manos de Alejandro y no del sátrapa de Bessos \r\n10-\"… González\", el hijo de los Guerra en 'Aquí no hay quien viva'\r\n11-Ciudad donde vivía Goliat\r\n12-Sufrir angustiosamente\r\n13-Aplicas un castigo o penalidad\r\n15-Primera parte de un link, el protocolo\r\n20-La sentencia ha sido impuesta, establecida\r\n22-Ennegrezca, pinte de negro\r\n25-Muy mal, Ramón, apégate a la ley\r\n27-Caña de los cereales, seca y separada del grano\r\n30-Canción con nombre de mujer de la Sonora Carruseles de Colombia\r\n31-Carente de validez jurídica (masc)\r\n33-Dos de absenta, por favor\r\n34-La maravillosa señora de la serie de Amy Sherman Palladino\r\n35-No me deja dormir, hace demasiado ruido\r\n37-Acercar, aproximar\r\n38-Proyectil que evoluciona de la piedra\r\n40-Gafas de Realidad Virtual\r\n43-Toque ácido en ensaladas\r\n47-Tela de tejido acordonado para vestidos de mujer\r\n48-\"Ventosa…\" órgano para adherirse a las superficies\r\n50-\"… de semana\" los mejores para descansar\r\n51-La prota del videojuego 'Horizon Forbidden West' \r\n52-Voz usada para estimular a los caballos (pl)\r\n54-Parte giratoria del helicóptero\r\n56-\"… Madrid y nada más\" el himno del Real\r\n57-\"Mariano…\" uno de los padres de la psicología española\r\n60-Secretaría de Relaciones Exteriores\r\n62-Persona homosexual\r\n66-Risa solapada",
+        "horizontal_clues": "1-Atravesar y llegar al otro lado\r\n9-El pintor de las bailarinas\r\n14-Volver\r\n15-Mima verbalmente\r\n16-Núcleo de Trípoli\r\n17-Elemento químico cuyo símbolo es Zn\r\n18-El hijo de Poseidón parece un poco tristón\r\n19-\"Larry…\", exjugador de baloncesto de los Boston Celtics\r\n21-Dijo que sí sin decirlo\r\n23-Iniciales del creador del musical 'Malinche'\r\n24-Atleta más rápido del mundo\r\n26-Ciudad de Siria, destruida por la guerra\r\n27-El sonido de la censura\r\n28-Geometría: Porción continua de una curva\r\n29-Laura Gallego, fantástica escritora española autora de 'Finis Mundi'\r\n30-Martillo grande de madera\r\n32-Preparar con astucia un enredo\r\n35-Se orienten, se guíen, se…\r\n36-Primera canción en español en ocupar el primer puesto en los Billboard Hot 100, en 1987 (dos palabras)\r\n39-Recordará, añorará\r\n41-No pague impuestos\r\n42-Desuso: inverna, refúgiate del frío\r\n44-Fruto: Se seca antes de tiempo, se…\r\n45-La última de la escala musical\r\n46-Directores ejecutivos\r\n49-Ubica a la derecha\r\n50-Trabajo, labor\r\n53-Mesa donde se celebra el matrimonio religioso\r\n55-Titanio\r\n56-\"Edmund …\" el primero en llegar a la cima del monte Everest (1953)\r\n58-Hago mal de ojo\r\n59-Meme: Siempre sano, nunca…\r\n61-\"… Norman\", famoso golfista australiano\r\n63-Casi lo mato\r\n64-Bob, el jamaicano que canta “No Woman, No Cry” \r\n65-Tranquilo y sin estrés \r\n67-Aireas para que seque\r\n68-Romper el ayuno",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,8,#,#,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,#,15,#,#,#,#,#\r\n16,#,#,#,17,#,#,#,#,18,#,#,#,#,#\r\n19,#,#,20,#,21,#,#,22,#,#,#,#,23,#\r\n24,#,#,#,25,#,26,#,#,#,#,#,27,#,#\r\n#,28,#,#,#,#,#,29,#,#,#,30,#,#,#\r\n31,#,#,32,#,33,34,#,#,#,35,#,#,#,#\r\n36,37,38,#,#,#,#,#,39,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,#,#,#,#,#,#,#\r\n44,#,#,#,#,#,45,#,#,#,46,#,47,48,#\r\n49,#,#,#,50,51,#,#,52,#,53,#,#,#,54\r\n55,#,#,56,#,#,#,#,#,57,#,58,#,#,#\r\n59,#,60,#,#,#,#,61,#,#,62,#,63,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,66,#,#,#\r\n67,#,#,#,#,#,68,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

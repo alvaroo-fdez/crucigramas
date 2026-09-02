@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1259,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-28T20:09:52.724842Z",
+      "updatedAt": "2024-11-28T20:09:52.791771Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-29",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CIUDAD#MACRAMES\r\nO#DIVA#ALUMNA#A\r\nMASTER#PIPA#DDT\r\nUT#ALEDAÑO#MORI\r\nLEN#L##CONFINAR\r\nGRECA#CH###LAXO\r\nARWEN#UEFA#I###\r\nRETRAER#EYECTAD\r\n###C#PACO#MIAMI\r\nAHRA###US#PAJAS\r\nCOEDITOR##L#ART\r\nOPTO#APROBAD#GO\r\nPAO#CITA#AZARAN\r\nI#MENTAR#BATO#I\r\nAGARRADA#IRONIA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Recibir la eucaristía",
+              "answer": "COMULGAR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "¿Ustedes pueden ser breves?",
+              "answer": "UDS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Andalucía Pago a plazos, en pequeñas cantidades",
+              "answer": "DITA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Fruto seco que tiene la Nutella",
+              "answer": "AVELLANA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Entregaré, donaré",
+              "answer": "DARE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Mamífero norteamericano con antifaz",
+              "answer": "MAPACHE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Adobó, sazonó",
+              "answer": "ALIÑO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Billete para participar en un sorteo de lotería",
+              "answer": "CUPON"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mar revuelto",
+              "answer": "RMA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lo que tienen en común Anaïs Nin y Álvaro Negredo",
+              "answer": "AN"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "La Virgen María",
+              "answer": "MADONA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Hombre fantástico con orejas y patas de cabra y cola de caballo",
+              "answer": "SATIRO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Me asusté no, lo siguiente, me …",
+              "answer": "ATERRE"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "\"… el Destructor\" uno de los Guardianes de la Galaxia",
+              "answer": "DRAX"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Cuerpo de voluntarios armados",
+              "answer": "MILICIA"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"… Scamander\" el magizoólogo de 'Animales Fantásticos'",
+              "answer": "NEWT"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Un terreno cuando ha sido rodeado con vallas",
+              "answer": "CERCADO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Sacerdote encargado",
+              "answer": "CURA"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Desprovistos de belleza",
+              "answer": "FEOS"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Voz usada para expresar dolor",
+              "answer": "AY"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Elsa Pito",
+              "answer": "EP"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Citar a alguien para comparecer ante la justicia",
+              "answer": "EMPLAZAR"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Corta, rebana",
+              "answer": "TAJA"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Que tiene el sabor de la quinina (fem)",
+              "answer": "AMARGA"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "Trastorno del movimiento muscular",
+              "answer": "DISTONIA"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Coloq España Trabajará",
+              "answer": "CURRARA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Junta, reúne granos o  provisiones",
+              "answer": "ACOPIA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Saco de los ajusticiados",
+              "answer": "HOPA"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Reanuda algo que has interrumpido",
+              "answer": "RETOMA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Voz infantil con que se designa al padre",
+              "answer": "TAITA"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Escoged, elegid",
+              "answer": "OPTAD"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Barbara Guillén, la cantante madrileña del tema 'Lo jodiste'",
+              "answer": "BABI"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Antecedente necesario para llegar al conocimiento de algo",
+              "answer": "DATO"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Entrando en un Centro Nacional de Rehabilitación",
+              "answer": "CNR"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"…Weasley\" el mejor amigo de Harry Potter",
+              "answer": "RON"
+            },
+            "63": {
+              "col": 3,
+              "row": 13,
+              "clue": "Símbolo químico de Erbio",
+              "answer": "ER"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Urbe, metrópoli",
+              "answer": "CIUDAD"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Tejidos decorativos a base de nudos",
+              "answer": "MACRAMES"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Es una divina esta artista del espectáculo",
+              "answer": "DIVA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Mal entendido el manual de la estudiante",
+              "answer": "ALUMNA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Programa de posgrado avanzado y especializado",
+              "answer": "MASTER"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Utensilio para fumar",
+              "answer": "PIPA"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Insecticida tóxico prohibido en 1973",
+              "answer": "DDT"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "¿Tú regresas?",
+              "answer": "UT"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Ale dañó la separación del barrio de al lado",
+              "answer": "ALEDAÑO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Sucumbí por la extraña forma en que me miró",
+              "answer": "MORI"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Hilo de mala punta",
+              "answer": "LEN"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Restringir movimientos por emergencia sanitaria",
+              "answer": "CONFINAR"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Cafetera italiana, moka, macchinetta",
+              "answer": "GRECA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "4ª letra del alfabeto hasta su expulsión en el 2010",
+              "answer": "CH"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Flojo, que no tiene la tensión que naturalmente debe tener",
+              "answer": "LAXO"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Princesa élfica de la Tierra Media",
+              "answer": "ARWEN"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Los que organizan la Champions League",
+              "answer": "UEFA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Retirar, retroceder",
+              "answer": "RETRAER"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Expulsad, arrojad",
+              "answer": "EYECTAD"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "\"… Sanz\" famoso estafador español",
+              "answer": "PACO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Ciudad del sureste de Florida, Estados Unidos",
+              "answer": "MIAMI"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "¡Retira la circular y escribe ahora! o lo hará todo mal",
+              "answer": "AHRA"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "En páginas web estadounidenses",
+              "answer": "US"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Cañas de trigo después de secas y separadas del grano",
+              "answer": "PAJAS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Colaborador en una publicación",
+              "answer": "COEDITOR"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "\"… Attack\" el programa que presentaba Jordi Cruz",
+              "answer": "ART"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Se decidió por el topo desorientado",
+              "answer": "OPTO"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Dad curso a una petición",
+              "answer": "APROBAD"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Vamos con los ingleses",
+              "answer": "GO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Paola entre sus amigas",
+              "answer": "PAO"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Encuentro de Tinder",
+              "answer": "CITA"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Turban, trastornan, sobresaltan",
+              "answer": "AZARAN"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Nombrar o hacer referencia a alguien",
+              "answer": "MENTAR"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Agito, muevo",
+              "answer": "BATO"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Discusión acalorada",
+              "answer": "AGARRADA"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Burla fina y disimulada",
+              "answer": "IRONIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Recibir la eucaristía \r\n2-¿Ustedes pueden ser breves? \r\n3-Andalucía Pago a plazos, en pequeñas cantidades\r\n4-Fruto seco que tiene la Nutella\r\n5-Entregaré, donaré\r\n6-Mamífero norteamericano con antifaz \r\n7-Adobó, sazonó\r\n8-Billete para participar en un sorteo de lotería\r\n9-Mar revuelto\r\n10-Lo que tienen en común Anaïs Nin y Álvaro Negredo\r\n11-La Virgen María\r\n12-Hombre fantástico con orejas y patas de cabra y cola de caballo\r\n16-Me asusté no, lo siguiente, me …\r\n19-\"… el Destructor\" uno de los Guardianes de la Galaxia \r\n22-Cuerpo de voluntarios armados \r\n24-\"… Scamander\" el magizoólogo de 'Animales Fantásticos'\r\n27-Un terreno cuando ha sido rodeado con vallas \r\n28-Sacerdote encargado\r\n32-Desprovistos de belleza\r\n33-Voz usada para expresar dolor\r\n35-Elsa Pito\r\n37-Citar a alguien para comparecer ante la justicia \r\n38-Corta, rebana\r\n39-Que tiene el sabor de la quinina (fem)\r\n40-Trastorno del movimiento muscular \r\n42-Coloq España Trabajará\r\n44-Junta, reúne granos o  provisiones\r\n45-Saco de los ajusticiados\r\n46-Reanuda algo que has interrumpido\r\n50-Voz infantil con que se designa al padre\r\n51-Escoged, elegid\r\n55-Barbara Guillén, la cantante madrileña del tema 'Lo jodiste'\r\n56-Antecedente necesario para llegar al conocimiento de algo\r\n59-Entrando en un Centro Nacional de Rehabilitación\r\n61-\"…Weasley\" el mejor amigo de Harry Potter\r\n63-Símbolo químico de Erbio\r\n",
+        "horizontal_clues": "1-Urbe, metrópoli\r\n6-Tejidos decorativos a base de nudos\r\n13-Es una divina esta artista del espectáculo\r\n14-Mal entendido el manual de la estudiante\r\n15-Programa de posgrado avanzado y especializado\r\n17-Utensilio para fumar\r\n18-Insecticida tóxico prohibido en 1973\r\n20-¿Tú regresas? \r\n21-Ale dañó la separación del barrio de al lado\r\n22-Sucumbí por la extraña forma en que me miró\r\n23-Hilo de mala punta\r\n25-Restringir movimientos por emergencia sanitaria \r\n26-Cafetera italiana, moka, macchinetta\r\n28-4ª letra del alfabeto hasta su expulsión en el 2010\r\n29-Flojo, que no tiene la tensión que naturalmente debe tener\r\n30-Princesa élfica de la Tierra Media \r\n31-Los que organizan la Champions League\r\n34-Retirar, retroceder\r\n36-Expulsad, arrojad\r\n41-\"… Sanz\" famoso estafador español\r\n43-Ciudad del sureste de Florida, Estados Unidos\r\n44-¡Retira la circular y escribe ahora! o lo hará todo mal\r\n47-En páginas web estadounidenses\r\n48-Cañas de trigo después de secas y separadas del grano\r\n49-Colaborador en una publicación \r\n52-\"… Attack\" el programa que presentaba Jordi Cruz\r\n53-Se decidió por el topo desorientado\r\n54-Dad curso a una petición\r\n57-Vamos con los ingleses \r\n58-Paola entre sus amigas\r\n59-Encuentro de Tinder\r\n60-Turban, trastornan, sobresaltan\r\n62-Nombrar o hacer referencia a alguien \r\n64-Agito, muevo\r\n65-Discusión acalorada \r\n66-Burla fina y disimulada\r\n",
+        "board_clues_positions": "1,#,2,3,4,5,#,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,16,#,#,#,#,#,17,#,#,#,#,18,19,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,#,#\r\n23,#,24,#,#,#,#,25,#,#,#,#,#,#,#\r\n26,#,#,27,#,#,28,#,#,#,#,29,#,#,#\r\n30,#,#,#,#,#,31,#,32,33,#,#,#,#,#\r\n34,#,#,#,#,35,#,#,36,#,37,#,38,39,40\r\n#,#,#,#,#,41,#,42,#,#,43,#,#,#,#\r\n44,45,46,#,#,#,#,47,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,51,#,#,#,#,#,52,#,#\r\n53,#,#,#,#,54,#,#,#,55,#,56,#,57,#\r\n58,#,#,#,59,#,#,#,#,60,#,#,61,#,#\r\n#,#,62,63,#,#,#,#,#,64,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,#,66,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

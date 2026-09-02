@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 1894,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-10T18:11:06.700424Z",
+      "updatedAt": "2025-03-11T10:47:23.119502Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-11",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#SALAR#REFORMA#\r\nDIRIMA#U#IVERNA\r\nERE#EYACULA#SEL\r\nCO#ENAMORADA#XP\r\nOPINO#P#N#OPRAH\r\nREME#SOLAR#RUSA\r\nA#AMEIS#SOPOR##\r\nRUGI#T###T#XAVI\r\n##ISLAM#DEBIL#N\r\nSANT#ROCES#MEDI\r\nAFEAR#D#V#BASIE\r\nBR#DEGENERAR#ES\r\nRIN#MOLINAR#TNT\r\nACIDEZ#Ñ#IDIOTA\r\n#ATESORA#ZAIRE#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "De chocolate, fresa o caramelo, el líquido que baña al helado",
+              "answer": "SIROPE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Labré la tierra",
+              "answer": "ARE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"Cincuenta y uno\" en números romanos",
+              "answer": "LI"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Grato, placentero",
+              "answer": "AMENO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Línea recta y delgada",
+              "answer": "RAYA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Viejo, inútil",
+              "answer": "RUCO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Serie de personas colocadas en línea",
+              "answer": "FILA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Ha puesto sus huevos, ha…",
+              "answer": "OVADO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Iniciales en el asunto del email, al ser una respuesta",
+              "answer": "RE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Abreviatura de \"señora\" en inglés",
+              "answer": "MRS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Agregas, adjuntas",
+              "answer": "ANEXAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Hacer que un lugar se vea más bonito",
+              "answer": "DECORAR"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "El macho dominante, el macho…",
+              "answer": "ALPHA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Copos de nieve",
+              "answer": "AMPOS"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Las runas más complejas están en las arcas",
+              "answer": "URNAS"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Hostilidad en dos personas",
+              "answer": "ENEMISTAD"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Estimar un valor cercano al real sin ser exacto",
+              "answer": "APROXIMAR"
+            },
+            "25": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"… all the peoples living life in peace\" Lennon y Yoko",
+              "answer": "IMAGINE"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Pertenecientes o relativos a la vida del campo y a sus labores",
+              "answer": "RURALES"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Instrumento musical tradicional de la India",
+              "answer": "SITAR"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Cambies de turnos",
+              "answer": "ROTES"
+            },
+            "36": {
+              "col": 14,
+              "row": 7,
+              "clue": "Futbolista español, excentrocampista del FC",
+              "answer": "INIESTA"
+            },
+            "38": {
+              "col": 6,
+              "row": 8,
+              "clue": "Modelo estadounidense",
+              "answer": "MODEL"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "Sobrevén, sucede",
+              "answer": "DEVEN"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Conocerá, estará al corriente",
+              "answer": "SABRA"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Waka waka (Esto es…) canción del Mundial 2010",
+              "answer": "AFRICA"
+            },
+            "44": {
+              "col": 13,
+              "row": 9,
+              "clue": "El incisivo o el canino",
+              "answer": "DIENTE"
+            },
+            "46": {
+              "col": 4,
+              "row": 10,
+              "clue": "Impelas manualmente la embarcación en el agua",
+              "answer": "REMES"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "Arnés que protegía al caballo en la guerra",
+              "answer": "BARDA"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Deleite, satisfacción, gusto",
+              "answer": "GOZO"
+            },
+            "51": {
+              "col": 7,
+              "row": 11,
+              "clue": "Entre bebé y adolescente (fem)",
+              "answer": "NIÑA"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Principio o motivo esencial de algo",
+              "answer": "RAIZ"
+            },
+            "55": {
+              "col": 2,
+              "row": 12,
+              "clue": "Una noche en Valencia",
+              "answer": "NIT"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Son medio torpes",
+              "answer": "TOR"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "\"… mí para ti\"",
+              "answer": "DE"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Par de flacas",
+              "answer": "II"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Curar con sal carnes",
+              "answer": "SALAR"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Las formaré a lo loco, para una remodelación",
+              "answer": "REFORMA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Resuelva o solucione una disputa",
+              "answer": "DIRIMA"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Desuso Inverna, refúgiate del frío",
+              "answer": "IVERNA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Caeré en el oriente",
+              "answer": "ERE"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Lanza con rapidez y fuerza el contenido del órgano masculino",
+              "answer": "EYACULA"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Terreno circular destinado al pastoreo",
+              "answer": "SEL"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Símbolo químico del cobalto",
+              "answer": "CO"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Prendada de amor por alguien",
+              "answer": "ENAMORADA"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Puntos de experiencia en un videojuego",
+              "answer": "XP"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Me hizo saber su criterio",
+              "answer": "OPINO"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Presentadora del programa de entrevistas más visto en la historia de la TV de USA",
+              "answer": "OPRAH"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Trabajé con el remo para impeler la barca en el agua",
+              "answer": "REME"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Porción de terreno que se destina a edificar",
+              "answer": "SOLAR"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Nacionalidad de María Sharápova",
+              "answer": "RUSA"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Queráis",
+              "answer": "AMEIS"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Adormecimiento, somnolencia",
+              "answer": "SOPOR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Di bramidos, como el león de arriba",
+              "answer": "RUGI"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… Hernández\" exfutbolista español canterano del Barça",
+              "answer": "XAVI"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "Religión cuyo dogma se basa en el Corán",
+              "answer": "ISLAM"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "Endeble, canijo, frágil",
+              "answer": "DEBIL"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Santo en catalán",
+              "answer": "SANT"
+            },
+            "42": {
+              "col": 5,
+              "row": 9,
+              "clue": "Toques ligeramente algo",
+              "answer": "ROCES"
+            },
+            "43": {
+              "col": 11,
+              "row": 9,
+              "clue": "Comparé una cantidad con su unidad respectiva",
+              "answer": "MEDI"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Poner algo feo",
+              "answer": "AFEAR"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "\"Count…\" la leyenda del jazz",
+              "answer": "BASIE"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Bromo",
+              "answer": "BR"
+            },
+            "49": {
+              "col": 3,
+              "row": 11,
+              "clue": "Deteriorar progresivamente",
+              "answer": "DEGENERAR"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "Dominio web para España",
+              "answer": "ES"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pieza metálica central de la rueda de un vehículo",
+              "answer": "RIN"
+            },
+            "56": {
+              "col": 4,
+              "row": 12,
+              "clue": "Sitio donde están los molinos",
+              "answer": "MOLINAR"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Siglas explosivas",
+              "answer": "TNT"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Sabor agraz de boca,  por exceso de ácido en el estómago",
+              "answer": "ACIDEZ"
+            },
+            "60": {
+              "col": 9,
+              "row": 13,
+              "clue": "Corto de entendimiento",
+              "answer": "IDIOTA"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Acumula dinero y joyas",
+              "answer": "ATESORA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Antiguo nombre de la República Democrática del Congo",
+              "answer": "ZAIRE"
+            }
+          }
+        },
+        "vertical_clues": "1-De chocolate, fresa o caramelo, el líquido que baña al helado\r\n2-Labré la tierra\r\n3-\"Cincuenta y uno\" en números romanos\r\n4-Grato, placentero\r\n5-Línea recta y delgada \r\n6-Viejo, inútil\r\n7-Serie de personas colocadas en línea\r\n8-Ha puesto sus huevos, ha…\r\n9-Iniciales en el asunto del email, al ser una respuesta\r\n10-Abreviatura de \"señora\" en inglés\r\n11-Agregas, adjuntas\r\n12-Hacer que un lugar se vea más bonito\r\n14-El macho dominante, el macho…\r\n17-Copos de nieve\r\n18-Las runas más complejas están en las arcas\r\n21-Hostilidad en dos personas \r\n22-Estimar un valor cercano al real sin ser exacto \r\n25-\"… all the peoples living life in peace\" Lennon y Yoko\r\n27-Pertenecientes o relativos a la vida del campo y a sus labores\r\n29-Instrumento musical tradicional de la India\r\n30-Cambies de turnos\r\n36-Futbolista español, excentrocampista del FC\r\n38-Modelo estadounidense\r\n39-Sobrevén, sucede\r\n40-Conocerá, estará al corriente\r\n41-Waka waka (Esto es…) canción del Mundial 2010\r\n44-El incisivo o el canino\r\n46-Impelas manualmente la embarcación en el agua\r\n47-Arnés que protegía al caballo en la guerra\r\n50-Deleite, satisfacción, gusto\r\n51-Entre bebé y adolescente (fem)\r\n52-Principio o motivo esencial de algo\r\n55-Una noche en Valencia \r\n57-Son medio torpes\r\n59-\"… mí para ti\" \r\n61-Par de flacas",
+        "horizontal_clues": "1-Curar con sal carnes\r\n6-Las formaré a lo loco, para una remodelación\r\n12-Resuelva o solucione una disputa\r\n13-Desuso Inverna, refúgiate del frío\r\n15-Caeré en el oriente \r\n16-Lanza con rapidez y fuerza el contenido del órgano masculino\r\n19-Terreno circular destinado al pastoreo\r\n20-Símbolo químico del cobalto\r\n21-Prendada de amor por alguien\r\n23-Puntos de experiencia en un videojuego\r\n24-Me hizo saber su criterio\r\n26-Presentadora del programa de entrevistas más visto en la historia de la TV de USA\r\n28-Trabajé con el remo para impeler la barca en el agua\r\n29-Porción de terreno que se destina a edificar\r\n31-Nacionalidad de María Sharápova\r\n32-Queráis\r\n33-Adormecimiento, somnolencia\r\n34-Di bramidos, como el león de arriba\r\n35-\"… Hernández\" exfutbolista español canterano del Barça\r\n37-Religión cuyo dogma se basa en el Corán\r\n39-Endeble, canijo, frágil\r\n40-Santo en catalán\r\n42-Toques ligeramente algo\r\n43-Comparé una cantidad con su unidad respectiva\r\n45-Poner algo feo\r\n47-\"Count…\" la leyenda del jazz \r\n48-Bromo\r\n49-Deteriorar progresivamente \r\n53-Dominio web para España\r\n54-Pieza metálica central de la rueda de un vehículo\r\n56-Sitio donde están los molinos\r\n57-Siglas explosivas\r\n58-Sabor agraz de boca,  por exceso de ácido en el estómago\r\n60-Corto de entendimiento\r\n62-Acumula dinero y joyas\r\n63-Antiguo nombre de la República Democrática del Congo",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,#,16,#,17,#,18,#,#,#,19,#,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,23,#\r\n24,#,25,#,#,#,#,#,#,#,26,#,27,#,#\r\n28,#,#,#,#,29,#,#,#,30,#,31,#,#,#\r\n#,#,32,#,#,#,#,#,33,#,#,#,#,#,#\r\n34,#,#,#,#,#,#,#,#,#,#,35,#,#,36\r\n#,#,37,#,#,#,38,#,39,#,#,#,#,#,#\r\n40,41,#,#,#,42,#,#,#,#,#,43,#,44,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,50,#,51,#,52,#,#,#,53,#\r\n54,#,55,#,56,#,#,#,#,#,#,#,57,#,#\r\n58,#,#,59,#,#,#,#,#,60,#,61,#,#,#\r\n#,62,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

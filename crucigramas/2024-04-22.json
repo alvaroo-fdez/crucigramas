@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 198,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-04-19T11:40:42.994147Z",
+      "updatedAt": "2024-05-22T11:09:19.073258Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-04-22",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#OVULABA#KOALA#\r\nCLASIFICAN#ZOLA\r\nELLIE#EUR#CURTI\r\nBAGA#ABAJA#LEER\r\nE#A##PERET##SRE\r\nNP#CLARINETE#NA\r\n#ODIAR#O#MALDAD\r\nACORTAR#SOLDADO\r\nPANCIT#M#RIEGO#\r\nEH#ANOTACION#RO\r\nGOA##SALAZ##K#B\r\nUNCE#OLIVA#TEME\r\nETOLA#ACA#PUBIS\r\nNATO#PRINCIPADO\r\n#SOYYO#AIREABA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La cacerola de Lola está extraviada.",
+              "answer": "OLLA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cueste, merezca la pena.",
+              "answer": "VALGA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Vuestra señoría.",
+              "answer": "USIA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ate, asegure los fardos.",
+              "answer": "LIE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Dominio web de Afganistán.",
+              "answer": "AF"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"Justin...\" cantante pop canadiense (ya tiene 30 años).",
+              "answer": "BIEBER"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Signo del zodiaco que parece de agua de río pero, es de aire.",
+              "answer": "ACUARIO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Símbolo del nudo (unidad de medida de velocidad).",
+              "answer": "KN"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Color del príncipe perfecto.",
+              "answer": "AZUL"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Señores, nobles británicos.",
+              "answer": "LORES"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Máquina que transforma la energía mecánica en corriente eléctrica alterna.",
+              "answer": "ALTERNADOR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Engorden a los animales.",
+              "answer": "CEBEN"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Extremo derecho holandés del Bayern de Múnich.",
+              "answer": "ARJEN"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Ventilado.",
+              "answer": "AIREADO"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Desmedido, exagerado.",
+              "answer": "APARATOSO"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Intimida, apoca.",
+              "answer": "ATEMORIZA"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Disney. Princesa indígena norteamericana.",
+              "answer": "POCAHONTAS"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Gramática. Preposición que sugiere \"alrededor de\".",
+              "answer": "CIRCA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "De esta lengua deriva el idioma rumano.",
+              "answer": "LATIN"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Elemento químico cuyo símbolo es TI (con mayúsculas).",
+              "answer": "TALIO"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"... Ring\" Premio GOTY como mejor videojuego del 2022.",
+              "answer": "ELDEN"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "La dádiva de un señor.",
+              "answer": "DON"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"Día\" en sueco.",
+              "answer": "DAG"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Inclinen, formen vínculos hacia alguien.",
+              "answer": "APEGUEN"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Alicia M. actúa con mucha maldad.",
+              "answer": "MALICIA"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Cortar un árbol desde la base.",
+              "answer": "TALAR"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "El Matador uruguayo del Valencia Club de Fútbol.",
+              "answer": "CAVANI"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Excesivamente gordo.",
+              "answer": "OBESO"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Delimito un espacio.",
+              "answer": "ACOTO"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "\"Doner...\" pinchos del Medio Oriente cocinados en un asador giratorio vertical.",
+              "answer": "KEBAB"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "El hombre del día.",
+              "answer": "ELOY"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Apriete algo, llene a tope.",
+              "answer": "TUPA"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Determine la estatura de alguien.",
+              "answer": "MIDA"
+            },
+            "58": {
+              "col": 10,
+              "row": 12,
+              "clue": "Extremidad de la pierna.",
+              "answer": "PIE"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "Lo que queda de Alepo.",
+              "answer": "PO"
+            },
+            "61": {
+              "col": 9,
+              "row": 13,
+              "clue": "Símbolo químico del cromo.",
+              "answer": "CR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Expulsaba del ovario el gameto femenino.",
+              "answer": "OVULABA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Animal australiano que solo come hojas de eucalipto.",
+              "answer": "KOALA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Lo hacen los taxónomos.",
+              "answer": "CLASIFICAN"
+            },
+            "14": {
+              "col": 11,
+              "row": 1,
+              "clue": "\"Emile...\" francés autor del libro 'Thérèse Raquin' y 'Nana'.",
+              "answer": "ZOLA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "La personaje principal del videojuego 'The Last of Us'.",
+              "answer": "ELLIE"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "No me alcanzan los euros.",
+              "answer": "EUR"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Traté y preparé las pieles.",
+              "answer": "CURTI"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cápsula que contiene la linaza.",
+              "answer": "BAGA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Veterinaria. Corta mucho del casco de las caballerías.",
+              "answer": "ABAJA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Hacerlo en papel es mejor que en la pantalla.",
+              "answer": "LEER"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "El rey de rumba catalana (1935",
+              "answer": "PERET"
+            },
+            "24": {
+              "col": 12,
+              "row": 4,
+              "clue": "Secretaría de Relaciones Exteriores.",
+              "answer": "SRE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Neptunio.",
+              "answer": "NP"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Instrumento musical de viento.",
+              "answer": "CLARINETE"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Símbolo químico del Sodio.",
+              "answer": "NA"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Detestar la radio descompuesta.",
+              "answer": "ODIAR"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Malicia, malignidad, crueldad.",
+              "answer": "MALDAD"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "A picar y a recortar..",
+              "answer": "ACORTAR"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "¿Víctima y victimario de la guerra? Dos lados en una palabra.",
+              "answer": "SOLDADO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Fideo hecho de harina de arroz en Filipinas.",
+              "answer": "PANCIT"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Esparzo agua sobre las plantas.",
+              "answer": "RIEGO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Interjección usada para preguntar o llamar.",
+              "answer": "EH"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Notas, apuntes, citas.",
+              "answer": "ANOTACION"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Roque no tiene más preguntas.",
+              "answer": "RO"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ciudad hindú, cuna de un psychedelic trance más orgánico.",
+              "answer": "GOA"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Muy inclinado a la lujuria.",
+              "answer": "SALAZ"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Amarra, enlaza a los bueyes, los...",
+              "answer": "UNCE"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Aceite ideal para las ensaladas.",
+              "answer": "OLIVA"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Sospecha, desconfía, recela.",
+              "answer": "TEME"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Relativo a Etolia, Grecia (fem).",
+              "answer": "ETOLA"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Aquí, llegando a Acapulco.",
+              "answer": "ACA"
+            },
+            "58": {
+              "col": 10,
+              "row": 12,
+              "clue": "Monte de Venus.",
+              "answer": "PUBIS"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Nació con ese don, él es un escritor...",
+              "answer": "NATO"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "El de Mónaco o el de Asturias.",
+              "answer": "PRINCIPADO"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"Y no te preocupes si no te aprueban / cuando te critiquen, tú solo di...\" Bomba Estéreo (2p).",
+              "answer": "SOYYO"
+            },
+            "63": {
+              "col": 7,
+              "row": 14,
+              "clue": "Ventilaba.",
+              "answer": "AIREABA"
+            }
+          }
+        },
+        "vertical_clues": "1-La cacerola de Lola está extraviada.\r\n2-Cueste, merezca la pena.\r\n3-Vuestra señoría.\r\n4-Ate, asegure los fardos.\r\n5-Dominio web de Afganistán.\r\n6-\"Justin...\" cantante pop canadiense (ya tiene 30 años).\r\n7-Signo del zodiaco que parece de agua de río pero, es de aire.\r\n8-Símbolo del nudo (unidad de medida de velocidad).\r\n9-Color del príncipe perfecto. \r\n10-Señores, nobles británicos.\r\n11-Máquina que transforma la energía mecánica en corriente eléctrica alterna.\r\n12-Engorden a los animales.\r\n13-Extremo derecho holandés del Bayern de Múnich.\r\n15-Ventilado.\r\n20-Desmedido, exagerado.\r\n21-Intimida, apoca.\r\n26-Disney. Princesa indígena norteamericana.\r\n27-Gramática. Preposición que sugiere \"alrededor de\".\r\n28-De esta lengua deriva el idioma rumano.\r\n29-Elemento químico cuyo símbolo es TI (con mayúsculas). \r\n30-\"... Ring\" Premio GOTY como mejor videojuego del 2022.\r\n33-La dádiva de un señor.\r\n35-\"Día\" en sueco.\r\n36-Inclinen, formen vínculos hacia alguien.\r\n39-Alicia M. actúa con mucha maldad.\r\n43-Cortar un árbol desde la base.\r\n44-El Matador uruguayo del Valencia Club de Fútbol.\r\n46-Excesivamente gordo.\r\n48-Delimito un espacio.\r\n50-\"Doner...\" pinchos del Medio Oriente cocinados en un asador giratorio vertical.\r\n52-El hombre del día.\r\n54-Apriete algo, llene a tope.\r\n55-Determine la estatura de alguien.\r\n58-Extremidad de la pierna.\r\n60-Lo que queda de Alepo.\r\n61-Símbolo químico del cromo.",
+        "horizontal_clues": "1-Expulsaba del ovario el gameto femenino.\r\n8-Animal australiano que solo come hojas de eucalipto.\r\n12-Lo hacen los taxónomos.\r\n14-\"Emile...\" francés autor del libro 'Thérèse Raquin' y 'Nana'.\r\n16-La personaje principal del videojuego 'The Last of Us'.\r\n17-No me alcanzan los euros.\r\n18-Traté y preparé las pieles.\r\n19-Cápsula que contiene la linaza.\r\n20-Veterinaria. Corta mucho del casco de las caballerías.\r\n22-Hacerlo en papel es mejor que en la pantalla.\r\n23-El rey de rumba catalana (1935-2014). \r\n24-Secretaría de Relaciones Exteriores.\r\n25-Neptunio.\r\n27-Instrumento musical de viento.\r\n31-Símbolo químico del Sodio.\r\n32-Detestar la radio descompuesta.\r\n34-Malicia, malignidad, crueldad.\r\n36-A picar y a recortar..\r\n37-¿Víctima y victimario de la guerra? Dos lados en una palabra.\r\n38-Fideo hecho de harina de arroz en Filipinas.\r\n40-Esparzo agua sobre las plantas.\r\n41-Interjección usada para preguntar o llamar.\r\n42-Notas, apuntes, citas.\r\n45-Roque no tiene más preguntas.\r\n47-Ciudad hindú, cuna de un psychedelic trance más orgánico.\r\n49-Muy inclinado a la lujuria.\r\n51-Amarra, enlaza a los bueyes, los...\r\n53-Aceite ideal para las ensaladas.\r\n54-Sospecha, desconfía, recela.\r\n56-Relativo a Etolia, Grecia (fem).\r\n57-Aquí, llegando a Acapulco.\r\n58-Monte de Venus.\r\n59-Nació con ese don, él es un escritor...\r\n60-El de Mónaco o el de Asturias.\r\n62-\"Y no te preocupes si no te aprueban / cuando te critiquen, tú solo di...\" Bomba Estéreo (2p). \r\n63-Ventilaba.",
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,#,9,10,11,#\r\n12,#,#,#,#,#,#,#,13,#,#,14,#,#,15\r\n16,#,#,#,#,#,17,#,#,#,18,#,#,#,#\r\n19,#,#,#,#,20,#,#,#,21,#,22,#,#,#\r\n#,#,#,#,#,23,#,#,#,#,#,#,24,#,#\r\n25,26,#,27,28,#,#,#,#,#,29,30,#,31,#\r\n#,32,33,#,#,#,#,#,#,34,#,#,35,#,#\r\n36,#,#,#,#,#,#,#,37,#,#,#,#,#,#\r\n38,#,#,#,#,#,#,39,#,40,#,#,#,#,#\r\n41,#,#,42,#,#,43,#,44,#,#,#,#,45,46\r\n47,#,48,#,#,49,#,#,#,#,#,#,50,#,#\r\n51,#,#,52,#,53,#,#,#,#,#,54,#,55,#\r\n56,#,#,#,#,#,57,#,#,#,58,#,#,#,#\r\n59,#,#,#,#,60,#,#,#,61,#,#,#,#,#\r\n#,62,#,#,#,#,#,63,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 2287,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T16:33:46.398223Z",
+      "updatedAt": "2025-04-29T18:05:55.562796Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-14",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TAP#PATRICK#AAC\r\nESTRIBO#NAVARRO\r\nJEA#PECHERA#IAR\r\nA##CASA#PISA##O\r\nNASO##SAT##PRAN\r\nOMEM#DEDAL#REZA\r\nSARAPE#A#ADOBAR\r\n#SERIA#N#BABOR#\r\nDANCING#ARRASAS\r\nUREA#DRIZA#DONE\r\nR###CRUZADO###Ñ\r\nACR#LEÑADOR#AGU\r\nBRASA#IRA#LOGRE\r\nLESIVA#A#MANUEL\r\nEPOPEYA#PASIEGO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hombres nacidos y criados en el estado Texas, USA",
+              "answer": "TEJANOS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Agarra",
+              "answer": "ASE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "La puerta pequeña",
+              "answer": "PTA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Utensilio para fumar",
+              "answer": "PIPA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cabes, si pierdes cien kilos",
+              "answer": "ABES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Ejercitase el sentido del tacto",
+              "answer": "TOCASE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Incapaz, torpe, no apta",
+              "answer": "INEPTA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "De color pardo o plomizo",
+              "answer": "CARI"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Bebida tradicional eslava y báltica a base de harina y malta",
+              "answer": "KVAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cariñosamente, Ariana",
+              "answer": "ARI"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Constelación vecina de Escorpio",
+              "answer": "ARA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Ajedrez Alcanzar con un peón la última fila del tablero",
+              "answer": "CORONAR"
+            },
+            "18": {
+              "col": 3,
+              "row": 3,
+              "clue": "Tolkien \"La…\" la tierra que habitan los hobbits",
+              "answer": "COMARCA"
+            },
+            "20": {
+              "col": 11,
+              "row": 3,
+              "clue": "Dad curso a una petición",
+              "answer": "APROBAD"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Amarás como loco el faenar del panadero",
+              "answer": "AMASAR"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Sosiegue, tranquilice algo",
+              "answer": "SERENE"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "El primer nudista",
+              "answer": "ADAN"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Se derramó por encima del borde",
+              "answer": "REBOSO"
+            },
+            "28": {
+              "col": 13,
+              "row": 4,
+              "clue": "Turban, trastornan, sobresaltan",
+              "answer": "AZARAN"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"Fabrizio…\" cantautor, poeta y escritor italiano (1940",
+              "answer": "DEANDRE"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Tallado, repujado, cincelado",
+              "answer": "LABRADO"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "El sonido de la censura",
+              "answer": "PII"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Una doctora mala",
+              "answer": "DAR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Resistente y de larga duración",
+              "answer": "DURABLE"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Amenacé vocalmente como un animal",
+              "answer": "GRUÑI"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Azadón, instrumento de pala cuadrangular",
+              "answer": "AZADA"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "El sueño del loco es ser la atracción de las aves",
+              "answer": "SEÑUELO"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Raiza está conflictuada porque subirá el estandarte",
+              "answer": "IZARA"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Patrón rítmico es 2/3 o 3/2",
+              "answer": "CLAVE"
+            },
+            "48": {
+              "col": 10,
+              "row": 10,
+              "clue": "Bordes decorados de paños, telas y vestidos",
+              "answer": "ORLAS"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Tortita francesa",
+              "answer": "CREP"
+            },
+            "51": {
+              "col": 2,
+              "row": 11,
+              "clue": "Milicia Que no tiene un título que lo distinga",
+              "answer": "RASO"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Rebaje con agua, una bebida",
+              "answer": "AGUE"
+            },
+            "54": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"… Norman\", famoso golfista australiano",
+              "answer": "GREG"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Orina de espaldas",
+              "answer": "SIP"
+            },
+            "59": {
+              "col": 11,
+              "row": 12,
+              "clue": "Ogro del folklore japonés",
+              "answer": "ONI"
+            },
+            "61": {
+              "col": 5,
+              "row": 13,
+              "clue": "Voz usada para expresar dolor",
+              "answer": "AY"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Iniciales del emperador romano, autor de 'Meditaciones'",
+              "answer": "MA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Baile estadounidense conocido como claqué",
+              "answer": "TAP"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"… Criado\" interpretó a Nuño en \"Águila Roja\"",
+              "answer": "PATRICK"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Academia de Artes Culinarias",
+              "answer": "AAC"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Donde el jinete apoya su pie",
+              "answer": "ESTRIBO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"Pepe…\" presentador español",
+              "answer": "NAVARRO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tributo que se pagaba antiguamente en Castilla y Andalucía",
+              "answer": "JEA"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Tela que cubre a un futbolista mientras entrena",
+              "answer": "PECHERA"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Industria Aeronáutica Rumana (siglas)",
+              "answer": "IAR"
+            },
+            "18": {
+              "col": 3,
+              "row": 3,
+              "clue": "\"Mi… es la tuya\" puedes venir cuando quieras",
+              "answer": "CASA"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "La torre inclinada de…",
+              "answer": "PISA"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Grupo indígena localizado al noroeste de Panamá",
+              "answer": "NASO"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "¿Un satélite para todos?",
+              "answer": "SAT"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Líder criminal de una cárcel",
+              "answer": "PRAN"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "El tonto viene subiendo",
+              "answer": "OMEM"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Utensilio para proteger el dedo al coser",
+              "answer": "DEDAL"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Ora, ruega",
+              "answer": "REZA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cobertor típico mexicano, de colores vivos",
+              "answer": "SARAPE"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Aderezar, condimentar",
+              "answer": "ADOBAR"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Severa en el semblante, modo de mirar y hablar",
+              "answer": "SERIA"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Costado izquierdo del barco, mirando de popa a proa",
+              "answer": "BABOR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"… in the Dark\" canción de Bruce Springsteen (1984)",
+              "answer": "DANCING"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Echas por tierra, destruyes",
+              "answer": "ARRASAS"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Sustancia orgánica tóxica expulsada a través de la orina",
+              "answer": "UREA"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Marina Cuerda o cabo con que se izan y arrían las vergas",
+              "answer": "DRIZA"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "Cedí parte de mi patrimonio",
+              "answer": "DONE"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Caballero medieval en las Cruzadas",
+              "answer": "CRUZADO"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Torso de alacrán",
+              "answer": "ACR"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Oficio de quien trabaja la leña",
+              "answer": "LEÑADOR"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Aguantará muy poco",
+              "answer": "AGU"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Carbón encendido",
+              "answer": "BRASA"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "La rabia de Shakira",
+              "answer": "IRA"
+            },
+            "58": {
+              "col": 10,
+              "row": 12,
+              "clue": "Lo conseguí, lo…",
+              "answer": "LOGRE"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Que causa o puede causar lesión, daño, perjuicio (fem)",
+              "answer": "LESIVA"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "\"… Turizo\" cantautor de la canción \"La Bachata\"",
+              "answer": "MANUEL"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Conjunto de poemas que forman la tradición épica de un pueblo",
+              "answer": "EPOPEYA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Dale paz al ciego y se mudará a los valles cantábricos",
+              "answer": "PASIEGO"
+            }
+          }
+        },
+        "vertical_clues": "1-Hombres nacidos y criados en el estado Texas, USA\r\n2-Agarra\r\n3-La puerta pequeña\r\n4-Utensilio para fumar\r\n5-Cabes, si pierdes cien kilos\r\n6-Ejercitase el sentido del tacto\r\n7-Incapaz, torpe, no apta\r\n8-De color pardo o plomizo\r\n9-Bebida tradicional eslava y báltica a base de harina y malta\r\n10-Cariñosamente, Ariana\r\n11-Constelación vecina de Escorpio\r\n12-Ajedrez Alcanzar con un peón la última fila del tablero\r\n18-Tolkien \"La…\" la tierra que habitan los hobbits\r\n20-Dad curso a una petición\r\n22-Amarás como loco el faenar del panadero\r\n23-Sosiegue, tranquilice algo\r\n25-El primer nudista\r\n27-Se derramó por encima del borde\r\n28-Turban, trastornan, sobresaltan\r\n30-\"Fabrizio…\" cantautor, poeta y escritor italiano (1940-99) (2p)\r\n31-Tallado, repujado, cincelado\r\n34-El sonido de la censura\r\n36-Una doctora mala\r\n39-Resistente y de larga duración\r\n40-Amenacé vocalmente como un animal\r\n41-Azadón, instrumento de pala cuadrangular\r\n42-El sueño del loco es ser la atracción de las aves\r\n45-Raiza está conflictuada porque subirá el estandarte\r\n47-Patrón rítmico es 2/3 o 3/2\r\n48-Bordes decorados de paños, telas y vestidos\r\n50-Tortita francesa\r\n51-Milicia Que no tiene un título que lo distinga\r\n53-Rebaje con agua, una bebida\r\n54-\"… Norman\", famoso golfista australiano\r\n56-Orina de espaldas\r\n59-Ogro del folklore japonés\r\n61-Voz usada para expresar dolor\r\n62-Iniciales del emperador romano, autor de 'Meditaciones'",
+        "horizontal_clues": "1-Baile estadounidense conocido como claqué\r\n4-\"… Criado\" interpretó a Nuño en \"Águila Roja\" \r\n10-Academia de Artes Culinarias\r\n13-Donde el jinete apoya su pie\r\n14-\"Pepe…\" presentador español\r\n15-Tributo que se pagaba antiguamente en Castilla y Andalucía\r\n16-Tela que cubre a un futbolista mientras entrena\r\n17-Industria Aeronáutica Rumana (siglas)\r\n18-\"Mi… es la tuya\" puedes venir cuando quieras\r\n19-La torre inclinada de…\r\n21-Grupo indígena localizado al noroeste de Panamá\r\n24-¿Un satélite para todos? \r\n26-Líder criminal de una cárcel\r\n29-El tonto viene subiendo\r\n30-Utensilio para proteger el dedo al coser\r\n32-Ora, ruega\r\n33-Cobertor típico mexicano, de colores vivos\r\n35-Aderezar, condimentar\r\n37-Severa en el semblante, modo de mirar y hablar\r\n38-Costado izquierdo del barco, mirando de popa a proa\r\n39-\"… in the Dark\" canción de Bruce Springsteen (1984)\r\n41-Echas por tierra, destruyes\r\n43-Sustancia orgánica tóxica expulsada a través de la orina\r\n44-Marina Cuerda o cabo con que se izan y arrían las vergas\r\n46-Cedí parte de mi patrimonio\r\n47-Caballero medieval en las Cruzadas\r\n49-Torso de alacrán\r\n52-Oficio de quien trabaja la leña\r\n53-Aguantará muy poco\r\n55-Carbón encendido\r\n57-La rabia de Shakira\r\n58-Lo conseguí, lo…\r\n60-Que causa o puede causar lesión, daño, perjuicio (fem)\r\n62-\"… Turizo\" cantautor de la canción \"La Bachata\"\r\n63-Conjunto de poemas que forman la tradición épica de un pueblo\r\n64-Dale paz al ciego y se mudará a los valles cantábricos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,4,5,6,#,7,8,9,#,10,11,12\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,#\r\n15,#,#,#,16,#,#,#,#,#,#,#,17,#,#\r\n#,#,#,18,#,#,#,#,19,#,#,20,#,#,#\r\n21,22,23,#,#,#,24,25,#,#,#,26,27,28,#\r\n29,#,#,#,#,30,#,#,#,31,#,32,#,#,#\r\n33,#,#,#,34,#,#,#,#,35,36,#,#,#,#\r\n#,37,#,#,#,#,#,#,#,38,#,#,#,#,#\r\n39,#,#,#,#,#,40,#,41,#,#,#,#,#,42\r\n43,#,#,#,#,44,#,45,#,#,#,46,#,#,#\r\n#,#,#,#,47,#,#,#,#,#,48,#,#,#,#\r\n49,50,51,#,52,#,#,#,#,#,#,#,53,54,#\r\n55,#,#,56,#,#,57,#,#,#,58,59,#,#,#\r\n60,#,#,#,#,61,#,#,#,62,#,#,#,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

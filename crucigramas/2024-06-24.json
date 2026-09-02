@@ -1,0 +1,495 @@
+{
+  "data": {
+    "id": 416,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-23T12:23:47.350005Z",
+      "updatedAt": "2024-06-23T12:23:47.350025Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-24",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ENCIA#SOCORRER#\r\nL#OMIT#NACIDO#P\r\nEAN#SUMIRE#OLMO\r\nGUS#AMARRAR#OES\r\nIGOR#ATIENEN#NP\r\nRENE#CICLON#ETO\r\n##ALLANA#SALMON\r\nIGNEA#E#R#CABLE\r\nRETAIS#MIMICA##\r\nSRE#CALIZA#TUIT\r\nEM#RAMADAN#ACTA\r\n#EC#SUMARIA#ARI\r\nENTE#RAMAJE#DON\r\nS#REPARO#ARMO#O\r\n#ELEGIRSE#OTRAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Frase que va de romper apegos para priorizarse (4 palabras separadas).",
+              "answer": "ELEGIR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Una letra que no es vocal.",
+              "answer": "CONSONANTE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dominio web para Isla de Man.",
+              "answer": "IM"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Derrumbe que tapa la salida de una mina.",
+              "answer": "AISA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Perteneciente a los sueños (fem).",
+              "answer": "ONIRICA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Precursor de la cirugía vascular y los trasplantes de órganos.",
+              "answer": "CARREL"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Masa de agua que cubre la mayor parte de la tierra (pl).",
+              "answer": "OCEANOS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Ir de cabeza.",
+              "answer": "RI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Recuerdo (abrev).",
+              "answer": "RDO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Mit. Griega. El señor de los Vientos.",
+              "answer": "EOLO"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Coloquial. “Pan…”, que viene de catalán Pa amb tomàquet.",
+              "answer": "TUMACA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Procrastina, deja para luego.",
+              "answer": "POSPONE"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Período de mayor intensidad en un proceso.",
+              "answer": "AUGE"
+            },
+            "19": {
+              "col": 6,
+              "row": 2,
+              "clue": "Fiesta celebrada en las primeras horas de la tarde.",
+              "answer": "MATINE"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Alcohol que se extrae de la esencia de menta.",
+              "answer": "MENTOL"
+            },
+            "24": {
+              "col": 10,
+              "row": 3,
+              "clue": "Volví a nacer.",
+              "answer": "RENACI"
+            },
+            "27": {
+              "col": 3,
+              "row": 4,
+              "clue": "Lea de nuevo.",
+              "answer": "RELEA"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Estafador, mentiroso.",
+              "answer": "EMBAUCADOR"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Libres de religiones (fem).",
+              "answer": "LAICAS"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Da de mamar, amamanta.",
+              "answer": "LACTA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ver pista 1 vertical.",
+              "answer": "IRSE"
+            },
+            "38": {
+              "col": 1,
+              "row": 7,
+              "clue": "La parte interna del grano de trigo, la que germina.",
+              "answer": "GERMEN"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ensortijará el cabello.",
+              "answer": "RIZARA"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Guerrero del antiguo Japón.",
+              "answer": "SAMURAI"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Evaluemos, precisemos, estimemos.",
+              "answer": "MIDAMOS"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "Sirve para abrir la puerta.",
+              "answer": "MANIJA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "\"Hedy...\" Inventora del WIFI.",
+              "answer": "LAMARR"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Tiro loco.",
+              "answer": "ITRO"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "Indígenas de La Española, Cuba y Puerto Rico.",
+              "answer": "TAINOS"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "Informática. Tecla Control.",
+              "answer": "CTRL"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Prefijo que refiere al aire.",
+              "answer": "AERO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ver pista 1 vertical.",
+              "answer": "ES"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Hay tres en Venezuela.",
+              "answer": "EEE"
+            },
+            "64": {
+              "col": 4,
+              "row": 13,
+              "clue": "Procter & Gamble.",
+              "answer": "PG"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo químico del meitnerio.",
+              "answer": "MT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Tejido que protege la dentadura.",
+              "answer": "ENCIA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Ayudar alguien que lo necesita con urgencia.",
+              "answer": "SOCORRER"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Que estafa, está al revés.",
+              "answer": "OMIT"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Un forúnculo, un...",
+              "answer": "NACIDO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Se pelean en el oriente.",
+              "answer": "EAN"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Sumergiré, hundiré.",
+              "answer": "SUMIRE"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "El árbol al que no hay que pedirle peras.",
+              "answer": "OLMO"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "A Gustavo con cariño.",
+              "answer": "GUS"
+            },
+            "23": {
+              "col": 4,
+              "row": 3,
+              "clue": "Asegurar el barco al muelle.",
+              "answer": "AMARRAR"
+            },
+            "25": {
+              "col": 12,
+              "row": 3,
+              "clue": "O es una vocal ¿o son varias?.",
+              "answer": "OES"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"... Stravinsky\" director de orquesta ruso.",
+              "answer": "IGOR"
+            },
+            "28": {
+              "col": 5,
+              "row": 4,
+              "clue": "Ajustan, sujetan sus acciones a algo.",
+              "answer": "ATIENEN"
+            },
+            "29": {
+              "col": 13,
+              "row": 4,
+              "clue": "Símbolo químico del neptunio.",
+              "answer": "NP"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"... Favaloro\" cardiocirujano argentino inventor del baipás coronario.",
+              "answer": "RENE"
+            },
+            "31": {
+              "col": 5,
+              "row": 5,
+              "clue": "Como un huracán o un tifón.",
+              "answer": "CICLON"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Sufijo en sustantivos y adjetivos de valor diminutivo.",
+              "answer": "ETO"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Entra en una casa ajena contra la voluntad de su dueño.",
+              "answer": "ALLANA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Pez de mar que emigra hacia los ríos para la freza.",
+              "answer": "SALMON"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Roca volcánica.",
+              "answer": "IGNEA"
+            },
+            "40": {
+              "col": 10,
+              "row": 7,
+              "clue": "\"Las chicas del ...\" serie de Tv.",
+              "answer": "CABLE"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Desafiáis a duelo.",
+              "answer": "RETAIS"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Expresión por medio de gestos o ademanes.",
+              "answer": "MIMICA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Secretaría de Relaciones Exteriores.",
+              "answer": "SRE"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Piedra a partir de la cual se produce la cal.",
+              "answer": "CALIZA"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Nota del pajarito.",
+              "answer": "TUIT"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Iniciales del dueño de Tesla.",
+              "answer": "EM"
+            },
+            "52": {
+              "col": 3,
+              "row": 10,
+              "clue": "Mes de ayuno musulmán.",
+              "answer": "RAMADAN"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Certificación o testimonio escrito.",
+              "answer": "ACTA"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Dominio web para Ecuador.",
+              "answer": "EC"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Ejecución extrajudicial, sin el respectivo proceso legal.",
+              "answer": "SUMARIA"
+            },
+            "58": {
+              "col": 12,
+              "row": 11,
+              "clue": "Regresan con rabia y un poco ariscos.",
+              "answer": "ARI"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Entidad del ser.",
+              "answer": "ENTE"
+            },
+            "61": {
+              "col": 5,
+              "row": 12,
+              "clue": "Conjunto de ramas.",
+              "answer": "RAMAJE"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Este va a ser de gentes educadas.",
+              "answer": "DON"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "No lo tiró, lo arregló, lo...",
+              "answer": "REPARO"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Visto a alguien con sus armas.",
+              "answer": "ARMO"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "Ver pista 1 vertical.",
+              "answer": "ELEGIRSE"
+            },
+            "68": {
+              "col": 10,
+              "row": 14,
+              "clue": "Están rotas, mejor busca...",
+              "answer": "OTRAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Frase que va de romper apegos para priorizarse (4 palabras separadas). \r\n2-Una letra que no es vocal.\r\n3-Dominio web para Isla de Man.\r\n4-Derrumbe que tapa la salida de una mina.\r\n6-Perteneciente a los sueños (fem).\r\n7-Precursor de la cirugía vascular y los trasplantes de órganos.\r\n8-Masa de agua que cubre la mayor parte de la tierra (pl).\r\n9-Ir de cabeza.\r\n10-Recuerdo (abrev).\r\n11-Mit. Griega. El señor de los Vientos.\r\n13-Coloquial. “Pan…”, que viene de catalán Pa amb tomàquet.\r\n15-Procrastina, deja para luego.\r\n17-Período de mayor intensidad en un proceso.\r\n19-Fiesta celebrada en las primeras horas de la tarde.\r\n21-Alcohol que se extrae de la esencia de menta. \r\n24-Volví a nacer.\r\n27-Lea de nuevo.\r\n32-Estafador, mentiroso.\r\n34-Libres de religiones (fem).\r\n36-Da de mamar, amamanta.\r\n37-Ver pista 1 vertical.\r\n38-La parte interna del grano de trigo, la que germina.\r\n39-Ensortijará el cabello.\r\n42-Guerrero del antiguo Japón.\r\n43-Evaluemos, precisemos, estimemos.\r\n44-Sirve para abrir la puerta.\r\n47-\"Hedy...\" Inventora del WIFI.\r\n49-Tiro loco.\r\n50-Indígenas de La Española, Cuba y Puerto Rico.\r\n55-Informática. Tecla Control.\r\n57-Prefijo que refiere al aire.\r\n59-Ver pista 1 vertical.\r\n60-Hay tres en Venezuela.\r\n64-Procter & Gamble.\r\n66-Símbolo químico del meitnerio.",
+        "horizontal_clues": "1-Tejido que protege la dentadura.\r\n5-Ayudar alguien que lo necesita con urgencia.\r\n12-Que estafa, está al revés.\r\n14-Un forúnculo, un...\r\n16-Se pelean en el oriente.\r\n18-Sumergiré, hundiré.\r\n20-El árbol al que no hay que pedirle peras.\r\n22-A Gustavo con cariño.\r\n23-Asegurar el barco al muelle.\r\n25-O es una vocal ¿o son varias?. \r\n26-\"... Stravinsky\" director de orquesta ruso.\r\n28-Ajustan, sujetan sus acciones a algo.\r\n29-Símbolo químico del neptunio.\r\n30-\"... Favaloro\" cardiocirujano argentino inventor del baipás coronario.\r\n31-Como un huracán o un tifón.\r\n32-Sufijo en sustantivos y adjetivos de valor diminutivo.\r\n33-Entra en una casa ajena contra la voluntad de su dueño.\r\n35-Pez de mar que emigra hacia los ríos para la freza.\r\n37-Roca volcánica.\r\n40-\"Las chicas del ...\" serie de Tv.\r\n41-Desafiáis a duelo.\r\n43-Expresión por medio de gestos o ademanes.\r\n45-Secretaría de Relaciones Exteriores.\r\n46-Piedra a partir de la cual se produce la cal.\r\n48-Nota del pajarito.\r\n51-Iniciales del dueño de Tesla.\r\n52-Mes de ayuno musulmán.\r\n53-Certificación o testimonio escrito.\r\n54-Dominio web para Ecuador.\r\n56-Ejecución extrajudicial, sin el respectivo proceso legal.\r\n58-Regresan con rabia y un poco ariscos.\r\n59-Entidad del ser.\r\n61-Conjunto de ramas.\r\n62-Este va a ser de gentes educadas.\r\n63-No lo tiró, lo arregló, lo...\r\n65-Visto a alguien con sus armas.\r\n67-Ver pista 1 vertical.\r\n68-Están rotas, mejor busca...",
+        "board_clues_positions": "1,#,2,3,4,#,5,6,7,8,9,10,11,#,#\r\n#,#,12,#,#,13,#,14,#,#,#,#,#,#,15\r\n16,17,#,#,18,#,19,#,#,#,#,20,#,21,#\r\n22,#,#,#,23,#,#,#,#,#,24,#,25,#,#\r\n26,#,#,27,#,28,#,#,#,#,#,#,#,29,#\r\n30,#,#,#,#,31,#,#,#,#,#,#,32,#,#\r\n#,#,33,#,34,#,#,#,#,35,#,36,#,#,#\r\n37,38,#,#,#,#,#,#,39,#,40,#,#,#,#\r\n41,#,#,#,#,42,#,43,#,44,#,#,#,#,#\r\n45,#,#,#,46,#,47,#,#,#,#,48,#,49,50\r\n51,#,#,52,#,#,#,#,#,#,#,53,#,#,#\r\n#,54,55,#,56,#,#,#,#,#,57,#,58,#,#\r\n59,#,#,60,#,61,#,#,#,#,#,#,62,#,#\r\n#,#,63,#,64,#,#,#,#,65,#,66,#,#,#\r\n#,67,#,#,#,#,#,#,#,#,68,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

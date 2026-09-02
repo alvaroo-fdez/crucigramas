@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 3297,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-30T07:34:50.671293Z",
+      "updatedAt": "2025-08-30T07:38:25.716377Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-04",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DISPARATE##CLUB\r\nI#REDEDOR#BEORI\r\nORALES#DEPURADO\r\nRESULTA#CIERRES\r\n#T#SAEZ#TENA###\r\nLIMAN#AVOL#DAME\r\nACOSTADO#AHOGAR\r\nPUR#ANALOGO#UNR\r\nALBERT#PRORRATA\r\nZOOM#OTEE#TOSEN\r\n###BINA#AJIS#N#\r\nCOLORIN#SUCEDER\r\nABOLSADA#NOTARA\r\nMORSE#EPSILON#Y\r\nPEDO##MAGNANIMO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Diseñador de moda francés",
+              "answer": "DIOR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Señoras pequeñas",
+              "answer": "SRAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Pelos muy tenues de algunas frutas",
+              "answer": "PELUSAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Aventajar, rebasar",
+              "answer": "ADELANTAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Sustraiga",
+              "answer": "RESTE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Prefijo que indica proximidad, contacto",
+              "answer": "AD"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Casi todo",
+              "answer": "TOD"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Erguido, levantado, alzado",
+              "answer": "ERECTO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Tipo de belén, cuyo montaje lo encajona y solo se ve frontalmente",
+              "answer": "CERRADO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Adular, enaltecer, glorificar",
+              "answer": "LOAR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Prepara los hilos en la urdidera para pasarlos al telar",
+              "answer": "URDE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Nuestras biografías en Instagram",
+              "answer": "BIOS"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Apócope de \"bueno\"",
+              "answer": "BUEN"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Tejido en forma de red",
+              "answer": "RETICULO"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Parte del mar, que dista mucho de la tierra",
+              "answer": "PIELAGO"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Azadón, instrumento de pala cuadrangular",
+              "answer": "AZADA"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Capital administrativa de Bolivia (2p)",
+              "answer": "LAPAZ"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Interés malsano por alguna situación o persona",
+              "answer": "MORBO"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "\"Cala di …\", con famosas playas italianas",
+              "answer": "VOLPE"
+            },
+            "29": {
+              "col": 12,
+              "row": 5,
+              "clue": "Coloquial Expresión para advertir que viene la ley",
+              "answer": "AGUAS"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Asumir todos los gastos de manutención de otra persona",
+              "answer": "MANTENER"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Meten la pata",
+              "answer": "ERRAN"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "\"… San Juan\" interpreta a Estela Reynolds en 'La que se avecina'",
+              "answer": "ANTONIA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Perteneciente al cultivo de las huertas",
+              "answer": "HORTICOLA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Aireas para que seque",
+              "answer": "OREAS"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Acción o efecto de embolsar o embolsarse",
+              "answer": "EMBOLSO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Arq Ventana circular calada, con adornos",
+              "answer": "ROSETON"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Bicicleta para dos personas",
+              "answer": "TANDEM"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Alejarse de un lugar",
+              "answer": "IRSE"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Batalla de…\" la que dio la independencia a Perú",
+              "answer": "JUNIN"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Spotify … Nou\" mes que un club",
+              "answer": "CAMP"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Instrumento musical de viento",
+              "answer": "OBOE"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "\"… Voldemort\" el que no debe ser nombrado",
+              "answer": "LORD"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"… Martín\", cantante y actor español",
+              "answer": "DANI"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "Persona pronta y ligera en sus acciones",
+              "answer": "RAYO"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "No lo tapa porque perdió la tapa",
+              "answer": "APA"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Símbolo químico del Seaborgio",
+              "answer": "SG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "No uses tu arma de fuego contigo mismo, es solo una situación absurda",
+              "answer": "DISPARATE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Asociación de recreo",
+              "answer": "CLUB"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Contorno, marco, periferia",
+              "answer": "REDEDOR"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Tapir, danta",
+              "answer": "BEORI"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Verbales, bucales",
+              "answer": "ORALES"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Pulido, elaborado cuidadosamente",
+              "answer": "DEPURADO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Efecto, consecuencia",
+              "answer": "RESULTA"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Tranques la cremallera",
+              "answer": "CIERRES"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "\"Irene…\" única Miss universo, candidata a la presidencia de su país",
+              "answer": "SAEZ"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Conjunto de útiles de un determinado arte de pesca",
+              "answer": "TENA"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Desorientados en Milán, rebajan las asperezas",
+              "answer": "LIMAN"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Vil, malo, ruin",
+              "answer": "AVOL"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Entrégame",
+              "answer": "DAME"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ha costado que se quede en la cama",
+              "answer": "ACOSTADO"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Ajedrez Inmovilizar al rey, sin caer en jaque",
+              "answer": "AHOGAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Largo río ruso localizado en la Siberia asiática",
+              "answer": "PUR"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Su equivalente, su paralelo",
+              "answer": "ANALOGO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Universidad Nacional de Rosario",
+              "answer": "UNR"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Físico alemán de origen judío",
+              "answer": "ALBERT"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Esta distribución proporcional parece ser a favor de la ratona",
+              "answer": "PRORRATA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Acercar la imagen, hacer… (voz inglesa)",
+              "answer": "ZOOM"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Observe con cuidado desde un lugar alto",
+              "answer": "OTEE"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Se ahogan y carraspean",
+              "answer": "TOSEN"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Haz la segunda cava en las viñas",
+              "answer": "BINA"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Pimientos de América del Sur",
+              "answer": "AJIS"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pelirrojo",
+              "answer": "COLORIN"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Esto es lo que va a pasar y confusamente lo reduces",
+              "answer": "SUCEDER"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Que tiene forma de bolsa (fem)",
+              "answer": "ABOLSADA"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Se dará cuenta",
+              "answer": "NOTARA"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Telegrafía por combinación de rayas y puntos",
+              "answer": "MORSE"
+            },
+            "62": {
+              "col": 6,
+              "row": 13,
+              "clue": "Quinta letra del alfabeto griego",
+              "answer": "EPSILON"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Flatulencia",
+              "answer": "PEDO"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Muy generoso y desinteresado",
+              "answer": "MAGNANIMO"
+            }
+          }
+        },
+        "vertical_clues": "1-Diseñador de moda francés\r\n2-Señoras pequeñas\r\n3-Pelos muy tenues de algunas frutas\r\n4-Aventajar, rebasar\r\n5-Sustraiga\r\n6-Prefijo que indica proximidad, contacto\r\n7-Casi todo\r\n8-Erguido, levantado, alzado\r\n9-Tipo de belén, cuyo montaje lo encajona y solo se ve frontalmente\r\n10-Adular, enaltecer, glorificar\r\n11-Prepara los hilos en la urdidera para pasarlos al telar\r\n12-Nuestras biografías en Instagram\r\n14-Apócope de \"bueno\"\r\n16-Tejido en forma de red\r\n18-Parte del mar, que dista mucho de la tierra\r\n20-Azadón, instrumento de pala cuadrangular\r\n24-Capital administrativa de Bolivia (2p)\r\n25-Interés malsano por alguna situación o persona\r\n27-\"Cala di …\", con famosas playas italianas\r\n29-Coloquial Expresión para advertir que viene la ley\r\n30-Asumir todos los gastos de manutención de otra persona\r\n31-Meten la pata\r\n33-\"… San Juan\" interpreta a Estela Reynolds en 'La que se avecina'\r\n35-Perteneciente al cultivo de las huertas\r\n38-Aireas para que seque\r\n41-Acción o efecto de embolsar o embolsarse\r\n43-Arq Ventana circular calada, con adornos\r\n46-Bicicleta para dos personas\r\n49-Alejarse de un lugar\r\n51-\"Batalla de…\" la que dio la independencia a Perú\r\n52-\"Spotify … Nou\" mes que un club\r\n53-Instrumento musical de viento\r\n54-\"… Voldemort\" el que no debe ser nombrado\r\n56-\"… Martín\", cantante y actor español\r\n57-Persona pronta y ligera en sus acciones\r\n59-No lo tapa porque perdió la tapa\r\n63-Símbolo químico del Seaborgio",
+        "horizontal_clues": "1-No uses tu arma de fuego contigo mismo, es solo una situación absurda\r\n9-Asociación de recreo\r\n13-Contorno, marco, periferia\r\n14-Tapir, danta\r\n15-Verbales, bucales\r\n17-Pulido, elaborado cuidadosamente\r\n19-Efecto, consecuencia\r\n21-Tranques la cremallera\r\n22-\"Irene…\" única Miss universo, candidata a la presidencia de su país\r\n23-Conjunto de útiles de un determinado arte de pesca\r\n24-Desorientados en Milán, rebajan las asperezas\r\n26-Vil, malo, ruin\r\n28-Entrégame\r\n32-Ha costado que se quede en la cama\r\n34-Ajedrez Inmovilizar al rey, sin caer en jaque\r\n36-Largo río ruso localizado en la Siberia asiática\r\n37-Su equivalente, su paralelo\r\n39-Universidad Nacional de Rosario\r\n40-Físico alemán de origen judío\r\n42-Esta distribución proporcional parece ser a favor de la ratona\r\n44-Acercar la imagen, hacer… (voz inglesa)\r\n45-Observe con cuidado desde un lugar alto\r\n47-Se ahogan y carraspean\r\n48-Haz la segunda cava en las viñas\r\n50-Pimientos de América del Sur\r\n52-Pelirrojo\r\n55-Esto es lo que va a pasar y confusamente lo reduces\r\n58-Que tiene forma de bolsa (fem)\r\n60-Se dará cuenta\r\n61-Telegrafía por combinación de rayas y puntos\r\n62-Quinta letra del alfabeto griego\r\n64-Flatulencia\r\n65-Muy generoso y desinteresado",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,7,8,#,#,9,10,11,12\r\n#,#,13,#,#,#,#,#,#,#,14,#,#,#,#\r\n15,16,#,#,#,#,#,17,#,18,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,21,#,#,#,#,#,#\r\n#,#,#,22,#,#,#,#,23,#,#,#,#,#,#\r\n24,#,25,#,#,#,26,27,#,#,#,28,29,30,31\r\n32,#,#,#,#,33,#,#,#,34,35,#,#,#,#\r\n36,#,#,#,37,#,#,#,38,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,42,#,#,#,43,#,#,#\r\n44,#,#,#,#,45,46,#,#,#,47,#,#,#,#\r\n#,#,#,48,49,#,#,#,50,51,#,#,#,#,#\r\n52,53,54,#,#,#,#,#,55,#,#,#,56,#,57\r\n58,#,#,#,#,#,#,59,#,60,#,#,#,#,#\r\n61,#,#,#,#,#,62,#,63,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

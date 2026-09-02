@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4024,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.521128Z",
+      "updatedAt": "2025-12-16T12:20:16.069283Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-19",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##MAMBA#PAPADA#\r\n#MISAEL#ATLAS#I\r\nMOMENTO#ROEN#CN\r\nORA#TENSAR#GRUA\r\nNR#CELETNA##IBS\r\nTALAN##OO#PATRI\r\nELUDE#EPIDERMIS\r\nD#SEDAS#CURTI#T\r\nESTRONCIO#SUCRE\r\nVARAR#UR##USAIN\r\nENO##SAMURAI#CC\r\nNASA#ILESOS#SUI\r\nUD#TITI#EDITORA\r\nS#CAPAD#LAVADA#\r\n#MESERO#OSABA##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Trata con cuidado su proyecto, lo…",
+              "answer": "MIMA"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Cocine un alimento",
+              "answer": "ASE"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cuidador, encargado",
+              "answer": "MANTENEDOR"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Hogar…\" sucursales de los Testigos de Jehová",
+              "answer": "BETEL"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"Solo\" en inglés",
+              "answer": "ALONE"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Desconfiado de todos los que lo rodean",
+              "answer": "PARANOICO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Atasca, obstruye",
+              "answer": "ATORA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Juego de pelota, en que se arroja esta contra la pared",
+              "answer": "PLE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "El avatar, el último maestro del aire",
+              "answer": "AANG"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Símbolo químico del Darmstadio",
+              "answer": "DS"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Mochila, saco",
+              "answer": "MORRAL"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Ausencia en la clase",
+              "answer": "INASISTENCIA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Zona que se encuentra sobre el hueso púbico (3p)",
+              "answer": "MONTEDEVENUS"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tapé, envolví",
+              "answer": "CUBRI"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "Estopa sin tabúes se detiene en Inglaterra",
+              "answer": "STOP"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Gimnasia con pasos de danza",
+              "answer": "RITMICA"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Cada uno de los huesos superiores de la pelvis",
+              "answer": "CADERA"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Períodos de cinco años",
+              "answer": "LUSTROS"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Lo es una oradora con buenos argumentos",
+              "answer": "PERSUASIVA"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"Pellegrino…\" el padre de la cocina italiana moderna",
+              "answer": "ARTUSI"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Es Claudio desordenando, está muy flaco",
+              "answer": "ESCUALIDO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Un poco dudoso",
+              "answer": "DU"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Centro de infancia",
+              "answer": "AN"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Recobrad la salud",
+              "answer": "SANAD"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "Retirarme de un sitio",
+              "answer": "IRME"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Cualidad de sabroso",
+              "answer": "RICURA"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Instrumento musical tradicional de la India",
+              "answer": "SITAR"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Aunque el suelo esté desastroso, utilícelo",
+              "answer": "USELO"
+            },
+            "47": {
+              "col": 9,
+              "row": 10,
+              "clue": "Esta ciudad griega tenía al Coloso",
+              "answer": "RODAS"
+            },
+            "50": {
+              "col": 3,
+              "row": 11,
+              "clue": "Anudas o amarras, por ejemplo los cordones",
+              "answer": "ATAS"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "Agua carbonatada",
+              "answer": "SODA"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Se ha torcido el pie",
+              "answer": "IPE"
+            },
+            "57": {
+              "col": 11,
+              "row": 12,
+              "clue": "Trastorno Activo Bipolar (siglas)",
+              "answer": "TAB"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del Cerio",
+              "answer": "CE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Serpiente africana de gran tamaño y muy venenosa",
+              "answer": "MAMBA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Abultamiento que se forma debajo de la barba",
+              "answer": "PAPADA"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Ángel mensajero",
+              "answer": "MISAEL"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Colección de mapas geográficos",
+              "answer": "ATLAS"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Porción de tiempo breve",
+              "answer": "MOMENTO"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Mastican como ratas",
+              "answer": "ROEN"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Cartoon Network",
+              "answer": "CN"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Suplica, ruega a un Dios",
+              "answer": "ORA"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "Templar algo",
+              "answer": "TENSAR"
+            },
+            "20": {
+              "col": 11,
+              "row": 3,
+              "clue": "Automóvil usado para remolcar otro vehículo",
+              "answer": "GRUA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "No respondas a la primera",
+              "answer": "NR"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Importante y famosa calle de la Ciudad Vieja de Praga, Rep Checa",
+              "answer": "CELETNA"
+            },
+            "24": {
+              "col": 12,
+              "row": 4,
+              "clue": "Instituto Británico de Sevilla",
+              "answer": "IBS"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Deforestan, acaban con la vida de un árbol",
+              "answer": "TALAN"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Inic 1er vocalista de Black Sabbath",
+              "answer": "OO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"… Guijarro\" centrocampista española de Barcelona FC",
+              "answer": "PATRI"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Evita, esquiva",
+              "answer": "ELUDE"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Tejido celular que envuelve el cuerpo de los animales",
+              "answer": "EPIDERMIS"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Tejidos hechos con la enzima de ciertos gusanos",
+              "answer": "SEDAS"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Traté y preparé las pieles",
+              "answer": "CURTI"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Elemento químico de número atómico 38",
+              "answer": "ESTRONCIO"
+            },
+            "39": {
+              "col": 10,
+              "row": 8,
+              "clue": "Capital constitucional de Bolivia",
+              "answer": "SUCRE"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Sacar a la playa la barca",
+              "answer": "VARAR"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "En la puerta de Urgencias",
+              "answer": "UR"
+            },
+            "43": {
+              "col": 10,
+              "row": 9,
+              "clue": "Nombre del atleta más rápido del mundo",
+              "answer": "USAIN"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Conocida sal de fruta",
+              "answer": "ENO"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Guerrero japonés",
+              "answer": "SAMURAI"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "El logo de las licencias Creative Commons",
+              "answer": "CC"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Agencia responsable del programa espacial civil de USA",
+              "answer": "NASA"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "Sin daños, ellos",
+              "answer": "ILESOS"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"… Géneris\" voz latina muy singular",
+              "answer": "SUI"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Nombre vulgar de diferentes especies de primates americanos",
+              "answer": "TITI"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "La que prepara las publicaciones",
+              "answer": "EDITORA"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Extirpad los genitales",
+              "answer": "CAPAD"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Tipo de foto: \"Cara…\", la modelo sin maquillaje",
+              "answer": "LAVADA"
+            },
+            "60": {
+              "col": 1,
+              "row": 14,
+              "clue": "Camarero latino",
+              "answer": "MESERO"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Se arriesgaba, se aventuraba",
+              "answer": "OSABA"
+            }
+          }
+        },
+        "vertical_clues": "1-Trata con cuidado su proyecto, lo…\r\n2-Cocine un alimento\r\n3-Cuidador, encargado\r\n4-\"Hogar…\" sucursales de los Testigos de Jehová\r\n5-\"Solo\" en inglés\r\n6-Desconfiado de todos los que lo rodean\r\n7-Atasca, obstruye\r\n8-Juego de pelota, en que se arroja esta contra la pared\r\n9-El avatar, el último maestro del aire\r\n10-Símbolo químico del Darmstadio\r\n11-Mochila, saco\r\n13-Ausencia en la clase\r\n14-Zona que se encuentra sobre el hueso púbico (3p)\r\n16-Tapé, envolví\r\n19-Estopa sin tabúes se detiene en Inglaterra\r\n21-Gimnasia con pasos de danza\r\n23-Cada uno de los huesos superiores de la pelvis\r\n26-Períodos de cinco años\r\n28-Lo es una oradora con buenos argumentos\r\n29-\"Pellegrino…\" el padre de la cocina italiana moderna\r\n31-Es Claudio desordenando, está muy flaco\r\n32-Un poco dudoso\r\n34-Centro de infancia\r\n37-Recobrad la salud\r\n38-Retirarme de un sitio\r\n40-Cualidad de sabroso\r\n45-Instrumento musical tradicional de la India\r\n46-Aunque el suelo esté desastroso, utilícelo\r\n47-Esta ciudad griega tenía al Coloso\r\n50-Anudas o amarras, por ejemplo los cordones\r\n52-Agua carbonatada\r\n55-Se ha torcido el pie\r\n57-Trastorno Activo Bipolar (siglas)\r\n58-Símbolo químico del Cerio",
+        "horizontal_clues": "1-Serpiente africana de gran tamaño y muy venenosa\r\n6-Abultamiento que se forma debajo de la barba\r\n11-Ángel mensajero\r\n12-Colección de mapas geográficos\r\n14-Porción de tiempo breve\r\n15-Mastican como ratas\r\n16-Cartoon Network\r\n17-Suplica, ruega a un Dios\r\n18-Templar algo\r\n20-Automóvil usado para remolcar otro vehículo\r\n22-No respondas a la primera\r\n23-Importante y famosa calle de la Ciudad Vieja de Praga, Rep Checa\r\n24-Instituto Británico de Sevilla\r\n25-Deforestan, acaban con la vida de un árbol\r\n27-Inic 1er vocalista de Black Sabbath\r\n28-\"… Guijarro\" centrocampista española de Barcelona FC\r\n30-Evita, esquiva\r\n31-Tejido celular que envuelve el cuerpo de los animales\r\n33-Tejidos hechos con la enzima de ciertos gusanos\r\n35-Traté y preparé las pieles\r\n36-Elemento químico de número atómico 38\r\n39-Capital constitucional de Bolivia\r\n41-Sacar a la playa la barca\r\n42-En la puerta de Urgencias\r\n43-Nombre del atleta más rápido del mundo\r\n44-Conocida sal de fruta\r\n45-Guerrero japonés\r\n48-El logo de las licencias Creative Commons\r\n49-Agencia responsable del programa espacial civil de USA\r\n51-Sin daños, ellos\r\n52-\"… Géneris\" voz latina muy singular\r\n53-Abreviatura de usted\r\n54-Nombre vulgar de diferentes especies de primates americanos\r\n56-La que prepara las publicaciones\r\n58-Extirpad los genitales\r\n59-Tipo de foto: \"Cara…\", la modelo sin maquillaje\r\n60-Camarero latino\r\n61-Se arriesgaba, se aventuraba",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,16,#\r\n17,#,#,#,18,#,#,19,#,#,#,20,21,#,#\r\n22,#,#,23,#,#,#,#,#,#,#,#,24,#,#\r\n25,#,26,#,#,#,#,27,#,#,28,29,#,#,#\r\n30,#,#,#,#,#,31,#,#,32,#,#,#,#,#\r\n#,#,33,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,#,#,#,#,38,#,#,39,#,#,40,#\r\n41,#,#,#,#,#,42,#,#,#,43,#,#,#,#\r\n44,#,#,#,#,45,#,#,46,47,#,#,#,48,#\r\n49,#,#,50,#,51,#,#,#,#,#,#,52,#,#\r\n53,#,#,54,55,#,#,#,56,#,#,57,#,#,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,#,#,#\r\n#,60,#,#,#,#,#,#,61,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 1893,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-10T18:11:06.655803Z",
+      "updatedAt": "2025-03-10T18:13:46.324788Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CAVAR##PIEDRA#\r\nPOTAJES#ESTRENO\r\nADEREZA#RENOVAR\r\nRENA#ALCA#ANITA\r\nSAUL#RALLA##SET\r\nEBA#B#NOTREDAME\r\nCARAJO#CAPTURA#\r\n###BOLO#RIAN###\r\n#CARRICK#APAREA\r\nPAPANATAS#A#ENR\r\nISO##NOKIA#ATAR\r\nPEDRO#GIGI#MEMA\r\nATEISMO#ARIANOS\r\nSERENAN#NEGRERO\r\n#SALINO##ADORE#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Se relacionaba, frecuentaba, se…",
+              "answer": "CODEABA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Para disminuir el impacto lo tuneará mejor",
+              "answer": "ATENUAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Vara muy larga y gruesa",
+              "answer": "VARAL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Maltraté, desgasté",
+              "answer": "AJE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "No Lo hacen los ateos",
+              "answer": "REZAR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Elevar la curvatura de un arco arquitectónico",
+              "answer": "PERALTAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Al fondo de un tequila sunrise",
+              "answer": "ISE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Estratovolcán activo en Sicilia, Italia",
+              "answer": "ETNA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Aeronave no tripulada",
+              "answer": "DRON"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "En cierto modo servirá examinar",
+              "answer": "REVISAR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Antiguo Testamento Condena al exterminio",
+              "answer": "ANATEMA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Unid astronómica de longitud Equivale a 3,26 años luz",
+              "answer": "PARSEC"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Conservan con sal",
+              "answer": "SALAN"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Persona demente",
+              "answer": "ORATE"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Voz de la gallina clueca",
+              "answer": "CLOC"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Ave fabulosa, con rostro de mujer y cuerpo de águila",
+              "answer": "ARPIA"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Hijo de Ragnar Lodbrok, conocido como 'Brazo de Hierro'",
+              "answer": "BJORN"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cada periodo en que se divide un proceso de desarrollo",
+              "answer": "ETAPA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Colina de arena",
+              "answer": "DUNA"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Aperture",
+              "answer": "ABRA"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Husmeaban el viento",
+              "answer": "OLIAN"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "Figura geométrica con ocho lados iguales",
+              "answer": "OCTOGONO"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Cajitas plásticas que contenían la música de los 70, 80 y 90",
+              "answer": "CASETES"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Se hace con el control del sistema",
+              "answer": "APODERA"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"… de la Ribera del Júcar\" Denominación de Origen para el caqui valenciano",
+              "answer": "KAKI"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Conservar en la memoria algo",
+              "answer": "RETENER"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Me prendí de amor por ella",
+              "answer": "ENAMORE"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Devastó todo",
+              "answer": "ARRASO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Utensilio para fumar, con boquilla por un extremo (pl)",
+              "answer": "PIPAS"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Continúen, no se detengan",
+              "answer": "SIGAN"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Pon al aire o ventila algo",
+              "answer": "AIREA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Dicho de un avión: que se posó en el agua",
+              "answer": "AMARO"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Carril de una vía férrea",
+              "answer": "RIEL"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Como el OVNI, pero submarino",
+              "answer": "OSNI"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Un hombre inglés",
+              "answer": "MAN"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Medicina Inmunoglobulina D",
+              "answer": "IGD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Levantar y mover la tierra con la azada",
+              "answer": "CAVAR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sustancia mineral, más o menos dura y compacta",
+              "answer": "PIEDRA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Sopas diluidas en la compota jesuita",
+              "answer": "POTAJES"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Lanzamiento inicial de una película al público",
+              "answer": "ESTRENO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Da sabor a la ensalada, sazona",
+              "answer": "ADEREZA"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Reinventar, modernizar",
+              "answer": "RENOVAR"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Municipio de España en Badajoz",
+              "answer": "RENA"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "Área de Libre Comercio de las Américas",
+              "answer": "ALCA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Para Ana con cariño",
+              "answer": "ANITA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Better call…\" la precuela de 'Breaking Bad'",
+              "answer": "SAUL"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Desmenuza con el rallador",
+              "answer": "RALLA"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Plató de grabación",
+              "answer": "SET"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Liga \"Española de Baloncesto Aficionado\"",
+              "answer": "EBA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Famosa catedral parisina (2p)",
+              "answer": "NOTREDAME"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Te puedes ir a la cesta del palo mayor de una carabela",
+              "answer": "CARAJO"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Una foto a la pantalla del móvil",
+              "answer": "CAPTURA"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Toque musical",
+              "answer": "BOLO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Celebren con risa algo",
+              "answer": "RIAN"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"Michael…\" exmediocentro del Manchester United",
+              "answer": "CARRICK"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Junta las hembras con los machos para que críen",
+              "answer": "APAREA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Individuo excesivamente crédulo y simplón",
+              "answer": "PAPANATAS"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Ejército Nacional Republicano (siglas)",
+              "answer": "ENR"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo que tienen en común Edison y Marisol",
+              "answer": "ISO"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Multinacional finlandesa de telefonía",
+              "answer": "NOKIA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Amarrar a la rata que sube",
+              "answer": "ATAR"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Acosta\" piloto español de KTM",
+              "answer": "PEDRO"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "El apodo de Gianluigi Buffon",
+              "answer": "GIGI"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Tonta, mentecata",
+              "answer": "MEMA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Postura que niega la existencia de cualquier dios",
+              "answer": "ATEISMO"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Los que, en el zodíaco, están representados por el carnero",
+              "answer": "ARIANOS"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Sosiegan, tranquilizan algo",
+              "answer": "SERENAN"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Esclavista, dedicado a la trata de negros",
+              "answer": "NEGRERO"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Solían mezclar con suero con sales",
+              "answer": "SALINO"
+            },
+            "64": {
+              "col": 9,
+              "row": 14,
+              "clue": "Reverencié en extremo a un ser",
+              "answer": "ADORE"
+            }
+          }
+        },
+        "vertical_clues": "1-Se relacionaba, frecuentaba, se…\r\n2-Para disminuir el impacto lo tuneará mejor\r\n3-Vara muy larga y gruesa\r\n4-Maltraté, desgasté\r\n5-No Lo hacen los ateos\r\n6-Elevar la curvatura de un arco arquitectónico \r\n7-Al fondo de un tequila sunrise \r\n8-Estratovolcán activo en Sicilia, Italia\r\n9-Aeronave no tripulada\r\n10-En cierto modo servirá examinar\r\n11-Antiguo Testamento Condena al exterminio\r\n12-Unid astronómica de longitud Equivale a 3,26 años luz\r\n13-Conservan con sal\r\n15-Persona demente\r\n20-Voz de la gallina clueca\r\n24-Ave fabulosa, con rostro de mujer y cuerpo de águila\r\n27-Hijo de Ragnar Lodbrok, conocido como 'Brazo de Hierro'\r\n29-Cada periodo en que se divide un proceso de desarrollo\r\n30-Colina de arena\r\n32-Aperture\r\n33-Husmeaban el viento\r\n36-Figura geométrica con ocho lados iguales \r\n38-Cajitas plásticas que contenían la música de los 70, 80 y 90\r\n39-Se hace con el control del sistema\r\n40-\"… de la Ribera del Júcar\" Denominación de Origen para el caqui valenciano\r\n42-Conservar en la memoria algo\r\n43-Me prendí de amor por ella\r\n44-Devastó todo \r\n45-Utensilio para fumar, con boquilla por un extremo (pl)\r\n46-Continúen, no se detengan\r\n50-Pon al aire o ventila algo\r\n51-Dicho de un avión: que se posó en el agua\r\n53-Carril de una vía férrea\r\n54-Como el OVNI, pero submarino\r\n58-Un hombre inglés\r\n60-Medicina Inmunoglobulina D",
+        "horizontal_clues": "1-Levantar y mover la tierra con la azada\r\n6-Sustancia mineral, más o menos dura y compacta\r\n12-Sopas diluidas en la compota jesuita\r\n14-Lanzamiento inicial de una película al público \r\n16-Da sabor a la ensalada, sazona\r\n17-Reinventar, modernizar\r\n18-Municipio de España en Badajoz\r\n19-Área de Libre Comercio de las Américas\r\n21-Para Ana con cariño\r\n22-\"Better call…\" la precuela de 'Breaking Bad'\r\n23-Desmenuza con el rallador\r\n25-Plató de grabación\r\n26-Liga \"Española de Baloncesto Aficionado\" \r\n28-Famosa catedral parisina (2p) \r\n31-Te puedes ir a la cesta del palo mayor de una carabela\r\n34-Una foto a la pantalla del móvil \r\n35-Toque musical\r\n37-Celebren con risa algo\r\n38-\"Michael…\" exmediocentro del Manchester United\r\n41-Junta las hembras con los machos para que críen\r\n45-Individuo excesivamente crédulo y simplón \r\n47-Ejército Nacional Republicano (siglas)\r\n48-Lo que tienen en común Edison y Marisol\r\n49-Multinacional finlandesa de telefonía\r\n51-Amarrar a la rata que sube\r\n52-\"… Acosta\" piloto español de KTM\r\n55-El apodo de Gianluigi Buffon\r\n56-Tonta, mentecata\r\n57-Postura que niega la existencia de cualquier dios\r\n59-Los que, en el zodíaco, están representados por el carnero\r\n61-Sosiegan, tranquilizan algo\r\n62-Esclavista, dedicado a la trata de negros\r\n63-Solían mezclar con suero con sales \r\n64-Reverencié en extremo a un ser",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,13,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,#,19,#,20,#,#,21,#,#,#,#\r\n22,#,#,#,#,23,#,#,#,24,#,#,25,#,#\r\n26,#,#,#,27,#,28,#,#,#,29,30,#,#,#\r\n31,#,#,32,#,33,#,34,#,#,#,#,#,#,#\r\n#,#,#,35,#,#,36,#,37,#,#,#,#,#,#\r\n#,38,39,#,#,#,#,40,#,41,#,#,42,43,44\r\n45,#,#,#,#,#,#,#,46,#,#,#,47,#,#\r\n48,#,#,#,#,49,#,#,#,50,#,51,#,#,#\r\n52,#,#,53,54,#,55,#,#,#,#,56,#,#,#\r\n57,#,#,#,#,58,#,#,59,#,60,#,#,#,#\r\n61,#,#,#,#,#,#,#,62,#,#,#,#,#,#\r\n#,63,#,#,#,#,#,#,#,64,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

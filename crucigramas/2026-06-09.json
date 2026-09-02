@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 6175,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-08T20:53:50.658027Z",
+      "updatedAt": "2026-06-08T20:54:45.132617Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-09",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#SECASE#SALABA#\r\nI#NOTAS#TRIGO#C\r\nMD#MALTRATAR#ME\r\nPEPINAR#BESUCON\r\nASEE##IRA##PANT\r\nGARRAFA#TOCANTE\r\nAFLATO#S#TARTAN\r\nDIA#ARNESES#AJA\r\nOO#ACUARELAS#ER\r\n##CHAMPIÑONES##\r\nENEO##OOO##TAMO\r\nGABRIEL#RETENER\r\nIVAR#SESEN#NENE\r\nDADA#TOMAD#TATA\r\nALARCON#REPARAR",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Preposición",
+              "answer": "EN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tragara, engullera",
+              "answer": "COMIERA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Amarran, anudan",
+              "answer": "ATAN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Habitación principal de la casa",
+              "answer": "SALA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Líneas claras que aparecen en la piel durante el embarazo (sing)",
+              "answer": "ESTRIA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Himno dedicado a los dolores de la Virgen al pie de la cruz",
+              "answer": "STABAT"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "La gran pantalla, el séptimo…",
+              "answer": "ARTE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Armas un alboroto, la…",
+              "answer": "LIAS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Congregar, apiñar, amontonar",
+              "answer": "AGRUPAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Boli roto",
+              "answer": "BO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Sin abonar, pendiente de pago",
+              "answer": "IMPAGADO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Un grupete de cien",
+              "answer": "CENTENAR"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Cuando desafino, pierdo el norte y eso es un verdadero reto",
+              "answer": "DESAFIO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "\"Cadena de…\" fabricación en etapas sucesivas y continuas",
+              "answer": "MONTAJE"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Concreción nacarada de las conchas marinas",
+              "answer": "PERLA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Película animada, sobre una competencia de canto",
+              "answer": "CANTA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Acomete, abalánzate",
+              "answer": "ATACA"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Lugar donde se celebra dicho foro",
+              "answer": "FORUM"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "O te lo lees o no conoces a Shakespeare",
+              "answer": "OTELO"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Firman con gananciales, se…",
+              "answer": "CASAN"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "No sonrió, se mantuvo estoico",
+              "answer": "SERIO"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Primer emperador de la dinastía Bonaparte (1804",
+              "answer": "NAPOLEON"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ejercer dominio altivo sobre otros",
+              "answer": "SEÑOREAR"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Guardar en la hucha o en el banco",
+              "answer": "AHORRAR"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Organiza el estante en siete decenas",
+              "answer": "SETENTA"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Cereal usado para hacer cerveza",
+              "answer": "CEBADA"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Remediar algo",
+              "answer": "SANEAR"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Escudo, arma defensiva",
+              "answer": "EGIDA"
+            },
+            "48": {
+              "col": 1,
+              "row": 10,
+              "clue": "La fuerza militar que limpian cuando regresan",
+              "answer": "NAVAL"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "El sabor de chicle más vendido",
+              "answer": "MENTA"
+            },
+            "52": {
+              "col": 14,
+              "row": 10,
+              "clue": "Costa Rica Buscar oro en los ríos de forma artesanal",
+              "answer": "OREAR"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Pronombre demostrativo que señala algo presente",
+              "answer": "ESTO"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"Michael…\" escritor alemán de 'La historia interminable'",
+              "answer": "ENDE"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "El epicentro de los sismos",
+              "answer": "SM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Extrajese la humedad",
+              "answer": "SECASE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Adobaba las carnes con sal",
+              "answer": "SALABA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Calificaciones",
+              "answer": "NOTAS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cereal para hacer la harina del pan clásico",
+              "answer": "TRIGO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Símbolo químico del Mendelevio",
+              "answer": "MD"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Abusar física o psicológicamente",
+              "answer": "MALTRATAR"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Medio mega de memoria",
+              "answer": "ME"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pues, una plantación de pepinos",
+              "answer": "PEPINAR"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Coloquial: Hombre que da muchos besos",
+              "answer": "BESUCON"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Dejé todo limpio y pulcro",
+              "answer": "ASEE"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Acudirá con rabia",
+              "answer": "IRA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Pantalón en inglés",
+              "answer": "PANT"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vasija esférica con cuello largo y estrecho",
+              "answer": "GARRAFA"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Correspondiente, relativo a algo",
+              "answer": "TOCANTE"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Inspiración poética de corte doloroso",
+              "answer": "AFLATO"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "El típico tejido de cuadros escocés",
+              "answer": "TARTAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Estás al…\" las redes, cuando no sueltas el móvil",
+              "answer": "DIA"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Armazón provisto de correas y hebillas (pl)",
+              "answer": "ARNESES"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "Voz usada para denotar aprobación",
+              "answer": "AJA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Par de huevos",
+              "answer": "OO"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Pinturas al agua",
+              "answer": "ACUARELAS"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Símbolo químico de Erbio",
+              "answer": "ER"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Hongos comestibles que coronan una pizza",
+              "answer": "CHAMPIÑONES"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Poético: De cobre o bronce",
+              "answer": "ENEO"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Tres anillos",
+              "answer": "OOO"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Pelusilla que se cría debajo de las camas por falta de aseo",
+              "answer": "TAMO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "El arcángel que le dijo a María: \"Concebirás y darás a luz un hijo, a quien llamarás Jesús\"",
+              "answer": "GABRIEL"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Conservar en la memoria algo",
+              "answer": "RETENER"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "El hijo deshuesado de Ragnar Lodbrok",
+              "answer": "IVAR"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "España Antigua moneda de Aragón",
+              "answer": "SESEN"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Bebé, niño",
+              "answer": "NENE"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Inclinada, que tiene tendencia a algo",
+              "answer": "DADA"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Bebed, tragad",
+              "answer": "TOMAD"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Coloquialmente, la hermana",
+              "answer": "TATA"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Se colarán los locos, en Pozuelo de…",
+              "answer": "ALARCON"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Componer, arreglar",
+              "answer": "REPARAR"
+            }
+          }
+        },
+        "vertical_clues": "2-Preposición\r\n3-Tragara, engullera\r\n4-Amarran, anudan \r\n5-Habitación principal de la casa\r\n6-Líneas claras que aparecen en la piel durante el embarazo (sing)\r\n7-Himno dedicado a los dolores de la Virgen al pie de la cruz\r\n8-La gran pantalla, el séptimo…\r\n9-Armas un alboroto, la…\r\n10-Congregar, apiñar, amontonar\r\n11-Boli roto\r\n12-Sin abonar, pendiente de pago \r\n15-Un grupete de cien \r\n17-Cuando desafino, pierdo el norte y eso es un verdadero reto\r\n19-\"Cadena de…\" fabricación en etapas sucesivas y continuas\r\n21-Concreción nacarada de las conchas marinas\r\n23-Película animada, sobre una competencia de canto\r\n28-Acomete, abalánzate\r\n29-Lugar donde se celebra dicho foro\r\n31-O te lo lees o no conoces a Shakespeare\r\n32-Firman con gananciales, se…\r\n34-No sonrió, se mantuvo estoico\r\n38-Primer emperador de la dinastía Bonaparte (1804-1814)\r\n39-Ejercer dominio altivo sobre otros \r\n42-Guardar en la hucha o en el banco\r\n43-Organiza el estante en siete decenas\r\n45-Cereal usado para hacer cerveza\r\n46-Remediar algo\r\n47-Escudo, arma defensiva\r\n48-La fuerza militar que limpian cuando regresan\r\n51-El sabor de chicle más vendido\r\n52-Costa Rica Buscar oro en los ríos de forma artesanal\r\n54-Pronombre demostrativo que señala algo presente\r\n56-\"Michael…\" escritor alemán de 'La historia interminable'\r\n59-El epicentro de los sismos",
+        "horizontal_clues": "1-Extrajese la humedad\r\n7-Adobaba las carnes con sal\r\n13-Calificaciones\r\n14-Cereal para hacer la harina del pan clásico\r\n16-Símbolo químico del Mendelevio\r\n18-Abusar física o psicológicamente \r\n19-Medio mega de memoria\r\n20-Pues, una plantación de pepinos \r\n22-Coloquial: Hombre que da muchos besos\r\n24-Dejé todo limpio y pulcro\r\n25-Acudirá con rabia\r\n26-Pantalón en inglés\r\n27-Vasija esférica con cuello largo y estrecho\r\n30-Correspondiente, relativo a algo\r\n33-Inspiración poética de corte doloroso\r\n35-El típico tejido de cuadros escocés\r\n36-\"Estás al…\" las redes, cuando no sueltas el móvil \r\n37-Armazón provisto de correas y hebillas (pl)\r\n40-Voz usada para denotar aprobación\r\n41-Par de huevos\r\n42-Pinturas al agua\r\n44-Símbolo químico de Erbio\r\n45-Hongos comestibles que coronan una pizza \r\n47-Poético: De cobre o bronce\r\n49-Tres anillos \r\n50-Pelusilla que se cría debajo de las camas por falta de aseo\r\n53-El arcángel que le dijo a María: \"Concebirás y darás a luz un hijo, a quien llamarás Jesús\" \r\n55-Conservar en la memoria algo\r\n57-El hijo deshuesado de Ragnar Lodbrok\r\n58-España Antigua moneda de Aragón\r\n60-Bebé, niño\r\n61-Inclinada, que tiene tendencia a algo\r\n62-Bebed, tragad\r\n63-Coloquialmente, la hermana\r\n64-Se colarán los locos, en Pozuelo de…\r\n65-Componer, arreglar",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,18,#,#,#,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,#,25,#,#,#,#,26,#,#,#\r\n27,#,#,#,28,29,#,#,30,31,32,#,#,#,#\r\n33,#,#,#,#,#,#,34,#,35,#,#,#,#,#\r\n36,#,#,#,37,#,38,#,39,#,#,#,40,#,#\r\n41,#,#,42,#,#,#,#,#,#,#,43,#,44,#\r\n#,#,45,#,#,#,#,#,#,#,#,#,46,#,#\r\n47,48,#,#,#,#,49,#,#,#,#,50,#,51,52\r\n53,#,#,#,#,54,#,#,55,56,#,#,#,#,#\r\n57,#,#,#,#,58,#,59,#,#,#,60,#,#,#\r\n61,#,#,#,#,62,#,#,#,#,#,63,#,#,#\r\n64,#,#,#,#,#,#,#,65,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

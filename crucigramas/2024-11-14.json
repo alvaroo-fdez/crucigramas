@@ -1,0 +1,441 @@
+{
+  "data": {
+    "id": 1187,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-12T16:59:11.659404Z",
+      "updatedAt": "2024-11-12T16:59:11.679678Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-14",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PAJE##PESADEZ#\r\nZOLA#DP#HUMEDAD\r\nACEITERA#RELUCE\r\nPERMISIVO#RICKY\r\nARTEMISA#MIMA#N\r\nLOA#ENARDECIDO#\r\nLS#F#T#O#GATOS#\r\nO#CACES#MANAR#F\r\n#TOCAR#F#L#R#FA\r\n#ENTRENADOR#OAR\r\nB#DOGS#CAMOMILA\r\nUHURU#BILATERAL\r\nFACIES#LANOLINA\r\nANTARES#IO#LAGO\r\n#SALOMON##FASE#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Oficio de quienes limpian los pozos",
+              "answer": "POCEROS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Me altera lo que relata sobre la alarma",
+              "answer": "ALERTA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"… de Armiñán\" escritor y director español (1927",
+              "answer": "JAIME"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Interjección usada para preguntar o llamar",
+              "answer": "EH"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"División Norte",
+              "answer": "SUR"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"El vuelo 11 de …Airlines\" el 1º en chocar contra las Torres Gemelas",
+              "answer": "AMERICAN"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Fijar los límites de algo",
+              "answer": "DELIMITAR"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Profesional de la enseñanza",
+              "answer": "EDUCADOR"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… Morris\" prota de 'Salvado por la campana' (serie de los 90')",
+              "answer": "ZACK"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Calabaza, auyama",
+              "answer": "ZAPALLO"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "Falta de motivación o apatía",
+              "answer": "DESINTERES"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Rapidez con que sucede o se ejecuta algo",
+              "answer": "PRISA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"Agyness…\" exmodelo y actriz",
+              "answer": "DEYN"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Lo metí en líos, cuando lo engañé",
+              "answer": "TIME"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Álvaro sólo sacó 50 porque es muy tacaño",
+              "answer": "AVARO"
+            },
+            "23": {
+              "col": 9,
+              "row": 4,
+              "clue": "Obsesionado con el poder y la grandeza",
+              "answer": "MEGALOMANO"
+            },
+            "26": {
+              "col": 13,
+              "row": 5,
+              "clue": "Símbolo químico del osmio",
+              "answer": "OS"
+            },
+            "28": {
+              "col": 3,
+              "row": 6,
+              "clue": "Operación matemática con números enteros",
+              "answer": "FACTORIAL"
+            },
+            "30": {
+              "col": 2,
+              "row": 7,
+              "clue": "Manera de comportarse",
+              "answer": "CONDUCTA"
+            },
+            "31": {
+              "col": 4,
+              "row": 7,
+              "clue": "Nave para transportar mercancías",
+              "answer": "CARGUERO"
+            },
+            "33": {
+              "col": 14,
+              "row": 7,
+              "clue": "Encaje colgante de las faldas",
+              "answer": "FARALAO"
+            },
+            "34": {
+              "col": 1,
+              "row": 8,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "35": {
+              "col": 7,
+              "row": 8,
+              "clue": "Que requiere poco esfuerzo",
+              "answer": "FACIL"
+            },
+            "36": {
+              "col": 13,
+              "row": 8,
+              "clue": "Cada una de las partes articuladas de un dedo",
+              "answer": "FALANGE"
+            },
+            "38": {
+              "col": 8,
+              "row": 9,
+              "clue": "\"… Lama\", líder espiritual del budismo tibetano",
+              "answer": "DALAI"
+            },
+            "39": {
+              "col": 10,
+              "row": 9,
+              "clue": "Hecho añicos",
+              "answer": "ROTO"
+            },
+            "40": {
+              "col": 12,
+              "row": 9,
+              "clue": "¿Escucharías la versión de un Asirio?",
+              "answer": "OIRIAS"
+            },
+            "41": {
+              "col": 0,
+              "row": 10,
+              "clue": "Resopla con ira y furor",
+              "answer": "BUFA"
+            },
+            "44": {
+              "col": 11,
+              "row": 10,
+              "clue": "Hendidura en el filo de un cuchillo",
+              "answer": "MELLA"
+            },
+            "46": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"… Gamper\" fundador de F C Barcelona (1899)",
+              "answer": "HANS"
+            },
+            "49": {
+              "col": 5,
+              "row": 12,
+              "clue": "Este semestre en concreto",
+              "answer": "SEM"
+            },
+            "52": {
+              "col": 6,
+              "row": 13,
+              "clue": "Voz para calmar a las bestias",
+              "answer": "SO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Criado joven que servía en la casa de sus amos",
+              "answer": "PAJE"
+            },
+            "4": {
+              "col": 7,
+              "row": 0,
+              "clue": "Gravedad terrestre",
+              "answer": "PESADEZ"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"Émile…\" francés autor del libro 'Thérèse Raquin' y 'Nana'",
+              "answer": "ZOLA"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "Dani Pedroza escuchando Daft Punk",
+              "answer": "DP"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Agua que está impregnada a un cuerpo",
+              "answer": "HUMEDAD"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Lo aceitaré mejor si uso el frasco adecuado",
+              "answer": "ACEITERA"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Resplandece, brilla, relumbra",
+              "answer": "RELUCE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Poco estricto con las normas",
+              "answer": "PERMISIVO"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"… Gervais\", comediante británico",
+              "answer": "RICKY"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Hermana melliza de Apolo",
+              "answer": "ARTEMISA"
+            },
+            "23": {
+              "col": 9,
+              "row": 4,
+              "clue": "Trata con cuidado su proyecto, lo…",
+              "answer": "MIMA"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Realza, glorifica",
+              "answer": "LOA"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Lleno de pasión o ira",
+              "answer": "ENARDECIDO"
+            },
+            "27": {
+              "col": 0,
+              "row": 6,
+              "clue": "¿Luis Scolari o Lionel Scaloni?",
+              "answer": "LS"
+            },
+            "29": {
+              "col": 9,
+              "row": 6,
+              "clue": "Los hay hidráulicos y mecánicos, los que levantan al coche",
+              "answer": "GATOS"
+            },
+            "30": {
+              "col": 2,
+              "row": 7,
+              "clue": "Busques o sigas a un animal",
+              "answer": "CACES"
+            },
+            "32": {
+              "col": 8,
+              "row": 7,
+              "clue": "Brotar, fluir un líquido",
+              "answer": "MANAR"
+            },
+            "34": {
+              "col": 1,
+              "row": 8,
+              "clue": "Ejecutar un instrumento musical",
+              "answer": "TOCAR"
+            },
+            "36": {
+              "col": 13,
+              "row": 8,
+              "clue": "En medio de mi sol",
+              "answer": "FA"
+            },
+            "37": {
+              "col": 1,
+              "row": 9,
+              "clue": "Guía deportivo profesional",
+              "answer": "ENTRENADOR"
+            },
+            "40": {
+              "col": 12,
+              "row": 9,
+              "clue": "Orden de Agustinos Recoletos",
+              "answer": "OAR"
+            },
+            "42": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"Reservoir…\" de Tarantino",
+              "answer": "DOGS"
+            },
+            "43": {
+              "col": 7,
+              "row": 10,
+              "clue": "Una manzanilla",
+              "answer": "CAMOMILA"
+            },
+            "45": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Kenyatta\" expresidente de Kenia (2013 al 2022)",
+              "answer": "UHURU"
+            },
+            "47": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Acuerdo…\" compromiso que asumen dos naciones",
+              "answer": "BILATERAL"
+            },
+            "48": {
+              "col": 0,
+              "row": 12,
+              "clue": "Aspecto característico de una enfermedad",
+              "answer": "FACIES"
+            },
+            "50": {
+              "col": 7,
+              "row": 12,
+              "clue": "Grasa natural de la lana",
+              "answer": "LANOLINA"
+            },
+            "51": {
+              "col": 0,
+              "row": 13,
+              "clue": "Estrella más brillante de la constelación de Escorpio",
+              "answer": "ANTARES"
+            },
+            "53": {
+              "col": 8,
+              "row": 13,
+              "clue": "Dominio web para océano Índico británico",
+              "answer": "IO"
+            },
+            "54": {
+              "col": 11,
+              "row": 13,
+              "clue": "Gran masa de agua dulce",
+              "answer": "LAGO"
+            },
+            "55": {
+              "col": 1,
+              "row": 14,
+              "clue": "Rey de Israel, hijo de David",
+              "answer": "SALOMON"
+            },
+            "56": {
+              "col": 10,
+              "row": 14,
+              "clue": "Período, etapa de un suceso",
+              "answer": "FASE"
+            }
+          }
+        },
+        "vertical_clues": "1-Oficio de quienes limpian los pozos\r\n2-Me altera lo que relata sobre la alarma\r\n3-\"… de Armiñán\" escritor y director español (1927-2024) \r\n5-Interjección usada para preguntar o llamar\r\n6-\"División Norte-…\" brecha a reducir\r\n7-\"El vuelo 11 de …Airlines\" el 1º en chocar contra las Torres Gemelas\r\n8-Fijar los límites de algo \r\n9-Profesional de la enseñanza \r\n10-\"… Morris\" prota de 'Salvado por la campana' (serie de los 90')\r\n11-Calabaza, auyama\r\n12-Falta de motivación o apatía \r\n13-Rapidez con que sucede o se ejecuta algo\r\n15-\"Agyness…\" exmodelo y actriz\r\n17-Lo metí en líos, cuando lo engañé\r\n18-Álvaro sólo sacó 50 porque es muy tacaño\r\n23-Obsesionado con el poder y la grandeza \r\n26-Símbolo químico del osmio\r\n28-Operación matemática con números enteros \r\n30-Manera de comportarse \r\n31-Nave para transportar mercancías \r\n33-Encaje colgante de las faldas\r\n34-Teluro\r\n35-Que requiere poco esfuerzo\r\n36-Cada una de las partes articuladas de un dedo\r\n38-\"… Lama\", líder espiritual del budismo tibetano\r\n39-Hecho añicos\r\n40-¿Escucharías la versión de un Asirio? \r\n41-Resopla con ira y furor\r\n44-Hendidura en el filo de un cuchillo\r\n46-\"… Gamper\" fundador de F C Barcelona (1899)\r\n49-Este semestre en concreto\r\n52-Voz para calmar a las bestias\r\n",
+        "horizontal_clues": "1-Criado joven que servía en la casa de sus amos\r\n4-Gravedad terrestre\r\n11-\"Émile…\" francés autor del libro 'Thérèse Raquin' y 'Nana'\r\n12-Dani Pedroza escuchando Daft Punk\r\n14-Agua que está impregnada a un cuerpo\r\n16-Lo aceitaré mejor si uso el frasco adecuado\r\n19-Resplandece, brilla, relumbra\r\n20-Poco estricto con las normas \r\n21-\"… Gervais\", comediante británico\r\n22-Hermana melliza de Apolo\r\n23-Trata con cuidado su proyecto, lo…\r\n24-Realza, glorifica\r\n25-Lleno de pasión o ira \r\n27-¿Luis Scolari o Lionel Scaloni? \r\n29-Los hay hidráulicos y mecánicos, los que levantan al coche\r\n30-Busques o sigas a un animal\r\n32-Brotar, fluir un líquido\r\n34-Ejecutar un instrumento musical\r\n36-En medio de mi sol\r\n37-Guía deportivo profesional \r\n40-Orden de Agustinos Recoletos\r\n42-\"Reservoir…\" de Tarantino\r\n43-Una manzanilla\r\n45-\"… Kenyatta\" expresidente de Kenia (2013 al 2022)\r\n47-\"Acuerdo…\" compromiso que asumen dos naciones\r\n48-Aspecto característico de una enfermedad \r\n50-Grasa natural de la lana \r\n51-Estrella más brillante de la constelación de Escorpio\r\n53-Dominio web para océano Índico británico\r\n54-Gran masa de agua dulce\r\n55-Rey de Israel, hijo de David\r\n56-Período, etapa de un suceso\r\n",
+        "board_clues_positions": "#,1,2,3,#,#,#,4,5,6,7,8,9,10,#\r\n11,#,#,#,#,12,13,#,14,#,#,#,#,#,15\r\n16,#,#,#,17,#,#,18,#,19,#,#,#,#,#\r\n20,#,#,#,#,#,#,#,#,#,21,#,#,#,#\r\n22,#,#,#,#,#,#,#,#,23,#,#,#,#,#\r\n24,#,#,#,25,#,#,#,#,#,#,#,#,26,#\r\n27,#,#,28,#,#,#,#,#,29,#,#,#,#,#\r\n#,#,30,#,31,#,#,#,32,#,#,#,#,#,33\r\n#,34,#,#,#,#,#,35,#,#,#,#,#,36,#\r\n#,37,#,#,#,#,#,#,38,#,39,#,40,#,#\r\n41,#,42,#,#,#,#,43,#,#,#,44,#,#,#\r\n45,46,#,#,#,#,47,#,#,#,#,#,#,#,#\r\n48,#,#,#,#,49,#,50,#,#,#,#,#,#,#\r\n51,#,#,#,#,#,52,#,53,#,#,54,#,#,#\r\n#,55,#,#,#,#,#,#,#,#,56,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

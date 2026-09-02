@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 4030,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.621163Z",
+      "updatedAt": "2025-12-29T07:24:29.365751Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FRANCO#HILVANAR\r\nRETRASO#APELADO\r\nEH#CREMA#IDOS#T\r\nSUA#STAND#ACODO\r\nCINC#ASAOS#AFAN\r\nORTOS#OLMOS#ARD\r\nR#IRAS#GALLARDA\r\n#PARLAMENTARIO#\r\nGALEONES#ESPN#A\r\nLIE#NECIO#HAGAN\r\nARRA#SACRA#DEBI\r\nNAGAS#SOBRA#OOL\r\nD#IRAK#SELLO#RL\r\nESCOLAR#SOFRITO\r\nSIONISMO#SAUCOS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Una calidez, frescura",
+              "answer": "FRESCOR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Evitar el trato o la compañía de alguien",
+              "answer": "REHUIR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo químico del Ástato",
+              "answer": "AT"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Número de Referencia Completo",
+              "answer": "NRC"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Peli de Disney protagonizada por Rayo McQueen",
+              "answer": "CARS"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Lo que pertenece a la rufianesca",
+              "answer": "OSETA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hacia la derecha",
+              "answer": "IA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ley de Propiedad Intelectual",
+              "answer": "LPI"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Prohíbe por ley",
+              "answer": "VEDA"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Enloquece, se desordena, se…",
+              "answer": "ALOCA"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Que está detrás de la nariz y por encima del paladar",
+              "answer": "NASOFARINGEO"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"…hoc\" apropiada expresión latina",
+              "answer": "AD"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Plaza circular",
+              "answer": "ROTONDA"
+            },
+            "16": {
+              "col": 6,
+              "row": 1,
+              "clue": "Tercer estómago de los rumiantes",
+              "answer": "OMASO"
+            },
+            "20": {
+              "col": 7,
+              "row": 2,
+              "clue": "Medicamentos que calman el dolor",
+              "answer": "ANALGESICOS"
+            },
+            "23": {
+              "col": 2,
+              "row": 3,
+              "clue": "Medicamento que previene una reacción del sistema inmunitario",
+              "answer": "ANTIALERGICO"
+            },
+            "25": {
+              "col": 8,
+              "row": 3,
+              "clue": "Sujetan, amansan y hacen dócil",
+              "answer": "DOMAN"
+            },
+            "27": {
+              "col": 13,
+              "row": 3,
+              "clue": "Arma arrojadiza",
+              "answer": "DARDO"
+            },
+            "29": {
+              "col": 3,
+              "row": 4,
+              "clue": "Va deprisa",
+              "answer": "CORRE"
+            },
+            "31": {
+              "col": 9,
+              "row": 4,
+              "clue": "Dejé caer la riendas, las…",
+              "answer": "SOLTE"
+            },
+            "34": {
+              "col": 4,
+              "row": 5,
+              "clue": "Habitación principal en que se suele recibir a las visitas",
+              "answer": "SALON"
+            },
+            "36": {
+              "col": 10,
+              "row": 5,
+              "clue": "Guns N' Roses / el guitarrista",
+              "answer": "SLASH"
+            },
+            "39": {
+              "col": 5,
+              "row": 6,
+              "clue": "Recuperes la salud",
+              "answer": "SANES"
+            },
+            "41": {
+              "col": 11,
+              "row": 6,
+              "clue": "Dinastía medieval húngara",
+              "answer": "ARPAD"
+            },
+            "42": {
+              "col": 1,
+              "row": 7,
+              "clue": "Mantén el barco, con las velas quietas y tendidas",
+              "answer": "PAIRA"
+            },
+            "43": {
+              "col": 6,
+              "row": 7,
+              "clue": "Lugar donde una actividad tiene su mayor cultivo (pl)",
+              "answer": "MECAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 8,
+              "clue": "Parte final del pene (pl)",
+              "answer": "GLANDES"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Aros, argollas",
+              "answer": "ANILLOS"
+            },
+            "49": {
+              "col": 8,
+              "row": 9,
+              "clue": "Esfera celeste o terrestre (pl)",
+              "answer": "ORBES"
+            },
+            "51": {
+              "col": 13,
+              "row": 9,
+              "clue": "Abandonó la misión",
+              "answer": "ABORTO"
+            },
+            "53": {
+              "col": 3,
+              "row": 10,
+              "clue": "El hermano de Moisés",
+              "answer": "AARON"
+            },
+            "55": {
+              "col": 9,
+              "row": 10,
+              "clue": "Colgajos, racimos de frutas",
+              "answer": "ARLOS"
+            },
+            "58": {
+              "col": 4,
+              "row": 11,
+              "clue": "Pasé de dentro hacia afuera",
+              "answer": "SALI"
+            },
+            "60": {
+              "col": 10,
+              "row": 11,
+              "clue": "El… y la omega, el principio y el fin",
+              "answer": "ALFA"
+            },
+            "63": {
+              "col": 5,
+              "row": 12,
+              "clue": "Kkkkkkk",
+              "answer": "KAS"
+            },
+            "65": {
+              "col": 11,
+              "row": 12,
+              "clue": "Un orujo sin terminar",
+              "answer": "ORU"
+            },
+            "68": {
+              "col": 1,
+              "row": 13,
+              "clue": "La última de la escala musical",
+              "answer": "SI"
+            },
+            "69": {
+              "col": 6,
+              "row": 13,
+              "clue": "Iniciales de puertorriqueño que canta \"Livin' la vida loca\"",
+              "answer": "RM"
+            },
+            "71": {
+              "col": 12,
+              "row": 13,
+              "clue": "Instituto Cervantes",
+              "answer": "IC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Moneda oficial de Suiza",
+              "answer": "FRANCO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Unir con hilvanes lo que se ha de coser después",
+              "answer": "HILVANAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Demora, tardanza",
+              "answer": "RETRASO"
+            },
+            "17": {
+              "col": 8,
+              "row": 1,
+              "clue": "He recurrido, ante el juez",
+              "answer": "APELADO"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Voz para reprender o advertir",
+              "answer": "EH"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Hidratante o antiarrugas",
+              "answer": "CREMA"
+            },
+            "21": {
+              "col": 9,
+              "row": 2,
+              "clue": "Dios loco por los locos",
+              "answer": "IDOS"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Suya en italiano",
+              "answer": "SUA"
+            },
+            "24": {
+              "col": 4,
+              "row": 3,
+              "clue": "Instalación de feria, para venta de productos",
+              "answer": "STAND"
+            },
+            "26": {
+              "col": 10,
+              "row": 3,
+              "clue": "Técnica para sacar raíces a un tallo sin separarlo de la planta madre",
+              "answer": "ACODO"
+            },
+            "28": {
+              "col": 0,
+              "row": 4,
+              "clue": "Elemento químico esencial de número atómico 30",
+              "answer": "CINC"
+            },
+            "30": {
+              "col": 5,
+              "row": 4,
+              "clue": "Moríos de calor",
+              "answer": "ASAOS"
+            },
+            "32": {
+              "col": 11,
+              "row": 4,
+              "clue": "Deseo intenso o aspiración de algo",
+              "answer": "AFAN"
+            },
+            "33": {
+              "col": 0,
+              "row": 5,
+              "clue": "Aparición del Sol (pl)",
+              "answer": "ORTOS"
+            },
+            "35": {
+              "col": 6,
+              "row": 5,
+              "clue": "Estos árboles tienen unos lomos deformes",
+              "answer": "OLMOS"
+            },
+            "37": {
+              "col": 12,
+              "row": 5,
+              "clue": "La doctora va a regresar",
+              "answer": "ARD"
+            },
+            "38": {
+              "col": 2,
+              "row": 6,
+              "clue": "Asistirás a pesar de las rabietas",
+              "answer": "IRAS"
+            },
+            "40": {
+              "col": 7,
+              "row": 6,
+              "clue": "Valiente, bizarra",
+              "answer": "GALLARDA"
+            },
+            "42": {
+              "col": 1,
+              "row": 7,
+              "clue": "El negociador enviado del confuso Planeta Ramiro",
+              "answer": "PARLAMENTARIO"
+            },
+            "44": {
+              "col": 0,
+              "row": 8,
+              "clue": "Bajeles grandes de vela, parecidos a las galeras",
+              "answer": "GALEONES"
+            },
+            "45": {
+              "col": 9,
+              "row": 8,
+              "clue": "Canal deportivo de TV por cable",
+              "answer": "ESPN"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Me armé un cigarrillo con el loco Eli",
+              "answer": "LIE"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "Terco y porfiado en lo que hace o dice",
+              "answer": "NECIO"
+            },
+            "50": {
+              "col": 10,
+              "row": 9,
+              "clue": "Produzcan algo, generen, creen",
+              "answer": "HAGAN"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Adelanto de pago en una compraventa",
+              "answer": "ARRA"
+            },
+            "54": {
+              "col": 5,
+              "row": 10,
+              "clue": "Cosa sagrada",
+              "answer": "SACRA"
+            },
+            "56": {
+              "col": 11,
+              "row": 10,
+              "clue": "Estuve obligado",
+              "answer": "DEBI"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Seres míticos del hinduismo en forma de serpientes",
+              "answer": "NAGAS"
+            },
+            "59": {
+              "col": 6,
+              "row": 11,
+              "clue": "Resto de comida",
+              "answer": "SOBRA"
+            },
+            "61": {
+              "col": 12,
+              "row": 11,
+              "clue": "Oficina de Oceanografía y Limnología",
+              "answer": "OOL"
+            },
+            "62": {
+              "col": 2,
+              "row": 12,
+              "clue": "País cuya capital es Bagdad",
+              "answer": "IRAK"
+            },
+            "64": {
+              "col": 7,
+              "row": 12,
+              "clue": "Marca oficial",
+              "answer": "SELLO"
+            },
+            "66": {
+              "col": 13,
+              "row": 12,
+              "clue": "Inic de la cantante, primera ganadora de Operación Triunfo",
+              "answer": "RL"
+            },
+            "67": {
+              "col": 0,
+              "row": 13,
+              "clue": "Agenda que inicia en el mes de septiembre",
+              "answer": "ESCOLAR"
+            },
+            "70": {
+              "col": 8,
+              "row": 13,
+              "clue": "Condimento compuesto por varias legumbres fritas",
+              "answer": "SOFRITO"
+            },
+            "72": {
+              "col": 0,
+              "row": 14,
+              "clue": "Movimiento político judío",
+              "answer": "SIONISMO"
+            },
+            "73": {
+              "col": 9,
+              "row": 14,
+              "clue": "Parte de los cascos de los caballos (pl)",
+              "answer": "SAUCOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Una calidez, frescura\r\n2-Evitar el trato o la compañía de alguien\r\n3-Símbolo químico del Ástato\r\n4-Número de Referencia Completo\r\n5-Peli de Disney protagonizada por Rayo McQueen\r\n6-Lo que pertenece a la rufianesca\r\n8-Hacia la derecha\r\n9-Ley de Propiedad Intelectual\r\n10-Prohíbe por ley\r\n11-Enloquece, se desordena, se…\r\n12-Que está detrás de la nariz y por encima del paladar\r\n13-\"…hoc\" apropiada expresión latina\r\n14-Plaza circular\r\n16-Tercer estómago de los rumiantes\r\n20-Medicamentos que calman el dolor\r\n23-Medicamento que previene una reacción del sistema inmunitario\r\n25-Sujetan, amansan y hacen dócil\r\n27-Arma arrojadiza\r\n29-Va deprisa\r\n31-Dejé caer la riendas, las…\r\n34-Habitación principal en que se suele recibir a las visitas\r\n36-Guns N' Roses / el guitarrista\r\n39-Recuperes la salud\r\n41-Dinastía medieval húngara\r\n42-Mantén el barco, con las velas quietas y tendidas\r\n43-Lugar donde una actividad tiene su mayor cultivo (pl)\r\n44-Parte final del pene (pl)\r\n46-Aros, argollas\r\n49-Esfera celeste o terrestre (pl)\r\n51-Abandonó la misión\r\n53-El hermano de Moisés\r\n55-Colgajos, racimos de frutas\r\n58-Pasé de dentro hacia afuera\r\n60-El… y la omega, el principio y el fin\r\n63-Kkkkkkk\r\n65-Un orujo sin terminar\r\n68-La última de la escala musical\r\n69-Iniciales de puertorriqueño que canta \"Livin' la vida loca\"\r\n71-Instituto Cervantes",
+        "horizontal_clues": "1-Moneda oficial de Suiza\r\n7-Unir con hilvanes lo que se ha de coser después\r\n15-Demora, tardanza\r\n17-He recurrido, ante el juez\r\n18-Voz para reprender o advertir\r\n19-Hidratante o antiarrugas\r\n21-Dios loco por los locos\r\n22-Suya en italiano\r\n24-Instalación de feria, para venta de productos\r\n26-Técnica para sacar raíces a un tallo sin separarlo de la planta madre\r\n28-Elemento químico esencial de número atómico 30\r\n30-Moríos de calor\r\n32-Deseo intenso o aspiración de algo\r\n33-Aparición del Sol (pl)\r\n35-Estos árboles tienen unos lomos deformes\r\n37-La doctora va a regresar\r\n38-Asistirás a pesar de las rabietas\r\n40-Valiente, bizarra\r\n42-El negociador enviado del confuso Planeta Ramiro\r\n44-Bajeles grandes de vela, parecidos a las galeras\r\n45-Canal deportivo de TV por cable\r\n47-Me armé un cigarrillo con el loco Eli\r\n48-Terco y porfiado en lo que hace o dice\r\n50-Produzcan algo, generen, creen\r\n52-Adelanto de pago en una compraventa\r\n54-Cosa sagrada\r\n56-Estuve obligado\r\n57-Seres míticos del hinduismo en forma de serpientes\r\n59-Resto de comida\r\n61-Oficina de Oceanografía y Limnología\r\n62-País cuya capital es Bagdad\r\n64-Marca oficial\r\n66-Inic de la cantante, primera ganadora de Operación Triunfo\r\n67-Agenda que inicia en el mes de septiembre\r\n70-Condimento compuesto por varias legumbres fritas\r\n72-Movimiento político judío\r\n73-Parte de los cascos de los caballos (pl)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,10,11,12,13,14\r\n15,#,#,#,#,#,16,#,17,#,#,#,#,#,#\r\n18,#,#,19,#,#,#,20,#,21,#,#,#,#,#\r\n22,#,23,#,24,#,#,#,25,#,26,#,#,27,#\r\n28,#,#,29,#,30,#,#,#,31,#,32,#,#,#\r\n33,#,#,#,34,#,35,#,#,#,36,#,37,#,#\r\n#,#,38,#,#,39,#,40,#,#,#,41,#,#,#\r\n#,42,#,#,#,#,43,#,#,#,#,#,#,#,#\r\n44,#,#,#,#,#,#,#,#,45,#,#,#,#,46\r\n47,#,#,#,48,#,#,#,49,#,50,#,#,51,#\r\n52,#,#,53,#,54,#,#,#,55,#,56,#,#,#\r\n57,#,#,#,58,#,59,#,#,#,60,#,61,#,#\r\n#,#,62,#,#,63,#,64,#,#,#,65,#,66,#\r\n67,68,#,#,#,#,69,#,70,#,#,#,71,#,#\r\n72,#,#,#,#,#,#,#,#,73,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

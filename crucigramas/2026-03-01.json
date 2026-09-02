@@ -1,0 +1,456 @@
+{
+  "data": {
+    "id": 5037,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-28T09:19:21.486048Z",
+      "updatedAt": "2026-02-28T09:21:42.589603Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "######S#N######\r\n#TA###I#O###CA#\r\nCOLAS##L##PIOLA\r\nUNIDAD#E#HEROES\r\nLAA#BOHEMIA#PGI\r\nEDNA#RESET#HERA\r\n#AZUCAR#DEPURA#\r\n##ALH#M#I#AMA##\r\n###LENA#ATTA###\r\n#AMARON#CRONOS#\r\nASAS#RD#II#OPEN\r\nHAN#DIALOGO#IDO\r\nALTERAD#NARINAS\r\n#OIDOS###LEGAL#\r\n##SON#####SOR##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 6,
+              "row": 0,
+              "clue": "¿Seguimos? …",
+              "answer": "SI"
+            },
+            "2": {
+              "col": 8,
+              "row": 0,
+              "clue": "¿Paramos? …",
+              "answer": "NO"
+            },
+            "3": {
+              "col": 1,
+              "row": 1,
+              "clue": "Acento característico del modo de hablar de cada región",
+              "answer": "TONADA"
+            },
+            "4": {
+              "col": 2,
+              "row": 1,
+              "clue": "Analiza mejor el pacto",
+              "answer": "ALIANZA"
+            },
+            "5": {
+              "col": 12,
+              "row": 1,
+              "clue": "Trabaja en conjunto, colabora",
+              "answer": "COOPERA"
+            },
+            "6": {
+              "col": 13,
+              "row": 1,
+              "clue": "Genera felicidad",
+              "answer": "ALEGRA"
+            },
+            "7": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un seguidor del Barcelona",
+              "answer": "CULE"
+            },
+            "8": {
+              "col": 3,
+              "row": 2,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "9": {
+              "col": 4,
+              "row": 2,
+              "clue": "Novela escrita por Gertrudis Gómez de Avellaneda en 1841",
+              "answer": "SAB"
+            },
+            "10": {
+              "col": 7,
+              "row": 2,
+              "clue": "Te documentas para tener argumentos",
+              "answer": "LEES"
+            },
+            "11": {
+              "col": 10,
+              "row": 2,
+              "clue": "Venezuela: Embriaguez, borrachera",
+              "answer": "PEA"
+            },
+            "12": {
+              "col": 11,
+              "row": 2,
+              "clue": "Lo que tienen en común Ignacio Ramonet e Ivonne Reyes",
+              "answer": "IR"
+            },
+            "13": {
+              "col": 14,
+              "row": 2,
+              "clue": "El más poblado de los continentes",
+              "answer": "ASIA"
+            },
+            "15": {
+              "col": 5,
+              "row": 3,
+              "clue": "\"… Maar\" artista plástica francesa",
+              "answer": "DORA"
+            },
+            "16": {
+              "col": 9,
+              "row": 3,
+              "clue": "Hoy Inicia Tu Evolución",
+              "answer": "HITE"
+            },
+            "19": {
+              "col": 6,
+              "row": 4,
+              "clue": "Lazo fraterno que une en igualdad",
+              "answer": "HERMANDAD"
+            },
+            "20": {
+              "col": 8,
+              "row": 4,
+              "clue": "Intervención neutral para resolver conflicto",
+              "answer": "MEDIACION"
+            },
+            "23": {
+              "col": 3,
+              "row": 5,
+              "clue": "Haces como un hombre lobo a la luna llena",
+              "answer": "AULLAS"
+            },
+            "25": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"Comprensivo, sensible a los infortunios ajenos\" La Rae",
+              "answer": "HUMANO"
+            },
+            "27": {
+              "col": 4,
+              "row": 6,
+              "clue": "La Diva que canta 'Do you believe in life after love?'",
+              "answer": "CHER"
+            },
+            "29": {
+              "col": 10,
+              "row": 6,
+              "clue": "Tapó mal el de foie gras",
+              "answer": "PATO"
+            },
+            "33": {
+              "col": 5,
+              "row": 8,
+              "clue": "Las ruedas de feria",
+              "answer": "NORIAS"
+            },
+            "35": {
+              "col": 9,
+              "row": 8,
+              "clue": "Donde comen trigo los tres tristes tigres",
+              "answer": "TRIGAL"
+            },
+            "36": {
+              "col": 1,
+              "row": 9,
+              "clue": "Cocínalo, no te lo comas crudo",
+              "answer": "ASALO"
+            },
+            "37": {
+              "col": 2,
+              "row": 9,
+              "clue": "El insecto ninja",
+              "answer": "MANTIS"
+            },
+            "39": {
+              "col": 12,
+              "row": 9,
+              "clue": "Decir lo que se piensa sobre un asunto",
+              "answer": "OPINAR"
+            },
+            "40": {
+              "col": 13,
+              "row": 9,
+              "clue": "Dales el hilo, que se van a pescar",
+              "answer": "SEDAL"
+            },
+            "41": {
+              "col": 0,
+              "row": 10,
+              "clue": "Saliendo de la Yamaha",
+              "answer": "AHA"
+            },
+            "45": {
+              "col": 14,
+              "row": 10,
+              "clue": "Nosotros",
+              "answer": "NOS"
+            },
+            "47": {
+              "col": 4,
+              "row": 11,
+              "clue": "Aeronave no tripulada",
+              "answer": "DRON"
+            },
+            "48": {
+              "col": 10,
+              "row": 11,
+              "clue": "Pidas a tu Dios",
+              "answer": "ORES"
+            },
+            "51": {
+              "col": 3,
+              "row": 12,
+              "clue": "Un microestado",
+              "answer": "EDO"
+            },
+            "53": {
+              "col": 11,
+              "row": 12,
+              "clue": "Sigo con la cabeza perdida",
+              "answer": "IGO"
+            }
+          },
+          "across": {
+            "3": {
+              "col": 1,
+              "row": 1,
+              "clue": "El taxi no llega a las 11:00",
+              "answer": "TA"
+            },
+            "5": {
+              "col": 12,
+              "row": 1,
+              "clue": "Medio loca y en Canadá",
+              "answer": "CA"
+            },
+            "7": {
+              "col": 0,
+              "row": 2,
+              "clue": "Las meneadas por los perros alegres",
+              "answer": "COLAS"
+            },
+            "11": {
+              "col": 10,
+              "row": 2,
+              "clue": "Chile Coloq Agradable",
+              "answer": "PIOLA"
+            },
+            "14": {
+              "col": 0,
+              "row": 3,
+              "clue": "Estado de concordia y acuerdo entre personas",
+              "answer": "UNIDAD"
+            },
+            "16": {
+              "col": 9,
+              "row": 3,
+              "clue": "Los hay, sin capa ni espada",
+              "answer": "HEROES"
+            },
+            "17": {
+              "col": 0,
+              "row": 4,
+              "clue": "Dame un 'LA' sostenido",
+              "answer": "LAA"
+            },
+            "18": {
+              "col": 4,
+              "row": 4,
+              "clue": "\"Rapsodia …\" canción de Freddie Mercury",
+              "answer": "BOHEMIA"
+            },
+            "21": {
+              "col": 12,
+              "row": 4,
+              "clue": "España Partido Gallego Independiente (siglas)",
+              "answer": "PGI"
+            },
+            "22": {
+              "col": 0,
+              "row": 5,
+              "clue": "Increíble esta diseñadora de modas de superhéroes",
+              "answer": "EDNA"
+            },
+            "24": {
+              "col": 5,
+              "row": 5,
+              "clue": "Retes a Ester a que reinicie su sistema (de pensamiento)",
+              "answer": "RESET"
+            },
+            "25": {
+              "col": 11,
+              "row": 5,
+              "clue": "Era la madre de todos los dioses griegos",
+              "answer": "HERA"
+            },
+            "26": {
+              "col": 1,
+              "row": 6,
+              "clue": "Dulces granos cristalinos",
+              "answer": "AZUCAR"
+            },
+            "28": {
+              "col": 8,
+              "row": 6,
+              "clue": "Limpia de impurezas o errores",
+              "answer": "DEPURA"
+            },
+            "30": {
+              "col": 2,
+              "row": 7,
+              "clue": "Alpha, Lima, Hotel",
+              "answer": "ALH"
+            },
+            "31": {
+              "col": 10,
+              "row": 7,
+              "clue": "\"… a tu prójimo como a ti mismo\"",
+              "answer": "AMA"
+            },
+            "32": {
+              "col": 3,
+              "row": 8,
+              "clue": "Río de Asturias",
+              "answer": "LENA"
+            },
+            "34": {
+              "col": 8,
+              "row": 8,
+              "clue": "Princesa de la Colonia en la película \"Bichos\" de Disney",
+              "answer": "ATTA"
+            },
+            "36": {
+              "col": 1,
+              "row": 9,
+              "clue": "Adoraron a la romana loca",
+              "answer": "AMARON"
+            },
+            "38": {
+              "col": 8,
+              "row": 9,
+              "clue": "Devorador mítico, señor del tiempo",
+              "answer": "CRONOS"
+            },
+            "41": {
+              "col": 0,
+              "row": 10,
+              "clue": "Asideros, mangos",
+              "answer": "ASAS"
+            },
+            "42": {
+              "col": 5,
+              "row": 10,
+              "clue": "Iniciales del Cid Campeador",
+              "answer": "RD"
+            },
+            "43": {
+              "col": 8,
+              "row": 10,
+              "clue": "Palito palito",
+              "answer": "II"
+            },
+            "44": {
+              "col": 11,
+              "row": 10,
+              "clue": "Se ha abierto esta competición de tenis",
+              "answer": "OPEN"
+            },
+            "46": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dinastía china, durante la cual se inventó el papel",
+              "answer": "HAN"
+            },
+            "47": {
+              "col": 4,
+              "row": 11,
+              "clue": "Intercambio comunicativo entre partes afectadas",
+              "answer": "DIALOGO"
+            },
+            "49": {
+              "col": 12,
+              "row": 11,
+              "clue": "Absorto en un pensamiento",
+              "answer": "IDO"
+            },
+            "50": {
+              "col": 0,
+              "row": 12,
+              "clue": "Cambiad el orden y alertad a la letrada",
+              "answer": "ALTERAD"
+            },
+            "52": {
+              "col": 8,
+              "row": 12,
+              "clue": "Orificios nasales externos",
+              "answer": "NARINAS"
+            },
+            "54": {
+              "col": 1,
+              "row": 13,
+              "clue": "Oy2",
+              "answer": "OIDOS"
+            },
+            "55": {
+              "col": 9,
+              "row": 13,
+              "clue": "Carácter que debe tener una propuesta para que sea obligatoria",
+              "answer": "LEGAL"
+            },
+            "56": {
+              "col": 2,
+              "row": 14,
+              "clue": "El ritmo favorito de Sansón",
+              "answer": "SON"
+            },
+            "57": {
+              "col": 10,
+              "row": 14,
+              "clue": "Hermana, tengamos un poco de sororidad",
+              "answer": "SOR"
+            }
+          }
+        },
+        "vertical_clues": "1-¿Seguimos? …\r\n2-¿Paramos? …\r\n3-Acento característico del modo de hablar de cada región\r\n4-Analiza mejor el pacto\r\n5-Trabaja en conjunto, colabora\r\n6-Genera felicidad\r\n7-Un seguidor del Barcelona\r\n8-Dominio web para Andorra\r\n9-Novela escrita por Gertrudis Gómez de Avellaneda en 1841\r\n10-Te documentas para tener argumentos\r\n11-Venezuela: Embriaguez, borrachera\r\n12-Lo que tienen en común Ignacio Ramonet e Ivonne Reyes\r\n13-El más poblado de los continentes\r\n15-\"… Maar\" artista plástica francesa\r\n16-Hoy Inicia Tu Evolución\r\n19-Lazo fraterno que une en igualdad\r\n20-Intervención neutral para resolver conflicto\r\n23-Haces como un hombre lobo a la luna llena \r\n25-\"Comprensivo, sensible a los infortunios ajenos\" La Rae \r\n27-La Diva que canta 'Do you believe in life after love?' \r\n29-Tapó mal el de foie gras\r\n33-Las ruedas de feria \r\n35-Donde comen trigo los tres tristes tigres\r\n36-Cocínalo, no te lo comas crudo\r\n37-El insecto ninja\r\n39-Decir lo que se piensa sobre un asunto\r\n40-Dales el hilo, que se van a pescar\r\n41-Saliendo de la Yamaha\r\n45-Nosotros\r\n47-Aeronave no tripulada\r\n48-Pidas a tu Dios\r\n51-Un microestado\r\n53-Sigo con la cabeza perdida",
+        "horizontal_clues": "3-El taxi no llega a las 11:00\r\n5-Medio loca y en Canadá\r\n7-Las meneadas por los perros alegres\r\n11-Chile Coloq Agradable\r\n14-Estado de concordia y acuerdo entre personas\r\n16-Los hay, sin capa ni espada\r\n17-Dame un 'LA' sostenido \r\n18-\"Rapsodia …\" canción de Freddie Mercury\r\n21-España Partido Gallego Independiente (siglas)\r\n22-Increíble esta diseñadora de modas de superhéroes\r\n24-Retes a Ester a que reinicie su sistema (de pensamiento)\r\n25-Era la madre de todos los dioses griegos\r\n26-Dulces granos cristalinos\r\n28-Limpia de impurezas o errores\r\n30-Alpha, Lima, Hotel\r\n31-\"… a tu prójimo como a ti mismo\" \r\n32-Río de Asturias\r\n34-Princesa de la Colonia en la película \"Bichos\" de Disney\r\n36-Adoraron a la romana loca\r\n38-Devorador mítico, señor del tiempo\r\n41-Asideros, mangos\r\n42-Iniciales del Cid Campeador\r\n43-Palito palito\r\n44-Se ha abierto esta competición de tenis \r\n46-Dinastía china, durante la cual se inventó el papel\r\n47-Intercambio comunicativo entre partes afectadas\r\n49-Absorto en un pensamiento\r\n50-Cambiad el orden y alertad a la letrada\r\n52-Orificios nasales externos\r\n54-Oy2 \r\n55-Carácter que debe tener una propuesta para que sea obligatoria\r\n56-El ritmo favorito de Sansón\r\n57-Hermana, tengamos un poco de sororidad",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,#,#,#,#,1,#,2,#,#,#,#,#,#\r\n#,3,4,#,#,#,#,#,#,#,#,#,5,6,#\r\n7,#,#,8,9,#,#,10,#,#,11,12,#,#,13\r\n14,#,#,#,#,15,#,#,#,16,#,#,#,#,#\r\n17,#,#,#,18,#,19,#,20,#,#,#,21,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,25,#,#,#\r\n#,26,#,#,27,#,#,#,28,#,29,#,#,#,#\r\n#,#,30,#,#,#,#,#,#,#,31,#,#,#,#\r\n#,#,#,32,#,33,#,#,34,35,#,#,#,#,#\r\n#,36,37,#,#,#,#,#,38,#,#,#,39,40,#\r\n41,#,#,#,#,42,#,#,43,#,#,44,#,#,45\r\n46,#,#,#,47,#,#,#,#,#,48,#,49,#,#\r\n50,#,#,51,#,#,#,#,52,#,#,53,#,#,#\r\n#,54,#,#,#,#,#,#,#,55,#,#,#,#,#\r\n#,#,56,#,#,#,#,#,#,#,57,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

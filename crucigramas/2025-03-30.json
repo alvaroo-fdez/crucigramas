@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 1994,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-28T17:15:06.597342Z",
+      "updatedAt": "2025-03-29T20:41:32.168820Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PARECE#APOSTA#\r\nS#PASEO#BATIR#M\r\nASENTO#AUTOTUNE\r\nLANCES#GRIS#FOL\r\nALAIN#BIRO#CARI\r\nDONATELLA#BABAS\r\nON##ORA#SOUMAYA\r\n##DIRE###JOAN##\r\nEVEREST#TAN##HG\r\nMISMO#ACOBARDAR\r\nPACA#BUHO#RUECA\r\nEJE#DORE#CRIMEN\r\nCONFUCIO#HONORE\r\nE#SUDAN#PETAR#L\r\n#GOLOSO#IRISAR#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Avergüenzan, generan pudor",
+              "answer": "APENAN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dicho de una cosa: Antigua o de larga tradición",
+              "answer": "RANCIA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Voz o acento muy fuerte, ruidoso o retumbante",
+              "answer": "ESTENTOREO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Directores ejecutivos",
+              "answer": "CEOS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Las fronteras de Egipto",
+              "answer": "EO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Usa tu imaginación, no te fastidies, no te…",
+              "answer": "ABURRAS"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Área de juego de un cole",
+              "answer": "PATIO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Muchos búhos grandes",
+              "answer": "OTOS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Sentarse\" en inglés",
+              "answer": "SIT"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Engañaban, mentían",
+              "answer": "TRUFABAN"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Se te fue de sal, el plato",
+              "answer": "SALADO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Hija de Meliseo, rey de Creta, según la mitología griega",
+              "answer": "MELISA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Habitación para recibir visitas",
+              "answer": "SALON"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Ligero, pronto, expedito",
+              "answer": "AGIL"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Poste para afirmar las amarras de los barcos",
+              "answer": "NORAY"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Voz que sugiere habladurías",
+              "answer": "BLA"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lugar de la casa en el que se cuelgan los calcetines en Inglaterra",
+              "answer": "CAMA"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Estás, existes",
+              "answer": "ERES"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Apellido de Miguel Ángel",
+              "answer": "BUONARROTI"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Reduzco al contrario",
+              "answer": "OJAB"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Escondes como loco el camino hacia abajo",
+              "answer": "DESCENSO"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Rima mal con Mari, prueba con otra chica",
+              "answer": "IRMA"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Inicié, comencé",
+              "answer": "EMPECE"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Recorrió el mundo",
+              "answer": "VIAJO"
+            },
+            "38": {
+              "col": 6,
+              "row": 8,
+              "clue": "Aficionado a los toros",
+              "answer": "TAURINO"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "#Me… movimiento social contra el abuso sexual",
+              "answer": "TOO"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Realizar algo puede ser, echar un rache en Chera",
+              "answer": "HACER"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "\"A …\" los granos por montones",
+              "answer": "GRANEL"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Apodo que se les da a los José",
+              "answer": "CHEO"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Restos de arquitectura humana, abatidas en el tiempo",
+              "answer": "RUINAS"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Tardanza, retraso",
+              "answer": "DEMORA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Hay muchas que alimentar en una familia numerosa",
+              "answer": "BOCAS"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Pongo en tela de juicio",
+              "answer": "DUDO"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "La reina Isabel del pop",
+              "answer": "CHER"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"… de Estambul\", que no vale nada",
+              "answer": "FUL"
+            },
+            "57": {
+              "col": 8,
+              "row": 13,
+              "clue": "3,1416",
+              "answer": "PI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tiene pinta a otra cosa",
+              "answer": "PARECE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Adrede, con intención deliberada",
+              "answer": "APOSTA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Rambla, alameda, calle bonita",
+              "answer": "PASEO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Mover y revolver alguna sustancia",
+              "answer": "BATIR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Afirmó, colocó firmemente",
+              "answer": "ASENTO"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Procesador de audio que corrige los errores vocales",
+              "answer": "AUTOTUNE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Arrojes, abatas",
+              "answer": "LANCES"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"Juan…\" gran maestro español del cubismo",
+              "answer": "GRIS"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Un poco folclórico",
+              "answer": "FOL"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"… Delon\" actor francés que prota de 'El gatopardo', 1963",
+              "answer": "ALAIN"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"Ladislao…\" periodista húngaro",
+              "answer": "BIRO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "De color pardo o plomizo",
+              "answer": "CARI"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Heredera de la casa de moda, fundada por Gianni Versace",
+              "answer": "DONATELLA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Venezuela Reptil americano más pequeño que el cocodrilo (pl)",
+              "answer": "BABAS"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cola de camaleón",
+              "answer": "ON"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Ruega a Dios que me devuelvan el anillo",
+              "answer": "ORA"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "México \"Museo…\" un inmenso trapezoide en movimiento",
+              "answer": "SOUMAYA"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Pediré que le quiten el polietileno y te lo comentaré",
+              "answer": "DIRE"
+            },
+            "35": {
+              "col": 9,
+              "row": 7,
+              "clue": "Serrat o Miró",
+              "answer": "JOAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "El techo del mundo, el…",
+              "answer": "EVEREST"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "Medio frasco de Tantum",
+              "answer": "TAN"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Símbolo químico del mercurio",
+              "answer": "HG"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"El… sol\" canción de Álvaro Soler (2015)",
+              "answer": "MISMO"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Amedrentar, causar o meter miedo",
+              "answer": "ACOBARDAR"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Fardo o lío",
+              "answer": "PACA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ave rapaz nocturna",
+              "answer": "BUHO"
+            },
+            "49": {
+              "col": 10,
+              "row": 10,
+              "clue": "Instrumento con el que se pincha el dedo Aurora",
+              "answer": "RUECA"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Barra que atraviesa un cuerpo giratorio",
+              "answer": "EJE"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Tosté ligeramente",
+              "answer": "DORE"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"Lugar del…\" al que siempre vuelve el asesino",
+              "answer": "CRIMEN"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pensador que estableció las bases morales de China",
+              "answer": "CONFUCIO"
+            },
+            "55": {
+              "col": 9,
+              "row": 12,
+              "clue": "\"… de Balzac\" autor de la novela 'Papá Goriot'",
+              "answer": "HONORE"
+            },
+            "56": {
+              "col": 2,
+              "row": 13,
+              "clue": "País africano cuya capital es Jartum",
+              "answer": "SUDAN"
+            },
+            "57": {
+              "col": 8,
+              "row": 13,
+              "clue": "Llenar el táper, hasta el tope",
+              "answer": "PETAR"
+            },
+            "58": {
+              "col": 1,
+              "row": 14,
+              "clue": "Coloso comilón",
+              "answer": "GOLOSO"
+            },
+            "59": {
+              "col": 8,
+              "row": 14,
+              "clue": "Presentar reflejos de luz con colores semejantes al arcoíris",
+              "answer": "IRISAR"
+            }
+          }
+        },
+        "vertical_clues": "2-Avergüenzan, generan pudor\r\n3-Dicho de una cosa: Antigua o de larga tradición\r\n4-Voz o acento muy fuerte, ruidoso o retumbante\r\n5-Directores ejecutivos\r\n6-Las fronteras de Egipto\r\n7-Usa tu imaginación, no te fastidies, no te…\r\n8-Área de juego de un cole\r\n9-Muchos búhos grandes\r\n10-\"Sentarse\" en inglés\r\n11-Engañaban, mentían\r\n12-Se te fue de sal, el plato\r\n15-Hija de Meliseo, rey de Creta, según la mitología griega\r\n17-Habitación para recibir visitas\r\n18-Ligero, pronto, expedito\r\n19-Poste para afirmar las amarras de los barcos\r\n24-Voz que sugiere habladurías\r\n25-Lugar de la casa en el que se cuelgan los calcetines en Inglaterra\r\n27-Estás, existes\r\n28-Apellido de Miguel Ángel\r\n32-Reduzco al contrario\r\n33-Escondes como loco el camino hacia abajo\r\n34-Rima mal con Mari, prueba con otra chica\r\n36-Inicié, comencé\r\n37-Recorrió el mundo\r\n38-Aficionado a los toros\r\n39-#Me… movimiento social contra el abuso sexual\r\n40-Realizar algo puede ser, echar un rache en Chera\r\n41-\"A …\" los granos por montones\r\n44-Apodo que se les da a los José\r\n45-Restos de arquitectura humana, abatidas en el tiempo\r\n46-Tardanza, retraso\r\n48-Hay muchas que alimentar en una familia numerosa\r\n51-Pongo en tela de juicio\r\n52-La reina Isabel del pop\r\n54-\"… de Estambul\", que no vale nada\r\n57-3,1416",
+        "horizontal_clues": "1-Tiene pinta a otra cosa\r\n7-Adrede, con intención deliberada\r\n13-Rambla, alameda, calle bonita\r\n14-Mover y revolver alguna sustancia\r\n16-Afirmó, colocó firmemente\r\n18-Procesador de audio que corrige los errores vocales\r\n20-Arrojes, abatas\r\n21-\"Juan…\" gran maestro español del cubismo\r\n22-Un poco folclórico\r\n23-\"… Delon\" actor francés que prota de 'El gatopardo', 1963\r\n24-\"Ladislao…\" periodista húngaro-argentino, inventor del bolígrafo\r\n25-De color pardo o plomizo\r\n26-Heredera de la casa de moda, fundada por Gianni Versace\r\n28-Venezuela Reptil americano más pequeño que el cocodrilo (pl)\r\n29-Cola de camaleón\r\n30-Ruega a Dios que me devuelvan el anillo\r\n31-México \"Museo…\" un inmenso trapezoide en movimiento\r\n33-Pediré que le quiten el polietileno y te lo comentaré\r\n35-Serrat o Miró\r\n36-El techo del mundo, el…\r\n39-Medio frasco de Tantum\r\n40-Símbolo químico del mercurio\r\n42-\"El… sol\" canción de Álvaro Soler (2015)\r\n43-Amedrentar, causar o meter miedo\r\n47-Fardo o lío\r\n48-Ave rapaz nocturna\r\n49-Instrumento con el que se pincha el dedo Aurora\r\n50-Barra que atraviesa un cuerpo giratorio\r\n51-Tosté ligeramente\r\n52-\"Lugar del…\" al que siempre vuelve el asesino\r\n53-Pensador que estableció las bases morales de China\r\n55-\"… de Balzac\" autor de la novela 'Papá Goriot'\r\n56-País africano cuya capital es Jartum\r\n57-Llenar el táper, hasta el tope\r\n58-Coloso comilón\r\n59-Presentar reflejos de luz con colores semejantes al arcoíris",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,#,#,#,#,#,21,#,#,#,#,22,#,#\r\n23,#,#,#,#,#,24,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,28,#,#,#,#\r\n29,#,#,#,30,#,#,#,31,32,#,#,#,#,#\r\n#,#,33,34,#,#,#,#,#,35,#,#,#,#,#\r\n36,37,#,#,#,#,38,#,39,#,#,#,#,40,41\r\n42,#,#,#,#,#,43,44,#,#,#,45,46,#,#\r\n47,#,#,#,#,48,#,#,#,#,49,#,#,#,#\r\n50,#,#,#,51,#,#,#,#,52,#,#,#,#,#\r\n53,#,#,54,#,#,#,#,#,55,#,#,#,#,#\r\n#,#,56,#,#,#,#,#,57,#,#,#,#,#,#\r\n#,58,#,#,#,#,#,#,59,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

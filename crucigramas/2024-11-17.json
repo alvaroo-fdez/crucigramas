@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 1195,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-13T16:35:57.513291Z",
+      "updatedAt": "2024-11-13T16:35:57.525532Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-17",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#TINAPA#ARGOTS#\r\nG#DOPAR#CURVA#P\r\nRF#MERITORIO#VO\r\nAUTISTA##ATINAR\r\nTRENTO#CALADERO\r\nAIREO#SAM#RETAS\r\nSAR#SOPLAR#SADO\r\n##E#OSEZNOS#M##\r\nPOST#TEATRO#ELE\r\nALTOS#CDE#LENIN\r\nSERRUCHO#CASTAS\r\nCIERTO##PARTERA\r\nAS#EUGENESIA#EY\r\nL#LORES#DEUDA#O\r\n#MINERO#INMOLA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Salid por la derecha",
+              "answer": "ID"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Presenté o propuse a alguien para el premio",
+              "answer": "NOMINE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Hediondo",
+              "answer": "APESTOSO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Salida del bebé del útero",
+              "answer": "PARTO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Canción a una sola voz",
+              "answer": "ARIA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "AntiConceptivos Orales",
+              "answer": "ACO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Relativo a la vida del campo y a sus labores",
+              "answer": "RURAL"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pegar alaridos",
+              "answer": "GRITAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Que tienen forma de huevos",
+              "answer": "OVOIDES"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tantalio",
+              "answer": "TA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Agradables, mis ganas locas de gastar",
+              "answer": "GRATAS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Tiene muchos huequitos",
+              "answer": "POROSO"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"… Nocturna\" raza de dragón a la que pertenece Desdentado (Chimuelo)",
+              "answer": "FURIA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Encallad, atollad",
+              "answer": "VARAD"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Relativo a la superficie de nuestro planeta",
+              "answer": "TERRESTRE"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Clara y precisamente",
+              "answer": "NETAMENTE"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Todos los tipos de zapatos, el género",
+              "answer": "CALZADO"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "La querida, la otra",
+              "answer": "AMANTE"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Discurso de un inglés",
+              "answer": "SPEECH"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Poco ostentoso",
+              "answer": "OST"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Furor en el oriente",
+              "answer": "ROR"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Espacio para tomar el sol artificialmente",
+              "answer": "SOLARIUM"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Matemático que construyó la primera calculadora del mundo",
+              "answer": "PASCAL"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Olfateáis",
+              "answer": "OLEIS"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Torre grande, para defensa de una plaza o un castillo",
+              "answer": "TORREON"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Ataré y aseguraré las cargas",
+              "answer": "LIARE"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Prueba previa a una actuación o evento",
+              "answer": "ENSAYO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Le hice una costura quirúrgica, lo…",
+              "answer": "SUTURE"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Forma de un cuerpo según la agregación de sus moléculas",
+              "answer": "ESTADO"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Asir, aprehender",
+              "answer": "COGER"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Que lo hagan por la iglesia, que se…",
+              "answer": "CASEN"
+            },
+            "53": {
+              "col": 8,
+              "row": 11,
+              "clue": "Solicité",
+              "answer": "PEDI"
+            },
+            "56": {
+              "col": 6,
+              "row": 12,
+              "clue": "Pronombre demostrativo que señala algo que está cerca",
+              "answer": "ESO"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del Litio",
+              "answer": "LI"
+            },
+            "60": {
+              "col": 12,
+              "row": 13,
+              "clue": "El aluminio produjo una contracción",
+              "answer": "AL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Filipinas Pescado seco ahumado",
+              "answer": "TINAPA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Jergas",
+              "answer": "ARGOTS"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Drogar para calmar",
+              "answer": "DOPAR"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cambio de dirección en una carretera",
+              "answer": "CURVA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ralph Fiennes, actor prota de 'El jardinero fiel' (2005)",
+              "answer": "RF"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Digno de reconocimiento por sus logros",
+              "answer": "MERITORIO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Volver al occidente con la versión original",
+              "answer": "VO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Persona con TDA",
+              "answer": "AUTISTA"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Acertar",
+              "answer": "ATINAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ciudad italiana donde acaeció el concilio católico más importante",
+              "answer": "TRENTO"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Zona marítima rica en pesca",
+              "answer": "CALADERO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ventilo",
+              "answer": "AIREO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "El Tío de Estados Unidos",
+              "answer": "SAM"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Lo desafías con las artes más complicadas",
+              "answer": "RETAS"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"En las orillas del…\" el último libro de poemas de Rosalía de Castro",
+              "answer": "SAR"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Apagar las velitas de la tarta",
+              "answer": "SOPLAR"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Sadomasoquista",
+              "answer": "SADO"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Cachorros de osos",
+              "answer": "OSEZNOS"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Una publicación en redes (voz inglesa)",
+              "answer": "POST"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Lugar donde se representan obras escénicas",
+              "answer": "TEATRO"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "¡Dame la L!",
+              "answer": "ELE"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Elevados",
+              "answer": "ALTOS"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Van seguidas",
+              "answer": "CDE"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"Good bye…\" película ambientada en Alemania, cuando cae el Muro de Berlín",
+              "answer": "LENIN"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Herramienta dentada para cortar madera",
+              "answer": "SERRUCHO"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "En la India, grupo social al que se pertenece por nacimiento (pl)",
+              "answer": "CASTAS"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Un tercio mezclado es un verdadero acierto",
+              "answer": "CIERTO"
+            },
+            "53": {
+              "col": 8,
+              "row": 11,
+              "clue": "Profesional que asiste en los partos",
+              "answer": "PARTERA"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Carta de cada palo que lleva el número uno",
+              "answer": "AS"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Estudio polémico sobre el mejoramiento genético",
+              "answer": "EUGENESIA"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Un rey sin corona",
+              "answer": "EY"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Señores, nobles británicos",
+              "answer": "LORES"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "La que se tiene con el FMI",
+              "answer": "DEUDA"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "Oficio de quien extrae minerales",
+              "answer": "MINERO"
+            },
+            "62": {
+              "col": 8,
+              "row": 14,
+              "clue": "Sacrifica su vida",
+              "answer": "INMOLA"
+            }
+          }
+        },
+        "vertical_clues": "2-Salid por la derecha\r\n3-Presenté o propuse a alguien para el premio\r\n4-Hediondo \r\n5-Salida del bebé del útero\r\n6-Canción a una sola voz\r\n7-AntiConceptivos Orales\r\n8-Relativo a la vida del campo y a sus labores\r\n9-Pegar alaridos\r\n10-Que tienen forma de huevos\r\n11-Tantalio\r\n12-Agradables, mis ganas locas de gastar\r\n15-Tiene muchos huequitos\r\n17-\"… Nocturna\" raza de dragón a la que pertenece Desdentado (Chimuelo)\r\n19-Encallad, atollad\r\n21-Relativo a la superficie de nuestro planeta \r\n23-Clara y precisamente\r\n25-Todos los tipos de zapatos, el género\r\n26-La querida, la otra\r\n28-Discurso de un inglés\r\n32-Poco ostentoso\r\n33-Furor en el oriente\r\n36-Espacio para tomar el sol artificialmente \r\n37-Matemático que construyó la primera calculadora del mundo\r\n38-Olfateáis\r\n39-Torre grande, para defensa de una plaza o un castillo\r\n42-Ataré y aseguraré las cargas\r\n43-Prueba previa a una actuación o evento \r\n45-Le hice una costura quirúrgica, lo…\r\n48-Forma de un cuerpo según la agregación de sus moléculas\r\n50-Asir, aprehender\r\n51-Que lo hagan por la iglesia, que se…\r\n53-Solicité\r\n56-Pronombre demostrativo que señala algo que está cerca\r\n58-Símbolo químico del Litio\r\n60-El aluminio produjo una contracción\r\n",
+        "horizontal_clues": "1-Filipinas Pescado seco ahumado\r\n7-Jergas\r\n13-Drogar para calmar\r\n14-Cambio de dirección en una carretera \r\n16-Ralph Fiennes, actor prota de 'El jardinero fiel' (2005) \r\n18-Digno de reconocimiento por sus logros \r\n19-Volver al occidente con la versión original\r\n20-Persona con TDA\r\n22-Acertar\r\n24-Ciudad italiana donde acaeció el concilio católico más importante\r\n25-Zona marítima rica en pesca \r\n27-Ventilo\r\n28-El Tío de Estados Unidos\r\n29-Lo desafías con las artes más complicadas\r\n30-\"En las orillas del…\" el último libro de poemas de Rosalía de Castro\r\n31-Apagar las velitas de la tarta\r\n34-Sadomasoquista\r\n35-Cachorros de osos\r\n37-Una publicación en redes (voz inglesa)\r\n40-Lugar donde se representan obras escénicas \r\n41-¡Dame la L! \r\n44-Elevados\r\n46-Van seguidas\r\n47-\"Good bye…\" película ambientada en Alemania, cuando cae el Muro de Berlín\r\n49-Herramienta dentada para cortar madera \r\n51-En la India, grupo social al que se pertenece por nacimiento (pl)\r\n52-Un tercio mezclado es un verdadero acierto\r\n53-Profesional que asiste en los partos \r\n54-Carta de cada palo que lleva el número uno\r\n55-Estudio polémico sobre el mejoramiento genético \r\n57-Un rey sin corona\r\n58-Señores, nobles británicos\r\n59-La que se tiene con el FMI\r\n61-Oficio de quien extrae minerales\r\n62-Sacrifica su vida\r\n",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,18,#,#,#,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,#,22,#,#,23,#,#\r\n24,#,#,#,#,#,#,25,26,#,#,#,#,#,#\r\n27,#,#,#,#,#,28,#,#,#,29,#,#,#,#\r\n30,#,#,#,31,32,#,#,#,33,#,34,#,#,#\r\n#,#,#,#,35,#,#,#,#,#,36,#,#,#,#\r\n37,38,#,39,#,40,#,#,#,#,#,#,41,42,43\r\n44,#,#,#,45,#,46,#,#,#,47,48,#,#,#\r\n49,#,#,#,#,50,#,#,#,51,#,#,#,#,#\r\n52,#,#,#,#,#,#,#,53,#,#,#,#,#,#\r\n54,#,#,55,#,#,56,#,#,#,#,#,#,57,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,60,#,#\r\n#,61,#,#,#,#,#,#,62,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

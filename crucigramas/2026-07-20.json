@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6727,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-19T23:44:11.026666Z",
+      "updatedAt": "2026-07-19T23:46:38.002506Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-20",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CORTA##SOCAVA#\r\nPATEAN#AUTOTUNE\r\nIR#ILITERATA#UX\r\nEPATA#ADINERADO\r\nRIME#USAN##IPAD\r\nRAER#PASALO#ESO\r\nENRASAR#MAREA##\r\n#OIDOS###DESDA#\r\n##COCER#SISTEMA\r\nACA#ANOTAN#IRPF\r\nSONG##SACO#POLI\r\nCLARIFICA#MUSIC\r\nIO#EDITORIAL#AH\r\nINOCULAN#GLANDE\r\n#OJOSAS##DORSO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "El túnel de la mano",
+              "answer": "CARPIANO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Óscar Terol",
+              "answer": "OT"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Esto ha sido repetido muchas veces",
+              "answer": "REITERADO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Asesina a un árbol",
+              "answer": "TALA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Ciudad arqueológica entre Armenia y Turquía",
+              "answer": "ANI"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Único país de América cuyo idioma oficial es el neerlandés",
+              "answer": "SURINAM"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Organización del Tratado del Atlántico Norte",
+              "answer": "OTAN"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vuelta que se da al chicote de un cabo",
+              "answer": "COTE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Antigua consola de videojuegos de 1977",
+              "answer": "ATARI"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dominio web para Vanuatu",
+              "answer": "VU"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Atas, sujetas algo con ligaduras",
+              "answer": "ANUDAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "'… Nodoyuna', el de 'Los autos locos'",
+              "answer": "PIERRE"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Cantores épicos de la antigua Grecia",
+              "answer": "AEDAS"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Migración de un pueblo",
+              "answer": "EXODO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Fijar oficialmente el precio para una mercancía",
+              "answer": "TASAR"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "La chaqueta del traje",
+              "answer": "AMERICANA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Sitios del camino donde los viajeros pueden descansar",
+              "answer": "APEADEROS"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Levantasen, cargasen",
+              "answer": "UPASEN"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Judeoespañol, el idioma de los judíos sefardíes",
+              "answer": "LADINO"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Reces, implores",
+              "answer": "ORES"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Bolivia: Brote de la cosecha del arroz",
+              "answer": "SOCA"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Determinar, acordar, especificar",
+              "answer": "ESTIPULAR"
+            },
+            "37": {
+              "col": 13,
+              "row": 7,
+              "clue": "Extendido, dilatado, agrandado",
+              "answer": "AMPLIADO"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"Irse de…\" sin asumir las consecuencias",
+              "answer": "ROSITAS"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Poner algo fuera",
+              "answer": "SACAR"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Cartel, póster",
+              "answer": "AFICHE"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Informática Sistema de caracteres latinos",
+              "answer": "ASCII"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Habita en una colonia (masc)",
+              "answer": "COLONO"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Pieza de mayor altura en la suela del calzado",
+              "answer": "TACON"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "\"El …\" español pintor de 'El Entierro del Conde de Orgaz\"",
+              "answer": "GRECO"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Fecha del calendario romano, famosa por el 15 de marzo",
+              "answer": "IDUS"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Serie de personas colocadas en línea",
+              "answer": "FILA"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"…, …, … eres / no se daña a quien se quiere\" Bebé",
+              "answer": "MALO"
+            },
+            "57": {
+              "col": 9,
+              "row": 12,
+              "clue": "Medicina Inmunoglobulina D",
+              "answer": "IGD"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Ojo sin cerrar",
+              "answer": "OJ"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Natalia Sánchez",
+              "answer": "NS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… el rollo\" para ya",
+              "answer": "CORTA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "La corrupción a las bases de la democracia, las…",
+              "answer": "SOCAVA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Chutan el balón",
+              "answer": "PATEAN"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Procesador de audio que corrige los errores vocales",
+              "answer": "AUTOTUNE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Ignorante y no versada en ciencias ni letras humanas (fem)",
+              "answer": "ILITERATA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Siglas en inglés para Experiencia de Usuario",
+              "answer": "UX"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Produce asombro o admiración",
+              "answer": "EPATA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Hombre con mucho dinero",
+              "answer": "ADINERADO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Consoné palabras",
+              "answer": "RIME"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Utilizan, emplean",
+              "answer": "USAN"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"… kid\", término para un niño que no puede despegarse de su tableta",
+              "answer": "IPAD"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pelar, rasurar",
+              "answer": "RAER"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Condúcelo de un lugar a otro",
+              "answer": "PASALO"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "\"… que tú me das / es mucho más de lo que pido\" Jarabe de Palo",
+              "answer": "ESO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Llenar un recipiente hasta un determinado nivel o marca",
+              "answer": "ENRASAR"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Cambio producido por la luna y el sol en el mar",
+              "answer": "MAREA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Órganos que sirven para la audición",
+              "answer": "OIDOS"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Da vueltas, en sentido inverso, a un manubrio",
+              "answer": "DESDA"
+            },
+            "38": {
+              "col": 2,
+              "row": 8,
+              "clue": "Hacer comestible un alimento",
+              "answer": "COCER"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Conjunto de reglas sobre una materia, racionalmente enlazados entre sí",
+              "answer": "SISTEMA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "'De… para allá'",
+              "answer": "ACA"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "Toman notas, escriben",
+              "answer": "ANOTAN"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "El impuesto sobre la renta de las personas físicas",
+              "answer": "IRPF"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una canción inglesa",
+              "answer": "SONG"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Receptáculo de tela",
+              "answer": "SACO"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"… Díaz\" exboxeador conocido como El Potro de Vallecas",
+              "answer": "POLI"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Vuelve más comprensible o transparente",
+              "answer": "CLARIFICA"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Música en inglés",
+              "answer": "MUSIC"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Luna de júpiter",
+              "answer": "IO"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Empresa dedicada a publicar libros y revistas",
+              "answer": "EDITORIAL"
+            },
+            "58": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales de la ex de Johnny Depp, la que perdió el juicio",
+              "answer": "AH"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Introducen gérmenes o ideas",
+              "answer": "INOCULAN"
+            },
+            "61": {
+              "col": 9,
+              "row": 13,
+              "clue": "Parte final del pene",
+              "answer": "GLANDE"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Que tiene muchos ojos (pl, fem)",
+              "answer": "OJOSAS"
+            },
+            "64": {
+              "col": 9,
+              "row": 14,
+              "clue": "Región posterior del tronco",
+              "answer": "DORSO"
+            }
+          }
+        },
+        "vertical_clues": "1-El túnel de la mano \r\n2-Óscar Terol\r\n3-Esto ha sido repetido muchas veces\r\n4-Asesina a un árbol\r\n5-Ciudad arqueológica entre Armenia y Turquía\r\n6-Único país de América cuyo idioma oficial es el neerlandés\r\n7-Organización del Tratado del Atlántico Norte\r\n8-Vuelta que se da al chicote de un cabo \r\n9-Antigua consola de videojuegos de 1977\r\n10-Dominio web para Vanuatu\r\n11-Atas, sujetas algo con ligaduras\r\n12-'… Nodoyuna', el de 'Los autos locos'\r\n13-Cantores épicos de la antigua Grecia\r\n14-Migración de un pueblo\r\n17-Fijar oficialmente el precio para una mercancía\r\n20-La chaqueta del traje\r\n22-Sitios del camino donde los viajeros pueden descansar\r\n24-Levantasen, cargasen\r\n28-Judeoespañol, el idioma de los judíos sefardíes\r\n29-Reces, implores\r\n32-Bolivia: Brote de la cosecha del arroz\r\n34-Determinar, acordar, especificar\r\n37-Extendido, dilatado, agrandado\r\n39-\"Irse de…\" sin asumir las consecuencias\r\n40-Poner algo fuera\r\n41-Cartel, póster\r\n42-Informática Sistema de caracteres latinos\r\n43-Habita en una colonia (masc)\r\n45-Pieza de mayor altura en la suela del calzado\r\n48-\"El …\" español pintor de 'El Entierro del Conde de Orgaz\"\r\n52-Fecha del calendario romano, famosa por el 15 de marzo \r\n53-Serie de personas colocadas en línea\r\n54-\"…, …, … eres / no se daña a quien se quiere\" Bebé\r\n57-Medicina Inmunoglobulina D\r\n60-Ojo sin cerrar\r\n62-Natalia Sánchez",
+        "horizontal_clues": "1-\"… el rollo\" para ya\r\n6-La corrupción a las bases de la democracia, las…\r\n12-Chutan el balón\r\n13-Procesador de audio que corrige los errores vocales\r\n15-Andar, marchar\r\n16-Ignorante y no versada en ciencias ni letras humanas (fem)\r\n18-Siglas en inglés para Experiencia de Usuario\r\n19-Produce asombro o admiración\r\n21-Hombre con mucho dinero\r\n23-Consoné palabras\r\n24-Utilizan, emplean\r\n25-\"… kid\", término para un niño que no puede despegarse de su tableta\r\n26-Pelar, rasurar\r\n27-Condúcelo de un lugar a otro\r\n30-\"… que tú me das / es mucho más de lo que pido\" Jarabe de Palo\r\n31-Llenar un recipiente hasta un determinado nivel o marca\r\n33-Cambio producido por la luna y el sol en el mar\r\n35-Órganos que sirven para la audición\r\n36-Da vueltas, en sentido inverso, a un manubrio\r\n38-Hacer comestible un alimento\r\n40-Conjunto de reglas sobre una materia, racionalmente enlazados entre sí\r\n42-'De… para allá' \r\n44-Toman notas, escriben\r\n46-El impuesto sobre la renta de las personas físicas\r\n47-Una canción inglesa\r\n49-Receptáculo de tela\r\n50-\"… Díaz\" exboxeador conocido como El Potro de Vallecas\r\n51-Vuelve más comprensible o transparente \r\n54-Música en inglés\r\n55-Luna de júpiter\r\n56-Empresa dedicada a publicar libros y revistas \r\n58-Iniciales de la ex de Johnny Depp, la que perdió el juicio\r\n59-Introducen gérmenes o ideas\r\n61-Parte final del pene\r\n63-Que tiene muchos ojos (pl, fem)\r\n64-Región posterior del tronco",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,#,#,22,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,29,#,30,#,#\r\n31,#,#,#,32,#,#,#,33,#,#,34,#,#,#\r\n#,35,#,#,#,#,#,#,#,36,#,#,#,37,#\r\n#,#,38,#,#,#,39,#,40,#,#,#,#,#,41\r\n42,43,#,#,44,#,#,45,#,#,#,46,#,#,#\r\n47,#,#,48,#,#,49,#,#,#,#,50,#,#,#\r\n51,#,#,#,52,53,#,#,#,#,54,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,57,#,#,#,58,#\r\n59,#,60,#,#,#,#,#,#,61,#,#,62,#,#\r\n#,63,#,#,#,#,#,#,#,64,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

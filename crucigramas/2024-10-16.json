@@ -1,0 +1,483 @@
+{
+  "data": {
+    "id": 1042,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-15T20:23:25.756107Z",
+      "updatedAt": "2024-10-15T20:23:25.756132Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-16",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ORCA#ACSEP#TERA\r\nB#AREPA#SEPAN#B\r\nLATERAL#TRUNCAR\r\nIRAN#RASOS#TUPE\r\nGEMA#EVOCO#RAUL\r\nANAS#CEBAN#ADRA\r\nDIR#HEREDAR#RAT\r\nATADURA#ALABADA\r\nSANES#####TOROS\r\n###POST#AVOL###\r\n#GROSOR#CASONA#\r\nTREN#PUYOL#SOFA\r\nAIN#DESIDIA#TED\r\nJAGUARS#ADMIRAR\r\nALARGA###ORDENO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Forzadas, coaccionadas.",
+              "answer": "OBLIGADAS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Embarcación de vela, de dos cascos unidos.",
+              "answer": "CATAMARAN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Material que servía a los antiguos relojes (pl).",
+              "answer": "ARENAS"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Hacer acto de presencia.",
+              "answer": "APARECER"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Símbolo de  muerte, de peligro o de sustancia tóxica.",
+              "answer": "CALAVERA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Esto, cada vez que le dan al toro, se convierte en un golpe mortal.",
+              "answer": "ESTOCADA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Todas las personas que trabajan en un lugar.",
+              "answer": "PERSONAL"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Escritos y prácticas sagradas hindúes y budistas.",
+              "answer": "TANTRA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Enmarcar a la curandera loca.",
+              "answer": "ENCUADRAR"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Instrumento para abrir botes de conserva de aluminio.",
+              "answer": "ABRELATAS"
+            },
+            "12": {
+              "col": 4,
+              "row": 1,
+              "clue": "Símbolo químico de Erbio.",
+              "answer": "ER"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Plutonio.",
+              "answer": "PU"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "La ardilla científica, amiga de Bob Esponja.",
+              "answer": "ARENITA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Llevo prisa, estoy...",
+              "answer": "APURADO"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Me dolió tu mal beso, por eso me masajeé.",
+              "answer": "SOBE"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Uso las franjas horarias.",
+              "answer": "HUSOS"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "A momentos veo las otras rotas.",
+              "answer": "RATOS"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Baja las armas.",
+              "answer": "DEPON"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Boliche, bowling.",
+              "answer": "BOLOS"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "La cuchara para el caldo.",
+              "answer": "SOPERA"
+            },
+            "41": {
+              "col": 6,
+              "row": 9,
+              "clue": "Apellido de una ex primera ministra británica.",
+              "answer": "TRUSS"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Apoya el codo sobre alguna parte.",
+              "answer": "ACODA"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Ha costado, pero es legítimo y lícito.",
+              "answer": "VALIDO"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Ligar, en cierta forma, es como la copa más codiciada.",
+              "answer": "GRIAL"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Coja, por lesión de las caderas.",
+              "answer": "RENGA"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "\"... Dame\" catedral parisina donde coronaron a Napoleón (1804).",
+              "answer": "NOTRE"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Se descuidan por la faena caótica.",
+              "answer": "AFEAN"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Corta, rebana.",
+              "answer": "TAJA"
+            },
+            "51": {
+              "col": 7,
+              "row": 11,
+              "clue": "Una griega y una latina.",
+              "answer": "YI"
+            },
+            "53": {
+              "col": 14,
+              "row": 11,
+              "clue": "Reparto las aguas para el riego.",
+              "answer": "ADRO"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Lo que Roberto desea de Dagoberto.",
+              "answer": "DAG"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "Mar revuelto.",
+              "answer": "AMR"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Antigua ciudad del sur de Mesopotamia.",
+              "answer": "UR"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Saliendo de Valladolid.",
+              "answer": "ID"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ballena en blanco y negro.",
+              "answer": "ORCA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "La técnica de arrastre, se hace de este a oeste.",
+              "answer": "ACSEP"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "1000 gigas = 1...",
+              "answer": "TERA"
+            },
+            "11": {
+              "col": 2,
+              "row": 1,
+              "clue": "Emblemática comida de Venezuela.",
+              "answer": "AREPA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Tengan conocimiento de ello.",
+              "answer": "SEPAN"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Futbolista que juega por las bandas de la cancha.",
+              "answer": "LATERAL"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Interrumpir el desarrollo normal de algo.",
+              "answer": "TRUNCAR"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Marcharán a Teherán.",
+              "answer": "IRAN"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Rosas para los soldados sin rango.",
+              "answer": "RASOS"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Este copete es una desfachatez.",
+              "answer": "TUPE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Nombre genérico de las piedras preciosas.",
+              "answer": "GEMA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Traigo algo a la memoria o a la imaginación.",
+              "answer": "EVOCO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Exfutbolista del Real Madrid: \"El Eterno Capitán\".",
+              "answer": "RAUL"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Antigua medida de longitud equivalente a un metro (pl).",
+              "answer": "ANAS"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Dan comida a los animales para aumentar su peso.",
+              "answer": "CEBAN"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Porción del vecindario de un pueblo.",
+              "answer": "ADRA"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Comando del sistema operativo DOS.",
+              "answer": "DIR"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Recibir patrimonio.",
+              "answer": "HEREDAR"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Rata sin cola.",
+              "answer": "RAT"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Unión o enlace.",
+              "answer": "ATADURA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Elogiada, celebrada con palabras.",
+              "answer": "ALABADA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Recuperes la salud.",
+              "answer": "SANES"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Machos bovinos adultos.",
+              "answer": "TOROS"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "\"The Washington...\" el segundo diario más leído en EEUU.",
+              "answer": "POST"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Vil, malo, ruin.",
+              "answer": "AVOL"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Grueso de un cuerpo.",
+              "answer": "GROSOR"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Antigua casa señorial.",
+              "answer": "CASONA"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"... al sur\" canción de la banda chilena 'Los Prisioneros'.",
+              "answer": "TREN"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Exfutbolista español, defensa central, conocido como Tarzán.",
+              "answer": "PUYOL"
+            },
+            "52": {
+              "col": 11,
+              "row": 11,
+              "clue": "Perfecto para sentarse a ver tele.",
+              "answer": "SOFA"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Caín perdió la cabeza.",
+              "answer": "AIN"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Negligencia, falta de cuidado.",
+              "answer": "DESIDIA"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"...Lasso\" premiada serie de comedia.",
+              "answer": "TED"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "El felino de Jacksonville que juega fútbol americano.",
+              "answer": "JAGUARS"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Estimar a alguien por sus cualidades extraordinarias.",
+              "answer": "ADMIRAR"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Da más longitud a algo.",
+              "answer": "ALARGA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Organizo, acomodo.",
+              "answer": "ORDENO"
+            }
+          }
+        },
+        "vertical_clues": "1-Forzadas, coaccionadas.\r\n2-Embarcación de vela, de dos cascos unidos.\r\n3-Material que servía a los antiguos relojes (pl).\r\n4-Hacer acto de presencia.\r\n5-Símbolo de  muerte, de peligro o de sustancia tóxica.\r\n6-Esto, cada vez que le dan al toro, se convierte en un golpe mortal.\r\n7-Todas las personas que trabajan en un lugar.\r\n8-Escritos y prácticas sagradas hindúes y budistas.\r\n9-Enmarcar a la curandera loca.\r\n10-Instrumento para abrir botes de conserva de aluminio.\r\n12-Símbolo químico de Erbio.\r\n14-Plutonio.\r\n16-La ardilla científica, amiga de Bob Esponja.\r\n18-Llevo prisa, estoy...\r\n21-Me dolió tu mal beso, por eso me masajeé.\r\n30-Uso las franjas horarias.\r\n31-A momentos veo las otras rotas.\r\n34-Baja las armas.\r\n36-Boliche, bowling.\r\n40-La cuchara para el caldo.\r\n41-Apellido de una ex primera ministra británica. \r\n42-Apoya el codo sobre alguna parte.\r\n43-Ha costado, pero es legítimo y lícito.\r\n44-Ligar, en cierta forma, es como la copa más codiciada.\r\n45-Coja, por lesión de las caderas.\r\n47-\"... Dame\" catedral parisina donde coronaron a Napoleón (1804).\r\n48-Se descuidan por la faena caótica.\r\n49-Corta, rebana.\r\n51-Una griega y una latina.\r\n53-Reparto las aguas para el riego.\r\n55-Lo que Roberto desea de Dagoberto.\r\n56-Mar revuelto.\r\n59-Antigua ciudad del sur de Mesopotamia.\r\n61-Saliendo de Valladolid.",
+        "horizontal_clues": "1-Ballena en blanco y negro.\r\n4-La técnica de arrastre, se hace de este a oeste.\r\n8-1000 gigas = 1...\r\n11-Emblemática comida de Venezuela.\r\n13-Tengan conocimiento de ello.\r\n15-Futbolista que juega por las bandas de la cancha.\r\n17-Interrumpir el desarrollo normal de algo. \r\n19-Marcharán a Teherán.\r\n20-Rosas para los soldados sin rango.\r\n22-Este copete es una desfachatez.\r\n23-Nombre genérico de las piedras preciosas.\r\n24-Traigo algo a la memoria o a la imaginación.\r\n25-Exfutbolista del Real Madrid: \"El Eterno Capitán\".\r\n26-Antigua medida de longitud equivalente a un metro (pl).\r\n27-Dan comida a los animales para aumentar su peso.\r\n28-Porción del vecindario de un pueblo.\r\n29-Comando del sistema operativo DOS.\r\n30-Recibir patrimonio.\r\n32-Rata sin cola.\r\n33-Unión o enlace.\r\n35-Elogiada, celebrada con palabras.\r\n37-Recuperes la salud.\r\n38-Machos bovinos adultos.\r\n39-\"The Washington...\" el segundo diario más leído en EEUU.\r\n42-Vil, malo, ruin.\r\n44-Grueso de un cuerpo.\r\n46-Antigua casa señorial.\r\n49-\"... al sur\" canción de la banda chilena 'Los Prisioneros'.\r\n50-Exfutbolista español, defensa central, conocido como Tarzán.\r\n52-Perfecto para sentarse a ver tele.\r\n54-Caín perdió la cabeza.\r\n55-Negligencia, falta de cuidado.\r\n57-\"...Lasso\" premiada serie de comedia.\r\n58-El felino de Jacksonville que juega fútbol americano.\r\n60-Estimar a alguien por sus cualidades extraordinarias. \r\n62-Da más longitud a algo.\r\n63-Organizo, acomodo.",
+        "board_clues_positions": "1,#,2,3,#,4,5,#,6,7,#,8,9,#,10\r\n#,#,11,#,12,#,#,#,13,#,14,#,#,#,#\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,20,#,21,#,#,#,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,#,#,31,#,32,#,#\r\n33,#,#,34,#,#,#,#,35,#,#,36,#,#,#\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,#,#\r\n#,#,#,39,#,40,41,#,42,43,#,#,#,#,#\r\n#,44,45,#,#,#,#,#,46,#,#,#,47,48,#\r\n49,#,#,#,#,50,#,51,#,#,#,52,#,#,53\r\n54,#,#,#,55,#,#,#,#,#,56,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

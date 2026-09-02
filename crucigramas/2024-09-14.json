@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 879,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-11T12:57:48.293631Z",
+      "updatedAt": "2024-09-11T12:57:48.293650Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-14",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PICARO#KARPOV#\r\nA#FACAS#ALELO#D\r\nGT#RESCATADO#BE\r\nRITMICA#ABOMBAS\r\nAPRETARA#AMARRE\r\nFIASE##RW#ARIDA\r\nOSNI#SGTO#DELON\r\n##S#CDE#LEO#L##\r\nPRIMO#RIFO#MATE\r\nLUGAR#EN##TENOR\r\nADICTA#CALENTAR\r\nCARRICK#CANSERA\r\nAS#ANTARTIDA#ED\r\nR#AMOUR#ACOJA#O\r\n#BIENAL#SANEAS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Si\", condicional en inglés.",
+              "answer": "IF"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Rojo de Castilla.",
+              "answer": "CARMESI"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Líquido graso que se obtiene de semillas.",
+              "answer": "ACEITE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Se frota la piel por picazón, se...",
+              "answer": "RASCA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Autor de la novela \"El Retrato de Dorian Grey\".",
+              "answer": "OSCAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Secuencia de movimientos, en artes marciales.",
+              "answer": "KATA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Adora, adula.",
+              "answer": "ALABA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Extremadamente astuto o experimentado.",
+              "answer": "REDOMADO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Pondré un sello de plomo a este documento, lo...",
+              "answer": "PLOMARE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Iniciales del primer vocalista de la banda Black Sabbath.",
+              "answer": "OO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Incapaz de escribir o analfabeto.",
+              "answer": "AGRAFO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Sentimiento de anhelo o aspiración.",
+              "answer": "DESEAN"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Chalets sioux.",
+              "answer": "TIPIS"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Poeta o trovador de la antigua tradición celta.",
+              "answer": "BARDO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Llegar a un acuerdo mediante concesiones mutuas.",
+              "answer": "TRANSIGIR"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "De alto rendimiento académico o intelectual.",
+              "answer": "BRILLANTE"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"... Attack\" programa infantil de manualidades.",
+              "answer": "ART"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Lobo en inglés.",
+              "answer": "WOLF"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Iniciales del pintor del cuadro de los relojes derretidos.",
+              "answer": "SD"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Apellido del protagonista del filme \"Mujer Bonita\".",
+              "answer": "GERE"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Un cortina cuando es muy grande.",
+              "answer": "CORTINON"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Las fronteras de Egipto.",
+              "answer": "EO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Rugby. Detener un ataque, sujetando con las manos al jugador contrario.",
+              "answer": "PLACAR"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Toscas, sin pulimento.",
+              "answer": "RUDAS"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Tejido de nudos usada por artesanos para sus pulseras.",
+              "answer": "MACRAME"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Abreviatura de la forma legal \"Incorporation\".",
+              "answer": "INC"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Lo envías por WhatsApp.",
+              "answer": "MENSAJE"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Remolcaré la nave.",
+              "answer": "TOARE"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Equivocado, desacertado.",
+              "answer": "ERRADO"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Anatomía. Haz de fibras conjuntivas que une los músculos a los huesos.",
+              "answer": "TENDON"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Interpreta un papel.",
+              "answer": "ACTUA"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Las hay de nacimiento y de defunción.",
+              "answer": "ACTAS"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Educación independiente de organizaciones religiosas.",
+              "answer": "LAICA"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"... Lagerfeld\" diseñador alemán.",
+              "answer": "KARL"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Lo que tienen en común Mari y Dani.",
+              "answer": "AI"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Alcohólicos Anónimos.",
+              "answer": "AA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Esta mal copiar al pillín.",
+              "answer": "PICARO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Apellido de un famoso ajedrecista soviético.",
+              "answer": "KARPOV"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Las flacas pagaron 50 por estos cuchillos.",
+              "answer": "FACAS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cada uno de los genes del par de cromosomas.",
+              "answer": "ALELO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un Mustang, tipo gran turismo.",
+              "answer": "GT"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Lo he salvado de estar con los recatados.",
+              "answer": "RESCATADO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dominio web para Bélgica.",
+              "answer": "BE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Disciplina que combina movimiento y música.",
+              "answer": "RITMICA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Inflas, das forma convexa.",
+              "answer": "ABOMBAS"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Aumentará la velocidad e intensidad en su trabajo.",
+              "answer": "APRETARA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Nudo, atadura.",
+              "answer": "AMARRE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vendiese a crédito.",
+              "answer": "FIASE"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Iniciales del actor que protagonizó 'Patch Adams'.",
+              "answer": "RW"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tierra seca y estéril.",
+              "answer": "ARIDA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Como el OVNI pero submarino.",
+              "answer": "OSNI"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Pequeño sargento.",
+              "answer": "SGTO"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Alain, el actor francés.",
+              "answer": "DELON"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Van seguidas.",
+              "answer": "CDE"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Con cariño a Messi.",
+              "answer": "LEO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "El hijo de mi tía.",
+              "answer": "PRIMO"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Sorteo, apuesto.",
+              "answer": "RIFO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "La yerba predilecta de argentinos y uruguayos.",
+              "answer": "MATE"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"En algún... de un gran país / olvidaron construir / un lugar donde no queme el sol\" DD.",
+              "answer": "LUGAR"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Preposición.",
+              "answer": "EN"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Música. Voz media entre la de contralto y la de barítono.",
+              "answer": "TENOR"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Dependiente a una sustancia o actividad nociva.",
+              "answer": "ADICTA"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Preparar el cuerpo antes del ejercicio.",
+              "answer": "CALENTAR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Michael...\" exmediocentro del Manchester United.",
+              "answer": "CARRICK"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Poema de Vicente Medina, incluido en 'Aires Murcianos'.",
+              "answer": "CANSERA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Carta de cada palo que lleva el número uno.",
+              "answer": "AS"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Continente donde se encuentra el Polo Sur.",
+              "answer": "ANTARTIDA"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Ejército de Dumbledore.",
+              "answer": "ED"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "El amor de un francés.",
+              "answer": "AMOUR"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Admita en su casa o compañía a alguien.",
+              "answer": "ACOJA"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Bailen en la niebla, al menos cada dos años.",
+              "answer": "BIENAL"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Reparas o remedias.",
+              "answer": "SANEAS"
+            }
+          }
+        },
+        "vertical_clues": "2-\"Si\", condicional en inglés.\r\n3-Rojo de Castilla.\r\n4-Líquido graso que se obtiene de semillas.\r\n5-Se frota la piel por picazón, se...\r\n6-Autor de la novela \"El Retrato de Dorian Grey\".\r\n7-Secuencia de movimientos, en artes marciales.\r\n8-Adora, adula.\r\n9-Extremadamente astuto o experimentado. \r\n10-Pondré un sello de plomo a este documento, lo...\r\n11-Iniciales del primer vocalista de la banda Black Sabbath.\r\n12-Incapaz de escribir o analfabeto. \r\n15-Sentimiento de anhelo o aspiración. \r\n17-Chalets sioux.\r\n19-Poeta o trovador de la antigua tradición celta. \r\n21-Llegar a un acuerdo mediante concesiones mutuas. \r\n23-De alto rendimiento académico o intelectual. \r\n25-\"... Attack\" programa infantil de manualidades.\r\n29-Lobo en inglés.\r\n32-Iniciales del pintor del cuadro de los relojes derretidos.\r\n33-Apellido del protagonista del filme \"Mujer Bonita\".\r\n35-Un cortina cuando es muy grande.\r\n37-Las fronteras de Egipto.\r\n38-Rugby. Detener un ataque, sujetando con las manos al jugador contrario.\r\n39-Toscas, sin pulimento.\r\n40-Tejido de nudos usada por artesanos para sus pulseras.\r\n42-Abreviatura de la forma legal \"Incorporation\".\r\n43-Lo envías por WhatsApp.\r\n44-Remolcaré la nave. \r\n45-Equivocado, desacertado.\r\n48-Anatomía. Haz de fibras conjuntivas que une los músculos a los huesos.\r\n50-Interpreta un papel.\r\n52-Las hay de nacimiento y de defunción.\r\n53-Educación independiente de organizaciones religiosas.\r\n55-\"... Lagerfeld\" diseñador alemán.\r\n60-Lo que tienen en común Mari y Dani.\r\n62-Alcohólicos Anónimos.",
+        "horizontal_clues": "1-Esta mal copiar al pillín.\r\n7-Apellido de un famoso ajedrecista soviético. \r\n13-Las flacas pagaron 50 por estos cuchillos.\r\n14-Cada uno de los genes del par de cromosomas.\r\n16-Un Mustang, tipo gran turismo.\r\n18-Lo he salvado de estar con los recatados.\r\n19-Dominio web para Bélgica.\r\n20-Disciplina que combina movimiento y música. \r\n22-Inflas, das forma convexa.\r\n24-Aumentará la velocidad e intensidad en su trabajo.\r\n26-Nudo, atadura. \r\n27-Vendiese a crédito.\r\n28-Iniciales del actor que protagonizó 'Patch Adams'. \r\n30-Tierra seca y estéril.\r\n31-Como el OVNI pero submarino.\r\n32-Pequeño sargento.\r\n34-Alain, el actor francés.\r\n35-Van seguidas.\r\n36-Con cariño a Messi.\r\n38-El hijo de mi tía.\r\n41-Sorteo, apuesto.\r\n43-La yerba predilecta de argentinos y uruguayos.\r\n46-\"En algún... de un gran país / olvidaron construir / un lugar donde no queme el sol\" DD.\r\n47-Preposición.\r\n48-Música. Voz media entre la de contralto y la de barítono.\r\n49-Dependiente a una sustancia o actividad nociva.\r\n51-Preparar el cuerpo antes del ejercicio. \r\n54-\"Michael...\" exmediocentro del Manchester United.\r\n56-Poema de Vicente Medina, incluido en 'Aires Murcianos'. \r\n57-Carta de cada palo que lleva el número uno.\r\n58-Continente donde se encuentra el Polo Sur.\r\n59-Ejército de Dumbledore.\r\n60-El amor de un francés.\r\n61-Admita en su casa o compañía a alguien.\r\n63-Bailen en la niebla, al menos cada dos años.\r\n64-Reparas o remedias.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,18,#,#,#,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,#,#,25,#,26,#,#,#,#,#\r\n27,#,#,#,#,#,#,28,29,#,30,#,#,#,#\r\n31,#,#,#,#,32,33,#,#,#,34,#,#,#,#\r\n#,#,#,#,35,#,#,#,36,37,#,#,#,#,#\r\n38,39,#,40,#,#,41,42,#,#,#,43,#,44,45\r\n46,#,#,#,#,#,47,#,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,#,51,52,53,#,#,#,#,#\r\n54,#,#,#,#,#,55,#,56,#,#,#,#,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,#,#,59,#\r\n#,#,60,#,#,#,#,#,61,#,#,#,62,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

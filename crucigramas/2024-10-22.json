@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1086,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-21T11:13:52.772301Z",
+      "updatedAt": "2024-10-21T11:13:52.772321Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-22",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CODIGO#HABANA#\r\nLABORAR#ILOGICO\r\nLN#GALA#GAFO#UX\r\nATA#NICOISE#CAI\r\nMASA#LUCES#LORD\r\nARANCEL#NATALIE\r\nNOTARIO#EDINSON\r\n###TU#####BE###\r\nREMEDAR#ACERTAR\r\nENAMORE#CATORCE\r\nTOCA#DINER#SEUL\r\nITH#BINARIO#NSE\r\nRE#TODA#COTA#AV\r\nACLARAD#ACABADO\r\n#ACUOSO#RANCHO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Contará la cantora que la coartan por usar una vasija.",
+              "answer": "CANTARO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Obligatorias las dos primeras.",
+              "answer": "OB"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Perro en inglés.",
+              "answer": "DOG"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "País del Oriente Medio que limita por el oeste con Irak.",
+              "answer": "IRAN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Dijo: 'y, sin embargo, se mueve'.",
+              "answer": "GALILEI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Vaticinio, profecía.",
+              "answer": "ORACULO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Limpieza y aseo personal.",
+              "answer": "HIGIENE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Bashar...\" presidente de Siria desde el año 2000.",
+              "answer": "ALASSAD"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pulmón de las reses.",
+              "answer": "BOFE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Mago sin su sombrero.",
+              "answer": "AGO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"... tan calvo, ... con dos pelucas\".",
+              "answer": "NI"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Signo del zodiaco del elemento aire.",
+              "answer": "ACUARIO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Telefonean.",
+              "answer": "LLAMAN"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Produzcan óxido al reaccionar con una sustancia.",
+              "answer": "OXIDEN"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Es de interés, el € que se paga por un préstamo y está subiendo.",
+              "answer": "ASAT"
+            },
+            "23": {
+              "col": 7,
+              "row": 3,
+              "clue": "Lengua provenzal.",
+              "answer": "OC"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "\"Les...\" restaurante de Fina Puigdevall en Olot, con sus dos estrellas Michelín.",
+              "answer": "COLS"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "Antiguo Testamento. Condena al exterminio.",
+              "answer": "ANATEMA"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Almacenes donde se guarda lana.",
+              "answer": "LANEROS"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Alimento que no está cocido.",
+              "answer": "CRUDO"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Región más alta de la tierra.",
+              "answer": "TIBET"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aparta, separa, aísla.",
+              "answer": "RETIRA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Lugar donde se guarda una colección de vinos.",
+              "answer": "ENOTECA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Unidad de velocidad, de propagación del sonido.",
+              "answer": "MACH"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Superficies quemadas, incineradas, prendidas.",
+              "answer": "ARDIDAS"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Periodo activo de una Miss Universo.",
+              "answer": "REINADO"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Aproximar, arrimar.",
+              "answer": "ACERCAR"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Este nació en Río de Janeiro, es un...",
+              "answer": "CARIOCA"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "\"... al sur\" canción de la banda chilena 'Los Prisioneros'.",
+              "answer": "TREN"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Lo que ha causado el error, es que lo hayan culpado.",
+              "answer": "ACUSADO"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Sustitución de una persona por otra en una tarea.",
+              "answer": "RELEVO"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Símbolo químico del sodio.",
+              "answer": "NA"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Elemento químico cuyo símbolo es B.",
+              "answer": "BORO"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Organización del Tratado del Atlántico Norte.",
+              "answer": "OTAN"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "La T griega.",
+              "answer": "TAU"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Las tres primeras.",
+              "answer": "ABC"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "¡Loco, cierra los ojos!.",
+              "answer": "LC"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Iniciales del actor galés que interpretó a Hannibal Lecter.",
+              "answer": "AH"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"El... de Da Vinci\" novela de Dan Brown.",
+              "answer": "CODIGO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Capital de Cuba.",
+              "answer": "HABANA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bregar, producir, ejecutar.",
+              "answer": "LABORAR"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Absurdo, incoherente.",
+              "answer": "ILOGICO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Cáscara del limón.",
+              "answer": "LN"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "\"Met...\" el evento más importante de la moda vanguardista.",
+              "answer": "GALA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Tonto, necio.",
+              "answer": "GAFO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Siglas en inglés para Experiencia de Usuario.",
+              "answer": "UX"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Anuda.",
+              "answer": "ATA"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Ensalada típica de Niza (Francia).",
+              "answer": "NICOISE"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "\"... por inocente\". Yo, el 28 de diciembre.",
+              "answer": "CAI"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Mezcla para hacer empanadas.",
+              "answer": "MASA"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Ser inteligente, iluminado, tener muchas...",
+              "answer": "LUCES"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Un noble inglés.",
+              "answer": "LORD"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Te laceran injustamente con este impuesto.",
+              "answer": "ARANCEL"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Actriz de la película francesa, 'El profesional, Léon' (1994).",
+              "answer": "NATALIE"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Fedatario público que da fe de documentos.",
+              "answer": "NOTARIO"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"El Matador\", futbolista uruguayo.",
+              "answer": "EDINSON"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Apócope de \"tuyo\".",
+              "answer": "TU"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Dominio web para Bélgica.",
+              "answer": "BE"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "¿Ese derrame fue un desastre y tú me vas a imitar?.",
+              "answer": "REMEDAR"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Responder bien el acertijo.",
+              "answer": "ACERTAR"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Me prendí de amor por ella.",
+              "answer": "ENAMORE"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "XIV.",
+              "answer": "CATORCE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ejercita el sentido del tacto.",
+              "answer": "TOCA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Me rendí porque no me rinde el dinero.",
+              "answer": "DINER"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Capital de Corea del Sur.",
+              "answer": "SEUL"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Instituto Tecnológico Hotelero.",
+              "answer": "ITH"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Sistema numérico usado en informática.",
+              "answer": "BINARIO"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "No Seas Egoísta.",
+              "answer": "NSE"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Iniciales en el asunto del email, al ser una respuesta.",
+              "answer": "RE"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Completa, entera.",
+              "answer": "TODA"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Altura de un punto sobre un plano horizontal.",
+              "answer": "COTA"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Américo Vespucio.",
+              "answer": "AV"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Explicad, esclareced, dilucidad.",
+              "answer": "ACLARAD"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Ha terminado destruido.",
+              "answer": "ACABADO"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"Humor...\" entre la córnea y el iris del ojo.",
+              "answer": "ACUOSO"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Choza o casa pobre.",
+              "answer": "RANCHO"
+            }
+          }
+        },
+        "vertical_clues": "1-Contará la cantora que la coartan por usar una vasija.\r\n2-Obligatorias las dos primeras.\r\n3-Perro en inglés.\r\n4-País del Oriente Medio que limita por el oeste con Irak.\r\n5-Dijo: 'y, sin embargo, se mueve'.\r\n6-Vaticinio, profecía.\r\n7-Limpieza y aseo personal. \r\n8-\"Bashar...\" presidente de Siria desde el año 2000.\r\n9-Pulmón de las reses.\r\n10-Mago sin su sombrero.\r\n11-\"... tan calvo, ... con dos pelucas\". \r\n12-Signo del zodiaco del elemento aire.\r\n13-Telefonean.\r\n15-Produzcan óxido al reaccionar con una sustancia.\r\n21-Es de interés, el € que se paga por un préstamo y está subiendo.\r\n23-Lengua provenzal. \r\n24-\"Les...\" restaurante de Fina Puigdevall en Olot, con sus dos estrellas Michelín.\r\n26-Antiguo Testamento. Condena al exterminio.\r\n28-Almacenes donde se guarda lana.\r\n30-Alimento que no está cocido.\r\n32-Región más alta de la tierra.\r\n37-Aparta, separa, aísla.\r\n38-Lugar donde se guarda una colección de vinos.\r\n39-Unidad de velocidad, de propagación del sonido.\r\n40-Superficies quemadas, incineradas, prendidas.\r\n41-Periodo activo de una Miss Universo.\r\n42-Aproximar, arrimar.\r\n43-Este nació en Río de Janeiro, es un...\r\n44-\"... al sur\" canción de la banda chilena 'Los Prisioneros'.\r\n45-Lo que ha causado el error, es que lo hayan culpado.\r\n46-Sustitución de una persona por otra en una tarea. \r\n51-Símbolo químico del sodio.\r\n54-Elemento químico cuyo símbolo es B.\r\n55-Organización del Tratado del Atlántico Norte.\r\n58-La T griega.\r\n60-Las tres primeras.\r\n63-¡Loco, cierra los ojos!. \r\n65-Iniciales del actor galés que interpretó a Hannibal Lecter.",
+        "horizontal_clues": "1-\"El... de Da Vinci\" novela de Dan Brown.\r\n7-Capital de Cuba.\r\n13-Bregar, producir, ejecutar.\r\n14-Absurdo, incoherente.\r\n16-Cáscara del limón.\r\n17-\"Met...\" el evento más importante de la moda vanguardista.\r\n18-Tonto, necio.\r\n19-Siglas en inglés para Experiencia de Usuario.\r\n20-Anuda.\r\n22-Ensalada típica de Niza (Francia).\r\n24-\"... por inocente\". Yo, el 28 de diciembre.\r\n25-Mezcla para hacer empanadas.\r\n27-Ser inteligente, iluminado, tener muchas...\r\n28-Un noble inglés.\r\n29-Te laceran injustamente con este impuesto.\r\n31-Actriz de la película francesa, 'El profesional, Léon' (1994).\r\n33-Fedatario público que da fe de documentos. \r\n34-\"El Matador\", futbolista uruguayo.\r\n35-Apócope de \"tuyo\".\r\n36-Dominio web para Bélgica.\r\n37-¿Ese derrame fue un desastre y tú me vas a imitar?. \r\n42-Responder bien el acertijo.\r\n47-Me prendí de amor por ella.\r\n48-XIV.\r\n49-Ejercita el sentido del tacto.\r\n50-Me rendí porque no me rinde el dinero. \r\n52-Capital de Corea del Sur.\r\n53-Instituto Tecnológico Hotelero.\r\n54-Sistema numérico usado en informática. \r\n56-No Seas Egoísta.\r\n57-Iniciales en el asunto del email, al ser una respuesta.\r\n58-Completa, entera.\r\n59-Altura de un punto sobre un plano horizontal.\r\n61-Américo Vespucio.\r\n62-Explicad, esclareced, dilucidad.\r\n64-Ha terminado destruido.\r\n66-\"Humor...\" entre la córnea y el iris del ojo.\r\n67-Choza o casa pobre.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,17,#,#,#,#,18,#,#,#,#,19,#\r\n20,#,21,#,22,#,#,23,#,#,#,#,24,#,#\r\n25,#,#,26,#,27,#,#,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,31,#,32,#,#,#,#\r\n33,#,#,#,#,#,#,#,34,#,#,#,#,#,#\r\n#,#,#,35,#,#,#,#,#,#,36,#,#,#,#\r\n37,38,39,#,#,40,41,#,42,43,#,#,44,45,46\r\n47,#,#,#,#,#,#,#,48,#,#,#,#,#,#\r\n49,#,#,#,#,50,#,51,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,#,#,#,#,55,#,56,#,#\r\n57,#,#,58,#,#,#,#,59,#,#,60,#,61,#\r\n62,#,63,#,#,#,#,#,64,#,#,#,65,#,#\r\n#,66,#,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

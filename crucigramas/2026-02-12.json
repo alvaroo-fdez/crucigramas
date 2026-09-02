@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4781,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-11T22:33:55.023211Z",
+      "updatedAt": "2026-02-12T18:55:01.157618Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#SARTRE#MATABA#\r\nLOBA#EV#ENOJADO\r\nARRESTO#SOMETER\r\nPIAROA#GUSANERA\r\nSAH#FLUOR#TALES\r\nUNAGI#SKATE##ZE\r\nSOMU#NOU#OREMOS\r\n###APIS#UDON###\r\nASCUAS#INO#ETAP\r\nJO##SACRA#AORTA\r\nIRANI#LAMED#AAS\r\nZORIONAK#BRUSCA\r\nALMENAR#FRONTAL\r\nLLEGADA#AI#GEMA\r\n#ANALES#CAMISA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Soria no es la ciudad natal de Eva, la cómica ha nacido en Reus",
+              "answer": "SORIANO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "El primero de los tres patriarcas del Judaísmo",
+              "answer": "ABRAHAM"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Pelar, rasurar",
+              "answer": "RAER"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cualquier pedazo o desperdicio de telas",
+              "answer": "RETAL"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Duración de tiempo sin término",
+              "answer": "EVO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Moderación, comedimiento",
+              "answer": "MESURA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Que no pasen en vano",
+              "answer": "ANOS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Planta que da el fruto rojo, típico de las ensaladas",
+              "answer": "TOMATERO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Que pertenece a otra persona (fem)",
+              "answer": "AJENA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Embarcación a remo, con 4 remeros y 1 timonel",
+              "answer": "BATEL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Doy sabor a los alimentos",
+              "answer": "ADEREZO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Error involuntario al hablar o escribir",
+              "answer": "LAPSUS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Hicieses oración a Dios",
+              "answer": "ORASES"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "A mi pequeña y querida Sofía",
+              "answer": "SOFI"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Icono mundial del anime, el super saiyajin",
+              "answer": "GOKU"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "Costumbres o hábitos",
+              "answer": "USOS"
+            },
+            "26": {
+              "col": 3,
+              "row": 5,
+              "clue": "Hasta el perro lo dice",
+              "answer": "GUAU"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "\"… sobre mi madre\" de Almodóvar",
+              "answer": "TODO"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Villa portuguesa del Distrito de Portalegre",
+              "answer": "NISA"
+            },
+            "33": {
+              "col": 11,
+              "row": 6,
+              "clue": "Poético De cobre o bronce",
+              "answer": "ENEO"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Crimen de un amor insano, crimen…",
+              "answer": "PASIONAL"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "La Universidad Nacional Autónoma de México",
+              "answer": "UNAM"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Terreno plantado de ajíes",
+              "answer": "AJIZAL"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"Joaquín …\", pintor valenciano",
+              "answer": "SOROLLA"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "País cuya capital es Bagdad",
+              "answer": "IRAK"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "Salientes de metal en el mástil de las guitarras",
+              "answer": "TRASTES"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Desierto más seco del mundo",
+              "answer": "ATACAMA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Supérala, rebásala",
+              "answer": "PASALA"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Materia líquida y transparente que rodea la yema del huevo (pl)",
+              "answer": "CLARAS"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Reparto las aguas para el riego",
+              "answer": "ADRO"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Vistan armas ofensivas",
+              "answer": "ARMEN"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Dice que él no lo hizo, lo…",
+              "answer": "NIEGA"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Me rabié con la ibera borracha",
+              "answer": "EBRIA"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Impúlsese en el agua con la fuerza de sus brazos",
+              "answer": "NADE"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Unté, embadurné",
+              "answer": "UNGI"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Fuerzas Aéreas Colombianas (siglas)",
+              "answer": "FAC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Jean Paul…\" símbolo del Mayo Francés",
+              "answer": "SARTRE"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sacrificaba, inmolaba",
+              "answer": "MATABA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Lo es Luperca, la de Rómulo y Remo",
+              "answer": "LOBA"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Mira por el espejo",
+              "answer": "EV"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cabreado, mosqueado",
+              "answer": "ENOJADO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Lo encierro tras las rejas",
+              "answer": "ARRESTO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Dominar nuestros peores temores",
+              "answer": "SOMETER"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Vzla Pueblo indígena en las orillas del río Orinoco",
+              "answer": "PIAROA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Herida llena de larvas",
+              "answer": "GUSANERA"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Título que se daba al rey de Persia",
+              "answer": "SAH"
+            },
+            "22": {
+              "col": 4,
+              "row": 4,
+              "clue": "Compuesto químico para la prevención de las caries",
+              "answer": "FLUOR"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"… from the Loop\" serie surrealista, visualmente fascinante",
+              "answer": "TALES"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Palabra japonesa para las anguilas de agua dulce",
+              "answer": "UNAGI"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "La tabla para patinar (voz inglesa)",
+              "answer": "SKATE"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Síndrome de Zollinger",
+              "answer": "ZE"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Sistema Online de Mensajería Urgente",
+              "answer": "SOMU"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "El Camp de Barcelona",
+              "answer": "NOU"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Recemos, imploremos",
+              "answer": "OREMOS"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Las abejas de miel que han revolucionado al país",
+              "answer": "APIS"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Fideo japonés grueso, de harina de trigo",
+              "answer": "UDON"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "En lo que te tienen hasta que te responden, en…",
+              "answer": "ASCUAS"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Una de las hijas de Cadmo y Harmonía",
+              "answer": "INO"
+            },
+            "40": {
+              "col": 11,
+              "row": 8,
+              "clue": "Sin terminar la etapa, di vuelta el paté",
+              "answer": "ETAP"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Onomatopeya de la risa de Papá Noel",
+              "answer": "JO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Sagrada",
+              "answer": "SACRA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Mayor arteria del cuerpo",
+              "answer": "AORTA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Natural de Irán",
+              "answer": "IRANI"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Pasad la lengua",
+              "answer": "LAMED"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Ácido Acetilsalicílico (abrev)",
+              "answer": "AAS"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Felicidades a las que hablan euskera",
+              "answer": "ZORIONAK"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Tosca, nada delicada",
+              "answer": "BRUSCA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Coronar con almenas un edificio",
+              "answer": "ALMENAR"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Lóbulo encargado de la producción lingüística y oral",
+              "answer": "FRONTAL"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Venida, arribada, advenimiento",
+              "answer": "LLEGADA"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Carrocería del Audi",
+              "answer": "AI"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "Nombre genérico de las piedras preciosas",
+              "answer": "GEMA"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Relaciones de sucesos por años",
+              "answer": "ANALES"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "La de Juanes es negra y la Tolstoi es de hombre feliz",
+              "answer": "CAMISA"
+            }
+          }
+        },
+        "vertical_clues": "1-Soria no es la ciudad natal de Eva, la cómica ha nacido en Reus\r\n2-El primero de los tres patriarcas del Judaísmo \r\n3-Pelar, rasurar\r\n4-Cualquier pedazo o desperdicio de telas\r\n5-Duración de tiempo sin término\r\n6-Moderación, comedimiento\r\n7-Que no pasen en vano\r\n8-Planta que da el fruto rojo, típico de las ensaladas\r\n9-Que pertenece a otra persona (fem)\r\n10-Embarcación a remo, con 4 remeros y 1 timonel\r\n11-Doy sabor a los alimentos\r\n12-Error involuntario al hablar o escribir \r\n15-Hicieses oración a Dios\r\n17-A mi pequeña y querida Sofía\r\n20-Icono mundial del anime, el super saiyajin\r\n23-Costumbres o hábitos\r\n26-Hasta el perro lo dice\r\n28-\"… sobre mi madre\" de Almodóvar\r\n31-Villa portuguesa del Distrito de Portalegre\r\n33-Poético De cobre o bronce\r\n35-Crimen de un amor insano, crimen…\r\n36-La Universidad Nacional Autónoma de México\r\n37-Terreno plantado de ajíes\r\n38-\"Joaquín …\", pintor valenciano\r\n39-País cuya capital es Bagdad\r\n41-Salientes de metal en el mástil de las guitarras\r\n42-Desierto más seco del mundo\r\n43-Supérala, rebásala\r\n46-Materia líquida y transparente que rodea la yema del huevo (pl)\r\n47-Reparto las aguas para el riego\r\n49-Vistan armas ofensivas\r\n50-Dice que él no lo hizo, lo…\r\n52-Me rabié con la ibera borracha\r\n55-Impúlsese en el agua con la fuerza de sus brazos\r\n57-Unté, embadurné\r\n59-Fuerzas Aéreas Colombianas (siglas)",
+        "horizontal_clues": "1-\"Jean Paul…\" símbolo del Mayo Francés\r\n6-Sacrificaba, inmolaba\r\n12-Lo es Luperca, la de Rómulo y Remo\r\n13-Mira por el espejo\r\n14-Cabreado, mosqueado\r\n16-Lo encierro tras las rejas\r\n18-Dominar nuestros peores temores\r\n19-Vzla Pueblo indígena en las orillas del río Orinoco\r\n20-Herida llena de larvas \r\n21-Título que se daba al rey de Persia\r\n22- Compuesto químico para la prevención de las caries\r\n24-\"… from the Loop\" serie surrealista, visualmente fascinante\r\n25-Palabra japonesa para las anguilas de agua dulce\r\n27-La tabla para patinar (voz inglesa)\r\n29-Síndrome de Zollinger-Ellison (siglas)\r\n30-Sistema Online de Mensajería Urgente\r\n31-El Camp de Barcelona\r\n32-Recemos, imploremos\r\n34-Las abejas de miel que han revolucionado al país\r\n36-Fideo japonés grueso, de harina de trigo\r\n37-En lo que te tienen hasta que te responden, en…\r\n39-Una de las hijas de Cadmo y Harmonía\r\n40-Sin terminar la etapa, di vuelta el paté\r\n44-Onomatopeya de la risa de Papá Noel\r\n45-Sagrada\r\n47-Mayor arteria del cuerpo\r\n48-Natural de Irán\r\n51-Pasad la lengua\r\n53-Ácido Acetilsalicílico (abrev)\r\n54-Felicidades a las que hablan euskera\r\n56-Tosca, nada delicada\r\n58-Coronar con almenas un edificio \r\n59-Lóbulo encargado de la producción lingüística y oral\r\n60-Venida, arribada, advenimiento\r\n61-Carrocería del Audi\r\n62-Nombre genérico de las piedras preciosas\r\n63-Relaciones de sucesos por años\r\n64-La de Juanes es negra y la Tolstoi es de hombre feliz",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,#,4,5,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,13,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,17,#,#,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,#,20,#,#,#,#,#,#,#\r\n21,#,#,#,22,#,23,#,#,#,24,#,#,#,#\r\n25,#,#,26,#,#,27,#,#,28,#,#,#,29,#\r\n30,#,#,#,#,31,#,#,#,32,#,33,#,#,#\r\n#,#,#,34,35,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,#,#,#,#,39,#,#,#,40,41,42,43\r\n44,#,#,#,45,#,46,#,#,#,47,#,#,#,#\r\n48,#,49,50,#,#,51,#,#,52,#,#,53,#,#\r\n54,#,#,#,#,55,#,#,#,56,#,57,#,#,#\r\n58,#,#,#,#,#,#,#,59,#,#,#,#,#,#\r\n60,#,#,#,#,#,#,#,61,#,#,62,#,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

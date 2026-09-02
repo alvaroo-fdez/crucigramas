@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 3631,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-13T09:38:22.110078Z",
+      "updatedAt": "2025-10-13T09:51:06.019975Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-19",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#TUMACO#FUMARAN\r\nP#HACEDOR#APICE\r\nAQ#DERIVA#SUMAN\r\nNUTRIDO#CLARETE\r\nCOROTOS#TAJARAS\r\nARAÑA#OCUPE#OR#\r\nRUGOSO#IRISO##G\r\nTMA##BOTAD##OBE\r\nA##CARPA#APELAN\r\n#CA#BARRY#OMITE\r\nVOLTAJE#ABREVAR\r\nANUALES#RETRATO\r\nRECLE#ILUSAS#AS\r\nAXILA#OBRADOR#O\r\nSONARAN#ADONDE#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Voz usada para denotar desilusión o desdén",
+              "answer": "UH"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Árbol Nacional de Nicaragua",
+              "answer": "MADROÑO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Engrasas",
+              "answer": "ACEITAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Puerco, marrano",
+              "answer": "CERDO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Digno de odio",
+              "answer": "ODIOSO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Rompimiento de un hueso",
+              "answer": "FRACTURA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Relajación de los músculos usando las manos (pl)",
+              "answer": "MASAJES"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Apremia, mete prisa",
+              "answer": "APURA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Montón de cosas puestas unas sobre otras",
+              "answer": "RIMERO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Tributar homenaje de sumisión y respeto",
+              "answer": "ACATAR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Bebé, niño, chico (pl)",
+              "answer": "NENES"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "¿Un cartel que pide que la baguette esté con el menú?",
+              "answer": "PANCARTA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Oficina Virtual",
+              "answer": "OV"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Cantidad necesaria de personas para validar una decisión",
+              "answer": "QUORUM"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Engulle, devora, ingiere",
+              "answer": "TRAGA"
+            },
+            "24": {
+              "col": 9,
+              "row": 3,
+              "clue": "Piedra llana en que ordinariamente se pone una inscripción",
+              "answer": "LAPIDA"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Avisar a alguien señalándole día, hora y lugar",
+              "answer": "CITAR"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Lugar donde se labraban paños y otras cosas para el uso común",
+              "answer": "OBRAJE"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Hombre que obra con magnanimidad y nobleza de ánimo",
+              "answer": "GENEROSO"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Sometimiento de los tiranos",
+              "answer": "OPRESION"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Aceite ideal para las ensaladas",
+              "answer": "OLIVA"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Chaco, papa dulce, camote",
+              "answer": "BATATA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Tirotear, disparar a alguien o algo",
+              "answer": "ABALEAR"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Lo ha llevado consigo, lo ha…",
+              "answer": "PORTADO"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "F1 \"… Fittipaldi\" conocido como Emmo",
+              "answer": "EMERSON"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Dicho de una cosa que está enlazada con otra (masc)",
+              "answer": "CONEXO"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "El Salvador Alucinación",
+              "answer": "ALUCIN"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Lengua amerindia",
+              "answer": "YARURA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ramas delgadas",
+              "answer": "VARAS"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Estatura o altura de las personas",
+              "answer": "TALLA"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Rozad los labios",
+              "answer": "BESAD"
+            },
+            "58": {
+              "col": 7,
+              "row": 12,
+              "clue": "Un lobo sin ojos",
+              "answer": "LB"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "República Dominicana (siglas)",
+              "answer": "RD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La Perla del Pacífico",
+              "answer": "TUMACO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Aspirarán y despedirán el humo del tabaco",
+              "answer": "FUMARAN"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "El creador o el ejecutor",
+              "answer": "HACEDOR"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Extremo superior o punta de algo",
+              "answer": "APICE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dominio de nivel superior geográfico para Antártida",
+              "answer": "AQ"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Abatimiento de la nave respecto del rumbo establecido",
+              "answer": "DERIVA"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Añaden, agregan",
+              "answer": "SUMAN"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Bien alimentado",
+              "answer": "NUTRIDO"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Vino que se elabora con mezcla de uva tinta y blanca",
+              "answer": "CLARETE"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Cacharros de cocina en Venezuela",
+              "answer": "COROTOS"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Partirás en dos, le sacarás un tajo",
+              "answer": "TAJARAS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo es Itsi Bitsi",
+              "answer": "ARAÑA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Poseí un lugar, me aposenté en él",
+              "answer": "OCUPE"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "El fin del mejor",
+              "answer": "OR"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Con arrugas (masc)",
+              "answer": "RUGOSO"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Reflejó los colores del arcoíris",
+              "answer": "IRISO"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tri Metoxi Anfetaminas",
+              "answer": "TMA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Arrojad, tirad",
+              "answer": "BOTAD"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Parroquia de Lugo",
+              "answer": "OBE"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Tienda de campaña",
+              "answer": "CARPA"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Recurren ante el juez",
+              "answer": "APELAN"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Web para Canadá",
+              "answer": "CA"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Último sobreviviente de los Bee Gees",
+              "answer": "BARRY"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Pasa por alto algo",
+              "answer": "OMITE"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tensión eléctrica",
+              "answer": "VOLTAJE"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Dar de beber al ganado",
+              "answer": "ABREVAR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Que suceden cada año",
+              "answer": "ANUALES"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Fotografía de una persona",
+              "answer": "RETRATO"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Tiempo para descansar que se da a los prebendados",
+              "answer": "RECLE"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Inocentes, viven de ilusiones las chicas",
+              "answer": "ILUSAS"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales del padre del liberalismo económico",
+              "answer": "AS"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Sobaco",
+              "answer": "AXILA"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Taller de artesano",
+              "answer": "OBRADOR"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Emitirán sonido",
+              "answer": "SONARAN"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "A qué lugar",
+              "answer": "ADONDE"
+            }
+          }
+        },
+        "vertical_clues": "2-Voz usada para denotar desilusión o desdén\r\n3-Árbol Nacional de Nicaragua\r\n4-Engrasas\r\n5-Puerco, marrano\r\n6-Digno de odio\r\n7-Rompimiento de un hueso\r\n8-Relajación de los músculos usando las manos (pl)\r\n9-Apremia, mete prisa\r\n10-Montón de cosas puestas unas sobre otras\r\n11-Tributar homenaje de sumisión y respeto\r\n12-Bebé, niño, chico (pl)\r\n13-¿Un cartel que pide que la baguette esté con el menú?\r\n15-Oficina Virtual\r\n18-Cantidad necesaria de personas para validar una decisión\r\n22-Engulle, devora, ingiere\r\n24-Piedra llana en que ordinariamente se pone una inscripción\r\n29-Avisar a alguien señalándole día, hora y lugar\r\n32-Lugar donde se labraban paños y otras cosas para el uso común\r\n34-Hombre que obra con magnanimidad y nobleza de ánimo\r\n37-Sometimiento de los tiranos\r\n38-Aceite ideal para las ensaladas\r\n39-Chaco, papa dulce, camote\r\n41-Tirotear, disparar a alguien o algo\r\n43-Lo ha llevado consigo, lo ha…\r\n44-F1 \"… Fittipaldi\" conocido como Emmo\r\n45-Dicho de una cosa que está enlazada con otra (masc)\r\n46-El Salvador Alucinación\r\n48-Lengua amerindia\r\n50-Ramas delgadas\r\n51-Estatura o altura de las personas\r\n53-Rozad los labios\r\n58-Un lobo sin ojos\r\n62-República Dominicana (siglas)",
+        "horizontal_clues": "1-La Perla del Pacífico\r\n7-Aspirarán y despedirán el humo del tabaco\r\n14-El creador o el ejecutor\r\n16-Extremo superior o punta de algo\r\n17-Dominio de nivel superior geográfico para Antártida\r\n19-Abatimiento de la nave respecto del rumbo establecido\r\n20-Añaden, agregan\r\n21-Bien alimentado\r\n23-Vino que se elabora con mezcla de uva tinta y blanca\r\n25-Cacharros de cocina en Venezuela\r\n26-Partirás en dos, le sacarás un tajo\r\n27-Lo es Itsi Bitsi\r\n28-Poseí un lugar, me aposenté en él\r\n30-El fin del mejor\r\n31-Con arrugas (masc)\r\n33-Reflejó los colores del arcoíris\r\n35-Tri Metoxi Anfetaminas\r\n36-Arrojad, tirad\r\n38-Parroquia de Lugo\r\n40-Tienda de campaña\r\n42-Recurren ante el juez\r\n45-Web para Canadá\r\n47-Último sobreviviente de los Bee Gees\r\n49-Pasa por alto algo\r\n50-Tensión eléctrica\r\n52-Dar de beber al ganado\r\n54-Que suceden cada año\r\n55-Fotografía de una persona\r\n56-Tiempo para descansar que se da a los prebendados\r\n57-Inocentes, viven de ilusiones las chicas\r\n59-Iniciales del padre del liberalismo económico\r\n60-Sobaco\r\n61-Taller de artesano\r\n63-Emitirán sonido\r\n64-A qué lugar",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,#,8,9,10,11,12\r\n13,#,14,#,#,#,#,15,#,#,16,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,#,20,#,#,#,#\r\n21,#,22,#,#,#,#,#,23,24,#,#,#,#,#\r\n25,#,#,#,#,#,#,#,26,#,#,#,#,#,#\r\n27,#,#,#,#,#,28,29,#,#,#,#,30,#,#\r\n31,#,#,#,#,32,#,33,#,#,#,#,#,#,34\r\n35,#,#,#,#,36,37,#,#,#,#,#,38,39,#\r\n#,#,#,40,41,#,#,#,#,42,43,44,#,#,#\r\n#,45,46,#,47,#,#,#,48,#,49,#,#,#,#\r\n50,#,#,51,#,#,#,#,52,53,#,#,#,#,#\r\n54,#,#,#,#,#,#,#,55,#,#,#,#,#,#\r\n56,#,#,#,#,#,57,58,#,#,#,#,#,59,#\r\n60,#,#,#,#,#,61,#,#,#,#,#,62,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

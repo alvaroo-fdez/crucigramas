@@ -1,0 +1,417 @@
+{
+  "data": {
+    "id": 1094,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-25T17:51:40.430856Z",
+      "updatedAt": "2024-10-27T08:27:25.892517Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-26",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#A#B#C#D#E#F#G#\r\n#TARTARO#GLITCH\r\n#R#ARIO#FEUDO##\r\nZANCADA#ENCENDI\r\n#SUENAN#TOREAR#\r\nYEMAS#AJO#ERRAJ\r\n##ORAR#U#ISAAC#\r\nXM###ABECE###OK\r\n#ELUDE#G#SIMA##\r\nWALLE#LAB#CAYSL\r\n#RETUVO#ADONAI#\r\nVANIDAD#MINIMUM\r\n##AMOLO#BROA#Q#\r\nUTRERO#CUESTION\r\n#T#S#R#Q#P#O#Ñ#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Retardé, fijé una fecha posterior.",
+              "answer": "ATRASE"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Nadar sacando los brazos fuera del agua.",
+              "answer": "BRACEAR"
+            },
+            "3": {
+              "col": 5,
+              "row": 0,
+              "clue": "La del Muro de Berlín, la que marco el inicio del fin de la Guerra Fría (1989).",
+              "answer": "CAIDA"
+            },
+            "4": {
+              "col": 7,
+              "row": 0,
+              "clue": "Al final del partido.",
+              "answer": "DO"
+            },
+            "5": {
+              "col": 9,
+              "row": 0,
+              "clue": "Desuso. Pobre, escaso, miserable.",
+              "answer": "EGENO"
+            },
+            "6": {
+              "col": 11,
+              "row": 0,
+              "clue": "Utensilio de cocina usado para hacer fideos caseros.",
+              "answer": "FIDEERA"
+            },
+            "7": {
+              "col": 13,
+              "row": 0,
+              "clue": "Gonzalo Conde (alias Bizarrap).",
+              "answer": "GC"
+            },
+            "9": {
+              "col": 4,
+              "row": 1,
+              "clue": "Trampa, pequeño negocio ilícito.",
+              "answer": "TRANSA"
+            },
+            "10": {
+              "col": 6,
+              "row": 1,
+              "clue": "Yegua de pelo mezclado de blanco, gris y bayo.",
+              "answer": "ROANA"
+            },
+            "12": {
+              "col": 10,
+              "row": 1,
+              "clue": "Obtengas beneficio económico.",
+              "answer": "LUCRES"
+            },
+            "13": {
+              "col": 12,
+              "row": 1,
+              "clue": "Arrojará rayo en forma poética.",
+              "answer": "TONARA"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Embrión de los mamíferos.",
+              "answer": "FETO"
+            },
+            "17": {
+              "col": 2,
+              "row": 3,
+              "clue": "Desuso. Moneda o dinero.",
+              "answer": "NUMO"
+            },
+            "19": {
+              "col": 13,
+              "row": 3,
+              "clue": "\"... Malfoy\" el de Harry Potter.",
+              "answer": "DRACO"
+            },
+            "24": {
+              "col": 7,
+              "row": 5,
+              "clue": "Participa en esta actividad lúdica.",
+              "answer": "JUEGA"
+            },
+            "27": {
+              "col": 5,
+              "row": 6,
+              "clue": "Academia de la lengua española.",
+              "answer": "RAE"
+            },
+            "28": {
+              "col": 9,
+              "row": 6,
+              "clue": "Institutos de Educación Secundaria.",
+              "answer": "IES"
+            },
+            "30": {
+              "col": 1,
+              "row": 7,
+              "clue": "Hará del 1, no del 2.",
+              "answer": "MEARA"
+            },
+            "34": {
+              "col": 2,
+              "row": 8,
+              "clue": "Ocupar por completo un espacio.",
+              "answer": "LLENAR"
+            },
+            "35": {
+              "col": 3,
+              "row": 8,
+              "clue": "Finalices o concluyas.",
+              "answer": "ULTIMES"
+            },
+            "36": {
+              "col": 4,
+              "row": 8,
+              "clue": "Persona que debe dinero.",
+              "answer": "DEUDOR"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Símbolos visuales representativos.",
+              "answer": "ICONOS"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "Le amarró la manos con violencia, lo...",
+              "answer": "MANIATO"
+            },
+            "40": {
+              "col": 12,
+              "row": 8,
+              "clue": "Civilización precolombina centroamericana (inv).",
+              "answer": "AYAM"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Pantano, barro.",
+              "answer": "LODO"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Alimento favorito de los osos panda.",
+              "answer": "BAMBU"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Desde el sur distribuyen la pasta rellena, hacia el norte.",
+              "answer": "SIUQOÑ"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "La valentía de volar distinto.",
+              "answer": "VALOR"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "La Dirección Imaginaria de Reuniones Eternamente Pendientes.",
+              "answer": "DIREP"
+            },
+            "55": {
+              "col": 1,
+              "row": 13,
+              "clue": "Tina Turner es el Trending Topic.",
+              "answer": "TT"
+            },
+            "56": {
+              "col": 7,
+              "row": 13,
+              "clue": "Carlos Quintana.",
+              "answer": "CQ"
+            }
+          },
+          "across": {
+            "8": {
+              "col": 1,
+              "row": 1,
+              "clue": "Infierno en la mitología griega.",
+              "answer": "TARTARO"
+            },
+            "11": {
+              "col": 9,
+              "row": 1,
+              "clue": "Videojuegos. Leve error visible por fallos de programación.",
+              "answer": "GLITCH"
+            },
+            "14": {
+              "col": 3,
+              "row": 2,
+              "clue": "Grupo étnico indoeuropeo antiguo.",
+              "answer": "ARIO"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "La tierra del señor feudal.",
+              "answer": "FEUDO"
+            },
+            "16": {
+              "col": 0,
+              "row": 3,
+              "clue": "Paso largo y decidido.",
+              "answer": "ZANCADA"
+            },
+            "18": {
+              "col": 8,
+              "row": 3,
+              "clue": "Prendí fuego o activé.",
+              "answer": "ENCENDI"
+            },
+            "20": {
+              "col": 1,
+              "row": 4,
+              "clue": "Lo que hacen los ríos cuando agua llevan.",
+              "answer": "SUENAN"
+            },
+            "21": {
+              "col": 8,
+              "row": 4,
+              "clue": "Lidiar.",
+              "answer": "TOREAR"
+            },
+            "22": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo amarillo del huevo (pl).",
+              "answer": "YEMAS"
+            },
+            "23": {
+              "col": 6,
+              "row": 5,
+              "clue": "Alioli sin aceite.",
+              "answer": "AJO"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cisco hecho con el hueso de la aceituna molida.",
+              "answer": "ERRAJ"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Invocar, rezar.",
+              "answer": "ORAR"
+            },
+            "28": {
+              "col": 9,
+              "row": 6,
+              "clue": "Científico de la ley de la gravitación universal.",
+              "answer": "ISAAC"
+            },
+            "29": {
+              "col": 0,
+              "row": 7,
+              "clue": "Xavi Martínez.",
+              "answer": "XM"
+            },
+            "31": {
+              "col": 5,
+              "row": 7,
+              "clue": "El que rodea a esta grilla.",
+              "answer": "ABECE"
+            },
+            "32": {
+              "col": 13,
+              "row": 7,
+              "clue": "Estoy de acuerdo con el inglés.",
+              "answer": "OK"
+            },
+            "33": {
+              "col": 1,
+              "row": 8,
+              "clue": "Evita, esquiva.",
+              "answer": "ELUDE"
+            },
+            "37": {
+              "col": 9,
+              "row": 8,
+              "clue": "Cavidad grande y muy profunda en la tierra.",
+              "answer": "SIMA"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Robot de Pixar creado para limpiar la basura de la tierra.",
+              "answer": "WALLE"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Un laboratorio no es para rezar.",
+              "answer": "LAB"
+            },
+            "44": {
+              "col": 10,
+              "row": 9,
+              "clue": "Comunidad de Artistas Yuppies, Sociedad Limitada.",
+              "answer": "CAYSL"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Mantuvo en su poder.",
+              "answer": "RETUVO"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "Uno de los nombres propios de Dios en el judaísmo.",
+              "answer": "ADONAI"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Arrogancia, presunción, envanecimiento.",
+              "answer": "VANIDAD"
+            },
+            "51": {
+              "col": 8,
+              "row": 11,
+              "clue": "Es lo mínimo de un inglés.",
+              "answer": "MINIMUM"
+            },
+            "52": {
+              "col": 2,
+              "row": 12,
+              "clue": "Sacó filo a un cuchillo, lo...",
+              "answer": "AMOLO"
+            },
+            "53": {
+              "col": 8,
+              "row": 12,
+              "clue": "Tipo de pan de maíz típico en Portugal y Galicia.",
+              "answer": "BROA"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Toro joven de tres años.",
+              "answer": "UTRERO"
+            },
+            "56": {
+              "col": 7,
+              "row": 13,
+              "clue": "Asunto, tema.",
+              "answer": "CUESTION"
+            }
+          }
+        },
+        "vertical_clues": "1-Retardé, fijé una fecha posterior.\r\n2-Nadar sacando los brazos fuera del agua.\r\n3-La del Muro de Berlín, la que marco el inicio del fin de la Guerra Fría (1989).\r\n4-Al final del partido.\r\n5-Desuso. Pobre, escaso, miserable.\r\n6-Utensilio de cocina usado para hacer fideos caseros.\r\n7-Gonzalo Conde (alias Bizarrap).\r\n9-Trampa, pequeño negocio ilícito.\r\n10-Yegua de pelo mezclado de blanco, gris y bayo.\r\n12-Obtengas beneficio económico. \r\n13-Arrojará rayo en forma poética.\r\n15-Embrión de los mamíferos.\r\n17-Desuso. Moneda o dinero.\r\n19-\"... Malfoy\" el de Harry Potter.\r\n24-Participa en esta actividad lúdica.\r\n27-Academia de la lengua española. \r\n28-Institutos de Educación Secundaria.\r\n30-Hará del 1, no del 2.\r\n34-Ocupar por completo un espacio. \r\n35-Finalices o concluyas. \r\n36-Persona que debe dinero. \r\n38-Símbolos visuales representativos. \r\n39-Le amarró la manos con violencia, lo...\r\n40-Civilización precolombina centroamericana (inv).\r\n42-Pantano, barro.\r\n43-Alimento favorito de los osos panda.\r\n45-Desde el sur distribuyen la pasta rellena, hacia el norte.\r\n47-La valentía de volar distinto.\r\n49-La Dirección Imaginaria de Reuniones Eternamente Pendientes.\r\n55-Tina Turner es el Trending Topic.\r\n56- Carlos Quintana.",
+        "horizontal_clues": "8-Infierno en la mitología griega. \r\n11-Videojuegos. Leve error visible por fallos de programación.\r\n14-Grupo étnico indoeuropeo antiguo. \r\n15-La tierra del señor feudal.\r\n16-Paso largo y decidido.\r\n18-Prendí fuego o activé. \r\n20-Lo que hacen los ríos cuando agua llevan.\r\n21-Lidiar.\r\n22-Lo amarillo del huevo (pl).\r\n23-Alioli sin aceite.\r\n25-Cisco hecho con el hueso de la aceituna molida.\r\n26-Invocar, rezar.\r\n28-Científico de la ley de la gravitación universal.\r\n29-Xavi Martínez.\r\n31-El que rodea a esta grilla.\r\n32-Estoy de acuerdo con el inglés.\r\n33-Evita, esquiva.\r\n37-Cavidad grande y muy profunda en la tierra.\r\n41-Robot de Pixar creado para limpiar la basura de la tierra.\r\n42-Un laboratorio no es para rezar.\r\n44-Comunidad de Artistas Yuppies, Sociedad Limitada. \r\n46-Mantuvo en su poder. \r\n48-Uno de los nombres propios de Dios en el judaísmo.\r\n50-Arrogancia, presunción, envanecimiento.\r\n51-Es lo mínimo de un inglés.\r\n52-Sacó filo a un cuchillo, lo...\r\n53-Tipo de pan de maíz típico en Portugal y Galicia.\r\n54-Toro joven de tres años. \r\n56-Asunto, tema.",
+        "board_clues_positions": "#,1,#,2,#,3,#,4,#,5,#,6,#,7,#\r\n#,8,#,#,9,#,10,#,#,11,12,#,13,#,#\r\n#,#,#,14,#,#,#,#,15,#,#,#,#,#,#\r\n16,#,17,#,#,#,#,#,18,#,#,#,#,19,#\r\n#,20,#,#,#,#,#,#,21,#,#,#,#,#,#\r\n22,#,#,#,#,#,23,24,#,#,25,#,#,#,#\r\n#,#,26,#,#,27,#,#,#,28,#,#,#,#,#\r\n29,30,#,#,#,31,#,#,#,#,#,#,#,32,#\r\n#,33,34,35,36,#,#,#,#,37,38,39,40,#,#\r\n41,#,#,#,#,#,42,#,43,#,44,#,#,45,#\r\n#,46,#,#,#,47,#,#,48,49,#,#,#,#,#\r\n50,#,#,#,#,#,#,#,51,#,#,#,#,#,#\r\n#,#,52,#,#,#,#,#,53,#,#,#,#,#,#\r\n54,55,#,#,#,#,#,56,#,#,#,#,#,#,#\r\n#,#,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

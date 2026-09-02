@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2171,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-17T11:38:45.166784Z",
+      "updatedAt": "2025-04-17T11:51:58.958335Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ADECUARA#TIMBRE\r\nJA#IMPAGO#RADON\r\nERA#RAQUITICO#C\r\nNINA#RUIDOSO#BE\r\nJOAN#TEJON##VER\r\nO#CIGALA#ENRIAR\r\n#ROMA##R#MUERTA\r\nPELOTEO#RANCIAR\r\nABUSAN#O##COLS#\r\nPOTOSI#MANATI#F\r\nIZO##GRITA#IDEA\r\nLO#LIMITAN#NATI\r\nO#DEBATIRSE#DOS\r\nMOMOA#AROUND#LA\r\nALONSO#ANSIABAN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La hierba de la absenta",
+              "answer": "AJENJO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Debió morir a manos de Alejandro y no del sátrapa de Bessos",
+              "answer": "DARIO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "101 en numeración romana",
+              "answer": "CI"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Un Momento para Respirar",
+              "answer": "UMR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Quita a alguien o algo del camino",
+              "answer": "APARTA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "La inspectora Murillo en La Casa de Papel",
+              "answer": "RAQUEL"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Picar con la aguijada u otra cosa a los bueyes",
+              "answer": "AGUIJAR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Parte del ojo",
+              "answer": "IRIS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Malo, pícaro, bellaco",
+              "answer": "MACO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Iniciales de Bernardo Duque Osorio",
+              "answer": "BDO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Un poco de rock and roll",
+              "answer": "RO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Poner en un lugar sin salida",
+              "answer": "ENCERRAR"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "He escuchado que el iodo está malo",
+              "answer": "OIDO"
+            },
+            "19": {
+              "col": 2,
+              "row": 2,
+              "clue": "Gramática Inconsecuencia en la construcción del discurso",
+              "answer": "ANACOLUTO"
+            },
+            "21": {
+              "col": 9,
+              "row": 2,
+              "clue": "Última fase de la curva melódica de un grupo fónico",
+              "answer": "TONEMA"
+            },
+            "23": {
+              "col": 3,
+              "row": 3,
+              "clue": "Un rival valeroso, enérgico",
+              "answer": "ANIMOSO"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Están todo el rato en la iglesia",
+              "answer": "BEATAS"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "La fuerza y energía de un varón",
+              "answer": "VIRILIDAD"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Las Mininas",
+              "answer": "GATAS"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "El país del… jamás",
+              "answer": "NUNCA"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Juego infantil \"…recotán\"",
+              "answer": "RECOTIN"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Tipo de chal mexicano colorido",
+              "answer": "REBOZO"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "La P del VPH",
+              "answer": "PAPILOMA"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Acertijo, adivinanza, misterio",
+              "answer": "ENIGMA"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Pasará en silencio algo",
+              "answer": "OMITIRA"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Amarraron con ligaduras o nudos",
+              "answer": "ATARON"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Tela fina de algodón para hacer pañuelos (pl)",
+              "answer": "NANSUS"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Ave de consumo",
+              "answer": "FAISAN"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Cantante jamaicana y viuda de Bob Marley",
+              "answer": "RITA"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Relativo a Etolia, Grecia (fem)",
+              "answer": "ETOLA"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "El rey del Serengueti",
+              "answer": "LEON"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Te trasladabas",
+              "answer": "IBAS"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Densidad Mineral Ósea",
+              "answer": "DMO"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "En medio de Kenia",
+              "answer": "ENI"
+            },
+            "60": {
+              "col": 1,
+              "row": 13,
+              "clue": "Solo en Olimpia",
+              "answer": "OL"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "Sí, en ruso",
+              "answer": "DA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ajustará, arreglará",
+              "answer": "ADECUARA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Aparato presionado antes del 'truco o trato'",
+              "answer": "TIMBRE"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Iniciales de la actriz que interpreta Rachel en 'Friends'",
+              "answer": "JA"
+            },
+            "15": {
+              "col": 3,
+              "row": 1,
+              "clue": "Deuda sin saldar",
+              "answer": "IMPAGO"
+            },
+            "17": {
+              "col": 10,
+              "row": 1,
+              "clue": "Elemento químico cuyo símbolo es Rd",
+              "answer": "RADON"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ya no es ese tiempo histórico",
+              "answer": "ERA"
+            },
+            "20": {
+              "col": 4,
+              "row": 2,
+              "clue": "Delgado como una raqueta",
+              "answer": "RAQUITICO"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Modista que lanza el perfume \"L’Air du Temps\"",
+              "answer": "NINA"
+            },
+            "24": {
+              "col": 5,
+              "row": 3,
+              "clue": "Estruendoso",
+              "answer": "RUIDOSO"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Dominio web para Bélgica",
+              "answer": "BE"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Serrat o Miró",
+              "answer": "JOAN"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Meles meles, tasugo",
+              "answer": "TEJON"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Percibir con los ojos",
+              "answer": "VER"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Crustáceo marino, semejante al cangrejo de río",
+              "answer": "CIGALA"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Meter en el agua por algunos días el lino para su maceración",
+              "answer": "ENRIAR"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Capital europea donde está El Coliseo",
+              "answer": "ROMA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Que está sin vida (fem)",
+              "answer": "MUERTA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Intercambio prolongado de elogios exagerados",
+              "answer": "PELOTEO"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Poner rancio",
+              "answer": "RANCIAR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Das la mano y te cogen el brazo",
+              "answer": "ABUSAN"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"Les…\" restaurante de Fina Puigdevall en Olot, con sus dos estrellas Michelín",
+              "answer": "COLS"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "De esta mina boliviana salió el 80% de toda la plata, durante el periodo colonial",
+              "answer": "POTOSI"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "En secreto te filman a ti con una vaca marina",
+              "answer": "MANATI"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Elevó las banderas",
+              "answer": "IZO"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Eleva muchísimo la voz",
+              "answer": "GRITA"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Primero y más obvio de los actos del entendimiento",
+              "answer": "IDEA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Artículo neutro",
+              "answer": "LO"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Establecen restricciones o fronteras",
+              "answer": "LIMITAN"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Diminutivo de Natalí",
+              "answer": "NATI"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Luchar entre dos ideas",
+              "answer": "DEBATIRSE"
+            },
+            "58": {
+              "col": 12,
+              "row": 12,
+              "clue": "Número asociado a dualidad del ser",
+              "answer": "DOS"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"Jason…\" Aquaman",
+              "answer": "MOMOA"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "\"… the World\", frase repetida 144 veces en una canción de Daft Punk",
+              "answer": "AROUND"
+            },
+            "63": {
+              "col": 13,
+              "row": 13,
+              "clue": "Nota musical",
+              "answer": "LA"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Piloto español de Fórmula 1",
+              "answer": "ALONSO"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "Anhelaban con poca paciencia",
+              "answer": "ANSIABAN"
+            }
+          }
+        },
+        "vertical_clues": "1-La hierba de la absenta\r\n2-Debió morir a manos de Alejandro y no del sátrapa de Bessos\r\n3-101 en numeración romana\r\n4-Un Momento para Respirar\r\n5-Quita a alguien o algo del camino\r\n6-La inspectora Murillo en La Casa de Papel\r\n7-Picar con la aguijada u otra cosa a los bueyes\r\n9-Parte del ojo\r\n10-Malo, pícaro, bellaco\r\n11-Iniciales de Bernardo Duque Osorio\r\n12-Un poco de rock and roll\r\n13-Poner en un lugar sin salida\r\n16-He escuchado que el iodo está malo\r\n19-Gramática Inconsecuencia en la construcción del discurso\r\n21-Última fase de la curva melódica de un grupo fónico\r\n23-Un rival valeroso, enérgico\r\n25-Están todo el rato en la iglesia\r\n28-La fuerza y energía de un varón\r\n30-Las Mininas\r\n32-El país del… jamás\r\n33-Juego infantil \"…recotán\"\r\n34-Tipo de chal mexicano colorido\r\n36-La P del VPH\r\n37-Acertijo, adivinanza, misterio\r\n40-Pasará en silencio algo\r\n44-Amarraron con ligaduras o nudos\r\n45-Tela fina de algodón para hacer pañuelos (pl)\r\n46-Ave de consumo\r\n49-Cantante jamaicana y viuda de Bob Marley\r\n51-Relativo a Etolia, Grecia (fem)\r\n53-El rey del Serengueti\r\n54-Te trasladabas\r\n56-Densidad Mineral Ósea\r\n57-En medio de Kenia\r\n60-Solo en Olimpia\r\n62-Sí, en ruso",
+        "horizontal_clues": "1-Ajustará, arreglará\r\n8-Aparato presionado antes del 'truco o trato'\r\n14-Iniciales de la actriz que interpreta Rachel en 'Friends'\r\n15-Deuda sin saldar\r\n17-Elemento químico cuyo símbolo es Rd\r\n18-Ya no es ese tiempo histórico\r\n20-Delgado como una raqueta\r\n22-Modista que lanza el perfume \"L’Air du Temps\"\r\n24-Estruendoso\r\n25-Dominio web para Bélgica\r\n26-Serrat o Miró\r\n27-Meles meles, tasugo\r\n28-Percibir con los ojos\r\n29-Crustáceo marino, semejante al cangrejo de río\r\n31-Meter en el agua por algunos días el lino para su maceración\r\n34-Capital europea donde está El Coliseo\r\n35-Que está sin vida (fem)\r\n36-Intercambio prolongado de elogios exagerados \r\n38-Poner rancio\r\n39-Das la mano y te cogen el brazo\r\n41-\"Les…\" restaurante de Fina Puigdevall en Olot, con sus dos estrellas Michelín\r\n42-De esta mina boliviana salió el 80% de toda la plata, durante el periodo colonial\r\n43-En secreto te filman a ti con una vaca marina\r\n47-Elevó las banderas\r\n48-Eleva muchísimo la voz\r\n50-Primero y más obvio de los actos del entendimiento\r\n52-Artículo neutro\r\n53-Establecen restricciones o fronteras\r\n55-Diminutivo de Natalí\r\n56-Luchar entre dos ideas\r\n58-Número asociado a dualidad del ser\r\n59-\"Jason…\" Aquaman\r\n61-\"… the World\", frase repetida 144 veces en una canción de Daft Punk\r\n63-Nota musical\r\n64-Piloto español de Fórmula 1\r\n65-Anhelaban con poca paciencia",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,15,#,#,#,#,16,#,17,#,#,#,#\r\n18,#,19,#,20,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,#,#,25,#\r\n26,#,#,#,#,27,#,#,#,#,#,#,28,#,#\r\n#,#,29,#,30,#,#,#,#,31,32,33,#,#,#\r\n#,34,#,#,#,#,#,#,#,35,#,#,#,#,#\r\n36,#,#,#,#,37,#,#,38,#,#,#,#,#,#\r\n39,#,#,#,#,#,#,40,#,#,41,#,#,#,#\r\n42,#,#,#,#,#,#,43,44,45,#,#,#,#,46\r\n47,#,#,#,#,48,49,#,#,#,#,50,#,51,#\r\n52,#,#,53,54,#,#,#,#,#,#,55,#,#,#\r\n#,#,56,#,#,#,#,#,#,#,57,#,58,#,#\r\n59,60,#,#,#,#,61,#,#,#,#,62,#,63,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

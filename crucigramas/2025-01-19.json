@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 1547,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-17T10:58:58.857132Z",
+      "updatedAt": "2025-01-17T10:58:58.921292Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-19",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DEMANDA###CEBRA\r\nEXIGENTE#SAMUEL\r\nPILON#ADUEÑARSE\r\nAMIGO#PUNTO#RON\r\nREMO#LUCIA#WALT\r\nASE#ROZAR#CH#LA\r\n##TRAMAR#DEIDAD\r\nTIRITAR#PUNTERO\r\nANOTES#MARTES##\r\nJT#MO#MAJAS#TAF\r\nMEMO#MULAN#RIMO\r\nARO#MUDAR#CITAS\r\nHERMITAGE#ACUDA\r\nASEADO#ARRECIAR\r\nLENTO###ABRIRSE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Suministra, proporciona, concede",
+              "answer": "DEPARA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Libras, desembarazas de cargas, culpas",
+              "answer": "EXIMES"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Diminuta parte del metro",
+              "answer": "MILIMETRO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Instrumento en forma de campana, característico de la samba brasileña",
+              "answer": "AGOGO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pequeñito gallego",
+              "answer": "NENO"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "David Niven, el de 'La vuelta al mundo en ochenta días' de 1956",
+              "answer": "DN"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Llenar algo en exceso y apretadamente",
+              "answer": "ATAPUZAR"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Fútbol Regate también conocido como túnel",
+              "answer": "CAÑO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Está mal que te ame",
+              "answer": "EMA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Bruta la hembra del asno",
+              "answer": "BURRA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Emitir sonidos al respirar con fuerza",
+              "answer": "RESOLLAR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Inspirado para seguir adelante",
+              "answer": "ALENTADO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Formar, instruir",
+              "answer": "EDUCAR"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "No te ates por la espalda a un champiñón",
+              "answer": "SETA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "¿Desunir? No, al contrario",
+              "answer": "UNIR"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Molas si vives en la montañas",
+              "answer": "LOMAS"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"Walter…\" el prota de Breaking Bad",
+              "answer": "WHITE"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Disminuyo una porción y me la robo",
+              "answer": "RATEO"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Moneda que vale la centésima parte de un euro (pl)",
+              "answer": "CENTS"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Oído musical, tiene buen…",
+              "answer": "RITMO"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Perduran las canciones de Simon Le Bon",
+              "answer": "DURAN"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Quitar a alguien de su cargo oficial",
+              "answer": "DESTITUIR"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Palacio indio (dos palabras)",
+              "answer": "TAJMAHAL"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Capture la atención del público",
+              "answer": "INTERESE"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Hogar del canario en el jardín",
+              "answer": "PAJARERA"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Ciudad natal de Pablo Picasso",
+              "answer": "MALAGA"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Sin decir nada, ella se cambia de piso",
+              "answer": "MUDA"
+            },
+            "42": {
+              "col": 13,
+              "row": 9,
+              "clue": "Adoradas, veneradas",
+              "answer": "AMADAS"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "Haré fosas",
+              "answer": "FOSARE"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Habiten habitualmente en un lugar",
+              "answer": "MOREN"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Cambio internamente",
+              "answer": "MUTO"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Nina…\", famosa diseñadora de modas francesa",
+              "answer": "RICCI"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Comparo la altura de dos notas musicales",
+              "answer": "MIDO"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"… en desgracia\" perder todo",
+              "answer": "CAER"
+            },
+            "52": {
+              "col": 3,
+              "row": 12,
+              "clue": "Casi lo mato",
+              "answer": "MAT"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Símbolo químico del rubidio",
+              "answer": "RB"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Exige legalmente mi atención",
+              "answer": "DEMANDA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Su piel es negra y sus rayas blancas",
+              "answer": "CEBRA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Difícil de complacer, demandante",
+              "answer": "EXIGENTE"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "\"… Morse\" el que desarrolló el código Morse",
+              "answer": "SAMUEL"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Mortero tradicional para moler granos y especias",
+              "answer": "PILON"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Apropiarse de bienes o elementos ajenos",
+              "answer": "ADUEÑARSE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tu pana, parcero, carnal, compi, colega",
+              "answer": "AMIGO"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Marca final de una frase",
+              "answer": "PUNTO"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Bebida de piratas",
+              "answer": "RON"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Rómulo y…\" míticos fundadores de Roma",
+              "answer": "REMO"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"La más bella historia de amor que tuve y tendré\" Serrat",
+              "answer": "LUCIA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Con cariño a Walter, el de Disney",
+              "answer": "WALT"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Coge a esa, la que viene de espaldas",
+              "answer": "ASE"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Raspar ligeramente la piel",
+              "answer": "ROZAR"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "En el escudo del Chapulín Colorado",
+              "answer": "CH"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Nota musical",
+              "answer": "LA"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "Preparar con astucia un enredo",
+              "answer": "TRAMAR"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Dios, ser supremo",
+              "answer": "DEIDAD"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Temblar de frío",
+              "answer": "TIRITAR"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Líder en su campo o competición",
+              "answer": "PUNTERO"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Tomes notas",
+              "answer": "ANOTES"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Día en honor al Dios Marte de la mitología romana",
+              "answer": "MARTES"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Iniciales del prota de 'Fiebre del sábado noche' y 'Pulp Fiction'",
+              "answer": "JT"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Corteza del madroño",
+              "answer": "MO"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "¿Son simpáticas las que jamás se desordenan?",
+              "answer": "MAJAS"
+            },
+            "41": {
+              "col": 12,
+              "row": 9,
+              "clue": "Vigésimo segunda letra del alfabeto hebreo",
+              "answer": "TAF"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tonto, simple, mentecato",
+              "answer": "MEMO"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Princesa china de Disney",
+              "answer": "MULAN"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Compongo en verso",
+              "answer": "RIMO"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"El…\" película de terror sobre una cinta de video maldita",
+              "answer": "ARO"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Cambiar los dientes",
+              "answer": "MUDAR"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Encuentros del Bumble",
+              "answer": "CITAS"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Palacio del arte en San Petersburgo",
+              "answer": "HERMITAGE"
+            },
+            "53": {
+              "col": 10,
+              "row": 12,
+              "clue": "Vaya, asista",
+              "answer": "ACUDA"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Limpio, impecable",
+              "answer": "ASEADO"
+            },
+            "55": {
+              "col": 7,
+              "row": 13,
+              "clue": "Volverse más fuerte la tormenta",
+              "answer": "ARRECIAR"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "El letón confundido va muy despacio",
+              "answer": "LENTO"
+            },
+            "58": {
+              "col": 8,
+              "row": 14,
+              "clue": "Coloquial Alejarse, irse de un sitio",
+              "answer": "ABRIRSE"
+            }
+          }
+        },
+        "vertical_clues": "1-Suministra, proporciona, concede\r\n2-Libras, desembarazas de cargas, culpas\r\n3-Diminuta parte del metro \r\n4-Instrumento en forma de campana, característico de la samba brasileña\r\n5-Pequeñito gallego \r\n6-David Niven, el de 'La vuelta al mundo en ochenta días' de 1956\r\n7-Llenar algo en exceso y apretadamente\r\n8-Fútbol Regate también conocido como túnel\r\n9-Está mal que te ame \r\n10-Bruta la hembra del asno\r\n11-Emitir sonidos al respirar con fuerza \r\n12-Inspirado para seguir adelante \r\n14-Formar, instruir\r\n15-No te ates por la espalda a un champiñón\r\n18-¿Desunir? No, al contrario\r\n23-Molas si vives en la montañas\r\n24-\"Walter…\" el prota de Breaking Bad\r\n26-Disminuyo una porción y me la robo\r\n27-Moneda que vale la centésima parte de un euro (pl)\r\n30-Oído musical, tiene buen…\r\n31-Perduran las canciones de Simon Le Bon\r\n32-Quitar a alguien de su cargo oficial \r\n33-Palacio indio (dos palabras)\r\n34-Capture la atención del público \r\n35-Hogar del canario en el jardín \r\n37-Ciudad natal de Pablo Picasso\r\n40-Sin decir nada, ella se cambia de piso\r\n42-Adoradas, veneradas\r\n43-Haré fosas\r\n45-Habiten habitualmente en un lugar\r\n46-Cambio internamente\r\n47-\"Nina…\", famosa diseñadora de modas francesa\r\n49-Comparo la altura de dos notas musicales\r\n50-\"… en desgracia\" perder todo\r\n52-Casi lo mato\r\n56-Símbolo químico del rubidio\r\n",
+        "horizontal_clues": "1-Exige legalmente mi atención\r\n8-Su piel es negra y sus rayas blancas\r\n13-Difícil de complacer, demandante\r\n15-\"… Morse\" el que desarrolló el código Morse\r\n16-Mortero tradicional para moler granos y especias \r\n17-Apropiarse de bienes o elementos ajenos \r\n19-Tu pana, parcero, carnal, compi, colega\r\n20-Marca final de una frase \r\n21-Bebida de piratas\r\n22-\"Rómulo y…\" míticos fundadores de Roma\r\n23-\"La más bella historia de amor que tuve y tendré\" Serrat\r\n24-Con cariño a Walter, el de Disney\r\n25-Coge a esa, la que viene de espaldas\r\n26-Raspar ligeramente la piel\r\n27-En el escudo del Chapulín Colorado\r\n28-Nota musical\r\n29-Preparar con astucia un enredo\r\n31-Dios, ser supremo\r\n33-Temblar de frío\r\n35-Líder en su campo o competición \r\n36-Tomes notas\r\n37-Día en honor al Dios Marte de la mitología romana\r\n38-Iniciales del prota de 'Fiebre del sábado noche' y 'Pulp Fiction'\r\n39-Corteza del madroño\r\n40-¿Son simpáticas las que jamás se desordenan? \r\n41-Vigésimo segunda letra del alfabeto hebreo\r\n44-Tonto, simple, mentecato\r\n46-Princesa china de Disney\r\n47-Compongo en verso\r\n48-\"El…\" película de terror sobre una cinta de video maldita\r\n49-Cambiar los dientes\r\n50-Encuentros del Bumble\r\n51-Palacio del arte en San Petersburgo \r\n53-Vaya, asista\r\n54-Limpio, impecable\r\n55-Volverse más fuerte la tormenta \r\n57-El letón confundido va muy despacio\r\n58-Coloquial Alejarse, irse de un sitio\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,#,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,15,#,#,#,#,#\r\n16,#,#,#,#,#,17,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,#,#,27,#,#,28,#\r\n#,#,29,30,#,#,#,#,#,31,#,#,32,#,#\r\n33,34,#,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,#,#,#,#,#,37,#,#,#,#,#,#,#\r\n38,#,#,39,#,#,40,#,#,#,#,#,41,42,43\r\n44,#,45,#,#,46,#,#,#,#,#,47,#,#,#\r\n48,#,#,#,49,#,#,#,#,#,50,#,#,#,#\r\n51,#,#,52,#,#,#,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,#,#,55,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

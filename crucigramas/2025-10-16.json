@@ -1,0 +1,528 @@
+{
+  "data": {
+    "id": 3643,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-13T09:41:17.545521Z",
+      "updatedAt": "2025-10-13T09:47:28.679765Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-16",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EMPUÑAR#GRAMAJE\r\nMOLE#TUBA#PUYOL\r\nIVA#CADUCA#INDO\r\nRIZO#JOSH#TRAIN\r\nALARMA#HACHE##G\r\nT##DORY##SA#CCA\r\nOPTES#ARBITRIO#\r\nSAUNA#CEO#CELIA\r\n#TRAICION#HUANG\r\nDEA#CE##GWEN##O\r\nR##NORAY#IRISAN\r\nAFTAS#PERL#RUBI\r\nCIEN#REMISO#PEZ\r\nMAMAD#LAGO#DEJA\r\nASISTIA#ENCARAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Como las monarquías pero en el Mundo Árabe",
+              "answer": "EMIRATOS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Inalámbrico e inteligente",
+              "answer": "MOVIL"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "La Mayor en Madrid o la del Obradoiro en Santiago de Compostela",
+              "answer": "PLAZA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Iniciales del italiano, autor de \"Historia de la fealdad\"",
+              "answer": "UE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Atrapar en el aire",
+              "answer": "ATAJAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tosco, sin pulimento, naturalmente basto",
+              "answer": "RUDO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Masa muy blanda que tira a líquida",
+              "answer": "GACHA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Aparte\" (abrev)",
+              "answer": "AP"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ordeñaré a la vaca",
+              "answer": "MUIRE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Principal motor de búsqueda de Internet, en la lengua árabe",
+              "answer": "AYNA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Molesté, fastidié",
+              "answer": "JODI"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Alarga, estira",
+              "answer": "ELONGA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Presidente de los Estados Unidos, desde el 2001 al 2009",
+              "answer": "BUSH"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Coloca de modo conveniente",
+              "answer": "ORDENA"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Británica conocida como \"La Dama de Hierro\"",
+              "answer": "THATCHER"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Obra hecha fragmentos de cerámica o vidrio de colores (pl)",
+              "answer": "MOSAICOS"
+            },
+            "27": {
+              "col": 9,
+              "row": 4,
+              "clue": "Famosa serie de TV de investigación forense",
+              "answer": "CSI"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Tuve trato carnal con alguien",
+              "answer": "YACI"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Medio ramillete de cilantro",
+              "answer": "CILA"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Moneda en inglés",
+              "answer": "COIN"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Pasta de carne",
+              "answer": "PATE"
+            },
+            "35": {
+              "col": 2,
+              "row": 6,
+              "clue": "De pintura y de lectura",
+              "answer": "TURA"
+            },
+            "37": {
+              "col": 7,
+              "row": 6,
+              "clue": "Acusado, culpado",
+              "answer": "REO"
+            },
+            "38": {
+              "col": 8,
+              "row": 6,
+              "clue": "Pipa de agua",
+              "answer": "BONG"
+            },
+            "39": {
+              "col": 11,
+              "row": 6,
+              "clue": "Juntar determinadas cosas para coleccionarlas",
+              "answer": "REUNIR"
+            },
+            "43": {
+              "col": 14,
+              "row": 7,
+              "clue": "Sufrir angustiosamente",
+              "answer": "AGONIZAR"
+            },
+            "45": {
+              "col": 5,
+              "row": 8,
+              "clue": "Certificado de reducción de emisiones",
+              "answer": "CER"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Moneda griega antes del euro",
+              "answer": "DRACMA"
+            },
+            "50": {
+              "col": 9,
+              "row": 9,
+              "clue": "Nombre del balón de vóley del Náufrago",
+              "answer": "WILSON"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Cantos para arrullar al bebe",
+              "answer": "NANAS"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Recurre a alguien para favorecer una resolución",
+              "answer": "APELA"
+            },
+            "53": {
+              "col": 7,
+              "row": 10,
+              "clue": "Porción central del huevo",
+              "answer": "YEMA"
+            },
+            "55": {
+              "col": 12,
+              "row": 10,
+              "clue": "Gasolina de octanaje superior al normal",
+              "answer": "SUPER"
+            },
+            "56": {
+              "col": 13,
+              "row": 10,
+              "clue": "Insecto que fabrica su panal en los troncos secos de los árboles",
+              "answer": "ABEJA"
+            },
+            "58": {
+              "col": 1,
+              "row": 11,
+              "clue": "Das crédito sin garantía",
+              "answer": "FIAS"
+            },
+            "59": {
+              "col": 2,
+              "row": 11,
+              "clue": "Tuve miedo",
+              "answer": "TEMI"
+            },
+            "61": {
+              "col": 8,
+              "row": 11,
+              "clue": "Dirige, gobierna, manda",
+              "answer": "RIGE"
+            },
+            "67": {
+              "col": 4,
+              "row": 13,
+              "clue": "Director Técnico (siglas)",
+              "answer": "DT"
+            },
+            "69": {
+              "col": 11,
+              "row": 13,
+              "clue": "Final de temporada",
+              "answer": "DA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Blandir una espada, coger un arma",
+              "answer": "EMPUÑAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Peso en gramos del papel por metro cuadrado",
+              "answer": "GRAMAJE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Cosa muy pesada y voluminosa",
+              "answer": "MOLE"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "El más grande de todos los instrumentos musicales de viento",
+              "answer": "TUBA"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Fút Exdefensor español, conocido como Tarzán",
+              "answer": "PUYOL"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Impuesto del 21%",
+              "answer": "IVA"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Se vence",
+              "answer": "CADUCA"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Relativo a la India (masc)",
+              "answer": "INDO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mechón de cabello rulo",
+              "answer": "RIZO"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Drake & …, serie de Nickelodeon",
+              "answer": "JOSH"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Tren de Liverpool",
+              "answer": "TRAIN"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Señal que advierte de la proximidad de un peligro",
+              "answer": "ALARMA"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Mal hecha la letra muda",
+              "answer": "HACHE"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Personaje principal en la secuela de 'Buscando a Nemo'",
+              "answer": "DORY"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "La cáscara de la sandía",
+              "answer": "SA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Siglas de la corriente circumpolar antártica",
+              "answer": "CCA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Elijas, escojas",
+              "answer": "OPTES"
+            },
+            "36": {
+              "col": 6,
+              "row": 6,
+              "clue": "Voluntad no gobernada por la razón, sino por el capricho",
+              "answer": "ARBITRIO"
+            },
+            "40": {
+              "col": 0,
+              "row": 7,
+              "clue": "Baño de vapor, en recinto de madera",
+              "answer": "SAUNA"
+            },
+            "41": {
+              "col": 6,
+              "row": 7,
+              "clue": "El director ejecutivo es un titán de la inteligencia",
+              "answer": "CEO"
+            },
+            "42": {
+              "col": 10,
+              "row": 7,
+              "clue": "Nombre de cantante cubana de salsa más exitosa del siglo XX",
+              "answer": "CELIA"
+            },
+            "44": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"Lo peor de una … es que nunca viene de un enemigo\"",
+              "answer": "TRAICION"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"Qin Shi…\" emperador cuya tumba custodia a los Guerreros de Terracota",
+              "answer": "HUANG"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Agencia temida por los narcos",
+              "answer": "DEA"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "Iniciales del actor que interpreta al Capitán América",
+              "answer": "CE"
+            },
+            "49": {
+              "col": 8,
+              "row": 9,
+              "clue": "\"… Stefani\", antes vocalista de No Doubt",
+              "answer": "GWEN"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Poste para afirmar las amarras de los barcos",
+              "answer": "NORAY"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Presentan reflejos de luz con colores semejantes al arco iris",
+              "answer": "IRISAN"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Úlceras pequeñas y blanquecinas",
+              "answer": "AFTAS"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Martin Lewis…\" Nobel de Física 1995",
+              "answer": "PERL"
+            },
+            "62": {
+              "col": 11,
+              "row": 11,
+              "clue": "Piedra preciosa de color rojo",
+              "answer": "RUBI"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"… años de soledad\" de García Márquez",
+              "answer": "CIEN"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Que pone poca voluntad en hacer una cosa (masc)",
+              "answer": "REMISO"
+            },
+            "65": {
+              "col": 12,
+              "row": 12,
+              "clue": "Vertebrado acuático",
+              "answer": "PEZ"
+            },
+            "66": {
+              "col": 0,
+              "row": 13,
+              "clue": "Chupad la leche que mana de sus pechos",
+              "answer": "MAMAD"
+            },
+            "68": {
+              "col": 6,
+              "row": 13,
+              "clue": "Gran masa de agua dulce",
+              "answer": "LAGO"
+            },
+            "69": {
+              "col": 11,
+              "row": 13,
+              "clue": "Abandona, renuncia",
+              "answer": "DEJA"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Concurría, acudía",
+              "answer": "ASISTIA"
+            },
+            "71": {
+              "col": 8,
+              "row": 14,
+              "clue": "Hacer frente a un problema",
+              "answer": "ENCARAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Como las monarquías pero en el Mundo Árabe\r\n2-Inalámbrico e inteligente\r\n3-La Mayor en Madrid o la del Obradoiro en Santiago de Compostela\r\n4-Iniciales del italiano, autor de \"Historia de la fealdad\"\r\n5-Atrapar en el aire\r\n6-Tosco, sin pulimento, naturalmente basto\r\n7-Masa muy blanda que tira a líquida\r\n8-\"Aparte\" (abrev)\r\n9-Ordeñaré a la vaca\r\n10-Principal motor de búsqueda de Internet, en la lengua árabe\r\n11-Molesté, fastidié\r\n12-Alarga, estira\r\n15-Presidente de los Estados Unidos, desde el 2001 al 2009\r\n21-Coloca de modo conveniente\r\n23-Británica conocida como \"La Dama de Hierro\"\r\n25-Obra hecha fragmentos de cerámica o vidrio de colores (pl)\r\n27-Famosa serie de TV de investigación forense\r\n29-Tuve trato carnal con alguien\r\n31-Medio ramillete de cilantro\r\n32-Moneda en inglés\r\n34-Pasta de carne\r\n35-De pintura y de lectura\r\n37-Acusado, culpado\r\n38-Pipa de agua\r\n39-Juntar determinadas cosas para coleccionarlas\r\n43-Sufrir angustiosamente\r\n45-Certificado de reducción de emisiones\r\n47-Moneda griega antes del euro\r\n50-Nombre del balón de vóley del Náufrago\r\n51-Cantos para arrullar al bebe\r\n52-Recurre a alguien para favorecer una resolución\r\n53-Porción central del huevo\r\n55-Gasolina de octanaje superior al normal\r\n56-Insecto que fabrica su panal en los troncos secos de los árboles\r\n58-Das crédito sin garantía \r\n59-Tuve miedo\r\n61-Dirige, gobierna, manda\r\n67-Director Técnico (siglas)\r\n69-Final de temporada",
+        "horizontal_clues": "1-Blandir una espada, coger un arma\r\n7-Peso en gramos del papel por metro cuadrado\r\n13-Cosa muy pesada y voluminosa\r\n14-El más grande de todos los instrumentos musicales de viento\r\n16-Fút Exdefensor español, conocido como Tarzán\r\n17-Impuesto del 21%\r\n18-Se vence\r\n19-Relativo a la India (masc)\r\n20-Mechón de cabello rulo\r\n22-Drake & …, serie de Nickelodeon\r\n23-Tren de Liverpool\r\n24-Señal que advierte de la proximidad de un peligro\r\n26-Mal hecha la letra muda\r\n28-Personaje principal en la secuela de 'Buscando a Nemo'\r\n30-La cáscara de la sandía\r\n31-Siglas de la corriente circumpolar antártica\r\n33-Elijas, escojas\r\n36-Voluntad no gobernada por la razón, sino por el capricho\r\n40-Baño de vapor, en recinto de madera\r\n41-El director ejecutivo es un titán de la inteligencia\r\n42-Nombre de cantante cubana de salsa más exitosa del siglo XX\r\n44-\"Lo peor de una … es que nunca viene de un enemigo\"\r\n46-\"Qin Shi…\" emperador cuya tumba custodia a los Guerreros de Terracota\r\n47-Agencia temida por los narcos\r\n48-Iniciales del actor que interpreta al Capitán América\r\n49-\"… Stefani\", antes vocalista de No Doubt\r\n51-Poste para afirmar las amarras de los barcos\r\n54-Presentan reflejos de luz con colores semejantes al arco iris\r\n57-Úlceras pequeñas y blanquecinas\r\n60-\"Martin Lewis…\" Nobel de Física 1995\r\n62-Piedra preciosa de color rojo\r\n63-\"… años de soledad\" de García Márquez\r\n64-Que pone poca voluntad en hacer una cosa (masc)\r\n65-Vertebrado acuático\r\n66-Chupad la leche que mana de sus pechos\r\n68-Gran masa de agua dulce\r\n69-Abandona, renuncia\r\n70-Concurría, acudía\r\n71-Hacer frente a un problema",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,#,8,9,10,11,12\r\n13,#,#,#,#,14,#,15,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,#,19,#,#,#\r\n20,#,#,21,#,22,#,#,#,#,23,#,#,#,#\r\n24,#,#,#,25,#,#,26,#,27,#,#,#,#,#\r\n#,#,#,28,#,#,29,#,#,30,#,#,31,32,#\r\n33,34,35,#,#,#,36,37,38,#,#,39,#,#,#\r\n40,#,#,#,#,#,41,#,#,#,42,#,#,#,43\r\n#,44,#,#,#,45,#,#,#,#,46,#,#,#,#\r\n47,#,#,#,48,#,#,#,49,50,#,#,#,#,#\r\n#,#,#,51,#,#,52,53,#,54,#,#,55,56,#\r\n57,58,59,#,#,#,60,#,61,#,#,62,#,#,#\r\n63,#,#,#,#,64,#,#,#,#,#,#,65,#,#\r\n66,#,#,#,67,#,68,#,#,#,#,69,#,#,#\r\n70,#,#,#,#,#,#,#,71,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

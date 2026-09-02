@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 186,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-04-18T10:07:13.617851Z",
+      "updatedAt": "2024-05-08T11:13:40.070144Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-04-15",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "H#M#SUJETAR#P#P\r\nAHOGADO#OJERIZA\r\nNONATOS#TEJANOS\r\nD#T#ONEROSA#T#I\r\nIVAR##FIR##POCO\r\nCEÑO#PAÑAL#ORON\r\nATISBO#O#ALTERA\r\nPESCAR#N#BRASIL\r\n#AMANTE#JONICO#\r\nUROS#ACTOR#SONG\r\nC###ADUANAL###A\r\nHCM#COOPERE#AAS\r\nUHURU#SES#CUBRE\r\nVICUÑA#R#CHARCA\r\nAPODADO#ASOCIAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Golf. Golpes adjudicados antes de empezar a jugar.",
+              "answer": "HANDICAP"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Alpinismo, escalada.",
+              "answer": "MONTAÑISMO"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Vino de arroz tailandés.",
+              "answer": "SATO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Fideo japonés grueso, de harina de trigo.",
+              "answer": "UDON"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Su hipocorístico es Pepa.",
+              "answer": "JOSEFA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"Caballitos de...\" típica embarcación del Antiguo Perú.",
+              "answer": "TOTORA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Desgastes, deteriores, desluzcas.",
+              "answer": "AJES"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Barrotes en la ventana.",
+              "answer": "REJA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Estilo adecuado para pintar viva y animadamente las cosas.",
+              "answer": "PINTORESCO"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Crimen de un amor insano, crimen...",
+              "answer": "PASIONAL"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Símbolo químico del Holmio.",
+              "answer": "HO"
+            },
+            "13": {
+              "col": 3,
+              "row": 1,
+              "clue": "Piel de gallina.",
+              "answer": "GA"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Un culín de sidra.",
+              "answer": "RA"
+            },
+            "16": {
+              "col": 13,
+              "row": 1,
+              "clue": "Así termina un partidazo.",
+              "answer": "ZO"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Cada una de las glándulas secretorias de la orina.",
+              "answer": "RIÑON"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Hacer o pintar vetas en algo.",
+              "answer": "VETEAR"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Las vueltas de una espiral.",
+              "answer": "ROSCAS"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Vomitáis, devolvéis.",
+              "answer": "POTAIS"
+            },
+            "26": {
+              "col": 13,
+              "row": 4,
+              "clue": "Capa embrionaria.",
+              "answer": "CORION"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Lo ha llevado consigo, lo ha...",
+              "answer": "PORTADO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Bregar, producir, ejecutar.",
+              "answer": "LABORAR"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Saliendo de Azkaban.",
+              "answer": "BAN"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Alearían\" sin vocales.",
+              "answer": "LRN"
+            },
+            "38": {
+              "col": 6,
+              "row": 8,
+              "clue": "Rectos, severos.",
+              "answer": "ECUOS"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "\"Dow...\" índice bursátil.",
+              "answer": "JONES"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Fruta exótica colombiana también conocida como fisalis.",
+              "answer": "UCHUVA"
+            },
+            "42": {
+              "col": 7,
+              "row": 9,
+              "clue": "Recipiente de plástico con cierre hermético.",
+              "answer": "TAPER"
+            },
+            "44": {
+              "col": 14,
+              "row": 9,
+              "clue": "Someter a la acción de gases asfixiantes, tóxicos.",
+              "answer": "GASEAR"
+            },
+            "45": {
+              "col": 4,
+              "row": 10,
+              "clue": "Troquela una moneda.",
+              "answer": "ACUÑA"
+            },
+            "46": {
+              "col": 10,
+              "row": 10,
+              "clue": "Fondo del mar o de un lago.",
+              "answer": "LECHO"
+            },
+            "48": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"... y Chop\" los guardianes rescatadores.",
+              "answer": "CHIP"
+            },
+            "49": {
+              "col": 2,
+              "row": 11,
+              "clue": "Prefijo que refiere mucosidad.",
+              "answer": "MUCO"
+            },
+            "51": {
+              "col": 12,
+              "row": 11,
+              "clue": "Dejé en descubierto algo, destapé.",
+              "answer": "ABRI"
+            },
+            "52": {
+              "col": 13,
+              "row": 11,
+              "clue": "El salvavidas de Noé.",
+              "answer": "ARCA"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Le falta poco para ser rudo.",
+              "answer": "RUD"
+            },
+            "57": {
+              "col": 11,
+              "row": 12,
+              "clue": "Universidad Autónoma del Caribe (siglas).",
+              "answer": "UAC"
+            },
+            "59": {
+              "col": 5,
+              "row": 13,
+              "clue": "Prefijo que indica proximidad, contacto.",
+              "answer": "AD"
+            },
+            "60": {
+              "col": 9,
+              "row": 13,
+              "clue": "Gas lacrimógeno antidisturbios.",
+              "answer": "CS"
+            }
+          },
+          "across": {
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Someter, agarrar.",
+              "answer": "SUJETAR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ajedrez. Cuando el rey no puede moverse pero no está en jaque.",
+              "answer": "AHOGADO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Aversión, manía.",
+              "answer": "OJERIZA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Nacidos por cesárea.",
+              "answer": "NONATOS"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Hombres nacidos y criados en el estado Texas, USA.",
+              "answer": "TEJANOS"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Pesada, engorrosa.",
+              "answer": "ONEROSA"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"... sin huesos\" uno de los hijos de Ragnar Lodbrok.",
+              "answer": "IVAR"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Firma corta.",
+              "answer": "FIR"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"De lo bueno...\" una pizca, un atisbo.",
+              "answer": "POCO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "El entrecejo, el que se frunce.",
+              "answer": "CEÑO"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Mejor que sea de tela, aunque haya que lavarlo a mano.",
+              "answer": "PAÑAL"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Cesto grande y redondo.",
+              "answer": "ORON"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Principio de algo que puede ser interpretado como una señal de ello.",
+              "answer": "ATISBO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Falsifica, tergiversa, adultera.",
+              "answer": "ALTERA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"... en río revuelto\" aprovechar la situación para sacar un beneficio.",
+              "answer": "PESCAR"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "En este gran país no te libras por silbar.",
+              "answer": "BRASIL"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "La querida, la otra.",
+              "answer": "AMANTE"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "\"Mar...\" brazo del mar Mediterráneo, al sur del mar Adriático.",
+              "answer": "JONICO"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Bóvidos salvajes muy parecidos a los toros.",
+              "answer": "UROS"
+            },
+            "41": {
+              "col": 5,
+              "row": 9,
+              "clue": "Por error va a tocar que sea él el que interprete al personaje.",
+              "answer": "ACTOR"
+            },
+            "43": {
+              "col": 11,
+              "row": 9,
+              "clue": "Una canción inglesa.",
+              "answer": "SONG"
+            },
+            "45": {
+              "col": 4,
+              "row": 10,
+              "clue": "Relativo a las Aduanas.",
+              "answer": "ADUANAL"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Medida de la masa de la hemoglobina contenida en un glóbulo rojo (siglas).",
+              "answer": "HCM"
+            },
+            "50": {
+              "col": 4,
+              "row": 11,
+              "clue": "Obre juntamente con otros para un mismo fin.",
+              "answer": "COOPERE"
+            },
+            "51": {
+              "col": 12,
+              "row": 11,
+              "clue": "Ácido Acetilsalicílico (abrev).",
+              "answer": "AAS"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"... Kenyatta\" expresidente de Kenia desde 2013 al 2022.",
+              "answer": "UHURU"
+            },
+            "55": {
+              "col": 6,
+              "row": 12,
+              "clue": "Extremo final del intestino.",
+              "answer": "SES"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "Dispara al enemigo para que el compañero pueda avanzar, lo...",
+              "answer": "CUBRE"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Prima de la llama y la alpaca.",
+              "answer": "VICUÑA"
+            },
+            "60": {
+              "col": 9,
+              "row": 13,
+              "clue": "En la poza puedes alinear el chacra.",
+              "answer": "CHARCA"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Conocido como, llamado por su mote.",
+              "answer": "APODADO"
+            },
+            "62": {
+              "col": 8,
+              "row": 14,
+              "clue": "Relacionar un hecho con otro.",
+              "answer": "ASOCIAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Golf. Golpes adjudicados antes de empezar a jugar.\r\n2-Alpinismo, escalada.\r\n3-Vino de arroz tailandés.\r\n4-Fideo japonés grueso, de harina de trigo.\r\n5-Su hipocorístico es Pepa.\r\n6-\"Caballitos de...\" típica embarcación del Antiguo Perú.\r\n7-Desgastes, deteriores, desluzcas.\r\n8-Barrotes en la ventana.\r\n9-Estilo adecuado para pintar viva y animadamente las cosas.\r\n10-Crimen de un amor insano, crimen...\r\n12-Símbolo químico del Holmio.\r\n13-Piel de gallina.\r\n15-Un culín de sidra.\r\n16-Así termina un partidazo.\r\n20-Cada una de las glándulas secretorias de la orina.\r\n22-Hacer o pintar vetas en algo.\r\n23-Las vueltas de una espiral.\r\n25-Vomitáis, devolvéis.\r\n26-Capa embrionaria.\r\n28-Lo ha llevado consigo, lo ha...\r\n29-Bregar, producir, ejecutar.\r\n32-Saliendo de Azkaban.\r\n34-\"Alearían\" sin vocales.\r\n38-Rectos, severos.\r\n39-\"Dow...\" índice bursátil.\r\n40-Fruta exótica colombiana también conocida como fisalis. \r\n42-Recipiente de plástico con cierre hermético.\r\n44-Someter a la acción de gases asfixiantes, tóxicos.\r\n45-Troquela una moneda.\r\n46-Fondo del mar o de un lago.\r\n48-\"... y Chop\" los guardianes rescatadores.\r\n49-Prefijo que refiere mucosidad.\r\n51-Dejé en descubierto algo, destapé.\r\n52-El salvavidas de Noé.\r\n54-Le falta poco para ser rudo.\r\n57-Universidad Autónoma del Caribe (siglas).\r\n59-Prefijo que indica proximidad, contacto.\r\n60-Gas lacrimógeno antidisturbios.",
+        "horizontal_clues": "3-Someter, agarrar.\r\n11-Ajedrez. Cuando el rey no puede moverse pero no está en jaque.\r\n14-Aversión, manía.\r\n17-Nacidos por cesárea.\r\n18-Hombres nacidos y criados en el estado Texas, USA.\r\n19-Pesada, engorrosa.\r\n21-\"... sin huesos\" uno de los hijos de Ragnar Lodbrok.\r\n24-Firma corta.\r\n25-\"De lo bueno...\" una pizca, un atisbo.\r\n27-El entrecejo, el que se frunce.\r\n28-Mejor que sea de tela, aunque haya que lavarlo a mano.\r\n30-Cesto grande y redondo.\r\n31-Principio de algo que puede ser interpretado como una señal de ello.\r\n33-Falsifica, tergiversa, adultera.\r\n35-\"... en río revuelto\" aprovechar la situación para sacar un beneficio.\r\n36-En este gran país no te libras por silbar.\r\n37-La querida, la otra.\r\n39-\"Mar...\" brazo del mar Mediterráneo, al sur del mar Adriático.\r\n40-Bóvidos salvajes muy parecidos a los toros.\r\n41-Por error va a tocar que sea él el que interprete al personaje.\r\n43-Una canción inglesa.\r\n45-Relativo a las Aduanas.\r\n47-Medida de la masa de la hemoglobina contenida en un glóbulo rojo (siglas).\r\n50-Obre juntamente con otros para un mismo fin.\r\n51-Ácido Acetilsalicílico (abrev).\r\n53-\"... Kenyatta\" expresidente de Kenia desde 2013 al 2022.\r\n55-Extremo final del intestino.\r\n56-Dispara al enemigo para que el compañero pueda avanzar, lo...\r\n58-Prima de la llama y la alpaca.\r\n60-En la poza puedes alinear el chacra.\r\n61-Conocido como, llamado por su mote.\r\n62-Relacionar un hecho con otro.",
+        "board_clues_positions": "1,#,2,#,3,4,5,#,6,7,8,#,9,#,10\r\n11,12,#,13,#,#,#,#,14,#,#,15,#,16,#\r\n17,#,#,#,#,#,#,#,18,#,#,#,#,#,#\r\n#,#,#,#,19,#,#,20,#,#,#,#,#,#,#\r\n21,22,#,23,#,#,24,#,#,#,#,25,#,26,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n31,#,#,#,32,#,#,#,#,33,34,#,#,#,#\r\n35,#,#,#,#,#,#,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,#,38,#,39,#,#,#,#,#,#\r\n40,#,#,#,#,41,#,42,#,#,#,43,#,#,44\r\n#,#,#,#,45,#,#,#,#,#,46,#,#,#,#\r\n47,48,49,#,50,#,#,#,#,#,#,#,51,52,#\r\n53,#,#,54,#,#,55,#,#,#,56,57,#,#,#\r\n58,#,#,#,#,59,#,#,#,60,#,#,#,#,#\r\n61,#,#,#,#,#,#,#,62,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

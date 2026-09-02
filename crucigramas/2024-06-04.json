@@ -1,0 +1,441 @@
+{
+  "data": {
+    "id": 309,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-28T14:16:19.686264Z",
+      "updatedAt": "2024-06-04T05:21:46.384255Z",
+      "level": null,
+      "creationDate": "2024-06-04",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-04",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PERCY###VITAL#\r\nMANIA#DEA#NAZIS\r\nANTES#DESAMPARO\r\nTERSAS#ETMOIDAL\r\nALEGRIA#RELEASE\r\nN#COMER#ONAS##R\r\n#DESENTONAR#UF#\r\n#IJO##E#A##ILU#\r\n#AO#BASCULANTE#\r\nH##RATA#TELAR#M\r\nERRARAN#AVOCABA\r\nGUAYACAN#ACCION\r\nEMBAJADOR#AISLO\r\nLIARA#OHM#DOMAS\r\n#ALERO###MONOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Este va a ser solar.",
+              "answer": "PANEL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Entre ceja y ceja, ahí es donde está.",
+              "answer": "ENTRECEJO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Peligroso, aventurado.",
+              "answer": "RIESGOSO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Voy a contraer nupcias, voy a...",
+              "answer": "CASARME"
+            },
+            "6": {
+              "col": 10,
+              "row": 0,
+              "clue": "¡Qué inmoral! lo va a ofrecer en sacrificio.",
+              "answer": "INMOLAR"
+            },
+            "7": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Antoni …\", pintor y escultor catalán.",
+              "answer": "TAPIES"
+            },
+            "8": {
+              "col": 12,
+              "row": 0,
+              "clue": "Azadón, instrumento de pala cuadrangular.",
+              "answer": "AZADA"
+            },
+            "9": {
+              "col": 13,
+              "row": 0,
+              "clue": "Antigua moneda italiana (pl).",
+              "answer": "LIRAS"
+            },
+            "10": {
+              "col": 0,
+              "row": 1,
+              "clue": "Extinguen la vida de alguien.",
+              "answer": "MATAN"
+            },
+            "11": {
+              "col": 6,
+              "row": 1,
+              "clue": "Iniciales del autor de 'Robinson Crusoe'.",
+              "answer": "DD"
+            },
+            "12": {
+              "col": 7,
+              "row": 1,
+              "clue": "Hay tres en el elepé.",
+              "answer": "EEE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Lo fue Sally Ride o Yuri Gagarin.",
+              "answer": "ASTRONAUTA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"Álvaro...\" cantautor del sencillo 'Sofía'.",
+              "answer": "SOLER"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Grata, placentera, deleitable.",
+              "answer": "AMENA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Parte lateral de la cabeza.",
+              "answer": "SIEN"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "Clase social de los artesanos.",
+              "answer": "ARTESANADO"
+            },
+            "27": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"Vivir al...\" sin poder ahorrar nada.",
+              "answer": "DIA"
+            },
+            "28": {
+              "col": 12,
+              "row": 6,
+              "clue": "Movimiento poético que seguían Guillermo de la Torre y Jorge Luis Borges.",
+              "answer": "ULTRAISMO"
+            },
+            "29": {
+              "col": 13,
+              "row": 6,
+              "clue": "Ya no lo es, por eso asistió.",
+              "answer": "FUE"
+            },
+            "31": {
+              "col": 11,
+              "row": 7,
+              "clue": "Falta de acción.",
+              "answer": "INACCION"
+            },
+            "33": {
+              "col": 4,
+              "row": 8,
+              "clue": "Mezclar los naipes.",
+              "answer": "BARAJAR"
+            },
+            "34": {
+              "col": 5,
+              "row": 8,
+              "clue": "Acomete, abalánzate.",
+              "answer": "ATACA"
+            },
+            "35": {
+              "col": 9,
+              "row": 8,
+              "clue": "Mar de fondo, mar de...",
+              "answer": "LEVA"
+            },
+            "36": {
+              "col": 10,
+              "row": 8,
+              "clue": "Atolondrado, desatinado.",
+              "answer": "ALOCADO"
+            },
+            "37": {
+              "col": 0,
+              "row": 9,
+              "clue": "Filósofo alemán, muy influyente en el pensamiento de Karl Marx.",
+              "answer": "HEGEL"
+            },
+            "38": {
+              "col": 3,
+              "row": 9,
+              "clue": "Tacharé lo manuscrito.",
+              "answer": "RAYARE"
+            },
+            "40": {
+              "col": 14,
+              "row": 9,
+              "clue": "Las que se lavó Poncio Pilatos, para no hacerse cargo.",
+              "answer": "MANOS"
+            },
+            "42": {
+              "col": 1,
+              "row": 10,
+              "clue": "Rezongaba, refunfuñaba.",
+              "answer": "RUMIA"
+            },
+            "43": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"Paco...\" protagonista en la peli 'Goya en Burdeos' (1999).",
+              "answer": "RABAL"
+            },
+            "45": {
+              "col": 13,
+              "row": 10,
+              "clue": "Las del billar.",
+              "answer": "BOLAS"
+            },
+            "47": {
+              "col": 7,
+              "row": 11,
+              "clue": "Manifestación destacada del drama musical japonés.",
+              "answer": "NOH"
+            },
+            "50": {
+              "col": 8,
+              "row": 12,
+              "clue": "Iniciales de puertorriqueño que canta \"Living la vida loca\".",
+              "answer": "RM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"... Jackson\" saga de libros de fantasía de Rick Riordan.",
+              "answer": "PERCY"
+            },
+            "5": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Onda...\" el Kame Hame Ha de Dragon Ball.",
+              "answer": "VITAL"
+            },
+            "10": {
+              "col": 0,
+              "row": 1,
+              "clue": "Preocupación caprichosa extravagante.",
+              "answer": "MANIA"
+            },
+            "11": {
+              "col": 6,
+              "row": 1,
+              "clue": "Agencia temida por los narcos.",
+              "answer": "DEA"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Partidarios del nazismo.",
+              "answer": "NAZIS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"Ya no soy la de..., soy la de ahora en adelante\".",
+              "answer": "ANTES"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Ya no le des a Amparo más abandono y desprotección.",
+              "answer": "DESAMPARO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Suaves, sedosas.",
+              "answer": "TERSAS"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Anat. Perteneciente o relativo al hueso etmoides.",
+              "answer": "ETMOIDAL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "El personaje amarillo de la peli 'Del revés' o 'Intensamente'.",
+              "answer": "ALEGRIA"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Vuélvase a leer algo.",
+              "answer": "RELEASE"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Lo que más le gusta a los foodies.",
+              "answer": "COMER"
+            },
+            "26": {
+              "col": 8,
+              "row": 5,
+              "clue": "Habitantes de pueblo aborigen de la isla Grande de Tierra del Fuego.",
+              "answer": "ONAS"
+            },
+            "27": {
+              "col": 1,
+              "row": 6,
+              "clue": "Están mal entrenados y pueden no estar acordes.",
+              "answer": "DESENTONAR"
+            },
+            "28": {
+              "col": 12,
+              "row": 6,
+              "clue": "Interjección usada para indicar cansancio o calor.",
+              "answer": "UF"
+            },
+            "30": {
+              "col": 1,
+              "row": 7,
+              "clue": "El cinturón del Quijote.",
+              "answer": "IJO"
+            },
+            "31": {
+              "col": 11,
+              "row": 7,
+              "clue": "Iluminación muy tenue.",
+              "answer": "ILU"
+            },
+            "32": {
+              "col": 1,
+              "row": 8,
+              "clue": "Principio y fin de algo.",
+              "answer": "AO"
+            },
+            "33": {
+              "col": 4,
+              "row": 8,
+              "clue": "Oscilante, bamboleante, tambaleante.",
+              "answer": "BASCULANTE"
+            },
+            "38": {
+              "col": 3,
+              "row": 9,
+              "clue": "\"... inmunda, animal rastrero\" Paquita la del Barrio.",
+              "answer": "RATA"
+            },
+            "39": {
+              "col": 8,
+              "row": 9,
+              "clue": "Artefacto tradicional para tejer.",
+              "answer": "TELAR"
+            },
+            "41": {
+              "col": 0,
+              "row": 10,
+              "clue": "Meterán la pata.",
+              "answer": "ERRARAN"
+            },
+            "44": {
+              "col": 8,
+              "row": 10,
+              "clue": "Pedía, solicitaba, recababa.",
+              "answer": "AVOCABA"
+            },
+            "46": {
+              "col": 0,
+              "row": 11,
+              "clue": "También conocido como Araguaney, árbol de flores amarillas.",
+              "answer": "GUAYACAN"
+            },
+            "48": {
+              "col": 9,
+              "row": 11,
+              "clue": "Lo dice el director y se cierra la claqueta.",
+              "answer": "ACCION"
+            },
+            "49": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"... de marca\" persona que encarna y representa la identidad de una empresa.",
+              "answer": "EMBAJADOR"
+            },
+            "51": {
+              "col": 10,
+              "row": 12,
+              "clue": "Dejo algo solo y separado de otras cosas.",
+              "answer": "AISLO"
+            },
+            "52": {
+              "col": 0,
+              "row": 13,
+              "clue": "Formará un alboroto, la...",
+              "answer": "LIARA"
+            },
+            "53": {
+              "col": 6,
+              "row": 13,
+              "clue": "Física. Nomenclatura de ohmio.",
+              "answer": "OHM"
+            },
+            "54": {
+              "col": 10,
+              "row": 13,
+              "clue": "Amansas a un caballo, lo...",
+              "answer": "DOMAS"
+            },
+            "55": {
+              "col": 1,
+              "row": 14,
+              "clue": "Parte inferior del tejado.",
+              "answer": "ALERO"
+            },
+            "56": {
+              "col": 9,
+              "row": 14,
+              "clue": "Simios.",
+              "answer": "MONOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Este va a ser solar.\r\n2-Entre ceja y ceja, ahí es donde está.\r\n3-Peligroso, aventurado.\r\n4-Voy a contraer nupcias, voy a...\r\n6-¡Qué inmoral! lo va a ofrecer en sacrificio.\r\n7-\"Antoni …\", pintor y escultor catalán.\r\n8-Azadón, instrumento de pala cuadrangular.\r\n9-Antigua moneda italiana (pl). \r\n10-Extinguen la vida de alguien.\r\n11-Iniciales del autor de 'Robinson Crusoe'.\r\n12-Hay tres en el elepé.\r\n13-Lo fue Sally Ride o Yuri Gagarin.\r\n15-\"Álvaro...\" cantautor del sencillo 'Sofía'.\r\n18-Grata, placentera, deleitable.\r\n20-Parte lateral de la cabeza.\r\n23-Clase social de los artesanos.\r\n27-\"Vivir al...\" sin poder ahorrar nada.\r\n28-Movimiento poético que seguían Guillermo de la Torre y Jorge Luis Borges.\r\n29-Ya no lo es, por eso asistió.\r\n31-Falta de acción.\r\n33-Mezclar los naipes.\r\n34-Acomete, abalánzate.\r\n35-Mar de fondo, mar de...\r\n36-Atolondrado, desatinado.\r\n37-Filósofo alemán, muy influyente en el pensamiento de Karl Marx.\r\n38-Tacharé lo manuscrito.\r\n40-Las que se lavó Poncio Pilatos, para no hacerse cargo.\r\n42-Rezongaba, refunfuñaba.\r\n43-\"Paco...\" protagonista en la peli 'Goya en Burdeos' (1999).\r\n45-Las del billar.\r\n47-Manifestación destacada del drama musical japonés.\r\n50-Iniciales de puertorriqueño que canta \"Living la vida loca\".",
+        "horizontal_clues": "1-\"... Jackson\" saga de libros de fantasía de Rick Riordan.\r\n5-\"Onda...\" el Kame Hame Ha de Dragon Ball.\r\n10-Preocupación caprichosa extravagante.\r\n11-Agencia temida por los narcos.\r\n14-Partidarios del nazismo.\r\n16-\"Ya no soy la de..., soy la de ahora en adelante\". \r\n17-Ya no le des a Amparo más abandono y desprotección.\r\n19-Suaves, sedosas.\r\n21-Anat. Perteneciente o relativo al hueso etmoides. \r\n22-El personaje amarillo de la peli 'Del revés' o 'Intensamente'.\r\n24-Vuélvase a leer algo.\r\n25-Lo que más le gusta a los foodies.\r\n26-Habitantes de pueblo aborigen de la isla Grande de Tierra del Fuego.\r\n27-Están mal entrenados y pueden no estar acordes.\r\n28-Interjección usada para indicar cansancio o calor.\r\n30-El cinturón del Quijote.\r\n31-Iluminación muy tenue.\r\n32-Principio y fin de algo.\r\n33-Oscilante, bamboleante, tambaleante.\r\n38-\"... inmunda, animal rastrero\" Paquita la del Barrio.\r\n39-Artefacto tradicional para tejer.\r\n41-Meterán la pata.\r\n44-Pedía, solicitaba, recababa.\r\n46-También conocido como Araguaney, árbol de flores amarillas.\r\n48-Lo dice el director y se cierra la claqueta.\r\n49-\"... de marca\" persona que encarna y representa la identidad de una empresa.\r\n51-Dejo algo solo y separado de otras cosas.\r\n52-Formará un alboroto, la...\r\n53-Física. Nomenclatura de ohmio.\r\n54-Amansas a un caballo, lo...\r\n55-Parte inferior del tejado.\r\n56-Simios.",
+        "board_clues_positions": "#,1,2,3,4,#,#,#,#,5,6,7,8,9,#\r\n10,#,#,#,#,#,11,12,13,#,14,#,#,#,15\r\n16,#,#,#,#,#,17,#,#,18,#,#,#,#,#\r\n19,#,#,#,#,20,#,21,#,#,#,#,#,#,#\r\n22,#,#,#,#,#,23,#,24,#,#,#,#,#,#\r\n#,#,25,#,#,#,#,#,26,#,#,#,#,#,#\r\n#,27,#,#,#,#,#,#,#,#,#,#,28,29,#\r\n#,30,#,#,#,#,#,#,#,#,#,31,#,#,#\r\n#,32,#,#,33,34,#,#,#,35,36,#,#,#,#\r\n37,#,#,38,#,#,#,#,39,#,#,#,#,#,40\r\n41,42,43,#,#,#,#,#,44,#,#,#,#,45,#\r\n46,#,#,#,#,#,#,47,#,48,#,#,#,#,#\r\n49,#,#,#,#,#,#,#,50,#,51,#,#,#,#\r\n52,#,#,#,#,#,53,#,#,#,54,#,#,#,#\r\n#,55,#,#,#,#,#,#,#,56,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

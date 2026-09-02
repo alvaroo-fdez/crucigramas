@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 2135,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-07T16:48:32.632586Z",
+      "updatedAt": "2025-04-07T16:52:32.276560Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-09",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CAPCOM#VERDURA\r\nC#MIHRAB#NEAR#L\r\nAI#PICOR#VIÑETA\r\nUBO#PAROTIDITIS\r\nDIJE#SIMIO#NESS\r\nADORA##EE#GARUA\r\nLETAL#COMTE###D\r\n#MAHOMA#PENADO#\r\nO###JUNCO#ELEVO\r\nPAMPA#UH##SOJAS\r\nIRIA#BLOGS#EOLO\r\nACELERACION#SAS\r\nCANELO#ARCES#SO\r\nE#TALA#REINOS#S\r\nOJEROSA#SOASAN#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ramón perdió el cubata",
+              "answer": "AM"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Como suena la PlayStation cuando la encienden",
+              "answer": "PIP"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Electr Pequeño circuito integrado en los ordenadores",
+              "answer": "CHIP"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Ballenas en blanco y negro",
+              "answer": "ORCAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Habitante aborigen de Nueva Zelanda",
+              "answer": "MAORI"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Mejor ni veo y te lo mando",
+              "answer": "ENVIO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sonreíd, carcajead",
+              "answer": "REID"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Perniciosa, nociva",
+              "answer": "DAÑINA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Conducto por donde desciende la orina",
+              "answer": "URETER"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "\"Bashar…\" presidente de Siria desde el año 2000 hasta el 2024",
+              "answer": "ALASSAD"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Toda el agua de un río",
+              "answer": "CAUDAL"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Hago chanzas, bufoneo, chalequeo",
+              "answer": "BROMEO"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Allí mismo, en el mismo lugar Usado en citas",
+              "answer": "IBIDEM"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tela de seda con hilos de oro",
+              "answer": "TISU"
+            },
+            "23": {
+              "col": 2,
+              "row": 3,
+              "clue": "Chancla argentina",
+              "answer": "OJOTA"
+            },
+            "25": {
+              "col": 8,
+              "row": 3,
+              "clue": "El que cura todas las heridas",
+              "answer": "TIEMPO"
+            },
+            "27": {
+              "col": 3,
+              "row": 4,
+              "clue": "Haré que se voltee",
+              "answer": "ERAH"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Se hospeda, se…",
+              "answer": "ALOJA"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Lo lleva en el ADN, lo tiene en los…",
+              "answer": "GENES"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Tubo flexible que se pone en la nariz para dar oxígeno",
+              "answer": "CANULA"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Poco mundo",
+              "answer": "MU"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… vera\" regenerador de la piel natural",
+              "answer": "ALOE"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Acento peculiar del habla de una región (pl)",
+              "answer": "DEJOS"
+            },
+            "42": {
+              "col": 13,
+              "row": 7,
+              "clue": "Das a algo forma de óvalo",
+              "answer": "OVALAS"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Compuesto obtenido a partir del opio",
+              "answer": "OPIACEO"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Colisionar por un charco malo,",
+              "answer": "CHOCAR"
+            },
+            "47": {
+              "col": 14,
+              "row": 8,
+              "clue": "Con muchos huesos",
+              "answer": "OSOSOS"
+            },
+            "49": {
+              "col": 1,
+              "row": 9,
+              "clue": "Se le desconfiguró la cara a Noé",
+              "answer": "ARCA"
+            },
+            "50": {
+              "col": 2,
+              "row": 9,
+              "clue": "Mi ser sabe que no dice la verdad",
+              "answer": "MIENTE"
+            },
+            "51": {
+              "col": 3,
+              "row": 9,
+              "clue": "Acción de remover tierra con herramienta manual",
+              "answer": "PALEAR"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ensenadas llenas de barras y rompientes",
+              "answer": "BROAS"
+            },
+            "56": {
+              "col": 8,
+              "row": 10,
+              "clue": "Que lo rotes sobre su eje, que lo…",
+              "answer": "GIRES"
+            },
+            "57": {
+              "col": 9,
+              "row": 10,
+              "clue": "El amigo con el que monté mi negocio",
+              "answer": "SOCIO"
+            },
+            "60": {
+              "col": 4,
+              "row": 11,
+              "clue": "Primera instancia psíquica (Freud)",
+              "answer": "ELLO"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Niña de corta edad",
+              "answer": "NENA"
+            },
+            "65": {
+              "col": 11,
+              "row": 12,
+              "clue": "Que alguien me ayude con Susana Oria Silvestre",
+              "answer": "SOS"
+            },
+            "69": {
+              "col": 12,
+              "row": 13,
+              "clue": "Su alteza",
+              "answer": "SA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Empresa de videojuegos creadora de \"Mega Man\" y \"Resident Evil\"",
+              "answer": "CAPCOM"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hortaliza, vegetal de color verde",
+              "answer": "VERDURA"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Nicho que señala el sitio adonde han de mirar quienes oran en las mezquitas",
+              "answer": "MIHRAB"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Cerca en inglés",
+              "answer": "NEAR"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic Director de la película \"Balada triste de la trompeta\"",
+              "answer": "AI"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Picazón, comezón",
+              "answer": "PICOR"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Cada cuadro de un cómic",
+              "answer": "VIÑETA"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Universidad Bernardo O'Higgins (siglas)",
+              "answer": "UBO"
+            },
+            "24": {
+              "col": 4,
+              "row": 3,
+              "clue": "Enfermedad viral que afecta las glándulas salivales",
+              "answer": "PAROTIDITIS"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "La alhaja que te comenté (Mambrino 2018)",
+              "answer": "DIJE"
+            },
+            "28": {
+              "col": 5,
+              "row": 4,
+              "clue": "Primate antropoide",
+              "answer": "SIMIO"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"Eliot…\" líder de Los Intocables",
+              "answer": "NESS"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Rinde culto a un ser divino",
+              "answer": "ADORA"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Llovizna, lluvia suave",
+              "answer": "GARUA"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Dosis mortal, dosis…",
+              "answer": "LETAL"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Me parece que te conté sobre el padre del positivismo",
+              "answer": "COMTE"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Islam \"No hay más Dios que Alá y… es su profeta\"",
+              "answer": "MAHOMA"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Penalizado, condenado, por ejemplo, por la ley",
+              "answer": "PENADO"
+            },
+            "44": {
+              "col": 4,
+              "row": 8,
+              "clue": "Hierba que crece en zonas pantanosas",
+              "answer": "JUNCO"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "Levanto, muevo hacia arriba",
+              "answer": "ELEVO"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Llanuras extensas de América del Sur que no tienen vegetación arbórea",
+              "answer": "PAMPA"
+            },
+            "52": {
+              "col": 6,
+              "row": 9,
+              "clue": "Interjección usada para denotar desilusión o desdén",
+              "answer": "UH"
+            },
+            "53": {
+              "col": 10,
+              "row": 9,
+              "clue": "Principal cultivo de Argentina (pl)",
+              "answer": "SOJAS"
+            },
+            "54": {
+              "col": 0,
+              "row": 10,
+              "clue": "Caminaría, andaría de acá para allá",
+              "answer": "IRIA"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Páginas web, de estructura cronológica y temática",
+              "answer": "BLOGS"
+            },
+            "58": {
+              "col": 11,
+              "row": 10,
+              "clue": "Mit Griega El señor de los Vientos",
+              "answer": "EOLO"
+            },
+            "59": {
+              "col": 0,
+              "row": 11,
+              "clue": "Incremento de velocidad que el confuso león carecía",
+              "answer": "ACELERACION"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "Salsas insípidas",
+              "answer": "SAS"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Caballo color canela",
+              "answer": "CANELO"
+            },
+            "64": {
+              "col": 7,
+              "row": 12,
+              "clue": "Árbol cuya hoja está impresa en la bandera de Canadá (pl)",
+              "answer": "ARCES"
+            },
+            "66": {
+              "col": 13,
+              "row": 12,
+              "clue": "Voz para calmar a las bestias",
+              "answer": "SO"
+            },
+            "67": {
+              "col": 2,
+              "row": 13,
+              "clue": "Asesina a un árbol",
+              "answer": "TALA"
+            },
+            "68": {
+              "col": 7,
+              "row": 13,
+              "clue": "\"Los Siete…\" los que pelean por el Trono de Hierro",
+              "answer": "REINOS"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Se le ve la fiesta en la mirada",
+              "answer": "OJEROSA"
+            },
+            "71": {
+              "col": 8,
+              "row": 14,
+              "clue": "Asan ligeramente algo",
+              "answer": "SOASAN"
+            }
+          }
+        },
+        "vertical_clues": "2-Ramón perdió el cubata\r\n3-Como suena la PlayStation cuando la encienden\r\n4-Electr Pequeño circuito integrado en los ordenadores\r\n5-Ballenas en blanco y negro\r\n6-Habitante aborigen de Nueva Zelanda\r\n8-Mejor ni veo y te lo mando\r\n9-Sonreíd, carcajead\r\n10-Perniciosa, nociva \r\n11-Conducto por donde desciende la orina\r\n12-\"Bashar…\" presidente de Siria desde el año 2000 hasta el 2024\r\n13-Toda el agua de un río\r\n15-Hago chanzas, bufoneo, chalequeo\r\n18-Allí mismo, en el mismo lugar Usado en citas\r\n21-Tela de seda con hilos de oro\r\n23-Chancla argentina\r\n25-El que cura todas las heridas\r\n27-Haré que se voltee\r\n31-Se hospeda, se…\r\n33-Lo lleva en el ADN, lo tiene en los…\r\n35-Tubo flexible que se pone en la nariz para dar oxígeno\r\n36-Teluro\r\n38-Poco mundo\r\n40-\"… vera\" regenerador de la piel natural\r\n41-Acento peculiar del habla de una región (pl)\r\n42-Das a algo forma de óvalo\r\n43-Compuesto obtenido a partir del opio\r\n45-Colisionar por un charco malo, \r\n47-Con muchos huesos\r\n49-Se le desconfiguró la cara a Noé\r\n50-Mi ser sabe que no dice la verdad\r\n51-Acción de remover tierra con herramienta manual \r\n55-Ensenadas llenas de barras y rompientes \r\n56-Que lo rotes sobre su eje, que lo…\r\n57-El amigo con el que monté mi negocio\r\n60-Primera instancia psíquica (Freud)\r\n61-Niña de corta edad\r\n65-Que alguien me ayude con Susana Oria Silvestre\r\n69-Su alteza",
+        "horizontal_clues": "1-Empresa de videojuegos creadora de \"Mega Man\" y \"Resident Evil\"\r\n7-Hortaliza, vegetal de color verde\r\n14-Nicho que señala el sitio adonde han de mirar quienes oran en las mezquitas\r\n16-Cerca en inglés\r\n17-Inic Director de la película \"Balada triste de la trompeta\"\r\n19-Picazón, comezón\r\n20-Cada cuadro de un cómic\r\n22-Universidad Bernardo O'Higgins (siglas)\r\n24-Enfermedad viral que afecta las glándulas salivales\r\n26-La alhaja que te comenté (Mambrino 2018)\r\n28-Primate antropoide\r\n29-\"Eliot…\" líder de Los Intocables\r\n30-Rinde culto a un ser divino\r\n32-Piel de elefante\r\n33-Llovizna, lluvia suave\r\n34-Dosis mortal, dosis…\r\n35-Me parece que te conté sobre el padre del positivismo\r\n37-Islam \"No hay más Dios que Alá y… es su profeta\"\r\n39-Penalizado, condenado, por ejemplo, por la ley\r\n44-Hierba que crece en zonas pantanosas\r\n46-Levanto, muevo hacia arriba\r\n48-Llanuras extensas de América del Sur que no tienen vegetación arbórea\r\n52-Interjección usada para denotar desilusión o desdén\r\n53-Principal cultivo de Argentina (pl)\r\n54-Caminaría, andaría de acá para allá\r\n55-Páginas web, de estructura cronológica y temática\r\n58-Mit Griega El señor de los Vientos\r\n59-Incremento de velocidad que el confuso león carecía\r\n62-Salsas insípidas\r\n63-Caballo color canela\r\n64-Árbol cuya hoja está impresa en la bandera de Canadá (pl)\r\n66-Voz para calmar a las bestias\r\n67-Asesina a un árbol\r\n68-\"Los Siete…\" los que pelean por el Trono de Hierro\r\n70-Se le ve la fiesta en la mirada\r\n71-Asan ligeramente algo",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,14,#,#,#,#,15,#,16,#,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,20,#,#,#,21,#\r\n22,#,23,#,24,#,#,#,25,#,#,#,#,#,#\r\n26,#,#,27,#,28,#,#,#,#,#,29,#,#,#\r\n30,#,#,#,31,#,#,32,#,#,33,#,#,#,#\r\n34,#,#,#,#,#,35,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,38,#,#,39,#,#,40,41,42,#\r\n43,#,#,#,44,#,#,45,#,#,46,#,#,#,47\r\n48,49,50,51,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,#,56,57,#,58,#,#,#\r\n59,#,#,#,60,#,#,#,#,#,61,#,62,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,65,#,66,#\r\n#,#,67,#,#,#,#,68,#,#,#,#,69,#,#\r\n70,#,#,#,#,#,#,#,71,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

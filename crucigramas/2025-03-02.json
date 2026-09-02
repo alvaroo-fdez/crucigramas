@@ -1,0 +1,498 @@
+{
+  "data": {
+    "id": 1843,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-01T21:33:03.443445Z",
+      "updatedAt": "2025-03-01T21:34:46.113416Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-02",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SEAS#ACOLA#SANA\r\nN#DELTA#ATOAN#A\r\n#PENSAR#VIRUTA#\r\nLAND#CASAN#DIGA\r\nALTO#AMADA#IBIS\r\nCARS#MENOR#SATO\r\nODA#TOLERAR#LAL\r\nSABROSO#ASOMADA\r\nTRAEN#####RUSOS\r\nE##TAJO#UBRE##E\r\n#MARLEY#VIOLAS#\r\nBAJO#HECES#AUPA\r\nAPU#POR#REA#RUR\r\nILATIVA#ALIGERA\r\nSERBIA###OCIOSO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Símbolo químico del estaño",
+              "answer": "SN"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Penetraba en lo interior de algo",
+              "answer": "ADENTRABA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Respectivos, uno para cada cual",
+              "answer": "SENDOS"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Acatamos confundidos y embestimos",
+              "answer": "ATACAMOS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Azúcar fundido y endurecido",
+              "answer": "CARAMELO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Máquina doméstica para limpiar la ropa",
+              "answer": "LAVADORA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Darás en el blanco con precisión",
+              "answer": "ATINARAS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Nacidos en Arabia Saudita",
+              "answer": "SAUDIS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Se alistaban mejor con el chaleco de los polis",
+              "answer": "ANTIBALAS"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "12": {
+              "col": 4,
+              "row": 1,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Río que pasa por Rusia y Kazajistán",
+              "answer": "OR"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Techo de la cavidad oral",
+              "answer": "PALADAR"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Que se desarrolla con mucha actividad o desasosiego (masc)",
+              "answer": "AGITADO"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "El polo del cocodrilo",
+              "answer": "LACOSTE"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Recobré mi buena salud",
+              "answer": "SANE"
+            },
+            "22": {
+              "col": 14,
+              "row": 3,
+              "clue": "Destruyese, arruinase",
+              "answer": "ASOLASE"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Música Perteneciente o relativo al tono",
+              "answer": "TONAL"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Coloquial Niño pequeño",
+              "answer": "RORRO"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Modas pasadas",
+              "answer": "RETRO"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"La …\", castillo situado en Consuegra, Toledo, España",
+              "answer": "MUELA"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "Dios de la Biblia hebrea",
+              "answer": "JEHOVA"
+            },
+            "41": {
+              "col": 6,
+              "row": 9,
+              "clue": "Escuchara",
+              "answer": "OYERA"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Mujer que vende uvas",
+              "answer": "UVERA"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Corto en ángulo los bordes de una lámina",
+              "answer": "BISELO"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Árbol cuya hoja adorna la bandera de Canadá",
+              "answer": "MAPLE"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Cosas que aporta la mujer al matrimonio",
+              "answer": "AJUAR"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "De oro",
+              "answer": "AUREO"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "NBA \"San Antonio…\" equipo de Texas donde jugó Pau Gasol (2016",
+              "answer": "SPURS"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Esperabais a las cuatro últimas",
+              "answer": "BAIS"
+            },
+            "52": {
+              "col": 14,
+              "row": 11,
+              "clue": "Ave caradriforme de la familia Alcidae, nativa de Europa",
+              "answer": "ARAO"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "El sonido de la censura",
+              "answer": "PII"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "Área de Investigación Criminal",
+              "answer": "AIC"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Tim Burton",
+              "answer": "TB"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "\"… Joe\", muñecos militares enfocados a los niños",
+              "answer": "GI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Existas, formes partes de algo",
+              "answer": "SEAS"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pone detrás del escudo señales de distinción",
+              "answer": "ACOLA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Capital de Yemen",
+              "answer": "SANA"
+            },
+            "11": {
+              "col": 2,
+              "row": 1,
+              "clue": "Cuarta letra griega, la que corresponde a \"d\" latina",
+              "answer": "DELTA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Remolcan una nave por la proa",
+              "answer": "ATOAN"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Hay que inculcar en los alumnos el arte de aprender a…\" Nietzsche",
+              "answer": "PENSAR"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Hoja delgada que se saca con el cepillo al labrar la madera",
+              "answer": "VIRUTA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Lugar, país, región en inglés",
+              "answer": "LAND"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "Firman con gananciales, se…",
+              "answer": "CASAN"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Explique, pronuncie",
+              "answer": "DIGA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "De gran estatura",
+              "answer": "ALTO"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Adorada por todos",
+              "answer": "AMADA"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Ave representativa en la cabeza del dios egipcio Tot",
+              "answer": "IBIS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Peli de Disney protagonizada por Rayo McQueen",
+              "answer": "CARS"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "< símbolo matemático \"… que\"",
+              "answer": "MENOR"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Cuba Perro o gato callejero de pequeño tamaño",
+              "answer": "SATO"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… a la Alegría\" himno europeo",
+              "answer": "ODA"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Soportar, resistir un medicamento",
+              "answer": "TOLERAR"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "La primera Licencia de Arte Libre",
+              "answer": "LAL"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Delicioso, divino",
+              "answer": "SABROSO"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Como está La muchacha en la ventana, la del cuadro de Dalí",
+              "answer": "ASOMADA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Vienen con el vino, ellos lo…",
+              "answer": "TRAEN"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Los son Mijaíl Kaláshnikov y Grigori Rasputín",
+              "answer": "RUSOS"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Pedazo, tajada",
+              "answer": "TAJO"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Cada una de las tetas de la vaca",
+              "answer": "UBRE"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Bob, el jamaicano que canta “No Woman, No Cry”",
+              "answer": "MARLEY"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Entre violines y violonchelos",
+              "answer": "VIOLAS"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "El instrumento de Cliff Burton, el de Metallica",
+              "answer": "BAJO"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Excrementos, deposiciones",
+              "answer": "HECES"
+            },
+            "51": {
+              "col": 11,
+              "row": 11,
+              "clue": "Levanta o sube a alguien",
+              "answer": "AUPA"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Una mala espina",
+              "answer": "APU"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Matemática: x",
+              "answer": "POR"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "Madre de Zeus",
+              "answer": "REA"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Río de Bélgica, Alemania y los Países Bajos",
+              "answer": "RUR"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Que se infiere o puede inferirse (fem)",
+              "answer": "ILATIVA"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Alivia, modera, templa",
+              "answer": "ALIGERA"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "País cuya capital es Belgrado",
+              "answer": "SERBIA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Sin oficio",
+              "answer": "OCIOSO"
+            }
+          }
+        },
+        "vertical_clues": "1-Símbolo químico del estaño\r\n2-Penetraba en lo interior de algo\r\n3-Respectivos, uno para cada cual\r\n4-Acatamos confundidos y embestimos\r\n5-Azúcar fundido y endurecido\r\n6-Máquina doméstica para limpiar la ropa \r\n7-Darás en el blanco con precisión \r\n8-Nacidos en Arabia Saudita\r\n9-Se alistaban mejor con el chaleco de los polis\r\n10-Alcohólicos Anónimos\r\n12-Iniciales del creador de los jeans o vaqueros\r\n14-Río que pasa por Rusia y Kazajistán\r\n15-Techo de la cavidad oral\r\n17-Que se desarrolla con mucha actividad o desasosiego (masc)\r\n18-El polo del cocodrilo\r\n20-Recobré mi buena salud\r\n22-Destruyese, arruinase\r\n30-Música Perteneciente o relativo al tono\r\n31-Coloquial Niño pequeño\r\n34-Modas pasadas\r\n36-\"La …\", castillo situado en Consuegra, Toledo, España\r\n40-Dios de la Biblia hebrea \r\n41-Escuchara\r\n42-Mujer que vende uvas\r\n43-Corto en ángulo los bordes de una lámina\r\n44-Árbol cuya hoja adorna la bandera de Canadá \r\n45-Cosas que aporta la mujer al matrimonio\r\n47-De oro\r\n48-NBA \"San Antonio…\" equipo de Texas donde jugó Pau Gasol (2016-19) \r\n49-Esperabais a las cuatro últimas\r\n52-Ave caradriforme de la familia Alcidae, nativa de Europa\r\n54-El sonido de la censura\r\n56-Área de Investigación Criminal\r\n59-Tim Burton \r\n61-\"… Joe\", muñecos militares enfocados a los niños",
+        "horizontal_clues": "1-Existas, formes partes de algo\r\n4-Pone detrás del escudo señales de distinción\r\n8-Capital de Yemen\r\n11-Cuarta letra griega, la que corresponde a \"d\" latina\r\n13-Remolcan una nave por la proa\r\n15-\"Hay que inculcar en los alumnos el arte de aprender a…\" Nietzsche\r\n16-Hoja delgada que se saca con el cepillo al labrar la madera\r\n18-Lugar, país, región en inglés \r\n19-Firman con gananciales, se…\r\n21-Explique, pronuncie\r\n23-De gran estatura\r\n24-Adorada por todos\r\n25-Ave representativa en la cabeza del dios egipcio Tot\r\n26-Peli de Disney protagonizada por Rayo McQueen \r\n27-< símbolo matemático \"… que\"\r\n28-Cuba Perro o gato callejero de pequeño tamaño\r\n29-\"… a la Alegría\" himno europeo\r\n30-Soportar, resistir un medicamento\r\n32-La primera Licencia de Arte Libre\r\n33-Delicioso, divino\r\n35-Como está La muchacha en la ventana, la del cuadro de Dalí\r\n37-Vienen con el vino, ellos lo…\r\n38-Los son Mijaíl Kaláshnikov y Grigori Rasputín\r\n39-Pedazo, tajada\r\n42-Cada una de las tetas de la vaca\r\n44-Bob, el jamaicano que canta “No Woman, No Cry” \r\n46-Entre violines y violonchelos\r\n49-El instrumento de Cliff Burton, el de Metallica\r\n50-Excrementos, deposiciones\r\n51-Levanta o sube a alguien\r\n53-Una mala espina \r\n54-Matemática: x \r\n55-Madre de Zeus\r\n57-Río de Bélgica, Alemania y los Países Bajos\r\n58-Que se infiere o puede inferirse (fem)\r\n60-Alivia, modera, templa\r\n62-País cuya capital es Belgrado\r\n63-Sin oficio",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,#,4,5,#,6,7,#,8,9,#,10\r\n#,#,11,#,12,#,#,#,13,#,14,#,#,#,#\r\n#,15,#,#,#,#,#,#,16,#,#,#,#,17,#\r\n18,#,#,#,#,19,#,20,#,#,#,21,#,#,22\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,#,#,31,#,32,#,#\r\n33,#,#,34,#,#,#,#,35,#,#,36,#,#,#\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,#,#\r\n#,#,#,39,#,40,41,#,42,43,#,#,#,#,#\r\n#,44,45,#,#,#,#,#,46,#,#,#,47,48,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,#,55,#,56,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

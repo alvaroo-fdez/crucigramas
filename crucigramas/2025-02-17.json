@@ -1,0 +1,432 @@
+{
+  "data": {
+    "id": 1720,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-02-16T16:11:31.287451Z",
+      "updatedAt": "2025-02-16T16:12:37.552262Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-02-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DERRAMA#VARAS#V\r\n#CRETA##EMETICO\r\nCL#VULNERABA#OL\r\nRICINO##ENOJARA\r\nUPASEN#T#ETAPAS\r\nESCASEAR#CORONE\r\nLEAN##FILE##S#N\r\n##H#PARPADO#T##\r\nC#U##BOOM##CAFE\r\nACEPTA#DIEGESIS\r\nRATEAR#E#FERIAS\r\nTIERRAS##ENRAME\r\nIA#NATALICIO#BN\r\nENTIDAD##TAJAR#\r\nR#LLORE#DOLORES",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Lo hay solar o lunar",
+              "answer": "ECLIPSE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dígrafo que nunca ha sido una letra",
+              "answer": "RR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Chequean si servían adecuadamente",
+              "answer": "REVISAN"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pez con carne roja (pl)",
+              "answer": "ATUNES"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Vivian…\" la primera universitaria negra",
+              "answer": "MALONE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Percibiré con los ojos",
+              "answer": "VERE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Surgid con los primeros rayos solares",
+              "answer": "AMANECED"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Volvió a rebotar la pelota",
+              "answer": "REBOTO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Atrapar el balón en el aire",
+              "answer": "ATAJAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "La última de la escala musical",
+              "answer": "SI"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Surcasen los cielos",
+              "answer": "VOLASEN"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Libro sagrado del islam",
+              "answer": "CORAN"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Que se lucre del caos es muy inhumano",
+              "answer": "CRUEL"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Parece un fruto seco pero es una legumbre",
+              "answer": "CACAHUETE"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Abandono voluntario de una religión o creencia",
+              "answer": "APOSTASIA"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Es el díptero incorrecto, porque esta cosa tiene tres patas",
+              "answer": "TRIPODE"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Tipo de peinado popular en los años 60 y 70",
+              "answer": "AFRO"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "La mía, ya la ensalivé",
+              "answer": "LAMI"
+            },
+            "33": {
+              "col": 5,
+              "row": 7,
+              "clue": "Bajar el precio de algo",
+              "answer": "ABARATAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 8,
+              "clue": "Joyero que creó el primer reloj de pulsera para hombres",
+              "answer": "CARTIER"
+            },
+            "36": {
+              "col": 11,
+              "row": 8,
+              "clue": "Barra de hierro de una puerta que sirve para asegurar su cierre",
+              "answer": "CERROJO"
+            },
+            "37": {
+              "col": 13,
+              "row": 8,
+              "clue": "Comida preparada servida fría",
+              "answer": "FIAMBRE"
+            },
+            "38": {
+              "col": 14,
+              "row": 8,
+              "clue": "La primera ciudad que decoró sus calles en Navidad (Alemania)",
+              "answer": "ESSEN"
+            },
+            "40": {
+              "col": 1,
+              "row": 9,
+              "clue": "Bajaban, descendían",
+              "answer": "CAIAN"
+            },
+            "41": {
+              "col": 3,
+              "row": 9,
+              "clue": "Anca y muslo del cerdo",
+              "answer": "PERNIL"
+            },
+            "42": {
+              "col": 4,
+              "row": 9,
+              "clue": "Tonto, bobo",
+              "answer": "TARADO"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Aquello que sigue por virtud de una causa",
+              "answer": "EFECTO"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ingenioso y estupendo",
+              "answer": "GENIAL"
+            },
+            "49": {
+              "col": 6,
+              "row": 11,
+              "clue": "El divino marqués",
+              "answer": "SADE"
+            },
+            "55": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del Talio",
+              "answer": "TL"
+            },
+            "57": {
+              "col": 12,
+              "row": 13,
+              "clue": "Voz militar",
+              "answer": "AR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vierte, esparce cosas líquidas",
+              "answer": "DERRAMA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Ramas delgadas",
+              "answer": "VARAS"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Parece que Greta adora esta isla griega",
+              "answer": "CRETA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Causa náuseas y expulsión del contenido estomacal",
+              "answer": "EMETICO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "150 centilitros de cloro italiano",
+              "answer": "CL"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Infringía una norma o ley establecida",
+              "answer": "VULNERABA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Solo en Olimpia",
+              "answer": "OL"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Planta tóxica de semillas oleaginosas",
+              "answer": "RICINO"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Se enfadará o disgustará",
+              "answer": "ENOJARA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Levantasen, cargasen",
+              "answer": "UPASEN"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Fases en el desarrollo de una acción u obra",
+              "answer": "ETAPAS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Disminuir la disponibilidad de algo",
+              "answer": "ESCASEAR"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Dejé ver la cabeza del bebé en el momento del parto",
+              "answer": "CORONE"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"David…\" director de 'Doctor Zhivago' (1965)",
+              "answer": "LEAN"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Archivo en inglés",
+              "answer": "FILE"
+            },
+            "32": {
+              "col": 4,
+              "row": 7,
+              "clue": "Territorio de orzuelos",
+              "answer": "PARPADO"
+            },
+            "35": {
+              "col": 5,
+              "row": 8,
+              "clue": "Programa de Tv con preguntas explosivas",
+              "answer": "BOOM"
+            },
+            "36": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"… Quijano\", cantautores de 'La Lola'",
+              "answer": "CAFE"
+            },
+            "39": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tú di que sí y cambia esa petaca",
+              "answer": "ACEPTA"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Narración de hechos por un personaje",
+              "answer": "DIEGESIS"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Coger el diente y no dejar el dinero",
+              "answer": "RATEAR"
+            },
+            "47": {
+              "col": 9,
+              "row": 10,
+              "clue": "No hay que fiarse de las fieras que están en las exposiciones",
+              "answer": "FERIAS"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… raras\" conjunto de elementos químicos",
+              "answer": "TIERRAS"
+            },
+            "50": {
+              "col": 9,
+              "row": 11,
+              "clue": "Decoré un espacio colocándole ramas",
+              "answer": "ENRAME"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Salida de emergencia",
+              "answer": "IA"
+            },
+            "52": {
+              "col": 3,
+              "row": 12,
+              "clue": "El día de su nacimiento, está analítico y alocado",
+              "answer": "NATALICIO"
+            },
+            "53": {
+              "col": 13,
+              "row": 12,
+              "clue": "Bloquearon, la entrada y la salida",
+              "answer": "BN"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Esta va a ser bancaria",
+              "answer": "ENTIDAD"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Cortar, sacar una tajada",
+              "answer": "TAJAR"
+            },
+            "58": {
+              "col": 2,
+              "row": 14,
+              "clue": "No pude contener mis lágrimas",
+              "answer": "LLORE"
+            },
+            "59": {
+              "col": 8,
+              "row": 14,
+              "clue": "Caracterizan a las migrañas",
+              "answer": "DOLORES"
+            }
+          }
+        },
+        "vertical_clues": "2-Lo hay solar o lunar\r\n3-Dígrafo que nunca ha sido una letra\r\n4-Chequean si servían adecuadamente\r\n5-Pez con carne roja (pl)\r\n6-\"Vivian…\" la primera universitaria negra\r\n7-Percibiré con los ojos\r\n8-Surgid con los primeros rayos solares \r\n9-Volvió a rebotar la pelota \r\n10-Atrapar el balón en el aire\r\n11-La última de la escala musical\r\n12-Surcasen los cielos\r\n15-Libro sagrado del islam\r\n16-Que se lucre del caos es muy inhumano\r\n20-Parece un fruto seco pero es una legumbre\r\n22-Abandono voluntario de una religión o creencia\r\n24-Es el díptero incorrecto, porque esta cosa tiene tres patas\r\n27-Tipo de peinado popular en los años 60 y 70\r\n31-La mía, ya la ensalivé\r\n33-Bajar el precio de algo\r\n34-Joyero que creó el primer reloj de pulsera para hombres\r\n36-Barra de hierro de una puerta que sirve para asegurar su cierre\r\n37-Comida preparada servida fría \r\n38-La primera ciudad que decoró sus calles en Navidad (Alemania)\r\n40-Bajaban, descendían\r\n41-Anca y muslo del cerdo\r\n42-Tonto, bobo\r\n44-Aquello que sigue por virtud de una causa\r\n45-Ingenioso y estupendo\r\n49-El divino marqués\r\n55-Símbolo químico del Talio\r\n57-Voz militar",
+        "horizontal_clues": "1-Vierte, esparce cosas líquidas\r\n7-Ramas delgadas\r\n13-Parece que Greta adora esta isla griega\r\n14-Causa náuseas y expulsión del contenido estomacal \r\n16-150 centilitros de cloro italiano\r\n17-Infringía una norma o ley establecida \r\n18-Solo en Olimpia\r\n19-Planta tóxica de semillas oleaginosas \r\n21-Se enfadará o disgustará\r\n23-Levantasen, cargasen\r\n25-Fases en el desarrollo de una acción u obra\r\n26-Disminuir la disponibilidad de algo \r\n28-Dejé ver la cabeza del bebé en el momento del parto\r\n29-\"David…\" director de 'Doctor Zhivago' (1965)\r\n30-Archivo en inglés\r\n32-Territorio de orzuelos\r\n35-Programa de Tv con preguntas explosivas \r\n36-\"… Quijano\", cantautores de 'La Lola'\r\n39-Tú di que sí y cambia esa petaca\r\n43-Narración de hechos por un personaje \r\n46-Coger el diente y no dejar el dinero\r\n47-No hay que fiarse de las fieras que están en las exposiciones\r\n48-\"… raras\" conjunto de elementos químicos\r\n50-Decoré un espacio colocándole ramas\r\n51-Salida de emergencia\r\n52-El día de su nacimiento, está analítico y alocado\r\n53-Bloquearon, la entrada y la salida\r\n54-Esta va a ser bancaria\r\n56-Cortar, sacar una tajada\r\n58-No pude contener mis lágrimas\r\n59-Caracterizan a las migrañas",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,#,7,8,9,10,11,#,12\r\n#,13,#,#,#,#,#,#,14,#,#,#,#,15,#\r\n16,#,#,17,#,#,#,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,#,#,21,#,#,#,22,#,#\r\n23,#,#,#,#,#,#,24,#,25,#,#,#,#,#\r\n26,#,#,#,#,#,27,#,#,28,#,#,#,#,#\r\n29,#,#,#,#,#,30,#,31,#,#,#,#,#,#\r\n#,#,#,#,32,33,#,#,#,#,#,#,#,#,#\r\n34,#,#,#,#,35,#,#,#,#,#,36,#,37,38\r\n39,40,#,41,42,#,#,43,#,44,45,#,#,#,#\r\n46,#,#,#,#,#,#,#,#,47,#,#,#,#,#\r\n48,#,#,#,#,#,49,#,#,50,#,#,#,#,#\r\n51,#,#,52,#,#,#,#,#,#,#,#,#,53,#\r\n54,#,55,#,#,#,#,#,#,56,#,#,57,#,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

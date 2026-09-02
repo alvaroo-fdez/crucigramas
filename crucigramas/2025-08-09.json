@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3108,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-04T12:24:19.235177Z",
+      "updatedAt": "2025-08-04T12:31:20.544504Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-09",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#ESTAMPA##SALGA\r\nPLIEGUE#GLAMOUR\r\nALEJA#RRR#CALME\r\nVENIR#PROCAZ#PP\r\nL##ARDE#EUROS#A\r\nOPONENTE#SANEAS\r\nVAC#S#U#PUNIRA#\r\nACUS#RANUL#AIRE\r\n#APURAR#E#E#AOA\r\nUSEMOS#FRATERNO\r\nN#SIMON#PHIL###\r\nAC#DESUNE#LEGAL\r\nMUJER#DAR#IVANA\r\nONIRICO#ALCAIDE\r\nSAMOA##ALFONSO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Revista francesa de moda",
+              "answer": "ELLE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Parte lateral de la cabeza situada entre la frente, la oreja y la mejilla",
+              "answer": "SIEN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Entrelazaban hilos para formar telas",
+              "answer": "TEJIAN"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ases fuertemente",
+              "answer": "AGARRES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "De poco mucho",
+              "answer": "MU"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hacer que algo dure para siempre",
+              "answer": "PERPETUAR"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pondrán algo fuera del lugar donde estaba encerrado",
+              "answer": "SACARAN"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Importante selva de América del Sur",
+              "answer": "AMAZONIA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Siglas del argot internauta, significan \"Muchas risas\"",
+              "answer": "LOL"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"Forrest…\" peli con Tom Hanks",
+              "answer": "GUMP"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Desayuno típico venezolano (pl)",
+              "answer": "AREPAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bailarina rusa de inicios del siglo XX, conocida por interpretar \"La muerte del cisne\"",
+              "answer": "PAVLOVA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Croé, hice como un sapo",
+              "answer": "GROE"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "En pleno barrio",
+              "answer": "RR"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Habitación muy estrecha con poca luz y ventilación",
+              "answer": "CUSUL"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Diana sin vocales",
+              "answer": "DN"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Formar una serie",
+              "answer": "SERIAR"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Fardo o lío (pl)",
+              "answer": "PACAS"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Ejerzas, actúes, trabajes",
+              "answer": "OCUPES"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "\"… Paul\" interpreta a Jesse Pinkman en Breaking Bad",
+              "answer": "AARON"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Perteneciente o relativo al puerperio (período posparto)",
+              "answer": "PUERPERAL"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Sistema natural o artificial que captura más CO₂ del que emite",
+              "answer": "SUMIDERO"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Soldados sin títulos",
+              "answer": "RASOS"
+            },
+            "37": {
+              "col": 14,
+              "row": 7,
+              "clue": "Gramática Segunda, primera y tercera vocal abierta",
+              "answer": "EAO"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Fiesta en formato peregrinación",
+              "answer": "ROMERIA"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"Coma… \" por sobredosis de alcohol",
+              "answer": "ETILICO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Juntemos una mosca con otra",
+              "answer": "UNAMOS"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Interjección usada para denotar pena, admiración, sorpresa o sentimientos similares",
+              "answer": "AH"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "La llevan a la enésima potencia",
+              "answer": "ELEVAN"
+            },
+            "47": {
+              "col": 6,
+              "row": 10,
+              "clue": "Lazo que se estrecha y cierra",
+              "answer": "NUDO"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Cama pequeña para los bebes",
+              "answer": "CUNA"
+            },
+            "52": {
+              "col": 7,
+              "row": 11,
+              "clue": "Una nave rota",
+              "answer": "NA"
+            },
+            "54": {
+              "col": 12,
+              "row": 11,
+              "clue": "Señores que aman a señores",
+              "answer": "GAIS"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Voy de un lugar a otro dando pasos",
+              "answer": "ANDO"
+            },
+            "56": {
+              "col": 14,
+              "row": 11,
+              "clue": "Loterías y Apuestas del Estado",
+              "answer": "LAE"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "Vocalista de la banda musical \"The Doors\"",
+              "answer": "JIM"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Ludwig Feuerbach, padre del ateísmo antropológico",
+              "answer": "LF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Imprime una figura santa",
+              "answer": "ESTAMPA"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Emerja de las algas enredadas",
+              "answer": "SALGA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Doblez en una tela",
+              "answer": "PLIEGUE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Se viste muy bien, se ve muy sensual, tiene mucho…",
+              "answer": "GLAMOUR"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Distancia, aparta",
+              "answer": "ALEJA"
+            },
+            "15": {
+              "col": 6,
+              "row": 2,
+              "clue": "Con estas tres, cuidas al planeta",
+              "answer": "RRR"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Tranquilicé, sosegué",
+              "answer": "CALME"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Moverse de allá hacia acá",
+              "answer": "VENIR"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Desvergonzado, atrevido",
+              "answer": "PROCAZ"
+            },
+            "21": {
+              "col": 13,
+              "row": 3,
+              "clue": "Partido Popular",
+              "answer": "PP"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Está en combustión",
+              "answer": "ARDE"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Moneda de la Unión Europea (pl)",
+              "answer": "EUROS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Rival, contrincante",
+              "answer": "OPONENTE"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Saldas las deudas",
+              "answer": "SANEAS"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Medio vacíos",
+              "answer": "VAC"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Penará a un culpado",
+              "answer": "PUNIRA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Casi me acusa",
+              "answer": "ACUS"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Se mira el nevus frente al espejo",
+              "answer": "RANUL"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Gas que constituye la atmósfera terrestre",
+              "answer": "AIRE"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Apremiar, hacer solícito algo, promover su pronta ejecución",
+              "answer": "APURAR"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "Ahora aloha va sin consonantes",
+              "answer": "AOA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Utilicemos el mousse, que se daña",
+              "answer": "USEMOS"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "El amor que uno le tiene a su hermano",
+              "answer": "FRATERNO"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"… Helberg\" interpreta a Howard Wolowitz en 'The Big Bang Theory'",
+              "answer": "SIMON"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"… Collins\", compositor británico, autor de la canción One More Night",
+              "answer": "PHIL"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Inic Director de cine, ganador de Óscar por \"Gravity\"",
+              "answer": "AC"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Aparta, separa",
+              "answer": "DESUNE"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "Prescrito por la ley y conforme a ella",
+              "answer": "LEGAL"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Persona  que nace con dos cromosomas X",
+              "answer": "MUJER"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Conceder, otorgar",
+              "answer": "DAR"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Actriz que interpreta a Eva Villanueva en la serie 'Alta Mar'",
+              "answer": "IVANA"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Relativo a los sueños",
+              "answer": "ONIRICO"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Como el alcalde, pero de una cárcel",
+              "answer": "ALCAIDE"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Primer país en recibir el año nuevo junto con Kiribati",
+              "answer": "SAMOA"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "\"… Arau\", director de la peli 'Como agua para chocolate'",
+              "answer": "ALFONSO"
+            }
+          }
+        },
+        "vertical_clues": "1-Revista francesa de moda\r\n2-Parte lateral de la cabeza situada entre la frente, la oreja y la mejilla\r\n3-Entrelazaban hilos para formar telas\r\n4-Ases fuertemente\r\n5-De poco mucho\r\n6-Hacer que algo dure para siempre\r\n7-Pondrán algo fuera del lugar donde estaba encerrado\r\n8-Importante selva de América del Sur\r\n9-Siglas del argot internauta, significan \"Muchas risas\"\r\n10-\"Forrest…\" peli con Tom Hanks\r\n11-Desayuno típico venezolano (pl)\r\n12-Bailarina rusa de inicios del siglo XX, conocida por interpretar \"La muerte del cisne\"\r\n13-Croé, hice como un sapo\r\n16-En pleno barrio\r\n20-Habitación muy estrecha con poca luz y ventilación\r\n23-Diana sin vocales\r\n25-Formar una serie\r\n27-Fardo o lío (pl)\r\n28-Ejerzas, actúes, trabajes\r\n30-\"… Paul\" interpreta a Jesse Pinkman en Breaking Bad\r\n32-Perteneciente o relativo al puerperio (período posparto)\r\n34-Sistema natural o artificial que captura más CO₂ del que emite\r\n35-Soldados sin títulos\r\n37-Gramática Segunda, primera y tercera vocal abierta\r\n39-Fiesta en formato peregrinación\r\n40-\"Coma… \" por sobredosis de alcohol\r\n42-Juntemos una mosca con otra\r\n44-Interjección usada para denotar pena, admiración, sorpresa o sentimientos similares\r\n45-La llevan a la enésima potencia\r\n47-Lazo que se estrecha y cierra\r\n50-Cama pequeña para los bebes\r\n52-Una nave rota\r\n54-Señores que aman a señores\r\n55-Voy de un lugar a otro dando pasos\r\n56-Loterías y Apuestas del Estado\r\n58-Vocalista de la banda musical \"The Doors\"\r\n63-Ludwig Feuerbach, padre del ateísmo antropológico",
+        "horizontal_clues": "1-Imprime una figura santa\r\n7-Emerja de las algas enredadas\r\n12-Doblez en una tela\r\n13-Se viste muy bien, se ve muy sensual, tiene mucho…\r\n14-Distancia, aparta\r\n15-Con estas tres, cuidas al planeta\r\n17-Tranquilicé, sosegué\r\n18-Moverse de allá hacia acá\r\n19-Desvergonzado, atrevido\r\n21-Partido Popular\r\n22-Está en combustión\r\n24-Moneda de la Unión Europea (pl)\r\n26-Rival, contrincante\r\n29-Saldas las deudas\r\n31-Medio vacíos\r\n32-Penará a un culpado\r\n33-Casi me acusa\r\n35-Se mira el nevus frente al espejo\r\n36-Gas que constituye la atmósfera terrestre\r\n38-Apremiar, hacer solícito algo, promover su pronta ejecución\r\n41-Ahora aloha va sin consonantes\r\n42-Utilicemos el mousse, que se daña\r\n43-El amor que uno le tiene a su hermano\r\n46-\"… Helberg\" interpreta a Howard Wolowitz en 'The Big Bang Theory'\r\n48-\"… Collins\", compositor británico, autor de la canción One More Night\r\n49-Inic Director de cine, ganador de Óscar por \"Gravity\"\r\n51-Aparta, separa\r\n53-Prescrito por la ley y conforme a ella\r\n57-Persona  que nace con dos cromosomas X\r\n59-Conceder, otorgar\r\n60-Actriz que interpreta a Eva Villanueva en la serie 'Alta Mar'\r\n61-Relativo a los sueños\r\n62-Como el alcalde, pero de una cárcel\r\n64-Primer país en recibir el año nuevo junto con Kiribati\r\n65-\"… Arau\", director de la peli 'Como agua para chocolate'",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,#,7,8,9,10,11\r\n12,#,#,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,#,#,#,#,#,15,16,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,19,#,#,20,#,#,#,21,#\r\n#,#,#,22,#,23,#,#,24,#,#,#,25,#,#\r\n26,27,28,#,#,#,#,#,#,29,#,#,#,30,#\r\n31,#,#,#,#,#,#,#,32,#,#,#,#,#,#\r\n33,#,#,34,#,35,#,#,#,#,#,36,#,#,37\r\n#,38,#,#,39,#,#,#,#,#,40,#,41,#,#\r\n42,#,#,#,#,#,#,43,#,44,#,45,#,#,#\r\n#,#,46,#,#,#,47,#,48,#,#,#,#,#,#\r\n49,50,#,51,#,#,#,52,#,#,53,#,54,55,56\r\n57,#,58,#,#,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,#,#,#,62,63,#,#,#,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

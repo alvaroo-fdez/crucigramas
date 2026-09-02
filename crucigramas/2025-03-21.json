@@ -1,0 +1,510 @@
+{
+  "data": {
+    "id": 1911,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-18T17:33:20.957357Z",
+      "updatedAt": "2025-03-18T17:42:15.652581Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "INSOLUBLE#APPLE\r\nBUEY#ROER#FREON\r\nACREDITAR#CONOS\r\nIA#SUCESOR#TAKE\r\n##PERO##RECES#Ñ\r\nCHINO#APENAS#CA\r\nSEL##S#ESCRITOR\r\n#BACHE#D#OASIS#\r\nARRAIGAR#R##REA\r\nBA#REUNIR#JORDI\r\nI#POLIS##RAPO##\r\nSKOL#DICTADO#SC\r\nMARIN#AHUYENTAR\r\nASONE#DORA#GOBI\r\nLESAS#APARCASES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Premio Esland como mejor streamer del año 2022",
+              "answer": "IBAI"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Región posterior al cuello",
+              "answer": "NUCA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tu manera de comportarte, tu forma de…",
+              "answer": "SER"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Escuchasen, atendiesen",
+              "answer": "OYESEN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Ácido de la orina",
+              "answer": "URICO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Salte de la lancha",
+              "answer": "BOTE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Descifres el texto",
+              "answer": "LEAS"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Acciones desacertadas o equivocadas",
+              "answer": "ERRORES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Confederación Asiática de Fútbol (siglas)",
+              "answer": "AFC"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Sustitución para un órgano deficiente",
+              "answer": "PROTESIS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Deambulas en el purgatorio",
+              "answer": "PENAS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cambio de estilo, cambio de… (voz inglesa)",
+              "answer": "LOOK"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Cita: \"… es recordarles a los demás que saben tanto como tú\" Richard Bach",
+              "answer": "ENSEÑAR"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Riguroso, severo",
+              "answer": "DURO"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Resentimiento arraigado y tenaz",
+              "answer": "RENCOR"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Virgen de Zaragoza",
+              "answer": "PILAR"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "¿Cara o cruz?",
+              "answer": "CARA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Gas lacrimógeno antidisturbios",
+              "answer": "CS"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Estigma de la flor del azafrán",
+              "answer": "HEBRA"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Centrocampo tenerifeño del FC Barcelona",
+              "answer": "PEDRI"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Coged el ruedo o cerrad una raja",
+              "answer": "COSED"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Perseguid, hostigad",
+              "answer": "SEGUID"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Cinta adhesiva a base de papel",
+              "answer": "TIRRO"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Pícaro linaje el de esta diseñadora de hierro",
+              "answer": "CAROLINA"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Esparciendo mi veneno, mi amargura, mi…",
+              "answer": "HIEL"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hay una diferencia que es extremadamente grande",
+              "answer": "ABISMAL"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Deseada, codiciada",
+              "answer": "ANSIADA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Inic Director de la película \"Balada triste de la trompeta\"",
+              "answer": "AI"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Mineral que según la mitología China es esperma de dragón",
+              "answer": "JADE"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Ponga su opinión en contra de lo que dice el otro",
+              "answer": "OPONGA"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Los encargados de permitir la transpiración",
+              "answer": "POROS"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Tachar lo manuscrito o impreso",
+              "answer": "RAYAR"
+            },
+            "51": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"… O\", rapero, productor y compositor español",
+              "answer": "KASE"
+            },
+            "53": {
+              "col": 7,
+              "row": 11,
+              "clue": "\"Chip y…\" los guardianes rescatadores",
+              "answer": "CHOP"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "A esta altura, ya no hay aluminio",
+              "answer": "TURA"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Está informado",
+              "answer": "SABE"
+            },
+            "56": {
+              "col": 14,
+              "row": 11,
+              "clue": "La crisis aún no termina",
+              "answer": "CRIS"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Nintendo Entertainment System",
+              "answer": "NES"
+            },
+            "60": {
+              "col": 12,
+              "row": 12,
+              "clue": "Cuando te ahogas te da…",
+              "answer": "TOS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Incapaz de deshacerse en un líquido",
+              "answer": "INSOLUBLE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "La empresa de la manzana",
+              "answer": "APPLE"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "En el Belén, el encargado de dar calor a la cuna del niño",
+              "answer": "BUEY"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Cortar con los dientes",
+              "answer": "ROER"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Refrigerante derivado del metano, no inflamable",
+              "answer": "FREON"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Demostrar la verdad de algo",
+              "answer": "ACREDITAR"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Formas útiles para transportar helados o papas (pl)",
+              "answer": "CONOS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Salida de emergencia",
+              "answer": "IA"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Cesionario, heredero",
+              "answer": "SUCESOR"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"… Kubo\" centrocampo japonés de la Real Sociedad",
+              "answer": "TAKE"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"Sí… no\" canción del último álbum de Sho",
+              "answer": "PERO"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Te dirijas a Dios",
+              "answer": "RECES"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "El idioma más hablado en el mundo",
+              "answer": "CHINO"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Escasamente, solo",
+              "answer": "APENAS"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Símbolo químico del calcio",
+              "answer": "CA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Poco selectiva",
+              "answer": "SEL"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Oficio de Gabriel García Márquez",
+              "answer": "ESCRITOR"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Un hueco en la carretera",
+              "answer": "BACHE"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Los hermanos Gallagher",
+              "answer": "OASIS"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Echar raíces",
+              "answer": "ARRAIGAR"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Madre de Zeus",
+              "answer": "REA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Símbolo químico del bario",
+              "answer": "BA"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Agrupar a muchos",
+              "answer": "REUNIR"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Es juez de MasterChef",
+              "answer": "JORDI"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Acortamiento de policías",
+              "answer": "POLIS"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Reordeno la proa y lo afeito",
+              "answer": "RAPO"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Salud a lo vikingo",
+              "answer": "SKOL"
+            },
+            "52": {
+              "col": 5,
+              "row": 11,
+              "clue": "Ejercicio de ortografía común en la primaria",
+              "answer": "DICTADO"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Símbolo químico del Escandio",
+              "answer": "SC"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Viento de las costas mediterráneas de Francia",
+              "answer": "MARIN"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Causar espanto en otros, alejándolos",
+              "answer": "AHUYENTAR"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Convierta un sonido con otro",
+              "answer": "ASONE"
+            },
+            "62": {
+              "col": 6,
+              "row": 13,
+              "clue": "\"…, la exploradora\", Caricatura infantil",
+              "answer": "DORA"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Desierto situado al norte de China y sur de Mongolia",
+              "answer": "GOBI"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Sales muy desarreglada",
+              "answer": "LESAS"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Estacionases el vehículo",
+              "answer": "APARCASES"
+            }
+          }
+        },
+        "vertical_clues": "1-Premio Esland como mejor streamer del año 2022\r\n2-Región posterior al cuello\r\n3-Tu manera de comportarte, tu forma de…\r\n4-Escuchasen, atendiesen\r\n5-Ácido de la orina\r\n6-Salte de la lancha\r\n7-Descifres el texto\r\n8-Acciones desacertadas o equivocadas\r\n9-Confederación Asiática de Fútbol (siglas)\r\n10-Sustitución para un órgano deficiente\r\n11-Deambulas en el purgatorio\r\n12-Cambio de estilo, cambio de… (voz inglesa)\r\n13-Cita: \"… es recordarles a los demás que saben tanto como tú\" Richard Bach\r\n18-Riguroso, severo\r\n22-Resentimiento arraigado y tenaz\r\n24-Virgen de Zaragoza\r\n26-¿Cara o cruz? \r\n27-Gas lacrimógeno antidisturbios\r\n28-Estigma de la flor del azafrán\r\n30-Centrocampo tenerifeño del FC Barcelona\r\n31-Coged el ruedo o cerrad una raja\r\n33-Perseguid, hostigad\r\n35-Cinta adhesiva a base de papel\r\n37-Pícaro linaje el de esta diseñadora de hierro\r\n38-Esparciendo mi veneno, mi amargura, mi…\r\n40-Hay una diferencia que es extremadamente grande\r\n41-Deseada, codiciada\r\n43-Inic Director de la película \"Balada triste de la trompeta\"\r\n46-Mineral que según la mitología China es esperma de dragón\r\n47-Ponga su opinión en contra de lo que dice el otro\r\n48-Los encargados de permitir la transpiración\r\n49-Tachar lo manuscrito o impreso\r\n51-\"… O\", rapero, productor y compositor español\r\n53-\"Chip y…\" los guardianes rescatadores\r\n54-A esta altura, ya no hay aluminio\r\n55-Está informado\r\n56-La crisis aún no termina\r\n58-Nintendo Entertainment System\r\n60-Cuando te ahogas te da…",
+        "horizontal_clues": "1-Incapaz de deshacerse en un líquido\r\n9-La empresa de la manzana\r\n14-En el Belén, el encargado de dar calor a la cuna del niño\r\n15-Cortar con los dientes\r\n16-Refrigerante derivado del metano, no inflamable\r\n17-Demostrar la verdad de algo\r\n19-Formas útiles para transportar helados o papas (pl)\r\n20-Salida de emergencia\r\n21-Cesionario, heredero\r\n23-\"… Kubo\" centrocampo japonés de la Real Sociedad\r\n24-\"Sí… no\" canción del último álbum de Sho-Hai\r\n25-Te dirijas a Dios\r\n27-El idioma más hablado en el mundo\r\n29-Escasamente, solo\r\n31-Símbolo químico del calcio\r\n32-Poco selectiva\r\n34-Oficio de Gabriel García Márquez\r\n36-Un hueco en la carretera\r\n39-Los hermanos Gallagher\r\n40-Echar raíces\r\n42-Madre de Zeus\r\n44-Símbolo químico del bario\r\n45-Agrupar a muchos\r\n46-Es juez de MasterChef\r\n48-Acortamiento de policías\r\n49-Reordeno la proa y lo afeito \r\n50-Salud a lo vikingo\r\n52-Ejercicio de ortografía común en la primaria\r\n55-Símbolo químico del Escandio\r\n57-Viento de las costas mediterráneas de Francia\r\n59-Causar espanto en otros, alejándolos\r\n61-Convierta un sonido con otro\r\n62-\"…, la exploradora\", Caricatura infantil \r\n63-Desierto situado al norte de China y sur de Mongolia\r\n64-Sales muy desarreglada\r\n65-Estacionases el vehículo",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,#\r\n20,#,#,21,#,#,#,#,#,22,#,23,#,#,#\r\n#,#,24,#,#,#,#,#,25,#,26,#,#,#,#\r\n27,28,#,#,#,#,29,30,#,#,#,#,#,31,#\r\n32,#,#,#,#,33,#,34,#,#,#,#,35,#,#\r\n#,36,#,37,38,#,#,#,#,39,#,#,#,#,#\r\n40,#,#,#,#,#,41,#,#,#,#,#,42,#,43\r\n44,#,#,45,#,#,#,#,#,#,46,47,#,#,#\r\n#,#,48,#,#,#,#,#,#,49,#,#,#,#,#\r\n50,51,#,#,#,52,#,53,54,#,#,#,#,55,56\r\n57,#,#,#,58,#,59,#,#,#,#,#,60,#,#\r\n61,#,#,#,#,#,62,#,#,#,#,63,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

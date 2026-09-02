@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5377,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-14T15:21:45.599230Z",
+      "updatedAt": "2026-04-14T15:24:00.788854Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-15",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CALVO#AJUSTAR#\r\nGASOIL#CAMUFLAR\r\nALGAS##UVAS#BIO\r\nLU#SACUDE#CRUCE\r\nARTESANAL#RASEN\r\nNOE##RESIDIR#SA\r\nESLABON#NUBE###\r\nSALMAN###RIZOMA\r\n###ANAP#PARADAS\r\nAC#BASABAN##OLE\r\nLOCAL#TORTILLAS\r\nBRUNI#ALIENE#CI\r\nATO#DATE##TOPAN\r\nRETRATAR#GENERO\r\n#SANDALO#TRAZA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Viva, ardiente",
+              "answer": "CALUROSA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "En pleno Glasgow",
+              "answer": "ASG"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Alabase, manifestase aprecio o admiración",
+              "answer": "LOASE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Permiso de entrada a un país (pl)",
+              "answer": "VISAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Olvida la muerte",
+              "answer": "OL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Que vayas al sitio adonde fuiste llamado",
+              "answer": "ACUDAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Vara aerodinámica que vuela en los estadios",
+              "answer": "JAVELIN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Actriz que interpreta a La Novia en 'Kill Bill'",
+              "answer": "UMA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Dar consentimiento para recibir contenido periódicamente",
+              "answer": "SUSCRIBIR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Trabajo Final",
+              "answer": "TF"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"… Dumbledore\" el director de Hogwarts",
+              "answer": "ALBUS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Las que aparecen con los meses después de teñirse el cabello",
+              "answer": "RAICES"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Hombres de buen semblante",
+              "answer": "GALANES"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"Roberto…\", cantante de salsa, conocido por 'Marejada feliz'",
+              "answer": "ROENA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Mujeres con caras muy grandes",
+              "answer": "CARONAS"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "Acoplan, pegan, ensamblan",
+              "answer": "UNEN"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "Acción de la persona rara o extravagante",
+              "answer": "RAREZA"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "Personaje suizo que le puso una manzana en la cabeza al hijo",
+              "answer": "TELL"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Mientras, en tanto que",
+              "answer": "DURANTE"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Tenían afecto a alguien o algo",
+              "answer": "AMABAN"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Trivialidad",
+              "answer": "BANALIDAD"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Aquí se empieza desde abajo, con el fango",
+              "answer": "ODOL"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Con desaprobación, me miró con… (2p)",
+              "answer": "MALACARA"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "\"El Columpio …\", banda española de rock y punk",
+              "answer": "ASESINO"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Una plantación de patatas",
+              "answer": "PATATAL"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Di a luz",
+              "answer": "PARI"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Estoy junto al bar blanco",
+              "answer": "ALBAR"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"Hernán…\" español que lideró la conquista del Imperio azteca",
+              "answer": "CORTES"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Lo es el de Ravel o el de Algodre",
+              "answer": "BOLERO"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Sé cauto, paga cada parte de la deuda",
+              "answer": "CUOTA"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Prefijo que refiere a la relación entre dos cosas",
+              "answer": "INTER"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"La… blanca\" novela negra de Henning Mankell (1993)",
+              "answer": "LEONA"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Anuda",
+              "answer": "ATA"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "Está cómodo, está como… en el agua",
+              "answer": "PEZ"
+            },
+            "63": {
+              "col": 3,
+              "row": 13,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Dominio web para Guatemala",
+              "answer": "GT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La clavó mal el pelado",
+              "answer": "CALVO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Optimizar el funcionamiento del móvil",
+              "answer": "AJUSTAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Combustible pesado que funciona por compresión",
+              "answer": "GASOIL"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Disfrazar la realidad para que pase desapercibida",
+              "answer": "CAMUFLAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Salga inconforme del mar, por las plantas marinas",
+              "answer": "ALGAS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "La fruta favorita de Dionisio (pl)",
+              "answer": "UVAS"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "El prefijo de la vida",
+              "answer": "BIO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Dominio web para Luxemburgo",
+              "answer": "LU"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Lo que estremece es que suceda de otra forma",
+              "answer": "SACUDE"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Mezcla de dos razas de perros",
+              "answer": "CRUCE"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Hecho a mano",
+              "answer": "ARTESANAL"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "Igualen con el rasero",
+              "answer": "RASEN"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Constructor del arca",
+              "answer": "NOE"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Estar empadronado en un lugar",
+              "answer": "RESIDIR"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Lo saqué sin preguntar",
+              "answer": "SA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "El perdido de la cadena",
+              "answer": "ESLABON"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Red de servidores remotos",
+              "answer": "NUBE"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ensillan, aparejan",
+              "answer": "SALMAN"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Tallo subterráneo horizontal (lo es el jengibre)",
+              "answer": "RIZOMA"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Mi amigo venezolano se regresó",
+              "answer": "ANAP"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Raspadas o paradas, da igual, no se mueven",
+              "answer": "PARADAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Antes de Cristo",
+              "answer": "AC"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Fundamentaban, sustentaban",
+              "answer": "BASABAN"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Voz usada en las corridas de toros",
+              "answer": "OLE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "La anestesia cuando no es general",
+              "answer": "LOCAL"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "No se pueden hacer estas sin romper los huevos",
+              "answer": "TORTILLAS"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "La esposa de Sarkozy",
+              "answer": "BRUNI"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Transforme la conciencia de un individuo hasta alejarla de su condición natural",
+              "answer": "ALIENE"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Cociente intelectual",
+              "answer": "CI"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Unió los cabos",
+              "answer": "ATO"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Fecha en inglés",
+              "answer": "DATE"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Se encuentran de frente, se…",
+              "answer": "TOPAN"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Describir con exacta fidelidad algo",
+              "answer": "RETRATAR"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Taxón que agrupa a especies que comparten ciertos caracteres",
+              "answer": "GENERO"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Típico aroma de incienso",
+              "answer": "SANDALO"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Diseño que se hace para la fabricación de un edificio u otra obra",
+              "answer": "TRAZA"
+            }
+          }
+        },
+        "vertical_clues": "1-Viva, ardiente\r\n2-En pleno Glasgow\r\n3-Alabase, manifestase aprecio o admiración\r\n4-Permiso de entrada a un país (pl) \r\n5-Olvida la muerte\r\n6-Que vayas al sitio adonde fuiste llamado\r\n7-Vara aerodinámica que vuela en los estadios \r\n8-Actriz que interpreta a La Novia en 'Kill Bill' \r\n9-Dar consentimiento para recibir contenido periódicamente\r\n10-Trabajo Final \r\n11-\"… Dumbledore\" el director de Hogwarts\r\n12-Las que aparecen con los meses después de teñirse el cabello\r\n13-Hombres de buen semblante\r\n15-\"Roberto…\", cantante de salsa, conocido por 'Marejada feliz'\r\n21-Mujeres con caras muy grandes\r\n22-Acoplan, pegan, ensamblan\r\n24-Acción de la persona rara o extravagante\r\n26-Personaje suizo que le puso una manzana en la cabeza al hijo\r\n30-Mientras, en tanto que\r\n33-Tenían afecto a alguien o algo\r\n34-Trivialidad\r\n38-Aquí se empieza desde abajo, con el fango\r\n39-Con desaprobación, me miró con… (2p) \r\n40-\"El Columpio …\", banda española de rock y punk\r\n42-Una plantación de patatas\r\n43-Di a luz\r\n44-Estoy junto al bar blanco\r\n45-\"Hernán…\" español que lideró la conquista del Imperio azteca\r\n47-Lo es el de Ravel o el de Algodre\r\n50-Sé cauto, paga cada parte de la deuda\r\n52-Prefijo que refiere a la relación entre dos cosas\r\n53-\"La… blanca\" novela negra de Henning Mankell (1993)\r\n59-Anuda\r\n61-Está cómodo, está como… en el agua\r\n63-Símbolo químico del Radón\r\n64-Dominio web para Guatemala",
+        "horizontal_clues": "1-La clavó mal el pelado\r\n6-Optimizar el funcionamiento del móvil \r\n13-Combustible pesado que funciona por compresión \r\n14-Disfrazar la realidad para que pase desapercibida \r\n16-Salga inconforme del mar, por las plantas marinas\r\n17-La fruta favorita de Dionisio (pl) \r\n18-El prefijo de la vida \r\n19-Dominio web para Luxemburgo\r\n20-Lo que estremece es que suceda de otra forma\r\n23-Mezcla de dos razas de perros \r\n25-Hecho a mano\r\n27-Igualen con el rasero\r\n28-Constructor del arca\r\n29-Estar empadronado en un lugar \r\n31-Lo saqué sin preguntar\r\n32-El perdido de la cadena\r\n35-Red de servidores remotos\r\n36-Ensillan, aparejan\r\n37-Tallo subterráneo horizontal (lo es el jengibre) \r\n41-Mi amigo venezolano se regresó \r\n43-Raspadas o paradas, da igual, no se mueven\r\n44-Antes de Cristo\r\n46-Fundamentaban, sustentaban\r\n48-Voz usada en las corridas de toros\r\n49-La anestesia cuando no es general\r\n51-No se pueden hacer estas sin romper los huevos\r\n54-La esposa de Sarkozy\r\n55-Transforme la conciencia de un individuo hasta alejarla de su condición natural\r\n56-Cociente intelectual\r\n57-Unió los cabos\r\n58-Fecha en inglés\r\n60-Se encuentran de frente, se…\r\n62-Describir con exacta fidelidad algo\r\n64-Taxón que agrupa a especies que comparten ciertos caracteres \r\n65-Típico aroma de incienso\r\n66-Diseño que se hace para la fabricación de un edificio u otra obra",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,15\r\n16,#,#,#,#,#,#,17,#,#,#,#,18,#,#\r\n19,#,#,20,#,21,22,#,#,#,23,24,#,#,#\r\n25,#,26,#,#,#,#,#,#,#,27,#,#,#,#\r\n28,#,#,#,#,29,#,#,#,30,#,#,#,31,#\r\n32,#,#,33,34,#,#,#,35,#,#,#,#,#,#\r\n36,#,#,#,#,#,#,#,#,37,#,#,38,39,40\r\n#,#,#,41,#,#,42,#,43,#,#,#,#,#,#\r\n44,45,#,46,#,#,#,47,#,#,#,#,48,#,#\r\n49,#,50,#,#,#,51,#,#,#,52,53,#,#,#\r\n54,#,#,#,#,#,55,#,#,#,#,#,#,56,#\r\n57,#,#,#,58,59,#,#,#,#,60,#,61,#,#\r\n62,#,#,63,#,#,#,#,#,64,#,#,#,#,#\r\n#,65,#,#,#,#,#,#,#,66,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

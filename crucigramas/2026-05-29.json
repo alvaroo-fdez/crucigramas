@@ -1,0 +1,499 @@
+{
+  "data": {
+    "id": 6086,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-28T21:34:03.969617Z",
+      "updatedAt": "2026-05-28T21:38:46.934006Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#HIPERREALIDAD#\r\nDEMASIA#TELEX#I\r\nIZA#PEDO#CICLON\r\nEB#PEGI#ATOA#TM\r\nCOD#JACKSON#FRU\r\nILESO#ARAR#ORAN\r\nSALI##LEPE#BESO\r\nE#ELLO#M#SEAN#T\r\nIPIL#CALA##MECE\r\nSETA#CAIN#PASAR\r\nADE#CIANURO#IRA\r\nVI#RITA#LILA#IP\r\nODIOSA#GAMA#CCI\r\nS#JENNI#DECIDIA\r\n#PALEONTOLOGIA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Organización político",
+              "answer": "HEZBOLA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Instituto Municipal del Ambiente.",
+              "answer": "IMA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico del Protactinio",
+              "answer": "PA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "El que le dice las verdades a la Reina Grimhilde",
+              "answer": "ESPEJO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Proporciona agua a las plantas o cultivos",
+              "answer": "RIEGA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Partidario de reformas extremas",
+              "answer": "RADICAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Aitor Tilla",
+              "answer": "AT"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Los muy queridos de Lady Whistledown",
+              "answer": "LECTORES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Hueso de la cadera",
+              "answer": "ILION"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Al inicio de la década",
+              "answer": "DECA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "El vocalista de Guns N' Roses",
+              "answer": "AXL"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "La nueva fase eliminatoria del Mundial de fútbol 2026",
+              "answer": "DIECISEISAVOS"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Tratamiento médico que potencia las defensas del organismo",
+              "answer": "INMUNOTERAPIA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Están rotas, mejor busca…",
+              "answer": "OTRAS"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Sucede cuando sube",
+              "answer": "ASAP"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Qué placer, cuando el portugués dijo: De leche",
+              "answer": "DELEITE"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Fortaleza histórica en el corazón de Moscú",
+              "answer": "KREMLIN"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Violenta exaltación y perturbación del ánimo",
+              "answer": "FRENESI"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "\"… del Moro\", pequeño castillo en Granada, España",
+              "answer": "SILLA"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Expresidente estadounidense",
+              "answer": "OBAMA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Lengua romance hablada en el sur de Francia que comparte raíces con el catalán",
+              "answer": "OCCITANO"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Rogad o demandad",
+              "answer": "PEDID"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "¡Póker de ases!",
+              "answer": "AAAA"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Suspendido, dejado sin efecto",
+              "answer": "ANULADO"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Roce afectuoso",
+              "answer": "CARICIA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Nacionalidad del personaje protagonista de \"El pianista\"",
+              "answer": "POLACO"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Lo que terminó siendo el patito feo",
+              "answer": "CISNE"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Te engorda las pestañas",
+              "answer": "RIMEL"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Heráldica: Pieza redonda de los escudos de armas",
+              "answer": "ROEL"
+            },
+            "57": {
+              "col": 2,
+              "row": 12,
+              "clue": "Sufijo que forma diminutivos despectivos",
+              "answer": "IJA"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Centro de Diagnóstico Integral (siglas)",
+              "answer": "CDI"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "LinkedIn",
+              "answer": "IN"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Instagram",
+              "answer": "IG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Concepto de Baudrillard donde la simulación supera a lo real",
+              "answer": "HIPERREALIDAD"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Exceso, superabundancia",
+              "answer": "DEMASIA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Sistema antiguo de transmisión de mensajes escritos a distancia",
+              "answer": "TELEX"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Eleva la bandera de la paz",
+              "answer": "IZA"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Gas de borracho",
+              "answer": "PEDO"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "Como un huracán o un tifón",
+              "answer": "CICLON"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Emily Blunt",
+              "answer": "EB"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Pan European Game Information (sistema de clasificación de videojuegos por edad)",
+              "answer": "PEGI"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Lleva a remolque un navío",
+              "answer": "ATOA"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Símbolo de la unidad que equivale a mil kilogramos",
+              "answer": "TM"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Un shortcode (un código abreviado)",
+              "answer": "COD"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "El rey del pop",
+              "answer": "JACKSON"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Media ración de frutas, por favor",
+              "answer": "FRU"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Exento de daño",
+              "answer": "ILESO"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Cultivar, laborar la tierra",
+              "answer": "ARAR"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Rezan a Dios",
+              "answer": "ORAN"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Pasé de dentro a fuera",
+              "answer": "SALI"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Municipio andaluz de los chistes de leperos",
+              "answer": "LEPE"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "\"Al partir, un… y una flor / un te quiero, una caricia y un adiós\" N Bravo",
+              "answer": "BESO"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Primera instancia psíquica (Freud)",
+              "answer": "ELLO"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Guillermo de Baskerville en 'El nombre de la rosa'",
+              "answer": "SEAN"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Madera filipina incorruptible",
+              "answer": "IPIL"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Flor blanca",
+              "answer": "CALA"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"La mano que… la cuna\" peli de suspenso de principios de los 90",
+              "answer": "MECE"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cualquier hongo, comestible o no, con forma de sombrilla",
+              "answer": "SETA"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Hermano de Abel, según la Biblia",
+              "answer": "CAIN"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ceder el turno, por no tener baraja que jugar",
+              "answer": "PASAR"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Administración y Dirección de Empresas",
+              "answer": "ADE"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Sal del ácido cianhídrico, de toxicidad elevada",
+              "answer": "CIANURO"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "La rabia de Shakira",
+              "answer": "IRA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Observé, percibí con los ojos",
+              "answer": "VI"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Cantante jamaicana y viuda de Bob Marley",
+              "answer": "RITA"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Flor morada, malva o lavanda",
+              "answer": "LILA"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Número único de un ordenador en la Red",
+              "answer": "IP"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Oh Dios, qué mujer tan detestable",
+              "answer": "ODIOSA"
+            },
+            "58": {
+              "col": 7,
+              "row": 12,
+              "clue": "Variedad de productos",
+              "answer": "GAMA"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "201 en números romanos",
+              "answer": "CCI"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Máxima goleadora histórica de la selección española",
+              "answer": "JENNI"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Zanjaba, resolvía",
+              "answer": "DECIDIA"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Ciencia que estudia los organismos del pasado a través de fósiles",
+              "answer": "PALEONTOLOGIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Organización político-militar libanesa de confesión chií \r\n2-Instituto Municipal del Ambiente.\r\n3-Símbolo químico del Protactinio\r\n4-El que le dice las verdades a la Reina Grimhilde\r\n5-Proporciona agua a las plantas o cultivos \r\n6-Partidario de reformas extremas\r\n7-Aitor Tilla\r\n8-Los muy queridos de Lady Whistledown \r\n9-Hueso de la cadera\r\n10-Al inicio de la década\r\n11-El vocalista de Guns N' Roses \r\n12-La nueva fase eliminatoria del Mundial de fútbol 2026 \r\n14-Tratamiento médico que potencia las defensas del organismo \r\n18-Están rotas, mejor busca…\r\n21-Sucede cuando sube \r\n24-Qué placer, cuando el portugués dijo: De leche\r\n26-Fortaleza histórica en el corazón de Moscú \r\n27-Violenta exaltación y perturbación del ánimo\r\n29-\"… del Moro\", pequeño castillo en Granada, España\r\n31-Expresidente estadounidense\r\n36-Lengua romance hablada en el sur de Francia que comparte raíces con el catalán\r\n39-Rogad o demandad\r\n41-¡Póker de ases! \r\n42-Suspendido, dejado sin efecto\r\n44-Roce afectuoso\r\n47-Nacionalidad del personaje protagonista de \"El pianista\"\r\n49-Lo que terminó siendo el patito feo\r\n50-Te engorda las pestañas\r\n53-Heráldica: Pieza redonda de los escudos de armas\r\n57-Sufijo que forma diminutivos despectivos\r\n59-Centro de Diagnóstico Integral (siglas)\r\n61-LinkedIn\r\n63-Instagram",
+        "horizontal_clues": "1-Concepto de Baudrillard donde la simulación supera a lo real \r\n12-Exceso, superabundancia\r\n13-Sistema antiguo de transmisión de mensajes escritos a distancia \r\n15-Eleva la bandera de la paz\r\n16-Gas de borracho \r\n17-Como un huracán o un tifón\r\n19-Emily Blunt\r\n20-Pan European Game Information (sistema de clasificación de videojuegos por edad) \r\n21-Lleva a remolque un navío\r\n22-Símbolo de la unidad que equivale a mil kilogramos\r\n23-Un shortcode (un código abreviado)\r\n25-El rey del pop \r\n27-Media ración de frutas, por favor\r\n28-Exento de daño\r\n30-Cultivar, laborar la tierra\r\n31-Rezan a Dios\r\n32-Pasé de dentro a fuera\r\n33-Municipio andaluz de los chistes de leperos \r\n34-\"Al partir, un… y una flor / un te quiero, una caricia y un adiós\" N Bravo\r\n35-Primera instancia psíquica (Freud)\r\n37-Guillermo de Baskerville en 'El nombre de la rosa'\r\n38-Madera filipina incorruptible\r\n40-Flor blanca\r\n43-\"La mano que… la cuna\" peli de suspenso de principios de los 90\r\n45-Cualquier hongo, comestible o no, con forma de sombrilla\r\n46-Hermano de Abel, según la Biblia\r\n47-Ceder el turno, por no tener baraja que jugar\r\n48-Administración y Dirección de Empresas\r\n49-Sal del ácido cianhídrico, de toxicidad elevada\r\n51-La rabia de Shakira\r\n52-Observé, percibí con los ojos\r\n53-Cantante jamaicana y viuda de Bob Marley\r\n54-Flor morada, malva o lavanda\r\n55-Número único de un ordenador en la Red\r\n56-Oh Dios, qué mujer tan detestable\r\n58-Variedad de productos\r\n59-201 en números romanos\r\n60-Máxima goleadora histórica de la selección española\r\n62-Zanjaba, resolvía\r\n64-Ciencia que estudia los organismos del pasado a través de fósiles",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,#,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,#,#,#,16,#,#,#,#,17,#,#,#,18,#\r\n19,#,#,20,#,#,#,#,21,#,#,#,#,22,#\r\n23,#,24,#,25,#,#,26,#,#,#,#,27,#,#\r\n28,#,#,29,#,#,30,#,#,#,#,31,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,34,#,#,#\r\n#,#,35,#,#,36,#,#,#,37,#,#,#,#,#\r\n38,39,#,#,#,40,41,#,42,#,#,43,#,44,#\r\n45,#,#,#,#,46,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,49,#,#,#,#,50,#,#,51,#,#\r\n52,#,#,53,#,#,#,#,54,#,#,#,#,55,#\r\n56,#,57,#,#,#,#,58,#,#,#,#,59,#,#\r\n#,#,60,#,#,#,61,#,62,#,#,63,#,#,#\r\n#,64,#,#,#,#,#,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 5286,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-28T14:39:56.136631Z",
+      "updatedAt": "2026-03-28T14:39:56.188738Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-29",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "M#INCOLUME#CILA\r\nOMG#OTOÑO#CADA#\r\nCONCRETAR#APODA\r\nASEES#ASOCIAL#M\r\n#SOLES###ORNATO\r\nA##OTORRINO#TAR\r\nDEIS#CAVES#ARMO\r\nOVNI#IL#SU#FIAS\r\nLACA#ALBUM#LALO\r\nEDE#ABOLSADO##S\r\nCONSUL###RAJAS#\r\nE#DENEGAR#ÑAPAS\r\nRAICE#ELABORADO\r\n#JOAN#REJAS#GOB\r\nBOSS#HEXAGONO#A",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Café con leche + chocolate",
+              "answer": "MOCA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "De color de fuego",
+              "answer": "IGNEO"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Prenda femenina ícono del fetichismo (voz francesa)",
+              "answer": "CORSET"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Sufijo usado para formar aumentativos en las palabras (masc)",
+              "answer": "OTE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Devuélveme mi atol",
+              "answer": "LOTA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Ámbito de acción de una manicurista",
+              "answer": "UÑAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hombre del norte de África",
+              "answer": "MORO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Extirpan los órganos genitales",
+              "answer": "CAPAN"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Devoción, amor excesivo a alguien",
+              "answer": "IDOLATRIA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Por estos lados no hay osmio",
+              "answer": "LAD"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Kate, la top model de Calvin Klein de los 90",
+              "answer": "MOSS"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"El…\", ciudad donde encuentra el Museo Egipcio",
+              "answer": "CAIRO"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Enrejado de listoncillos de madera o de hierro",
+              "answer": "CELOSIA"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Hombres que denotan y manifiestan amor",
+              "answer": "AMOROSOS"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Lo va a llevar a cabo con su mar de separaciones",
+              "answer": "CONSUMAR"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Se le da bien la gente, es muy…",
+              "answer": "SOCIABLE"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Especie de hallaquita mexicana",
+              "answer": "TAMAL"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Padecer, flaquear",
+              "answer": "ADOLECER"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Llora descontrolada por el rallador",
+              "answer": "RALLO"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "En cuadros de Remedios Varo",
+              "answer": "RV"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Significado de la primera letra del monograma INRI",
+              "answer": "IESUS"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Evito los impuestos",
+              "answer": "EVADO"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Fuegos descontrolados",
+              "answer": "INCENDIOS"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Disminuir la presión o la tirantez de algo",
+              "answer": "AFLOJAR"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Inic del artista marcial más influyente de todos los tiempos",
+              "answer": "BL"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Hermanen, incorporen a varias personas",
+              "answer": "AUNEN"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Malsano, dañino",
+              "answer": "DAÑOSO"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Que carecen de humedad (fem)",
+              "answer": "SECAS"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Extingo, sofoco",
+              "answer": "APAGO"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Sadomasoquista",
+              "answer": "SADO"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Apellido del protagonista del filme \"Mujer Bonita\"",
+              "answer": "GERE"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "\"… Ubago\", cantautor español",
+              "answer": "ALEX"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "\"Por la… de tu falda yo tuve un piñazo con un Seat Panda\" Estopa",
+              "answer": "RAJA"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Acaricia, manosea",
+              "answer": "SOBA"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Este diente espanta vampiros",
+              "answer": "AJO"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Bolso en inglés",
+              "answer": "BAG"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Sano, sin lesión ni menoscabo",
+              "answer": "INCOLUME"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Medio ramillete de cilantro",
+              "answer": "CILA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "¡Oh My God!",
+              "answer": "OMG"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Después del calor y antes del frío",
+              "answer": "OTOÑO"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Conforme a",
+              "answer": "CADA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Definir los detalles específicos de un plan o proyecto",
+              "answer": "CONCRETAR"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Nombra, llama",
+              "answer": "APODA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Limpies",
+              "answer": "ASEES"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Que no se integra o vincula al cuerpo social",
+              "answer": "ASOCIAL"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Estrellas luminosas, centro de sistemas planetarios",
+              "answer": "SOLES"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Adorno, atavío, decorado",
+              "answer": "ORNATO"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Médico experto en el sistema auditivo y respiratorio superior",
+              "answer": "OTORRINO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Instrumento de cuerda de mástil largo, de origen persa",
+              "answer": "TAR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Entreguéis, otorguéis",
+              "answer": "DEIS"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Ahondes, penetres",
+              "answer": "CAVES"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Visto a alguien con sus armas",
+              "answer": "ARMO"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Objeto Volador No Identificado",
+              "answer": "OVNI"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Finalizan en abril",
+              "answer": "IL"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Apócope de \"suyo\"",
+              "answer": "SU"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Das crédito sin garantía",
+              "answer": "FIAS"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sustancia traslúcida usada en el cabello",
+              "answer": "LACA"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Libro que guarda fotografías",
+              "answer": "ALBUM"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Así le dicen a Eduardo",
+              "answer": "LALO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Evaluador de Defensa Electrónica",
+              "answer": "EDE"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Pantalón que cae en forma de bolsa",
+              "answer": "ABOLSADO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Magistrado de algunas repúblicas o municipios",
+              "answer": "CONSUL"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Cortas, agrietas",
+              "answer": "RAJAS"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "No conceder lo que se pide o solicita",
+              "answer": "DENEGAR"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Coloq Añadidura tipo propina o regalo (pl)",
+              "answer": "ÑAPAS"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Eché raíces en México",
+              "answer": "RAICE"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Hecho con mucho detalle y cuidado",
+              "answer": "ELABORADO"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Serrat o Miró",
+              "answer": "JOAN"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Barrotes",
+              "answer": "REJAS"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Un gobierno incipiente",
+              "answer": "GOB"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Diseñó los uniformes de la SS",
+              "answer": "BOSS"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Polígono de seis lados iguales",
+              "answer": "HEXAGONO"
+            }
+          }
+        },
+        "vertical_clues": "1-Café con leche + chocolate\r\n2-De color de fuego\r\n3-Prenda femenina ícono del fetichismo (voz francesa)\r\n4-Sufijo usado para formar aumentativos en las palabras (masc)\r\n5-Devuélveme mi atol\r\n6-Ámbito de acción de una manicurista\r\n7-Hombre del norte de África\r\n8-Extirpan los órganos genitales\r\n9-Devoción, amor excesivo a alguien\r\n10-Por estos lados no hay osmio\r\n12-Kate, la top model de Calvin Klein de los 90\r\n14-\"El…\", ciudad donde encuentra el Museo Egipcio\r\n16-Enrejado de listoncillos de madera o de hierro\r\n18-Hombres que denotan y manifiestan amor\r\n21-Lo va a llevar a cabo con su mar de separaciones\r\n23-Se le da bien la gente, es muy…\r\n25-Especie de hallaquita mexicana\r\n26-Padecer, flaquear\r\n28-Llora descontrolada por el rallador\r\n29-En cuadros de Remedios Varo\r\n30-Significado de la primera letra del monograma INRI\r\n33-Evito los impuestos\r\n34-Fuegos descontrolados\r\n36-Disminuir la presión o la tirantez de algo\r\n43-Inic del artista marcial más influyente de todos los tiempos\r\n46-Hermanen, incorporen a varias personas\r\n47-Malsano, dañino\r\n49-Que carecen de humedad (fem)\r\n51-Extingo, sofoco\r\n52-Sadomasoquista\r\n54-Apellido del protagonista del filme \"Mujer Bonita\"\r\n55-\"… Ubago\", cantautor español\r\n56-\"Por la… de tu falda yo tuve un piñazo con un Seat Panda\" Estopa\r\n58-Acaricia, manosea\r\n60-Este diente espanta vampiros\r\n62-Bolso en inglés\r\n",
+        "horizontal_clues": "2-Sano, sin lesión ni menoscabo\r\n8-Medio ramillete de cilantro\r\n11-¡Oh My God! \r\n13-Después del calor y antes del frío\r\n14-Conforme a\r\n15-Definir los detalles específicos de un plan o proyecto \r\n17-Nombra, llama\r\n19-Limpies\r\n20-Que no se integra o vincula al cuerpo social\r\n22-Estrellas luminosas, centro de sistemas planetarios\r\n24-Adorno, atavío, decorado\r\n27-Médico experto en el sistema auditivo y respiratorio superior \r\n31-Instrumento de cuerda de mástil largo, de origen persa\r\n32-Entreguéis, otorguéis\r\n35-Ahondes, penetres\r\n36-Visto a alguien con sus armas\r\n37-Objeto Volador No Identificado\r\n38-Finalizan en abril\r\n39-Apócope de \"suyo\"\r\n40-Das crédito sin garantía \r\n41-Sustancia traslúcida usada en el cabello\r\n42-Libro que guarda fotografías\r\n44-Así le dicen a Eduardo \r\n45-Evaluador de Defensa Electrónica\r\n46-Pantalón que cae en forma de bolsa\r\n48-Magistrado de algunas repúblicas o municipios\r\n50-Cortas, agrietas\r\n53-No conceder lo que se pide o solicita\r\n57-Coloq Añadidura tipo propina o regalo (pl)\r\n59-Eché raíces en México\r\n61-Hecho con mucho detalle y cuidado \r\n63-Serrat o Miró\r\n64-Barrotes\r\n65-Un gobierno incipiente\r\n66-Diseñó los uniformes de la SS\r\n67-Polígono de seis lados iguales \r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

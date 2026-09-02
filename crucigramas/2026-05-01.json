@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 5818,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-30T20:59:36.109724Z",
+      "updatedAt": "2026-04-30T21:00:53.198712Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "GADOT#COMODO#EM\r\nOLIVO#AVISE#CLO\r\n#UNAS#FINAL#REM\r\nEVADE#EPIDEMICO\r\nTIMORATAS##MATA\r\nNOI##SORTEO#DA#\r\nANCHOA#ORUGA##B\r\nI#AISLA#AGUAS#L\r\nL##PETRO#ENFOCO\r\n#GB#NARRAN##MOC\r\nYEOH##INTERCEDA\r\nESTROPEAR#ARREO\r\nGTA#HONRA#BESA#\r\nUAS#INDOS#AMEBA\r\nAN#FOYONE#LATAM",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vamos con el gringo",
+              "answer": "GO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Inundación de reacciones",
+              "answer": "ALUVION"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Energética y activa, llena de movimiento",
+              "answer": "DINAMICA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ha puesto sus huevos, ha…",
+              "answer": "OVADO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Hacer fuerza y violencia con la respiración",
+              "answer": "TOSER"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "El árbol del café",
+              "answer": "CAFETO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Este animal le pone huevos",
+              "answer": "OVIPARO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Secretaria de Estado",
+              "answer": "MINISTRA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Encarad, desafiad, enfrentad",
+              "answer": "OSAD"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Proporciónele, entréguele",
+              "answer": "DELE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Elegida, nombrada",
+              "answer": "ELECTA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "\"Jason…\" Aquaman",
+              "answer": "MOMOA"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "Alimentad, cuidad y cebad animales",
+              "answer": "CRIAD"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Viene subiendo el que siempre la lía",
+              "answer": "ETNAIL"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Símbolo del Milímetro",
+              "answer": "MM"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo embiste con La Tasa mezcladora",
+              "answer": "ASALTA"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "\"… McCarthy\" el gran opositor de la guerra de Vietnam",
+              "answer": "EUGENE"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Una de las deidades de la religión yoruba",
+              "answer": "OGUN"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"… , … hurra\" grito de guerra, antiquísimo",
+              "answer": "HIP"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Emprendan algo con audacia",
+              "answer": "OSEN"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Alfa, Alfa, Foxtrot",
+              "answer": "AAF"
+            },
+            "35": {
+              "col": 14,
+              "row": 6,
+              "clue": "Pequeña fortificación de madera y sacos terreros",
+              "answer": "BLOCAO"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Contrato de alquiler de una propiedad",
+              "answer": "ARRIENDO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "\"… House\" complejo londinense donde está la 'Royal Society of Literature'",
+              "answer": "SOMERSET"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Decoraron, adornaron",
+              "answer": "ORNARON"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Se relacionaba, frecuentaba, se…",
+              "answer": "CODEABA"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Llevan en su seno el embrión",
+              "answer": "GESTAN"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Las que lleva el gato de Charles Perrault",
+              "answer": "BOTAS"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Retardé, fijé una fecha posterior",
+              "answer": "ATRASE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo era Babieca, la del Cid",
+              "answer": "YEGUA"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Dominio web para Croacia",
+              "answer": "HR"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)",
+              "answer": "RABAL"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Hidratante o antiarrugas",
+              "answer": "CREMA"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "Uno de los cincuenta estados que forman los Estados Unidos",
+              "answer": "OHIO"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Caballito de raza inglesa",
+              "answer": "PONY"
+            },
+            "64": {
+              "col": 14,
+              "row": 13,
+              "clue": "Buenos días",
+              "answer": "AM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Gal…\" es la Mujer Maravilla",
+              "answer": "GADOT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Demasiado a gusto, el hijo de Marco Aurelio",
+              "answer": "COMODO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Iniciales del dueño de Tesla",
+              "answer": "EM"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Verde aceituna",
+              "answer": "OLIVO"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Te lo dije con anterioridad, yo te…",
+              "answer": "AVISE"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "Monóxido de cloro",
+              "answer": "CLO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Juntes a algunas",
+              "answer": "UNAS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Última competición en un campeonato",
+              "answer": "FINAL"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Fase del sueño durante la que suceden los sueños más intensos",
+              "answer": "REM"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Se hace el loco con Haciendas",
+              "answer": "EVADE"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Un poco menos que pandémico",
+              "answer": "EPIDEMICO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tímidas, indecisas, encogidas",
+              "answer": "TIMORATAS"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Arranca la planta",
+              "answer": "MATA"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Nosotros en Italia",
+              "answer": "NOI"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Rifo un tesoro de locos",
+              "answer": "SORTEO"
+            },
+            "29": {
+              "col": 12,
+              "row": 5,
+              "clue": "Sí, en ruso",
+              "answer": "DA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Boquerón curado en salmuera con parte de su sangre",
+              "answer": "ANCHOA"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Gusano que se transforma en mariposa",
+              "answer": "ORUGA"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Deja algo solo y separado de otras cosas",
+              "answer": "AISLA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Expresión mexicana para advertir que viene la ley",
+              "answer": "AGUAS"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"Gustavo…\" actual presidente de Colombia",
+              "answer": "PETRO"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Me centro en un tema, me…",
+              "answer": "ENFOCO"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Símbolo del gigabyte",
+              "answer": "GB"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Relatan un partido",
+              "answer": "NARRAN"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Al mocoso no le gusta Teddy",
+              "answer": "MOC"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Michelle…\" Óscar como mejor actriz por 'Todo a la vez en todas partes'",
+              "answer": "YEOH"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Abogue por alguien ante una autoridad",
+              "answer": "INTERCEDA"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dañar, maltratar",
+              "answer": "ESTROPEAR"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Atavío, adorno",
+              "answer": "ARREO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Grand Theft Auto",
+              "answer": "GTA"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Reconoce la importancia de otra persona",
+              "answer": "HONRA"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Oprime con un movimiento de labios",
+              "answer": "BESA"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Universidad Autónoma de Sinaloa",
+              "answer": "UAS"
+            },
+            "62": {
+              "col": 4,
+              "row": 13,
+              "clue": "Indio (pl)",
+              "answer": "INDOS"
+            },
+            "63": {
+              "col": 10,
+              "row": 13,
+              "clue": "Parásito de la amebiasis",
+              "answer": "AMEBA"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Centro de finanzas",
+              "answer": "AN"
+            },
+            "66": {
+              "col": 3,
+              "row": 14,
+              "clue": "Rapero malagueño",
+              "answer": "FOYONE"
+            },
+            "67": {
+              "col": 10,
+              "row": 14,
+              "clue": "El buen tamal está en Latinoamérica",
+              "answer": "LATAM"
+            }
+          }
+        },
+        "vertical_clues": "1-Vamos con el gringo\r\n2-Inundación de reacciones\r\n3-Energética y activa, llena de movimiento \r\n4-Ha puesto sus huevos, ha…\r\n5-Hacer fuerza y violencia con la respiración\r\n6-El árbol del café\r\n7-Este animal le pone huevos\r\n8-Secretaria de Estado \r\n9-Encarad, desafiad, enfrentad\r\n10-Proporciónele, entréguele\r\n11-Elegida, nombrada\r\n12-\"Jason…\" Aquaman\r\n15-Alimentad, cuidad y cebad animales\r\n19-Viene subiendo el que siempre la lía\r\n21-Símbolo del Milímetro\r\n23-Lo embiste con La Tasa mezcladora\r\n27-\"… McCarthy\" el gran opositor de la guerra de Vietnam \r\n28-Una de las deidades de la religión yoruba\r\n31-\"… , … hurra\" grito de guerra, antiquísimo\r\n32-Emprendan algo con audacia\r\n34-Alfa, Alfa, Foxtrot\r\n35-Pequeña fortificación de madera y sacos terreros\r\n37-Contrato de alquiler de una propiedad \r\n39-\"… House\" complejo londinense donde está la 'Royal Society of Literature'\r\n41-Decoraron, adornaron\r\n43-Se relacionaba, frecuentaba, se…\r\n44-Llevan en su seno el embrión\r\n45-Las que lleva el gato de Charles Perrault\r\n47-Retardé, fijé una fecha posterior\r\n49-Lo era Babieca, la del Cid\r\n50-Dominio web para Croacia\r\n52-\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)\r\n53-Hidratante o antiarrugas\r\n55-Uno de los cincuenta estados que forman los Estados Unidos\r\n56-Caballito de raza inglesa\r\n64-Buenos días",
+        "horizontal_clues": "1-\"Gal…\" es la Mujer Maravilla\r\n6-Demasiado a gusto, el hijo de Marco Aurelio\r\n11-Iniciales del dueño de Tesla\r\n13-Verde aceituna\r\n14-Te lo dije con anterioridad, yo te…\r\n15-Monóxido de cloro\r\n16-Juntes a algunas\r\n17-Última competición en un campeonato\r\n18-Fase del sueño durante la que suceden los sueños más intensos\r\n19-Se hace el loco con Haciendas \r\n20-Un poco menos que pandémico\r\n22-Tímidas, indecisas, encogidas\r\n24-Arranca la planta\r\n25-Nosotros en Italia\r\n26-Rifo un tesoro de locos\r\n29-Sí, en ruso\r\n30-Boquerón curado en salmuera con parte de su sangre\r\n33-Gusano que se transforma en mariposa\r\n36-Deja algo solo y separado de otras cosas\r\n38-Expresión mexicana para advertir que viene la ley\r\n40-\"Gustavo…\" actual presidente de Colombia\r\n42-Me centro en un tema, me…\r\n44-Símbolo del gigabyte\r\n46-Relatan un partido\r\n48-Al mocoso no le gusta Teddy\r\n49-\"Michelle…\" Óscar como mejor actriz por 'Todo a la vez en todas partes'\r\n51-Abogue por alguien ante una autoridad \r\n54-Dañar, maltratar\r\n57-Atavío, adorno\r\n58-Grand Theft Auto\r\n59-Reconoce la importancia de otra persona\r\n60-Oprime con un movimiento de labios\r\n61-Universidad Autónoma de Sinaloa \r\n62-Indio (pl)\r\n63-Parásito de la amebiasis\r\n65-Centro de finanzas\r\n66-Rapero malagueño\r\n67-El buen tamal está en Latinoamérica",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,10,#,#,11,12\r\n13,#,#,#,#,#,14,#,#,#,#,#,15,#,#\r\n#,16,#,#,#,#,17,#,#,#,#,#,18,#,#\r\n19,#,#,#,#,#,20,#,#,#,#,21,#,#,#\r\n22,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,28,#,29,#,#\r\n30,#,#,31,32,#,#,33,#,#,#,34,#,#,35\r\n#,#,36,#,#,#,37,#,38,#,#,#,39,#,#\r\n#,#,#,40,#,#,#,41,#,42,#,#,#,43,#\r\n#,44,45,#,46,#,#,#,47,#,#,#,48,#,#\r\n49,#,#,50,#,#,51,#,#,#,52,53,#,#,#\r\n54,#,#,#,55,56,#,#,#,#,57,#,#,#,#\r\n58,#,#,#,59,#,#,#,#,#,60,#,#,#,#\r\n61,#,#,#,62,#,#,#,#,#,63,#,#,#,64\r\n65,#,#,66,#,#,#,#,#,#,67,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

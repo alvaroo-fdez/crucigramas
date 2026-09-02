@@ -1,0 +1,471 @@
+{
+  "data": {
+    "id": 1090,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-23T17:00:36.467490Z",
+      "updatedAt": "2024-10-23T17:00:36.467514Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-24",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "INSITU#APORTA#A\r\nP#EBO#REAS#ROPA\r\nSOPITA#CRACOVIA\r\nOBEDECI#ADHIERA\r\nFILEMON#C#EK#O#\r\nASIM##S#ASLAN#I\r\nCPO#TEORIAS#TEN\r\nTO#CARPEDIEM#XF\r\nOSO#CAOTICA#ATR\r\n##KNORR#S##OCIA\r\n#N#EN#T#MUSTANG\r\nTEOREMA#OPERETA\r\nEXCUSABA#ACOCAN\r\nLOAD#KLUM#ASI#T\r\nA#LAVOE#APRIORI",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Escribe estas 2 palabras en latín, inmediatamente.",
+              "answer": "IPSOFACTO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Parece que se peleó en el entierro.",
+              "answer": "SEPELIO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Allí mismo, en el mismo lugar. Usado en citas.",
+              "answer": "IBIDEM"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Objeto de la naturaleza que se toma como emblema protector.",
+              "answer": "TOTEM"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Cae desparramado.",
+              "answer": "AEC"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Deporte de caída libre.",
+              "answer": "PARACAIDISMO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Encarad, desafiad, enfrentad.",
+              "answer": "OSAD"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "La unión de la CE, el BCE y el FMI.",
+              "answer": "TROIKA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Aceite de Oliva Virgen Extra.",
+              "answer": "AOVE"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Póker de ases.",
+              "answer": "AAAA"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "\"Me... vampiro\".",
+              "answer": "PIRO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Líderes eclesiásticos católicos.",
+              "answer": "OBISPOS"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "AntiConceptivos Orales.",
+              "answer": "ACO"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Equipo de fútbol profesional de Londres.",
+              "answer": "CHELSEA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Kundera dice que así es la levedad del ser.",
+              "answer": "INSOPORTABLE"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Retrocedes en subida.",
+              "answer": "SAIC"
+            },
+            "28": {
+              "col": 12,
+              "row": 5,
+              "clue": "No Tengo.",
+              "answer": "NT"
+            },
+            "29": {
+              "col": 14,
+              "row": 5,
+              "clue": "Lo pillaron con las manos en la masa, escribiendo en latín.",
+              "answer": "INFRAGANTI"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Está con esos zapatos en pedazos.",
+              "answer": "TACONES"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Disponer eras para poner plantas en ellas.",
+              "answer": "ERAR"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "El reto está en quitarle el balón.",
+              "answer": "RET"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Desaparecida por completo de la faz de la Tierra.",
+              "answer": "EXTINTA"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Lo de Olga Kurylenko y Óliver Kahn.",
+              "answer": "OK"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Ocurrió o sucedió en el pasado.",
+              "answer": "ACAECIO"
+            },
+            "44": {
+              "col": 3,
+              "row": 9,
+              "clue": "Famoso poeta chileno del siglo XX.",
+              "answer": "NERUDA"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Término legal para cláusula adicional.",
+              "answer": "OTROSI"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Vínculo, lazo, conexión.",
+              "answer": "NEXO"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Voz para cargar a un bebé.",
+              "answer": "UPA"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Alisar el cabello pero sin plancha.",
+              "answer": "SECAR"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "'Vaya...', la marinera.",
+              "answer": "TELA"
+            },
+            "52": {
+              "col": 2,
+              "row": 11,
+              "clue": "Pera o manzana, muy gustosa y delicada.",
+              "answer": "OCAL"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "La isla mágica de las sirenas de H2O.",
+              "answer": "MAKO"
+            },
+            "56": {
+              "col": 7,
+              "row": 12,
+              "clue": "Adriana Ugarte, una chica de oro.",
+              "answer": "AU"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Matilde no lleva acento.",
+              "answer": "MA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Aquí mismo hay una expresión en latín, en este sitio.",
+              "answer": "INSITU"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "A quien no... (suma, contribuye, colabora), lo aparto.",
+              "answer": "APORTA"
+            },
+            "11": {
+              "col": 2,
+              "row": 1,
+              "clue": "El río Girona, también conocido como \"Río...\".",
+              "answer": "EBO"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "Reclusas, internas.",
+              "answer": "REAS"
+            },
+            "13": {
+              "col": 11,
+              "row": 1,
+              "clue": "Manto de apariencia.",
+              "answer": "ROPA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Al pasito de un sapito, optáis por un caldito.",
+              "answer": "SOPITA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Ciudad polaca donde está la fábrica de Oskar Schindler.",
+              "answer": "CRACOVIA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Seguí instrucciones en el pasado.",
+              "answer": "OBEDECI"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Pegue o una firmemente.",
+              "answer": "ADHIERA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Personaje de cómic, compañero de Mortadelo.",
+              "answer": "FILEMON"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "El monograma de Emir Kusturica.",
+              "answer": "EK"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Abreviatura de \"así mismo\".",
+              "answer": "ASIM"
+            },
+            "26": {
+              "col": 8,
+              "row": 5,
+              "clue": "El león de Narnia.",
+              "answer": "ASLAN"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Chief Product Officer (el Director de Producto de toda la vida).",
+              "answer": "CPO"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Conjuntos de ideas que explican fenómenos.",
+              "answer": "TEORIAS"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Toma 10 dólares.",
+              "answer": "TEN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Toca retirar el calcio.",
+              "answer": "TO"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Horacio. ¿cómo se dice que 'aprovecha el día' en latín?.",
+              "answer": "CARPEDIEM"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Xabier Fortes.",
+              "answer": "XF"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hermoso animal.",
+              "answer": "OSO"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Confusa, incoherente, anárquica.",
+              "answer": "CAOTICA"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Acceso de Terceros a la Red.",
+              "answer": "ATR"
+            },
+            "43": {
+              "col": 2,
+              "row": 9,
+              "clue": "Marca de productos alimenticios y condimentos.",
+              "answer": "KNORR"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Entrégate al ocio.",
+              "answer": "OCIA"
+            },
+            "47": {
+              "col": 3,
+              "row": 10,
+              "clue": "En la cabeza de Einstein y en los zapatos de Newton.",
+              "answer": "EN"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "El caballo salvaje de la Ford.",
+              "answer": "MUSTANG"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "El más famoso es el de Pitágoras.",
+              "answer": "TEOREMA"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Ópera cómica.",
+              "answer": "OPERETA"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Justificaba o disculpaba.",
+              "answer": "EXCUSABA"
+            },
+            "57": {
+              "col": 9,
+              "row": 12,
+              "clue": "Las frutas cuando se llenan de gusano, se...",
+              "answer": "ACOCAN"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Glorificad, enalteced.",
+              "answer": "LOAD"
+            },
+            "59": {
+              "col": 5,
+              "row": 13,
+              "clue": "\"Heidi...\" modelo y presentadora alemana.",
+              "answer": "KLUM"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "\"Yo soy... y... seguiré, nunca cambiaré\" Alaska.",
+              "answer": "ASI"
+            },
+            "62": {
+              "col": 2,
+              "row": 14,
+              "clue": "Apellido del salsero apodado 'La Voz'.",
+              "answer": "LAVOE"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "En principio, creo que esta palabra también está en latín.",
+              "answer": "APRIORI"
+            }
+          }
+        },
+        "vertical_clues": "1-Escribe estas 2 palabras en latín, inmediatamente.\r\n2-Parece que se peleó en el entierro.\r\n3-Allí mismo, en el mismo lugar. Usado en citas.\r\n4-Objeto de la naturaleza que se toma como emblema protector.\r\n5-Cae desparramado.\r\n6-Deporte de caída libre. \r\n7-Encarad, desafiad, enfrentad.\r\n8-La unión de la CE, el BCE y el FMI.\r\n9-Aceite de Oliva Virgen Extra.\r\n10-Póker de ases.\r\n14-\"Me... vampiro\". \r\n16-Líderes eclesiásticos católicos. \r\n17-AntiConceptivos Orales.\r\n19-Equipo de fútbol profesional de Londres. \r\n21-Kundera dice que así es la levedad del ser.\r\n27-Retrocedes en subida.\r\n28-No Tengo.\r\n29-Lo pillaron con las manos en la masa, escribiendo en latín.\r\n31-Está con esos zapatos en pedazos.\r\n32-Disponer eras para poner plantas en ellas.\r\n33-El reto está en quitarle el balón.\r\n35-Desaparecida por completo de la faz de la Tierra.\r\n40-Lo de Olga Kurylenko y Óliver Kahn.\r\n42-Ocurrió o sucedió en el pasado. \r\n44-Famoso poeta chileno del siglo XX.\r\n45-Término legal para cláusula adicional. \r\n46-Vínculo, lazo, conexión.\r\n49-Voz para cargar a un bebé.\r\n50-Alisar el cabello pero sin plancha.\r\n51-'Vaya...', la marinera.\r\n52-Pera o manzana, muy gustosa y delicada.\r\n53-La isla mágica de las sirenas de H2O.\r\n56-Adriana Ugarte, una chica de oro.\r\n60-Matilde no lleva acento.",
+        "horizontal_clues": "1-Aquí mismo hay una expresión en latín, en este sitio.\r\n5-A quien no... (suma, contribuye, colabora), lo aparto.\r\n11-El río Girona, también conocido como \"Río...\". \r\n12-Reclusas, internas.\r\n13-Manto de apariencia.\r\n15-Al pasito de un sapito, optáis por un caldito.\r\n18-Ciudad polaca donde está la fábrica de Oskar Schindler.\r\n20-Seguí instrucciones en el pasado. \r\n22-Pegue o una firmemente. \r\n23-Personaje de cómic, compañero de Mortadelo.\r\n24-El monograma de Emir Kusturica.\r\n25-Abreviatura de \"así mismo\". \r\n26-El león de Narnia.\r\n30-Chief Product Officer (el Director de Producto de toda la vida).\r\n31-Conjuntos de ideas que explican fenómenos. \r\n34-Toma 10 dólares.\r\n36-Toca retirar el calcio.\r\n37-Horacio. ¿cómo se dice que 'aprovecha el día' en latín?. \r\n38-Xabier Fortes.\r\n39- Hermoso animal.\r\n41-Confusa, incoherente, anárquica.\r\n42-Acceso de Terceros a la Red.\r\n43-Marca de productos alimenticios y condimentos. \r\n45-Entrégate al ocio.\r\n47-En la cabeza de Einstein y en los zapatos de Newton.\r\n48-El caballo salvaje de la Ford.\r\n51-El más famoso es el de Pitágoras.\r\n54-Ópera cómica.\r\n55-Justificaba o disculpaba. \r\n57-Las frutas cuando se llenan de gusano, se...\r\n58-Glorificad, enalteced.\r\n59-\"Heidi...\" modelo y presentadora alemana.\r\n61-\"Yo soy... y... seguiré, nunca cambiaré\" Alaska.\r\n62-Apellido del salsero apodado 'La Voz'.\r\n63-En principio, creo que esta palabra también está en latín.",
+        "board_clues_positions": "1,#,2,3,4,#,#,5,6,7,#,8,9,#,10\r\n#,#,11,#,#,#,12,#,#,#,#,13,#,14,#\r\n15,16,#,#,#,17,#,18,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,21,#,22,#,#,#,#,#,#\r\n23,#,#,#,#,#,#,#,#,#,24,#,#,#,#\r\n25,#,#,#,#,#,#,#,26,27,#,#,28,#,29\r\n30,#,#,#,31,32,#,33,#,#,#,#,34,35,#\r\n36,#,#,37,#,#,#,#,#,#,#,#,#,38,#\r\n39,#,40,#,41,#,#,#,#,#,#,#,42,#,#\r\n#,#,43,44,#,#,#,#,#,#,#,45,#,#,#\r\n#,46,#,47,#,#,#,#,48,49,50,#,#,#,#\r\n51,#,52,#,#,53,#,#,54,#,#,#,#,#,#\r\n55,#,#,#,#,#,#,56,#,57,#,#,#,#,#\r\n58,#,#,#,#,59,#,#,60,#,61,#,#,#,#\r\n#,#,62,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

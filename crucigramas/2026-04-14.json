@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5376,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-10T10:54:14.945324Z",
+      "updatedAt": "2026-04-10T11:04:01.164382Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-14",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PAJILLA#ARCAICO\r\nI#ELIOT#KARL##F\r\nR#RUEDOS#TOCASE\r\nEMISIONES#MATAN\r\nLACAS#IDA#OCRES\r\nLRO##OTOÑO#HATO\r\nIX#LEVA#ARROPAR\r\n##MORI###FOFO##\r\nCHICANO#PELA#DD\r\nLUNA#ONDEO##FUI\r\nASUMA#ZAR#BLADE\r\nSATEN#AGARRAMOS\r\nIRONIA#ALIADO#T\r\nC##TONY#ECUOS#R\r\nARMENIA#SENSATO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Marca italiana, única proveedora de neumáticos en la Fórmula 1",
+              "answer": "PIRELLI"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ciudad palestina, de las antiguas del mundo",
+              "answer": "JERICO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Propensa a ilusionarse, soñadora",
+              "answer": "ILUSA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Arméis un cigarrillo",
+              "answer": "LIEIS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pantano, barro",
+              "answer": "LODO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pasmada, sorprendida por un suceso raro",
+              "answer": "ATONITA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"…47\" el Kaláshnikov",
+              "answer": "AK"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Espero que esto sea por poco rato",
+              "answer": "RAT"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Estampa de colección",
+              "answer": "CROMO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Planta cuyo corazón se sirve con vinagreta o relleno",
+              "answer": "ALCACHOFA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Que ofende",
+              "answer": "OFENSOR"
+            },
+            "15": {
+              "col": 7,
+              "row": 2,
+              "clue": "Anestesio, narcotizo",
+              "answer": "SEDO"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Sujeto está a trapo roto",
+              "answer": "ATRAPO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Manecilla del reloj",
+              "answer": "SAETA"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Autor del libro 'El Capital'",
+              "answer": "MARX"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Con mala intención, con…",
+              "answer": "SAÑA"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Tipo de ganado al que pertenece la oveja",
+              "answer": "OVINO"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "El hijo de Apolo, que durmió a Cerbero con su lira",
+              "answer": "ORFEO"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Alocadamente",
+              "answer": "LOCAMENTE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "\"La… del hielo\" la peli",
+              "answer": "ERA"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Juego en el que los jugadores asumen personajes imaginarios",
+              "answer": "ROL"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "60 segundos",
+              "answer": "MINUTO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Período de mayor plenitud de una cultura (pl)",
+              "answer": "CLASICA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Soldado de caballería vestido a la húngara",
+              "answer": "HUSAR"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Unidad anglosajona para medir volumen",
+              "answer": "ONZA"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "\"José Luis…\", cantautor español apodado \"El poeta de la canción\"",
+              "answer": "PERALES"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Pongo en tela de juicio",
+              "answer": "DUDO"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Habilidoso con la mano derecha",
+              "answer": "DIESTRO"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Arma blanca",
+              "answer": "DAGA"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Muy conocida y admirada",
+              "answer": "FAMOSA"
+            },
+            "48": {
+              "col": 4,
+              "row": 10,
+              "clue": "Ion con carga negativa",
+              "answer": "ANION"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Marca de afeitadora eléctrica",
+              "answer": "BRAUN"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Son distintos los del escaleno",
+              "answer": "LADOS"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Me hice bucles en el cabello, me lo ensortijé, me lo…",
+              "answer": "RICE"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Ciudad arqueológica entre Armenia y Turquía",
+              "answer": "ANI"
+            },
+            "59": {
+              "col": 6,
+              "row": 13,
+              "clue": "Inmediatamente",
+              "answer": "YA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pajita, pitillo",
+              "answer": "PAJILLA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Muy antiguo o anticuado",
+              "answer": "ARCAICO"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "El líder de Los Intocables",
+              "answer": "ELIOT"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"… Lagerfeld\" diseñador alemán",
+              "answer": "KARL"
+            },
+            "14": {
+              "col": 2,
+              "row": 2,
+              "clue": "Donde se lidia a los toros (pl)",
+              "answer": "RUEDOS"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "Ejercitase el sentido del tacto",
+              "answer": "TOCASE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Liberación de gases contaminantes",
+              "answer": "EMISIONES"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Extinguen la vida de alguien",
+              "answer": "MATAN"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pintaúñas (pl)",
+              "answer": "LACAS"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Una salida sosa la dejó perdida",
+              "answer": "IDA"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Son …, color amarillo terroso",
+              "answer": "OCRES"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lunar Reconnaissance Orbiter (siglas)",
+              "answer": "LRO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Después del calor y antes del frío",
+              "answer": "OTOÑO"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Porción de ganado mayor o menor",
+              "answer": "HATO"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Son las 9:00 en Roma",
+              "answer": "IX"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Mar de fondo, mar de…",
+              "answer": "LEVA"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Cubrir, abrigar",
+              "answer": "ARROPAR"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Sucumbí por la extraña forma en que me miró",
+              "answer": "MORI"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Esponjoso, blando y de poca consistencia",
+              "answer": "FOFO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "100% mexicano estadounidense",
+              "answer": "CHICANO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Quita la cáscara a la naranja",
+              "answer": "PELA"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Iniciales del autor de 'Robinson Crusoe'",
+              "answer": "DD"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Único satélite natural de la Tierra",
+              "answer": "LUNA"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Muevo una bandera al viento",
+              "answer": "ONDEO"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Ser en vidas pasadas",
+              "answer": "FUI"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Que se haga cargo",
+              "answer": "ASUMA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Título que se daba al soberano de Bulgaria",
+              "answer": "ZAR"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "El cazavampiros de Marvel",
+              "answer": "BLADE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tejido parecido al raso",
+              "answer": "SATEN"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Sujetamos, prendimos, tomamos",
+              "answer": "AGARRAMOS"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Burla fina y disimulada",
+              "answer": "IRONIA"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Cuento con él porque está de mi lado, es mi…",
+              "answer": "ALIADO"
+            },
+            "58": {
+              "col": 3,
+              "row": 13,
+              "clue": "\"Premios…\" al teatro de Broadway",
+              "answer": "TONY"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Rectos, severos",
+              "answer": "ECUOS"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "País cuya capital es Ereván",
+              "answer": "ARMENIA"
+            },
+            "62": {
+              "col": 8,
+              "row": 14,
+              "clue": "Un tipo prudente, de buen juicio",
+              "answer": "SENSATO"
+            }
+          }
+        },
+        "vertical_clues": "1-Marca italiana, única proveedora de neumáticos en la Fórmula 1\r\n2-Ciudad palestina, de las antiguas del mundo\r\n3-Propensa a ilusionarse, soñadora\r\n4-Arméis un cigarrillo\r\n5-Pantano, barro\r\n6-Pasmada, sorprendida por un suceso raro\r\n7-\"…47\" el Kaláshnikov\r\n8-Espero que esto sea por poco rato\r\n9-Estampa de colección\r\n10-Planta cuyo corazón se sirve con vinagreta o relleno \r\n11-Que ofende\r\n15-Anestesio, narcotizo\r\n17-Sujeto está a trapo roto\r\n18-Manecilla del reloj\r\n20-Autor del libro 'El Capital'\r\n21-Con mala intención, con…\r\n27-Tipo de ganado al que pertenece la oveja\r\n28-El hijo de Apolo, que durmió a Cerbero con su lira\r\n31-Alocadamente\r\n32-\"La… del hielo\" la peli\r\n34-Juego en el que los jugadores asumen personajes imaginarios\r\n35-60 segundos\r\n37-Período de mayor plenitud de una cultura (pl)\r\n38-Soldado de caballería vestido a la húngara\r\n39-Unidad anglosajona para medir volumen\r\n40-\"José Luis…\", cantautor español apodado \"El poeta de la canción\"\r\n41-Pongo en tela de juicio\r\n42-Habilidoso con la mano derecha \r\n45-Arma blanca\r\n46-Muy conocida y admirada\r\n48-Ion con carga negativa \r\n50-Marca de afeitadora eléctrica\r\n51-Son distintos los del escaleno\r\n54-Me hice bucles en el cabello, me lo ensortijé, me lo…\r\n56-Ciudad arqueológica entre Armenia y Turquía\r\n59-Inmediatamente",
+        "horizontal_clues": "1-Pajita, pitillo\r\n7-Muy antiguo o anticuado\r\n12-El líder de Los Intocables\r\n13-\"… Lagerfeld\" diseñador alemán\r\n14-Donde se lidia a los toros (pl)\r\n16-Ejercitase el sentido del tacto\r\n19-Liberación de gases contaminantes\r\n22-Extinguen la vida de alguien\r\n23-Pintaúñas (pl)\r\n24-Una salida sosa la dejó perdida\r\n25-Son …, color amarillo terroso\r\n26-Lunar Reconnaissance Orbiter (siglas)\r\n27-Después del calor y antes del frío\r\n29-Porción de ganado mayor o menor\r\n30-Son las 9:00 en Roma\r\n31-Mar de fondo, mar de…\r\n33-Cubrir, abrigar\r\n35-Sucumbí por la extraña forma en que me miró\r\n36-Esponjoso, blando y de poca consistencia\r\n37-100% mexicano estadounidense\r\n40-Quita la cáscara a la naranja\r\n41-Iniciales del autor de 'Robinson Crusoe'\r\n43-Único satélite natural de la Tierra\r\n44-Muevo una bandera al viento\r\n46-Ser en vidas pasadas\r\n47-Que se haga cargo\r\n49-Título que se daba al soberano de Bulgaria\r\n50-El cazavampiros de Marvel\r\n52-Tejido parecido al raso\r\n53-Sujetamos, prendimos, tomamos\r\n55-Burla fina y disimulada\r\n57-Cuento con él porque está de mi lado, es mi…\r\n58-\"Premios…\" al teatro de Broadway\r\n60-Rectos, severos\r\n61-País cuya capital es Ereván\r\n62-Un tipo prudente, de buen juicio",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,#,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n#,#,14,#,#,#,#,15,#,16,#,#,17,18,#\r\n19,20,#,#,#,#,#,#,21,#,22,#,#,#,#\r\n23,#,#,#,#,#,24,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,31,32,#,#,#,33,#,34,#,#,#,#\r\n#,#,35,#,#,#,#,#,#,36,#,#,#,#,#\r\n37,38,#,#,#,#,39,#,40,#,#,#,#,41,42\r\n43,#,#,#,#,44,#,45,#,#,#,#,46,#,#\r\n47,#,#,#,48,#,49,#,#,#,50,51,#,#,#\r\n52,#,#,#,#,#,53,#,#,54,#,#,#,#,#\r\n55,#,#,#,#,56,#,57,#,#,#,#,#,#,#\r\n#,#,#,58,#,#,59,#,60,#,#,#,#,#,#\r\n61,#,#,#,#,#,#,#,62,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

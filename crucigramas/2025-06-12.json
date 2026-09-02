@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 2529,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-09T15:28:57.144464Z",
+      "updatedAt": "2025-06-09T15:31:56.954392Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#EVALUA#DIVAGUE\r\nB#CRISPA#TICO#M\r\nAT#USUAL#ALARMA\r\nRAC#TRIPULACION\r\nDIOR#ASADA#IOTA\r\nANION#ACA#LATER\r\nLOMBARDA#MA###E\r\n#SABRIA#BOVINO#\r\nL###DO#LICORERA\r\nALANO#MIZ#EMUES\r\nBUFE#SECAS#EMMA\r\nASIGNATURAS#AOD\r\nMORRON#ARBOL#SO\r\nB#MANA#DIETAS#S\r\nACOSADO#ADOREN#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic Escritor español de ciencia ficción autor de 'Crónicas del multiverso'",
+              "answer": "VC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Grupo de 95 islas Indonesia",
+              "answer": "ARU"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lista sin fin",
+              "answer": "LIST"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Interés excesivo en un préstamo",
+              "answer": "USURA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Horizontal, la foto del paisaje",
+              "answer": "APAISADA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "De procedencia italiana (fem)",
+              "answer": "ITALA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "El apellido de La Rosalía",
+              "answer": "VILA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Árbol Nacional de Australia",
+              "answer": "ACACIA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Papá…\", novela del escritor francés Honoré de Balzac",
+              "answer": "GORIOT"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Desprenderé, por ejemplo energía o mal olor",
+              "answer": "EMANARE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Barda, cubierta de espinos",
+              "answer": "BARDAL"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Animal originario de Perú, familia del camello y la llama",
+              "answer": "ALPACA"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Indígenas de La Española, Cuba y Puerto Rico",
+              "answer": "TAINOS"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Apodo, sobrenombre",
+              "answer": "MOTE"
+            },
+            "23": {
+              "col": 2,
+              "row": 3,
+              "clue": "La paga de un soborno",
+              "answer": "COIMA"
+            },
+            "25": {
+              "col": 8,
+              "row": 3,
+              "clue": "A la viuda ni la miré",
+              "answer": "UDA"
+            },
+            "27": {
+              "col": 3,
+              "row": 4,
+              "clue": "Miel de dátil, sirope, jarabe",
+              "answer": "ROBB"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Planta empleada en perfumería",
+              "answer": "NARDO"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Apellido del salsero apodado 'La Voz'",
+              "answer": "LAVOE"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Afluente de agua dulce",
+              "answer": "RIO"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Al mocoso no le gusta Teddy",
+              "answer": "MOC"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Harás que toda Ibiza ría por tu extravagancia",
+              "answer": "BIZARRIA"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Retirarme de un sitio",
+              "answer": "IRME"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "Notación antigua para escribir la música",
+              "answer": "NEUMA"
+            },
+            "41": {
+              "col": 13,
+              "row": 7,
+              "clue": "Recemos, imploremos",
+              "answer": "OREMOS"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Primera canción en español en ocupar el primer puesto en los Billboard Hot 100, en 1987 (dos palabras)",
+              "answer": "LABAMBA"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Haced líquida una cosa sólida",
+              "answer": "LICUAD"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Tostados, cocinados",
+              "answer": "ASADOS"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Lusitano",
+              "answer": "LUSO"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Aseguro o doy por cierto algo",
+              "answer": "AFIRMO"
+            },
+            "49": {
+              "col": 3,
+              "row": 9,
+              "clue": "\"Lágrimas…\" el álbum de Bebo y El Cigala",
+              "answer": "NEGRAS"
+            },
+            "50": {
+              "col": 6,
+              "row": 9,
+              "clue": "El 'Metropolitan Opera' en Nueva York",
+              "answer": "MET"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Curad las heridas",
+              "answer": "SANAD"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Conoced, estad al corriente",
+              "answer": "SABED"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Novena hora después de la salida del sol",
+              "answer": "NONA"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"Jesús …\", artista plástico venezolano precursor del cinetismo",
+              "answer": "SOTO"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Grecia Antigua Cada uno de los dioses del hogar",
+              "answer": "LAR"
+            },
+            "66": {
+              "col": 12,
+              "row": 13,
+              "clue": "Símbolo químico del Selenio",
+              "answer": "SE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Califica a los alumnos",
+              "answer": "EVALUA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hablé sin concierto ni propósito fijo",
+              "answer": "DIVAGUE"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Molesta, enoja",
+              "answer": "CRISPA"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Así le dicen a un costarricense",
+              "answer": "TICO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Antiguo Testamento",
+              "answer": "AT"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Común o habitual",
+              "answer": "USUAL"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Mecanismo cuya función es avisar de un peligro",
+              "answer": "ALARMA"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Viene subiendo en un coche americano",
+              "answer": "RAC"
+            },
+            "24": {
+              "col": 4,
+              "row": 3,
+              "clue": "Todos los trabajadores de un barco",
+              "answer": "TRIPULACION"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Christian…\", marca de modas más lujosa del mundo",
+              "answer": "DIOR"
+            },
+            "28": {
+              "col": 5,
+              "row": 4,
+              "clue": "Ni frita, ni horneada, la carne",
+              "answer": "ASADA"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Novena letra del alfabeto griego, equivale a la \"i\" del latino",
+              "answer": "IOTA"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ion con carga negativa",
+              "answer": "ANION"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Aquí, entrando en la academia",
+              "answer": "ACA"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"Luego\" en inglés",
+              "answer": "LATER"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "La col morada",
+              "answer": "LOMBARDA"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Iniciales del emperador romano autor de 'Meditaciones'",
+              "answer": "MA"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Conocería, estaría al tanto",
+              "answer": "SABRIA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ganado vacuno, ganado…",
+              "answer": "BOVINO"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "Denominación de origen",
+              "answer": "DO"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Botella decorada para almacenar cierta bebida espirituosa",
+              "answer": "LICORERA"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Perro español",
+              "answer": "ALANO"
+            },
+            "50": {
+              "col": 6,
+              "row": 9,
+              "clue": "Voz usada para llamar al gato",
+              "answer": "MIZ"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ñandúes, avestruces",
+              "answer": "EMUES"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Restaurante del tipo \"todo lo que puedas comer\"",
+              "answer": "BUFE"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Que carecen de humedad (fem)",
+              "answer": "SECAS"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "Hermione Granger en Harry Potter",
+              "answer": "EMMA"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Materias que se enseñan en un centro docente",
+              "answer": "ASIGNATURAS"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "Asistencia oficial para el desarrollo (siglas)",
+              "answer": "AOD"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Este pimiento no es marrón",
+              "answer": "MORRON"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Este va a ser genealógico",
+              "answer": "ARBOL"
+            },
+            "63": {
+              "col": 13,
+              "row": 12,
+              "clue": "Voz para calmar a las bestias",
+              "answer": "SO"
+            },
+            "64": {
+              "col": 2,
+              "row": 13,
+              "clue": "Banda de rock",
+              "answer": "MANA"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Regímenes alimenticios",
+              "answer": "DIETAS"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Hostigado, asediado",
+              "answer": "ACOSADO"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Rindan culto a un ser divino",
+              "answer": "ADOREN"
+            }
+          }
+        },
+        "vertical_clues": "2-Inic Escritor español de ciencia ficción autor de 'Crónicas del multiverso'\r\n3-Grupo de 95 islas Indonesia\r\n4-Lista sin fin\r\n5-Interés excesivo en un préstamo\r\n6-Horizontal, la foto del paisaje\r\n8-De procedencia italiana (fem)\r\n9-El apellido de La Rosalía\r\n10-Árbol Nacional de Australia\r\n11-\"Papá…\", novela del escritor francés Honoré de Balzac\r\n12-Desprenderé, por ejemplo energía o mal olor\r\n13-Barda, cubierta de espinos\r\n15-Animal originario de Perú, familia del camello y la llama\r\n18-Indígenas de La Española, Cuba y Puerto Rico\r\n21-Apodo, sobrenombre\r\n23-La paga de un soborno\r\n25-A la viuda ni la miré\r\n27-Miel de dátil, sirope, jarabe\r\n31-Planta empleada en perfumería\r\n33-Apellido del salsero apodado 'La Voz'\r\n35-Afluente de agua dulce\r\n36-Al mocoso no le gusta Teddy\r\n38-Harás que toda Ibiza ría por tu extravagancia\r\n39-Retirarme de un sitio\r\n40-Notación antigua para escribir la música\r\n41-Recemos, imploremos\r\n42-Primera canción en español en ocupar el primer puesto en los Billboard Hot 100, en 1987 (dos palabras)\r\n44-Haced líquida una cosa sólida\r\n45-Tostados, cocinados\r\n47-Lusitano\r\n48-Aseguro o doy por cierto algo\r\n49-\"Lágrimas…\" el álbum de Bebo y El Cigala\r\n50-El 'Metropolitan Opera' en Nueva York\r\n53-Curad las heridas\r\n54-Conoced, estad al corriente\r\n57-Novena hora después de la salida del sol\r\n58-\"Jesús …\", artista plástico venezolano precursor del cinetismo\r\n62-Grecia Antigua Cada uno de los dioses del hogar\r\n66-Símbolo químico del Selenio",
+        "horizontal_clues": "1-Califica a los alumnos\r\n7-Hablé sin concierto ni propósito fijo\r\n14-Molesta, enoja\r\n16-Así le dicen a un costarricense\r\n17-Antiguo Testamento\r\n19-Común o habitual\r\n20-Mecanismo cuya función es avisar de un peligro\r\n22-Viene subiendo en un coche americano\r\n24-Todos los trabajadores de un barco\r\n26-\"Christian…\", marca de modas más lujosa del mundo\r\n28-Ni frita, ni horneada, la carne\r\n29-Novena letra del alfabeto griego, equivale a la \"i\" del latino\r\n30-Ion con carga negativa \r\n32-Aquí, entrando en la academia\r\n33-\"Luego\" en inglés\r\n34-La col morada\r\n36-Iniciales del emperador romano autor de 'Meditaciones'\r\n37-Conocería, estaría al tanto\r\n38-Ganado vacuno, ganado…\r\n43-Denominación de origen\r\n44-Botella decorada para almacenar cierta bebida espirituosa\r\n46-Perro español\r\n50-Voz usada para llamar al gato\r\n51-Ñandúes, avestruces\r\n52-Restaurante del tipo \"todo lo que puedas comer\"\r\n53-Que carecen de humedad (fem)\r\n55-Hermione Granger en Harry Potter\r\n56-Materias que se enseñan en un centro docente\r\n59-Asistencia oficial para el desarrollo (siglas)\r\n60-Este pimiento no es marrón\r\n61-Este va a ser genealógico\r\n63-Voz para calmar a las bestias\r\n64-Banda de rock-pop mexicana que canta \"Clavado en un bar\"\r\n65-Regímenes alimenticios\r\n67-Hostigado, asediado\r\n68-Rindan culto a un ser divino",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,14,#,#,#,#,15,#,16,#,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,20,#,#,#,21,#\r\n22,#,23,#,24,#,#,#,25,#,#,#,#,#,#\r\n26,#,#,27,#,28,#,#,#,#,#,29,#,#,#\r\n30,#,#,#,31,#,32,#,#,#,33,#,#,#,#\r\n34,#,#,#,#,35,#,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,#,#,#,38,#,#,39,40,41,#\r\n42,#,#,#,43,#,#,44,#,#,#,#,#,#,45\r\n46,47,48,49,#,#,50,#,#,#,51,#,#,#,#\r\n52,#,#,#,#,53,#,#,#,54,#,55,#,#,#\r\n56,#,#,#,57,#,#,#,#,#,58,#,59,#,#\r\n60,#,#,#,#,#,#,61,#,#,#,62,#,63,#\r\n#,#,64,#,#,#,#,65,#,#,#,#,66,#,#\r\n67,#,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 4572,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-15T16:57:33.724232Z",
+      "updatedAt": "2026-01-15T16:58:13.045113Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-16",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##SOLICITARON##\r\n#MESADA#OCULUS#\r\nBIGOTERA#ASIMOV\r\nILUSIONAR#AGITE\r\nLIRON#ENA#SONAR\r\nATO##ARGEL#CONO\r\nTE#ACTO#SUCESOS\r\nE#ASCO###GENO#I\r\nRENEGAR#LASO#AM\r\nAMAS#REMAR##LBI\r\nLABOR#AES#ERIAL\r\nENERO#SECAMENTE\r\nSALADA#TITILEIS\r\n#RESECO#VETEAR#\r\n##NEOCOLONIAL##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "El suegro está confundido pero a salvo",
+              "answer": "SEGURO"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que tiene hueso (masc)",
+              "answer": "OSOSO"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "El idioma de los exorcismos",
+              "answer": "LATIN"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Se le ocurrió",
+              "answer": "IDEO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Animal que representa a los arianos",
+              "answer": "CARNERO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Todo al 50%",
+              "answer": "TO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "En este lugar",
+              "answer": "ACA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo son las montañas, Abismo y Tarántula en Madrid",
+              "answer": "RUSAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "3ª época geológica del Paleógeno en la Era Cenozoica",
+              "answer": "OLIGOCENO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Misterioso, mágico, relativo a los dioses",
+              "answer": "NUMINOSO"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Sirva en la guerra",
+              "answer": "MILITE"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Depósito subterráneo de cachivaches",
+              "answer": "SOTANO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Los acuerdos cuando son solo entres dos gobiernos",
+              "answer": "BILATERALES"
+            },
+            "15": {
+              "col": 7,
+              "row": 2,
+              "clue": "El avatar, el último maestro del aire",
+              "answer": "AANG"
+            },
+            "17": {
+              "col": 14,
+              "row": 2,
+              "clue": "Creíbles, viables, verdaderos",
+              "answer": "VEROSIMILES"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Raspas, restriegas",
+              "answer": "RAES"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Remolcar un navío",
+              "answer": "ATOAR"
+            },
+            "26": {
+              "col": 9,
+              "row": 5,
+              "clue": "\"En un… de la Mancha, de cuyo nombre no quiero acordarme\" EQ",
+              "answer": "LUGAR"
+            },
+            "29": {
+              "col": 3,
+              "row": 6,
+              "clue": "Aconsejase en la dirección de un negocio",
+              "answer": "ASESORASE"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Cambio Climático Global",
+              "answer": "CCG"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "De peces y lombrices",
+              "answer": "CES"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Conocida por cantar 'La puerta de Alcalá' y 'Contamíname' (2p)",
+              "answer": "ANABELEN"
+            },
+            "36": {
+              "col": 1,
+              "row": 8,
+              "clue": "Nacer de mí, desprender de sí",
+              "answer": "EMANAR"
+            },
+            "37": {
+              "col": 6,
+              "row": 8,
+              "clue": "Convictas",
+              "answer": "REAS"
+            },
+            "38": {
+              "col": 8,
+              "row": 8,
+              "clue": "Propenso a los placeres carnales",
+              "answer": "LASCIVO"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "Avasallar, doblegar",
+              "answer": "ABATIR"
+            },
+            "42": {
+              "col": 7,
+              "row": 9,
+              "clue": "Aplicación que permitía \"reunirse\" en cuarentena",
+              "answer": "MEET"
+            },
+            "43": {
+              "col": 12,
+              "row": 9,
+              "clue": "Matemática Que tiene efectos proporcionales a la causa",
+              "answer": "LINEAL"
+            },
+            "45": {
+              "col": 4,
+              "row": 10,
+              "clue": "Deporte que consiste en montar a pelo, potros salvajes",
+              "answer": "RODEO"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "Transmití en directo",
+              "answer": "EMITI"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Lea de nuevo",
+              "answer": "RELEA"
+            },
+            "51": {
+              "col": 9,
+              "row": 11,
+              "clue": "Amarren",
+              "answer": "ATEN"
+            },
+            "53": {
+              "col": 5,
+              "row": 12,
+              "clue": "Empieza la acción",
+              "answer": "ACC"
+            },
+            "56": {
+              "col": 6,
+              "row": 13,
+              "clue": "Las gafas de John Lennon",
+              "answer": "OO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pidieron formalmente mediante documento escrito",
+              "answer": "SOLICITARON"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Dinero que se da mensualmente",
+              "answer": "MESADA"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Las gafas de realidad virtual de Meta",
+              "answer": "OCULUS"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Mancha en el labio superior al beber leche",
+              "answer": "BIGOTERA"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "\"Isaac…\" escritor de 'La Fundación'",
+              "answer": "ASIMOV"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Hacer que alguien sueñe despierto, generar expectativas",
+              "answer": "ILUSIONAR"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Inquieté, turbé, moví el ánimo",
+              "answer": "AGITE"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ratón soñoliento de \"Alicia en el país de las maravillas\"",
+              "answer": "LIRON"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Cena sin entrantes",
+              "answer": "ENA"
+            },
+            "23": {
+              "col": 10,
+              "row": 4,
+              "clue": "Lo peor que hace la alarma de la mañana",
+              "answer": "SONAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Los amarró a todos",
+              "answer": "ATO"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Capital de Argelia",
+              "answer": "ARGEL"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Sólido geométrico con base circular y vértice",
+              "answer": "CONO"
+            },
+            "28": {
+              "col": 0,
+              "row": 6,
+              "clue": "Infusión del árbol Camellia Sinensis",
+              "answer": "TE"
+            },
+            "29": {
+              "col": 3,
+              "row": 6,
+              "clue": "En la ceremonia toca de manera diferente",
+              "answer": "ACTO"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Estos hechos tienen sus ecos dispersos",
+              "answer": "SUCESOS"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Repugnante el caos de este caso",
+              "answer": "ASCO"
+            },
+            "34": {
+              "col": 9,
+              "row": 7,
+              "clue": "Elemento léxico que alude al origen biológico de un rasgo",
+              "answer": "GENO"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Abandonar una ideología o una creencia",
+              "answer": "RENEGAR"
+            },
+            "38": {
+              "col": 8,
+              "row": 8,
+              "clue": "Flojo, macilento",
+              "answer": "LASO"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "A primera hora, cuando empieza el amanecer",
+              "answer": "AM"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Si … lo que haces, nunca será un trabajo\"",
+              "answer": "AMAS"
+            },
+            "41": {
+              "col": 5,
+              "row": 9,
+              "clue": "Mover la embarcación a brazo",
+              "answer": "REMAR"
+            },
+            "43": {
+              "col": 12,
+              "row": 9,
+              "clue": "Long Beach Island",
+              "answer": "LBI"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Labranza, en especial la de las tierras que se siembran",
+              "answer": "LABOR"
+            },
+            "46": {
+              "col": 6,
+              "row": 10,
+              "clue": "Las del póquer",
+              "answer": "AES"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "Tierra o campo sin cultivar ni labrar",
+              "answer": "ERIAL"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"16 de…\" día internacional de la croqueta",
+              "answer": "ENERO"
+            },
+            "50": {
+              "col": 6,
+              "row": 11,
+              "clue": "Me lo dijo así, sin más, fríamente",
+              "answer": "SECAMENTE"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Sabor de la mar",
+              "answer": "SALADA"
+            },
+            "54": {
+              "col": 7,
+              "row": 12,
+              "clue": "Centelleéis como una estrella",
+              "answer": "TITILEIS"
+            },
+            "55": {
+              "col": 1,
+              "row": 13,
+              "clue": "Demasiado seco",
+              "answer": "RESECO"
+            },
+            "57": {
+              "col": 8,
+              "row": 13,
+              "clue": "Hacer o pintar vetas o listas en algo",
+              "answer": "VETEAR"
+            },
+            "58": {
+              "col": 2,
+              "row": 14,
+              "clue": "Nueva forma de dominar las economías de países en vías de desarrollo",
+              "answer": "NEOCOLONIAL"
+            }
+          }
+        },
+        "vertical_clues": "1-El suegro está confundido pero a salvo\r\n2-Que tiene hueso (masc)\r\n3-El idioma de los exorcismos\r\n4-Se le ocurrió\r\n5-Animal que representa a los arianos\r\n6-Todo al 50%\r\n7-En este lugar\r\n8-Lo son las montañas, Abismo y Tarántula en Madrid\r\n9-3ª época geológica del Paleógeno en la Era Cenozoica\r\n10-Misterioso, mágico, relativo a los dioses \r\n11-Sirva en la guerra\r\n13-Depósito subterráneo de cachivaches\r\n14-Los acuerdos cuando son solo entres dos gobiernos\r\n15-El avatar, el último maestro del aire\r\n17-Creíbles, viables, verdaderos\r\n19-Raspas, restriegas\r\n25-Remolcar un navío\r\n26-\"En un… de la Mancha, de cuyo nombre no quiero acordarme\" EQ\r\n29-Aconsejase en la dirección de un negocio\r\n30-Cambio Climático Global\r\n32-De peces y lombrices\r\n33-Conocida por cantar 'La puerta de Alcalá' y 'Contamíname' (2p) \r\n36-Nacer de mí, desprender de sí\r\n37-Convictas\r\n38-Propenso a los placeres carnales\r\n39-Avasallar, doblegar \r\n42-Aplicación que permitía \"reunirse\" en cuarentena\r\n43-Matemática Que tiene efectos proporcionales a la causa\r\n45-Deporte que consiste en montar a pelo, potros salvajes\r\n47-Transmití en directo\r\n48-Lea de nuevo\r\n51-Amarren\r\n53-Empieza la acción\r\n56-Las gafas de John Lennon",
+        "horizontal_clues": "1-Pidieron formalmente mediante documento escrito \r\n11-Dinero que se da mensualmente\r\n12-Las gafas de realidad virtual de Meta\r\n14-Mancha en el labio superior al beber leche\r\n16-\"Isaac…\" escritor de 'La Fundación' \r\n18-Hacer que alguien sueñe despierto, generar expectativas \r\n20-Inquieté, turbé, moví el ánimo\r\n21-Ratón soñoliento de \"Alicia en el país de las maravillas\"\r\n22-Cena sin entrantes\r\n23-Lo peor que hace la alarma de la mañana\r\n24-Los amarró a todos\r\n25-Capital de Argelia\r\n27-Sólido geométrico con base circular y vértice\r\n28-Infusión del árbol Camellia Sinensis\r\n29-En la ceremonia toca de manera diferente\r\n31-Estos hechos tienen sus ecos dispersos \r\n33-Repugnante el caos de este caso\r\n34-Elemento léxico que alude al origen biológico de un rasgo\r\n35-Abandonar una ideología o una creencia\r\n38-Flojo, macilento\r\n39-A primera hora, cuando empieza el amanecer \r\n40-\"Si … lo que haces, nunca será un trabajo\"\r\n41-Mover la embarcación a brazo\r\n43-Long Beach Island\r\n44-Labranza, en especial la de las tierras que se siembran\r\n46-Las del póquer\r\n47-Tierra o campo sin cultivar ni labrar\r\n49-\"16 de…\" día internacional de la croqueta\r\n50-Me lo dijo así, sin más, fríamente\r\n52-Sabor de la mar\r\n54-Centelleéis como una estrella\r\n55-Demasiado seco\r\n57-Hacer o pintar vetas o listas en algo\r\n58-Nueva forma de dominar las economías de países en vías de desarrollo",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,13,#\r\n14,#,#,#,#,#,#,15,#,16,#,#,#,#,17\r\n18,#,#,#,#,#,#,#,19,#,20,#,#,#,#\r\n21,#,#,#,#,#,22,#,#,#,23,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,27,#,#,#\r\n28,#,#,29,30,#,#,#,31,#,32,#,#,#,#\r\n#,#,33,#,#,#,#,#,#,34,#,#,#,#,#\r\n35,36,#,#,#,#,37,#,38,#,#,#,#,39,#\r\n40,#,#,#,#,41,#,42,#,#,#,#,43,#,#\r\n44,#,#,#,45,#,46,#,#,#,47,48,#,#,#\r\n49,#,#,#,#,#,50,#,#,51,#,#,#,#,#\r\n52,#,#,#,#,53,#,54,#,#,#,#,#,#,#\r\n#,55,#,#,#,#,56,#,57,#,#,#,#,#,#\r\n#,#,58,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

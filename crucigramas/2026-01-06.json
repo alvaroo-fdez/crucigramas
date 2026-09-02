@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 4480,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.912888Z",
+      "updatedAt": "2025-12-30T18:41:24.350157Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##ACCESIBILIDAD\r\n#REMATADOR#MUNO\r\nFIG#CELE##TIRAN\r\nAFOCAR#ACERTABA\r\nCENARE#ROCIADOR\r\nH##BEAN#RUSSEL#\r\nACOLAS#CROA#REV\r\nDORE##LRO##PANA\r\nASD#TELA#DORSAL\r\n#TEROJO#SETE##I\r\nPUÑETERO#VISADO\r\nORABAMOS#ALADOS\r\nPEDAL##MANA#OTO\r\nUROS#ADISABEBA#\r\nPARALELOGRAMO##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "GOT 1º rey de los 7 Reinos, fundador de la dinastía Targaryen",
+              "answer": "AEGON"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Capacidad Máxima",
+              "answer": "CM"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Da voces como una gallina",
+              "answer": "CACAREA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Vagas, sutiles, vaporosas",
+              "answer": "ETEREAS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Cloruro sódico",
+              "answer": "SAL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Crear en el pensamiento",
+              "answer": "IDEAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Arma tradicional del Bojutsu",
+              "answer": "BO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Simulas, emulas",
+              "answer": "IMITAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Zapatillas que continúan sirviendo",
+              "answer": "DURADERAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Madre de la reina Isabel I (2p)",
+              "answer": "ANABOLENA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Regalar sangre",
+              "answer": "DONAR"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Sortee",
+              "answer": "RIFE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "La cara de un edificio",
+              "answer": "FACHADA"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Sábalo, pez marino de la misma familia que la sardina",
+              "answer": "TRISA"
+            },
+            "19": {
+              "col": 3,
+              "row": 3,
+              "clue": "\"Tirar un…\", ayuda que se presta a alguien",
+              "answer": "CABLE"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Salgo pirada",
+              "answer": "CORRO"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Recto, justo",
+              "answer": "ECUO"
+            },
+            "28": {
+              "col": 1,
+              "row": 6,
+              "clue": "Trabajadora que arregla prendas de vestir",
+              "answer": "COSTURERA"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "Trabajador que extrae la leche de la vaca",
+              "answer": "ORDEÑADOR"
+            },
+            "30": {
+              "col": 7,
+              "row": 6,
+              "clue": "Código IATA del Aeropuerto de Craiova, Rumania",
+              "answer": "CRA"
+            },
+            "32": {
+              "col": 14,
+              "row": 6,
+              "clue": "Un objeto, cuando es de gran valor o importancia",
+              "answer": "VALIOSO"
+            },
+            "34": {
+              "col": 6,
+              "row": 7,
+              "clue": "Derramó todas sus lágrimas",
+              "answer": "LLORO"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Cautiva, retenida",
+              "answer": "PRESA"
+            },
+            "37": {
+              "col": 4,
+              "row": 8,
+              "clue": "General, universal y que lo comprende todo en su especie",
+              "answer": "TOTAL"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "Voz usada para dejar en suspenso el discurso",
+              "answer": "EJEM"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "Desarma la veranda por enrollar una cuerda",
+              "answer": "DEVANAR"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "El lobo aullaba",
+              "answer": "OTILABA"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Adelanta a sus rivales",
+              "answer": "REBASA"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ventana emergente, en una página web",
+              "answer": "POPUP"
+            },
+            "45": {
+              "col": 7,
+              "row": 10,
+              "clue": "Os",
+              "answer": "OSMIO"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "Aderezo una carne",
+              "answer": "ADOBO"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Provee, da",
+              "answer": "DOTA"
+            },
+            "53": {
+              "col": 8,
+              "row": 12,
+              "clue": "Gas esparcido en Asgard",
+              "answer": "ASG"
+            },
+            "56": {
+              "col": 5,
+              "row": 13,
+              "clue": "Albert Espinosa, escritor y dramaturgo",
+              "answer": "AE"
+            },
+            "57": {
+              "col": 6,
+              "row": 13,
+              "clue": "Decilitro",
+              "answer": "DL"
+            },
+            "58": {
+              "col": 11,
+              "row": 13,
+              "clue": "Tema central",
+              "answer": "EM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Principio para no dejar de lado a nadie por sus capacidades físicas o cognitivas",
+              "answer": "ACCESIBILIDAD"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Martillero, persona que subasta",
+              "answer": "REMATADOR"
+            },
+            "14": {
+              "col": 11,
+              "row": 1,
+              "clue": "Terminando de leer a Miguel de Unamuno",
+              "answer": "MUNO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Una figura pequeña",
+              "answer": "FIG"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Cuide, vigile",
+              "answer": "CELE"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Lanzan en dirección determinada",
+              "answer": "TIRAN"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Enfocar",
+              "answer": "AFOCAR"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Elegía correctamente, daba en el clavo",
+              "answer": "ACERTABA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Comeré por la noche",
+              "answer": "CENARE"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Recipiente para brindarle agua vaporizada a las plantas",
+              "answer": "ROCIADOR"
+            },
+            "25": {
+              "col": 3,
+              "row": 5,
+              "clue": "\"Mr…\", personaje británico, simpático y muy torpe",
+              "answer": "BEAN"
+            },
+            "26": {
+              "col": 8,
+              "row": 5,
+              "clue": "Baterista virtual de la banda Gorillaz",
+              "answer": "RUSSEL"
+            },
+            "27": {
+              "col": 0,
+              "row": 6,
+              "clue": "Unes, juntas, abrazas",
+              "answer": "ACOLAS"
+            },
+            "30": {
+              "col": 7,
+              "row": 6,
+              "clue": "Canta como una rana",
+              "answer": "CROA"
+            },
+            "31": {
+              "col": 12,
+              "row": 6,
+              "clue": "Un poco revuelto",
+              "answer": "REV"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tosté ligeramente algo de comer",
+              "answer": "DORE"
+            },
+            "34": {
+              "col": 6,
+              "row": 7,
+              "clue": "Lunar Reconnaissance Orbiter (siglas)",
+              "answer": "LRO"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Tela gruesa con pequeños canales verticales",
+              "answer": "PANA"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Das por error",
+              "answer": "ASD"
+            },
+            "37": {
+              "col": 4,
+              "row": 8,
+              "clue": "Estructura de hilo para elaborar ropa",
+              "answer": "TELA"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "Región del cuerpo humano",
+              "answer": "DORSAL"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Infusión originaria de la zona de Pu'er, China (2p)",
+              "answer": "TEROJO"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Siete menos I",
+              "answer": "SETE"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Fastidioso, engorroso, inaguantable",
+              "answer": "PUÑETERO"
+            },
+            "46": {
+              "col": 9,
+              "row": 10,
+              "clue": "Pasaporte acreditado",
+              "answer": "VISADO"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Rezábamos todos juntos",
+              "answer": "ORABAMOS"
+            },
+            "50": {
+              "col": 9,
+              "row": 11,
+              "clue": "Los pegasos son caballos…",
+              "answer": "ALADOS"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Motor de la bici",
+              "answer": "PEDAL"
+            },
+            "52": {
+              "col": 7,
+              "row": 12,
+              "clue": "Alimento enviado por Dios",
+              "answer": "MANA"
+            },
+            "54": {
+              "col": 12,
+              "row": 12,
+              "clue": "Especie de lechuza",
+              "answer": "OTO"
+            },
+            "55": {
+              "col": 0,
+              "row": 13,
+              "clue": "Bóvidos salvajes muy parecidos a  los toros, extintos en 1627",
+              "answer": "UROS"
+            },
+            "56": {
+              "col": 5,
+              "row": 13,
+              "clue": "Capital de Etiopía",
+              "answer": "ADISABEBA"
+            },
+            "59": {
+              "col": 0,
+              "row": 14,
+              "clue": "Geometría Cuadrilátero cuyos lados opuestos son paralelos entre sí",
+              "answer": "PARALELOGRAMO"
+            }
+          }
+        },
+        "vertical_clues": "1-GOT 1º rey de los 7 Reinos, fundador de la dinastía Targaryen\r\n2-Capacidad Máxima\r\n3-Da voces como una gallina\r\n4-Vagas, sutiles, vaporosas\r\n5-Cloruro sódico\r\n6-Crear en el pensamiento\r\n7-Arma tradicional del Bojutsu\r\n8-Andar, marchar\r\n9-Simulas, emulas\r\n10-Zapatillas que continúan sirviendo\r\n11-Madre de la reina Isabel I (2p)\r\n12-Regalar sangre\r\n13-Sortee\r\n15-La cara de un edificio\r\n17-Sábalo, pez marino de la misma familia que la sardina\r\n19-\"Tirar un…\", ayuda que se presta a alguien\r\n21-Salgo pirada\r\n22-Recto, justo\r\n28-Trabajadora que arregla prendas de vestir\r\n29-Trabajador que extrae la leche de la vaca\r\n30-Código IATA del Aeropuerto de Craiova, Rumania\r\n32-Un objeto, cuando es de gran valor o importancia\r\n34-Derramó todas sus lágrimas\r\n35-Cautiva, retenida\r\n37-General, universal y que lo comprende todo en su especie\r\n38-Voz usada para dejar en suspenso el discurso\r\n39-Desarma la veranda por enrollar una cuerda\r\n40-El lobo aullaba\r\n42-Adelanta a sus rivales\r\n44-Ventana emergente, en una página web\r\n45-Os\r\n47-Aderezo una carne\r\n48-Provee, da\r\n53-Gas esparcido en Asgard\r\n56-Albert Espinosa, escritor y dramaturgo\r\n57-Decilitro\r\n58-Tema central",
+        "horizontal_clues": "1-Principio para no dejar de lado a nadie por sus capacidades físicas o cognitivas\r\n13-Martillero, persona que subasta\r\n14-Terminando de leer a Miguel de Unamuno\r\n15-Una figura pequeña\r\n16-Cuide, vigile\r\n17-Lanzan en dirección determinada\r\n18-Enfocar\r\n20-Elegía correctamente, daba en el clavo\r\n23-Comeré por la noche\r\n24-Recipiente para brindarle agua vaporizada a las plantas\r\n25-\"Mr…\", personaje británico, simpático y muy torpe\r\n26-Baterista virtual de la banda Gorillaz\r\n27-Unes, juntas, abrazas\r\n30-Canta como una rana\r\n31-Un poco revuelto\r\n33-Tosté ligeramente algo de comer\r\n34-Lunar Reconnaissance Orbiter (siglas)\r\n35-Tela gruesa con pequeños canales verticales\r\n36-Das por error\r\n37-Estructura de hilo para elaborar ropa\r\n39-Región del cuerpo humano\r\n41-Infusión originaria de la zona de Pu'er, China (2p)\r\n43-Siete menos I\r\n44-Fastidioso, engorroso, inaguantable\r\n46-Pasaporte acreditado\r\n49-Rezábamos todos juntos\r\n50-Los pegasos son caballos…\r\n51-Motor de la bici\r\n52-Alimento enviado por Dios\r\n54-Especie de lechuza\r\n55-Bóvidos salvajes muy parecidos a  los toros, extintos en 1627\r\n56-Capital de Etiopía\r\n59-Geometría Cuadrilátero cuyos lados opuestos son paralelos entre sí",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,6,7,8,#,9,10,11,12\r\n#,13,#,#,#,#,#,#,#,#,#,14,#,#,#\r\n15,#,#,#,16,#,#,#,#,#,17,#,#,#,#\r\n18,#,#,19,#,#,#,20,21,22,#,#,#,#,#\r\n23,#,#,#,#,#,#,24,#,#,#,#,#,#,#\r\n#,#,#,25,#,#,#,#,26,#,#,#,#,#,#\r\n27,28,29,#,#,#,#,30,#,#,#,#,31,#,32\r\n33,#,#,#,#,#,34,#,#,#,#,35,#,#,#\r\n36,#,#,#,37,38,#,#,#,39,40,#,#,#,#\r\n#,41,#,42,#,#,#,#,43,#,#,#,#,#,#\r\n44,#,#,#,#,#,#,45,#,46,#,#,47,48,#\r\n49,#,#,#,#,#,#,#,#,50,#,#,#,#,#\r\n51,#,#,#,#,#,#,52,53,#,#,#,54,#,#\r\n55,#,#,#,#,56,57,#,#,#,#,58,#,#,#\r\n59,#,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

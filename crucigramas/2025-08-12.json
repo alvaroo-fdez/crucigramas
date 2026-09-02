@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3111,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-04T12:24:19.306328Z",
+      "updatedAt": "2025-08-12T22:44:39.803843Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PASARAN#SOCAVAR\r\nANAFORA#IMITARE\r\nTACITURNA#SANEA\r\nITALA#VIVENCIAL\r\nNORA#FAC#MEAD##\r\n#RADIOLOGO#RODE\r\nUR#ORR#LGTB#SES\r\nSOPRANO#MIEDOSO\r\nAJA#NILO#CAI#DS\r\nNASA#CABRONAZI#\r\n##TUPI#VAN#GABO\r\nAPOTEOSIS#POPUP\r\nPERON#PATRONAJE\r\nOPERABA#RELATAR\r\nNASALES#APILARA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Zapato con ruedas",
+              "answer": "PATIN"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "¿Trona o raja?, la de Mecano",
+              "answer": "ANATORROJA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Lo pondrá fuera",
+              "answer": "SACARA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Comerciante ambulante que trabaja con una piedra de amolar",
+              "answer": "AFILADOR"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Gira la pieza quebrada",
+              "answer": "ROTA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Islas de Indonesia",
+              "answer": "ARU"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Conocido como el unicornio marino, actualmente en peligro de extinción",
+              "answer": "NARVAL"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Marcháis en dirección contraria",
+              "answer": "SIAV"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Cálmate, respira profundo y repite este mantra conmigo…\"",
+              "answer": "OM"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo que terminó siendo el patito feo",
+              "answer": "CISNE"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Agredir, arremeter",
+              "answer": "ATACAR"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Hombre que se cree mucho mejor que los otros",
+              "answer": "VANIDOSO"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Zona marcada delante de la portería",
+              "answer": "AREA"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "La vida, cuando no es virtual",
+              "answer": "REAL"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Tipo de prisma óptico polarizador",
+              "answer": "NICOL"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Símbolo que expresa emociones en mensajes digitales",
+              "answer": "EMOTICON"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Acto íntimo entre dos personas",
+              "answer": "FORNICIO"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Rina está perdida en Teherán",
+              "answer": "IRAN"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Iniciales del autor 'Cien años de soledad'",
+              "answer": "GGM"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Hacer que algo pierda la claridad de su contorno",
+              "answer": "DESDIBUJAR"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "\"Choca… cinco\", la mano",
+              "answer": "ESOS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo gastan, lo…",
+              "answer": "USAN"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Mr…\", personaje británico, simpático y muy torpe",
+              "answer": "BEAN"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Caninos alemanes",
+              "answer": "PASTORES"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "Fenómeno atmosférico, cambio repentino de temperatura",
+              "answer": "OLA"
+            },
+            "41": {
+              "col": 11,
+              "row": 7,
+              "clue": "Línea que atraviesa dos vértices no continuos",
+              "answer": "DIAGONAL"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Muy clara",
+              "answer": "OBVIA"
+            },
+            "48": {
+              "col": 3,
+              "row": 9,
+              "clue": "Parece que Aurora es la escritora de la obra",
+              "answer": "AUTORA"
+            },
+            "50": {
+              "col": 8,
+              "row": 9,
+              "clue": "Para allanar los suelos campestres",
+              "answer": "RASTRA"
+            },
+            "51": {
+              "col": 12,
+              "row": 9,
+              "clue": "Freno de una bicicleta",
+              "answer": "ZAPATA"
+            },
+            "53": {
+              "col": 4,
+              "row": 10,
+              "clue": "Un tanto cruel",
+              "answer": "PENAL"
+            },
+            "56": {
+              "col": 14,
+              "row": 10,
+              "clue": "Ícono arquitectónico de Sídney",
+              "answer": "OPERA"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Imputa, achaca, echa la culpa",
+              "answer": "APON"
+            },
+            "58": {
+              "col": 1,
+              "row": 11,
+              "clue": "Simiente de algunas frutas",
+              "answer": "PEPA"
+            },
+            "59": {
+              "col": 6,
+              "row": 11,
+              "clue": "Establecimientos para quererse un poco",
+              "answer": "SPAS"
+            },
+            "60": {
+              "col": 10,
+              "row": 11,
+              "clue": "Un policía sin compañía",
+              "answer": "POLI"
+            },
+            "63": {
+              "col": 9,
+              "row": 12,
+              "clue": "En la petroquímica española, no ha salido el sol",
+              "answer": "REP"
+            },
+            "65": {
+              "col": 5,
+              "row": 13,
+              "clue": "El segundo plan",
+              "answer": "BE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Franquearán, cruzarán",
+              "answer": "PASARAN"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Excavar por debajo algo, dejándolo en falso",
+              "answer": "SOCAVAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Retórica Empleo de palabras o conceptos repetidos",
+              "answer": "ANAFORA"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Duplicaré, calcaré",
+              "answer": "IMITARE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Callada, silenciosa, que le molesta hablar",
+              "answer": "TACITURNA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Libera de vicios y dificultades económicas a una empresa",
+              "answer": "SANEA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "De procedencia italiana (fem)",
+              "answer": "ITALA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Relacionado con la experiencia de vida",
+              "answer": "VIVENCIAL"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Princesa de Liechtenstein",
+              "answer": "NORA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Fuerzas Aéreas Colombianas (siglas)",
+              "answer": "FAC"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Id al servicio y haced pis",
+              "answer": "MEAD"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Especialista en rayos X",
+              "answer": "RADIOLOGO"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Filmé un cortometraje",
+              "answer": "RODE"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "En la puerta de Urgencias",
+              "answer": "UR"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Premio Nobel de la Paz en 1949",
+              "answer": "ORR"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Lesbianas, Gais, Bisexuales y Transexuales",
+              "answer": "LGTB"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "España Extremo final del intestino",
+              "answer": "SES"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Voz aguda femenina en música",
+              "answer": "SOPRANO"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Que tiene miedo (masc)",
+              "answer": "MIEDOSO"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Rajar por la mitad",
+              "answer": "AJA"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "Segundo río más largo del mundo",
+              "answer": "NILO"
+            },
+            "45": {
+              "col": 9,
+              "row": 8,
+              "clue": "Me… y me hice pupa",
+              "answer": "CAI"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "Dos sin corazón",
+              "answer": "DS"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Agencia responsable del programa espacial civil de EE. UU.",
+              "answer": "NASA"
+            },
+            "49": {
+              "col": 5,
+              "row": 9,
+              "clue": "Perfil de Instagram del meme español",
+              "answer": "CABRONAZI"
+            },
+            "52": {
+              "col": 2,
+              "row": 10,
+              "clue": "Apiñé, atesté",
+              "answer": "TUPI"
+            },
+            "54": {
+              "col": 7,
+              "row": 10,
+              "clue": "Emigran a Vancouver",
+              "answer": "VAN"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "Con cariño a García Márquez",
+              "answer": "GABO"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Culminación magnífica de un espectáculo",
+              "answer": "APOTEOSIS"
+            },
+            "60": {
+              "col": 10,
+              "row": 11,
+              "clue": "Ventana emergente, en una página web",
+              "answer": "POPUP"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Apellido de expresidente argentino",
+              "answer": "PERON"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Actividad de diseñar y adaptar patrones en la industria textil",
+              "answer": "PATRONAJE"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Intervenía quirúrgicamente",
+              "answer": "OPERABA"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Narrar pero sin alterar al alertar",
+              "answer": "RELATAR"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Pertenecientes a la nariz",
+              "answer": "NASALES"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Amontonará, hará una torre de cosas",
+              "answer": "APILARA"
+            }
+          }
+        },
+        "vertical_clues": "1-Zapato con ruedas\r\n2-¿Trona o raja?, la de Mecano\r\n3-Lo pondrá fuera\r\n4-Comerciante ambulante que trabaja con una piedra de amolar\r\n5-Gira la pieza quebrada\r\n6-Islas de Indonesia\r\n7-Conocido como el unicornio marino, actualmente en peligro de extinción\r\n8-Marcháis en dirección contraria\r\n9-\"Cálmate, respira profundo y repite este mantra conmigo…\"\r\n10-Lo que terminó siendo el patito feo\r\n11-Agredir, arremeter\r\n12-Hombre que se cree mucho mejor que los otros\r\n13-Zona marcada delante de la portería\r\n14-La vida, cuando no es virtual\r\n18-Tipo de prisma óptico polarizador\r\n22-Símbolo que expresa emociones en mensajes digitales \r\n24-Acto íntimo entre dos personas\r\n27-Rina está perdida en Teherán\r\n28-Iniciales del autor 'Cien años de soledad'\r\n30-Hacer que algo pierda la claridad de su contorno\r\n31-\"Choca… cinco\", la mano\r\n32-Lo gastan, lo…\r\n35-\"Mr…\", personaje británico, simpático y muy torpe\r\n38-Caninos alemanes\r\n39-Fenómeno atmosférico, cambio repentino de temperatura\r\n41-Línea que atraviesa dos vértices no continuos\r\n44-Muy clara\r\n48-Parece que Aurora es la escritora de la obra\r\n50-Para allanar los suelos campestres\r\n51-Freno de una bicicleta\r\n53-Un tanto cruel\r\n56-Ícono arquitectónico de Sídney\r\n57-Imputa, achaca, echa la culpa\r\n58-Simiente de algunas frutas\r\n59-Establecimientos para quererse un poco\r\n60-Un policía sin compañía\r\n63-En la petroquímica española, no ha salido el sol\r\n65-El segundo plan",
+        "horizontal_clues": "1-Franquearán, cruzarán\r\n8-Excavar por debajo algo, dejándolo en falso\r\n15-Retórica Empleo de palabras o conceptos repetidos\r\n16-Duplicaré, calcaré\r\n17-Callada, silenciosa, que le molesta hablar\r\n19-Libera de vicios y dificultades económicas a una empresa\r\n20-De procedencia italiana (fem)\r\n21-Relacionado con la experiencia de vida\r\n23-Princesa de Liechtenstein\r\n24-Fuerzas Aéreas Colombianas (siglas)\r\n25-Id al servicio y haced pis\r\n26-Especialista en rayos X\r\n29-Filmé un cortometraje\r\n32-En la puerta de Urgencias\r\n33-Premio Nobel de la Paz en 1949\r\n34-Lesbianas, Gais, Bisexuales y Transexuales\r\n36-España Extremo final del intestino\r\n37-Voz aguda femenina en música\r\n40-Que tiene miedo (masc)\r\n42-Rajar por la mitad\r\n43-Segundo río más largo del mundo\r\n45-Me… y me hice pupa\r\n46-Dos sin corazón\r\n47-Agencia responsable del programa espacial civil de EE. UU.\r\n49-Perfil de Instagram del meme español\r\n52-Apiñé, atesté\r\n54-Emigran a Vancouver\r\n55-Con cariño a García Márquez\r\n57-Culminación magnífica de un espectáculo\r\n60-Ventana emergente, en una página web\r\n61-Apellido de expresidente argentino\r\n62-Actividad de diseñar y adaptar patrones en la industria textil\r\n64-Intervenía quirúrgicamente \r\n66-Narrar pero sin alterar al alertar\r\n67-Pertenecientes a la nariz\r\n68-Amontonará, hará una torre de cosas",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,8,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,#,#,#,18,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,21,#,#,22,#,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,#,#,#,#\r\n#,26,#,#,27,#,#,#,28,#,#,29,#,30,31\r\n32,#,#,33,#,#,#,34,#,#,35,#,36,#,#\r\n37,#,38,#,#,#,39,#,40,#,#,41,#,#,#\r\n42,#,#,#,43,#,#,44,#,45,#,#,#,46,#\r\n47,#,#,48,#,49,#,#,50,#,#,#,51,#,#\r\n#,#,52,#,53,#,#,54,#,#,#,55,#,#,56\r\n57,58,#,#,#,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,#,62,#,#,63,#,#,#,#,#\r\n64,#,#,#,#,65,#,#,66,#,#,#,#,#,#\r\n67,#,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

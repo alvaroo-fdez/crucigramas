@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4476,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.777281Z",
+      "updatedAt": "2025-12-30T18:40:01.850924Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-02",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CLASICISTA#CCAA\r\nHULA#AVRIL#HANG\r\nAPILARA#CORINTO\r\nDESATAR##JUSTIN\r\n##AMES#ACEITE#I\r\nMARIN#SUR#NARIZ\r\nADA#ELIXIR#RAMA\r\nTU##RETINAS##PN\r\nALPO#VILEZA#FAT\r\nREIRA#AIS#BARRE\r\nR#CAÑERO#BUFO##\r\nALOCAO##COLINDE\r\nTETILLA#ATONTAR\r\nATEO#INTRO#CORI\r\nSION#ASFIXIANTE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "País ubicado en África central, sin salida al mar",
+              "answer": "CHAD"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… Fiasco\" rapero estadounidense",
+              "answer": "LUPE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pasará la plancha a la ropa",
+              "answer": "ALISARA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Embutido hecho con carne vacuna, y carne y grasa de cerdo",
+              "answer": "SALAMI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Se ven las… pero nunca el corazón\" Rubén Blades",
+              "answer": "CARAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hijo de Ragnar Lodbrok",
+              "answer": "IVAR"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "El señor Salomón Rondón",
+              "answer": "SR"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"… tac\" se terminó el tiempo",
+              "answer": "TIC"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hospedé o aposenté",
+              "answer": "ALOJE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Contestar, replicar algo",
+              "answer": "CHISTAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Talento y capacidad que muestra alguna persona",
+              "answer": "CANTERA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Opuesto o contrario",
+              "answer": "ANTI"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Moribundo, cerca de perecer",
+              "answer": "AGONIZANTE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Mantener, guardar u observar algo",
+              "answer": "ATENER"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Es muy vil",
+              "answer": "RUIN"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Abrigo, socorro, amparo",
+              "answer": "AUXILIO"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Cabellos de los caballos",
+              "answer": "CRINES"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Sustancia que hubiera dejado a Tom sin Jerry",
+              "answer": "MATARRATAS"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Exalte, loe",
+              "answer": "ADULE"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Acorralar a alguien, bloqueando todas sus rutas de escape",
+              "answer": "SITIAR"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Número entero que no es divisible entre 2",
+              "answer": "IMPAR"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "La moneda de Bulgaria",
+              "answer": "LEV"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "\"Punta de …\", cabo de la costa atlántica en Bretaña, Francia",
+              "answer": "RAZ"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Arena gruesa y pesada",
+              "answer": "SABULO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Denominación de \"aperitivo\" en Chile",
+              "answer": "PICOTEO"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Gram Estructura formada por el sujeto, verbo y predicado",
+              "answer": "ORACION"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Pelota y pared",
+              "answer": "FRONTON"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Ofrenda a los difuntos tras el primer año de su muerte",
+              "answer": "AÑAL"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Arraiga, establece",
+              "answer": "AFINCA"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Isla mítica de la Odisea",
+              "answer": "EOLIA"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Dosis de belleza inyectable",
+              "answer": "BOTOX"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Con cariño a Leticia",
+              "answer": "LETI"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Y te digo cariño con más cariño",
+              "answer": "CARI"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Misión de la NASA para la seguridad planetaria",
+              "answer": "DART"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "Lago de EEUU y Canadá",
+              "answer": "ERIE"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Estos jeans no dan risa",
+              "answer": "ANS"
+            },
+            "63": {
+              "col": 7,
+              "row": 13,
+              "clue": "Travis Fimmel (Ragnar en Vikingos)",
+              "answer": "TF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Artista de la Edad Moderna que se regía por la estética de la Antigüedad",
+              "answer": "CLASICISTA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lo son La Rioja y Andalucía",
+              "answer": "CCAA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Danza hawaiana con un aro balanceado por las caderas",
+              "answer": "HULA"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "\"… Lavigne\", la princesa del pop punk",
+              "answer": "AVRIL"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Inst de percusión Pieza hueca de metal esferoide",
+              "answer": "HANG"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Pondrá una cosa sobre otra haciendo un montón",
+              "answer": "APILARA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Capital de Corintia (Grecia)",
+              "answer": "CORINTO"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Desenlazar una cosa de otra",
+              "answer": "DESATAR"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Primer nombre del adorado artista de las \"beliebers\"",
+              "answer": "JUSTIN"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Quieras, adores",
+              "answer": "AMES"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Líquido graso que se obtienede semillas",
+              "answer": "ACEITE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Viento que se produce en las costas mediterráneas de Francia",
+              "answer": "MARIN"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Punto cardinal",
+              "answer": "SUR"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Delatora de Pinocho",
+              "answer": "NARIZ"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo que quedó de ensalada",
+              "answer": "ADA"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Remedio maravilloso",
+              "answer": "ELIXIR"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Descendencia del tallo",
+              "answer": "RAMA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Pronombre personal, 2ª persona del singular",
+              "answer": "TU"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Tejido sensible a la luz situado en el interior del ojo (pl)",
+              "answer": "RETINAS"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Iniciales del poeta chileno, Nobel de Literatura 1971",
+              "answer": "PN"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Gigante siciliano que fue derrotado por Dionisio",
+              "answer": "ALPO"
+            },
+            "43": {
+              "col": 5,
+              "row": 8,
+              "clue": "Despreciable maldad",
+              "answer": "VILEZA"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Gordo en inglés",
+              "answer": "FAT"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Celebrará con risas",
+              "answer": "REIRA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Así está mal",
+              "answer": "AIS"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Pasa la escoba por el suelo",
+              "answer": "BARRE"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Fontanero, cuidador de tuberías",
+              "answer": "CAÑERO"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Resopló con ira, porque el bufón había perdido el norte",
+              "answer": "BUFO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Como tiene Bad Gyal a Omar Montes",
+              "answer": "ALOCAO"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Limite con otra finca",
+              "answer": "COLINDE"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "El pezón masculino",
+              "answer": "TETILLA"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Aturdir o atolondrar",
+              "answer": "ATONTAR"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Hombre al que no le interesa ninguna religión",
+              "answer": "ATEO"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Tecla que sirve para ejecutar la acción seleccionada",
+              "answer": "INTRO"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Un conejillo de indias, con mucha pasta",
+              "answer": "CORI"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Biblia La \"madre de todos los pueblos\" (Salmo 87, 2)",
+              "answer": "SION"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "Opresivo, que hace difícil la respiración",
+              "answer": "ASFIXIANTE"
+            }
+          }
+        },
+        "vertical_clues": "1-País ubicado en África central, sin salida al mar\r\n2-\"… Fiasco\" rapero estadounidense\r\n3-Pasará la plancha a la ropa\r\n4-Embutido hecho con carne vacuna, y carne y grasa de cerdo\r\n5-\"Se ven las… pero nunca el corazón\" Rubén Blades\r\n6-Hijo de Ragnar Lodbrok\r\n7-El señor Salomón Rondón\r\n8-\"… tac\" se terminó el tiempo\r\n9-Hospedé o aposenté\r\n10-Contestar, replicar algo\r\n11-Talento y capacidad que muestra alguna persona\r\n12-Opuesto o contrario\r\n13-Moribundo, cerca de perecer\r\n18-Mantener, guardar u observar algo\r\n20-Es muy vil\r\n24-Abrigo, socorro, amparo\r\n25-Cabellos de los caballos\r\n26-Sustancia que hubiera dejado a Tom sin Jerry\r\n27-Exalte, loe\r\n28-Acorralar a alguien, bloqueando todas sus rutas de escape\r\n30-Número entero que no es divisible entre 2\r\n33-La moneda de Bulgaria\r\n34-\"Punta de …\", cabo de la costa atlántica en Bretaña, Francia\r\n38-Arena gruesa y pesada\r\n41-Denominación de \"aperitivo\" en Chile\r\n42-Gram Estructura formada por el sujeto, verbo y predicado\r\n44-Pelota y pared\r\n46-Ofrenda a los difuntos tras el primer año de su muerte\r\n49-Arraiga, establece\r\n51-Isla mítica de la Odisea\r\n52-Dosis de belleza inyectable\r\n54-Con cariño a Leticia\r\n55-Y te digo cariño con más cariño\r\n56-Misión de la NASA para la seguridad planetaria\r\n57-Lago de EEUU y Canadá\r\n59-Estos jeans no dan risa\r\n63-Travis Fimmel (Ragnar en Vikingos)",
+        "horizontal_clues": "1-Artista de la Edad Moderna que se regía por la estética de la Antigüedad\r\n10-Lo son La Rioja y Andalucía\r\n14-Danza hawaiana con un aro balanceado por las caderas\r\n15-\"… Lavigne\", la princesa del pop punk\r\n16-Inst de percusión Pieza hueca de metal esferoide \r\n17-Pondrá una cosa sobre otra haciendo un montón\r\n19-Capital de Corintia (Grecia)\r\n21-Desenlazar una cosa de otra\r\n22-Primer nombre del adorado artista de las \"beliebers\"\r\n23-Quieras, adores\r\n24-Líquido graso que se obtienede semillas\r\n26-Viento que se produce en las costas mediterráneas de Francia\r\n28-Punto cardinal\r\n29-Delatora de Pinocho\r\n31-Lo que quedó de ensalada\r\n32-Remedio maravilloso\r\n35-Descendencia del tallo\r\n36-Pronombre personal, 2ª persona del singular\r\n37-Tejido sensible a la luz situado en el interior del ojo (pl)\r\n39-Iniciales del poeta chileno, Nobel de Literatura 1971\r\n40-Gigante siciliano que fue derrotado por Dionisio\r\n43-Despreciable maldad\r\n44-Gordo en inglés\r\n45-Celebrará con risas\r\n47-Así está mal\r\n48-Pasa la escoba por el suelo\r\n50-Fontanero, cuidador de tuberías\r\n52-Resopló con ira, porque el bufón había perdido el norte\r\n53-Como tiene Bad Gyal a Omar Montes\r\n55-Limite con otra finca\r\n58-El pezón masculino\r\n60-Aturdir o atolondrar\r\n61-Hombre al que no le interesa ninguna religión\r\n62-Tecla que sirve para ejecutar la acción seleccionada\r\n64-Un conejillo de indias, con mucha pasta\r\n65-Biblia La \"madre de todos los pueblos\" (Salmo 87, 2)\r\n66-Opresivo, que hace difícil la respiración",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,19,#,20,#,#,#,#\r\n21,#,#,#,#,#,#,#,#,22,#,#,#,#,#\r\n#,#,23,#,#,#,#,24,25,#,#,#,#,#,#\r\n26,27,#,#,#,#,28,#,#,#,29,#,#,30,#\r\n31,#,#,#,32,33,#,#,#,34,#,35,#,#,#\r\n36,#,#,#,37,#,#,#,#,#,38,#,#,39,#\r\n40,#,41,42,#,43,#,#,#,#,#,#,44,#,#\r\n45,#,#,#,46,#,47,#,#,#,48,49,#,#,#\r\n#,#,50,#,#,51,#,#,#,52,#,#,#,#,#\r\n53,54,#,#,#,#,#,#,55,#,#,#,#,56,57\r\n58,#,#,#,#,#,59,#,60,#,#,#,#,#,#\r\n61,#,#,#,#,62,#,63,#,#,#,64,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

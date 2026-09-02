@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1168,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-03T17:02:36.600266Z",
+      "updatedAt": "2024-11-03T17:02:36.600282Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-04",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#GRUPAL#COMODA#\r\nPREMURA#ICEBERG\r\nLABRADO#ERNESTO\r\nUFA#SUDANES#MIL\r\nRESA#OIGAS#MOSE\r\nAMASO#COG#DANTA\r\nLARINGE#ACORDAR\r\n###GEO###ROI###\r\nAPENADA#MANTECA\r\nPENAL#FRA#GALOP\r\nIKER#CABRA#LAMA\r\nLIM#CONDESA#BUG\r\nANISARA#NEURONA\r\nREGULAR#GOTERAS\r\n#SABINA#OSOSOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Unidad mínima e indivisible de la escritura de una lengua.",
+              "answer": "GRAFEMA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pasar el límite, superar.",
+              "answer": "REBASAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Un Momento para Respirar.",
+              "answer": "UMR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Puntas, espinas.",
+              "answer": "PUAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Dificultoso, laborioso trabajo.",
+              "answer": "ARDUO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Otro nombre para Electra, según Homero.",
+              "answer": "LAODICE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lugar lleno de cieno o pantanoso.",
+              "answer": "CIENAGA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Son ..., color amarillo terroso.",
+              "answer": "OCRES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"... Health\" la revista masculina más vendida del mundo.",
+              "answer": "MENS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Poco obediente.",
+              "answer": "OBE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"... Tutu\" Nobel de la Paz en 1984, por su lucha contra el Apartheid.",
+              "answer": "DESMOND"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Lo tratáis como loco porque hace arte.",
+              "answer": "ARTISTA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Múltiple, que se presenta en más de un aspecto.",
+              "answer": "PLURAL"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Anotar muchos goles.",
+              "answer": "GOLEAR"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Un poco de agobio.",
+              "answer": "AGO"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Designar, una responsabilidad por ejemplo.",
+              "answer": "ASIGNAR"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Mari tal vez mezcle su problema de pareja.",
+              "answer": "MARITAL"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Shaquille...\" exjugador de baloncesto estadounidense.",
+              "answer": "ONEAL"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "“Son…”, cueva más grande del mundo en Vietnam.",
+              "answer": "DOONG"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dios inglés.",
+              "answer": "GOD"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Código IATA del Aeropuerto de Craiova, Rumania.",
+              "answer": "CRA"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "A pilar le gusta amontonar todo.",
+              "answer": "APILAR"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Hombre natural de Pekín.",
+              "answer": "PEKINES"
+            },
+            "38": {
+              "col": 2,
+              "row": 8,
+              "clue": "Adversaria, rival.",
+              "answer": "ENEMIGA"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Se lo robará a Ana Fara.",
+              "answer": "AFANARA"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Color gris oscuro típico de uniformes militares.",
+              "answer": "MARENGO"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "Creo un plan con mucho laboreo.",
+              "answer": "ELABORO"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Lugares hippies para vivir.",
+              "answer": "COMUNAS"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Extingues la llama.",
+              "answer": "APAGAS"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Méx. Grupo de pop creado en la telenovela 'Rebelde'.",
+              "answer": "RBD"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Libro sagrado del islam.",
+              "answer": "CORAN"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Los baños.",
+              "answer": "ASEOS"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Tercera ciudad más poblada de Colombia.",
+              "answer": "CALI"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Coche, carro.",
+              "answer": "AUTO"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "Prefijo que indica posición inferior.",
+              "answer": "SUB"
+            },
+            "59": {
+              "col": 11,
+              "row": 12,
+              "clue": "Vaca, ganado.",
+              "answer": "RES"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Perteneciente o relativo al grupo.",
+              "answer": "GRUPAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Confortable, placentera.",
+              "answer": "COMODA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Necesidad de actuar con rapidez.",
+              "answer": "PREMURA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Teoría de Hemingway que alude a un témpano de hielo.",
+              "answer": "ICEBERG"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tallado, repujado, cincelado.",
+              "answer": "LABRADO"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "\"La importancia de llamarse...\" comedia de Oscar Wilde (1895).",
+              "answer": "ERNESTO"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Principal estudio de cine de Alemania en la 2GM.",
+              "answer": "UFA"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Hombre nacido en el país cuya capital es Jartum.",
+              "answer": "SUDANES"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Diez veces cien.",
+              "answer": "MIL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "¿Será que Ares reza fatal?.",
+              "answer": "RESA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Escuches.",
+              "answer": "OIGAS"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "El sistema que protege a la ciudad de Venecia, de las mareas de otoño.",
+              "answer": "MOSE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Uno, amalgamo.",
+              "answer": "AMASO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Medio cognac.",
+              "answer": "COG"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Nombre común del Tapir, el animal terrestre más grande de Sudamérica.",
+              "answer": "DANTA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Entre la tráquea y la faringe.",
+              "answer": "LARINGE"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Pactar, conciliar.",
+              "answer": "ACORDAR"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Prefijo que refiere a la tierra.",
+              "answer": "GEO"
+            },
+            "35": {
+              "col": 9,
+              "row": 7,
+              "clue": "Corté con los dientes.",
+              "answer": "ROI"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Avergonzada.",
+              "answer": "APENADA"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Grasa animal o vegetal utilizada en cocina.",
+              "answer": "MANTECA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Un tanto cruel.",
+              "answer": "PENAL"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lo que tienen en común Frank y el Fray.",
+              "answer": "FRA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Danza húngara.",
+              "answer": "GALOP"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Exportero español apodado \"El Santo\".",
+              "answer": "IKER"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Abracadabra, pata de...\".",
+              "answer": "CABRA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Budismo tibetano. Palabra que designa al maestro espiritual.",
+              "answer": "LAMA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lima gastada.",
+              "answer": "LIM"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Título nobiliario inferior al de marquesa.",
+              "answer": "CONDESA"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Fallo o error de software (voz inglesa).",
+              "answer": "BUG"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Echará anís a algo.",
+              "answer": "ANISARA"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "En Urano está perdida su única célula cerebral.",
+              "answer": "NEURONA"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Más o menos.",
+              "answer": "REGULAR"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Filtraciones de agua a través de un techo.",
+              "answer": "GOTERAS"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"Rapto de la ...\", escultura de Juan de Bolonia.",
+              "answer": "SABINA"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Con muchos huesos.",
+              "answer": "OSOSOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Unidad mínima e indivisible de la escritura de una lengua.\r\n2-Pasar el límite, superar.\r\n3-Un Momento para Respirar.\r\n4-Puntas, espinas.\r\n5-Dificultoso, laborioso trabajo.\r\n6-Otro nombre para Electra, según Homero.\r\n7-Lugar lleno de cieno o pantanoso.\r\n8-Son ..., color amarillo terroso.\r\n9-\"... Health\" la revista masculina más vendida del mundo.\r\n10-Poco obediente.\r\n11-\"... Tutu\" Nobel de la Paz en 1984, por su lucha contra el Apartheid.\r\n12-Lo tratáis como loco porque hace arte.\r\n13-Múltiple, que se presenta en más de un aspecto.\r\n15-Anotar muchos goles.\r\n20-Un poco de agobio.\r\n23-Designar, una responsabilidad por ejemplo.\r\n25-Mari tal vez mezcle su problema de pareja.\r\n27-\"Shaquille...\" exjugador de baloncesto estadounidense.\r\n29-“Son…”, cueva más grande del mundo en Vietnam.\r\n31-Dios inglés.\r\n33-Código IATA del Aeropuerto de Craiova, Rumania.\r\n36-A pilar le gusta amontonar todo.\r\n37-Hombre natural de Pekín.\r\n38-Adversaria, rival.\r\n39-Se lo robará a Ana Fara.\r\n40-Color gris oscuro típico de uniformes militares. \r\n41-Creo un plan con mucho laboreo.\r\n42-Lugares hippies para vivir.\r\n43-Extingues la llama.\r\n46-Méx. Grupo de pop creado en la telenovela 'Rebelde'.\r\n49-Libro sagrado del islam.\r\n50-Los baños.\r\n53-Tercera ciudad más poblada de Colombia.\r\n54-Coche, carro.\r\n57-Prefijo que indica posición inferior.\r\n59-Vaca, ganado.",
+        "horizontal_clues": "1-Perteneciente o relativo al grupo.\r\n7-Confortable, placentera.\r\n13-Necesidad de actuar con rapidez. \r\n14-Teoría de Hemingway que alude a un témpano de hielo.\r\n16-Tallado, repujado, cincelado.\r\n17-\"La importancia de llamarse...\" comedia de Oscar Wilde (1895).\r\n18-Principal estudio de cine de Alemania en la 2GM. \r\n19-Hombre nacido en el país cuya capital es Jartum.\r\n21-Diez veces cien.\r\n22-¿Será que Ares reza fatal?. \r\n24-Escuches.\r\n25-El sistema que protege a la ciudad de Venecia, de las mareas de otoño.\r\n26-Uno, amalgamo.\r\n28-Medio cognac.\r\n29-Nombre común del Tapir, el animal terrestre más grande de Sudamérica.\r\n30-Entre la tráquea y la faringe.\r\n32-Pactar, conciliar.\r\n34-Prefijo que refiere a la tierra.\r\n35-Corté con los dientes.\r\n36-Avergonzada.\r\n40-Grasa animal o vegetal utilizada en cocina.\r\n44-Un tanto cruel.\r\n45-Lo que tienen en común Frank y el Fray.\r\n47-Danza húngara.\r\n48-Exportero español apodado \"El Santo\". \r\n49-\"Abracadabra, pata de...\". \r\n51-Budismo tibetano. Palabra que designa al maestro espiritual.\r\n52-Lima gastada.\r\n53-Título nobiliario inferior al de marquesa.\r\n55-Fallo o error de software (voz inglesa). \r\n56-Echará anís a algo.\r\n58-En Urano está perdida su única célula cerebral.\r\n60-Más o menos.\r\n61-Filtraciones de agua a través de un techo.\r\n62-\"Rapto de la ...\", escultura de Juan de Bolonia.\r\n63-Con muchos huesos.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,19,#,#,20,#,#,#,#,21,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,28,#,#,#,29,#,#,#,#\r\n30,#,#,#,#,31,#,#,32,33,#,#,#,#,#\r\n#,#,#,34,#,#,#,#,#,35,#,#,#,#,#\r\n36,37,38,#,#,#,39,#,40,#,#,#,41,42,43\r\n44,#,#,#,#,#,45,46,#,#,47,#,#,#,#\r\n48,#,#,#,#,49,#,#,#,50,#,51,#,#,#\r\n52,#,#,#,53,#,#,#,#,#,54,#,55,#,#\r\n56,#,#,57,#,#,#,#,58,#,#,59,#,#,#\r\n60,#,#,#,#,#,#,#,61,#,#,#,#,#,#\r\n#,62,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

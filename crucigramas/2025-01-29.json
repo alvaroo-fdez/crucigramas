@@ -1,0 +1,474 @@
+{
+  "data": {
+    "id": 1570,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-27T17:03:10.615506Z",
+      "updatedAt": "2025-02-04T17:05:39.500784Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TRAPO##EPITELIO\r\nR#PEGA#TIMABA#Z\r\nOV#TURMALINA#TO\r\nMEJUNJE#STANTON\r\nPEON#OCA#A#ORFO\r\nADRIANA#ERE#AU#\r\nZONA#ANOMALOS##\r\nORA#C#I#P#O#LAP\r\n##LOCUCION#LAZA\r\n#PEPINO#TEJEDOR\r\nPURE#T#MRW#PATA\r\nANORMAL#ATERRAN\r\nPE#AERODROMO#NA\r\nI#GIRONA#NISA#D\r\nSUBSANAR##ROSCA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Golpe, batacazo, porrazo",
+              "answer": "TROMPAZO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Apocalipsis",
+              "answer": "AP"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "La cerdita novia de Porky",
+              "answer": "PETUNIA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Una de las deidades de la religión yoruba",
+              "answer": "OGUN"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Las 3 primeras etapas",
+              "answer": "ETA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Píldoras en inglés",
+              "answer": "PILS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Copiará a un artista, lo…",
+              "answer": "IMITARA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Apócope de italiana",
+              "answer": "TANA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Árbol exótico de madera muy negra",
+              "answer": "EBANO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Nota musical",
+              "answer": "LA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Capa que minimiza la radiación que llega a la corteza terrestre",
+              "answer": "OZONO"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Cantautor guatemalteco, de la canción \"Tu reputación\"",
+              "answer": "ARJONA"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Inspector, visitador, observador",
+              "answer": "VEEDOR"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "En la Meca, Nico se separa del operario",
+              "answer": "MECANICO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Parecido al queso, pero de soja",
+              "answer": "TOFU"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Trabajador agrícola contratado por día",
+              "answer": "JORNALERO"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Mover algo de un sitio a otro",
+              "answer": "TRASLADAR"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Incrustar algo en la pared, de la cocina o del baño, por ejemplo",
+              "answer": "EMPOTRAR"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Sistema de puntuación del ajedrez",
+              "answer": "ELO"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "201 en números romanos",
+              "answer": "CCI"
+            },
+            "36": {
+              "col": 13,
+              "row": 7,
+              "clue": "Acosan a una comunidad, infligiendo daños",
+              "answer": "AZOTAN"
+            },
+            "37": {
+              "col": 14,
+              "row": 7,
+              "clue": "De ningún modo, en lo más mínimo (2)",
+              "answer": "PARANADA"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Ejecutáis una intervención quirúrgica",
+              "answer": "OPERAIS"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Le echaron al pan, por ejemplo mantequilla o nocilla",
+              "answer": "UNTARON"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Científico que descubrió la Ley de la Gravitación Universal",
+              "answer": "NEWTON"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Paciente con enfermedad de Hansen",
+              "answer": "LEPROSO"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Castiga al culpado",
+              "answer": "PUNE"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Los… y las mamis\"",
+              "answer": "PAPIS"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "La Reina de Atlantis, la esposa de Acuamán",
+              "answer": "MERA"
+            },
+            "50": {
+              "col": 6,
+              "row": 11,
+              "clue": "Material de las velas",
+              "answer": "LONA"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Príncipe árabe",
+              "answer": "EMIR"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "\"…, sin esperar nada a cambio\"",
+              "answer": "DAR"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo del gigabyte",
+              "answer": "GB"
+            },
+            "59": {
+              "col": 12,
+              "row": 13,
+              "clue": "Carta de cada palo que lleva el número uno",
+              "answer": "AS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Parto con la tropa que porta el pedazo de tela viejo",
+              "answer": "TRAPO"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Tejido que recubre superficies del cuerpo",
+              "answer": "EPITELIO"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Eso combina, armoniza",
+              "answer": "PEGA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Quitaba, hurtaba con engaño",
+              "answer": "TIMABA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Original versión",
+              "answer": "OV"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Piedra semipreciosa",
+              "answer": "TURMALINA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Al final del parto",
+              "answer": "TO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "El pegamento artesanal de Jordi Cruz en Art Attack",
+              "answer": "MEJUNJE"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "\"Harry Dean…\" protagonista de 'Paris, Texas' (1984)",
+              "answer": "STANTON"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pieza de menor valía en el ajedrez",
+              "answer": "PEON"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "'De… a…, tiro porque me toca'",
+              "answer": "OCA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Pescado semejante al besugo",
+              "answer": "ORFO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"… Salcedo de la Cruz\" la prota de la novela 'Valle Salvaje'",
+              "answer": "ADRIANA"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Despido colectivo",
+              "answer": "ERE"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Dominio web para Australia",
+              "answer": "AU"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Extensión grande de terreno",
+              "answer": "ZONA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Irregulares, extraños",
+              "answer": "ANOMALOS"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ruega a Dios que me devuelvan el anillo",
+              "answer": "ORA"
+            },
+            "35": {
+              "col": 12,
+              "row": 7,
+              "clue": "Una vuelta en el circuito de Silverstone",
+              "answer": "LAP"
+            },
+            "38": {
+              "col": 2,
+              "row": 8,
+              "clue": "Forma de expresión oral empleada en medios de comunicación",
+              "answer": "LOCUCION"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Sujeta con lazo",
+              "answer": "LAZA"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Este fruto, me importa un cucumis",
+              "answer": "PEPINO"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Artesano que realiza el tejido textil",
+              "answer": "TEJEDOR"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Papilla que se hace con patatas",
+              "answer": "PURE"
+            },
+            "46": {
+              "col": 7,
+              "row": 10,
+              "clue": "Empresa española de envíos y única homologada para el transporte de animales",
+              "answer": "MRW"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Si la metes, pifias",
+              "answer": "PATA"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Parece subnormal, pero solo es anómalo",
+              "answer": "ANORMAL"
+            },
+            "51": {
+              "col": 8,
+              "row": 11,
+              "clue": "Se mueren de miedo, se…",
+              "answer": "ATERRAN"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Inic de narco colombiano apodado \"El Patrón\"",
+              "answer": "PE"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Sitio para despegue de aeronaves sin área comercial",
+              "answer": "AERODROMO"
+            },
+            "56": {
+              "col": 13,
+              "row": 12,
+              "clue": "La luna mengua hacia la izquierda",
+              "answer": "NA"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "Equipo de fútbol español de la ciudad de Gerona",
+              "answer": "GIRONA"
+            },
+            "58": {
+              "col": 9,
+              "row": 13,
+              "clue": "Villa portuguesa del Distrito de Portalegre",
+              "answer": "NISA"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Remediar el defecto",
+              "answer": "SUBSANAR"
+            },
+            "61": {
+              "col": 10,
+              "row": 14,
+              "clue": "El postre favorito del loco Óscar",
+              "answer": "ROSCA"
+            }
+          }
+        },
+        "vertical_clues": "1-Golpe, batacazo, porrazo\r\n2-Apocalipsis\r\n3-La cerdita novia de Porky\r\n4-Una de las deidades de la religión yoruba\r\n5-Las 3 primeras etapas \r\n6-Píldoras en inglés\r\n7-Copiará a un artista, lo…\r\n8-Apócope de italiana\r\n9-Árbol exótico de madera muy negra\r\n10-Nota musical\r\n11-Capa que minimiza la radiación que llega a la corteza terrestre\r\n13-Cantautor guatemalteco, de la canción \"Tu reputación\"\r\n16-Inspector, visitador, observador\r\n18-En la Meca, Nico se separa del operario\r\n19-Parecido al queso, pero de soja\r\n21-Trabajador agrícola contratado por día \r\n23-Mover algo de un sitio a otro \r\n28-Incrustar algo en la pared, de la cocina o del baño, por ejemplo\r\n29-Sistema de puntuación del ajedrez\r\n34-201 en números romanos\r\n36-Acosan a una comunidad, infligiendo daños\r\n37-De ningún modo, en lo más mínimo (2) \r\n39-Ejecutáis una intervención quirúrgica\r\n40-Le echaron al pan, por ejemplo mantequilla o nocilla\r\n41-Científico que descubrió la Ley de la Gravitación Universal\r\n42-Paciente con enfermedad de Hansen \r\n43-Castiga al culpado\r\n45-\"Los… y las mamis\"\r\n49-La Reina de Atlantis, la esposa de Acuamán\r\n50-Material de las velas\r\n52-Príncipe árabe\r\n55-\"…, sin esperar nada a cambio\"\r\n57-Símbolo del gigabyte\r\n59-Carta de cada palo que lleva el número uno",
+        "horizontal_clues": "1-Parto con la tropa que porta el pedazo de tela viejo\r\n5-Tejido que recubre superficies del cuerpo\r\n12-Eso combina, armoniza\r\n14-Quitaba, hurtaba con engaño\r\n15-Original versión\r\n17-Piedra semipreciosa\r\n19-Al final del parto\r\n20-El pegamento artesanal de Jordi Cruz en Art Attack\r\n22-\"Harry Dean…\" protagonista de 'Paris, Texas' (1984)\r\n24-Pieza de menor valía en el ajedrez\r\n25-'De… a…, tiro porque me toca'\r\n26-Pescado semejante al besugo\r\n27-\"… Salcedo de la Cruz\" la prota de la novela 'Valle Salvaje'\r\n28-Despido colectivo\r\n30-Dominio web para Australia\r\n31-Extensión grande de terreno\r\n32-Irregulares, extraños\r\n33-Ruega a Dios que me devuelvan el anillo\r\n35-Una vuelta en el circuito de Silverstone\r\n38-Forma de expresión oral empleada en medios de comunicación \r\n42-Sujeta con lazo\r\n43-Este fruto, me importa un cucumis\r\n44-Artesano que realiza el tejido textil\r\n45-Papilla que se hace con patatas\r\n46-Empresa española de envíos y única homologada para el transporte de animales\r\n47-Si la metes, pifias\r\n48-Parece subnormal, pero solo es anómalo\r\n51-Se mueren de miedo, se…\r\n53-Inic de narco colombiano apodado \"El Patrón\"\r\n54-Sitio para despegue de aeronaves sin área comercial\r\n56-La luna mengua hacia la izquierda\r\n57-Equipo de fútbol español de la ciudad de Gerona\r\n58-Villa portuguesa del Distrito de Portalegre\r\n60-Remediar el defecto\r\n61-El postre favorito del loco Óscar",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,#,#,5,6,7,8,9,10,#,11\r\n#,#,12,#,#,13,#,14,#,#,#,#,#,#,#\r\n15,16,#,17,#,#,18,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,25,#,#,#,#,#,26,#,#,#\r\n27,#,#,#,#,#,#,#,28,#,29,#,30,#,#\r\n31,#,#,#,#,32,#,#,#,#,#,#,#,#,#\r\n33,#,#,#,34,#,#,#,#,#,#,#,35,36,37\r\n#,#,38,39,#,40,#,#,#,41,#,42,#,#,#\r\n#,43,#,#,#,#,#,#,44,#,#,#,#,#,#\r\n45,#,#,#,#,#,#,46,#,#,#,47,#,#,#\r\n48,#,#,#,49,#,50,#,51,#,52,#,#,#,#\r\n53,#,#,54,#,#,#,55,#,#,#,#,#,56,#\r\n#,#,57,#,#,#,#,#,#,58,#,#,59,#,#\r\n60,#,#,#,#,#,#,#,#,#,61,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

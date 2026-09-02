@@ -1,0 +1,483 @@
+{
+  "data": {
+    "id": 866,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-05T12:18:10.850694Z",
+      "updatedAt": "2024-09-05T12:18:10.850718Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-08",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "OSCO#AVIAR#CIPO\r\nB#OCUPA#TURAN#B\r\nERMITAS#IMANTES\r\nDEBO#REINO#TEST\r\nETAS#ALTER#ALLI\r\nCETO#TIENE#SEAN\r\nENI#CONSTAR#CVA\r\nREVERSA#ERUCTAD\r\nAROMA#####GROSO\r\n###ASES#JEBE###\r\n#ODIOSO#AUYAMA#\r\nOVIL#LAGUN#SURA\r\nONG#AAS#LUD#GIN\r\nMINERVA#ACARREO\r\nASANDO###OBSESA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Me hará caso, O debe caer.",
+              "answer": "OBEDECERA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Luchador que no se rinde fácilmente.",
+              "answer": "COMBATIVO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sin oficio, vago.",
+              "answer": "OCIOSO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Por error apostará por las máquinas y artefactos.",
+              "answer": "APARATOS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "El lubricante que le va a Selina.",
+              "answer": "VASELINA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Que atañe a algo o que se atiene a lo que se expresa.",
+              "answer": "ATINENTE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Difundir noticias sin confirmar.",
+              "answer": "RUMOREAR"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Produces melodías con la voz.",
+              "answer": "CANTAS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Capacidad de razonar y comprender.",
+              "answer": "INTELECTO"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Terco y difícil de convencer.",
+              "answer": "OBSTINADO"
+            },
+            "12": {
+              "col": 4,
+              "row": 1,
+              "clue": "Inic. de la prota de 'Kill Bill' de Tarantino.",
+              "answer": "UT"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Poco razonable.",
+              "answer": "RA"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Conservar en la memoria algo.",
+              "answer": "RETENER"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Lenguas..., lo son el ruso, ucraniano, checo.",
+              "answer": "ESLAVAS"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Lo invites a la final.",
+              "answer": "ITES"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Un error indisculpable.",
+              "answer": "CRASO"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Parecido al fútbol americano, pero sin equipamiento.",
+              "answer": "RUGBY"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Misiva virtual.",
+              "answer": "EMAIL"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Haces emerger algo de la nada.",
+              "answer": "CREAS"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "Pueblo antiguo de Europa.",
+              "answer": "ESLAVO"
+            },
+            "41": {
+              "col": 6,
+              "row": 9,
+              "clue": "Asa ligeramente algo.",
+              "answer": "SOASA"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "\"... de hierro\" expresión weberiana para una sociedad rígida y despersonalizada.",
+              "answer": "JAULA"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Hombre castrado.",
+              "answer": "EUNUCO"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Esos vinos mezclados los trajeron unas naves de extraterrestres.",
+              "answer": "OVNIS"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Digan lo que digan es merecedora.",
+              "answer": "DIGNA"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "Suciedad acumulada y persistente.",
+              "answer": "MUGRE"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Signo del zodíaco con cuernos de carnero.",
+              "answer": "ARIES"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Maguro...\" luchador profesional japonés de Puroresu.",
+              "answer": "OOMA"
+            },
+            "52": {
+              "col": 14,
+              "row": 11,
+              "clue": "Búfalo de la isla Célebes.",
+              "answer": "ANOA"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Casi ardemos.",
+              "answer": "ARD"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "Pose popularizada por Pogba al celebrar un gol con la Juve.",
+              "answer": "DAB"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "El monograma de Eduardo Noriega.",
+              "answer": "EN"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo de la rupia.",
+              "answer": "RS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lengua indoeuropea hablada en la parte meridional de la península itálica.",
+              "answer": "OSCO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Gripe del pollo.",
+              "answer": "AVIAR"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Pilastra erigida en honor a un difunto.",
+              "answer": "CIPO"
+            },
+            "11": {
+              "col": 2,
+              "row": 1,
+              "clue": "Llena un espacio o lugar.",
+              "answer": "OCUPA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Diosa etrusca del amor y la fertilidad.",
+              "answer": "TURAN"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Pequeña capilla de uso esporádico (pl).",
+              "answer": "ERMITAS"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Comuniques a un cuerpo la propiedad magnética.",
+              "answer": "IMANTES"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Es gracias a él, se lo...",
+              "answer": "DEBO"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Organización política en monarquía.",
+              "answer": "REINO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Prueba psicológica.",
+              "answer": "TEST"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Enfermedades transmitidas por alimentos (siglas).",
+              "answer": "ETAS"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Cada personalidad en el TDI.",
+              "answer": "ALTER"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Ahí está la loca Lila.",
+              "answer": "ALLI"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Un boceto ya empezado.",
+              "answer": "CETO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Posee, guarda.",
+              "answer": "TIENE"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Compórtense como Connery o Penn.",
+              "answer": "SEAN"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "En medio de Kenia.",
+              "answer": "ENI"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Aparecer o quedar registrado.",
+              "answer": "CONSTAR"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Curriculum Vitae Abreviado (siglas).",
+              "answer": "CVA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Retroceso, marcha atrás.",
+              "answer": "REVERSA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Expeled los gases estomacales por la boca.",
+              "answer": "ERUCTAD"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "El olor del vino o el café.",
+              "answer": "AROMA"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Argentina. Genial, buenísimo.",
+              "answer": "GROSO"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Las cartas que coges.",
+              "answer": "ASES"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Los 4 perros feroces de Gengis Kan: \"Qubilai, Djelmé, Subotai y...\".",
+              "answer": "JEBE"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Antipático, repelente.",
+              "answer": "ODIOSO"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Calabaza, zapallo.",
+              "answer": "AUYAMA"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Establo, corral.",
+              "answer": "OVIL"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Amigo en euskera.",
+              "answer": "LAGUN"
+            },
+            "51": {
+              "col": 11,
+              "row": 11,
+              "clue": "Cada uno de los capítulos del Corán.",
+              "answer": "SURA"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Organización No Gubernamental.",
+              "answer": "ONG"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Ácido Acetilsalicílico (abrev).",
+              "answer": "AAS"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"Vautrin...\" máximo galardón en el campo de la Geografía.",
+              "answer": "LUD"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"...",
+              "answer": "GIN"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Diosa romana de la artesanía y la sabiduría.",
+              "answer": "MINERVA"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Traigo en mi carro todas las consecuencias.",
+              "answer": "ACARREO"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Abrasando, horneando.",
+              "answer": "ASANDO"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Mujer que padece obsesión.",
+              "answer": "OBSESA"
+            }
+          }
+        },
+        "vertical_clues": "1-Me hará caso, O debe caer.\r\n2-Luchador que no se rinde fácilmente. \r\n3-Sin oficio, vago.\r\n4-Por error apostará por las máquinas y artefactos.\r\n5-El lubricante que le va a Selina.\r\n6-Que atañe a algo o que se atiene a lo que se expresa.\r\n7-Difundir noticias sin confirmar. \r\n8-Produces melodías con la voz.\r\n9-Capacidad de razonar y comprender. \r\n10-Terco y difícil de convencer. \r\n12-Inic. de la prota de 'Kill Bill' de Tarantino.\r\n14-Poco razonable.\r\n16-Conservar en la memoria algo.\r\n18-Lenguas..., lo son el ruso, ucraniano, checo.\r\n21-Lo invites a la final.\r\n30-Un error indisculpable.\r\n31-Parecido al fútbol americano, pero sin equipamiento.\r\n34-Misiva virtual. \r\n36-Haces emerger algo de la nada.\r\n40-Pueblo antiguo de Europa.\r\n41-Asa ligeramente algo.\r\n42-\"... de hierro\" expresión weberiana para una sociedad rígida y despersonalizada.\r\n43-Hombre castrado.\r\n44-Esos vinos mezclados los trajeron unas naves de extraterrestres.\r\n45-Digan lo que digan es merecedora.\r\n47-Suciedad acumulada y persistente. \r\n48-Signo del zodíaco con cuernos de carnero.\r\n49-\"Maguro...\" luchador profesional japonés de Puroresu.\r\n52-Búfalo de la isla Célebes.\r\n54-Casi ardemos.\r\n56-Pose popularizada por Pogba al celebrar un gol con la Juve.\r\n59-El monograma de Eduardo Noriega.\r\n61-Símbolo de la rupia.",
+        "horizontal_clues": "1-Lengua indoeuropea hablada en la parte meridional de la península itálica.\r\n4-Gripe del pollo.\r\n8-Pilastra erigida en honor a un difunto.\r\n11-Llena un espacio o lugar.\r\n13-Diosa etrusca del amor y la fertilidad.\r\n15-Pequeña capilla de uso esporádico (pl).\r\n17-Comuniques a un cuerpo la propiedad magnética.\r\n19-Es gracias a él, se lo...\r\n20-Organización política en monarquía.\r\n22-Prueba psicológica.\r\n23-Enfermedades transmitidas por alimentos (siglas).\r\n24-Cada personalidad en el TDI.\r\n25-Ahí está la loca Lila.\r\n26-Un boceto ya empezado.\r\n27-Posee, guarda.\r\n28-Compórtense como Connery o Penn. \r\n29-En medio de Kenia.\r\n30-Aparecer o quedar registrado. \r\n32-Curriculum Vitae Abreviado (siglas). \r\n33-Retroceso, marcha atrás.\r\n35-Expeled los gases estomacales por la boca.\r\n37-El olor del vino o el café.\r\n38-Argentina. Genial, buenísimo.\r\n39-Las cartas que coges.\r\n42-Los 4 perros feroces de Gengis Kan: \"Qubilai, Djelmé, Subotai y...\". \r\n44-Antipático, repelente.\r\n46-Calabaza, zapallo.\r\n49-Establo, corral.\r\n50-Amigo en euskera.\r\n51-Cada uno de los capítulos del Corán.\r\n53-Organización No Gubernamental.\r\n54-Ácido Acetilsalicílico (abrev).\r\n55-\"Vautrin...\" máximo galardón en el campo de la Geografía.\r\n57-\"...-tonic\" Ginebra con agua tónica y bastante hielo. Salud.\r\n58-Diosa romana de la artesanía y la sabiduría.\r\n60-Traigo en mi carro todas las consecuencias.\r\n62-Abrasando, horneando.\r\n63-Mujer que padece obsesión.",
+        "board_clues_positions": "1,#,2,3,#,4,5,#,6,7,#,8,9,#,10\r\n#,#,11,#,12,#,#,#,13,#,14,#,#,#,#\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,20,#,21,#,#,#,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,#,#,31,#,32,#,#\r\n33,#,#,34,#,#,#,#,35,#,#,36,#,#,#\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,#,#\r\n#,#,#,39,#,40,41,#,42,43,#,#,#,#,#\r\n#,44,45,#,#,#,#,#,46,#,#,#,47,48,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,#,55,#,56,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

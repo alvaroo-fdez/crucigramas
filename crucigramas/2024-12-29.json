@@ -1,0 +1,526 @@
+{
+  "data": {
+    "id": 1477,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-21T13:50:55.824672Z",
+      "updatedAt": "2024-12-21T13:50:55.839594Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-29",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ABREV#METAS#PPP\r\nPUEDE#IMITO#AEI\r\nILION#TIBET#DIN\r\nPON#GEAS##APENO\r\nASI#ABDOMINALES\r\n##CENO#RABAS###\r\nSAINZ#PANA#TAPE\r\nAZAFATA#ESMERAR\r\nHORA#UÑAS#AUREA\r\n###SUYAS#ARRA##\r\nRADICALISMO#SPA\r\nAMISH##LIAM#TRE\r\nMAR#UNIAN#ERRAD\r\nPGI#VENDO#RUANA\r\nAOA#ATEOS#OTRAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Se llena la panza con exceso de comida",
+              "answer": "APIPA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Los falsos rumores de internet",
+              "answer": "BULOS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Volver a poner en marcha un ordenador",
+              "answer": "REINICIAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Un microestado",
+              "answer": "EDO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Deseo de devolver un daño recibido",
+              "answer": "VENGANZA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Mi media naranja, mi otra…",
+              "answer": "MITAD"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Empresa de radiodifusión",
+              "answer": "EMISORA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Informática Unidad de información utilizada como un múltiplo del byte (siglas)",
+              "answer": "TIB"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Media Atenas",
+              "answer": "ATE"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vestidura talar que usan los eclesiásticos",
+              "answer": "SOTANA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Deporte en pareja, con palas, pista, pelota y pared",
+              "answer": "PADEL"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Tipo de cargador o tambor de un arma de fuego",
+              "answer": "PEINE"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Los ponis están desquiciados con los abetos",
+              "answer": "PINOS"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "\"Vall de…\", se pueden visitar las cuevas del Rull y Fosca",
+              "answer": "EBO"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "Químico francés que inventó la pasteurización (1822",
+              "answer": "PASTEUR"
+            },
+            "27": {
+              "col": 8,
+              "row": 4,
+              "clue": "Sombras o almas de los muertos",
+              "answer": "MANES"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Te trasladabas",
+              "answer": "IBAS"
+            },
+            "30": {
+              "col": 3,
+              "row": 5,
+              "clue": "Hacer hincapié en algo, poner…",
+              "answer": "ENFASIS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Título que se daba al rey de Persia",
+              "answer": "SAH"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Pedazo de brazo",
+              "answer": "AZO"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Mejor que sea de tela, aunque haya que lavarlo a mano",
+              "answer": "PAÑAL"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Llevar a alguien por el suelo",
+              "answer": "ARRASTRAR"
+            },
+            "37": {
+              "col": 13,
+              "row": 6,
+              "clue": "Puntos de Atención al Emprendedor",
+              "answer": "PAE"
+            },
+            "38": {
+              "col": 14,
+              "row": 6,
+              "clue": "La mesozoica o la paleozoica",
+              "answer": "ERA"
+            },
+            "40": {
+              "col": 5,
+              "row": 7,
+              "clue": "De tu propiedad (fem)",
+              "answer": "TUYA"
+            },
+            "42": {
+              "col": 10,
+              "row": 7,
+              "clue": "Artista circense especializado en equilibrios",
+              "answer": "MAROMERO"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Acogido por motivos políticos",
+              "answer": "ASILADO"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "Fruta exótica colombiana también conocida como fisalis",
+              "answer": "UCHUVA"
+            },
+            "49": {
+              "col": 9,
+              "row": 9,
+              "clue": "Quiere intensamente",
+              "answer": "AMA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Plano inclinado",
+              "answer": "RAMPA"
+            },
+            "51": {
+              "col": 1,
+              "row": 10,
+              "clue": "Hago ademán de herir o golpear",
+              "answer": "AMAGO"
+            },
+            "52": {
+              "col": 2,
+              "row": 10,
+              "clue": "Manifestaría con palabras",
+              "answer": "DIRIA"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Hados, destinos",
+              "answer": "SINOS"
+            },
+            "55": {
+              "col": 13,
+              "row": 10,
+              "clue": "Hinduismo Energía vital que conecta todo lo que hay en el universo",
+              "answer": "PRANA"
+            },
+            "56": {
+              "col": 14,
+              "row": 10,
+              "clue": "Cantores épicos de la antigua Grecia",
+              "answer": "AEDAS"
+            },
+            "62": {
+              "col": 5,
+              "row": 12,
+              "clue": "Dominio genérico de Internet",
+              "answer": "NET"
+            },
+            "63": {
+              "col": 6,
+              "row": 12,
+              "clue": "Camine por su derecha",
+              "answer": "INE"
+            },
+            "65": {
+              "col": 11,
+              "row": 12,
+              "clue": "Antiguo Testamento Bisabuela del rey David",
+              "answer": "RUT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pequeña abreviatura",
+              "answer": "ABREV"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Encajones tus objetivos",
+              "answer": "METAS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Punto Por Pulgada o dpi, para imágenes impresas",
+              "answer": "PPP"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Tiene la posibilidad",
+              "answer": "PUEDE"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Remedó, plagió, duplicó",
+              "answer": "IMITO"
+            },
+            "16": {
+              "col": 12,
+              "row": 1,
+              "clue": "Las primeras vocales",
+              "answer": "AEI"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Hueso de la cadera",
+              "answer": "ILION"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Región natal del Dalai Lama",
+              "answer": "TIBET"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Formato alemán que establece los tamaños del papel",
+              "answer": "DIN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"Pin…\", se lava su carita con agua y con jabón",
+              "answer": "PON"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Grupo Especial de Actividades Subacuáticas",
+              "answer": "GEAS"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Inicialmente Ángel Pensó En Nunca Olvidarla porque se entristeció",
+              "answer": "APENO"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "De esta manera",
+              "answer": "ASI"
+            },
+            "26": {
+              "col": 4,
+              "row": 4,
+              "clue": "Ejercicios para fortalecer el core",
+              "answer": "ABDOMINALES"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Hago la última ingesta a las once",
+              "answer": "CENO"
+            },
+            "31": {
+              "col": 7,
+              "row": 5,
+              "clue": "Calamares fritos, a la romana",
+              "answer": "RABAS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Carlos…\" considerado mejor piloto español de rally de la historia",
+              "answer": "SAINZ"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Tela gruesa con pequeños canales verticales",
+              "answer": "PANA"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Cerré el táper",
+              "answer": "TAPE"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tripulante que atiende a los pasajeros (fem)",
+              "answer": "AZAFATA"
+            },
+            "41": {
+              "col": 8,
+              "row": 7,
+              "clue": "Poner cuidado y atención en hacer algo bien",
+              "answer": "ESMERAR"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "3600 segundos",
+              "answer": "HORA"
+            },
+            "44": {
+              "col": 5,
+              "row": 8,
+              "clue": "Garras humanas",
+              "answer": "UÑAS"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "Relativa al oro",
+              "answer": "AUREA"
+            },
+            "47": {
+              "col": 3,
+              "row": 9,
+              "clue": "Pertenecientes a ella",
+              "answer": "SUYAS"
+            },
+            "49": {
+              "col": 9,
+              "row": 9,
+              "clue": "Prenda dada como garantía de contrato",
+              "answer": "ARRA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Doctrina que busca cambios profundos y rápidos",
+              "answer": "RADICALISMO"
+            },
+            "54": {
+              "col": 12,
+              "row": 10,
+              "clue": "Local de salud y belleza",
+              "answer": "SPA"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Grupo etnorreligioso protestante que no usa electricidad",
+              "answer": "AMISH"
+            },
+            "58": {
+              "col": 7,
+              "row": 11,
+              "clue": "\"… Payne\" uno de los One Direction (1993/2024)",
+              "answer": "LIAM"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "Tres incompletos",
+              "answer": "TRE"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "El lugar de las sirenas, surfistas y marineros",
+              "answer": "MAR"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "Se juntaban",
+              "answer": "UNIAN"
+            },
+            "64": {
+              "col": 10,
+              "row": 12,
+              "clue": "Andad vagando de una parte a otra",
+              "answer": "ERRAD"
+            },
+            "66": {
+              "col": 0,
+              "row": 13,
+              "clue": "España Partido Gallego Independiente (siglas)",
+              "answer": "PGI"
+            },
+            "67": {
+              "col": 4,
+              "row": 13,
+              "clue": "No tengo precio, ni me alquilo ni me…",
+              "answer": "VENDO"
+            },
+            "68": {
+              "col": 10,
+              "row": 13,
+              "clue": "Tipo de poncho hecho de lana",
+              "answer": "RUANA"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Ahora aloha va sin consonantes",
+              "answer": "AOA"
+            },
+            "70": {
+              "col": 4,
+              "row": 14,
+              "clue": "Ni con Dios ni con el diablo, a ellos les da igual",
+              "answer": "ATEOS"
+            },
+            "71": {
+              "col": 10,
+              "row": 14,
+              "clue": "Diferentes a estas",
+              "answer": "OTRAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Se llena la panza con exceso de comida\r\n2-Los falsos rumores de internet\r\n3-Volver a poner en marcha un ordenador \r\n4-Un microestado\r\n5-Deseo de devolver un daño recibido \r\n6-Mi media naranja, mi otra…\r\n7-Empresa de radiodifusión\r\n8-Informática Unidad de información utilizada como un múltiplo del byte (siglas)\r\n9-Media Atenas\r\n10-Vestidura talar que usan los eclesiásticos\r\n11-Deporte en pareja, con palas, pista, pelota y pared\r\n12-Tipo de cargador o tambor de un arma de fuego\r\n13-Los ponis están desquiciados con los abetos\r\n22-\"Vall de…\", se pueden visitar las cuevas del Rull y Fosca\r\n24-Químico francés que inventó la pasteurización (1822-1895) \r\n27-Sombras o almas de los muertos\r\n28-Te trasladabas\r\n30-Hacer hincapié en algo, poner…\r\n32-Título que se daba al rey de Persia\r\n33-Pedazo de brazo\r\n34-Mejor que sea de tela, aunque haya que lavarlo a mano\r\n36-Llevar a alguien por el suelo\r\n37-Puntos de Atención al Emprendedor\r\n38-La mesozoica o la paleozoica\r\n40-De tu propiedad (fem)\r\n42-Artista circense especializado en equilibrios \r\n45-Acogido por motivos políticos\r\n48-Fruta exótica colombiana también conocida como fisalis \r\n49-Quiere intensamente\r\n50-Plano inclinado\r\n51-Hago ademán de herir o golpear\r\n52-Manifestaría con palabras\r\n53-Hados, destinos\r\n55-Hinduismo Energía vital que conecta todo lo que hay en el universo\r\n56-Cantores épicos de la antigua Grecia\r\n62-Dominio genérico de Internet\r\n63-Camine por su derecha\r\n65-Antiguo Testamento Bisabuela del rey David\r\n",
+        "horizontal_clues": "1-Pequeña abreviatura\r\n6-Encajones tus objetivos\r\n11-Punto Por Pulgada o dpi, para imágenes impresas\r\n14-Tiene la posibilidad\r\n15-Remedó, plagió, duplicó \r\n16-Las primeras vocales\r\n17-Hueso de la cadera\r\n18-Región natal del Dalai Lama \r\n19-Formato alemán que establece los tamaños del papel\r\n20-\"Pin…\", se lava su carita con agua y con jabón\r\n21-Grupo Especial de Actividades Subacuáticas \r\n23-Inicialmente Ángel Pensó En Nunca Olvidarla porque se entristeció\r\n25-De esta manera\r\n26-Ejercicios para fortalecer el core \r\n29-Hago la última ingesta a las once\r\n31-Calamares fritos, a la romana\r\n32-\"Carlos…\" considerado mejor piloto español de rally de la historia\r\n34-Tela gruesa con pequeños canales verticales\r\n35-Cerré el táper\r\n39-Tripulante que atiende a los pasajeros (fem)\r\n41-Poner cuidado y atención en hacer algo bien \r\n43-3600 segundos\r\n44-Garras humanas\r\n46-Relativa al oro\r\n47-Pertenecientes a ella \r\n49-Prenda dada como garantía de contrato\r\n50-Doctrina que busca cambios profundos y rápidos \r\n54-Local de salud y belleza\r\n57-Grupo etnorreligioso protestante que no usa electricidad\r\n58-\"… Payne\" uno de los One Direction (1993/2024) \r\n59-Tres incompletos\r\n60-El lugar de las sirenas, surfistas y marineros\r\n61-Se juntaban\r\n64-Andad vagando de una parte a otra\r\n66-España Partido Gallego Independiente (siglas)\r\n67-No tengo precio, ni me alquilo ni me…\r\n68-Tipo de poncho hecho de lana\r\n69-Ahora aloha va sin consonantes\r\n70-Ni con Dios ni con el diablo, a ellos les da igual\r\n71-Diferentes a estas\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,10,#,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,#,#,16,#,#\r\n17,#,#,#,#,#,18,#,#,#,#,#,19,#,#\r\n20,#,#,#,21,22,#,#,#,#,23,24,#,#,#\r\n25,#,#,#,26,#,#,#,27,28,#,#,#,#,#\r\n#,#,29,30,#,#,#,31,#,#,#,#,#,#,#\r\n32,33,#,#,#,#,34,#,#,#,#,35,36,37,38\r\n39,#,#,#,#,40,#,#,41,#,42,#,#,#,#\r\n43,#,#,#,#,44,#,45,#,#,46,#,#,#,#\r\n#,#,#,47,48,#,#,#,#,49,#,#,#,#,#\r\n50,51,52,#,#,#,#,#,53,#,#,#,54,55,56\r\n57,#,#,#,#,#,#,58,#,#,#,#,59,#,#\r\n60,#,#,#,61,62,63,#,#,#,64,65,#,#,#\r\n66,#,#,#,67,#,#,#,#,#,68,#,#,#,#\r\n69,#,#,#,70,#,#,#,#,#,71,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

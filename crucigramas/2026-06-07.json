@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6171,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-07T01:11:04.416867Z",
+      "updatedAt": "2026-06-07T01:12:02.105526Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-07",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "U#GRABADOR#PATA\r\nIPA#CAVAD#ALTA#\r\nCIUDADELA#GAMBA\r\nNADIE#SISMICO#F\r\n#FIACA###ATASCO\r\nE##CENAGOSO#FON\r\nFOCO#AGUJA#DEMI\r\nIRON#GN#EC#ERIC\r\nCELO#RULAR#VACA\r\nAJA#RASURADO##S\r\nCAPCOM###NEREA#\r\nI#SOLAPEN#HENRI\r\nAMARE#ELEMENTAL\r\n#CRIS#LEGAS#ROE\r\nXMEN#RISOTADA#O",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La organización medioambiental más grande del mundo (siglas)",
+              "answer": "UICN"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Obras de Antonio …\", Patrimonio de la Humanidad en Cataluña",
+              "answer": "GAUDI"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Sucede, acontece",
+              "answer": "ACAECE"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Álbum de Michael Jackson que en realidad es muy bueno",
+              "answer": "BAD"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Objeto de estudio de la ornitología",
+              "answer": "AVES"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Del surrealismo, el salvador",
+              "answer": "DALI"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Poesías",
+              "answer": "ODAS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Plancha de metal",
+              "answer": "PLACA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Malas metáforas para describir el ambiente",
+              "answer": "ATMOSFERA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Informática: Tecla tabuladora",
+              "answer": "TAB"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Cantante francesa más célebre del siglo XX",
+              "answer": "PIAF"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Movió con fuerza",
+              "answer": "AGITO"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Con el tercer grado de la jerarquía eclesiástica",
+              "answer": "DIACONO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Mujeres sin voz",
+              "answer": "AFONICAS"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Cometen matanza humana o asesinatos colectivos",
+              "answer": "MASACRAN"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Amagarán al formar otra palabra con esas letras",
+              "answer": "ANAGRAMA"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Revista de caricaturas",
+              "answer": "COMIC"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Capacidad de hacer bien las tareas asignadas",
+              "answer": "EFICACIA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"… Dei\" cordero de Dios",
+              "answer": "AGNUS"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Guía incompleta",
+              "answer": "GU"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Mirar por encima un texto",
+              "answer": "OJEAR"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Se la quitó Van Gogh",
+              "answer": "OREJA"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Trancaré, obstruiré",
+              "answer": "COLAPSARE"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Coman con ansia, rápidamente",
+              "answer": "DEVOREN"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Un poco lujoso",
+              "answer": "LU"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Los papeles que interpretamos en la sociedad",
+              "answer": "ROLES"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Tierra para criar a los potros separados de las madres",
+              "answer": "DEHESA"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "\"… Tellado\", la dama de la novela rosa",
+              "answer": "CORIN"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Ingresa, ya pagaste la renta",
+              "answer": "ENTRA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Ave caradriforme de la familia Alcidae, nativa de Europa",
+              "answer": "ARAO"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Una pequeña película",
+              "answer": "PELI"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Llllllll",
+              "answer": "ELES"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Declaró no haber dicho eso, lo…",
+              "answer": "NEGO"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Enfermedad que retuerce las asas intestinales",
+              "answer": "ILEO"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Mínimo común múltiplo",
+              "answer": "MCM"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Casi lo mato",
+              "answer": "MAT"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dispositivo electrónico que registra datos en un soporte físico",
+              "answer": "GRABADOR"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Si la metes, pifias",
+              "answer": "PATA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Formato de archivos utilizado para las aplicaciones de Apple",
+              "answer": "IPA"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Ahondad, penetrad",
+              "answer": "CAVAD"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Autorización médica para salir de una clínica",
+              "answer": "ALTA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Recinto fortificado en una población",
+              "answer": "CIUDADELA"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "España Camarón",
+              "answer": "GAMBA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"… es perfecto\" la clásica excusa, trillado argumento",
+              "answer": "NADIE"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Telúrico, el movimiento",
+              "answer": "SISMICO"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Uruguay: Hambre, gana y necesidad de comer",
+              "answer": "FIACA"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Embotellamiento, tráfico",
+              "answer": "ATASCO"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Pantanoso, fangoso, lodoso",
+              "answer": "CENAGOSO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "En el fondo del garrafón",
+              "answer": "FON"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lámpara eléctrica de luz muy potente concentrada en una dirección",
+              "answer": "FOCO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "La belonefobia, el miedo a la…",
+              "answer": "AGUJA"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "La prota de la película \"Ghost\" (1990)",
+              "answer": "DEMI"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Regrésame el alga del sushi y pon el hierro inglés",
+              "answer": "IRON"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Abreviatura de Génesis, primer libro del Antiguo Testamento",
+              "answer": "GN"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Inic Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'",
+              "answer": "EC"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… Clapton\" cantante y compositor de rock y blues británico",
+              "answer": "ERIC"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Cuidado que alguien pone al hacer algo",
+              "answer": "CELO"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Girar, rodar",
+              "answer": "RULAR"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "La que dijo mu",
+              "answer": "VACA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Voz usada para denotar aprobación",
+              "answer": "AJA"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Afeitado, depilado, rapado",
+              "answer": "RASURADO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Empresa de videojuegos creadora de \"Mega Man\" y \"Resident Evil\"",
+              "answer": "CAPCOM"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Maldita…\" cantando el 'Secreto de laS tortugas'",
+              "answer": "NEREA"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Oculten disimuladamente las consecuencias",
+              "answer": "SOLAPEN"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"… Cartier Bresson \" el padre del periodismo fotográfico (1908",
+              "answer": "HENRI"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Tendré cariño por alguien",
+              "answer": "AMARE"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "La base de todo, lo más simple de la materia",
+              "answer": "ELEMENTAL"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "La crisis aún no termina",
+              "answer": "CRIS"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Dejas conocimiento a las futuras generaciones",
+              "answer": "LEGAS"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Corta con los dientes",
+              "answer": "ROE"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Marvel: Grupo de mutantes creado por el Profesor X",
+              "answer": "XMEN"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Estallido de hilaridad, carcajada",
+              "answer": "RISOTADA"
+            }
+          }
+        },
+        "vertical_clues": "1-La organización medioambiental más grande del mundo (siglas)\r\n2-\"Obras de Antonio …\", Patrimonio de la Humanidad en Cataluña\r\n3-Sucede, acontece\r\n4-Álbum de Michael Jackson que en realidad es muy bueno\r\n5-Objeto de estudio de la ornitología\r\n6-Del surrealismo, el salvador\r\n7-Poesías\r\n8-Plancha de metal\r\n9-Malas metáforas para describir el ambiente\r\n10-Informática: Tecla tabuladora\r\n12-Cantante francesa más célebre del siglo XX\r\n14-Movió con fuerza\r\n16-Con el tercer grado de la jerarquía eclesiástica\r\n18-Mujeres sin voz\r\n21-Cometen matanza humana o asesinatos colectivos\r\n23-Amagarán al formar otra palabra con esas letras\r\n25-Revista de caricaturas\r\n26-Capacidad de hacer bien las tareas asignadas\r\n28-\"… Dei\" cordero de Dios\r\n29-Guía incompleta\r\n30-Mirar por encima un texto\r\n33-Se la quitó Van Gogh\r\n34-Trancaré, obstruiré\r\n36-Coman con ansia, rápidamente\r\n43-Un poco lujoso\r\n46-Los papeles que interpretamos en la sociedad\r\n47-Tierra para criar a los potros separados de las madres\r\n49-\"… Tellado\", la dama de la novela rosa\r\n51-Ingresa, ya pagaste la renta\r\n52-Ave caradriforme de la familia Alcidae, nativa de Europa\r\n54-Una pequeña película\r\n55-Llllllll\r\n56-Declaró no haber dicho eso, lo…\r\n58-Enfermedad que retuerce las asas intestinales\r\n60-Mínimo común múltiplo\r\n62-Casi lo mato",
+        "horizontal_clues": "2-Dispositivo electrónico que registra datos en un soporte físico \r\n8-Si la metes, pifias\r\n11-Formato de archivos utilizado para las aplicaciones de Apple\r\n13-Ahondad, penetrad\r\n14-Autorización médica para salir de una clínica\r\n15-Recinto fortificado en una población \r\n17-España Camarón\r\n19-\"… es perfecto\" la clásica excusa, trillado argumento\r\n20-Telúrico, el movimiento\r\n22-Uruguay: Hambre, gana y necesidad de comer\r\n24-Embotellamiento, tráfico\r\n27-Pantanoso, fangoso, lodoso \r\n31-En el fondo del garrafón\r\n32-Lámpara eléctrica de luz muy potente concentrada en una dirección\r\n35-La belonefobia, el miedo a la…\r\n36-La prota de la película \"Ghost\" (1990)\r\n37-Regrésame el alga del sushi y pon el hierro inglés\r\n38-Abreviatura de Génesis, primer libro del Antiguo Testamento\r\n39-Inic Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'\r\n40-\"… Clapton\" cantante y compositor de rock y blues británico\r\n41-Cuidado que alguien pone al hacer algo\r\n42-Girar, rodar\r\n44-La que dijo mu\r\n45-Voz usada para denotar aprobación\r\n46-Afeitado, depilado, rapado \r\n48-Empresa de videojuegos creadora de \"Mega Man\" y \"Resident Evil\"\r\n50-\"Maldita…\" cantando el 'Secreto de laS tortugas'\r\n53-Oculten disimuladamente las consecuencias\r\n57-\"… Cartier Bresson \" el padre del periodismo fotográfico (1908-2004)\r\n59-Tendré cariño por alguien\r\n61-La base de todo, lo más simple de la materia\r\n63-La crisis aún no termina\r\n64-Dejas conocimiento a las futuras generaciones\r\n65-Corta con los dientes\r\n66-Marvel: Grupo de mutantes creado por el Profesor X\r\n67-Estallido de hilaridad, carcajada",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

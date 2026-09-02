@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4597,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-21T12:51:43.911234Z",
+      "updatedAt": "2026-01-21T12:54:19.675917Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-24",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EFICACIA#POCIMA\r\nDI#TRANCE#RETAR\r\nIBM#DEFALCABA#G\r\nCREP#RUBEOLA#VA\r\nTASE#SLASH##MOM\r\nO#COPEAR#IRRITA\r\n#CANA##A#BEATAS\r\nPALINKA#PANDORA\r\nAPIADA#I##DIME#\r\nCANSAR#MAGICA#P\r\nIDA##APILO#ANDA\r\nEO#ESTATAL#LORE\r\nN#ARTESANIA#SAL\r\nTERRA#TRIAJE#FL\r\nENCERA#ESTAFETA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El mandato de un príncipe que parece adicto",
+              "answer": "EDICTO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Material dietético beneficioso para la digestión",
+              "answer": "FIBRA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Iniciales de la prota de 'Mad Max' y 'Monster'",
+              "answer": "CT"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Viene subiendo la doctora pequeña",
+              "answer": "ARD"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Tropezarse, despeñarse",
+              "answer": "CAERSE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Humos, aires de soberbia (sing)",
+              "answer": "INFULA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Terminará, finiquitará",
+              "answer": "ACABARA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Que se toma por la boca",
+              "answer": "ORAL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "España Hierba seca acopiada para el invierno",
+              "answer": "CEBA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Sufijo diminutivo (fem)",
+              "answer": "ITA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Apócope de \"mamá\"",
+              "answer": "MA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Mortero de cal, arena y agua usado en albañilería",
+              "answer": "ARGAMASA"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Lees caóticamente",
+              "answer": "ELES"
+            },
+            "19": {
+              "col": 2,
+              "row": 2,
+              "clue": "Alcaloide alucinógeno del peyote mexicano",
+              "answer": "MESCALINA"
+            },
+            "21": {
+              "col": 9,
+              "row": 2,
+              "clue": "No se contenga de fumar un puro cubano",
+              "answer": "COHIBA"
+            },
+            "23": {
+              "col": 3,
+              "row": 3,
+              "clue": "Semillas pequeñas de color negro y rojo, usadas para collares artesanales",
+              "answer": "PEONIAS"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Daré mi voto",
+              "answer": "VOTARE"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Mentirosos patológicos",
+              "answer": "MITOMANOS"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Animal símbolo del Fondo Mundial para la Naturaleza",
+              "answer": "PANDA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Bajé los brazos, me di por vencida, me…",
+              "answer": "RENDI"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Partidario de reformas extremas",
+              "answer": "RADICAL"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Extirpado de sus órganos genitales",
+              "answer": "CAPADO"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Espere tranquilo, dijo la doctora al enfermo",
+              "answer": "PACIENTE"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Arte marcial más practicada en el mundo",
+              "answer": "KARATE"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Duplicaré, calcaré",
+              "answer": "IMITARE"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "\"… Morissette\", cantautora del sencillo 'Ironic'",
+              "answer": "ALANIS"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Personaje bíblico que peleó contra David",
+              "answer": "GOLIAT"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Plato internacional, típico de Valencia",
+              "answer": "PAELLA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "No llego con tan poca pasta",
+              "answer": "PAST"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Sistema mecánico para dispensar cerveza de barril",
+              "answer": "DRAFT"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Me equivoqué",
+              "answer": "ERRE"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"… Trek\" la serie del Enterprise",
+              "answer": "STAR"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Un arco inglés",
+              "answer": "ARC"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "Voz usada para denotar aprobación",
+              "answer": "AJA"
+            },
+            "60": {
+              "col": 1,
+              "row": 13,
+              "clue": "Idioma inglés, en los manuales de instrucción",
+              "answer": "EN"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "Lo que tienen en común Erich Fromm y Enzo Fernández",
+              "answer": "EF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Capacidad de hacer bien las tareas asignadas",
+              "answer": "EFICACIA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Bebida mágica",
+              "answer": "POCIMA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "15": {
+              "col": 3,
+              "row": 1,
+              "clue": "Género de música electrónica de Armin van Buuren",
+              "answer": "TRANCE"
+            },
+            "17": {
+              "col": 10,
+              "row": 1,
+              "clue": "Desafiar a duelo",
+              "answer": "RETAR"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Empresa de tecnología que patentó los cajeros automáticos",
+              "answer": "IBM"
+            },
+            "20": {
+              "col": 4,
+              "row": 2,
+              "clue": "Tomaba para sí un caudal que se tenía bajo obligación de custodia",
+              "answer": "DEFALCABA"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tortita francesa",
+              "answer": "CREP"
+            },
+            "24": {
+              "col": 5,
+              "row": 3,
+              "clue": "Enfermedad parecida al sarampión",
+              "answer": "RUBEOLA"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Vicente Aleixandre, se dirige hacia allá",
+              "answer": "VA"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Fijé oficialmente el precio para una mercancía",
+              "answer": "TASE"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Guns N' Roses / el guitarrista",
+              "answer": "SLASH"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Mamá en inglés",
+              "answer": "MOM"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Tomar copas",
+              "answer": "COPEAR"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Le tengo una tirria loca, me pone de muy mal humor",
+              "answer": "IRRITA"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Víctima de los tintes de cabello",
+              "answer": "CANA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Están todo el rato en la iglesia",
+              "answer": "BEATAS"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Bebida alcohólica típica de Hungría",
+              "answer": "PALINKA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "La que abrió la caja que contenía todos los males del mundo",
+              "answer": "PANDORA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Causa piedad",
+              "answer": "APIADA"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Háblame, coméntame",
+              "answer": "DIME"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Agotar, extenuar",
+              "answer": "CANSAR"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Fantástica, llena de arte oculta",
+              "answer": "MAGICA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una salida sosa la dejó perdida",
+              "answer": "IDA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Hago una montaña de cosas, las…",
+              "answer": "APILO"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Nada muy mal, pero camina muy bien",
+              "answer": "ANDA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Las fronteras de Egipto",
+              "answer": "EO"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Relativo al Estado",
+              "answer": "ESTATAL"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "El cuerpo histórico de un videojuego",
+              "answer": "LORE"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Hecho a mano con oficio",
+              "answer": "ARTESANIA"
+            },
+            "58": {
+              "col": 12,
+              "row": 12,
+              "clue": "Condimento por excelencia",
+              "answer": "SAL"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Diosa romana de la Tierra",
+              "answer": "TERRA"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Método de selección y clasificación de pacientes",
+              "answer": "TRIAJE"
+            },
+            "63": {
+              "col": 13,
+              "row": 13,
+              "clue": "Tiene poco flow",
+              "answer": "FL"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Prepara el suelo antes de pasarle la pulidora",
+              "answer": "ENCERA"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "Local oficial donde se recogen y distribuyen envíos postales",
+              "answer": "ESTAFETA"
+            }
+          }
+        },
+        "vertical_clues": "1-El mandato de un príncipe que parece adicto\r\n2-Material dietético beneficioso para la digestión \r\n3-Iniciales de la prota de 'Mad Max' y 'Monster'\r\n4-Viene subiendo la doctora pequeña\r\n5-Tropezarse, despeñarse\r\n6-Humos, aires de soberbia (sing) \r\n7-Terminará, finiquitará\r\n9-Que se toma por la boca\r\n10-España Hierba seca acopiada para el invierno\r\n11-Sufijo diminutivo (fem)\r\n12-Apócope de \"mamá\"\r\n13-Mortero de cal, arena y agua usado en albañilería\r\n16-Lees caóticamente\r\n19-Alcaloide alucinógeno del peyote mexicano\r\n21-No se contenga de fumar un puro cubano\r\n23-Semillas pequeñas de color negro y rojo, usadas para collares artesanales\r\n25-Daré mi voto\r\n28-Mentirosos patológicos\r\n30-Animal símbolo del Fondo Mundial para la Naturaleza\r\n32-Bajé los brazos, me di por vencida, me…\r\n33-Partidario de reformas extremas\r\n34-Extirpado de sus órganos genitales\r\n36-Espere tranquilo, dijo la doctora al enfermo\r\n37-Arte marcial más practicada en el mundo\r\n40-Duplicaré, calcaré\r\n44-\"… Morissette\", cantautora del sencillo 'Ironic'\r\n45-Personaje bíblico que peleó contra David \r\n46-Plato internacional, típico de Valencia-España\r\n49-No llego con tan poca pasta\r\n51-Sistema mecánico para dispensar cerveza de barril\r\n53-Me equivoqué\r\n54-\"… Trek\" la serie del Enterprise\r\n56-Un arco inglés\r\n57-Voz usada para denotar aprobación\r\n60-Idioma inglés, en los manuales de instrucción\r\n62-Lo que tienen en común Erich Fromm y Enzo Fernández",
+        "horizontal_clues": "1-Capacidad de hacer bien las tareas asignadas\r\n8-Bebida mágica\r\n14-Pronuncia 501 en romano antiguo\r\n15-Género de música electrónica de Armin van Buuren\r\n17-Desafiar a duelo\r\n18-Empresa de tecnología que patentó los cajeros automáticos\r\n20-Tomaba para sí un caudal que se tenía bajo obligación de custodia\r\n22-Tortita francesa\r\n24-Enfermedad parecida al sarampión\r\n25-Vicente Aleixandre, se dirige hacia allá\r\n26-Fijé oficialmente el precio para una mercancía\r\n27-Guns N' Roses / el guitarrista\r\n28-Mamá en inglés\r\n29-Tomar copas\r\n31-Le tengo una tirria loca, me pone de muy mal humor\r\n34-Víctima de los tintes de cabello\r\n35-Están todo el rato en la iglesia\r\n36-Bebida alcohólica típica de Hungría\r\n38-La que abrió la caja que contenía todos los males del mundo\r\n39-Causa piedad\r\n41-Háblame, coméntame\r\n42-Agotar, extenuar\r\n43-Fantástica, llena de arte oculta\r\n47-Una salida sosa la dejó perdida\r\n48-Hago una montaña de cosas, las…\r\n50-Nada muy mal, pero camina muy bien\r\n52-Las fronteras de Egipto\r\n53-Relativo al Estado\r\n55-El cuerpo histórico de un videojuego\r\n56-Hecho a mano con oficio \r\n58-Condimento por excelencia\r\n59-Diosa romana de la Tierra\r\n61-Método de selección y clasificación de pacientes\r\n63-Tiene poco flow\r\n64-Prepara el suelo antes de pasarle la pulidora\r\n65-Local oficial donde se recogen y distribuyen envíos postales",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,15,#,#,#,#,16,#,17,#,#,#,#\r\n18,#,19,#,20,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,#,#,25,#\r\n26,#,#,#,#,27,#,#,#,#,#,#,28,#,#\r\n#,#,29,#,30,#,#,#,#,31,32,33,#,#,#\r\n#,34,#,#,#,#,#,#,#,35,#,#,#,#,#\r\n36,#,#,#,#,37,#,#,38,#,#,#,#,#,#\r\n39,#,#,#,#,#,#,40,#,#,41,#,#,#,#\r\n42,#,#,#,#,#,#,43,44,45,#,#,#,#,46\r\n47,#,#,#,#,48,49,#,#,#,#,50,#,51,#\r\n52,#,#,53,54,#,#,#,#,#,#,55,#,#,#\r\n#,#,56,#,#,#,#,#,#,#,57,#,58,#,#\r\n59,60,#,#,#,#,61,#,#,#,#,62,#,63,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 1859,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-09T08:50:24.053949Z",
+      "updatedAt": "2025-03-09T08:51:12.785137Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#NATIVA#ACUOSA#\r\nQUINTAL#PANTERA\r\nUB#DELIRANTE#RZ\r\nELE#SOSERIA#FOC\r\nBOSS#RABEL#POPO\r\nESCOBAR#ALTERAN\r\nCOOPERE#NARRARA\r\n##NOL#####ITS##\r\nPEDRERA#AFEITAR\r\nATIENEN#SINCERO\r\nSETS#NETOS#ARTE\r\nSRE#MAXIMUM#OID\r\nIN#RECAMARAS#CO\r\nMOHAMED#BATIDOR\r\n#SALERO#ARIDOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cubierto de nubes grises, el desgraciado",
+              "answer": "NUBLOSO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Amnistía Internacional",
+              "answer": "AI"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lo mismo de tendí y atando",
+              "answer": "TND"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lo invites a la final",
+              "answer": "ITES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Estimar lo que otros hacen por nosotros",
+              "answer": "VALORAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Me plancharé el cabello, me lo…",
+              "answer": "ALISARE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Procrean, copulan, se…",
+              "answer": "APAREAN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Caño, grifo, llave",
+              "answer": "CANILLA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Le pone mantequilla, lo…",
+              "answer": "UNTA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Sufijo usado para formar aumentativos en las palabras (masc)",
+              "answer": "OTE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Símbolo químico del Selenio",
+              "answer": "SE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cubrir, abrigar",
+              "answer": "ARROPAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Provincia francófona de Canadá",
+              "answer": "QUEBEC"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Arma arrojadiza, como un dardo, usada antiguamente",
+              "answer": "AZCONA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Esta es un poco rebuscada",
+              "answer": "REB"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Lugar secreto para ocultarse durante un juego infantil",
+              "answer": "ESCONDITE"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Visitante temporal de una localidad distinta a su residencia",
+              "answer": "FORASTERO"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Adormecimientos, modorras",
+              "answer": "SOPORES"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Medida de longitud agraria de la antigua Roma (2,7 m)",
+              "answer": "PERTICA"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Localidad de Palestina en la que nació Jesucristo, según la Biblia",
+              "answer": "BELEN"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Escojan, separen, entresaquen",
+              "answer": "TRIEN"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Voz latina, en los manuscritos, que significa 'por todas partes'",
+              "answer": "PASSIM"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Interminables",
+              "answer": "ETERNOS"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "¿Creerán que pueden volver a nacer?",
+              "answer": "RENACER"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Agregado al final del documento",
+              "answer": "ANEXADO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Mostraba algo por una abertura",
+              "answer": "ASOMABA"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Producir una grieta, una falla",
+              "answer": "FISURAR"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Zorros que viven en el polo norte",
+              "answer": "ARTICOS"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Tipo de animal al que pertenece la ardilla",
+              "answer": "ROEDOR"
+            },
+            "48": {
+              "col": 7,
+              "row": 10,
+              "clue": "Director de la peli \"El joven manos de tijeras\" (1990)",
+              "answer": "TIM"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Imagen viral y graciosa que se publica en las redes",
+              "answer": "MEME"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Con cariño a Matías",
+              "answer": "MATI"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Código que define un color",
+              "answer": "RAL"
+            },
+            "56": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"… Vicious\" bajista de los Sex Pistols",
+              "answer": "SID"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo de hectárea",
+              "answer": "HA"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Denominación de origen",
+              "answer": "DO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Originaria de un lugar específico",
+              "answer": "NATIVA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Abundante en agua (fem)",
+              "answer": "ACUOSA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Unidad tradicional de medida de peso equivalente a 100 kilos",
+              "answer": "QUINTAL"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Felino negro de tamaño grande",
+              "answer": "PANTERA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic del hombre más rápido del mundo",
+              "answer": "UB"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Trastornado, extraviado",
+              "answer": "DELIRANTE"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "En la cintura de Tarzán",
+              "answer": "RZ"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Elena salió baja en sodio",
+              "answer": "ELE"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Insulsez, falta de gracia",
+              "answer": "SOSERIA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Foca sin cola",
+              "answer": "FOC"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Diseñó los uniformes de la SS",
+              "answer": "BOSS"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Instrumento musical pastoril, de tres cuerdas",
+              "answer": "RABEL"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Otra forma de llamar a la caca",
+              "answer": "POPO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Narcotraficante conocido como \"El Patrón\"",
+              "answer": "ESCOBAR"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Pierden la calma porque lo relatan de terror",
+              "answer": "ALTERAN"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Obre juntamente con otros para un mismo fin",
+              "answer": "COOPERE"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Nos contará el partido",
+              "answer": "NARRARA"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Una magnolia deshojada",
+              "answer": "NOL"
+            },
+            "35": {
+              "col": 10,
+              "row": 7,
+              "clue": "Infecciones de Transmisión Sexual",
+              "answer": "ITS"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lugar de extracción de minerales para construcción",
+              "answer": "PEDRERA"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Raer la barba o el bigote",
+              "answer": "AFEITAR"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Ajustan, sujetan sus acciones a algo",
+              "answer": "ATIENEN"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Honesto, veraz",
+              "answer": "SINCERO"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Los segmentos del tenis",
+              "answer": "SETS"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Notes que los pesos son sin taras",
+              "answer": "NETOS"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "La gran pantalla, el séptimo…",
+              "answer": "ARTE"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Secretaría de Relaciones Exteriores",
+              "answer": "SRE"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Valor máximo del latín",
+              "answer": "MAXIMUM"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Escuchad",
+              "answer": "OID"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "India de noche",
+              "answer": "IN"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Cuarto situado detrás de la habitación principal (pl)",
+              "answer": "RECAMARAS"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Símbolo químico del cobalto",
+              "answer": "CO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"…Al",
+              "answer": "MOHAMED"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Instrumento giratorio que mezcla los ingredientes",
+              "answer": "BATIDOR"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Recipiente en que se sirve la sal en la mesa",
+              "answer": "SALERO"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Terrenos infértiles",
+              "answer": "ARIDOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Cubierto de nubes grises, el desgraciado\r\n2-Amnistía Internacional\r\n3-Lo mismo de tendí y atando\r\n4-Lo invites a la final\r\n5-Estimar lo que otros hacen por nosotros\r\n6-Me plancharé el cabello, me lo…\r\n7-Procrean, copulan, se…\r\n8-Caño, grifo, llave\r\n9-Le pone mantequilla, lo…\r\n10-Sufijo usado para formar aumentativos en las palabras (masc)\r\n11-Símbolo químico del Selenio\r\n12-Cubrir, abrigar\r\n13-Provincia francófona de Canadá\r\n15-Arma arrojadiza, como un dardo, usada antiguamente\r\n18-Esta es un poco rebuscada\r\n21-Lugar secreto para ocultarse durante un juego infantil \r\n23-Visitante temporal de una localidad distinta a su residencia \r\n25-Adormecimientos, modorras\r\n27-Medida de longitud agraria de la antigua Roma (2,7 m) \r\n29-Localidad de Palestina en la que nació Jesucristo, según la Biblia\r\n31-Escojan, separen, entresaquen\r\n36-Voz latina, en los manuscritos, que significa 'por todas partes'\r\n37-Interminables\r\n38-¿Creerán que pueden volver a nacer? \r\n39-Agregado al final del documento\r\n40-Mostraba algo por una abertura\r\n41-Producir una grieta, una falla\r\n42-Zorros que viven en el polo norte\r\n43-Tipo de animal al que pertenece la ardilla\r\n48-Director de la peli \"El joven manos de tijeras\" (1990) \r\n51-Imagen viral y graciosa que se publica en las redes\r\n52-Con cariño a Matías\r\n55-Código que define un color\r\n56-\"… Vicious\" bajista de los Sex Pistols\r\n59-Símbolo de hectárea\r\n61-Denominación de origen",
+        "horizontal_clues": "1-Originaria de un lugar específico\r\n7-Abundante en agua (fem)\r\n13-Unidad tradicional de medida de peso equivalente a 100 kilos \r\n14-Felino negro de tamaño grande\r\n16-Inic del hombre más rápido del mundo\r\n17-Trastornado, extraviado\r\n19-En la cintura de Tarzán\r\n20-Elena salió baja en sodio\r\n22-Insulsez, falta de gracia\r\n23-Foca sin cola\r\n24-Diseñó los uniformes de la SS\r\n26-Instrumento musical pastoril, de tres cuerdas\r\n27-Otra forma de llamar a la caca\r\n28-Narcotraficante conocido como \"El Patrón\"\r\n30-Pierden la calma porque lo relatan de terror\r\n32-Obre juntamente con otros para un mismo fin\r\n33-Nos contará el partido\r\n34-Una magnolia deshojada\r\n35-Infecciones de Transmisión Sexual\r\n36-Lugar de extracción de minerales para construcción \r\n40-Raer la barba o el bigote\r\n44-Ajustan, sujetan sus acciones a algo\r\n45-Honesto, veraz\r\n46-Los segmentos del tenis\r\n47-Notes que los pesos son sin taras\r\n49-La gran pantalla, el séptimo…\r\n50-Secretaría de Relaciones Exteriores\r\n51-Valor máximo del latín\r\n53-Escuchad\r\n54-India de noche\r\n55-Cuarto situado detrás de la habitación principal (pl)\r\n57-Símbolo químico del cobalto\r\n58-\"…Al-Fayed\" el padre de Dodi, el amigo de Diana\r\n60-Instrumento giratorio que mezcla los ingredientes\r\n62-Recipiente en que se sirve la sal en la mesa\r\n63-Terrenos infértiles",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,17,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,21,#,22,#,#,#,#,#,#,#,23,#,#\r\n24,#,#,25,#,26,#,#,#,#,#,27,#,#,#\r\n28,#,#,#,29,#,#,#,30,#,31,#,#,#,#\r\n32,#,#,#,#,#,#,#,33,#,#,#,#,#,#\r\n#,#,34,#,#,#,#,#,#,#,35,#,#,#,#\r\n36,37,#,#,#,38,39,#,40,41,#,#,#,42,43\r\n44,#,#,#,#,#,#,#,45,#,#,#,#,#,#\r\n46,#,#,#,#,47,#,48,#,#,#,49,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,52,#,53,#,#\r\n54,#,#,55,#,#,#,#,#,#,#,56,#,57,#\r\n58,#,59,#,#,#,#,#,60,#,#,#,61,#,#\r\n#,62,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

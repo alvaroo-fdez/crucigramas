@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 3380,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:25.023767Z",
+      "updatedAt": "2025-09-09T14:15:19.958043Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-18",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EMBLEMA#ALTERNE\r\nS#AUNAS#KORS##T\r\nC#LITCHI#SANGRO\r\nAHOGO##NO#MORAL\r\nPATINARA#SABALO\r\nADA#ERUCTAD#POG\r\nDA#V#ESTILO#ESO\r\n##VEROSIMILES##\r\nELI#ALEVIN#Y#PG\r\nNES#SALIDAS#SEU\r\nCRINES#DOSANTOS\r\nANTON#YA##CIARA\r\nJUERGA#DANIEL#N\r\nA##MALE#ABATI#O\r\nRUMANIA#ACRONAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Huid, desertad",
+              "answer": "ESCAPAD"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Bolilla que comunidades religiosas usan para votar",
+              "answer": "BALOTA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Videojuegos: El hermano de Mario",
+              "answer": "LUIGI"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ajuste el tono",
+              "answer": "ENTONE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Acortamiento de \"Macintosh\"",
+              "answer": "MAC"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Entrenador Pokémon, dueño de Pikachu",
+              "answer": "ASH"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Fusil de asalto creado por Mijaíl Kaláshnikov",
+              "answer": "AK"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Artículo para ellos",
+              "answer": "LOS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Analgésico opioide débil y atípico",
+              "answer": "TRAMADOL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Persona que imita a los distinguidos",
+              "answer": "ESNOB"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Hombre que estudia el comportamiento de los animales",
+              "answer": "ETOLOGO"
+            },
+            "15": {
+              "col": 7,
+              "row": 2,
+              "clue": "Carencia de posteos o historias recientes, en las redes",
+              "answer": "INACTIVIDAD"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Sujetes con grapas",
+              "answer": "GRAPES"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Separados, espaciados, dispersos",
+              "answer": "RALOS"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Lo es Campanilla, la del País de Nunca Jamás",
+              "answer": "HADA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Las que rodean al pezón",
+              "answer": "AREOLAS"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Baterista virtual de la banda Gorillaz",
+              "answer": "RUSSEL"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Extensas superficies de sal",
+              "answer": "SALINAS"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Retraído, introvertido",
+              "answer": "TIMIDO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Observa como empieza la vejez",
+              "answer": "VE"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Fui a ver a alguien en su casa",
+              "answer": "VISITE"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Ninjutsu de Naruto creado por el Cuarto Hokage",
+              "answer": "RASENGAN"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Un rey sin corona",
+              "answer": "EY"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Acoplar, ajustar",
+              "answer": "ENCAJAR"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Portal gratuito de internet, para aprender Esperanto",
+              "answer": "LERNU"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"No hay… ciego que el no quiere ver\"",
+              "answer": "PEOR"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Lombrices, larvas (pl)",
+              "answer": "GUSANOS"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Hartar y satisfacer de bebida y comida",
+              "answer": "SACIAR"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Dictador soviético",
+              "answer": "STALIN"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Román déjate de locuras y apégate a la ley",
+              "answer": "NORMA"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Hijo del hijo",
+              "answer": "NIETO"
+            },
+            "55": {
+              "col": 5,
+              "row": 12,
+              "clue": "\"… Babá\", de Las mil y una noches",
+              "answer": "ALI"
+            },
+            "57": {
+              "col": 8,
+              "row": 12,
+              "clue": "Pila pequeña",
+              "answer": "AAA"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "National Broadcasting Company",
+              "answer": "NBC"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "Están saliendo por el oriente de Crimea",
+              "answer": "EA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cosa que es representación simbólica de otra",
+              "answer": "EMBLEMA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Un día usé una, al otro día la otra y así sucesivamente",
+              "answer": "ALTERNE"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Reúnes fuerzas para arreglar la sauna rota",
+              "answer": "AUNAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"Michael…\" diseñador estadounidense que en 2018 compró Versace",
+              "answer": "KORS"
+            },
+            "14": {
+              "col": 2,
+              "row": 2,
+              "clue": "Frutita china roja con corteza corrugada",
+              "answer": "LITCHI"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "Derramo la roja",
+              "answer": "SANGRO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Quito la vida a una persona, impidiéndole la respiración",
+              "answer": "AHOGO"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "De ninguna manera, va a ser que…",
+              "answer": "NO"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Ciencia que trata del bien",
+              "answer": "MORAL"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lo hará en la pista de hielo",
+              "answer": "PATINARA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Pez marino de la misma familia que la sardina",
+              "answer": "SABALO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"… Lovelace\", la primera programadora de ordenadores",
+              "answer": "ADA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Expeled los gases estomacales por la boca",
+              "answer": "ERUCTAD"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Pedro, Óscar y Gabriel",
+              "answer": "POG"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Dona, entrega",
+              "answer": "DA"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Carácter propio que da a sus obras un artista",
+              "answer": "ESTILO"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Entre el cole y bachillerato",
+              "answer": "ESO"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Creíbles, viables, verdaderos",
+              "answer": "VEROSIMILES"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "En la Biblia, el maestro del profeta Samuel",
+              "answer": "ELI"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Ale vino con mi pequeño futbolista",
+              "answer": "ALEVIN"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Billonésima parte de un gramo",
+              "answer": "PG"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "2ª consola de sobremesa de Nintendo",
+              "answer": "NES"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "Puertas de emergencia",
+              "answer": "SALIDAS"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Catedral en valenciano",
+              "answer": "SEU"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Desenredes el pelo del caballo",
+              "answer": "CRINES"
+            },
+            "49": {
+              "col": 7,
+              "row": 10,
+              "clue": "\"Regina…\" Cantante brasileña",
+              "answer": "DOSANTOS"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Autor del libro El Jardín de los Cerezos (1904)",
+              "answer": "ANTON"
+            },
+            "52": {
+              "col": 6,
+              "row": 11,
+              "clue": "De inmediato",
+              "answer": "YA"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "Andará hacia atrás, retrocederá",
+              "answer": "CIARA"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Jugaré mal, solo por diversión",
+              "answer": "JUERGA"
+            },
+            "56": {
+              "col": 7,
+              "row": 12,
+              "clue": "Kwan o Scheinert, Óscar 2023 por dirigir 'Todo a la vez en todas partes'",
+              "answer": "DANIEL"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Capital de la República de las Maldivas",
+              "answer": "MALE"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Derrumbé con fuerzas las barreras",
+              "answer": "ABATI"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "País donde está Transilvania",
+              "answer": "RUMANIA"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Las sacaron locas fuera de tiempo",
+              "answer": "ACRONAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Huid, desertad\r\n2-Bolilla que comunidades religiosas usan para votar\r\n3-Videojuegos: El hermano de Mario\r\n4-Ajuste el tono\r\n5-Acortamiento de \"Macintosh\"\r\n6-Entrenador Pokémon, dueño de Pikachu\r\n7-Fusil de asalto creado por Mijaíl Kaláshnikov\r\n8-Artículo para ellos\r\n9-Analgésico opioide débil y atípico\r\n10-Persona que imita a los distinguidos\r\n11-Hombre que estudia el comportamiento de los animales\r\n15-Carencia de posteos o historias recientes, en las redes\r\n17-Sujetes con grapas\r\n18-Separados, espaciados, dispersos\r\n20-Lo es Campanilla, la del País de Nunca Jamás\r\n24-Las que rodean al pezón\r\n25-Baterista virtual de la banda Gorillaz\r\n26-Extensas superficies de sal\r\n29-Retraído, introvertido\r\n32-Observa como empieza la vejez\r\n35-Fui a ver a alguien en su casa\r\n36-Ninjutsu de Naruto creado por el Cuarto Hokage\r\n37-Un rey sin corona\r\n38-Acoplar, ajustar\r\n39-Portal gratuito de internet, para aprender Esperanto\r\n41-\"No hay… ciego que el no quiere ver\"\r\n42-Lombrices, larvas (pl)\r\n45-Hartar y satisfacer de bebida y comida\r\n46-Dictador soviético\r\n48-Román déjate de locuras y apégate a la ley\r\n50-Hijo del hijo\r\n55-\"… Babá\", de Las mil y una noches\r\n57-Pila pequeña\r\n58-National Broadcasting Company\r\n60-Están saliendo por el oriente de Crimea",
+        "horizontal_clues": "1-Cosa que es representación simbólica de otra\r\n7-Un día usé una, al otro día la otra y así sucesivamente\r\n12-Reúnes fuerzas para arreglar la sauna rota\r\n13-\"Michael…\" diseñador estadounidense que en 2018 compró Versace\r\n14-Frutita china roja con corteza corrugada\r\n16-Derramo la roja\r\n19-Quito la vida a una persona, impidiéndole la respiración\r\n21-De ninguna manera, va a ser que…\r\n22-Ciencia que trata del bien\r\n23-Lo hará en la pista de hielo\r\n26-Pez marino de la misma familia que la sardina\r\n27-\"… Lovelace\", la primera programadora de ordenadores\r\n28-Expeled los gases estomacales por la boca\r\n30-Pedro, Óscar y Gabriel\r\n31-Dona, entrega\r\n33-Carácter propio que da a sus obras un artista\r\n34-Entre el cole y bachillerato\r\n35-Creíbles, viables, verdaderos\r\n38-En la Biblia, el maestro del profeta Samuel\r\n40-Ale vino con mi pequeño futbolista\r\n41-Billonésima parte de un gramo\r\n43-2ª consola de sobremesa de Nintendo\r\n44-Puertas de emergencia\r\n46-Catedral en valenciano\r\n47-Desenredes el pelo del caballo\r\n49-\"Regina…\" Cantante brasileña\r\n51-Autor del libro El Jardín de los Cerezos (1904)\r\n52-De inmediato\r\n53-Andará hacia atrás, retrocederá\r\n54-Jugaré mal, solo por diversión\r\n56-Kwan o Scheinert, Óscar 2023 por dirigir 'Todo a la vez en todas partes'\r\n59-Capital de la República de las Maldivas\r\n61-Derrumbé con fuerzas las barreras\r\n62-País donde está Transilvania\r\n63-Las sacaron locas fuera de tiempo",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,#,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n#,#,14,#,#,#,#,15,#,16,#,#,17,18,#\r\n19,20,#,#,#,#,#,21,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,25,#,#,26,#,#,#,#,#\r\n27,#,#,#,28,#,#,#,29,#,#,#,30,#,#\r\n31,#,#,32,#,33,#,#,#,#,#,#,34,#,#\r\n#,#,35,#,36,#,#,#,#,#,#,37,#,#,#\r\n38,39,#,#,40,#,#,#,#,#,#,#,#,41,42\r\n43,#,#,#,44,#,#,#,#,#,45,#,46,#,#\r\n47,#,#,48,#,#,#,49,#,#,#,50,#,#,#\r\n51,#,#,#,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,56,57,58,#,#,#,#,#\r\n#,#,#,59,#,#,60,#,61,#,#,#,#,#,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

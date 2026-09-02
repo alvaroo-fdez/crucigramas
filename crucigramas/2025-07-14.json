@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 2884,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-07-13T11:28:37.457258Z",
+      "updatedAt": "2025-07-13T11:29:03.716277Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-07-14",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#ABOMBAR#PAMPA#\r\nV#OJAL#EFIGIE#I\r\nESCALA#TIRILLAS\r\nRECLUSION#LLANA\r\nAMIA##AQUI#AMAD\r\nNBA#RB#URNA#BRO\r\n#R#CORNEADO#R#R\r\nDEBIDO###ORDEÑA\r\nI#O#ENVUELTO#A#\r\nCBD#ECES#EA#SNS\r\nTIOS#ORTO##PIDO\r\nAFROS#SOLICITUD\r\nDERROTAR#ARTUSI\r\nA#INGERI#SETA#O\r\n#ROANA#OVIPARO#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Deporte paralímpico con bolas",
+              "answer": "BOCCIA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Exclamación del vivo deseo de que suceda algo",
+              "answer": "OJALA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Esta mujer está loca como una mula",
+              "answer": "MALU"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Ya comiste y ya te vas, hiciste como…",
+              "answer": "BLAS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Pequeña modificación en una fotografía",
+              "answer": "RETOQUE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Psicólogo Interno Residente (siglas)",
+              "answer": "PIR"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Que se mueve con soltura y rapidez",
+              "answer": "AGIL"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "1,609 km = 1…",
+              "answer": "MILLA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Conjunto de pelo de un animal",
+              "answer": "PELAMBRE"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Percibirán con los ojos",
+              "answer": "VERAN"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Elegancia y delicadeza en el comportamiento",
+              "answer": "FINURA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"… Duncan\", creadora de la danza moderna",
+              "answer": "ISADORA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Planté una idea o un árbol",
+              "answer": "SEMBRE"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Ir en valenciano",
+              "answer": "ANAR"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Inic Escritora viva de lengua española más leída del mundo",
+              "answer": "IA"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Condición e inclinación natural propia de cada persona",
+              "answer": "INDOLE"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Envolví, asedié",
+              "answer": "RODEE"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Áspero o rudo en el trato",
+              "answer": "BRONCO"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "La gran arteria del corazón",
+              "answer": "AORTA"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "El de Marilyn Monroe era de 165 y el de Einstein de 160",
+              "answer": "CI"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "La sentencia ha sido impuesta, establecida",
+              "answer": "DICTADA"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Boda de mal gusto o poco elegante",
+              "answer": "BODORRIO"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Nota musical",
+              "answer": "DO"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Aves corredoras americanas",
+              "answer": "ÑANDUS"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Tratar de una materia determinada, por ejemplo un libro o una discusión",
+              "answer": "VERSAR"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Espejo cóncavo que refleja la luz del sol",
+              "answer": "USTORIO"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Si vas a Argentina y quieres pedir un bistec",
+              "answer": "BIFE"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Poner en un lugar",
+              "answer": "SITUAR"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Metal alcalino abundante en la sal marina",
+              "answer": "SODIO"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Tono burlón con se expresa ironía",
+              "answer": "SORNA"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Lo devolví",
+              "answer": "OL"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Uno de los tres Doshas de la medicina ayurvédica (India)",
+              "answer": "PITTA"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Segundo fiordo más grande del mundo, Noruega",
+              "answer": "SOGN"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Ni así sacan la cabeza de la vieja capital de Moldavia",
+              "answer": "IASI"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Alimento típico francés",
+              "answer": "CREP"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Astilla resinosa que sirve para alumbrar",
+              "answer": "TEA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Dar forma convexa",
+              "answer": "ABOMBAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Llanuras extensas de Argentina son vegetación arbórea",
+              "answer": "PAMPA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Hendidura para abrochar un botón",
+              "answer": "OJAL"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "La cara de alguien en una moneda",
+              "answer": "EFIGIE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Graduación para medir una magnitud",
+              "answer": "ESCALA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Pequeñas tiras de papel o tela",
+              "answer": "TIRILLAS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Aislamiento en prisión",
+              "answer": "RECLUSION"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Aplanada es una palabra grave",
+              "answer": "LLANA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lamia, tiburón parecido al cazón",
+              "answer": "AMIA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "En este lugar",
+              "answer": "AQUI"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Quered, adorad",
+              "answer": "AMAD"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Liga de baloncesto estadounidense",
+              "answer": "NBA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Iniciales del actor prota de 'La vida es bella'",
+              "answer": "RB"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Caja donde se pone un cadáver para enterrarlo",
+              "answer": "URNA"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Amigo de calle",
+              "answer": "BRO"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Atacado por los cuernos de un toro",
+              "answer": "CORNEADO"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Apropiado o correspondiente según las circunstancias",
+              "answer": "DEBIDO"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Extrae leche de una vaca",
+              "answer": "ORDEÑA"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Cubierto completamente por papel o tela",
+              "answer": "ENVUELTO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cannabidiol",
+              "answer": "CBD"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "Los jueces han perdido la risa",
+              "answer": "ECES"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Empresa de videojuegos conocida por sus productos deportivos",
+              "answer": "EA"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Sistema Nervioso Simpático",
+              "answer": "SNS"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Solo hombres españoles",
+              "answer": "TIOS"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Salida del Sol o de otro astro por el horizonte",
+              "answer": "ORTO"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Solicito, demando",
+              "answer": "PIDO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "De estilos afroamericanos",
+              "answer": "AFROS"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Carta o documento en que se pide algo de manera oficial",
+              "answer": "SOLICITUD"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Vencer al oponente en competición",
+              "answer": "DERROTAR"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "\"Pellegrino…\" el padre de la cocina italiana moderna",
+              "answer": "ARTUSI"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Tomé medicamentos",
+              "answer": "INGERI"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Especie de hongo, comestible o no, con forma de sombrilla",
+              "answer": "SETA"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Caballo o yegua de pelo mezclado de blanco, gris y bayo",
+              "answer": "ROANA"
+            },
+            "64": {
+              "col": 7,
+              "row": 14,
+              "clue": "Este animal le pone huevos",
+              "answer": "OVIPARO"
+            }
+          }
+        },
+        "vertical_clues": "2-Deporte paralímpico con bolas \r\n3-Exclamación del vivo deseo de que suceda algo\r\n4-Esta mujer está loca como una mula\r\n5-Ya comiste y ya te vas, hiciste como…\r\n6-Pequeña modificación en una fotografía \r\n7-Psicólogo Interno Residente (siglas)\r\n8-Que se mueve con soltura y rapidez\r\n9-1,609 km = 1…\r\n10-Conjunto de pelo de un animal \r\n11-Percibirán con los ojos\r\n14-Elegancia y delicadeza en el comportamiento \r\n15-\"… Duncan\", creadora de la danza moderna\r\n17-Planté una idea o un árbol\r\n19-Ir en valenciano \r\n21-Inic Escritora viva de lengua española más leída del mundo\r\n25-Condición e inclinación natural propia de cada persona\r\n28-Envolví, asedié\r\n29-Áspero o rudo en el trato \r\n31-La gran arteria del corazón\r\n33-El de Marilyn Monroe era de 165 y el de Einstein de 160\r\n34-La sentencia ha sido impuesta, establecida\r\n35-Boda de mal gusto o poco elegante \r\n37-Nota musical\r\n38-Aves corredoras americanas\r\n40-Tratar de una materia determinada, por ejemplo un libro o una discusión\r\n41-Espejo cóncavo que refleja la luz del sol\r\n43-Si vas a Argentina y quieres pedir un bistec\r\n46-Poner en un lugar\r\n47-Metal alcalino abundante en la sal marina\r\n49-Tono burlón con se expresa ironía\r\n51-Lo devolví\r\n52-Uno de los tres Doshas de la medicina ayurvédica (India)\r\n54-Segundo fiordo más grande del mundo, Noruega\r\n56-Ni así sacan la cabeza de la vieja capital de Moldavia \r\n57-Alimento típico francés\r\n59-Astilla resinosa que sirve para alumbrar",
+        "horizontal_clues": "1-Dar forma convexa\r\n7-Llanuras extensas de Argentina son vegetación arbórea\r\n12-Hendidura para abrochar un botón\r\n13-La cara de alguien en una moneda\r\n16-Graduación para medir una magnitud\r\n18-Pequeñas tiras de papel o tela \r\n20-Aislamiento en prisión \r\n22-Aplanada es una palabra grave\r\n23-Lamia, tiburón parecido al cazón\r\n24-En este lugar\r\n26-Quered, adorad\r\n27-Liga de baloncesto estadounidense\r\n28-Iniciales del actor prota de 'La vida es bella'\r\n30-Caja donde se pone un cadáver para enterrarlo\r\n32-Amigo de calle\r\n33-Atacado por los cuernos de un toro \r\n34-Apropiado o correspondiente según las circunstancias \r\n36-Extrae leche de una vaca \r\n39-Cubierto completamente por papel o tela \r\n42-Cannabidiol\r\n44-Los jueces han perdido la risa\r\n45-Empresa de videojuegos conocida por sus productos deportivos\r\n46-Sistema Nervioso Simpático\r\n48-Solo hombres españoles\r\n50-Salida del Sol o de otro astro por el horizonte\r\n52-Solicito, demando\r\n53-De estilos afroamericanos\r\n55-Carta o documento en que se pide algo de manera oficial\r\n58-Vencer al oponente en competición \r\n60-\"Pellegrino…\" el padre de la cocina italiana moderna\r\n61-Tomé medicamentos\r\n62-Especie de hongo, comestible o no, con forma de sombrilla\r\n63-Caballo o yegua de pelo mezclado de blanco, gris y bayo\r\n64-Este animal le pone huevos",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,13,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,#,#,#,#,21,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,#,24,#,#,25,#,26,#,#,#\r\n27,#,#,#,28,29,#,30,#,#,31,#,32,#,#\r\n#,#,#,33,#,#,#,#,#,#,#,#,#,#,#\r\n34,#,35,#,#,#,#,#,#,36,#,37,#,38,#\r\n#,#,#,#,39,#,40,41,#,#,#,#,#,#,#\r\n42,43,#,#,44,#,#,#,#,45,#,#,46,#,47\r\n48,#,#,49,#,50,#,#,51,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,56,57,#,#,#,#\r\n58,#,#,#,#,59,#,#,#,60,#,#,#,#,#\r\n#,#,61,#,#,#,#,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,#,64,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

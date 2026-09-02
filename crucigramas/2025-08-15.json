@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 3114,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-04T12:24:19.379389Z",
+      "updatedAt": "2025-08-16T09:21:24.953638Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-15",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "OPTO#ROYAL#APTA\r\nCARS#ORUGA#PIET\r\nSUICIDA#ACOSARE\r\nALBINA#A#OXIDEN\r\n##ULTRASONIDO##\r\nSITAR#PEP#GESTO\r\nALO#AIREARE#OIC\r\nHU#BOFE#LINK#BU\r\nISE#CANSINA#CEP\r\nBAMBU#DEN#CHETA\r\n##PALPITACION##\r\nLUIRAS#E#HOSTIL\r\nASERRIN#PINTADO\r\nCAZO#CIVIL#AVAL\r\nECOS#ONDEE#LOSE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Desagrado al contrario",
+              "answer": "OCSA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Nombre del bajista de The Beatles",
+              "answer": "PAUL"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Un concierto en honor a otro músico",
+              "answer": "TRIBUTO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Efectúa movimientos de vaivén a la manera de un péndulo",
+              "answer": "OSCILA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Caer dando vueltas por una pendiente",
+              "answer": "RODAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Suplica, ruega a un Dios",
+              "answer": "ORA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"… Gi Oh!\" manga creado por Kazuki Takahashi",
+              "answer": "YU"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Amazon, Google y Apple",
+              "answer": "AGA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Brazuelo del cerdo",
+              "answer": "LACON"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Extremo del eje mayor de la órbita trazada por un astro",
+              "answer": "APSIDE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ser compasivo con el tejido adiposo es un error",
+              "answer": "PIADOSO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Acortamiento de Teresa",
+              "answer": "TERE"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Amarren, líen",
+              "answer": "ATEN"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Que está dentro del ojo",
+              "answer": "INTRAOCULAR"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Adición a un medio del elemento esencial para la respiración",
+              "answer": "OXIGENACION"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Adorne, componga con pulcritud",
+              "answer": "ASEE"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Fijé en la memoria",
+              "answer": "APRENDI"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Material sintético, imitación del mineraloide Ópalo",
+              "answer": "OPALINA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Honorífico árabe que equivale a 'Señor'",
+              "answer": "SAHIB"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Propensa a ilusionarse, soñadora",
+              "answer": "ILUSA"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Región donde está el Palacio de Potala",
+              "answer": "TIBET"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Se hace cargo, se…",
+              "answer": "OCUPA"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Un califa en Tarifa",
+              "answer": "IFA"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Vía fluvial más utilizada de la Unión Europea",
+              "answer": "RIN"
+            },
+            "43": {
+              "col": 2,
+              "row": 8,
+              "clue": "Tengo el primer turno",
+              "answer": "EMPIEZO"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Hasta mediados de los 70",
+              "answer": "SETE"
+            },
+            "46": {
+              "col": 12,
+              "row": 8,
+              "clue": "La centésima parte de un dólar (no aplica para el euro)",
+              "answer": "CENTAVO"
+            },
+            "48": {
+              "col": 3,
+              "row": 9,
+              "clue": "Espinillas, granos",
+              "answer": "BARROS"
+            },
+            "51": {
+              "col": 11,
+              "row": 9,
+              "clue": "Tipo de alojamiento compartido",
+              "answer": "HOSTAL"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prefijo que se refiere al alma o actividad mental",
+              "answer": "PSICO"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "País picante",
+              "answer": "CHILE"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Sujeté con lazo",
+              "answer": "LACE"
+            },
+            "56": {
+              "col": 1,
+              "row": 11,
+              "clue": "La Universidad San Carlos (de Guatemala) fundada en 1676",
+              "answer": "USAC"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Personas con falta de juicio",
+              "answer": "IDAS"
+            },
+            "59": {
+              "col": 14,
+              "row": 11,
+              "clue": "\"… Montoya\", cantante y bailaora flamenca",
+              "answer": "LOLE"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "\"Anaïs…\" la de los 7 Diarios, pionera de la literatura erótica",
+              "answer": "NIN"
+            },
+            "62": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"American…\" icónica canción estadounidense de Don McLean",
+              "answer": "PIE"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Límites de velocidad",
+              "answer": "VD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Escojo entre varias cosas",
+              "answer": "OPTO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Marca de levadura química en polvo",
+              "answer": "ROYAL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Idónea, hábil",
+              "answer": "APTA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Peli de Pixar protagonizada por el Rayo McQueen",
+              "answer": "CARS"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Dispositivo de tracción utilizado en vehículos de combate y tractores",
+              "answer": "ORUGA"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "\"… Mondrian\", pintor holandés vanguardista",
+              "answer": "PIET"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Conducta que puede destruir al propio agente",
+              "answer": "SUICIDA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Perseguiré, hostigaré sin tregua",
+              "answer": "ACOSARE"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Con ausencia congénita de pigmentación (fem)",
+              "answer": "ALBINA"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Produzcan óxido al reaccionar con una sustancia",
+              "answer": "OXIDEN"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Lo que nosotros no podemos escuchar, pero una ecografía sí",
+              "answer": "ULTRASONIDO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Instrumento musical tradicional de la India",
+              "answer": "SITAR"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Director técnico catalán ganador de un sextete (2009)",
+              "answer": "PEP"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Un detalle, un buen…",
+              "answer": "GESTO"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Respuesta telefónica desde Colombia",
+              "answer": "ALO"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Ventilaré algo",
+              "answer": "AIREARE"
+            },
+            "37": {
+              "col": 12,
+              "row": 6,
+              "clue": "Retrocedo si lo devuelvo",
+              "answer": "OIC"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Dominio web para Hungría",
+              "answer": "HU"
+            },
+            "39": {
+              "col": 3,
+              "row": 7,
+              "clue": "Pulmón de las reses",
+              "answer": "BOFE"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Internet Enlace, liga",
+              "answer": "LINK"
+            },
+            "41": {
+              "col": 13,
+              "row": 7,
+              "clue": "Voz para asustar a los niños",
+              "answer": "BU"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Último trago de un tequila sunrise",
+              "answer": "ISE"
+            },
+            "44": {
+              "col": 4,
+              "row": 8,
+              "clue": "De las caninas raras, esta es la más pesada",
+              "answer": "CANSINA"
+            },
+            "46": {
+              "col": 12,
+              "row": 8,
+              "clue": "Centro de concepción",
+              "answer": "CEP"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Alimento favorito de los osos panda",
+              "answer": "BAMBU"
+            },
+            "49": {
+              "col": 6,
+              "row": 9,
+              "clue": "Que le otorguen, que le…",
+              "answer": "DEN"
+            },
+            "50": {
+              "col": 10,
+              "row": 9,
+              "clue": "Mujer bonita de Honduras",
+              "answer": "CHETA"
+            },
+            "52": {
+              "col": 2,
+              "row": 10,
+              "clue": "Una de mi corazón cuando me gana la emoción",
+              "answer": "PALPITACION"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Redimirás censos",
+              "answer": "LUIRAS"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "De amigable nada, más bien agresivo y desconfiado",
+              "answer": "HOSTIL"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Partículas que se desprenden de la madera cuando se sierra",
+              "answer": "ASERRIN"
+            },
+            "62": {
+              "col": 8,
+              "row": 12,
+              "clue": "Teñido, coloreado",
+              "answer": "PINTADO"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Persigo, acecho, atrapo",
+              "answer": "CAZO"
+            },
+            "64": {
+              "col": 5,
+              "row": 13,
+              "clue": "Un militar sin uniforme va vestido de…",
+              "answer": "CIVIL"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Garantía de que la lava regresará",
+              "answer": "AVAL"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Reflejos sonoros",
+              "answer": "ECOS"
+            },
+            "68": {
+              "col": 5,
+              "row": 14,
+              "clue": "Mueva la bandera",
+              "answer": "ONDEE"
+            },
+            "69": {
+              "col": 11,
+              "row": 14,
+              "clue": "Estoy al tanto, por eso puse la losa",
+              "answer": "LOSE"
+            }
+          }
+        },
+        "vertical_clues": "1-Desagrado al contrario\r\n2-Nombre del bajista de The Beatles\r\n3-Un concierto en honor a otro músico\r\n4-Efectúa movimientos de vaivén a la manera de un péndulo\r\n5-Caer dando vueltas por una pendiente\r\n6-Suplica, ruega a un Dios\r\n7-\"… Gi Oh!\" manga creado por Kazuki Takahashi\r\n8-Amazon, Google y Apple\r\n9-Brazuelo del cerdo\r\n10-Extremo del eje mayor de la órbita trazada por un astro\r\n11-Ser compasivo con el tejido adiposo es un error\r\n12-Acortamiento de Teresa\r\n13-Amarren, líen\r\n18-Que está dentro del ojo\r\n20-Adición a un medio del elemento esencial para la respiración\r\n22-Adorne, componga con pulcritud\r\n25-Fijé en la memoria\r\n26-Material sintético, imitación del mineraloide Ópalo\r\n27-Honorífico árabe que equivale a 'Señor'\r\n28-Propensa a ilusionarse, soñadora\r\n31-Región donde está el Palacio de Potala\r\n32-Se hace cargo, se…\r\n35-Un califa en Tarifa\r\n36-Vía fluvial más utilizada de la Unión Europea\r\n43-Tengo el primer turno\r\n45-Hasta mediados de los 70\r\n46-La centésima parte de un dólar (no aplica para el euro)\r\n48-Espinillas, granos\r\n51-Tipo de alojamiento compartido\r\n53-Prefijo que se refiere al alma o actividad mental\r\n54-País picante\r\n55-Sujeté con lazo\r\n56-La Universidad San Carlos (de Guatemala) fundada en 1676\r\n58-Personas con falta de juicio\r\n59-\"… Montoya\", cantante y bailaora flamenca\r\n61-\"Anaïs…\" la de los 7 Diarios, pionera de la literatura erótica\r\n62-\"American…\" icónica canción estadounidense de Don McLean\r\n65-Límites de velocidad",
+        "horizontal_clues": "1-Escojo entre varias cosas\r\n5-Marca de levadura química en polvo\r\n10-Idónea, hábil\r\n14-Peli de Pixar protagonizada por el Rayo McQueen\r\n15-Dispositivo de tracción utilizado en vehículos de combate y tractores\r\n16-\"… Mondrian\", pintor holandés vanguardista\r\n17-Conducta que puede destruir al propio agente\r\n19-Perseguiré, hostigaré sin tregua\r\n21-Con ausencia congénita de pigmentación (fem)\r\n23-Produzcan óxido al reaccionar con una sustancia\r\n24-Lo que nosotros no podemos escuchar, pero una ecografía sí\r\n27-Instrumento musical tradicional de la India\r\n29-Director técnico catalán ganador de un sextete (2009)\r\n30-Un detalle, un buen…\r\n33-Respuesta telefónica desde Colombia\r\n34-Ventilaré algo\r\n37-Retrocedo si lo devuelvo\r\n38-Dominio web para Hungría\r\n39-Pulmón de las reses\r\n40-Internet Enlace, liga\r\n41-Voz para asustar a los niños\r\n42-Último trago de un tequila sunrise\r\n44-De las caninas raras, esta es la más pesada\r\n46-Centro de concepción\r\n47-Alimento favorito de los osos panda\r\n49-Que le otorguen, que le…\r\n50-Mujer bonita de Honduras\r\n52-Una de mi corazón cuando me gana la emoción\r\n55-Redimirás censos\r\n57-De amigable nada, más bien agresivo y desconfiado\r\n60-Partículas que se desprenden de la madera cuando se sierra\r\n62-Teñido, coloreado\r\n63-Persigo, acecho, atrapo\r\n64-Un militar sin uniforme va vestido de…\r\n66-Garantía de que la lava regresará\r\n67-Reflejos sonoros\r\n68-Mueva la bandera\r\n69-Estoy al tanto, por eso puse la losa",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,19,#,20,#,#,#,#\r\n21,#,#,#,#,#,#,22,#,23,#,#,#,#,#\r\n#,#,24,#,#,#,25,#,26,#,#,#,#,#,#\r\n27,28,#,#,#,#,29,#,#,#,30,#,#,31,32\r\n33,#,#,#,34,35,#,#,#,36,#,#,37,#,#\r\n38,#,#,39,#,#,#,#,40,#,#,#,#,41,#\r\n42,#,43,#,44,#,#,45,#,#,#,#,46,#,#\r\n47,#,#,48,#,#,49,#,#,#,50,51,#,#,#\r\n#,#,52,#,#,53,#,#,#,54,#,#,#,#,#\r\n55,56,#,#,#,#,#,#,#,57,#,#,#,58,59\r\n60,#,#,#,#,#,61,#,62,#,#,#,#,#,#\r\n63,#,#,#,#,64,#,65,#,#,#,66,#,#,#\r\n67,#,#,#,#,68,#,#,#,#,#,69,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

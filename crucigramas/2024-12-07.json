@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 1396,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-06T18:35:07.358339Z",
+      "updatedAt": "2024-12-06T18:35:07.400626Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-07",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "LIMPIAR#ATONTAR\r\nEO#ANNAPURNA#YE\r\nA#ALVIN#TILIN#S\r\nLAVE#MASON#FUMA\r\nTUI#CESAREA#MOC\r\nATOLON#P#OLMEDA\r\nDONAR#EIR#MENUS\r\n#M#JORGELUIS#L#\r\nPOTAN#ONG#REJAS\r\nOVASEN#C#PESADA\r\nLIS#LUCIDEZ#MOL\r\nOLEO#TRAED#HERA\r\nN#SHERA#DIGAS#R\r\nIM#INICIADOR#FI\r\nAURORAS#LADEADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Fidelidad, amistad",
+              "answer": "LEALTAD"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Luna de Júpiter",
+              "answer": "IO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Plataforma de tablas para transportar mercancías",
+              "answer": "PALE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Abreviatura de \"invertido\"",
+              "answer": "INV"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Alienten a la menina mala",
+              "answer": "ANIMEN"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Batracios, anuros",
+              "answer": "RANAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Persona que ha realizado alguna obra",
+              "answer": "AUTOR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "El todoterreno de Papá Noel",
+              "answer": "TRINEO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Organización no lucrativa (siglas)",
+              "answer": "ONL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "No dan crédito al retorno de los artistas ingenuos",
+              "answer": "NAIF"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Voz usada para expresar dolor",
+              "answer": "AY"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Veisalgias es el nombre médico para los malestares posfiesta",
+              "answer": "RESACAS"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "No es un navío, este vuela",
+              "answer": "AVION"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Cada uno de los dioses de la mitología clásica",
+              "answer": "NUMEN"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Coche, carro",
+              "answer": "AUTOMOVIL"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Conocimiento profundo y erudito",
+              "answer": "SAPIENCIA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Dispositivo que modifica una señal",
+              "answer": "MODULADOR"
+            },
+            "26": {
+              "col": 4,
+              "row": 4,
+              "clue": "Personaje de García Márquez, que no tiene quien le escriba",
+              "answer": "CORONEL"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "El mortero que suena en Navidad, junto a la zambomba",
+              "answer": "ALMIREZ"
+            },
+            "30": {
+              "col": 3,
+              "row": 5,
+              "clue": "Mar Bajo de piedra a manera de meseta llana (pl)",
+              "answer": "LAJAS"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Faltan tres para que empiece el Mundial de Fútbol",
+              "answer": "MESES"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Concepto freudiano del yo consciente",
+              "answer": "EGO"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"Relegó\" sin vocales",
+              "answer": "RLG"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "País natal de Wisława Szymborska (Nobel de literatura en 1996)",
+              "answer": "POLONIA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Pongas precio a una mercancía",
+              "answer": "TASES"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Director de cine de la peli 'Avatar'",
+              "answer": "JAMES"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Antiguamente el pago era con sal",
+              "answer": "SALARIO"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Juguetón y gracioso mamífero nadador",
+              "answer": "NUTRIA"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "Solicitud de matrimonio ya está hecha",
+              "answer": "PEDIDA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Estos tipos son los mejores, son unos…",
+              "answer": "CRACS"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Utensilio para proteger el dedo al coser",
+              "answer": "DEDAL"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Uno de los cincuenta estados que forman los Estados Unidos",
+              "answer": "OHIO"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Obraré, actuaré",
+              "answer": "HARE"
+            },
+            "57": {
+              "col": 4,
+              "row": 12,
+              "clue": "Ejército Nacional Republicano (siglas)",
+              "answer": "ENR"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"… of War\" el videojuego de Kratos",
+              "answer": "GOD"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "No opinó, no dijo ni…",
+              "answer": "MU"
+            },
+            "63": {
+              "col": 13,
+              "row": 13,
+              "clue": "El monograma de Fran Drescher (La niñera)",
+              "answer": "FD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Acción de eliminar la suciedad",
+              "answer": "LIMPIAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Aturdir o atolondrar",
+              "answer": "ATONTAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Las fronteras de Egipto",
+              "answer": "EO"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "\"Circuito de …\", ruta de senderismo en Nepal",
+              "answer": "ANNAPURNA"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Vigesimosexta letra",
+              "answer": "YE"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "\"… y las ardillas\" banda ficticia, serie animada, película (desde 1958)",
+              "answer": "ALVIN"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Suena la campanilla",
+              "answer": "TILIN"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "¡Vale! ya limpié la vela rara",
+              "answer": "LAVE"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Miembro de la masonería",
+              "answer": "MASON"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Aspira y despide el humo del tabaco",
+              "answer": "FUMA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pájaro neozelandés que imita voces humanas como los loros",
+              "answer": "TUI"
+            },
+            "26": {
+              "col": 4,
+              "row": 4,
+              "clue": "Recomendada cuando el parto vaginal es riesgoso para el bebé y la madre",
+              "answer": "CESAREA"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Al mocoso no le gusta Teddy",
+              "answer": "MOC"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Isla con una laguna interior que comunica con el mar",
+              "answer": "ATOLON"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Zona plantada de olmos",
+              "answer": "OLMEDA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ceder un órgano",
+              "answer": "DONAR"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Diosa nórdica de la sanación, la salud y la euforia",
+              "answer": "EIR"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Relación de los platos en un restaurante (pl)",
+              "answer": "MENUS"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"… Borges\" escritor argentino (2p)",
+              "answer": "JORGELUIS"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Se rompe el tapón y vomitan",
+              "answer": "POTAN"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Organización No Gubernamental",
+              "answer": "ONG"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Barrotes",
+              "answer": "REJAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pusiesen huevos",
+              "answer": "OVASEN"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "No es una buena espada porque pesa demasiado",
+              "answer": "PESADA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Flor, símbolo de los Scouts",
+              "answer": "LIS"
+            },
+            "48": {
+              "col": 4,
+              "row": 10,
+              "clue": "Perspicacia, sagacidad, inteligencia",
+              "answer": "LUCIDEZ"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Molécula gramo",
+              "answer": "MOL"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Obra pictórica realizada con pintura de aceite",
+              "answer": "OLEO"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Modo imperativo, 2ª persona del plural, del verbo traer",
+              "answer": "TRAED"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Era la madre de todos los dioses griegos",
+              "answer": "HERA"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "La hermana de HeMan",
+              "answer": "SHERA"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Expreses verbalmente",
+              "answer": "DIGAS"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Importan muy poco",
+              "answer": "IM"
+            },
+            "62": {
+              "col": 3,
+              "row": 13,
+              "clue": "El primero, el que empieza con una actividad",
+              "answer": "INICIADOR"
+            },
+            "63": {
+              "col": 13,
+              "row": 13,
+              "clue": "La entrada final",
+              "answer": "FI"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Iluminación de tono rosado que antecede a la aparición del sol (pl)",
+              "answer": "AURORAS"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Declinado del camino derecho",
+              "answer": "LADEADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Fidelidad, amistad\r\n2-Luna de Júpiter\r\n3-Plataforma de tablas para transportar mercancías\r\n4-Abreviatura de \"invertido\"\r\n5-Alienten a la menina mala\r\n6-Batracios, anuros\r\n7-Persona que ha realizado alguna obra\r\n8-El todoterreno de Papá Noel\r\n9-Organización no lucrativa (siglas)\r\n10-No dan crédito al retorno de los artistas ingenuos\r\n11-Voz usada para expresar dolor\r\n12-Veisalgias es el nombre médico para los malestares posfiesta\r\n16-No es un navío, este vuela\r\n18-Cada uno de los dioses de la mitología clásica\r\n20-Coche, carro\r\n22-Conocimiento profundo y erudito \r\n24-Dispositivo que modifica una señal \r\n26-Personaje de García Márquez, que no tiene quien le escriba\r\n27-El mortero que suena en Navidad, junto a la zambomba\r\n30-Mar Bajo de piedra a manera de meseta llana (pl)\r\n32-Faltan tres para que empiece el Mundial de Fútbol\r\n34-Concepto freudiano del yo consciente \r\n35-\"Relegó\" sin vocales\r\n38-País natal de Wisława Szymborska (Nobel de literatura en 1996) \r\n39-Pongas precio a una mercancía\r\n42-Director de cine de la peli 'Avatar'\r\n43-Antiguamente el pago era con sal\r\n45-Juguetón y gracioso mamífero nadador\r\n46-Solicitud de matrimonio ya está hecha\r\n49-Estos tipos son los mejores, son unos…\r\n50-Utensilio para proteger el dedo al coser\r\n53-Uno de los cincuenta estados que forman los Estados Unidos\r\n55-Obraré, actuaré\r\n57-Ejército Nacional Republicano (siglas)\r\n59-\"… of War\" el videojuego de Kratos\r\n61-No opinó, no dijo ni… \r\n63-El monograma de Fran Drescher (La niñera) \r\n",
+        "horizontal_clues": "1-Acción de eliminar la suciedad \r\n7-Aturdir o atolondrar\r\n13-Las fronteras de Egipto\r\n14-\"Circuito de …\", ruta de senderismo en Nepal\r\n15-Vigesimosexta letra\r\n16-\"… y las ardillas\" banda ficticia, serie animada, película (desde 1958) \r\n17-Suena la campanilla\r\n19-¡Vale! ya limpié la vela rara\r\n21-Miembro de la masonería\r\n23-Aspira y despide el humo del tabaco\r\n25-Pájaro neozelandés que imita voces humanas como los loros\r\n26-Recomendada cuando el parto vaginal es riesgoso para el bebé y la madre\r\n28-Al mocoso no le gusta Teddy\r\n29-Isla con una laguna interior que comunica con el mar\r\n31-Zona plantada de olmos\r\n33-Ceder un órgano\r\n34-Diosa nórdica de la sanación, la salud y la euforia\r\n36-Relación de los platos en un restaurante (pl)\r\n37-\"… Borges\" escritor argentino (2p)\r\n38-Se rompe el tapón y vomitan\r\n40-Organización No Gubernamental\r\n41-Barrotes\r\n44-Pusiesen huevos\r\n46-No es una buena espada porque pesa demasiado\r\n47-Flor, símbolo de los Scouts\r\n48-Perspicacia, sagacidad, inteligencia\r\n51-Molécula gramo\r\n52-Obra pictórica realizada con pintura de aceite\r\n54-Modo imperativo, 2ª persona del plural, del verbo traer\r\n55-Era la madre de todos los dioses griegos\r\n56-La hermana de HeMan\r\n58-Expreses verbalmente\r\n60-Importan muy poco\r\n62-El primero, el que empieza con una actividad\r\n63-La entrada final \r\n64-Iluminación de tono rosado que antecede a la aparición del sol (pl)\r\n65-Declinado del camino derecho\r\n",
+        "board_clues_positions": "1,2,#,3,4,5,6,#,7,8,9,10,#,11,12\r\n13,#,#,14,#,#,#,#,#,#,#,#,#,15,#\r\n#,#,16,#,#,#,#,#,17,#,#,#,18,#,#\r\n19,20,#,#,#,21,#,22,#,#,#,23,#,24,#\r\n25,#,#,#,26,#,#,#,#,#,27,#,28,#,#\r\n29,#,#,30,#,#,#,#,#,31,#,32,#,#,#\r\n33,#,#,#,#,#,34,#,35,#,36,#,#,#,#\r\n#,#,#,37,#,#,#,#,#,#,#,#,#,#,#\r\n38,#,39,#,#,#,40,#,#,#,41,#,42,#,43\r\n44,#,#,#,#,45,#,#,#,46,#,#,#,#,#\r\n47,#,#,#,48,#,49,#,50,#,#,#,51,#,#\r\n52,#,#,53,#,54,#,#,#,#,#,55,#,#,#\r\n#,#,56,#,57,#,#,#,58,#,59,#,#,#,#\r\n60,61,#,62,#,#,#,#,#,#,#,#,#,63,#\r\n64,#,#,#,#,#,#,#,65,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

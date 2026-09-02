@@ -1,0 +1,538 @@
+{
+  "data": {
+    "id": 3910,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:48.011662Z",
+      "updatedAt": "2025-10-30T17:55:48.021381Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-20",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FILOSOFIA#ADIOS\r\nOLAS#TOTE#CAIXA\r\nCURAR#BERGEN#IR\r\n#S#DIVISORIA#DT\r\nPTA#TEA###TOCAR\r\nORUJOS#RECA#ANE\r\nCARA#USURARIO##\r\nAREL#BEBEN#STAR\r\n##LECITINA#RIMA\r\nPEI#ROAS#PLACAR\r\nLLOSA###VEA#OEA\r\nAV#ANEURISMA#S#\r\nTI#LENNON#ACOTA\r\nORGIA#IBON#ERRE\r\nNASAL#DESCARTES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Perdiendo el foco",
+              "answer": "FOC"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Dar luz al entendimiento",
+              "answer": "ILUSTRAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Hogar, sitio de la lumbre en la cocina",
+              "answer": "LAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Encarad, desafiad, enfrentad",
+              "answer": "OSAD"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Operación Triunfo (siglas)",
+              "answer": "OT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Aversión obsesiva a alguien o a algo",
+              "answer": "FOBIA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo invites a la final",
+              "answer": "ITES"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Elemento compositivo que significa 'Aire'",
+              "answer": "AERO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Engrasar, untar con ungüentos",
+              "answer": "ACEITAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Hermano gemelo de Egipto, Ambos hijos del mítico rey Belo",
+              "answer": "DANAO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "2 en números romanos",
+              "answer": "II"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Dejan de hacer ejercicios",
+              "answer": "OXIDAN"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Pensador que dijo \"El infierno son los otros\"",
+              "answer": "SARTRE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Ceremonia para no errar el tiro",
+              "answer": "RITO"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Dominio de internet para Grecia",
+              "answer": "GR"
+            },
+            "23": {
+              "col": 5,
+              "row": 3,
+              "clue": "\"Monte …\" volcán activo de Italia",
+              "answer": "VESUBIO"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Escasa, insuficiente",
+              "answer": "POCA"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"Marco…\", el último de los 'Cinco Buenos Emperadores' romanos",
+              "answer": "AURELIO"
+            },
+            "29": {
+              "col": 12,
+              "row": 4,
+              "clue": "Desordenado",
+              "answer": "CAOTICO"
+            },
+            "31": {
+              "col": 3,
+              "row": 5,
+              "clue": "Carisma de los peruanos",
+              "answer": "JALE"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "Piedras preciosas de color rojo e intenso brillo",
+              "answer": "RUBIS"
+            },
+            "33": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"… Jaeger\" protagonista principal de Ataque a los Titanes",
+              "answer": "EREN"
+            },
+            "34": {
+              "col": 9,
+              "row": 5,
+              "clue": "Hojaldre de un solo bocado",
+              "answer": "CANAPES"
+            },
+            "38": {
+              "col": 6,
+              "row": 6,
+              "clue": "Hongo con forma de sombrilla",
+              "answer": "SETA"
+            },
+            "39": {
+              "col": 11,
+              "row": 6,
+              "clue": "Israel no es para él",
+              "answer": "ISRA"
+            },
+            "43": {
+              "col": 13,
+              "row": 7,
+              "clue": "Eduqué al perro",
+              "answer": "AMAESTRE"
+            },
+            "44": {
+              "col": 14,
+              "row": 7,
+              "clue": "Extraña, diferente",
+              "answer": "RARA"
+            },
+            "46": {
+              "col": 4,
+              "row": 8,
+              "clue": "Aclaren mejor lo del traumatismo de la cabeza",
+              "answer": "CRANEAL"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pensador que dijo \"El conocimiento es la opinión cierta\"",
+              "answer": "PLATON"
+            },
+            "49": {
+              "col": 1,
+              "row": 9,
+              "clue": "Autora de la serie literaria 'Manolito Gafotas'",
+              "answer": "ELVIRA"
+            },
+            "52": {
+              "col": 10,
+              "row": 9,
+              "clue": "Guía espiritual tibetano",
+              "answer": "LAMA"
+            },
+            "54": {
+              "col": 3,
+              "row": 10,
+              "clue": "Pasaba a la terraza",
+              "answer": "SALIA"
+            },
+            "55": {
+              "col": 8,
+              "row": 10,
+              "clue": "Licores alcohólicos que se hacen del zumo de las uvas",
+              "answer": "VINOS"
+            },
+            "59": {
+              "col": 5,
+              "row": 11,
+              "clue": "Preposición que denota lugar",
+              "answer": "EN"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "Juntad dos o más cosas entre sí",
+              "answer": "UNID"
+            },
+            "61": {
+              "col": 7,
+              "row": 11,
+              "clue": "Hurte, despoje",
+              "answer": "ROBE"
+            },
+            "62": {
+              "col": 11,
+              "row": 11,
+              "clue": "Compañía taiwanesa fabricante de computadoras",
+              "answer": "ACER"
+            },
+            "66": {
+              "col": 12,
+              "row": 12,
+              "clue": "Corta el centro de la torta",
+              "answer": "ORT"
+            },
+            "67": {
+              "col": 14,
+              "row": 12,
+              "clue": "Primera letra (pl)",
+              "answer": "AES"
+            },
+            "69": {
+              "col": 2,
+              "row": 13,
+              "clue": "Gustaf Skarsgard, interpreta a Floki en Vikingos",
+              "answer": "GS"
+            },
+            "71": {
+              "col": 9,
+              "row": 13,
+              "clue": "No contesta Nacho Cano",
+              "answer": "NC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Disciplina festejada hoy y cuyos pensadores rodean esta grilla",
+              "answer": "FILOSOFIA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Voz para despedirse",
+              "answer": "ADIOS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ondas en la superficie de las aguas",
+              "answer": "OLAS"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "El king de los raperos sevillanos",
+              "answer": "TOTE"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"La…\" fundación bancaria española",
+              "answer": "CAIXA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Remediar un mal",
+              "answer": "CURAR"
+            },
+            "19": {
+              "col": 6,
+              "row": 2,
+              "clue": "Conocida como la ciudad de los fiordos en Noruega",
+              "answer": "BERGEN"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Lo último en salir",
+              "answer": "IR"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Línea que señala los límites entre territorios",
+              "answer": "DIVISORIA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Director Técnico",
+              "answer": "DT"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Paul Thomas Anderson (director de 'Una batalla tras otra')",
+              "answer": "PTA"
+            },
+            "27": {
+              "col": 4,
+              "row": 4,
+              "clue": "Astilla impregnada de resina, para alumbrar",
+              "answer": "TEA"
+            },
+            "28": {
+              "col": 10,
+              "row": 4,
+              "clue": "Ejercitar el sentido del tacto",
+              "answer": "TOCAR"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hollejos, ya exprimidos, de la uva",
+              "answer": "ORUJOS"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "El recado está incompleto",
+              "answer": "RECA"
+            },
+            "35": {
+              "col": 12,
+              "row": 5,
+              "clue": "Antes de Nuestra Era (siglas)",
+              "answer": "ANE"
+            },
+            "36": {
+              "col": 0,
+              "row": 6,
+              "clue": "Fachada o frente de algo",
+              "answer": "CARA"
+            },
+            "37": {
+              "col": 5,
+              "row": 6,
+              "clue": "Relativo a un préstamo con interés excesivo",
+              "answer": "USURARIO"
+            },
+            "40": {
+              "col": 0,
+              "row": 7,
+              "clue": "Criba grande para limpiar el trigo en la era",
+              "answer": "AREL"
+            },
+            "41": {
+              "col": 5,
+              "row": 7,
+              "clue": "Se lo toman, se lo…",
+              "answer": "BEBEN"
+            },
+            "42": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… Trek\" la serie del Enterprise",
+              "answer": "STAR"
+            },
+            "45": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"… de soja\" de las grasas vegetales más saludables",
+              "answer": "LECITINA"
+            },
+            "47": {
+              "col": 11,
+              "row": 8,
+              "clue": "Verso",
+              "answer": "RIMA"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pie deforme",
+              "answer": "PEI"
+            },
+            "50": {
+              "col": 4,
+              "row": 9,
+              "clue": "Cortes superficialmente, con los dientes",
+              "answer": "ROAS"
+            },
+            "51": {
+              "col": 9,
+              "row": 9,
+              "clue": "Detener un ataque en rugby",
+              "answer": "PLACAR"
+            },
+            "53": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Mario Vargas…\" en 'La ciudad y los perros'",
+              "answer": "LLOSA"
+            },
+            "55": {
+              "col": 8,
+              "row": 10,
+              "clue": "Observe, esa ave está loca",
+              "answer": "VEA"
+            },
+            "56": {
+              "col": 12,
+              "row": 10,
+              "clue": "Organización de los Estados Americanos",
+              "answer": "OEA"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "En la avenida está Arturo Valls",
+              "answer": "AV"
+            },
+            "58": {
+              "col": 3,
+              "row": 11,
+              "clue": "Dilatación patológica de un vaso sanguíoneo, por debilitamiento de sus paredes",
+              "answer": "ANEURISMA"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "64": {
+              "col": 3,
+              "row": 12,
+              "clue": "Fundador de la banda de rock The Beatles",
+              "answer": "LENNON"
+            },
+            "65": {
+              "col": 10,
+              "row": 12,
+              "clue": "Delimita el ámbito o espacio de algo",
+              "answer": "ACOTA"
+            },
+            "68": {
+              "col": 0,
+              "row": 13,
+              "clue": "Sexo grupal",
+              "answer": "ORGIA"
+            },
+            "70": {
+              "col": 6,
+              "row": 13,
+              "clue": "Aragón Lago de la zona de los Pirineos",
+              "answer": "IBON"
+            },
+            "72": {
+              "col": 11,
+              "row": 13,
+              "clue": "Me equivoqué",
+              "answer": "ERRE"
+            },
+            "73": {
+              "col": 0,
+              "row": 14,
+              "clue": "Relativo a la nariz",
+              "answer": "NASAL"
+            },
+            "74": {
+              "col": 6,
+              "row": 14,
+              "clue": "Pensador que dijo \"Pienso, luego existo\"",
+              "answer": "DESCARTES"
+            }
+          }
+        },
+        "vertical_clues": "1-Perdiendo el foco\r\n2-Dar luz al entendimiento\r\n3-Hogar, sitio de la lumbre en la cocina\r\n4-Encarad, desafiad, enfrentad\r\n5-Operación Triunfo (siglas)\r\n6-Aversión obsesiva a alguien o a algo\r\n7-Lo invites a la final\r\n8-Elemento compositivo que significa 'Aire'\r\n9-Engrasar, untar con ungüentos\r\n10-Hermano gemelo de Egipto, Ambos hijos del mítico rey Belo\r\n11-2 en números romanos\r\n12-Dejan de hacer ejercicios\r\n13-Pensador que dijo \"El infierno son los otros\"\r\n18-Ceremonia para no errar el tiro\r\n20-Dominio de internet para Grecia\r\n23-\"Monte …\" volcán activo de Italia\r\n25-Escasa, insuficiente\r\n26-\"Marco…\", el último de los 'Cinco Buenos Emperadores' romanos\r\n29-Desordenado\r\n31-Carisma de los peruanos\r\n32-Piedras preciosas de color rojo e intenso brillo\r\n33-\"… Jaeger\" protagonista principal de Ataque a los Titanes\r\n34-Hojaldre de un solo bocado\r\n38-Hongo con forma de sombrilla\r\n39-Israel no es para él\r\n43-Eduqué al perro\r\n44-Extraña, diferente\r\n46-Aclaren mejor lo del traumatismo de la cabeza\r\n48-Pensador que dijo \"El conocimiento es la opinión cierta\"\r\n49-Autora de la serie literaria 'Manolito Gafotas'\r\n52-Guía espiritual tibetano\r\n54-Pasaba a la terraza\r\n55-Licores alcohólicos que se hacen del zumo de las uvas\r\n59-Preposición que denota lugar\r\n60-Juntad dos o más cosas entre sí\r\n61-Hurte, despoje\r\n62-Compañía taiwanesa fabricante de computadoras\r\n66-Corta el centro de la torta\r\n67-Primera letra (pl)\r\n69-Gustaf Skarsgard, interpreta a Floki en Vikingos\r\n71-No contesta Nacho Cano\r\n",
+        "horizontal_clues": "1-Disciplina festejada hoy y cuyos pensadores rodean esta grilla\r\n9-Voz para despedirse\r\n14-Ondas en la superficie de las aguas\r\n15-El king de los raperos sevillanos\r\n16-\"La…\" fundación bancaria española\r\n17-Remediar un mal\r\n19-Conocida como la ciudad de los fiordos en Noruega\r\n21-Lo último en salir\r\n22-Línea que señala los límites entre territorios\r\n24-Director Técnico\r\n25-Paul Thomas Anderson (director de 'Una batalla tras otra')\r\n27-Astilla impregnada de resina, para alumbrar\r\n28-Ejercitar el sentido del tacto\r\n30-Hollejos, ya exprimidos, de la uva\r\n32-El recado está incompleto\r\n35-Antes de Nuestra Era (siglas)\r\n36-Fachada o frente de algo\r\n37-Relativo a un préstamo con interés excesivo\r\n40-Criba grande para limpiar el trigo en la era\r\n41-Se lo toman, se lo…\r\n42-\"… Trek\" la serie del Enterprise\r\n45-\"… de soja\" de las grasas vegetales más saludables\r\n47-Verso\r\n48-Pie deforme\r\n50-Cortes superficialmente, con los dientes\r\n51-Detener un ataque en rugby\r\n53-\"Mario Vargas…\" en 'La ciudad y los perros'\r\n55-Observe, esa ave está loca\r\n56-Organización de los Estados Americanos\r\n57-En la avenida está Arturo Valls\r\n58-Dilatación patológica de un vaso sanguíoneo, por debilitamiento de sus paredes\r\n63-Titanio\r\n64-Fundador de la banda de rock The Beatles\r\n65-Delimita el ámbito o espacio de algo\r\n68-Sexo grupal\r\n70-Aragón Lago de la zona de los Pirineos\r\n72-Me equivoqué\r\n73-Relativo a la nariz\r\n74-Pensador que dijo \"Pienso, luego existo\"\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,19,#,#,20,#,#,#,21,#\r\n#,#,#,22,#,23,#,#,#,#,#,#,#,24,#\r\n25,#,26,#,27,#,#,#,#,#,28,#,29,#,#\r\n30,#,#,31,#,#,#,32,33,34,#,#,35,#,#\r\n36,#,#,#,#,37,38,#,#,#,#,39,#,#,#\r\n40,#,#,#,#,41,#,#,#,#,#,42,#,43,44\r\n#,#,45,#,46,#,#,#,#,#,#,47,#,#,#\r\n48,49,#,#,50,#,#,#,#,51,52,#,#,#,#\r\n53,#,#,54,#,#,#,#,55,#,#,#,56,#,#\r\n57,#,#,58,#,59,60,61,#,#,#,62,#,#,#\r\n63,#,#,64,#,#,#,#,#,#,65,#,66,#,67\r\n68,#,69,#,#,#,70,#,#,71,#,72,#,#,#\r\n73,#,#,#,#,#,74,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

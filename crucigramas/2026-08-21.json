@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6929,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-21T07:44:41.348518Z",
+      "updatedAt": "2026-08-21T07:45:32.623771Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALPACAS#COOKIES\r\nC##FACE#AVION#O\r\nOVARIOS#JIANG#N\r\nTIMO#GALON#GEMA\r\nAEI#SEMANAL#ROR\r\nINSTO#OG##IMITA\r\nSAHIB##A#LEERAN\r\n###GRUA#MENA###\r\nOVARIO#O##DREAM\r\nVISEN##TV#RENGA\r\nEÑE#APURARE#TUN\r\nJANO#EROGA#FRED\r\nE#TREND#IMPRESA\r\nR#ACUSA#NOTO##L\r\nOBRARON#ASEGURA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Colocáis los cotos en un terreno",
+              "answer": "ACOTAIS"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tipo de peinado popular en los años 60 y 70",
+              "answer": "AFRO"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Me… y me hice pupa",
+              "answer": "CAI"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Refugia, recibe en su hogar",
+              "answer": "ACOGE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pasta de nueces, almendras o piñones con ajonjolí",
+              "answer": "SESAMO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "El instrumento de percusión peruano en el nuevo flamenco",
+              "answer": "CAJON"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Dicho del ganado lanar (fem)",
+              "answer": "OVINA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Escuchaba, percibía el sonido",
+              "answer": "OIA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"King…\", uno de los personajes más conocidos en la historia del cine",
+              "answer": "KONG"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Introducir comida por la boca",
+              "answer": "INGERIR"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Retumbarán",
+              "answer": "SONARAN"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Capital de Austria",
+              "answer": "VIENA"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Grupo etnorreligioso protestante que no usa electricidad",
+              "answer": "AMISH"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Playa surfera de Vizcaya",
+              "answer": "LAGA"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Nombre que recibe la marihuana en México",
+              "answer": "MOTA"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "La hija de mi hermano",
+              "answer": "SOBRINA"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Piojo bebé",
+              "answer": "LIENDRE"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Le grité desesperadamente al felino",
+              "answer": "TIGRE"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Orinaré",
+              "answer": "MEARE"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Iniciales de la mexicana autora de 'Como agua para chocolate'",
+              "answer": "LE"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "La Unión de Oficiales",
+              "answer": "UO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hombre que cuida de las ovejas",
+              "answer": "OVEJERO"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Proverbio: 'De todo hay en la… del Señor'",
+              "answer": "VIÑA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Fundar, establecer un pueblo",
+              "answer": "ASENTAR"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Está roto, dame…",
+              "answer": "OTRO"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Pase adelante",
+              "answer": "ENTRE"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Mezcles café con agua",
+              "answer": "AGUES"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Envíala a pintar el dibujo circular budista",
+              "answer": "MANDALA"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Parte de los órganos genitales internos de la mujer",
+              "answer": "VAGINA"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Analizó",
+              "answer": "PENSO"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Preparen los hilos en la urdidera para pasarlos al telar",
+              "answer": "URDAN"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Exdefensa central del Real Madrid",
+              "answer": "RAMOS"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Ballena en blanco y negro",
+              "answer": "ORCA"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Rana en inglés",
+              "answer": "FROG"
+            },
+            "60": {
+              "col": 4,
+              "row": 12,
+              "clue": "Abreviatura del euro",
+              "answer": "EUR"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Puente pequeño",
+              "answer": "PTE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Animal de Perú y Bolivia de cuya lana se extrae una fibra",
+              "answer": "ALPACAS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Internet: Las que muestran nuestros hábitos de navegación",
+              "answer": "COOKIES"
+            },
+            "12": {
+              "col": 3,
+              "row": 1,
+              "clue": "\"Poker…\" hit de Lady Gaga incluido en su álbum debut",
+              "answer": "FACE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Medio para volar",
+              "answer": "AVION"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Gónadas femeninas productoras de óvulos",
+              "answer": "OVARIOS"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "\"… Qing\" también conocida como Madame Mao",
+              "answer": "JIANG"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Un engaño, una estafa",
+              "answer": "TIMO"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "4,5461 litros",
+              "answer": "GALON"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Nombre genérico de las piedras preciosas",
+              "answer": "GEMA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Las primeras vocales",
+              "answer": "AEI"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Que sucede o se repite cada semana",
+              "answer": "SEMANAL"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "Furor en el oriente",
+              "answer": "ROR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pido, solicito",
+              "answer": "INSTO"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Iniciales de pintor ecuatoriano autor de 'Quito en rojo'",
+              "answer": "OG"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Parodia, emula como Carlos Latre",
+              "answer": "IMITA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Honorífico árabe que equivale a 'Señor'",
+              "answer": "SAHIB"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Verán hasta la última página",
+              "answer": "LEERAN"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Automóvil usado para remolcar otro vehículo",
+              "answer": "GRUA"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Menor Extranjero No Acompañado",
+              "answer": "MENA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Gónada femenina",
+              "answer": "OVARIO"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"Sueño\" en inglés",
+              "answer": "DREAM"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Den validez a un pasaporte",
+              "answer": "VISEN"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "La caja mágica",
+              "answer": "TV"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Coja, por lesión de las caderas",
+              "answer": "RENGA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una letra con personalidad española",
+              "answer": "EÑE"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Me daré prisa, me…",
+              "answer": "APURARE"
+            },
+            "54": {
+              "col": 12,
+              "row": 10,
+              "clue": "Tallo de petunia",
+              "answer": "TUN"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dios romano de las puertas",
+              "answer": "JANO"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "Adjudica, raciona, distribuye",
+              "answer": "EROGA"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "El chico rubio de Scooby-Doo",
+              "answer": "FRED"
+            },
+            "59": {
+              "col": 2,
+              "row": 12,
+              "clue": "Una abreviatura es trending topic",
+              "answer": "TREND"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Reproducida en papel mediante tinta",
+              "answer": "IMPRESA"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Denuncia, delata",
+              "answer": "ACUSA"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Reparó, observó o advirtió",
+              "answer": "NOTO"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Procedieron, actuaron",
+              "answer": "OBRARON"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Afirma con certeza que paga su póliza",
+              "answer": "ASEGURA"
+            }
+          }
+        },
+        "vertical_clues": "1-Colocáis los cotos en un terreno\r\n2-Tipo de peinado popular en los años 60 y 70\r\n3-Me… y me hice pupa\r\n4-Refugia, recibe en su hogar\r\n5-Pasta de nueces, almendras o piñones con ajonjolí\r\n6-El instrumento de percusión peruano en el nuevo flamenco\r\n7-Dicho del ganado lanar (fem)\r\n8-Escuchaba, percibía el sonido\r\n9-\"King…\", uno de los personajes más conocidos en la historia del cine\r\n10-Introducir comida por la boca\r\n11-Retumbarán\r\n15-Capital de Austria\r\n16-Grupo etnorreligioso protestante que no usa electricidad\r\n20-Playa surfera de Vizcaya\r\n22-Nombre que recibe la marihuana en México\r\n24-La hija de mi hermano\r\n25-Piojo bebé\r\n28-Le grité desesperadamente al felino\r\n31-Orinaré\r\n33-Iniciales de la mexicana autora de 'Como agua para chocolate' \r\n35-La Unión de Oficiales\r\n37-Hombre que cuida de las ovejas\r\n38-Proverbio: 'De todo hay en la… del Señor'\r\n39-Fundar, establecer un pueblo\r\n40-Está roto, dame…\r\n42-Pase adelante\r\n43-Mezcles café con agua\r\n44-Envíala a pintar el dibujo circular budista\r\n47-Parte de los órganos genitales internos de la mujer\r\n51-Analizó \r\n52-Preparen los hilos en la urdidera para pasarlos al telar\r\n53-Exdefensa central del Real Madrid\r\n56-Ballena en blanco y negro\r\n58-Rana en inglés\r\n60-Abreviatura del euro\r\n62-Puente pequeño",
+        "horizontal_clues": "1-Animal de Perú y Bolivia de cuya lana se extrae una fibra\r\n6-Internet: Las que muestran nuestros hábitos de navegación\r\n12-\"Poker…\" hit de Lady Gaga incluido en su álbum debut\r\n13-Medio para volar\r\n14-Gónadas femeninas productoras de óvulos\r\n17-\"… Qing\" también conocida como Madame Mao\r\n18-Un engaño, una estafa\r\n19-4,5461 litros\r\n21-Nombre genérico de las piedras preciosas\r\n23-Las primeras vocales\r\n24-Que sucede o se repite cada semana\r\n26-Furor en el oriente\r\n27-Pido, solicito\r\n29-Iniciales de pintor ecuatoriano autor de 'Quito en rojo'\r\n30-Parodia, emula como Carlos Latre\r\n32-Honorífico árabe que equivale a 'Señor'\r\n33-Verán hasta la última página\r\n34-Automóvil usado para remolcar otro vehículo\r\n36-Menor Extranjero No Acompañado\r\n37-Gónada femenina\r\n41-\"Sueño\" en inglés\r\n45-Den validez a un pasaporte\r\n46-La caja mágica\r\n48-Coja, por lesión de las caderas\r\n49-Una letra con personalidad española\r\n50-Me daré prisa, me…\r\n54-Tallo de petunia\r\n55-Dios romano de las puertas\r\n57-Adjudica, raciona, distribuye\r\n58-El chico rubio de Scooby-Doo\r\n59-Una abreviatura es trending topic\r\n61-Reproducida en papel mediante tinta \r\n63-Denuncia, delata\r\n64-Reparó, observó o advirtió\r\n65-Procedieron, actuaron \r\n66-Afirma con certeza que paga su póliza",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,#,2,3,4,5,#,6,7,8,9,10,#,11\r\n#,#,#,12,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,16,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,#,19,#,20,#,#,#,21,#,22,#\r\n23,#,#,#,24,#,#,#,#,#,25,#,26,#,#\r\n27,#,#,28,#,#,29,#,#,#,30,31,#,#,#\r\n32,#,#,#,#,#,#,#,#,33,#,#,#,#,#\r\n#,#,#,34,#,35,#,#,36,#,#,#,#,#,#\r\n37,38,39,#,#,#,#,40,#,#,41,#,42,43,44\r\n45,#,#,#,#,#,#,46,47,#,48,#,#,#,#\r\n49,#,#,#,50,51,52,#,#,53,#,#,54,#,#\r\n55,#,#,56,#,57,#,#,#,#,#,58,#,#,#\r\n#,#,59,#,60,#,#,#,61,#,62,#,#,#,#\r\n#,#,63,#,#,#,#,#,64,#,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 383,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-11T17:27:28.932565Z",
+      "updatedAt": "2024-06-11T17:27:28.932588Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-12",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CONSUMO#RAPIDEZ\r\nAT#EDULCORAR#DO\r\nP#BRUNI#CLIPS#Z\r\nTRUE#DARIO#FOCO\r\nIES##OSEAS##ROB\r\nVACAS##C##PODAR\r\nABOGA#FEA#EBOLA\r\n#S#UNCI#HART#I#\r\nMOPAS#AGA#REICH\r\nIRINA##A##ANNIE\r\nOBO##CTRLA##DOR\r\nCEJO#ROYAL#TINO\r\nE#OPIOS#NURIA#I\r\nND#TONELADAS#MN\r\nORGANON#SECUELA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Atrapada, cautiva, ¡sin escapatoria!.",
+              "answer": "CAPTIVA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Un complot por el oriente.",
+              "answer": "OT"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"... la gata bajo la lluvia\" Rocío Durcal.",
+              "answer": "SERE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lo que tiene el vudú de fraudulento.",
+              "answer": "UDU"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"El... es bello, pero tiene un defecto llamado hombre\". Nietzsche.",
+              "answer": "MUNDO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Te lo sospechabas, te lo...",
+              "answer": "OLIAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Esparce menudas gotas de agua sobre algo.",
+              "answer": "ROCIA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Carlos perdió su capital.",
+              "answer": "ARLOS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Programa Ampliado de Inmunizaciones (siglas).",
+              "answer": "PAI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "El impuesto sobre la renta de las personas físicas.",
+              "answer": "IRPF"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Edición Editorial (abrev).",
+              "answer": "ED"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "La angustia que no fafalta.",
+              "answer": "ZOZOBRA"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Indago, investigo los cubos dañados.",
+              "answer": "BUSCO"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Privado de la facultad de oír.",
+              "answer": "SORDO"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Vuelve a absorber.",
+              "answer": "REABSORBE"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Diríjase a Dios.",
+              "answer": "RECE"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Confederación, liga, unión.",
+              "answer": "COALICION"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Rebajan con agua.",
+              "answer": "AGUAN"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Personaje de Sophie Turner en 'Juego de tronos'.",
+              "answer": "SANSA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Hembra del perro.",
+              "answer": "PERRA"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Ten, adquiere, consigue.",
+              "answer": "OBTEN"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Vende a crédito.",
+              "answer": "FIA"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Saliendo de la Yamaha.",
+              "answer": "AHA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Época que precede al Plioceno.",
+              "answer": "MIOCENO"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Insecto parásito, en la cabeza de los niños.",
+              "answer": "PIOJO"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Entrenador rival de Ash, en Pokémon.",
+              "answer": "GARY"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "País cuya capital es Nueva Delhi.",
+              "answer": "INDIA"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Droga opioide altamente adictiva.",
+              "answer": "HEROINA"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Personificación griega del tiempo.",
+              "answer": "CRONO"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Se ahogan, se atragantan.",
+              "answer": "TOSEN"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Pelo de las ovejas (pl).",
+              "answer": "LANAS"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Apunta, insinúa, sugiere.",
+              "answer": "ALUDE"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Elige, estás capacitado.",
+              "answer": "OPTA"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Tela con hilos de oro o plata.",
+              "answer": "TISU"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "De adicción y de opresión.",
+              "answer": "ION"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Viene subiendo en un coche americano.",
+              "answer": "RAC"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Pequeño doctor.",
+              "answer": "DR"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Símbolo del mililitro.",
+              "answer": "ML"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo ingiero con sumo cuidado.",
+              "answer": "CONSUMO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Velocidad impetuosa.",
+              "answer": "RAPIDEZ"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Símbolo químico del ástato.",
+              "answer": "AT"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Endulzar.",
+              "answer": "EDULCORAR"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Denominación de origen.",
+              "answer": "DO"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Modelo, cantante y esposa de Nicolas Sarkozy.",
+              "answer": "BRUNI"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Utensilio de alambre para sujetar papeles (pl).",
+              "answer": "CLIPS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Un verdadero inglés.",
+              "answer": "TRUE"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Debió morir a manos de Alejandro y no del sátrapa de Bessos.",
+              "answer": "DARIO"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Pon tu atención en esta lámpara.",
+              "answer": "FOCO"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Plural de la tercera vocal.",
+              "answer": "IES"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Hechas de hueso.",
+              "answer": "OSEAS"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Miel de dátiles.",
+              "answer": "ROB"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Las lecheras.",
+              "answer": "VACAS"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cortar y dar forma a un arbusto.",
+              "answer": "PODAR"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Intercede, habla en favor de alguien.",
+              "answer": "ABOGA"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Desprovista de belleza.",
+              "answer": "FEA"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Epidemia del 2014",
+              "answer": "EBOLA"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Sujeté el yugo a los bueyes.",
+              "answer": "UNCI"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"Herbert L. A. ...\" filósofo jurista, autor del libro 'El concepto de derecho'.",
+              "answer": "HART"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Fregonas.",
+              "answer": "MOPAS"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Ajuste General Anual.",
+              "answer": "AGA"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "La Alemania Nazi, el Tercer...",
+              "answer": "REICH"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Shayk, la modelo rusa.",
+              "answer": "IRINA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"… Leibovitz\" la fotógrafa de Cristiano y Messi sobre el tablero LV.",
+              "answer": "ANNIE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ecuador. Árbol de jobo.",
+              "answer": "OBO"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Comando para seleccionar todo el contenido de una ventana de internet (2 teclas).",
+              "answer": "CTRLA"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Dormías con las tuyas.",
+              "answer": "DOR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Niebla que sale sobre los ríos y arroyos después de salir el sol.",
+              "answer": "CEJO"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Este polvo blanco eleva a las masas.",
+              "answer": "ROYAL"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "El loco Toni tiene buen juicio, siempre acierta.",
+              "answer": "TINO"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "Sustancia analgésica narcótica, derivada de la amapola (pl).",
+              "answer": "OPIOS"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Esta chica se unirá y será su ruina.",
+              "answer": "NURIA"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ando sin límites.",
+              "answer": "ND"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "2000 kg = 2...",
+              "answer": "TONELADAS"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Símbolo químico del Manganeso.",
+              "answer": "MN"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Conjunto de obras de lógica escritas por Aristóteles.",
+              "answer": "ORGANON"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "La segunda parte de una serie, tiempo después.",
+              "answer": "SECUELA"
+            }
+          }
+        },
+        "vertical_clues": "1-Atrapada, cautiva, ¡sin escapatoria!. \r\n2-Un complot por el oriente.\r\n3-\"... la gata bajo la lluvia\" Rocío Durcal.\r\n4-Lo que tiene el vudú de fraudulento.\r\n5-\"El... es bello, pero tiene un defecto llamado hombre\". Nietzsche. \r\n6-Te lo sospechabas, te lo...\r\n7-Esparce menudas gotas de agua sobre algo.\r\n8-Carlos perdió su capital.\r\n9-Programa Ampliado de Inmunizaciones (siglas).\r\n10-El impuesto sobre la renta de las personas físicas.\r\n11-Edición Editorial (abrev).\r\n12-La angustia que no fafalta.\r\n16-Indago, investigo los cubos dañados.\r\n18-Privado de la facultad de oír.\r\n20-Vuelve a absorber.\r\n22-Diríjase a Dios.\r\n24-Confederación, liga, unión.\r\n29-Rebajan con agua.\r\n30-Personaje de Sophie Turner en 'Juego de tronos'. \r\n31-Hembra del perro.\r\n32-Ten, adquiere, consigue.\r\n34-Vende a crédito.\r\n35-Saliendo de la Yamaha.\r\n39-Época que precede al Plioceno.\r\n40-Insecto parásito, en la cabeza de los niños.\r\n42-Entrenador rival de Ash, en Pokémon.\r\n44-País cuya capital es Nueva Delhi.\r\n45-Droga opioide altamente adictiva.\r\n49-Personificación griega del tiempo.\r\n50-Se ahogan, se atragantan.\r\n51-Pelo de las ovejas (pl).\r\n52-Apunta, insinúa, sugiere.\r\n55-Elige, estás capacitado.\r\n57-Tela con hilos de oro o plata.\r\n59-De adicción y de opresión.\r\n61-Viene subiendo en un coche americano.\r\n63-Pequeño doctor.\r\n65-Símbolo del mililitro.",
+        "horizontal_clues": "1-Lo ingiero con sumo cuidado. \r\n7-Velocidad impetuosa.\r\n13-Símbolo químico del ástato.\r\n14-Endulzar.\r\n15-Denominación de origen.\r\n16-Modelo, cantante y esposa de Nicolas Sarkozy.\r\n17-Utensilio de alambre para sujetar papeles (pl).\r\n19-Un verdadero inglés.\r\n21-Debió morir a manos de Alejandro y no del sátrapa de Bessos. \r\n23-Pon tu atención en esta lámpara.\r\n25-Plural de la tercera vocal.\r\n26-Hechas de hueso.\r\n27-Miel de dátiles.\r\n28-Las lecheras.\r\n31-Cortar y dar forma a un arbusto.\r\n33-Intercede, habla en favor de alguien.\r\n34-Desprovista de belleza.\r\n36-Epidemia del 2014-16, en África.\r\n37-Sujeté el yugo a los bueyes.\r\n38-\"Herbert L. A. ...\" filósofo jurista, autor del libro 'El concepto de derecho'.\r\n39-Fregonas.\r\n41-Ajuste General Anual.\r\n43-La Alemania Nazi, el Tercer...\r\n46-Shayk, la modelo rusa.\r\n47-\"… Leibovitz\" la fotógrafa de Cristiano y Messi sobre el tablero LV.\r\n48-Ecuador. Árbol de jobo.\r\n49-Comando para seleccionar todo el contenido de una ventana de internet (2 teclas). \r\n53-Dormías con las tuyas.\r\n54-Niebla que sale sobre los ríos y arroyos después de salir el sol.\r\n56-Este polvo blanco eleva a las masas.\r\n57-El loco Toni tiene buen juicio, siempre acierta.\r\n58-Sustancia analgésica narcótica, derivada de la amapola (pl).\r\n60-Esta chica se unirá y será su ruina.\r\n62-Ando sin límites.\r\n64-2000 kg = 2...\r\n65-Símbolo químico del Manganeso.\r\n66-Conjunto de obras de lógica escritas por Aristóteles.\r\n67-La segunda parte de una serie, tiempo después.",
+        "board_clues_positions": "1,2,#,3,4,5,6,#,7,8,9,10,#,11,12\r\n13,#,#,14,#,#,#,#,#,#,#,#,#,15,#\r\n#,#,16,#,#,#,#,#,17,#,#,#,18,#,#\r\n19,20,#,#,#,21,#,22,#,#,#,23,#,24,#\r\n25,#,#,#,#,26,#,#,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,#,#,#,#,31,32,#,#,#\r\n33,#,#,#,#,#,34,#,35,#,36,#,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,#,40,#,#,#,41,42,#,#,43,#,44,#,45\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,49,50,#,51,52,#,#,53,#,#\r\n54,#,#,55,#,56,#,#,#,#,#,57,#,#,#\r\n#,#,58,#,59,#,#,#,60,#,61,#,#,#,#\r\n62,63,#,64,#,#,#,#,#,#,#,#,#,65,#\r\n66,#,#,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

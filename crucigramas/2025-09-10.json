@@ -1,0 +1,526 @@
+{
+  "data": {
+    "id": 3291,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-30T07:34:50.499663Z",
+      "updatedAt": "2025-08-30T07:34:50.525545Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-10",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "RAPHAEL#ESCLAVA\r\nECTOPLASMA#IPIL\r\nSEV#ALTITUD#TEM\r\nPR#ARIEL#CAPOTA\r\nECARTE#BEERS#NN\r\nTARTA#FAM#TIRAS\r\nARME#SIRIA#CIMA\r\n##ASPAS#LAVOZ##\r\nVANA#FIEIS#PONE\r\nIRINA#CNA#RAMAL\r\nNR#ALBOR#METATE\r\nTOALLA#APAGA#AN\r\nAPU#ALEMANA#DLC\r\nGATA#OPERATORIO\r\nEROGENO#ETEREAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Considera, valora, tolera a las personas",
+              "answer": "RESPETA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Poner a menor distancia de lugar o tiempo",
+              "answer": "ACERCAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Empresa cordobesa de TV, internet y telefonía",
+              "answer": "PTV"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico del Holmio",
+              "answer": "HO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Quita a alguien o algo del camino",
+              "answer": "APARTA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "La personaje principal del videojuego 'The Last of Us'",
+              "answer": "ELLIE"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Palpita, pulsa",
+              "answer": "LATE"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Empresa Municipal de Transporte",
+              "answer": "EMT"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Árbol llorón o Árbol de Babilonia, nativo de China",
+              "answer": "SAUCE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Las puertas del Lamborghini",
+              "answer": "LI"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Un pato capacitado",
+              "answer": "APTO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "La guerra que perdió EEUU en 1973",
+              "answer": "VIETNAM"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Ciudad natal de Santiago Bernabéu",
+              "answer": "ALMANSA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "En Brasil a lo loco, aprendí a soplar con ruido",
+              "answer": "SILBAR"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Misión de la NASA para la seguridad planetaria",
+              "answer": "DART"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Hecho a mano",
+              "answer": "ARTESANAL"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "Persona que padece anomalía psíquica",
+              "answer": "PSICOPATA"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"Giorgio…\", diseñador italiano",
+              "answer": "ARMANI"
+            },
+            "28": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"… Clarke\" interpretó a la Madre de Dragones",
+              "answer": "EMILIA"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Profesión de Einstein o Dirac",
+              "answer": "FISICO"
+            },
+            "33": {
+              "col": 12,
+              "row": 5,
+              "clue": "Tubérculo, raíz",
+              "answer": "RIZOMA"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Síndrome de Alcohólico Fetal (siglas)",
+              "answer": "SAF"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Pequeñas baterías",
+              "answer": "AAS"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Diseño artístico antiguo",
+              "answer": "VINTAGE"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Poner una manta",
+              "answer": "ARROPAR"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Decoré un espacio colocándole ramas",
+              "answer": "ENRAME"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"… Jiménez\", cantautora española",
+              "answer": "NATALIA"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Nómina de una compañía teatral (pl)",
+              "answer": "ELENCOS"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "\"No soy de aquí ni de…\" Facundo Cabral",
+              "answer": "ALLA"
+            },
+            "50": {
+              "col": 10,
+              "row": 9,
+              "clue": "Finta que hace un jugador para no dejarse arrebatar el balón",
+              "answer": "REGATE"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Pelota de fútbol, baloncesto o voleibol",
+              "answer": "BALON"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Moneda empleada actualmente en Azerbaiyán y Turkmenistán",
+              "answer": "MANAT"
+            },
+            "56": {
+              "col": 2,
+              "row": 11,
+              "clue": "Coche, carro",
+              "answer": "AUTO"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Da a luz, por eso me detuve",
+              "answer": "PARE"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Eritropoyetina",
+              "answer": "EPO"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"Dr…\" rapero que ha producido más de 60 canciones para Eminem",
+              "answer": "DRE"
+            },
+            "65": {
+              "col": 3,
+              "row": 13,
+              "clue": "Dominio de nivel superior geográfico para Antigua y Barbuda",
+              "answer": "AG"
+            },
+            "67": {
+              "col": 11,
+              "row": 13,
+              "clue": "Al final del corredor",
+              "answer": "OR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Famoso cantante español de la canción \"Yo soy aquel\"",
+              "answer": "RAPHAEL"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Pulsera sin adornos que no se abre",
+              "answer": "ESCLAVA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "La supuesta materia viva presente en todos los cuerpos",
+              "answer": "ECTOPLASMA"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Madera filipina incorruptible",
+              "answer": "IPIL"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Cuando regreses lo miras",
+              "answer": "SEV"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Altura sobre el nivel del mar",
+              "answer": "ALTITUD"
+            },
+            "20": {
+              "col": 12,
+              "row": 2,
+              "clue": "El tema no ha terminado",
+              "answer": "TEM"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Patrick Rothfuss tiene su web en Puerto Rico",
+              "answer": "PR"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "La Sirenita",
+              "answer": "ARIEL"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Cubierta plegable que llevan algunos vehículos",
+              "answer": "CAPOTA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Acerté la receta para este juego de naipes",
+              "answer": "ECARTE"
+            },
+            "27": {
+              "col": 7,
+              "row": 4,
+              "clue": "Cervezas inglesas",
+              "answer": "BEERS"
+            },
+            "29": {
+              "col": 13,
+              "row": 4,
+              "clue": "Numerio Negidio",
+              "answer": "NN"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Trata con disimulo de hacer un pastel",
+              "answer": "TARTA"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Una familia pequeña",
+              "answer": "FAM"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Series de dibujos que constituyen un relato cómico",
+              "answer": "TIRAS"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Me… de valor\" y me atreví",
+              "answer": "ARME"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Irías agitado a Damasco",
+              "answer": "SIRIA"
+            },
+            "37": {
+              "col": 11,
+              "row": 6,
+              "clue": "Punto más alto de los montes",
+              "answer": "CIMA"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "La pasas mal si no giran las del ventilador (en verano)",
+              "answer": "ASPAS"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Concurso de talentos de canto (2p)",
+              "answer": "LAVOZ"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Falto de realidad, sustancia o entidad (fem)",
+              "answer": "VANA"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Confiéis, encomendéis",
+              "answer": "FIEIS"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Coloca, sitúa",
+              "answer": "PONE"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Shayk, la modelo rusa",
+              "answer": "IRINA"
+            },
+            "49": {
+              "col": 6,
+              "row": 9,
+              "clue": "Cruz Negra Anarquista",
+              "answer": "CNA"
+            },
+            "50": {
+              "col": 10,
+              "row": 9,
+              "clue": "Parte que arranca de la línea principal de un camino",
+              "answer": "RAMAL"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "La cintura de Monroe",
+              "answer": "NR"
+            },
+            "52": {
+              "col": 3,
+              "row": 10,
+              "clue": "Comienzo o principio de algo",
+              "answer": "ALBOR"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Piedra para moler",
+              "answer": "METATE"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lo que tiras cuando te das por vencido",
+              "answer": "TOALLA"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "… la luz al salir",
+              "answer": "APAGA"
+            },
+            "59": {
+              "col": 13,
+              "row": 11,
+              "clue": "Esto es de Antonio y de Andrés",
+              "answer": "AN"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "El gerente indio de la tienda de Springfield",
+              "answer": "APU"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "Nacionalidad de Claudia Schiffer",
+              "answer": "ALEMANA"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "DownLoadable Content (contenido adicional de un videojuego)",
+              "answer": "DLC"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Lo es la Hello Kitty",
+              "answer": "GATA"
+            },
+            "66": {
+              "col": 5,
+              "row": 13,
+              "clue": "Relativo a una intervención quirúrgica",
+              "answer": "OPERATORIO"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "Que produce excitación sexual",
+              "answer": "EROGENO"
+            },
+            "69": {
+              "col": 8,
+              "row": 14,
+              "clue": "Vagas, sutiles, vaporosas",
+              "answer": "ETEREAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Considera, valora, tolera a las personas\r\n2-Poner a menor distancia de lugar o tiempo\r\n3-Empresa cordobesa de TV, internet y telefonía\r\n4-Símbolo químico del Holmio\r\n5-Quita a alguien o algo del camino\r\n6-La personaje principal del videojuego 'The Last of Us'\r\n7-Palpita, pulsa\r\n8-Empresa Municipal de Transporte\r\n9-Árbol llorón o Árbol de Babilonia, nativo de China\r\n10-Las puertas del Lamborghini\r\n11-Un pato capacitado\r\n12-La guerra que perdió EEUU en 1973\r\n13-Ciudad natal de Santiago Bernabéu\r\n15-En Brasil a lo loco, aprendí a soplar con ruido\r\n19-Misión de la NASA para la seguridad planetaria\r\n22-Hecho a mano\r\n24-Persona que padece anomalía psíquica\r\n26-\"Giorgio…\", diseñador italiano\r\n28-\"… Clarke\" interpretó a la Madre de Dragones\r\n31-Profesión de Einstein o Dirac\r\n33-Tubérculo, raíz\r\n35-Síndrome de Alcohólico Fetal (siglas)\r\n36-Pequeñas baterías\r\n40-Diseño artístico antiguo\r\n41-Poner una manta\r\n43-Decoré un espacio colocándole ramas\r\n45-\"… Jiménez\", cantautora española\r\n46-Nómina de una compañía teatral (pl)\r\n48-\"No soy de aquí ni de…\" Facundo Cabral\r\n50-Finta que hace un jugador para no dejarse arrebatar el balón\r\n53-Pelota de fútbol, baloncesto o voleibol\r\n54-Moneda empleada actualmente en Azerbaiyán y Turkmenistán\r\n56-Coche, carro\r\n58-Da a luz, por eso me detuve\r\n62-Eritropoyetina\r\n63-\"Dr…\" rapero que ha producido más de 60 canciones para Eminem\r\n65-Dominio de nivel superior geográfico para Antigua y Barbuda\r\n67-Al final del corredor\r\n",
+        "horizontal_clues": "1-Famoso cantante español de la canción \"Yo soy aquel\"\r\n8-Pulsera sin adornos que no se abre\r\n14-La supuesta materia viva presente en todos los cuerpos\r\n16-Madera filipina incorruptible\r\n17-Cuando regreses lo miras\r\n18-Altura sobre el nivel del mar\r\n20-El tema no ha terminado\r\n21-Patrick Rothfuss tiene su web en Puerto Rico\r\n22-La Sirenita\r\n23-Cubierta plegable que llevan algunos vehículos\r\n25-Acerté la receta para este juego de naipes\r\n27-Cervezas inglesas\r\n29-Numerio Negidio\r\n30-Trata con disimulo de hacer un pastel\r\n31-Una familia pequeña\r\n32-Series de dibujos que constituyen un relato cómico\r\n34-\"Me… de valor\" y me atreví\r\n35-Irías agitado a Damasco\r\n37-Punto más alto de los montes\r\n38-La pasas mal si no giran las del ventilador (en verano)\r\n39-Concurso de talentos de canto (2p)\r\n40-Falto de realidad, sustancia o entidad (fem)\r\n42-Confiéis, encomendéis\r\n44-Coloca, sitúa\r\n47-Shayk, la modelo rusa\r\n49-Cruz Negra Anarquista\r\n50-Parte que arranca de la línea principal de un camino\r\n51-La cintura de Monroe\r\n52-Comienzo o principio de algo\r\n54-Piedra para moler\r\n55-Lo que tiras cuando te das por vencido\r\n57-… la luz al salir\r\n59-Esto es de Antonio y de Andrés\r\n60-El gerente indio de la tienda de Springfield\r\n61-Nacionalidad de Claudia Schiffer\r\n63-DownLoadable Content (contenido adicional de un videojuego)\r\n64-Lo es la Hello Kitty\r\n66-Relativo a una intervención quirúrgica\r\n68-Que produce excitación sexual\r\n69-Vagas, sutiles, vaporosas\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,#,15,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,20,#,#\r\n21,#,#,22,#,#,#,#,#,23,#,24,#,#,#\r\n25,#,26,#,#,#,#,27,28,#,#,#,#,29,#\r\n30,#,#,#,#,#,31,#,#,#,32,#,33,#,#\r\n34,#,#,#,#,35,#,#,#,36,#,37,#,#,#\r\n#,#,38,#,#,#,#,#,39,#,#,#,#,#,#\r\n40,41,#,#,#,42,#,43,#,#,#,44,#,45,46\r\n47,#,#,#,48,#,49,#,#,#,50,#,#,#,#\r\n51,#,#,52,#,53,#,#,#,54,#,#,#,#,#\r\n55,#,56,#,#,#,#,57,58,#,#,#,#,59,#\r\n60,#,#,#,61,#,62,#,#,#,#,#,63,#,#\r\n64,#,#,65,#,66,#,#,#,#,#,67,#,#,#\r\n68,#,#,#,#,#,#,#,69,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

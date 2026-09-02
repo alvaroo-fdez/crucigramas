@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 1495,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-04T11:26:52.780542Z",
+      "updatedAt": "2025-01-04T11:26:52.799793Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-07",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CUEVA##GIBSON#\r\nCOLMAR#CABALLOS\r\nHR#UNIGENITA#VE\r\nANCLA#EDA#INDEX\r\nPELE#ALUDA#GILA\r\nETA#ACALORA#SAR\r\nLIRICA#A#MUDE##\r\n#NARUTO#PANAMA#\r\n##BAÑA#M#DARICO\r\nOPO#ABROGAR#NET\r\nBOYA#AURAS#PAPA\r\nLLACH#TEN#MERCK\r\nEO#NUMEROSOS#IU\r\nALBUMINA#ITALOS\r\n#AURERO##CORIN#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Instrumento de viento utilizado en bandas militares",
+              "answer": "CORNETIN"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Saliendo de Estambul",
+              "answer": "UL"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Imite al que muele mejor",
+              "answer": "EMULE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Falta de realidad, sustancia o entidad",
+              "answer": "VANA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cariñosamente, Ariana",
+              "answer": "ARI"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Conjunto de reses",
+              "answer": "GANADO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Libia sin fronteras",
+              "answer": "IBI"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Moví con ímpetu",
+              "answer": "BATI"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Argot\" en inglés",
+              "answer": "SLANG"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "En Olimpia no está la atea",
+              "answer": "OL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "No ve la separación entre la serie y la obra",
+              "answer": "NOVELA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Una capilla inglesa",
+              "answer": "CHAPEL"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Documento acreditativo",
+              "answer": "CEDULA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Tener relaciones sexuales",
+              "answer": "SEXAR"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Fruto Se seca antes de tiempo, se…",
+              "answer": "GELA"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Lucernario arquitectónico",
+              "answer": "CLARABOYA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Esparcir",
+              "answer": "DISEMINAR"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Seguía órdenes sin saber que lo atacaba por error",
+              "answer": "ACATABA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Mujeres provistas de armas",
+              "answer": "ARMADAS"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Troquela una moneda",
+              "answer": "ACUÑA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Poner juntas varias cosas",
+              "answer": "AUNAR"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Pecado capital",
+              "answer": "IRA"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "La doctora pequeña está mala",
+              "answer": "DAR"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Cada una de las definiciones de una misma palabra",
+              "answer": "ACEPCION"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "El árbol de la mora",
+              "answer": "MORERA"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Fanáticos del ánime o manga japonesa",
+              "answer": "OTAKUS"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dulce de hoja de pan de acimo que se unta con arequipe",
+              "answer": "OBLEA"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Chile Coloq Novia",
+              "answer": "POLOLA"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Ucraniano",
+              "answer": "RUTENO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "\"Yo nunca pierdo, si no…, aprendo\"",
+              "answer": "GANO"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "De la ONU, esta es la agencia para los refugiados",
+              "answer": "ACNUR"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Determinar la masa de un cuerpo",
+              "answer": "PESAR"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"David…\" filósofo Propuso que los juicios morales se basan en las emociones, no en la razón",
+              "answer": "HUME"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "La herramienta de Toni Bou",
+              "answer": "MOTO"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Médico Interno Residente (siglas)",
+              "answer": "MIR"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Lo escribió tal cual como lo estás leyendo, no es mi error",
+              "answer": "SIC"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Voz para asustar a los niños",
+              "answer": "BU"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "\"Cincuenta y uno\" en números romanos",
+              "answer": "LI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Lo que estudian los espeleólogos (sing)",
+              "answer": "CUEVA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"… Les Paul\" la guitarra de Jimmy Page o de Slash",
+              "answer": "GIBSON"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Voy a llenar con repollo el Mediterráneo",
+              "answer": "COLMAR"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Lo son Bucéfalo y Rocinante",
+              "answer": "CABALLOS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dominio web para Croacia",
+              "answer": "HR"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Hija única",
+              "answer": "UNIGENITA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Observa como empieza la vejez",
+              "answer": "VE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "En el canal calan el áncora",
+              "answer": "ANCLA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Aún no llega a la edad",
+              "answer": "EDA"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"… librorum prohibitorum\" antigua lista de libros censurados",
+              "answer": "INDEX"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "El Rey del Fútbol",
+              "answer": "PELE"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Haga mención de alguien",
+              "answer": "ALUDA"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Gran Desierto también llamado Sonora, entre EEUU y México",
+              "answer": "GILA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "La séptima griega, origen de la H latina",
+              "answer": "ETA"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Enardece, calienta",
+              "answer": "ACALORA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "\"En las orillas del…\" el último libro de poemas de Rosalía de Castro",
+              "answer": "SAR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Poesía que expresa emociones profundas",
+              "answer": "LIRICA"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Cambié de casa",
+              "answer": "MUDE"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "\"… Uzumaki\" el séptimo Hokage de Konoha",
+              "answer": "NARUTO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "País que conecta al Caribe con el Pacífico",
+              "answer": "PANAMA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Da una cobertura de oro a una pieza",
+              "answer": "BAÑA"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Moneda de oro que hizo acuñar Darío I, antiguo rey persa",
+              "answer": "DARICO"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Al topo le quitaron la cabeza",
+              "answer": "OPO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Abolir, derogar",
+              "answer": "ABROGAR"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Dominio genérico de Internet",
+              "answer": "NET"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Hasta donde es seguro nadar en la playa",
+              "answer": "BOYA"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Luz invisible que rodea a los seres vivos (pl)",
+              "answer": "AURAS"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Sumo pontífice romano",
+              "answer": "PAPA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Lluís…\", cantautor de la Nova Cançó",
+              "answer": "LLACH"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Sostén estos 10 dólares",
+              "answer": "TEN"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"… KGaA\" compañía farmacéutica alemana más antigua del mundo",
+              "answer": "MERCK"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Las fronteras de Egipto",
+              "answer": "EO"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Muchos, bastantes",
+              "answer": "NUMEROSOS"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Proteína presente en la clara del huevo",
+              "answer": "ALBUMINA"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Está solita en el ostial y se alistó con los italianos",
+              "answer": "ITALOS"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Cuba Lugar donde se reúnen muchas auras",
+              "answer": "AURERO"
+            },
+            "67": {
+              "col": 9,
+              "row": 14,
+              "clue": "\"… Tellado\", la dama de la novela rosa",
+              "answer": "CORIN"
+            }
+          }
+        },
+        "vertical_clues": "1-Instrumento de viento utilizado en bandas militares \r\n2-Saliendo de Estambul \r\n3-Imite al que muele mejor\r\n4-Falta de realidad, sustancia o entidad\r\n5-Cariñosamente, Ariana\r\n6-Conjunto de reses\r\n7-Libia sin fronteras\r\n8-Moví con ímpetu\r\n9-\"Argot\" en inglés\r\n10-En Olimpia no está la atea\r\n11-No ve la separación entre la serie y la obra\r\n12-Una capilla inglesa\r\n13-Documento acreditativo\r\n14-Tener relaciones sexuales\r\n17-Fruto Se seca antes de tiempo, se…\r\n20-Lucernario arquitectónico\r\n23-Esparcir\r\n25-Seguía órdenes sin saber que lo atacaba por error\r\n26-Mujeres provistas de armas\r\n29-Troquela una moneda\r\n30-Poner juntas varias cosas\r\n33-Pecado capital \r\n35-La doctora pequeña está mala\r\n38-Cada una de las definiciones de una misma palabra\r\n40-El árbol de la mora\r\n42-Fanáticos del ánime o manga japonesa\r\n43-Dulce de hoja de pan de acimo que se unta con arequipe\r\n44-Chile Coloq Novia\r\n46-Ucraniano\r\n47-\"Yo nunca pierdo, si no…, aprendo\" \r\n50-De la ONU, esta es la agencia para los refugiados\r\n52-Determinar la masa de un cuerpo\r\n54-\"David…\" filósofo Propuso que los juicios morales se basan en las emociones, no en la razón\r\n56-La herramienta de Toni Bou\r\n59-Médico Interno Residente (siglas)\r\n60-Lo escribió tal cual como lo estás leyendo, no es mi error\r\n63-Voz para asustar a los niños\r\n65-\"Cincuenta y uno\" en números romanos\r\n",
+        "horizontal_clues": "1-Lo que estudian los espeleólogos (sing)\r\n6-\"… Les Paul\" la guitarra de Jimmy Page o de Slash\r\n12-Voy a llenar con repollo el Mediterráneo\r\n13-Lo son Bucéfalo y Rocinante\r\n15-Dominio web para Croacia\r\n16-Hija única\r\n18-Observa como empieza la vejez\r\n19-En el canal calan el áncora\r\n21-Aún no llega a la edad\r\n22-\"… librorum prohibitorum\" antigua lista de libros censurados\r\n24-El Rey del Fútbol\r\n25-Haga mención de alguien\r\n27-Gran Desierto también llamado Sonora, entre EEUU y México\r\n28-La séptima griega, origen de la H latina\r\n29-Enardece, calienta\r\n31-\"En las orillas del…\" el último libro de poemas de Rosalía de Castro\r\n32-Poesía que expresa emociones profundas\r\n34-Cambié de casa \r\n36-\"… Uzumaki\" el séptimo Hokage de Konoha\r\n37-País que conecta al Caribe con el Pacífico \r\n39-Da una cobertura de oro a una pieza\r\n41-Moneda de oro que hizo acuñar Darío I, antiguo rey persa\r\n43-Al topo le quitaron la cabeza\r\n45-Abolir, derogar\r\n48-Dominio genérico de Internet\r\n49-Hasta donde es seguro nadar en la playa\r\n51-Luz invisible que rodea a los seres vivos (pl)\r\n52-Sumo pontífice romano\r\n53-\"Lluís…\", cantautor de la Nova Cançó\r\n55-Sostén estos 10 dólares \r\n56-\"… KGaA\" compañía farmacéutica alemana más antigua del mundo\r\n57-Las fronteras de Egipto\r\n58-Muchos, bastantes\r\n61-Las vocales débiles\r\n62-Proteína presente en la clara del huevo \r\n64-Está solita en el ostial y se alistó con los italianos\r\n66-Cuba Lugar donde se reúnen muchas auras\r\n67-\"… Tellado\", la dama de la novela rosa\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,22,#,23,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,27,#,#,#\r\n28,#,#,#,29,#,#,#,#,#,30,#,31,#,#\r\n32,#,#,33,#,#,#,#,#,34,#,35,#,#,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,38,#\r\n#,#,39,#,#,#,#,40,#,41,#,#,#,#,42\r\n43,44,#,#,45,#,46,#,47,#,#,#,48,#,#\r\n49,#,#,50,#,51,#,#,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,#,56,#,#,#,#\r\n57,#,#,58,#,59,#,#,#,60,#,#,#,61,#\r\n62,#,63,#,#,#,#,#,#,64,#,#,65,#,#\r\n#,66,#,#,#,#,#,#,#,67,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

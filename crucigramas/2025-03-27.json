@@ -1,0 +1,456 @@
+{
+  "data": {
+    "id": 1928,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-26T07:56:02.661539Z",
+      "updatedAt": "2025-03-26T07:57:48.452935Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "APLICO##CARONAS\r\nREINO##MARINERA\r\nRASTA#CALIFICAR\r\nUNTO#NACIDO#TND\r\nGAEL#ULEMA#SADI\r\nA##ERMITA#DORAN\r\n##PROEZA#COLINA\r\n#CUADRO#MARINO#\r\nCORNEA#CELADA##\r\nACATE#COLERA##P\r\nDOME#CAROS#ROTA\r\nUTE#PENOSA#ICOR\r\nCENTINELA#ADULA\r\nARTESANA##RAPAR\r\nROEDORA##ENDOSE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Signo de envejecimiento por la pérdida de colágeno",
+              "answer": "ARRUGA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tarima que hay delante del altar, arrimada a él",
+              "answer": "PEANA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Se inscriba, se apunte, se…",
+              "answer": "LISTE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que no respeta las ideas y visiones distintas a las suyas",
+              "answer": "INTOLERANTE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Tipo de azada o chícora para labrar la tierra",
+              "answer": "COA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Aire ceniciento",
+              "answer": "CALIMA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tierra seca y estéril",
+              "answer": "ARIDA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sorteo, apuesto",
+              "answer": "RIFO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "El demonio japonés es un poni decapitado",
+              "answer": "ONI"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Variedad del durazno",
+              "answer": "NECTARINA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Baya pequeña de color azul",
+              "answer": "ARANDANO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "La sobrepesca tiene a esta especie en peligro de extinción",
+              "answer": "SARDINA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Recipiente para plantas",
+              "answer": "MACETA"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Localizo sin sombrero un terreno calcáreo",
+              "answer": "CALIZO"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Expresa numéricamente la cantidad",
+              "answer": "NUMERA"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Adhesión circunstancial a la causa de otros",
+              "answer": "SOLIDARIDAD"
+            },
+            "24": {
+              "col": 4,
+              "row": 5,
+              "clue": "Circunscribí, envolví, asedié",
+              "answer": "RODEE"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Gastro Dar al pollo, color y textura, sin dejar que se queme",
+              "answer": "DORAR"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Meramente, sin mezcla de otra cosa",
+              "answer": "PURAMENTE"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Carruaje",
+              "answer": "CALESA"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "Árbol que da sombra y frutos en las costas tropicales",
+              "answer": "COCOTERO"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Dulce, apacible, cariñosa",
+              "answer": "MELOSA"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Perder eficacia, un medicamento",
+              "answer": "CADUCAR"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "Botánica Segundo verticilo de las flores completas",
+              "answer": "COROLA"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Castillo",
+              "answer": "CANENA"
+            },
+            "34": {
+              "col": 14,
+              "row": 9,
+              "clue": "Detendré",
+              "answer": "PARARE"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ingerir la última comida del día",
+              "answer": "CENAR"
+            },
+            "38": {
+              "col": 12,
+              "row": 10,
+              "clue": "Lleno un espacio o lugar",
+              "answer": "OCUPO"
+            },
+            "39": {
+              "col": 13,
+              "row": 10,
+              "clue": "Ecu Tumbas monticulares de los antiguos aborígenes",
+              "answer": "TOLAS"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Apartamento español",
+              "answer": "PISO"
+            },
+            "44": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"…Lasso\" premiada serie de comedia",
+              "answer": "TED"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Ácido Ribonucleico",
+              "answer": "ARN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pongo esmero, me esfuerzo",
+              "answer": "APLICO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mujeres con caras muy grandes",
+              "answer": "CARONAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Organización política en monarquía",
+              "answer": "REINO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Mujer que presta servicio en una embarcación",
+              "answer": "MARINERA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Peinado característico de los rastafaris",
+              "answer": "RASTA"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Dar, a una película, las estrellas que se merece",
+              "answer": "CALIFICAR"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Aplico y extiendo materia pingüe sobre algo",
+              "answer": "UNTO"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Un forúnculo, un…",
+              "answer": "NACIDO"
+            },
+            "19": {
+              "col": 12,
+              "row": 3,
+              "clue": "Lo mismo de tendí y atando",
+              "answer": "TND"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"… García\", prota de la serie 'Mozart in the Jungle'",
+              "answer": "GAEL"
+            },
+            "21": {
+              "col": 5,
+              "row": 4,
+              "clue": "Doctor de la ley islámica",
+              "answer": "ULEMA"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Vienen muy perdidas desde el oriente",
+              "answer": "SADI"
+            },
+            "23": {
+              "col": 3,
+              "row": 5,
+              "clue": "Capilla o santuario, ubicado en sitio despoblado",
+              "answer": "ERMITA"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Por donar una ronda se bañan de oro",
+              "answer": "DORAN"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Hazaña, valentía o acción valerosa",
+              "answer": "PROEZA"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Un poco más pequeña que una montaña",
+              "answer": "COLINA"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "Una pintura, un óleo, un…",
+              "answer": "CUADRO"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Oficio de Simbad",
+              "answer": "MARINO"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Parte del ojo, que controla el enfoque y la entrada de luz",
+              "answer": "CORNEA"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "Emboscada que se hace a un enemigo distraído",
+              "answer": "CELADA"
+            },
+            "32": {
+              "col": 0,
+              "row": 9,
+              "clue": "Acepte unas normas legales",
+              "answer": "ACATE"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Enfermedad infecto",
+              "answer": "COLERA"
+            },
+            "35": {
+              "col": 0,
+              "row": 10,
+              "clue": "Calmé a la bestia",
+              "answer": "DOME"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "Costosos, de valor elevado",
+              "answer": "CAROS"
+            },
+            "37": {
+              "col": 11,
+              "row": 10,
+              "clue": "Gira la pieza quebrada",
+              "answer": "ROTA"
+            },
+            "40": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tribu india norteamericana",
+              "answer": "UTE"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Una noticia triste, lamentable",
+              "answer": "PENOSA"
+            },
+            "42": {
+              "col": 11,
+              "row": 11,
+              "clue": "Desubicado el crío que cree que tiene la sangre de dioses",
+              "answer": "ICOR"
+            },
+            "43": {
+              "col": 0,
+              "row": 12,
+              "clue": "Vigilante, guardián",
+              "answer": "CENTINELA"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Agrada con intenciones secundarias",
+              "answer": "ADULA"
+            },
+            "46": {
+              "col": 0,
+              "row": 13,
+              "clue": "Mujer que crea con sus manos",
+              "answer": "ARTESANA"
+            },
+            "47": {
+              "col": 10,
+              "row": 13,
+              "clue": "Usar la cero en la cabeza",
+              "answer": "RAPAR"
+            },
+            "48": {
+              "col": 0,
+              "row": 14,
+              "clue": "La rata",
+              "answer": "ROEDORA"
+            },
+            "49": {
+              "col": 9,
+              "row": 14,
+              "clue": "Encargué a alguien un trabajo, una carga",
+              "answer": "ENDOSE"
+            }
+          }
+        },
+        "vertical_clues": "1-Signo de envejecimiento por la pérdida de colágeno\r\n2-Tarima que hay delante del altar, arrimada a él\r\n3-Se inscriba, se apunte, se…\r\n4-Que no respeta las ideas y visiones distintas a las suyas\r\n5-Tipo de azada o chícora para labrar la tierra\r\n6-Aire ceniciento\r\n7-Tierra seca y estéril\r\n8-Sorteo, apuesto\r\n9-El demonio japonés es un poni decapitado\r\n10-Variedad del durazno\r\n11-Baya pequeña de color azul\r\n12-La sobrepesca tiene a esta especie en peligro de extinción\r\n14-Recipiente para plantas\r\n16-Localizo sin sombrero un terreno calcáreo\r\n18-Expresa numéricamente la cantidad\r\n22-Adhesión circunstancial a la causa de otros\r\n24-Circunscribí, envolví, asedié\r\n25-Gastro Dar al pollo, color y textura, sin dejar que se queme\r\n26-Meramente, sin mezcla de otra cosa\r\n27-Carruaje\r\n28-Árbol que da sombra y frutos en las costas tropicales\r\n29-Dulce, apacible, cariñosa\r\n30-Perder eficacia, un medicamento\r\n31-Botánica Segundo verticilo de las flores completas\r\n33-Castillo-palacio ubicado en la provincia Jaén, España\r\n34-Detendré\r\n36-Ingerir la última comida del día\r\n38-Lleno un espacio o lugar\r\n39-Ecu Tumbas monticulares de los antiguos aborígenes\r\n41-Apartamento español\r\n44-\"…Lasso\" premiada serie de comedia\r\n45-Ácido Ribonucleico",
+        "horizontal_clues": "1-Pongo esmero, me esfuerzo\r\n6-Mujeres con caras muy grandes\r\n13-Organización política en monarquía\r\n14-Mujer que presta servicio en una embarcación\r\n15-Peinado característico de los rastafaris\r\n16-Dar, a una película, las estrellas que se merece\r\n17-Aplico y extiendo materia pingüe sobre algo\r\n18-Un forúnculo, un…\r\n19-Lo mismo de tendí y atando\r\n20-\"… García\", prota de la serie 'Mozart in the Jungle'\r\n21-Doctor de la ley islámica\r\n22-Vienen muy perdidas desde el oriente\r\n23-Capilla o santuario, ubicado en sitio despoblado\r\n25-Por donar una ronda se bañan de oro\r\n26-Hazaña, valentía o acción valerosa\r\n27-Un poco más pequeña que una montaña\r\n28-Una pintura, un óleo, un…\r\n29-Oficio de Simbad\r\n30-Parte del ojo, que controla el enfoque y la entrada de luz\r\n31-Emboscada que se hace a un enemigo distraído\r\n32-Acepte unas normas legales\r\n33-Enfermedad infecto-contagiosa intestinal, que tiende a la deshidratación\r\n35-Calmé a la bestia\r\n36-Costosos, de valor elevado\r\n37-Gira la pieza quebrada\r\n40-Tribu india norteamericana\r\n41-Una noticia triste, lamentable\r\n42-Desubicado el crío que cree que tiene la sangre de dioses\r\n43-Vigilante, guardián\r\n45-Agrada con intenciones secundarias\r\n46-Mujer que crea con sus manos\r\n47-Usar la cero en la cabeza\r\n48-La rata\r\n49-Encargué a alguien un trabajo, una carga",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,#,6,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,16,#,#,#,#,#,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,#,19,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n#,#,#,23,24,#,#,#,#,#,25,#,#,#,#\r\n#,#,26,#,#,#,#,#,#,27,#,#,#,#,#\r\n#,28,#,#,#,#,#,#,29,#,#,#,#,#,#\r\n30,#,#,#,#,#,#,31,#,#,#,#,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,#,#,#,34\r\n35,#,#,#,#,36,#,#,#,#,#,37,38,39,#\r\n40,#,#,#,41,#,#,#,#,#,#,42,#,#,#\r\n43,#,#,44,#,#,#,#,#,#,45,#,#,#,#\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,#,#,#,#,49,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

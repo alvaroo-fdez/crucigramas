@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6839,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-30T23:46:54.313630Z",
+      "updatedAt": "2026-07-30T23:48:15.279443Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-31",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PILLAR#PALADA#\r\nRADIAN###SIBILA\r\nUS#AUSPICIAR#MB\r\nATENDIO#ORDENAR\r\nNOS##ANDRE##EDI\r\nARPAR#GOT#MAFER\r\nSIENA##QA#AMENA\r\n##RESTAURADOR##\r\nAMAGO#SI##RUTER\r\nRABOS#TEC#ERIVO\r\nGIL##ARRES##TAB\r\nELECTRA#LIQUIDO\r\nNL#REPLIEGUE#IT\r\nTOYOTA###NAFTAS\r\n#TOLEDO#PODAIS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Niña …\", cantautora de flamenco",
+              "answer": "PASTORI"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Saliendo de Valladolid",
+              "answer": "ID"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Se asocian para fines deshonestos",
+              "answer": "LIAN"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Instrumento de cuerda parecido a la bandurria",
+              "answer": "LAUD"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Angustia o aflicción del ánimo",
+              "answer": "ANSIA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Sujetaré, alcanzaré",
+              "answer": "ASIRE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Armad un cigarrillo",
+              "answer": "LIAD"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "¿Cómo destapa el abrelatas roto?",
+              "answer": "ABRE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Localidad con las minas de mercurio más grandes del mundo",
+              "answer": "ALMADEN"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ponchos de lana",
+              "answer": "RUANAS"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Inaugurará, estrenará",
+              "answer": "ABRIRA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Icónico videojuego que recuerda al tenis de mesa",
+              "answer": "PONG"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Perdidas en el licor tardan en rebanar",
+              "answer": "CORTAR"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Que se puede esperar",
+              "answer": "ESPERABLE"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Reina egipcia, esposa de Akenatón",
+              "answer": "NEFERTITI"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Por todas partes, en cualquier lugar",
+              "answer": "DOQUIER"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Se inundó, se cubrió de agua, se…",
+              "answer": "ANEGO"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Rosas para los soldados sin rango",
+              "answer": "RASOS"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tipo de células, progenitoras de otras",
+              "answer": "MADRE"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "El amor de un francés",
+              "answer": "AMOUR"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Perteneciente o relativo a los astros",
+              "answer": "ASTRAL"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Plata",
+              "answer": "ARGENT"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "La camiseta deportiva de los ciclistas",
+              "answer": "MAILLOT"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Esquivabas, excusabas",
+              "answer": "EVADIAS"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Los de cocina, que facilitan la tarea",
+              "answer": "ROBOTS"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Cuide, vigile",
+              "answer": "CELE"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Dinastía medieval húngara",
+              "answer": "ARPAD"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "El mío es cáncer con ascendente en piscis",
+              "answer": "SIGNO"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "Estilo de natación más rápido",
+              "answer": "CROL"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "Forma cariñosa de llamar a los hermanos varones",
+              "answer": "TETE"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cuatrimotos, vehículos de cuatro ruedas sin carrocería",
+              "answer": "QUAD"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Confederación Europea de fútbol",
+              "answer": "UEFA"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Primera persona del singular",
+              "answer": "YO"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Titanio",
+              "answer": "TI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Atrapar, coger",
+              "answer": "PILLAR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Porción que la pala puede coger cada vez",
+              "answer": "PALADA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Geometría: Unidad de ángulo plano",
+              "answer": "RADIAN"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Mujer sabia, a quien atribuían espíritu profético",
+              "answer": "SIBILA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "En páginas web estadounidenses",
+              "answer": "US"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Patrocinar, favorecer, financiar una causa",
+              "answer": "AUSPICIAR"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Megabyte",
+              "answer": "MB"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cuidó de alguien",
+              "answer": "ATENDIO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Poner las cosas en su lugar",
+              "answer": "ORDENAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Este mes todos… vamos de fiesta",
+              "answer": "NOS"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"… Agassi\", exjugador de tenis estadounidense",
+              "answer": "ANDRE"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Estudiante Diseño Industrial (siglas)",
+              "answer": "EDI"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Templar cuerdas con los dedos",
+              "answer": "ARPAR"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Game Of Thrones",
+              "answer": "GOT"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "A María Fernanda de cariño",
+              "answer": "MAFER"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Color castaño más o menos oscuro",
+              "answer": "SIENA"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "Dominio web para Catar",
+              "answer": "QA"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Grata y divertida velada",
+              "answer": "AMENA"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Profesional que devuelve su antiguo esplendor a una obra de arte",
+              "answer": "RESTAURADOR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hago ademán de herir o golpear",
+              "answer": "AMAGO"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "La última de la escala musical",
+              "answer": "SI"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "Inform: Dispositivo que emite señal wifi",
+              "answer": "RUTER"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Colas de los animales",
+              "answer": "RABOS"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Techos rotos",
+              "answer": "TEC"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"Cynthia…\" interpreta a Elphaba en Wicked",
+              "answer": "ERIVO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Acortamiento de Gilberto",
+              "answer": "GIL"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Voz usada para estimular a los caballos (pl)",
+              "answer": "ARRES"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Inform: Tecla tabuladora",
+              "answer": "TAB"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "El paralelo femenino a Edipo",
+              "answer": "ELECTRA"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Estado de la materia",
+              "answer": "LIQUIDO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Dominio web para los Países Bajos",
+              "answer": "NL"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Retirada ordenada de las tropas",
+              "answer": "REPLIEGUE"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dominio web para Italia",
+              "answer": "IT"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Fabricante de automóviles responsable del Corolla",
+              "answer": "TOYOTA"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "La gasolina en Argentina (pl)",
+              "answer": "NAFTAS"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Ciudad española famosa por sus espadas y cuchillos",
+              "answer": "TOLEDO"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Cortáis las plantas",
+              "answer": "PODAIS"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Niña …\", cantautora de flamenco\r\n2-Saliendo de Valladolid\r\n3-Se asocian para fines deshonestos\r\n4-Instrumento de cuerda parecido a la bandurria\r\n5-Angustia o aflicción del ánimo\r\n7-Sujetaré, alcanzaré\r\n8-Armad un cigarrillo\r\n9-¿Cómo destapa el abrelatas roto? \r\n10-Pronuncia 501 en romano antiguo\r\n11-Localidad con las minas de mercurio más grandes del mundo \r\n12-Ponchos de lana\r\n14-Inaugurará, estrenará\r\n17-Icónico videojuego que recuerda al tenis de mesa \r\n18-Perdidas en el licor tardan en rebanar\r\n21-Que se puede esperar\r\n23-Reina egipcia, esposa de Akenatón\r\n26-Por todas partes, en cualquier lugar \r\n29-Se inundó, se cubrió de agua, se…\r\n30-Rosas para los soldados sin rango\r\n32-Tipo de células, progenitoras de otras\r\n33-El amor de un francés\r\n38-Perteneciente o relativo a los astros\r\n39-Plata\r\n40-La camiseta deportiva de los ciclistas\r\n43-Esquivabas, excusabas\r\n44-Los de cocina, que facilitan la tarea\r\n47-Cuide, vigile\r\n50-Dinastía medieval húngara \r\n51-El mío es cáncer con ascendente en piscis\r\n54-Estilo de natación más rápido\r\n55-Forma cariñosa de llamar a los hermanos varones\r\n57-Cuatrimotos, vehículos de cuatro ruedas sin carrocería \r\n58-Confederación Europea de fútbol\r\n63-Primera persona del singular\r\n65-Titanio",
+        "horizontal_clues": "1-Atrapar, coger\r\n6-Porción que la pala puede coger cada vez\r\n12-Geometría: Unidad de ángulo plano\r\n13-Mujer sabia, a quien atribuían espíritu profético\r\n15-En páginas web estadounidenses\r\n16-Patrocinar, favorecer, financiar una causa\r\n19-Megabyte\r\n20-Cuidó de alguien\r\n22-Poner las cosas en su lugar\r\n24-Este mes todos… vamos de fiesta\r\n25-\"… Agassi\", exjugador de tenis estadounidense\r\n27-Estudiante Diseño Industrial (siglas)\r\n28-Templar cuerdas con los dedos \r\n31-Game Of Thrones\r\n32-A María Fernanda de cariño\r\n34-Color castaño más o menos oscuro\r\n35-Dominio web para Catar\r\n36-Grata y divertida velada\r\n37-Profesional que devuelve su antiguo esplendor a una obra de arte \r\n39-Hago ademán de herir o golpear\r\n41-La última de la escala musical\r\n42-Inform: Dispositivo que emite señal wifi\r\n45-Colas de los animales\r\n46-Techos rotos\r\n48-\"Cynthia…\" interpreta a Elphaba en Wicked\r\n49-Acortamiento de Gilberto\r\n50-Voz usada para estimular a los caballos (pl)\r\n52-Inform: Tecla tabuladora\r\n53-El paralelo femenino a Edipo \r\n56-Estado de la materia \r\n59-Dominio web para los Países Bajos\r\n60-Retirada ordenada de las tropas \r\n61-Dominio web para Italia\r\n62-Fabricante de automóviles responsable del Corolla\r\n64-La gasolina en Argentina (pl)\r\n66-Ciudad española famosa por sus espadas y cuchillos\r\n67-Cortáis las plantas",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,18,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,25,#,26,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,31,#,#,#,32,33,#,#,#\r\n34,#,#,#,#,#,#,35,#,#,36,#,#,#,#\r\n#,#,37,#,#,#,38,#,#,#,#,#,#,#,#\r\n39,40,#,#,#,#,41,#,#,#,42,#,#,43,44\r\n45,#,#,#,#,#,46,#,47,#,48,#,#,#,#\r\n49,#,#,#,#,50,#,#,#,51,#,#,52,#,#\r\n53,#,#,54,55,#,#,#,56,#,57,58,#,#,#\r\n59,#,#,60,#,#,#,#,#,#,#,#,#,61,#\r\n62,#,63,#,#,#,#,#,#,64,#,#,65,#,#\r\n#,66,#,#,#,#,#,#,67,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

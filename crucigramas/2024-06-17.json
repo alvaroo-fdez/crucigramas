@@ -1,0 +1,417 @@
+{
+  "data": {
+    "id": 400,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-16T19:56:01.924536Z",
+      "updatedAt": "2024-06-16T19:56:01.924558Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-17",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BELDAD#AVATAR#\r\nRES#O#IRREGULAR\r\nENTONAR#GRANATE\r\nTERCA#I#EO#JS#I\r\nADE#SOGUN#CASAN\r\nCESO##I###T#A#A\r\nATAJA#MODERADOR\r\n#T##L#O#I#L##V#\r\nSIMPLISTA#COCAS\r\nA#A#E###F##LOCO\r\nCATAN#BURDA#MIN\r\nA#IK#PI#A#LABOR\r\nRESIDIR#GUARANI\r\nAMSTERDAM#G#TAE\r\n#REALES#ACOGER#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Mario...\" escritor uruguayo autor del poema \"Te quiero\".",
+              "answer": "BENEDETTI"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Me enerva ver las esteras rotas.",
+              "answer": "ESTRESA"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cedes un órgano.",
+              "answer": "DONAS"
+            },
+            "4": {
+              "col": 6,
+              "row": 0,
+              "clue": "Guiamos mostrando el camino.",
+              "answer": "DIRIGIMOS"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "El color plata de un escudo.",
+              "answer": "ARGEN"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Mi amiga Verónica.",
+              "answer": "VERO"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Amazon, Google y Apple.",
+              "answer": "AGA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Capital del departamento de Boyacá, en Colombia.",
+              "answer": "TUNJA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Bashar...\" presidente de Siria desde el año 2000.",
+              "answer": "ALASSAD"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Espero que esto sea por poco rato.",
+              "answer": "RAT"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "De baja estatura y, en general, rechoncha.",
+              "answer": "RETACA"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Ejercer en una monarquía la jefatura del Estado.",
+              "answer": "REINAR"
+            },
+            "15": {
+              "col": 3,
+              "row": 2,
+              "clue": "Lengua provenzal.",
+              "answer": "OC"
+            },
+            "22": {
+              "col": 10,
+              "row": 4,
+              "clue": "Informática. Comando que copia textos (2 teclas).",
+              "answer": "CTRLC"
+            },
+            "24": {
+              "col": 3,
+              "row": 5,
+              "clue": "Ojo sin cerrar.",
+              "answer": "OJ"
+            },
+            "26": {
+              "col": 4,
+              "row": 6,
+              "clue": "\"Woody...\" dirigiendo 'Medianoche en París'.",
+              "answer": "ALLEN"
+            },
+            "28": {
+              "col": 8,
+              "row": 6,
+              "clue": "Músculo que separa la cavidad torácica de la abdominal.",
+              "answer": "DIAFRAGMA"
+            },
+            "29": {
+              "col": 13,
+              "row": 6,
+              "clue": "Aplaudir de forma sostenida, fuerte, ruidosa y entusiasta.",
+              "answer": "OVACIONAR"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lo pondrá fuera.",
+              "answer": "SACARA"
+            },
+            "31": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"Henri...\" pintor francés, máximo representante del fauvismo.",
+              "answer": "MATISSE"
+            },
+            "33": {
+              "col": 11,
+              "row": 8,
+              "clue": "Solo en Olimpia.",
+              "answer": "OL"
+            },
+            "34": {
+              "col": 12,
+              "row": 8,
+              "clue": "Pelea entre personas o animales.",
+              "answer": "COMBATE"
+            },
+            "35": {
+              "col": 14,
+              "row": 8,
+              "clue": "\"..., estás siendo grabado\" (amable advertencia).",
+              "answer": "SONRIE"
+            },
+            "38": {
+              "col": 3,
+              "row": 10,
+              "clue": "Raza del perro japonés que esperó 10 años el regreso de su amo.",
+              "answer": "AKITA"
+            },
+            "39": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"Angry...\" el videojuego de los pajaritos enfadados.",
+              "answer": "BIRDS"
+            },
+            "40": {
+              "col": 10,
+              "row": 10,
+              "clue": "Formo charcos o lagos en un terreno.",
+              "answer": "ALAGO"
+            },
+            "43": {
+              "col": 5,
+              "row": 11,
+              "clue": "Me fui, me largué.",
+              "answer": "PIRE"
+            },
+            "45": {
+              "col": 11,
+              "row": 11,
+              "clue": "Arthur Rimbaud (poeta francés de 'Iluminaciones').",
+              "answer": "AR"
+            },
+            "47": {
+              "col": 1,
+              "row": 12,
+              "clue": "Equipo Móvil de Respuesta (siglas).",
+              "answer": "EMR"
+            },
+            "48": {
+              "col": 4,
+              "row": 12,
+              "clue": "Contracción \"de el\".",
+              "answer": "DEL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Belleza o hermosura.",
+              "answer": "BELDAD"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Encarnación terrestre de alguna deidad.",
+              "answer": "AVATAR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Vaca, ganado.",
+              "answer": "RES"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "Lo es el trazo hecho a mano.",
+              "answer": "IRREGULAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Cantar algo ajustándose al tono.",
+              "answer": "ENTONAR"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Rojo oscuro, como la piedra semipreciosa.",
+              "answer": "GRANATE"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cabezona, porfiada.",
+              "answer": "TERCA"
+            },
+            "18": {
+              "col": 8,
+              "row": 3,
+              "clue": "Las fronteras de Egipto.",
+              "answer": "EO"
+            },
+            "19": {
+              "col": 11,
+              "row": 3,
+              "clue": "Inic. Cantante español, autor de \"19 días y 500 noches\".",
+              "answer": "JS"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Administración y Dirección de Empresas.",
+              "answer": "ADE"
+            },
+            "21": {
+              "col": 4,
+              "row": 4,
+              "clue": "Antiguo representante del emperador japonés.",
+              "answer": "SOGUN"
+            },
+            "22": {
+              "col": 10,
+              "row": 4,
+              "clue": "Firman con gananciales, se...",
+              "answer": "CASAN"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Terminó, se detuvo.",
+              "answer": "CESO"
+            },
+            "25": {
+              "col": 0,
+              "row": 6,
+              "clue": "Atrapa el balón en el aire.",
+              "answer": "ATAJA"
+            },
+            "27": {
+              "col": 6,
+              "row": 6,
+              "clue": "Persona que dirige un debate, asamblea o mesa redonda.",
+              "answer": "MODERADOR"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Que simplifica o tiende a simplificar.",
+              "answer": "SIMPLISTA"
+            },
+            "32": {
+              "col": 10,
+              "row": 8,
+              "clue": "Bizcochos. En Valencia, son de llanda.",
+              "answer": "COCAS"
+            },
+            "36": {
+              "col": 11,
+              "row": 9,
+              "clue": "Se coló por error un demente.",
+              "answer": "LOCO"
+            },
+            "37": {
+              "col": 0,
+              "row": 10,
+              "clue": "Prueban un alimento para examinar su sabor.",
+              "answer": "CATAN"
+            },
+            "39": {
+              "col": 6,
+              "row": 10,
+              "clue": "Tosca, basta, grosera.",
+              "answer": "BURDA"
+            },
+            "41": {
+              "col": 12,
+              "row": 10,
+              "clue": "Acortamiento de minuto.",
+              "answer": "MIN"
+            },
+            "42": {
+              "col": 2,
+              "row": 11,
+              "clue": "Israel Kamakawiwo'ole.",
+              "answer": "IK"
+            },
+            "43": {
+              "col": 5,
+              "row": 11,
+              "clue": "3,1416.",
+              "answer": "PI"
+            },
+            "44": {
+              "col": 10,
+              "row": 11,
+              "clue": "Labranza, en especial la de las tierras que se siembran.",
+              "answer": "LABOR"
+            },
+            "46": {
+              "col": 0,
+              "row": 12,
+              "clue": "Vivir habitualmente en un lugar.",
+              "answer": "RESIDIR"
+            },
+            "49": {
+              "col": 8,
+              "row": 12,
+              "clue": "Lengua indígena de Paraguay.",
+              "answer": "GUARANI"
+            },
+            "50": {
+              "col": 0,
+              "row": 13,
+              "clue": "Capital de los Países Bajos.",
+              "answer": "AMSTERDAM"
+            },
+            "51": {
+              "col": 12,
+              "row": 13,
+              "clue": "Los inicios del Taekwondo.",
+              "answer": "TAE"
+            },
+            "52": {
+              "col": 1,
+              "row": 14,
+              "clue": "Leerás a los verdaderos.",
+              "answer": "REALES"
+            },
+            "53": {
+              "col": 8,
+              "row": 14,
+              "clue": "Recibir en casa a alguien.",
+              "answer": "ACOGER"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Mario...\" escritor uruguayo autor del poema \"Te quiero\".\r\n2-Me enerva ver las esteras rotas.\r\n3-Cedes un órgano.\r\n4-Guiamos mostrando el camino.\r\n5-El color plata de un escudo.\r\n6-Mi amiga Verónica.\r\n7-Amazon, Google y Apple.\r\n8-Capital del departamento de Boyacá, en Colombia.\r\n9-\"Bashar...\" presidente de Siria desde el año 2000.\r\n10-Espero que esto sea por poco rato.\r\n11-De baja estatura y, en general, rechoncha.\r\n13-Ejercer en una monarquía la jefatura del Estado.\r\n15-Lengua provenzal. \r\n22-Informática. Comando que copia textos (2 teclas).\r\n24-Ojo sin cerrar.\r\n26-\"Woody...\" dirigiendo 'Medianoche en París'. \r\n28-Músculo que separa la cavidad torácica de la abdominal. \r\n29-Aplaudir de forma sostenida, fuerte, ruidosa y entusiasta.\r\n30-Lo pondrá fuera.\r\n31-\"Henri...\" pintor francés, máximo representante del fauvismo.\r\n33-Solo en Olimpia.\r\n34-Pelea entre personas o animales.\r\n35-\"..., estás siendo grabado\" (amable advertencia).\r\n38-Raza del perro japonés que esperó 10 años el regreso de su amo.\r\n39-\"Angry...\" el videojuego de los pajaritos enfadados.\r\n40-Formo charcos o lagos en un terreno.\r\n43-Me fui, me largué.\r\n45-Arthur Rimbaud (poeta francés de 'Iluminaciones'). \r\n47-Equipo Móvil de Respuesta (siglas).\r\n48-Contracción \"de el\".",
+        "horizontal_clues": "1-Belleza o hermosura.\r\n5-Encarnación terrestre de alguna deidad.\r\n11-Vaca, ganado.\r\n12-Lo es el trazo hecho a mano.\r\n14-Cantar algo ajustándose al tono.\r\n16-Rojo oscuro, como la piedra semipreciosa.\r\n17-Cabezona, porfiada.\r\n18-Las fronteras de Egipto.\r\n19-Inic. Cantante español, autor de \"19 días y 500 noches\".\r\n20-Administración y Dirección de Empresas.\r\n21-Antiguo representante del emperador japonés.\r\n22-Firman con gananciales, se...\r\n23-Terminó, se detuvo.\r\n25-Atrapa el balón en el aire.\r\n27-Persona que dirige un debate, asamblea o mesa redonda.\r\n30-Que simplifica o tiende a simplificar.\r\n32-Bizcochos. En Valencia, son de llanda.\r\n36-Se coló por error un demente.\r\n37-Prueban un alimento para examinar su sabor.\r\n39-Tosca, basta, grosera. \r\n41-Acortamiento de minuto. \r\n42-Israel Kamakawiwo'ole.\r\n43-3,1416. \r\n44-Labranza, en especial la de las tierras que se siembran.\r\n46-Vivir habitualmente en un lugar.\r\n49-Lengua indígena de Paraguay.\r\n50-Capital de los Países Bajos.\r\n51-Los inicios del Taekwondo.\r\n52-Leerás a los verdaderos.\r\n53-Recibir en casa a alguien.",
+        "board_clues_positions": "#,1,2,#,3,#,4,#,5,6,7,8,9,10,#\r\n11,#,#,#,#,#,12,#,#,#,#,#,#,#,13\r\n14,#,#,15,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,#,#,#,#,18,#,#,19,#,#,#\r\n20,#,#,#,21,#,#,#,#,#,22,#,#,#,#\r\n23,#,#,24,#,#,#,#,#,#,#,#,#,#,#\r\n25,#,#,#,26,#,27,#,28,#,#,#,#,29,#\r\n#,#,#,#,#,#,#,#,#,#,#,#,#,#,#\r\n30,#,31,#,#,#,#,#,#,#,32,33,34,#,35\r\n#,#,#,#,#,#,#,#,#,#,#,36,#,#,#\r\n37,#,#,38,#,#,39,#,#,#,40,#,41,#,#\r\n#,#,42,#,#,43,#,#,#,#,44,45,#,#,#\r\n46,47,#,#,48,#,#,#,49,#,#,#,#,#,#\r\n50,#,#,#,#,#,#,#,#,#,#,#,51,#,#\r\n#,52,#,#,#,#,#,#,53,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

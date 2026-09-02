@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 1710,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-02-11T15:59:23.082913Z",
+      "updatedAt": "2025-02-11T16:04:40.732425Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-02-15",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "C#FABRIL#GASEAR\r\nEUR#RORAN#NEXT#\r\nGREMOLATA#CITEN\r\nABSIT#KARAOKE#I\r\nREALES###FRONTE\r\nE##ANTALGIA#SAG\r\n#CRG#ALFAR#PILA\r\nAIER#LM#UM#LOES\r\nSAPO#LAUDA#AND#\r\nIRA#POSEIDON##P\r\nGERMEN###OPTASE\r\nN#AUREOLA#TEPUY\r\nANDEL#CAUDALOSO\r\n#MOLA#AUGUR#LOT\r\nTERESA#DEBAJO#E",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Quitaré la vista a alguien",
+              "answer": "CEGARE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Fruto de la planta Fragaria",
+              "answer": "FRESA"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Nazcan o salgan de la tierra",
+              "answer": "BROTEN"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Juego de…\" como 'Dragones y mazmorras'",
+              "answer": "ROL"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "País cuya capital es Bagdad",
+              "answer": "IRAK"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Envase hecho de hojalata",
+              "answer": "LATA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Un ancla",
+              "answer": "ANCORA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Empresa japonesa creadora del primer reloj de cuarzo de pulsera",
+              "answer": "SEIKO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ampliación, prolongación",
+              "answer": "EXTENSION"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Una, junte o sujete",
+              "answer": "ATE"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Ciudad muy populosa",
+              "answer": "URBE"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Similitud entre Narnia y Naruto",
+              "answer": "NAR"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Giró mal, estaba borracho Se salvó por la gracia divina",
+              "answer": "MILAGRO"
+            },
+            "20": {
+              "col": 14,
+              "row": 2,
+              "clue": "Rehúsas asentir ante la veracidad de algo",
+              "answer": "NIEGAS"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Expresado con certeza absoluta",
+              "answer": "AFIRMADO"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Rambo o Rocky",
+              "answer": "STALLONE"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Chal con que cubren su cabeza los judíos en sus ceremonias religiosas",
+              "answer": "TALED"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Abundan en el purgatorio",
+              "answer": "ALMAS"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Iniciales del boricua compositor de 'Despacito'",
+              "answer": "LF"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"Obras de Antonio …\", Patrimonio de la Humanidad en Cataluña",
+              "answer": "GAUDI"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Remaré hacia atrás",
+              "answer": "CIARE"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Técnico que restaura equipos defectuosos",
+              "answer": "REPARADOR"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Criadero de plantas",
+              "answer": "PLANTEL"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Nombra, designa",
+              "answer": "ASIGNA"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Iniciales del italiano autor de \"El Nombre de la Rosa\"",
+              "answer": "UE"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Concreción nacarada de las conchas marinas",
+              "answer": "PERLAS"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Preferirá algo entre varias cosas",
+              "answer": "OPTARA"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Cactus mexicano, planta sagrada para los huicholes",
+              "answer": "PEYOTE"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Me fatiga, me tritura, me…",
+              "answer": "MUELE"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Mit Griega Hermano gemelo de Artemisa",
+              "answer": "APOLO"
+            },
+            "53": {
+              "col": 13,
+              "row": 10,
+              "clue": "\"Monasterio de …\", Patrimonio de la Humanidad, La Rioja, España",
+              "answer": "SUSO"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Ganso doméstico",
+              "answer": "OCA"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Instrumento de cuerda parecido a la bandurria",
+              "answer": "LAUD"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Período de mayor intensidad en un proceso",
+              "answer": "AUGE"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Semanario musical del Reino Unido, popular durante la era punk (siglas)",
+              "answer": "NME"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Como el reggae, pero electrónico",
+              "answer": "DUB"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Relativo a las fábricas",
+              "answer": "FABRIL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Someter a la acción de gases asfixiantes, tóxicos",
+              "answer": "GASEAR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Abreviatura del euro",
+              "answer": "EUR"
+            },
+            "14": {
+              "col": 4,
+              "row": 1,
+              "clue": "Cubran de rocío",
+              "answer": "RORAN"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Próximo, siguiente en inglés",
+              "answer": "NEXT"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Condimento italiano de perejil, ajo y limón",
+              "answer": "GREMOLATA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Nombren al autor, si lo usan",
+              "answer": "CITEN"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Latinismo que manifiesta rechazo sobre lo que se habla",
+              "answer": "ABSIT"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "Actividad impensable para  los que cantan fatal",
+              "answer": "KARAOKE"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Leerás a los verdaderos",
+              "answer": "REALES"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "En la frontera no hay radio",
+              "answer": "FRONTE"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Todo aquello que calma el dolor",
+              "answer": "ANTALGIA"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Tiene poco de sagrado",
+              "answer": "SAG"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Centro de Regulación Genómica",
+              "answer": "CRG"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Obrador de alfarero",
+              "answer": "ALFAR"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Batería, acumulador de corriente eléctrica",
+              "answer": "PILA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Se carcajeaba a sus espaldas",
+              "answer": "AIER"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "¿Lautaro Martínez o Luka Modrić?",
+              "answer": "LM"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "La conclusión de un referéndum",
+              "answer": "UM"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Lo alabes",
+              "answer": "LOES"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Ojos de…, patas de rana, que tengas suerte el fin de semana\"",
+              "answer": "SAPO"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "\"Niki…\", excorredor austríaco, triple campeón de la F1",
+              "answer": "LAUDA"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Conjunción \"y\" en inglés",
+              "answer": "AND"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Enojo, rabia",
+              "answer": "IRA"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Dios griego de los mares",
+              "answer": "POSEIDON"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "La parte interna del grano de trigo, la que germina",
+              "answer": "GERMEN"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Eligiese la estopa enredada",
+              "answer": "OPTASE"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "En la cabeza de los santos",
+              "answer": "AUREOLA"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "Venezuela Formación rocosa de pendiente vertical, propia del macizo guayanés",
+              "answer": "TEPUY"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Rodada o carril",
+              "answer": "ANDEL"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Un río cuando tiene un gran volumen de agua en movimiento",
+              "answer": "CAUDALOSO"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Es guay",
+              "answer": "MOLA"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Sacerdote romano que adivinaba por el cantar de las aves",
+              "answer": "AUGUR"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "El justo, que escapó con sus hijas de Sodoma",
+              "answer": "LOT"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "La Madre de Calcuta",
+              "answer": "TERESA"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "¿Arriba? no, al contrario",
+              "answer": "DEBAJO"
+            }
+          }
+        },
+        "vertical_clues": "1-Quitaré la vista a alguien\r\n2-Fruto de la planta Fragaria\r\n3-Nazcan o salgan de la tierra\r\n4-\"Juego de…\" como 'Dragones y mazmorras' \r\n5-País cuya capital es Bagdad\r\n6-Envase hecho de hojalata\r\n8-Un ancla\r\n9-Empresa japonesa creadora del primer reloj de cuarzo de pulsera\r\n10-Ampliación, prolongación\r\n11-Una, junte o sujete\r\n13-Ciudad muy populosa\r\n15-Similitud entre Narnia y Naruto\r\n18-Giró mal, estaba borracho Se salvó por la gracia divina\r\n20-Rehúsas asentir ante la veracidad de algo\r\n23-Expresado con certeza absoluta \r\n25-Rambo o Rocky\r\n27-Chal con que cubren su cabeza los judíos en sus ceremonias religiosas\r\n29-Abundan en el purgatorio\r\n30-Iniciales del boricua compositor de 'Despacito'\r\n31-\"Obras de Antonio …\", Patrimonio de la Humanidad en Cataluña\r\n33-Remaré hacia atrás\r\n34-Técnico que restaura equipos defectuosos \r\n36-Criadero de plantas\r\n37-Nombra, designa\r\n43-Iniciales del italiano autor de \"El Nombre de la Rosa\"\r\n46-Concreción nacarada de las conchas marinas\r\n47-Preferirá algo entre varias cosas\r\n48-Cactus mexicano, planta sagrada para los huicholes\r\n50-Me fatiga, me tritura, me…\r\n52-Mit Griega Hermano gemelo de Artemisa\r\n53-\"Monasterio de …\", Patrimonio de la Humanidad, La Rioja, España\r\n55-Ganso doméstico\r\n56-Instrumento de cuerda parecido a la bandurria\r\n57-Período de mayor intensidad en un proceso\r\n60-Semanario musical del Reino Unido, popular durante la era punk (siglas)\r\n62-Como el reggae, pero electrónico",
+        "horizontal_clues": "2-Relativo a las fábricas \r\n7-Someter a la acción de gases asfixiantes, tóxicos\r\n12-Abreviatura del euro\r\n14-Cubran de rocío\r\n16-Próximo, siguiente en inglés\r\n17-Condimento italiano de perejil, ajo y limón \r\n19-Nombren al autor, si lo usan\r\n21-Latinismo que manifiesta rechazo sobre lo que se habla\r\n22-Actividad impensable para  los que cantan fatal\r\n24-Leerás a los verdaderos\r\n26-En la frontera no hay radio\r\n28-Todo aquello que calma el dolor\r\n32-Tiene poco de sagrado\r\n33-Centro de Regulación Genómica\r\n35-Obrador de alfarero\r\n36-Batería, acumulador de corriente eléctrica\r\n37-Se carcajeaba a sus espaldas\r\n38-¿Lautaro Martínez o Luka Modrić? \r\n39-La conclusión de un referéndum\r\n40-Lo alabes\r\n41-\"Ojos de…, patas de rana, que tengas suerte el fin de semana\"\r\n42-\"Niki…\", excorredor austríaco, triple campeón de la F1\r\n44-Conjunción \"y\" en inglés\r\n45-Enojo, rabia\r\n46-Dios griego de los mares\r\n49-La parte interna del grano de trigo, la que germina\r\n51-Eligiese la estopa enredada\r\n54-En la cabeza de los santos\r\n58-Venezuela Formación rocosa de pendiente vertical, propia del macizo guayanés\r\n59-Rodada o carril\r\n61-Un río cuando tiene un gran volumen de agua en movimiento \r\n63-Es guay\r\n64-Sacerdote romano que adivinaba por el cantar de las aves\r\n65-El justo, que escapó con sus hijas de Sodoma\r\n66-La Madre de Calcuta\r\n67-¿Arriba? no, al contrario",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,#,3,4,5,6,#,7,8,9,10,11,#\r\n12,13,#,#,14,#,#,#,15,#,16,#,#,#,#\r\n17,#,#,18,#,#,#,#,#,#,19,#,#,#,20\r\n21,#,#,#,#,#,22,#,#,23,#,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,#,#,27,#\r\n#,#,#,28,#,#,29,30,31,#,#,#,32,#,#\r\n#,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,48\r\n49,#,#,50,#,#,#,#,#,51,#,#,52,53,#\r\n#,#,54,#,#,#,55,56,57,#,58,#,#,#,#\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

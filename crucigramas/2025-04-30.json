@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2300,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T18:45:05.422751Z",
+      "updatedAt": "2025-04-29T18:46:00.667631Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EMPATAR#MATERIA\r\nSB#PALOMITAS#UP\r\nT#CAPAZ#RITMO#O\r\nECOLOGA#ANUALES\r\nFAJE#ORARE#LIST\r\nALIAS##R##ATAPA\r\nNANSU#IQS#PESAR\r\n#B##FAS#OLE##R#\r\nPASAR#OES#ACATA\r\nACUDA##C##RAJAN\r\nLIME#OKUPA#MANA\r\nANACORA#AGLIBOL\r\nT#RUTER#VOILA#I\r\nAP#ATEMPORAL#BC\r\nLEPROSA#NORESTE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Gloria…\", madre del pop latino",
+              "answer": "ESTEFAN"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Megabyte",
+              "answer": "MB"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Le caes a palos, lo…",
+              "answer": "APALEAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cierro, sello",
+              "answer": "TAPO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Formo charcos o lagos en un terreno",
+              "answer": "ALAGO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Limpiar las tierras de hierbas inútiles",
+              "answer": "ROZAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Dirigir la vista a un objeto",
+              "answer": "MIRAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Acerté algo por conjeturas",
+              "answer": "ATINE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Armadillo",
+              "answer": "TATU"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Los metales raros llevan una pintura protectora",
+              "answer": "ESMALTE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Pactar la pérdida y ganancia de un bien por competencia",
+              "answer": "APOSTAR"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Almohadón que sirve para sentarse",
+              "answer": "COJIN"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Te lo sospechabas, te lo…",
+              "answer": "OLIAS"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Esta hortaliza no es balcánica",
+              "answer": "CALABACIN"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Cada uno de los 300 guerreros en '300'",
+              "answer": "ESPARTANO"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Mi pequeña arquitecta",
+              "answer": "ARQ"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Pase el peor momento de su vida",
+              "answer": "SUFRA"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Bajar de un caballo",
+              "answer": "APEAR"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Lo que tienen en común Edison y Marisol",
+              "answer": "ISO"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Un poco sospechosa su petición de ayuda",
+              "answer": "SOS"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Relativo al paladar",
+              "answer": "PALATAL"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "Añadir, agregar",
+              "answer": "SUMAR"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Acomodar para que encaje",
+              "answer": "ADECUAR"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Moneda de Europa anterior al euro",
+              "answer": "ECU"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"… Claudel\" escultora francesa y musa de Rodin",
+              "answer": "CAMILLE"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "Desgastaba, deterioraba o deslucía",
+              "answer": "AJABA"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Estudié bien el asunto, lo…",
+              "answer": "ANALICE"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ventees, desapolilles",
+              "answer": "OREES"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Energía derivada de los actos",
+              "answer": "KARMA"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Mariposa cuyas alas recuerdan a un pavo real",
+              "answer": "PAVON"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Predigo, anuncio desdichas",
+              "answer": "AGORO"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"… Mann\" el conductor del bus escolar en 'Los Simpson'",
+              "answer": "OTTO"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"Mentiroso\" en inglés",
+              "answer": "LIAR"
+            },
+            "60": {
+              "col": 1,
+              "row": 13,
+              "clue": "Cabeza de pescado",
+              "answer": "PE"
+            },
+            "62": {
+              "col": 13,
+              "row": 13,
+              "clue": "Tanques rusos usados en la guerra civil española (siglas)",
+              "answer": "BT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Quedar 0/0, 1/1 o 2/2 el partido",
+              "answer": "EMPATAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Esta asignatura amerita más organización",
+              "answer": "MATERIA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Iniciales del pintor del cuadro 'El nacimiento de Venus'",
+              "answer": "SB"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Cotufas, popcorn, crispetas, pochoclo, rosetas",
+              "answer": "PALOMITAS"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Película de Disney, ambientada en Canaima",
+              "answer": "UP"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Preparado, instruido para hacerlo",
+              "answer": "CAPAZ"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Oído musical, tiene buen…",
+              "answer": "RITMO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mujer especialista en ecología",
+              "answer": "ECOLOGA"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Que suceden cada año",
+              "answer": "ANUALES"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Me apreté las carnes",
+              "answer": "FAJE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Rogaré al Altísimo",
+              "answer": "ORARE"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lista sin fin",
+              "answer": "LIST"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "El nombre de usuario, me salía desordenado",
+              "answer": "ALIAS"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tapa, tranca",
+              "answer": "ATAPA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Tela fina de algodón usada para confeccionar pañuelos, ropa interior o blusas",
+              "answer": "NANSU"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Saludos al Instituto Químico de Sarría",
+              "answer": "IQS"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Determinar la masa de un cuerpo",
+              "answer": "PESAR"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "\"Por… o por nefas\"",
+              "answer": "FAS"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Voz usada para animar las corridas de toros",
+              "answer": "OLE"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Ceder el turno, por no tener baraja que jugar",
+              "answer": "PASAR"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Cuarta vocal (pl)",
+              "answer": "OES"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Obedece, que si se regresa te embiste",
+              "answer": "ACATA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Asista",
+              "answer": "ACUDA"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Se asustan en México",
+              "answer": "RAJAN"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Le rebajé las garras, se las…",
+              "answer": "LIME"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Movimiento radical que propugna la ocupación de viviendas deshabitadas",
+              "answer": "OKUPA"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Banda de rock",
+              "answer": "MANA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Trompa, cuerno de caza, clarín, corneta",
+              "answer": "ANACORA"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Deidad lunar en la antigua Siria de Palmira, representado con un halo lunar que adorna su cabeza",
+              "answer": "AGLIBOL"
+            },
+            "57": {
+              "col": 2,
+              "row": 12,
+              "clue": "Inform Dispositivo que emite señal wifi",
+              "answer": "RUTER"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Voz francesa que indica que algo está terminado",
+              "answer": "VOILA"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Iniciales de la primera española que ha ganado un Balón de Oro",
+              "answer": "AP"
+            },
+            "61": {
+              "col": 3,
+              "row": 13,
+              "clue": "Que está fuera del tiempo o lo trasciende",
+              "answer": "ATEMPORAL"
+            },
+            "62": {
+              "col": 13,
+              "row": 13,
+              "clue": "Siglas en inglés de Antes de Cristo",
+              "answer": "BC"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Una mujer que padece la enfermedad de Hansen",
+              "answer": "LEPROSA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "NE",
+              "answer": "NORESTE"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Gloria…\", madre del pop latino\r\n2-Megabyte\r\n3-Le caes a palos, lo…\r\n4-Cierro, sello\r\n5-Formo charcos o lagos en un terreno\r\n6-Limpiar las tierras de hierbas inútiles\r\n7-Dirigir la vista a un objeto\r\n8-Acerté algo por conjeturas\r\n9-Armadillo\r\n10-Los metales raros llevan una pintura protectora\r\n11-Las vocales débiles\r\n12-Pactar la pérdida y ganancia de un bien por competencia\r\n16-Almohadón que sirve para sentarse\r\n18-Te lo sospechabas, te lo…\r\n20-Esta hortaliza no es balcánica\r\n22-Cada uno de los 300 guerreros en '300'\r\n25-Mi pequeña arquitecta\r\n28-Pase el peor momento de su vida\r\n29-Bajar de un caballo\r\n31-Lo que tienen en común Edison y Marisol\r\n32-Un poco sospechosa su petición de ayuda\r\n36-Relativo al paladar\r\n37-Añadir, agregar\r\n38-Acomodar para que encaje\r\n40-Moneda de Europa anterior al euro\r\n42-\"… Claudel\" escultora francesa y musa de Rodin\r\n43-Desgastaba, deterioraba o deslucía\r\n44-Estudié bien el asunto, lo…\r\n48-Ventees, desapolilles\r\n49-Energía derivada de los actos\r\n50-Mariposa cuyas alas recuerdan a un pavo real\r\n51-Predigo, anuncio desdichas\r\n54-\"… Mann\" el conductor del bus escolar en 'Los Simpson'\r\n56-\"Mentiroso\" en inglés\r\n60-Cabeza de pescado \r\n62-Tanques rusos usados en la guerra civil española (siglas)",
+        "horizontal_clues": "1-Quedar 0/0, 1/1 o 2/2 el partido\r\n7-Esta asignatura amerita más organización\r\n13-Iniciales del pintor del cuadro 'El nacimiento de Venus'\r\n14-Cotufas, popcorn, crispetas, pochoclo, rosetas\r\n15-Película de Disney, ambientada en Canaima - Venezuela\r\n16-Preparado, instruido para hacerlo\r\n17-Oído musical, tiene buen…\r\n19-Mujer especialista en ecología\r\n21-Que suceden cada año\r\n23-Me apreté las carnes\r\n24-Rogaré al Altísimo\r\n26-Lista sin fin\r\n27-El nombre de usuario, me salía desordenado\r\n29-Tapa, tranca\r\n30-Tela fina de algodón usada para confeccionar pañuelos, ropa interior o blusas\r\n31-Saludos al Instituto Químico de Sarría\r\n33-Determinar la masa de un cuerpo\r\n34-\"Por… o por nefas\"\r\n35-Voz usada para animar las corridas de toros\r\n36-Ceder el turno, por no tener baraja que jugar\r\n39-Cuarta vocal (pl)\r\n41-Obedece, que si se regresa te embiste\r\n45-Asista\r\n46-Se asustan en México\r\n47-Le rebajé las garras, se las…\r\n48-Movimiento radical que propugna la ocupación de viviendas deshabitadas\r\n52-Banda de rock-pop mexicana que cantan \"Clavado en un bar\"\r\n53-Trompa, cuerno de caza, clarín, corneta\r\n55-Deidad lunar en la antigua Siria de Palmira, representado con un halo lunar que adorna su cabeza\r\n57-Inform Dispositivo que emite señal wifi\r\n58-Voz francesa que indica que algo está terminado\r\n59-Iniciales de la primera española que ha ganado un Balón de Oro\r\n61-Que está fuera del tiempo o lo trasciende\r\n62-Siglas en inglés de Antes de Cristo\r\n63-Una mujer que padece la enfermedad de Hansen\r\n64-NE",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,#,7,8,9,10,#,11,12\r\n13,#,#,14,#,#,#,#,#,#,#,#,#,15,#\r\n#,#,16,#,#,#,#,#,17,#,#,#,18,#,#\r\n19,20,#,#,#,#,#,#,21,#,#,#,#,22,#\r\n23,#,#,#,#,24,#,25,#,#,#,26,#,#,#\r\n27,#,#,#,28,#,#,#,#,#,29,#,#,#,#\r\n30,#,#,#,#,#,31,#,32,#,33,#,#,#,#\r\n#,#,#,#,34,#,#,#,35,#,#,#,#,#,#\r\n36,#,37,38,#,#,39,40,#,#,41,42,43,#,44\r\n45,#,#,#,#,#,#,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,49,#,50,51,#,52,#,#,#\r\n53,#,#,#,54,#,#,#,55,#,56,#,#,#,#\r\n#,#,57,#,#,#,#,#,58,#,#,#,#,#,#\r\n59,60,#,61,#,#,#,#,#,#,#,#,#,62,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

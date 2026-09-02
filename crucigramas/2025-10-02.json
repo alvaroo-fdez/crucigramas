@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3540,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-25T10:28:58.461000Z",
+      "updatedAt": "2025-09-25T10:32:16.332975Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-02",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALPACAS#BAHAMAS\r\nBEEF#REPON#MEMA\r\nCAÑO#ADELE#PREZ\r\nDION#FENIX#LALO\r\nESNIFA#I#AVISEN\r\n###CATATONIA###\r\nCAPAR#TEL#EDIPO\r\nHUESO#INS#JONAS\r\nOPE#LANCERO#CEC\r\nPONS#VAINA#RAZA\r\n###ICE#A#ZOO###\r\nKVAS#NARCO#SKYR\r\nLELA#GUION#COMI\r\nUNCI#ELATA#ONCE\r\nMAESTRA#ARENGAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Las 5 primeras opciones",
+              "answer": "ABCDE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Paséis la vista por lo escrito, comprendiendo el código",
+              "answer": "LEAIS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"… de Gibraltar\" promontorio británico",
+              "answer": "PEÑON"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Mujeres sin voz",
+              "answer": "AFONICAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Primer presidente de Palestina",
+              "answer": "ARAFAT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Lugar donde tiene su domicilio una entidad económica",
+              "answer": "SEDE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Bolígrafo",
+              "answer": "BOLI"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Adjuntan, envían algo juntamente con un escrito",
+              "answer": "ANEXAN"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Extendido, dilatado, agrandado",
+              "answer": "AMPLIADO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Puras, netas",
+              "answer": "MERAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Fabrique su miel, la abeja",
+              "answer": "AMELE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Gusto y sabor que se percibe en los alimentos",
+              "answer": "SAZON"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Centro de detención para reos",
+              "answer": "PENITENCIARIA"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Caja de vidrio que ilumina la flora callejera",
+              "answer": "FAROL"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Plinio, pero no el joven",
+              "answer": "VIEJO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Da en el blanco",
+              "answer": "ATINA"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"Elizabeth…\" la Bruja escarlata en 'Visión'",
+              "answer": "OLSEN"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Chip y…\" los guardianes rescatadores",
+              "answer": "CHOP"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Incito, motivo",
+              "answer": "AUPO"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Suelten ventosidades",
+              "answer": "PEEN"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"Camino …\" ruta de senderismo de Perú",
+              "answer": "INCA"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Apellido de prócer de Venezuela que ordenó a sus tropas \"Volver caras\"",
+              "answer": "PAEZ"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "Mujer de Huesca, España",
+              "answer": "OSCA"
+            },
+            "43": {
+              "col": 5,
+              "row": 8,
+              "clue": "Un vengador yankee",
+              "answer": "AVENGER"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "Establecer relación entre conceptos distintos para formar un juicio",
+              "answer": "RAZONAR"
+            },
+            "47": {
+              "col": 3,
+              "row": 9,
+              "clue": "Hacéis una sisa en una prenda de vestir",
+              "answer": "SISAIS"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Bollo navideño típico del día de Reyes",
+              "answer": "ROSCON"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Heidi…\" modelo y presentadora alemana",
+              "answer": "KLUM"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Ven a este conducto sangriento",
+              "answer": "VENA"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "Elevé al rumiante",
+              "answer": "ALCE"
+            },
+            "56": {
+              "col": 6,
+              "row": 11,
+              "clue": "Sala donde se imparten las clases",
+              "answer": "AULA"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Cima de una elevación del terreno",
+              "answer": "COTA"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "King …, gigantesco simio ficticio",
+              "answer": "KONG"
+            },
+            "60": {
+              "col": 13,
+              "row": 11,
+              "clue": "Los Village People deletreando su icónico tema",
+              "answer": "YMCA"
+            },
+            "61": {
+              "col": 14,
+              "row": 11,
+              "clue": "\"LOL: si te…, pierdes\"",
+              "answer": "RIES"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Camélidos andinos",
+              "answer": "ALPACAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Archipiélago en el océano Atlántico, paraíso para buceadores",
+              "answer": "BAHAMAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Anglicismo usado en redes que denota conflicto y pelea",
+              "answer": "BEEF"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Restituye lo que falta",
+              "answer": "REPON"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Tonta, mentecata",
+              "answer": "MEMA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Albañal, tubería",
+              "answer": "CAÑO"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Nombrada artista del año en 2011, 2012 y 2016 por la revista Billboard",
+              "answer": "ADELE"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Honor que se gana con una acción gloriosa",
+              "answer": "PREZ"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Antigua ciudad griega, situada en la península Calcídica",
+              "answer": "DION"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Ave que se regenera de las cenizas",
+              "answer": "FENIX"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Hipocorístico para Eduardo",
+              "answer": "LALO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Aspira alguna droga por la nariz",
+              "answer": "ESNIFA"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Notifiquen, comuniquen",
+              "answer": "AVISEN"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Síndrome esquizofrénico, con rigidez muscular",
+              "answer": "CATATONIA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cercenar algo",
+              "answer": "CAPAR"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Teléfono compacto",
+              "answer": "TEL"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Rey de Tebas que mató a su padre y desposó a su madre",
+              "answer": "EDIPO"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Parte dura de algunos frutos",
+              "answer": "HUESO"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "En el centro de Minsk",
+              "answer": "INS"
+            },
+            "40": {
+              "col": 10,
+              "row": 7,
+              "clue": "Estos brothers formaron un grupo de música en el 2005",
+              "answer": "JONAS"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "En la ópera de López",
+              "answer": "OPE"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Lugar donde se colocan las lanzas",
+              "answer": "LANCERO"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Círculo de Escritores Cinematográficos",
+              "answer": "CEC"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Lele…\" celebridad de internet que es sobrina de Chayanne",
+              "answer": "PONS"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Funda ajustada para armas blancas",
+              "answer": "VAINA"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Casta o calidad del origen o linaje",
+              "answer": "RAZA"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Agencia deportadora de EEUU que es fría como el hielo",
+              "answer": "ICE"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Un pequeño zoológico",
+              "answer": "ZOO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Bebida tradicional eslava y báltica a base de harina y malta",
+              "answer": "KVAS"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Traficante de drogas",
+              "answer": "NARCO"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Producto lácteo parecido al yogur típico de Islandia",
+              "answer": "SKYR"
+            },
+            "62": {
+              "col": 0,
+              "row": 12,
+              "clue": "Fatua, simple y como pasmada",
+              "answer": "LELA"
+            },
+            "63": {
+              "col": 5,
+              "row": 12,
+              "clue": "El libreto de una obra teatral",
+              "answer": "GUION"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "No tengo hambre porque ya…",
+              "answer": "COMI"
+            },
+            "65": {
+              "col": 0,
+              "row": 13,
+              "clue": "Sujeté el yugo a los bueyes",
+              "answer": "UNCI"
+            },
+            "66": {
+              "col": 5,
+              "row": 13,
+              "clue": "Presuntuosa, soberbia",
+              "answer": "ELATA"
+            },
+            "67": {
+              "col": 11,
+              "row": 13,
+              "clue": "Personaje protagonista de 'Stranger Things', la de los poderes",
+              "answer": "ONCE"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "Mujer que enseña",
+              "answer": "MAESTRA"
+            },
+            "69": {
+              "col": 8,
+              "row": 14,
+              "clue": "Discursos pronunciados para enardecer los ánimos",
+              "answer": "ARENGAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Las 5 primeras opciones\r\n2-Paséis la vista por lo escrito, comprendiendo el código\r\n3-\"… de Gibraltar\" promontorio británico\r\n4-Mujeres sin voz\r\n5-Primer presidente de Palestina\r\n6-Lugar donde tiene su domicilio una entidad económica\r\n7-Bolígrafo\r\n8-Adjuntan, envían algo juntamente con un escrito\r\n9-Extendido, dilatado, agrandado\r\n10-Puras, netas\r\n11-Fabrique su miel, la abeja\r\n12-Gusto y sabor que se percibe en los alimentos\r\n15-Centro de detención para reos\r\n24-Caja de vidrio que ilumina la flora callejera\r\n26-Plinio, pero no el joven\r\n28-Da en el blanco\r\n29-\"Elizabeth…\" la Bruja escarlata en 'Visión'\r\n30-\"Chip y…\" los guardianes rescatadores\r\n31-Incito, motivo\r\n32-Suelten ventosidades\r\n35-\"Camino …\" ruta de senderismo de Perú\r\n36-Apellido de prócer de Venezuela que ordenó a sus tropas \"Volver caras\"\r\n37-Mujer de Huesca, España\r\n43-Un vengador yankee\r\n44-Establecer relación entre conceptos distintos para formar un juicio\r\n47-Hacéis una sisa en una prenda de vestir\r\n49-Bollo navideño típico del día de Reyes\r\n52-\"Heidi…\" modelo y presentadora alemana\r\n53-Ven a este conducto sangriento\r\n54-Elevé al rumiante\r\n56-Sala donde se imparten las clases\r\n57-Cima de una elevación del terreno\r\n59-King …, gigantesco simio ficticio\r\n60-Los Village People deletreando su icónico tema\r\n61-\"LOL: si te…, pierdes\"",
+        "horizontal_clues": "1-Camélidos andinos\r\n7-Archipiélago en el océano Atlántico, paraíso para buceadores\r\n13-Anglicismo usado en redes que denota conflicto y pelea\r\n14-Restituye lo que falta\r\n16-Tonta, mentecata\r\n17-Albañal, tubería\r\n18-Nombrada artista del año en 2011, 2012 y 2016 por la revista Billboard\r\n19-Honor que se gana con una acción gloriosa\r\n20-Antigua ciudad griega, situada en la península Calcídica\r\n21-Ave que se regenera de las cenizas\r\n22-Hipocorístico para Eduardo\r\n23-Aspira alguna droga por la nariz\r\n25-Notifiquen, comuniquen\r\n27-Síndrome esquizofrénico, con rigidez muscular\r\n30-Cercenar algo\r\n33-Teléfono compacto\r\n34-Rey de Tebas que mató a su padre y desposó a su madre\r\n38-Parte dura de algunos frutos\r\n39-En el centro de Minsk\r\n40-Estos brothers formaron un grupo de música en el 2005\r\n41-En la ópera de López\r\n42-Lugar donde se colocan las lanzas\r\n45-Círculo de Escritores Cinematográficos\r\n46-\"Lele…\" celebridad de internet que es sobrina de Chayanne\r\n48-Funda ajustada para armas blancas\r\n49-Casta o calidad del origen o linaje\r\n50-Agencia deportadora de EEUU que es fría como el hielo\r\n51-Un pequeño zoológico\r\n52-Bebida tradicional eslava y báltica a base de harina y malta\r\n55-Traficante de drogas\r\n58-Producto lácteo parecido al yogur típico de Islandia\r\n62-Fatua, simple y como pasmada\r\n63-El libreto de una obra teatral\r\n64-No tengo hambre porque ya…\r\n65-Sujeté el yugo a los bueyes\r\n66-Presuntuosa, soberbia\r\n67-Personaje protagonista de 'Stranger Things', la de los poderes\r\n68-Mujer que enseña\r\n69-Discursos pronunciados para enardecer los ánimos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,15,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n23,#,#,#,24,#,#,#,#,25,26,#,#,#,#\r\n#,#,#,27,#,#,28,#,29,#,#,#,#,#,#\r\n30,31,32,#,#,#,33,#,#,#,34,#,35,36,37\r\n38,#,#,#,#,#,39,#,#,#,40,#,#,#,#\r\n41,#,#,#,42,43,#,#,#,44,#,#,45,#,#\r\n46,#,#,47,#,48,#,#,#,#,#,49,#,#,#\r\n#,#,#,50,#,#,#,#,#,51,#,#,#,#,#\r\n52,53,54,#,#,55,56,#,57,#,#,58,59,60,61\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,#,67,#,#,#\r\n68,#,#,#,#,#,#,#,69,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

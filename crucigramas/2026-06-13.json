@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6233,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-12T21:42:08.606890Z",
+      "updatedAt": "2026-06-12T21:45:34.247264Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-13",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ABORRECER#ACODA\r\nROMI#SAMOA#OLAF\r\nERIE#PREPA#MANI\r\nPOSGUERRA#PASAN\r\nA##OTROS#RED##C\r\n#SR#CEÑO#ARROBA\r\nMEAD##ENDEREZAR\r\nINVITAR#ENOJABA\r\nSTEVEJOBS##AREN\r\nEOLICA#ICES#KL#\r\nR##SOX#SARTA##P\r\nARDIL#CORROMPER\r\nBOEB#PUNTA#BUJE\r\nLEAL#UNTAD#AJES\r\nERREN#AERODROMO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Emblemática comida de Venezuela",
+              "answer": "AREPA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Elemento químico cuyo símbolo es B",
+              "answer": "BORO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Los míos están desordenados",
+              "answer": "OMIS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Esparzo agua sobre las plantas",
+              "answer": "RIEGO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Aguarde, prorrogue",
+              "answer": "ESPERE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Ave que llega tarde al banquete pero siempre encuentra mesa",
+              "answer": "CARROÑERO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"… Fittipaldi\" expiloto de F1",
+              "answer": "EMERSON"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "La venden los de Inditex",
+              "answer": "ROPA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Pequeño mamífero carnívoro de cuerpo alargado y pelaje rojizo",
+              "answer": "COMADREJA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cambios repentinos de temperatura",
+              "answer": "OLAS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Fenómeno climático también conocido como gota fría",
+              "answer": "DANA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Establecerán su residencia en un lugar determinado",
+              "answer": "AFINCARAN"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Siglas del principal estándar de tiempo por el cual, el mundo regula los relojes y el tiempo",
+              "answer": "UTC"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"… que ladra, no muerde\"",
+              "answer": "PERRO"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Raspan una superficie quitando pelos",
+              "answer": "RAEN"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Dejó un precedente",
+              "answer": "SENTO"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Famoso bolero",
+              "answer": "RAVEL"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Serie de Tv protagonizada por Jason Bateman",
+              "answer": "OZARK"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Torre de los idiomas",
+              "answer": "BABEL"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "A lo que le importa todo mi ser, a bledo, ¡Canalla!",
+              "answer": "MISERABLE"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Lo que no puede ser primo, por definición matemática",
+              "answer": "DIVISIBLE"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Lo que hace un jugador con las peores piezas… y un jefe con los mejores empleados",
+              "answer": "DESCARTAR"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Gusano del tequila",
+              "answer": "TECOL"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Club de fútbol de la ciudad de Ámsterdam",
+              "answer": "AJAX"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "El primo americano del búfalo",
+              "answer": "BISONTE"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Equivocado, desacertado",
+              "answer": "ERRADO"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Pequeño santo",
+              "answer": "STO"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Resina fósil amarillenta que arde con buen olor",
+              "answer": "AMBAR"
+            },
+            "51": {
+              "col": 14,
+              "row": 10,
+              "clue": "Cautivo",
+              "answer": "PRESO"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Cortar con los dientes",
+              "answer": "ROER"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "Estimado en inglés",
+              "answer": "DEAR"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Se dice de un lugar donde nace una cultura",
+              "answer": "CUNA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Compito por una subasta",
+              "answer": "PUJO"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Voz usada para dejar en suspenso el discurso",
+              "answer": "EJEM"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Plutonio",
+              "answer": "PU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Recobraré la extraña manera de detestar",
+              "answer": "ABORRECER"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Apoya el codo sobre alguna parte",
+              "answer": "ACODA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "A Romina con cariño",
+              "answer": "ROMI"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Asoma la mezcla desde el país de Oceanía",
+              "answer": "SAMOA"
+            },
+            "17": {
+              "col": 11,
+              "row": 1,
+              "clue": "Este muñeco se derrite por Elsa",
+              "answer": "OLAF"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Lago de USA",
+              "answer": "ERIE"
+            },
+            "19": {
+              "col": 5,
+              "row": 2,
+              "clue": "El Instituto es al Insti lo que la Preparatoria es a la…",
+              "answer": "PREPA"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Cacahuete, fruto seco originario de Perú",
+              "answer": "MANI"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Después de la Guerra Civil Española",
+              "answer": "POSGUERRA"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Les importa un pepino y lo hacen olímpicamente",
+              "answer": "PASAN"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Refrán: \"Unos por…, la casa sin barrer\"",
+              "answer": "OTROS"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "\"… Dead Redemption\" En el top de mejores videojuegos de la historia",
+              "answer": "RED"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Inic del cubano que junto Luis Eduardo Aute, grabaron el álbum 'Mano a mano'",
+              "answer": "SR"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Entre ceja y ceja",
+              "answer": "CEÑO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Peso equivalente a 11,502 kg",
+              "answer": "ARROBA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Id al servicio y haced pis",
+              "answer": "MEAD"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Poner recto",
+              "answer": "ENDEREZAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Exhortar a pagar la cuenta completa",
+              "answer": "INVITAR"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Molestaba, incomodaba, enfurecía",
+              "answer": "ENOJABA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "El genio de la manzana que nunca fue para Newton",
+              "answer": "STEVEJOBS"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "No preguntes por el arenque",
+              "answer": "AREN"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Energía producida por la fuerza del viento",
+              "answer": "EOLICA"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Eleves las banderas",
+              "answer": "ICES"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Símbolo de la unidad de medida equivalente a mil litros",
+              "answer": "KL"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Medias en inglés",
+              "answer": "SOX"
+            },
+            "49": {
+              "col": 7,
+              "row": 10,
+              "clue": "Serie de sucesos que se devuelven por la parte trasera",
+              "answer": "SARTA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Mañoso, astuto, sagaz",
+              "answer": "ARDIL"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Y juntos destrozar la moral y la ética las mentes más débiles",
+              "answer": "CORROMPER"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Bebo chorreado",
+              "answer": "BOEB"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Extremo de algo",
+              "answer": "PUNTA"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Elemento de una máquina donde se apoya y gira un eje",
+              "answer": "BUJE"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… hasta muelte, Brrr\" AA",
+              "answer": "LEAL"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Extended superficialmente aceite sobre algo",
+              "answer": "UNTAD"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Viajes con seis kilos menos",
+              "answer": "AJES"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Desacierten",
+              "answer": "ERREN"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Sitio para despegue de aeronaves sin área comercial",
+              "answer": "AERODROMO"
+            }
+          }
+        },
+        "vertical_clues": "1-Emblemática comida de Venezuela\r\n2-Elemento químico cuyo símbolo es B\r\n3-Los míos están desordenados\r\n4-Esparzo agua sobre las plantas\r\n5-Aguarde, prorrogue\r\n6-Ave que llega tarde al banquete, pero siempre encuentra mesa \r\n7-\"… Fittipaldi\" expiloto de F1\r\n8-La venden los de Inditex\r\n10-Pequeño mamífero carnívoro de cuerpo alargado y pelaje rojizo \r\n11-Cambios repentinos de temperatura\r\n12-Fenómeno climático también conocido como gota fría\r\n13-Establecerán su residencia en un lugar determinado \r\n16-Alcohólicos Anónimos\r\n22-Siglas del principal estándar de tiempo por el cual el mundo regula los relojes y el tiempo\r\n23-\"… que ladra, no muerde\" \r\n25-Raspan una superficie quitando pelos\r\n26-Dejó un precedente\r\n27-Famoso bolero\r\n30-Serie de TV protagonizada por Jason Bateman\r\n31-Torre de los idiomas\r\n32-A lo que le importa todo mi ser, a bledo, ¡Canalla! \r\n33-Lo que no puede ser primo, por definición matemática \r\n35-Lo que hace un jugador con las peores piezas… y un jefe con los mejores empleados \r\n37-Gusano del tequila\r\n38-Club de fútbol de la ciudad de Ámsterdam\r\n41-El primo americano del búfalo\r\n45-Equivocado, desacertado\r\n46-Pequeño santo\r\n50-Resina fósil amarillenta que arde con buen olor\r\n51-Cautivo \r\n53-Cortar con los dientes\r\n54-Estimado en inglés\r\n55-Se dice de un lugar donde nace una cultura\r\n56-Compito por una subasta\r\n57-Voz usada para dejar en suspenso el discurso\r\n59-Plutonio",
+        "horizontal_clues": "1-Recobraré la extraña manera de detestar \r\n9-Apoya el codo sobre alguna parte\r\n14-A Romina con cariño\r\n15-Asoma la mezcla desde el país de Oceanía\r\n17-Este muñeco se derrite por Elsa \r\n18-Lago de USA\r\n19-El Instituto es al Insti lo que la Preparatoria es a la…\r\n20-Cacahuete, fruto seco originario de Perú\r\n21-Después de la Guerra Civil Española\r\n23-Les importa un pepino y lo hacen olímpicamente\r\n24-Refrán: \"Unos por…, la casa sin barrer\" \r\n25-\"… Dead Redemption\" En el top de mejores videojuegos de la historia \r\n26-Inic del cubano que, junto a Luis Eduardo Aute, grabaron el álbum 'Mano a mano'\r\n28-Entre ceja y ceja\r\n29-Peso equivalente a 11,502 kg\r\n32-Id al servicio y haced pis\r\n34-Poner recto \r\n36-Exhortar a pagar la cuenta completa\r\n39-Molestaba, incomodaba, enfurecía\r\n40-El genio de la manzana que nunca fue para Newton \r\n42-No preguntes por el arenque\r\n43-Energía producida por la fuerza del viento\r\n44-Eleves las banderas\r\n47-Símbolo de la unidad de medida equivalente a mil litros\r\n48-Medias en inglés\r\n49-Serie de sucesos que se devuelven por la parte trasera\r\n52-Mañoso, astuto, sagaz\r\n55-Y juntos destrozar la moral y la ética de las mentes más débiles \r\n58-Bebo chorreado \r\n59-Extremo de algo\r\n60-Elemento de una máquina donde se apoya y gira un eje\r\n61-\"… hasta muelte, Brrr\" AA \r\n62-Extended superficialmente aceite sobre algo\r\n63-Viajes con seis kilos menos\r\n64-Desacierten\r\n65-Sitio para despegue de aeronaves sin área comercial",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,16,#,17,#,#,#\r\n18,#,#,#,#,19,#,#,#,#,#,20,#,#,#\r\n21,#,#,#,22,#,#,#,#,#,23,#,#,#,#\r\n#,#,#,24,#,#,#,#,#,25,#,#,#,#,#\r\n#,26,27,#,28,#,#,#,#,29,#,#,30,31,#\r\n32,#,#,33,#,#,34,#,35,#,#,#,#,#,#\r\n36,#,#,#,37,38,#,#,39,#,#,#,#,#,#\r\n40,#,#,#,#,#,#,41,#,#,#,42,#,#,#\r\n43,#,#,#,#,#,#,44,#,45,46,#,47,#,#\r\n#,#,#,48,#,#,#,49,#,#,#,50,#,#,51\r\n52,53,54,#,#,#,55,#,#,#,#,#,56,57,#\r\n58,#,#,#,#,59,#,#,#,#,#,60,#,#,#\r\n61,#,#,#,#,62,#,#,#,#,#,63,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

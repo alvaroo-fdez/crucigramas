@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 1498,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-07T15:43:58.280199Z",
+      "updatedAt": "2025-01-07T15:43:58.298469Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-09",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EBANOS#ALOPECIA\r\nSANOJA#PESILLO#\r\nTRITON#U#REMA#A\r\nURL#STING#LAVAS\r\nFALO#ASTAS#RECE\r\nASOMA#RENOS#COL\r\n###IBRA#ERUDITA\r\nCUATRO###DRENAR\r\nENVIADO#TACS###\r\nNIE#NEGAR#AUPAN\r\nARNA#ARREA#SUDE\r\nBETUN#ORSAY#PUG\r\nA#UNEN#E#AUTANA\r\n#DRAGADO#ASADAS\r\nGRASOSOS#HONORE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Como el calentador, esta es tu favorita",
+              "answer": "ESTUFA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Fijas, asimétricas o paralelas, las de la gimnasia",
+              "answer": "BARRAS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo del compromiso y el matrimonio",
+              "answer": "ANILLO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dejó una nota sin terminar",
+              "answer": "NOT"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"… bien cerrados\" peli de Kubrick, con Tom Cruise y Nicole Kidman (1999)",
+              "answer": "OJOS"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Perfecta y libre de toda culpa",
+              "answer": "SANTA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Dirija con precisión, el tiro",
+              "answer": "APUNTE"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lucas Eguibar (Español campeón mundial de snowboard, 2021)",
+              "answer": "LE"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Óscar perdió su compañía anónima",
+              "answer": "OSR"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Esforzarse al máximo, dejarse la…",
+              "answer": "PIEL"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"El viejo y…\", novela de Hemingway (2p)",
+              "answer": "ELMAR"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Instrumento musical de teclado, precursor del piano",
+              "answer": "CLAVECIN"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Tío que ha perdido la cabeza",
+              "answer": "IO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Dicho de animales: dormir en un lugar alto",
+              "answer": "ASELAR"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "A Israel con cariño",
+              "answer": "ISRA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Vencí, conquisté",
+              "answer": "GANE"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Delimita el ámbito o espacio de algo",
+              "answer": "ACOTA"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "Ignoré algo",
+              "answer": "OMITI"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Mujer que no escucha",
+              "answer": "SORDA"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"… paso\", quítense",
+              "answer": "ABRAN"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Atraviesa los mares",
+              "answer": "SURCA"
+            },
+            "36": {
+              "col": 5,
+              "row": 6,
+              "clue": "Cerca, acorrala, circunscribe",
+              "answer": "RODEA"
+            },
+            "38": {
+              "col": 11,
+              "row": 6,
+              "clue": "Acortamiento de 'Desuso'",
+              "answer": "DESUS"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lo que hacía Jesús en el cuadro de DaVinci",
+              "answer": "CENABA"
+            },
+            "40": {
+              "col": 1,
+              "row": 7,
+              "clue": "Juntaré",
+              "answer": "UNIRE"
+            },
+            "41": {
+              "col": 2,
+              "row": 7,
+              "clue": "Experiencia fuera de lo común",
+              "answer": "AVENTURA"
+            },
+            "44": {
+              "col": 6,
+              "row": 8,
+              "clue": "Monstruo del folclore",
+              "answer": "OGRO"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "¿Cuántos son los tristes tigres?",
+              "answer": "TRES"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Atavíos, adornos",
+              "answer": "ARREOS"
+            },
+            "50": {
+              "col": 12,
+              "row": 9,
+              "clue": "La larva se ha convertido en pupa, se ha…",
+              "answer": "PUPADO"
+            },
+            "51": {
+              "col": 13,
+              "row": 9,
+              "clue": "Unir, juntar, congregar",
+              "answer": "ADUNAR"
+            },
+            "52": {
+              "col": 14,
+              "row": 9,
+              "clue": "Dijese que algo no es verdad",
+              "answer": "NEGASE"
+            },
+            "54": {
+              "col": 3,
+              "row": 10,
+              "clue": "Reúnes fuerzas para arreglar la sauna rota",
+              "answer": "AUNAS"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "Yo, cuando veo un ratón",
+              "answer": "AAAAH"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "Declaró no haber dicho eso, lo…",
+              "answer": "NEGO"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"Monasterio San Millán de… \", Patrimonio de la Humanidad, La Rioja, España",
+              "answer": "YUSO"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Un santo en asunción",
+              "answer": "NAS"
+            },
+            "66": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"Soy… pobre que solo tengo dinero\" Cristina Onassi",
+              "answer": "TAN"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "Dolores Redondo, una de las que no duermen",
+              "answer": "DR"
+            },
+            "68": {
+              "col": 6,
+              "row": 13,
+              "clue": "Denominación de origen",
+              "answer": "DO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Árbol de madera negra (pl)",
+              "answer": "EBANOS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Calvicie",
+              "answer": "ALOPECIA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Palabras en finlandés",
+              "answer": "SANOJA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Recipiente pequeño para pesar ingredientes en la cocina",
+              "answer": "PESILLO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "El hijo de Poseidón, parece un poco tristón",
+              "answer": "TRITON"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "Impulsa a brazo",
+              "answer": "REMA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "La dirección de una página web",
+              "answer": "URL"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Canta 'Englishman in New York'",
+              "answer": "STING"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Limpias con agua y jabón",
+              "answer": "LAVAS"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Otra denominación del pene",
+              "answer": "FALO"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Los cuernos del ciervo",
+              "answer": "ASTAS"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Diríjase a Dios",
+              "answer": "RECE"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Surge, brota, aflora",
+              "answer": "ASOMA"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Lo son Rodolfo y Sven (el de Frozen)",
+              "answer": "RENOS"
+            },
+            "34": {
+              "col": 12,
+              "row": 5,
+              "clue": "Planta hortense, repollo",
+              "answer": "COL"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "Con cariño a Ibrahimović",
+              "answer": "IBRA"
+            },
+            "37": {
+              "col": 8,
+              "row": 6,
+              "clue": "Profunda conocedora de documentos relativos a una ciencia o arte",
+              "answer": "ERUDITA"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "¿Cuántos jinetes anuncian el apocalipsis?",
+              "answer": "CUATRO"
+            },
+            "42": {
+              "col": 9,
+              "row": 7,
+              "clue": "Desahogar las tensiones",
+              "answer": "DRENAR"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Representante diplomático en misión especial",
+              "answer": "ENVIADO"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "Onomatopeya que simula el sonido del corazón (pl)",
+              "answer": "TACS"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Identificación de los no nacionales en España",
+              "answer": "NIE"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Contradecir que esta no es negra",
+              "answer": "NEGAR"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Levantan, suben a alguien",
+              "answer": "AUPAN"
+            },
+            "53": {
+              "col": 0,
+              "row": 10,
+              "clue": "Colmena de corcho",
+              "answer": "ARNA"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Estimula a las bestias para que echen a andar",
+              "answer": "ARREA"
+            },
+            "57": {
+              "col": 11,
+              "row": 10,
+              "clue": "Exhale el sudor",
+              "answer": "SUDE"
+            },
+            "58": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pasta o pomada para lustrar el calzado",
+              "answer": "BETUN"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "Estación de ferrocarril parisina convertida en un museo",
+              "answer": "ORSAY"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"… carlino\" raza canina con origen histórico en China",
+              "answer": "PUG"
+            },
+            "63": {
+              "col": 2,
+              "row": 12,
+              "clue": "Acoplan, pegan, ensamblan",
+              "answer": "UNEN"
+            },
+            "65": {
+              "col": 9,
+              "row": 12,
+              "clue": "El tepuy, al sur de Venezuela, con una cueva formada de cuarzo",
+              "answer": "AUTANA"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "Drenado de aguas estancadas",
+              "answer": "DRAGADO"
+            },
+            "69": {
+              "col": 9,
+              "row": 13,
+              "clue": "Cocidas, tostadas",
+              "answer": "ASADAS"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Impregnados de grasa",
+              "answer": "GRASOSOS"
+            },
+            "71": {
+              "col": 9,
+              "row": 14,
+              "clue": "\"… de Balzac\" autor de la novela 'Papá Goriot'",
+              "answer": "HONORE"
+            }
+          }
+        },
+        "vertical_clues": "1-Como el calentador, esta es tu favorita\r\n2-Fijas, asimétricas o paralelas, las de la gimnasia\r\n3-Símbolo del compromiso y el matrimonio\r\n4-Dejó una nota sin terminar\r\n5-\"… bien cerrados\" peli de Kubrick, con Tom Cruise y Nicole Kidman (1999)\r\n6-Perfecta y libre de toda culpa\r\n7-Dirija con precisión, el tiro\r\n8-Lucas Eguibar (Español campeón mundial de snowboard, 2021) \r\n9-Óscar perdió su compañía anónima\r\n10-Esforzarse al máximo, dejarse la…\r\n11-\"El viejo y…\", novela de Hemingway (2p) \r\n12-Instrumento musical de teclado, precursor del piano \r\n13-Tío que ha perdido la cabeza\r\n18-Dicho de animales: dormir en un lugar alto\r\n21-A Israel con cariño\r\n22-Vencí, conquisté\r\n24-Delimita el ámbito o espacio de algo\r\n26-Ignoré algo\r\n28-Mujer que no escucha\r\n31-\"… paso\", quítense\r\n33-Atraviesa los mares\r\n36-Cerca, acorrala, circunscribe\r\n38-Acortamiento de 'Desuso'\r\n39-Lo que hacía Jesús en el cuadro de DaVinci\r\n40-Juntaré\r\n41-Experiencia fuera de lo común\r\n44-Monstruo del folclore\r\n45-¿Cuántos son los tristes tigres? \r\n48-Atavíos, adornos\r\n50-La larva se ha convertido en pupa, se ha…\r\n51-Unir, juntar, congregar\r\n52-Dijese que algo no es verdad\r\n54-Reúnes fuerzas para arreglar la sauna rota\r\n56-Yo, cuando veo un ratón\r\n59-Declaró no haber dicho eso, lo…\r\n61-\"Monasterio San Millán de… \", Patrimonio de la Humanidad, La Rioja, España\r\n64-Un santo en asunción\r\n66-\"Soy… pobre que solo tengo dinero\" Cristina Onassi\r\n67-Dolores Redondo, una de las que no duermen\r\n68-Denominación de origen\r\n",
+        "horizontal_clues": "1-Árbol de madera negra (pl)\r\n7-Calvicie\r\n14-Palabras en finlandés\r\n15-Recipiente pequeño para pesar ingredientes en la cocina \r\n16-El hijo de Poseidón, parece un poco tristón\r\n17-Impulsa a brazo\r\n19-La dirección de una página web\r\n20-Canta 'Englishman in New York'\r\n23-Limpias con agua y jabón\r\n25-Otra denominación del pene\r\n27-Los cuernos del ciervo\r\n29-Diríjase a Dios\r\n30-Surge, brota, aflora\r\n32-Lo son Rodolfo y Sven (el de Frozen)\r\n34-Planta hortense, repollo\r\n35-Con cariño a Ibrahimović\r\n37-Profunda conocedora de documentos relativos a una ciencia o arte\r\n39-¿Cuántos jinetes anuncian el apocalipsis? \r\n42-Desahogar las tensiones\r\n43-Representante diplomático en misión especial \r\n45-Onomatopeya que simula el sonido del corazón (pl)\r\n46-Identificación de los no nacionales en España\r\n47-Contradecir que esta no es negra\r\n49-Levantan, suben a alguien\r\n53-Colmena de corcho\r\n55-Estimula a las bestias para que echen a andar\r\n57-Exhale el sudor\r\n58-Pasta o pomada para lustrar el calzado\r\n60-Estación de ferrocarril parisina convertida en un museo\r\n62-\"… carlino\" raza canina con origen histórico en China\r\n63-Acoplan, pegan, ensamblan\r\n65-El tepuy, al sur de Venezuela, con una cueva formada de cuarzo\r\n67-Drenado de aguas estancadas\r\n69-Cocidas, tostadas\r\n70-Impregnados de grasa\r\n71-\"… de Balzac\" autor de la novela 'Papá Goriot'\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,10,11,12,13,#\r\n14,#,#,#,#,#,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,17,#,#,#,#,18\r\n19,#,#,#,20,#,21,#,22,#,23,#,#,24,#\r\n25,#,#,26,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,#,31,#,32,#,#,#,33,#,34,#,#\r\n#,#,#,35,#,36,#,#,37,#,#,38,#,#,#\r\n39,40,41,#,#,#,#,#,#,42,#,#,#,#,#\r\n43,#,#,#,#,#,44,#,45,#,#,#,#,#,#\r\n46,#,#,#,47,#,#,48,#,#,49,#,50,51,52\r\n53,#,#,54,#,55,#,#,#,56,#,57,#,#,#\r\n58,#,#,#,59,#,60,#,#,#,61,#,62,#,#\r\n#,#,63,#,#,64,#,#,#,65,#,66,#,#,#\r\n#,67,#,#,#,#,68,#,#,69,#,#,#,#,#\r\n70,#,#,#,#,#,#,#,#,71,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

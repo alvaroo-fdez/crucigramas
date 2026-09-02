@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3041,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-07-28T11:38:23.889204Z",
+      "updatedAt": "2025-07-28T11:40:44.415247Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-07-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "KOMPANY#CHAMACO\r\nORILLO#PREVISOR\r\nMELAMINA#ROMANI\r\nOJOS#REGI#CASCO\r\nDARME#SUSTO#TUL\r\nO#DAMISELA#CEBA\r\n#C#TIM#NACAR#IN\r\nREMITIR#MALIGNO\r\nEL#CITAS#ÑUS#A#\r\nCESO#ACOMODAR#B\r\nUBA#TROCA#ANUAL\r\nBRUMA#SALA#TETA\r\nRACIMO#VIUDEDAD\r\nIDOLATRA#RAMAJE\r\nROSALIA#FAMOSOS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Dragón de…\" el lagarto de mayor tamaño del mundo",
+              "answer": "KOMODO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Órgano externo de la audición",
+              "answer": "OREJA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "A un noble inglés",
+              "answer": "MILORD"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Relativo al componente líquido de la sangre",
+              "answer": "PLASMATICO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Alma corroída por un mal desatado",
+              "answer": "ALM"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Le Chat…\" cabaré parisino cuyo cartel tiene un gato negro",
+              "answer": "NOIR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Símbolo químico del cromo",
+              "answer": "CR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Centro de Teherán",
+              "answer": "HER"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pidió, solicitó, recabó",
+              "answer": "AVOCO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Trata con cuidado su proyecto, lo…",
+              "answer": "MIMA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cocinaste al fuego",
+              "answer": "ASASTE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Mujer que convive con un hombre sin estar casada",
+              "answer": "CONCUBINA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Natural de Orihuela (masc)",
+              "answer": "ORIOLANO"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Abonen el importe correspondiente",
+              "answer": "PAGUEN"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Lago escocés famoso por su monstruo",
+              "answer": "NESS"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Religión cuyo dogma se basa en el Corán",
+              "answer": "ISLAM"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Manifesté mis declaraciones",
+              "answer": "EMITI"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Persona excesivamente ahorradora",
+              "answer": "TACAÑO"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Copiar, duplicar",
+              "answer": "IMITAR"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Flor otoñal muy popular en jardines",
+              "answer": "CRISANTEMO"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Que ha recibido elogios o festejo",
+              "answer": "CELEBRADO"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Haga mención de alguien",
+              "answer": "ALUDA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Poner una capa protectora sobre algo",
+              "answer": "RECUBRIR"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Espacios para los miembros de las hogueras de San Juan, en Alicante",
+              "answer": "RACOS"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Erosiona o desgasta una base o fundamento",
+              "answer": "SOCAVA"
+            },
+            "44": {
+              "col": 2,
+              "row": 9,
+              "clue": "Parte de los cascos de los caballos (pl)",
+              "answer": "SAUCOS"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "País africano cuya capital es Bamako",
+              "answer": "MALI"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Filmas, grabas una peli",
+              "answer": "RUEDAS"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "\"Rubén …\", salsero y cantautor apodado \"Poeta de la salsa\"",
+              "answer": "BLADES"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Especie de hallaquita mexicana",
+              "answer": "TAMAL"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Senda o lugar por donde se abrevia el camino",
+              "answer": "ATAJO"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"Casa…\" edificio emblemático de Barcelona",
+              "answer": "MILA"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Halo, que dicen percibir alrededor de los cuerpos",
+              "answer": "AURA"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Antiguo festival musical iberoamericano",
+              "answer": "OTI"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Símbolo del decámetro",
+              "answer": "DAM"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Rafael Alberti",
+              "answer": "RA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Defensor belga que fue capitán del Manchester City",
+              "answer": "KOMPANY"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Un niño mexicano",
+              "answer": "CHAMACO"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Borde tejido en telas y tapices",
+              "answer": "ORILLO"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Que toma precauciones con antelación",
+              "answer": "PREVISOR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Resina sintética usada en muebles de cocina",
+              "answer": "MELAMINA"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Relativo a los gitanos o a su lengua",
+              "answer": "ROMANI"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Los grandes del lobo feroz",
+              "answer": "OJOS"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Dirigí, goberné, mandé",
+              "answer": "REGI"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Prenda protectora usada en la cabeza",
+              "answer": "CASCO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Entregarme el dinero",
+              "answer": "DARME"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Impresión repentina causada espanto",
+              "answer": "SUSTO"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Velo de novia",
+              "answer": "TUL"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Joven delicada y presumida",
+              "answer": "DAMISELA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "España Hierba seca acopiada para el invierno",
+              "answer": "CEBA"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Director de cine de la película \"Beetlejuice\"",
+              "answer": "TIM"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Capa interna de las tres que forman la concha de los moluscos",
+              "answer": "NACAR"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Prefijo que indica negación o privación",
+              "answer": "IN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Enviar a un paciente con un médico especialista",
+              "answer": "REMITIR"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "De naturaleza perversa o dañina",
+              "answer": "MALIGNO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Pronombre personal",
+              "answer": "EL"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Convocatorias médicas",
+              "answer": "CITAS"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Antílopes africanos",
+              "answer": "ÑUS"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dejo de desempeñar",
+              "answer": "CESO"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Se va a poner cómodo, se va a…",
+              "answer": "ACOMODAR"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "La universidad de Buenos Aires",
+              "answer": "UBA"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "México Coloquial Camión de carga",
+              "answer": "TROCA"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Que se repite cada 52 semanas",
+              "answer": "ANUAL"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Niebla, y especialmente la que se forma sobre el mar",
+              "answer": "BRUMA"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Habitación principal",
+              "answer": "SALA"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Órgano que secreta la leche",
+              "answer": "TETA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Un conjunto de uvas",
+              "answer": "RACIMO"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Pensión que recibe quien pierde a su cónyuge",
+              "answer": "VIUDEDAD"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ha escondido la trampa, es muy fanático",
+              "answer": "IDOLATRA"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Conjunto de ramas",
+              "answer": "RAMAJE"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "La motomami está despechá",
+              "answer": "ROSALIA"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Los que ansía privacidad",
+              "answer": "FAMOSOS"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Dragón de…\" el lagarto de mayor tamaño del mundo\r\n2-Órgano externo de la audición\r\n3-A un noble inglés\r\n4-Relativo al componente líquido de la sangre \r\n5-Alma corroída por un mal desatado\r\n6-\"Le Chat…\" cabaré parisino cuyo cartel tiene un gato negro\r\n7-Símbolo químico del cromo\r\n8-Centro de Teherán\r\n9-Pidió, solicitó, recabó\r\n10-Trata con cuidado su proyecto, lo…\r\n11-Cocinaste al fuego\r\n12-Mujer que convive con un hombre sin estar casada \r\n13-Natural de Orihuela (masc)\r\n15-Abonen el importe correspondiente \r\n17-Lago escocés famoso por su monstruo\r\n21-Religión cuyo dogma se basa en el Corán\r\n24-Manifesté mis declaraciones\r\n26-Persona excesivamente ahorradora \r\n29-Copiar, duplicar\r\n30-Flor otoñal muy popular en jardines \r\n31-Que ha recibido elogios o festejo \r\n34-Haga mención de alguien\r\n36-Poner una capa protectora sobre algo \r\n37-Espacios para los miembros de las hogueras de San Juan, en Alicante\r\n41-Erosiona o desgasta una base o fundamento \r\n44-Parte de los cascos de los caballos (pl)\r\n46-País africano cuya capital es Bamako\r\n47-Filmas, grabas una peli\r\n48-\"Rubén …\", salsero y cantautor apodado \"Poeta de la salsa\"\r\n50-Especie de hallaquita mexicana\r\n52-Senda o lugar por donde se abrevia el camino\r\n54-\"Casa…\" edificio emblemático de Barcelona\r\n56-Halo, que dicen percibir alrededor de los cuerpos\r\n59-Antiguo festival musical iberoamericano\r\n61-Símbolo del decámetro\r\n63-Rafael Alberti",
+        "horizontal_clues": "1-Defensor belga que fue capitán del Manchester City \r\n7-Un niño mexicano\r\n14-Borde tejido en telas y tapices \r\n15-Que toma precauciones con antelación \r\n16-Resina sintética usada en muebles de cocina \r\n18-Relativo a los gitanos o a su lengua\r\n19-Los grandes del lobo feroz\r\n20-Dirigí, goberné, mandé\r\n22-Prenda protectora usada en la cabeza\r\n23-Entregarme el dinero\r\n25-Impresión repentina causada espanto\r\n27-Velo de novia\r\n28-Joven delicada y presumida \r\n30-España Hierba seca acopiada para el invierno\r\n32-Director de cine de la película \"Beetlejuice\"\r\n33-Capa interna de las tres que forman la concha de los moluscos\r\n35-Prefijo que indica negación o privación\r\n36-Enviar a un paciente con un médico especialista\r\n38-De naturaleza perversa o dañina \r\n39-Pronombre personal\r\n40-Convocatorias médicas \r\n42-Antílopes africanos \r\n43-Dejo de desempeñar\r\n45-Se va a poner cómodo, se va a…\r\n49-La universidad de Buenos Aires\r\n50-México Coloquial Camión de carga\r\n51-Que se repite cada 52 semanas\r\n53-Niebla, y especialmente la que se forma sobre el mar\r\n55-Habitación principal\r\n57-Órgano que secreta la leche\r\n58-Un conjunto de uvas\r\n60-Pensión que recibe quien pierde a su cónyuge \r\n62-Ha escondido la trampa, es muy fanático\r\n64-Conjunto de ramas\r\n65-La motomami está despechá\r\n66-Los que ansía privacidad",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,#,7,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,17,#,#,18,#,#,#,#,#\r\n19,#,#,#,#,20,#,#,21,#,22,#,#,#,#\r\n23,#,#,#,24,#,25,#,#,26,#,#,27,#,#\r\n#,#,28,#,#,29,#,#,#,#,#,30,#,#,#\r\n#,31,#,32,#,#,#,33,#,#,34,#,#,35,#\r\n36,#,#,#,#,#,37,#,38,#,#,#,#,#,#\r\n39,#,#,40,#,#,#,41,#,42,#,#,#,#,#\r\n43,#,44,#,#,45,#,#,46,#,#,#,47,#,48\r\n49,#,#,#,50,#,#,#,#,#,51,#,#,52,#\r\n53,#,#,54,#,#,55,#,#,56,#,57,#,#,#\r\n58,#,#,#,#,59,#,60,#,#,61,#,#,#,#\r\n62,#,#,#,#,#,63,#,#,64,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

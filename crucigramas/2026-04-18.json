@@ -1,0 +1,517 @@
+{
+  "data": {
+    "id": 5384,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-17T11:24:25.432350Z",
+      "updatedAt": "2026-04-17T11:28:45.814782Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-18",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PTA#ASEIS#ONDEE\r\nLAL#RENTE#RAIAS\r\nAPARENTE#OLIVOS\r\nTARIN#EMANARE##\r\nARDEIS##PODERIO\r\n##ESTOCOLMO#TOP\r\nSL#GALERIA#LIST\r\nHIPO#UZ#CN#ARIA\r\nIRIS#CASACAS#FD\r\nFIE#MINORISTA##\r\nTORREON##ATINAN\r\n##CARNETS#IMITO\r\nPRISMA#RALLADOR\r\nTENGA#VARAL#API\r\nVIGOR#MEABA#DEA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Segunda medalla",
+              "answer": "PLATA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cerrar, sellar, trancar",
+              "answer": "TAPAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ostentación y gala que se hace de algo",
+              "answer": "ALARDE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "La ardilla científica, amiga de Bob Esponja",
+              "answer": "ARENITA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Sociedad Española de Neurología",
+              "answer": "SEN"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Entidad del ser",
+              "answer": "ENTE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Punto a tratar",
+              "answer": "ITEM"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Símbolo químico del Selenio",
+              "answer": "SE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Adornado, ribeteado",
+              "answer": "ORLADO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Cuidador de elefantes",
+              "answer": "NAIRE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Entretener a alguien con juegos",
+              "answer": "DIVERTIR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Las vocales fuertes desordenadas",
+              "answer": "EAO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Un centro de Messi",
+              "answer": "ESS"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "No hay que correrlos, mejor ser precavido",
+              "answer": "RIESGOS"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Antigua creencia que liga la suerte al nombre de alguien",
+              "answer": "ONOMANCIA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Emplear, administrar o poner en práctica un conocimiento, medida o principio",
+              "answer": "APLICAR"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Resuelve, da respuestas a los problemas",
+              "answer": "SOLUCIONA"
+            },
+            "26": {
+              "col": 13,
+              "row": 4,
+              "clue": "A Stalin no le gustaba ver al fisio",
+              "answer": "IOSIF"
+            },
+            "27": {
+              "col": 14,
+              "row": 4,
+              "clue": "Escoged, elegid",
+              "answer": "OPTAD"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Paul…\" pintor de 'Jugadores de cartas' (3er cuadro más caro de la historia)",
+              "answer": "CEZANNE"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Río que pasa por Rusia y Kazajistán",
+              "answer": "OR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "La tecla \"Mayús\" de un ordenador",
+              "answer": "SHIFT"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Flor grande, de seis pétalos azules o morados y a veces blancos",
+              "answer": "LIRIO"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Compasión provocada por los males de alguien",
+              "answer": "LASTIMA"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Arete de tatuador (voz inglesa)",
+              "answer": "PIERCING"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Voz para calmar a las bestias",
+              "answer": "SO"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Fragmento pequeño e irregular de un trozo de madera",
+              "answer": "ASTILLA"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Disminuir, bajar",
+              "answer": "MERMAR"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Abrigad, acoged",
+              "answer": "ANIDAD"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Hago pedazos con las manos un papel, lo…",
+              "answer": "RASGO"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Al máximo (2p)",
+              "answer": "ATOPE"
+            },
+            "53": {
+              "col": 14,
+              "row": 10,
+              "clue": "Rueda de feria",
+              "answer": "NORIA"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Viene con eso incluido, lo…",
+              "answer": "TRAE"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "\"… Baras\", bailadora flamenca española",
+              "answer": "SARA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Empresa cordobesa de tv, internet y telefonía",
+              "answer": "PTV"
+            },
+            "59": {
+              "col": 1,
+              "row": 12,
+              "clue": "Me carcajeé con la reina",
+              "answer": "REI"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Laboratorio desmantelado",
+              "answer": "LAB"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Lo que tienen en común Viggo Mortensen y Vanesa Martín",
+              "answer": "VM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La puerta pequeña",
+              "answer": "PTA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Horneéis a seis",
+              "answer": "ASEIS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mueva la bandera",
+              "answer": "ONDEE"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "La primera Licencia de Arte Libre",
+              "answer": "LAL"
+            },
+            "15": {
+              "col": 4,
+              "row": 1,
+              "clue": "Alquile",
+              "answer": "RENTE"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Quitabas los pelos",
+              "answer": "RAIAS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Que parece, pero no lo es",
+              "answer": "APARENTE"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Árboles aceituneros",
+              "answer": "OLIVOS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Realillo de plata de ocho cuartos y medio",
+              "answer": "TARIN"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Desprenderé, por ejemplo, energía o mal olor",
+              "answer": "EMANARE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Sufrís la acción del fuego",
+              "answer": "ARDEIS"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Es un periodo podrido y lo que importa es el poder",
+              "answer": "PODERIO"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Capital de Suecia",
+              "answer": "ESTOCOLMO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Prenda de vestir femenina que cubre el pecho",
+              "answer": "TOP"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Iniciales del creador de Marvel Studios",
+              "answer": "SL"
+            },
+            "34": {
+              "col": 3,
+              "row": 6,
+              "clue": "Lugar para exponer y vender obras de arte",
+              "answer": "GALERIA"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Lista sin fin",
+              "answer": "LIST"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Contracción involuntaria y repetitiva del diafragma",
+              "answer": "HIPO"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Universidad de Zaragoza",
+              "answer": "UZ"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "En las páginas web de China",
+              "answer": "CN"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Canción a una sola voz",
+              "answer": "ARIA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "¡Siri! voltea y mira mi ojo",
+              "answer": "IRIS"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Prenda masculina ya en desuso, tipo frac pero con cuello recto y fuerte (pl)",
+              "answer": "CASACAS"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "El monograma de Fred Durst (el de Limp Bizkit)",
+              "answer": "FD"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo paga después, se lo…",
+              "answer": "FIE"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Comerciante que vende al detal",
+              "answer": "MINORISTA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Torre grande, para defensa de una plaza o un castillo",
+              "answer": "TORREON"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "La pegan, aciertan",
+              "answer": "ATINAN"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "Documento que acredita formalmente al titular (pl)",
+              "answer": "CARNETS"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Remedó, plagió, duplicó",
+              "answer": "IMITO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "En la portada del álbum 'The Dark Side of the Moon' de Pink Floy",
+              "answer": "PRISMA"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Utensilio de cocina",
+              "answer": "RALLADOR"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tome, coja",
+              "answer": "TENGA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Vara muy larga y gruesa",
+              "answer": "VARAL"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Lápiz sin punta ni borrador",
+              "answer": "API"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Fuerza saludable",
+              "answer": "VIGOR"
+            },
+            "66": {
+              "col": 6,
+              "row": 14,
+              "clue": "Hacía pis",
+              "answer": "MEABA"
+            },
+            "67": {
+              "col": 12,
+              "row": 14,
+              "clue": "Agencia temida por los narcos",
+              "answer": "DEA"
+            }
+          }
+        },
+        "vertical_clues": "1-Segunda medalla\r\n2-Cerrar, sellar, trancar\r\n3-Ostentación y gala que se hace de algo\r\n4-La ardilla científica, amiga de Bob Esponja\r\n5-Sociedad Española de Neurología\r\n6-Entidad del ser\r\n7-Punto a tratar\r\n8-Símbolo químico del Selenio\r\n9-Adornado, ribeteado\r\n10-Cuidador de elefantes\r\n11-Entretener a alguien con juegos \r\n12-Las vocales fuertes desordenadas\r\n13-Un centro de Messi\r\n18-No hay que correrlos, mejor ser precavido\r\n19-Antigua creencia que liga la suerte al nombre de alguien \r\n22-Emplear, administrar o poner en práctica un conocimiento, medida o principio\r\n24-Resuelve, da respuestas a los problemas\r\n26-A Stalin no le gustaba ver al fisio\r\n27-Escoged, elegid\r\n29-\"Paul…\" pintor de 'Jugadores de cartas' (3er cuadro más caro de la historia)\r\n30-Río que pasa por Rusia y Kazajistán\r\n32-La tecla \"Mayús\" de un ordenador\r\n33-Flor grande, de seis pétalos azules o morados y a veces blancos\r\n35-Compasión provocada por los males de alguien\r\n37-Arete de tatuador (voz inglesa)\r\n43-Voz para calmar a las bestias\r\n44-Fragmento pequeño e irregular de un trozo de madera\r\n47-Disminuir, bajar\r\n48-Abrigad, acoged\r\n50-Hago pedazos con las manos un papel, lo…\r\n52-Al máximo (2p)\r\n53-Rueda de feria\r\n55-Viene con eso incluido, lo…\r\n56-\"… Baras\", bailadora flamenca española\r\n58-Empresa cordobesa de tv, internet y telefonía\r\n59-Me carcajeé con la reina\r\n61-Laboratorio desmantelado\r\n63-Lo que tienen en común Viggo Mortensen y Vanesa Martín",
+        "horizontal_clues": "1-La puerta pequeña\r\n4-Horneéis a seis\r\n9-Mueva la bandera\r\n14-La primera Licencia de Arte Libre\r\n15-Alquile\r\n16-Quitabas los pelos\r\n17-Que parece, pero no lo es\r\n19-Árboles aceituneros\r\n20-Realillo de plata de ocho cuartos y medio\r\n21-Desprenderé, por ejemplo, energía o mal olor\r\n23-Sufrís la acción del fuego\r\n25-Es un periodo podrido y lo que importa es el poder\r\n28-Capital de Suecia\r\n31-Prenda de vestir femenina que cubre el pecho\r\n32-Iniciales del creador de Marvel Studios\r\n34-Lugar para exponer y vender obras de arte\r\n35-Lista sin fin\r\n36-Contracción involuntaria y repetitiva del diafragma\r\n38-Universidad de Zaragoza\r\n39-En las páginas web de China\r\n40-Canción a una sola voz\r\n41-¡Siri! voltea y mira mi ojo \r\n42-Prenda masculina ya en desuso, tipo frac pero con cuello recto y fuerte (pl)\r\n45-El monograma de Fred Durst (el de Limp Bizkit) \r\n46-Lo paga después, se lo…\r\n47-Comerciante que vende al detal \r\n49-Torre grande, para defensa de una plaza o un castillo\r\n51-La pegan, aciertan\r\n54-Documento que acredita formalmente al titular (pl)\r\n57-Remedó, plagió, duplicó \r\n58-En la portada del álbum 'The Dark Side of the Moon' de Pink Floy\r\n60-Utensilio de cocina\r\n62-Tome, coja\r\n63-Vara muy larga y gruesa\r\n64-Lápiz sin punta ni borrador\r\n65-Fuerza saludable\r\n66-Hacía pis\r\n67-Agencia temida por los narcos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,4,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,15,#,#,#,#,#,16,#,#,#,#\r\n17,#,#,18,#,#,#,#,#,19,#,#,#,#,#\r\n20,#,#,#,#,#,21,#,22,#,#,#,#,#,#\r\n23,#,#,#,#,24,#,#,25,#,#,#,#,26,27\r\n#,#,28,#,#,#,29,30,#,#,#,#,31,#,#\r\n32,33,#,34,#,#,#,#,#,#,#,35,#,#,#\r\n36,#,37,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,44,#,#,45,#\r\n46,#,#,#,47,#,#,#,#,#,#,#,48,#,#\r\n49,#,#,50,#,#,#,#,#,51,#,#,#,52,53\r\n#,#,54,#,#,#,#,55,56,#,57,#,#,#,#\r\n58,59,#,#,#,#,#,60,#,61,#,#,#,#,#\r\n62,#,#,#,#,#,63,#,#,#,#,#,64,#,#\r\n65,#,#,#,#,#,66,#,#,#,#,#,67,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

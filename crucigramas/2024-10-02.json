@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1014,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-30T09:53:47.266047Z",
+      "updatedAt": "2024-09-30T09:53:47.266068Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-02",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BAOBAB#ENTONE#\r\nA#CLASE#VIENE#P\r\nVACANTE#INCLUSA\r\nIPE#CAFETAL#TOT\r\nSODIO##LA#AIREE\r\nOYEN#BJORN#MAZA\r\nSERGIO#Y#I#PLAN\r\n###ROXY#UNTO###\r\nDOME#E#K#FORMAL\r\nERES#SALVA#TETE\r\nCANOA#VU##PEDRO\r\nIDI#GRAMSCI#ION\r\nMOSTRAR#PADRAZO\r\nO#CUAJA#AFEAN#R\r\n#MOISES#MENTON#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tener la posibilidad de entrar.",
+              "answer": "ACCEDER"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Cambio repentino de temperatura.",
+              "answer": "OLA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Asiento sin respaldo.",
+              "answer": "BANCO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cuerno de ciervo.",
+              "answer": "ASTA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Anglicismo usado en redes que denota conflicto y pelea.",
+              "answer": "BEEF"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Me atreví tarde y no lo pude evadir.",
+              "answer": "EVITAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Modista que lanza el perfume \"L’Air du Temps\".",
+              "answer": "NINA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo es Shift o Ctrl.",
+              "answer": "TECLA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Organización no lucrativa (siglas).",
+              "answer": "ONL"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Imparcial o equilibrado.",
+              "answer": "NEUTRAL"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Notificaciones varias.",
+              "answer": "AVISOS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Chutan el balón.",
+              "answer": "PATEAN"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Patrocine, respalde.",
+              "answer": "APOYE"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Desus. Suciedad, infamia.",
+              "answer": "SOEZA"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "El hombre del día.",
+              "answer": "ELOY"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Llegó, entró la nómina.",
+              "answer": "INGRESO"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cantidad a pagar.",
+              "answer": "IMPORTE"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Gimnasios de CrossFit.",
+              "answer": "BOXES"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Mit. Cada una de las fabulosas deidades de la naturaleza.",
+              "answer": "NINFA"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Una pareja de 10.",
+              "answer": "IO"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Todo a medias.",
+              "answer": "TO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Número ordinal para el cardinal diez.",
+              "answer": "DECIMO"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Solicitado al Señor.",
+              "answer": "ORADO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Cartílago de la rodilla.",
+              "answer": "MENISCO"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"Heidi...\" modelo y presentadora alemana.",
+              "answer": "KLUM"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Ni grande ni pequeño.",
+              "answer": "MEDIANO"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Fiero, cruel, inhumano.",
+              "answer": "ATROZ"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Primera en la línea de sucesión al trono español.",
+              "answer": "LEONOR"
+            },
+            "49": {
+              "col": 6,
+              "row": 9,
+              "clue": "Mujeres que escatiman algo.",
+              "answer": "AVARAS"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Especie de vid silvestre.",
+              "answer": "AGRAS"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Solicitan, demandan.",
+              "answer": "PIDEN"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "Si está en México, no se acobarde.",
+              "answer": "RAJE"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Información basura (voz inglesa).",
+              "answer": "SPAM"
+            },
+            "59": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"... Quijano\", cantautores de 'La Lola'.",
+              "answer": "CAFE"
+            },
+            "62": {
+              "col": 3,
+              "row": 12,
+              "clue": "Pájaro neozelandés que imita voces humanas como los loros.",
+              "answer": "TUI"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Rata sin cola.",
+              "answer": "RAT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Árbol importante en 'El Principito'.",
+              "answer": "BAOBAB"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Ajuste el tono.",
+              "answer": "ENTONE"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Categoría, nivel de un hotel.",
+              "answer": "CLASE"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Llega o se aproxima.",
+              "answer": "VIENE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Puesto libre, plaza disponible.",
+              "answer": "VACANTE"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Hospicio, orfanato, orfelinato.",
+              "answer": "INCLUSA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Se ha torcido el pie.",
+              "answer": "IPE"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Una plantación de café.",
+              "answer": "CAFETAL"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Dios egipcio de la sabiduría.",
+              "answer": "TOT"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Metal alcalino abundante en la sal marina.",
+              "answer": "SODIO"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Nota musical.",
+              "answer": "LA"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "Ponga al aire o ventile algo.",
+              "answer": "AIREE"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Me escuchan.",
+              "answer": "OYEN"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Hijo de Ragnar Lodbrok, conocido como 'Brazo de Hierro'.",
+              "answer": "BJORN"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Arma contundente.",
+              "answer": "MAZA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ramos, Busquets o Agüero.",
+              "answer": "SERGIO"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Modelo sistemático de una actuación.",
+              "answer": "PLAN"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Línea femenina de Quicksilver.",
+              "answer": "ROXY"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Aplico y extiendo materia pingüe sobre algo.",
+              "answer": "UNTO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Calmé a la bestia.",
+              "answer": "DOME"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Protocolo exigente.",
+              "answer": "FORMAL"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Estás, existes.",
+              "answer": "ERES"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Rescata al pequeño Salvador.",
+              "answer": "SALVA"
+            },
+            "50": {
+              "col": 11,
+              "row": 9,
+              "clue": "Forma cariñosa de llamar a los hermanos varones.",
+              "answer": "TETE"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Embarcación estrecha de remo hecha de una pieza.",
+              "answer": "CANOA"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Dominio web para Vanuatu.",
+              "answer": "VU"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Pascal el prota en The Last of Us y The Mandalorian.",
+              "answer": "PEDRO"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Las idioteces de Lidia.",
+              "answer": "IDI"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Antonio...\", autor del libro 'Odio a los Indiferentes'.",
+              "answer": "GRAMSCI"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "De adicción y de opresión.",
+              "answer": "ION"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Enseñar, exhibir.",
+              "answer": "MOSTRAR"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "Un buen papá, cariñoso, comprometido y responsable.",
+              "answer": "PADRAZO"
+            },
+            "65": {
+              "col": 2,
+              "row": 13,
+              "clue": "Transforma una sustancia líquida en una masa pastosa.",
+              "answer": "CUAJA"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Se descuidan por la faena caótica.",
+              "answer": "AFEAN"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "El portador de las tablas con los Diez Mandamientos.",
+              "answer": "MOISES"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Barbilla.",
+              "answer": "MENTON"
+            }
+          }
+        },
+        "vertical_clues": "2-Tener la posibilidad de entrar.\r\n3-Cambio repentino de temperatura.\r\n4-Asiento sin respaldo.\r\n5-Cuerno de ciervo.\r\n6-Anglicismo usado en redes que denota conflicto y pelea.\r\n7-Me atreví tarde y no lo pude evadir.\r\n8-Modista que lanza el perfume \"L’Air du Temps\".\r\n9-Lo es Shift o Ctrl.\r\n10-Organización no lucrativa (siglas).\r\n11-Imparcial o equilibrado. \r\n12-Notificaciones varias.\r\n15-Chutan el balón.\r\n17-Patrocine, respalde.\r\n19-Desus. Suciedad, infamia.\r\n22-El hombre del día.\r\n25-Llegó, entró la nómina.\r\n28-Cantidad a pagar. \r\n30-Gimnasios de CrossFit. \r\n31-Mit. Cada una de las fabulosas deidades de la naturaleza.\r\n34-Una pareja de 10.\r\n38-Todo a medias.\r\n39-Número ordinal para el cardinal diez.\r\n40-Solicitado al Señor.\r\n41-Cartílago de la rodilla. \r\n42-\"Heidi...\" modelo y presentadora alemana.\r\n44-Ni grande ni pequeño. \r\n45-Fiero, cruel, inhumano.\r\n46-Primera en la línea de sucesión al trono español.\r\n49-Mujeres que escatiman algo.\r\n52-Especie de vid silvestre.\r\n54-Solicitan, demandan.\r\n57-Si está en México, no se acobarde.\r\n58-Información basura (voz inglesa).\r\n59-\"... Quijano\", cantautores de 'La Lola'.\r\n62-Pájaro neozelandés que imita voces humanas como los loros.\r\n64-Rata sin cola.",
+        "horizontal_clues": "1-Árbol importante en 'El Principito'.\r\n7-Ajuste el tono.\r\n13-Categoría, nivel de un hotel.\r\n14-Llega o se aproxima. \r\n16-Puesto libre, plaza disponible.\r\n18-Hospicio, orfanato, orfelinato. \r\n20-Se ha torcido el pie.\r\n21-Una plantación de café.\r\n23-Dios egipcio de la sabiduría.\r\n24-Metal alcalino abundante en la sal marina.\r\n26-Nota musical.\r\n27-Ponga al aire o ventile algo.\r\n29-Me escuchan.\r\n30-Hijo de Ragnar Lodbrok, conocido como 'Brazo de Hierro'.\r\n32-Arma contundente.\r\n33-Ramos, Busquets o Agüero.\r\n35-Modelo sistemático de una actuación.\r\n36-Línea femenina de Quicksilver.\r\n37-Aplico y extiendo materia pingüe sobre algo.\r\n39-Calmé a la bestia.\r\n43-Protocolo exigente. \r\n47-Estás, existes.\r\n48-Rescata al pequeño Salvador.\r\n50-Forma cariñosa de llamar a los hermanos varones.\r\n51-Embarcación estrecha de remo hecha de una pieza.\r\n53-Dominio web para Vanuatu.\r\n54-Pascal el prota en The Last of Us y The Mandalorian.\r\n55-Las idioteces de Lidia. \r\n56-\"Antonio...\", autor del libro 'Odio a los Indiferentes'.\r\n60-De adicción y de opresión.\r\n61-Enseñar, exhibir.\r\n63-Un buen papá, cariñoso, comprometido y responsable. \r\n65-Transforma una sustancia líquida en una masa pastosa.\r\n66-Se descuidan por la faena caótica.\r\n67-El portador de las tablas con los Diez Mandamientos.\r\n68-Barbilla.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,#,18,#,#,#,#,19,#\r\n20,#,#,#,21,#,#,22,#,#,#,#,23,#,#\r\n24,#,#,25,#,#,#,26,#,#,27,28,#,#,#\r\n29,#,#,#,#,30,#,#,#,31,#,32,#,#,#\r\n33,#,#,#,34,#,#,#,#,#,#,35,#,#,#\r\n#,#,#,36,#,#,#,#,37,#,38,#,#,#,#\r\n39,40,41,#,#,#,#,42,#,43,#,#,44,45,46\r\n47,#,#,#,#,48,49,#,#,#,#,50,#,#,#\r\n51,#,#,#,52,#,53,#,#,#,54,#,#,#,#\r\n55,#,#,#,56,57,#,#,58,59,#,#,60,#,#\r\n61,#,#,62,#,#,#,#,63,#,#,64,#,#,#\r\n#,#,65,#,#,#,#,#,66,#,#,#,#,#,#\r\n#,67,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

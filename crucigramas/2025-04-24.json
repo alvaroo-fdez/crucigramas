@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 2153,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-14T14:57:54.751661Z",
+      "updatedAt": "2025-04-14T15:06:25.440906Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-24",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACME#KLUM#MISIL\r\nRH#MATINAL#MOLE\r\nCENIT#CICLOPE#E\r\nAFOSAR#CHAPUZAS\r\nD#GARITA#MANAT#\r\n#MARIFE#CACE#RG\r\nCALI#AITANA#VOA\r\nOLEOS#S#Ñ#DRAFT\r\nDAS#HAMLET#ARIO\r\nAB#MAGO#REACIA#\r\n#AVARO#BARRIA#H\r\nPROPONER#APOSTA\r\nA#CENARAS#ONEAL\r\nGLEE#LIVIANA#SO\r\nAFONO#KART#RYAN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Dad forma de arco",
+              "answer": "ARCAD"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Oficio de Martín Berasategui",
+              "answer": "CHEF"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Mensajero que se envía",
+              "answer": "EMISARIO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Inic Diseñador de modas japonés, fundador de Kenzo",
+              "answer": "KT"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Licenciado",
+              "answer": "LIC"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Sin otra de su especie",
+              "answer": "UNICA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Ingeniería Unidad de velocidad, igual a la de propagación del sonido en el medio",
+              "answer": "MACH"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Que queda sin castigo",
+              "answer": "IMPUNE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Desus Suciedad, infamia",
+              "answer": "SOEZA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "El italiano",
+              "answer": "IL"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Comprendes el escrito",
+              "answer": "LEES"
+            },
+            "15": {
+              "col": 4,
+              "row": 1,
+              "clue": "Consola de videojuegos de 1977",
+              "answer": "ATARI"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Telefonean",
+              "answer": "LLAMAN"
+            },
+            "19": {
+              "col": 2,
+              "row": 2,
+              "clue": "Árboles que dan de fruto la nuez",
+              "answer": "NOGALES"
+            },
+            "21": {
+              "col": 10,
+              "row": 2,
+              "clue": "Oscureced, ennegreced",
+              "answer": "OPACAD"
+            },
+            "23": {
+              "col": 5,
+              "row": 3,
+              "clue": "Sorteo entre varias personas",
+              "answer": "RIFA"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Reducción de la funcionalidad de un órgano por desuso",
+              "answer": "ATROFIA"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "Creencia en un dios como ser superior, creador del mundo",
+              "answer": "TEISMO"
+            },
+            "29": {
+              "col": 1,
+              "row": 5,
+              "clue": "La ardilla originaria de la India, que llega a medir hasta un metro",
+              "answer": "MALABAR"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Persona que exige el máximo esfuerzo en un trabajo",
+              "answer": "CAÑERA"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Animal más popular en los videos de YouTube",
+              "answer": "GATO"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Repetición final de una pieza bailable",
+              "answer": "CODA"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Hiciese que una cosa sea diferente en algo de lo que antes era",
+              "answer": "VARIASE"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "\"… Mcguire\" directora de la peli 'El diario de Bridget Jones'",
+              "answer": "SHARON"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Administrar con medida",
+              "answer": "RACIONAR"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Perteneciente o relativo al combate; que implica lucha",
+              "answer": "AGONAL"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Río que discurre por la provincia de Zamora",
+              "answer": "TERA"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Vayan geógrafos y creen los mapas de la ciudad",
+              "answer": "MAPEEN"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Instrumento usado para cazar en el mar",
+              "answer": "ARPON"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Anuncio algo a voces",
+              "answer": "VOCEO"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Enojada, enfadada",
+              "answer": "BRAVA"
+            },
+            "52": {
+              "col": 14,
+              "row": 10,
+              "clue": "Tirón, movimiento rápido y fuerte",
+              "answer": "HALON"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Sueldo de un empleado",
+              "answer": "PAGA"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"… el Rojo\" fundó el primer asentamiento vikingo en Groenlandia",
+              "answer": "ERIK"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Tributo que se impone al disfrute de ciertos servicios",
+              "answer": "TASA"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Título de Paul McCartney y Elton John",
+              "answer": "SIR"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Ludwig Feuerbach, padre del ateísmo antropológico",
+              "answer": "LF"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Aitor Tilla",
+              "answer": "AT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Empresa ficticia en los Looney Tunes",
+              "answer": "ACME"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Heidi…\" modelo y presentadora alemana",
+              "answer": "KLUM"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Proyectil autopropulsado, guiado electrónicamente",
+              "answer": "MISIL"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Factor, positivo o negativo, de la sangre",
+              "answer": "RH"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Que sucede por la mañana",
+              "answer": "MATINAL"
+            },
+            "17": {
+              "col": 11,
+              "row": 1,
+              "clue": "Cosa muy pesada y voluminosa",
+              "answer": "MOLE"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Punto culminante o momento de apogeo de alguien o algo",
+              "answer": "CENIT"
+            },
+            "20": {
+              "col": 6,
+              "row": 2,
+              "clue": "Gigante con un solo ojo",
+              "answer": "CICLOPE"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Milicia Defenderse haciendo algún foso",
+              "answer": "AFOSAR"
+            },
+            "24": {
+              "col": 7,
+              "row": 3,
+              "clue": "Trabajos mal hechos",
+              "answer": "CHAPUZAS"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "Caseta del vigilante",
+              "answer": "GARITA"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Moneda empleada en Azerbaiyán y Turkmenistán",
+              "answer": "MANAT"
+            },
+            "29": {
+              "col": 1,
+              "row": 5,
+              "clue": "\"… de Triana\" sevillana, destacada en los 50 y 60 por su canción 'Torre de arena'",
+              "answer": "MARIFE"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Persiga fieras para comerlas",
+              "answer": "CACE"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Iniciales del actor de \"La La Land\" y \"Barbie\"",
+              "answer": "RG"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Colombia Ciudad de la salsa",
+              "answer": "CALI"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Cantautora española del tema 'Presiento'",
+              "answer": "AITANA"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Emisora internacional norteamericana",
+              "answer": "VOA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Pinturas, obras pictóricas",
+              "answer": "OLEOS"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Sistema mecánico para dispensar cerveza de barril",
+              "answer": "DRAFT"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "… en el blanco, aciertas",
+              "answer": "DAS"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Tragedia de Shakespeare",
+              "answer": "HAMLET"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "¿Oirá mal un hombre de la más pura raza blanca?",
+              "answer": "ARIO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dos de absenta, por favor",
+              "answer": "AB"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Hombre que realiza eventos inexplicables por las ciencias",
+              "answer": "MAGO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Contraria a algo",
+              "answer": "REACIA"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Tacaño, mezquino",
+              "answer": "AVARO"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Pasaba la escoba",
+              "answer": "BARRIA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Plantear una solución a un problema",
+              "answer": "PROPONER"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Adrede, con intención deliberada",
+              "answer": "APOSTA"
+            },
+            "57": {
+              "col": 2,
+              "row": 12,
+              "clue": "Saldrás tipo 22:00 al restaurante",
+              "answer": "CENARAS"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"Shaquile…\", exjugador de baloncesto estadounidense",
+              "answer": "ONEAL"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Serie musical del 2010 sobre un coro estudiantil",
+              "answer": "GLEE"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Ligera, con poco peso",
+              "answer": "LIVIANA"
+            },
+            "64": {
+              "col": 13,
+              "row": 13,
+              "clue": "Fin del descanso",
+              "answer": "SO"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Dicho de una letra escrita que no suena en la pronunciación (masc)",
+              "answer": "AFONO"
+            },
+            "66": {
+              "col": 6,
+              "row": 14,
+              "clue": "\"Mario…\" videojuego de carreras de Nintendo",
+              "answer": "KART"
+            },
+            "67": {
+              "col": 11,
+              "row": 14,
+              "clue": "\"Salvar al soldado…\" con Tom Hanks y Matt Damon",
+              "answer": "RYAN"
+            }
+          }
+        },
+        "vertical_clues": "1-Dad forma de arco\r\n2-Oficio de Martín Berasategui\r\n3-Mensajero que se envía\r\n4-Inic Diseñador de modas japonés, fundador de Kenzo\r\n5-Licenciado\r\n6-Sin otra de su especie\r\n7-Ingeniería Unidad de velocidad, igual a la de propagación del sonido en el medio\r\n9-Que queda sin castigo\r\n10-Desus Suciedad, infamia\r\n11-El italiano\r\n12-Comprendes el escrito\r\n15-Consola de videojuegos de 1977\r\n16-Telefonean\r\n19-Árboles que dan de fruto la nuez\r\n21-Oscureced, ennegreced\r\n23-Sorteo entre varias personas\r\n25-Reducción de la funcionalidad de un órgano por desuso\r\n27-Creencia en un dios como ser superior, creador del mundo\r\n29-La ardilla originaria de la India, que llega a medir hasta un metro\r\n30-Persona que exige el máximo esfuerzo en un trabajo\r\n32-Animal más popular en los videos de YouTube\r\n33-Repetición final de una pieza bailable\r\n35-Hiciese que una cosa sea diferente en algo de lo que antes era\r\n37-\"… Mcguire\" directora de la peli 'El diario de Bridget Jones'\r\n39-Administrar con medida\r\n42-Perteneciente o relativo al combate; que implica lucha\r\n43-Río que discurre por la provincia de Zamora\r\n46-Vayan geógrafos y creen los mapas de la ciudad\r\n48-Instrumento usado para cazar en el mar\r\n50-Anuncio algo a voces\r\n51-Enojada, enfadada\r\n52-Tirón, movimiento rápido y fuerte\r\n53-Sueldo de un empleado\r\n54-\"… el Rojo\" fundó el primer asentamiento vikingo en Groenlandia\r\n56-Tributo que se impone al disfrute de ciertos servicios\r\n58-Título de Paul McCartney y Elton John\r\n61-Ludwig Feuerbach, padre del ateísmo antropológico\r\n63-Aitor Tilla",
+        "horizontal_clues": "1-Empresa ficticia en los Looney Tunes\r\n4-\"Heidi…\" modelo y presentadora alemana\r\n8-Proyectil autopropulsado, guiado electrónicamente\r\n13-Factor, positivo o negativo, de la sangre\r\n14-Que sucede por la mañana\r\n17-Cosa muy pesada y voluminosa\r\n18-Punto culminante o momento de apogeo de alguien o algo\r\n20-Gigante con un solo ojo\r\n22-Milicia Defenderse haciendo algún foso\r\n24-Trabajos mal hechos\r\n26-Caseta del vigilante\r\n28-Moneda empleada en Azerbaiyán y Turkmenistán\r\n29-\"… de Triana\" sevillana, destacada en los 50 y 60 por su canción 'Torre de arena'\r\n30-Persiga fieras para comerlas\r\n31-Iniciales del actor de \"La La Land\" y \"Barbie\"\r\n33-Colombia Ciudad de la salsa\r\n34-Cantautora española del tema 'Presiento'\r\n35-Emisora internacional norteamericana\r\n36-Pinturas, obras pictóricas\r\n38-Sistema mecánico para dispensar cerveza de barril\r\n40-… en el blanco, aciertas\r\n41-Tragedia de Shakespeare\r\n44-¿Oirá mal un hombre de la más pura raza blanca? \r\n45-Dos de absenta, por favor\r\n46-Hombre que realiza eventos inexplicables por las ciencias\r\n47-Contraria a algo\r\n49-Tacaño, mezquino\r\n51-Pasaba la escoba\r\n53-Plantear una solución a un problema\r\n55-Adrede, con intención deliberada\r\n57-Saldrás tipo 22:00 al restaurante\r\n59-\"Shaquile…\", exjugador de baloncesto estadounidense\r\n60-Serie musical del 2010 sobre un coro estudiantil\r\n62-Ligera, con poco peso\r\n64-Fin del descanso\r\n65-Dicho de una letra escrita que no suena en la pronunciación (masc)\r\n66-\"Mario…\" videojuego de carreras de Nintendo \r\n67-\"Salvar al soldado…\" con Tom Hanks y Matt Damon",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,#,4,5,6,7,#,8,9,10,11,12\r\n13,#,#,14,15,#,#,#,#,16,#,17,#,#,#\r\n18,#,19,#,#,#,20,#,#,#,21,#,#,#,#\r\n22,#,#,#,#,23,#,24,#,#,#,#,#,25,#\r\n#,#,26,#,#,#,27,#,#,28,#,#,#,#,#\r\n#,29,#,#,#,#,#,#,30,#,#,#,#,31,32\r\n33,#,#,#,#,34,#,#,#,#,#,#,35,#,#\r\n36,#,#,#,37,#,#,#,#,#,38,39,#,#,#\r\n40,#,#,#,41,42,#,#,#,43,#,44,#,#,#\r\n45,#,#,46,#,#,#,#,47,#,48,#,#,#,#\r\n#,49,50,#,#,#,#,51,#,#,#,#,#,#,52\r\n53,#,#,#,#,#,54,#,#,55,#,#,#,56,#\r\n#,#,57,#,#,#,#,#,58,#,59,#,#,#,#\r\n60,61,#,#,#,62,#,#,#,63,#,#,#,64,#\r\n65,#,#,#,#,#,66,#,#,#,#,67,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

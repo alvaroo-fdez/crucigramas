@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4025,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.535917Z",
+      "updatedAt": "2025-12-16T12:20:40.882649Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-20",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PERCEPTIBILIDAD\r\nE#AIRE#R#VIBE#E\r\nRENTA#CID#NACES\r\nSOCA#BESOS#SATO\r\nOLE#CARASOL#ENR\r\nNO#PASARELAS#OD\r\nA#GOLES#LAXAS#E\r\nNOELIA###MACRON\r\nO#HADES#VENIA#P\r\nNS#RARAMENTE#AU\r\nGEN#DELEITE#PNB\r\nRIAL#ATRAE#SEUL\r\nASCOS#ELN#DALAI\r\nT#ALLI#O#EDNA#C\r\nARREPENTIMIENTO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Término latín para un individuo nefasto para el país (3p)",
+              "answer": "PERSONANONGRATA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Río de Bretaña, en el noroeste de Francia",
+              "answer": "RANCE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Asignación de día, hora y lugar para verse",
+              "answer": "CITA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Extenso período histórico",
+              "answer": "ERA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Inic de narcotraficante colombiano",
+              "answer": "PE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Presentar reflejos de luz con colores semejantes al arcoíris",
+              "answer": "IRISAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cuatro en números romanos",
+              "answer": "IV"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"… Manuel Miranda\" compositor de 'Hamilton'",
+              "answer": "LIN"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Te trasladabas de un lugar a otro",
+              "answer": "IBAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Persona que va a menos",
+              "answer": "DECAE"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Actuación en grupo que alborota la vida colectiva (2p)",
+              "answer": "DESORDENPUBLICO"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Padre de Atamante",
+              "answer": "EOLO"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Producto que se usa para abrillantar muebles y suelos (pl)",
+              "answer": "CERAS"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Antepuerta o tapiz",
+              "answer": "DOSEL"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Prefijo referente a lo étnico",
+              "answer": "ETNO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Aeropuerto militar (2p)",
+              "answer": "BASEAEREA"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Ese único cerebro y nada más",
+              "answer": "SOLAMENTE"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Característica de un producto que solemos relacionar con su precio",
+              "answer": "CALIDAD"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Te envía directo al baño",
+              "answer": "LAXANTE"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Especie de oso",
+              "answer": "POLAR"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Calmé por completo el hambre",
+              "answer": "SACIE"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Geoffrey E Havers (inventor de una fórmula usada en ingeniería de tráfico)",
+              "answer": "GEH"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Una señora pequeña",
+              "answer": "SRA"
+            },
+            "38": {
+              "col": 6,
+              "row": 8,
+              "clue": "Omití estas telas por error",
+              "answer": "SALTE"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "Se fijaban que venía de Viena con una nivea",
+              "answer": "VEIAN"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Un sixpack",
+              "answer": "SEIS"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "2ª variedad de vino tinto más solicitada en el mundo",
+              "answer": "MERLOT"
+            },
+            "44": {
+              "col": 13,
+              "row": 9,
+              "clue": "Que se repite cada año (fem)",
+              "answer": "ANUA"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "Capa interna de las tres que forman la concha de los moluscos",
+              "answer": "NACAR"
+            },
+            "48": {
+              "col": 12,
+              "row": 10,
+              "clue": "La despellejan en el panel del penal",
+              "answer": "PELAN"
+            },
+            "50": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"… Montoya\", cantante y bailaora flamenca",
+              "answer": "LOLE"
+            },
+            "52": {
+              "col": 11,
+              "row": 11,
+              "clue": "Recobré mi buena salud",
+              "answer": "SANE"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "San Luis de Potosí",
+              "answer": "SLP"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "Didanosina 2do fármaco aprobado contra el SIDA (siglas)",
+              "answer": "DDI"
+            },
+            "58": {
+              "col": 5,
+              "row": 13,
+              "clue": "Infor Siglas del navegador de Microsoft",
+              "answer": "IE"
+            },
+            "59": {
+              "col": 9,
+              "row": 13,
+              "clue": "Lo que tienen en común Eddie Murphy y Eva Mendes",
+              "answer": "EM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cualidad de lo que puede ser captado por los sentidos",
+              "answer": "PERCEPTIBILIDAD"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Fluido que forma la atmósfera",
+              "answer": "AIRE"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "La onda, la vibra de un inglés",
+              "answer": "VIBE"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Alquila un inmueble",
+              "answer": "RENTA"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Conocido como \"El Campeador\" en literatura medieval española",
+              "answer": "CID"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Comienzas a vivir",
+              "answer": "NACES"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Bolivia Brote de la cosecha del arroz",
+              "answer": "SOCA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Toque suave de labios (pl)",
+              "answer": "BESOS"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Cuba Perro o gato callejero de pequeño tamaño",
+              "answer": "SATO"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Voz usada en las corridas de toros",
+              "answer": "OLE"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Lugar orientado al sol",
+              "answer": "CARASOL"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Enredo la primera mitad",
+              "answer": "ENR"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Imposible",
+              "answer": "NO"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Pasillos de la moda",
+              "answer": "PASARELAS"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Opus Dei",
+              "answer": "OD"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Los de Messi son muchos",
+              "answer": "GOLES"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Aflojas, disminuyes la tensión de algo",
+              "answer": "LAXAS"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Hace tiempo que sueño con ella / y solo sé que se llama…\" Nino Bravo",
+              "answer": "NOELIA"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Presidente de Francia",
+              "answer": "MACRON"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "Dios griego del inframundo",
+              "answer": "HADES"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "Se acercaba",
+              "answer": "VENIA"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Símbolo de Nanosegundo",
+              "answer": "NS"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Espaciadamente, ocasionalmente",
+              "answer": "RARAMENTE"
+            },
+            "44": {
+              "col": 13,
+              "row": 9,
+              "clue": "El aullido de oro",
+              "answer": "AU"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Unidad de almacenamiento de información genética",
+              "answer": "GEN"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Qué placer, cuando el portugués dijo: De leche",
+              "answer": "DELEITE"
+            },
+            "48": {
+              "col": 12,
+              "row": 10,
+              "clue": "Partido Nacional Bretón",
+              "answer": "PNB"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Moneda de Arabia Saudita",
+              "answer": "RIAL"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "Seduce, cautiva",
+              "answer": "ATRAE"
+            },
+            "52": {
+              "col": 11,
+              "row": 11,
+              "clue": "Capital de Corea del Sur",
+              "answer": "SEUL"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Impresión desagradable causada por algo que repugna (pl)",
+              "answer": "ASCOS"
+            },
+            "55": {
+              "col": 6,
+              "row": 12,
+              "clue": "Ejército de Liberación Nacional (guerrilla​ colombiana)",
+              "answer": "ELN"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"… Lama\", líder del budismo tibetano",
+              "answer": "DALAI"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "En aquel lugar",
+              "answer": "ALLI"
+            },
+            "59": {
+              "col": 9,
+              "row": 13,
+              "clue": "Disney/Pixar Diseñadora de modas de superhéroes",
+              "answer": "EDNA"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Aflicción por algo que no debí haber hecho",
+              "answer": "ARREPENTIMIENTO"
+            }
+          }
+        },
+        "vertical_clues": "1-Término latín para un individuo nefasto para el país (3p)\r\n2-Río de Bretaña, en el noroeste de Francia\r\n3-Asignación de día, hora y lugar para verse\r\n4-Extenso período histórico\r\n5-Inic de narcotraficante colombiano\r\n6-Presentar reflejos de luz con colores semejantes al arcoíris\r\n7-Cuatro en números romanos\r\n8-\"… Manuel Miranda\" compositor de 'Hamilton'\r\n9-Te trasladabas de un lugar a otro\r\n10-Persona que va a menos\r\n11-Actuación en grupo que alborota la vida colectiva (2p)\r\n15-Padre de Atamante\r\n16-Producto que se usa para abrillantar muebles y suelos (pl)\r\n17-Antepuerta o tapiz\r\n19-Prefijo referente a lo étnico\r\n21-Aeropuerto militar (2p)\r\n22-Ese único cerebro y nada más\r\n25-Característica de un producto que solemos relacionar con su precio\r\n26-Te envía directo al baño\r\n29-Especie de oso\r\n30-Calmé por completo el hambre\r\n32-Geoffrey E Havers (inventor de una fórmula usada en ingeniería de tráfico)\r\n34-Una señora pequeña\r\n38-Omití estas telas por error\r\n39-Se fijaban que venía de Viena con una nivea\r\n41-Un sixpack \r\n43-2ª variedad de vino tinto más solicitada en el mundo\r\n44-Que se repite cada año (fem)\r\n46-Capa interna de las tres que forman la concha de los moluscos\r\n48-La despellejan en el panel del penal\r\n50-\"… Montoya\", cantante y bailaora flamenca\r\n52-Recobré mi buena salud\r\n54-San Luis de Potosí\r\n56-Didanosina 2do fármaco aprobado contra el SIDA (siglas)\r\n58-Infor Siglas del navegador de Microsoft\r\n59-Lo que tienen en común Eddie Murphy y Eva Mendes",
+        "horizontal_clues": "1-Cualidad de lo que puede ser captado por los sentidos\r\n12-Fluido que forma la atmósfera\r\n13-La onda, la vibra de un inglés\r\n14-Alquila un inmueble\r\n16-Conocido como \"El Campeador\" en literatura medieval española\r\n18-Comienzas a vivir\r\n20-Bolivia Brote de la cosecha del arroz\r\n21-Toque suave de labios (pl)\r\n23-Cuba Perro o gato callejero de pequeño tamaño\r\n24-Voz usada en las corridas de toros\r\n25-Lugar orientado al sol\r\n27-Enredo la primera mitad\r\n28-Imposible\r\n29-Pasillos de la moda\r\n31-Opus Dei\r\n32-Los de Messi son muchos\r\n33-Aflojas, disminuyes la tensión de algo\r\n35-\"Hace tiempo que sueño con ella / y solo sé que se llama…\" Nino Bravo\r\n36-Presidente de Francia\r\n37-Dios griego del inframundo\r\n39-Se acercaba\r\n40-Símbolo de Nanosegundo\r\n42-Espaciadamente, ocasionalmente\r\n44-El aullido de oro\r\n45-Unidad de almacenamiento de información genética\r\n47-Qué placer, cuando el portugués dijo: De leche\r\n48-Partido Nacional Bretón\r\n49-Moneda de Arabia Saudita\r\n51-Seduce, cautiva\r\n52-Capital de Corea del Sur\r\n53-Impresión desagradable causada por algo que repugna (pl)\r\n55-Ejército de Liberación Nacional (guerrilla​ colombiana)\r\n56-\"… Lama\", líder del budismo tibetano\r\n57-En aquel lugar\r\n59-Disney/Pixar Diseñadora de modas de superhéroes\r\n60-Aflicción por algo que no debí haber hecho",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,#,6,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,#,13,#,#,#,#,#\r\n14,15,#,#,#,#,16,#,17,#,18,#,#,19,#\r\n20,#,#,#,#,21,#,#,#,22,#,23,#,#,#\r\n24,#,#,#,25,#,#,#,#,#,26,#,27,#,#\r\n28,#,#,29,#,#,#,#,#,#,#,30,#,31,#\r\n#,#,32,#,#,#,#,#,33,#,#,#,34,#,#\r\n35,#,#,#,#,#,#,#,#,36,#,#,#,#,#\r\n#,#,37,#,#,#,38,#,39,#,#,#,#,#,#\r\n40,41,#,42,#,#,#,43,#,#,#,#,#,44,#\r\n45,#,46,#,47,#,#,#,#,#,#,#,48,#,#\r\n49,#,#,50,#,51,#,#,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,#,56,#,#,#,#\r\n#,#,57,#,#,58,#,#,#,59,#,#,#,#,#\r\n60,#,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

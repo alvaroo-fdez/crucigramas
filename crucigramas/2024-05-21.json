@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 271,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-23T14:36:37.488284Z",
+      "updatedAt": "2024-05-23T16:10:44.085419Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-21",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#LEVITA#ENANAS#\r\nPANETON#NOPALES\r\nALEGATO#DIADEMA\r\nJAMA#AMLO##AJAX\r\nALI##LAIS#CLONO\r\nRASPO#LLEVO##AS\r\nANTALGIA#IRSE#O\r\n#DALILA#ATRAPE#\r\nE#DEME#GROENING\r\nST##PENAR#OESTE\r\nCALCO#INES##TEN\r\nAGUA##PEDI#BOLA\r\nMANDATO#REGULAR\r\nALCMEON#ASILADO\r\n#AHORRA#RAMIRO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Musical con 14 nominaciones al Óscar 2017, con Emma Stone.",
+              "answer": "LALALAND"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Hostilidad en dos personas.",
+              "answer": "ENEMISTAD"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"Antonio...\", cantautor de la exagrupación española \"Nacha Pop\".",
+              "answer": "VEGA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Sufijo diminutivo (fem).",
+              "answer": "ITA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "General, universal y que lo comprende todo en su especie.",
+              "answer": "TOTAL"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Un defecto.",
+              "answer": "ANOMALIA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Encargué a alguien un trabajo, una carga.",
+              "answer": "ENDOSE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Nosotros en Italia.",
+              "answer": "NOI"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Apocope de papá.",
+              "answer": "APA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "La Fiera del tenis.",
+              "answer": "NADAL"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Que jaleo loco, mejor me distancio.",
+              "answer": "ALEJO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "De lunes a domingo.",
+              "answer": "SEMANA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Mujer astuta y con muy pocos escrúpulos.",
+              "answer": "PAJARA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Desuso.Terreno pedregoso.",
+              "answer": "SAXOSO"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Flor morada, malva o lavanda.",
+              "answer": "LILA"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Este va a ser electrónico, el mensaje.",
+              "answer": "CORREO"
+            },
+            "26": {
+              "col": 3,
+              "row": 5,
+              "clue": "Plataforma de tablas para transportar mercancías.",
+              "answer": "PALE"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "La residencia de los dioses griegos.",
+              "answer": "OLIMPO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "\"Don ... Corleone\" por Brando o por De Niro.",
+              "answer": "VITO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Serie musical del 2010, sobre un coro estudiantil.",
+              "answer": "GLEE"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Recobré la salud.",
+              "answer": "SANE"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Escribir cartas sobre un arma de fuego.",
+              "answer": "EPISTOLAR"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Rentar, alquilar.",
+              "answer": "ARREDRAR"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Cubierto o reforzado con telas.",
+              "answer": "ENTELADO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lámina dérmica.",
+              "answer": "ESCAMA"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"Raspé y...\" en la lotería.",
+              "answer": "GANE"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Cuéntame cuál es el santo del barrio de los Alcántara.",
+              "answer": "GENARO"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Lengua malayopolinesia que se habla en Filipinas, principalmente en Luzón.",
+              "answer": "TAGALA"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Natural del Japón (fem).",
+              "answer": "NIPONA"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Merienda.",
+              "answer": "LUNCH"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "El fundador de la ciudad de Tebas.",
+              "answer": "CADMO"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Sí, esa persona es antipática y desabrida.",
+              "answer": "SIESA"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "La bulimia no va conmigo.",
+              "answer": "BULI"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Esta era es un caos.",
+              "answer": "AER"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Son medio torpes.",
+              "answer": "TOR"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Alga comestible de Corea, parecido al nori japonés.",
+              "answer": "GIM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Elévate mágicamente.",
+              "answer": "LEVITA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"... blancas\", estrellas en su fase final.",
+              "answer": "ENANAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bollo italiano postre típico de Navidad.",
+              "answer": "PANETON"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cactus comestibles.",
+              "answer": "NOPALES"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Declaración, explicación, ante un juez.",
+              "answer": "ALEGATO"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "En el Día de Mañana disimuladamente te pediré la tiara.",
+              "answer": "DIADEMA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cuba. Coloquialismo para nombrar la comida.",
+              "answer": "JAMA"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "Un presidente mexicano con su propio acrónimo.",
+              "answer": "AMLO"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Club de fútbol de la ciudad de Ámsterdam.",
+              "answer": "AJAX"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Mahershala...\", Premios Óscar por 'Moonlight' y 'Green Book'.",
+              "answer": "ALI"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Poéticas de la Edad Media, que concluían los relatos.",
+              "answer": "LAIS"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Creo dos organismos iguales genéticamente.",
+              "answer": "CLONO"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo hago y gano, un billete por ejemplo.",
+              "answer": "RASPO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Transporto, traslado.",
+              "answer": "LLEVO"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Carta de cada palo que lleva el número uno.",
+              "answer": "AS"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Todo aquello que calma el dolor.",
+              "answer": "ANTALGIA"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Alejarse de un lugar.",
+              "answer": "IRSE"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Mujer a la que amó Sansón y que fue su perdición.",
+              "answer": "DALILA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Capturé al ladrón.",
+              "answer": "ATRAPE"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Entrégueme, otórgueme.",
+              "answer": "DEME"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "El dibujante y productor de Los Simpson.",
+              "answer": "GROENING"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo que tienen en común Steven Tyler y Sophie Turner.",
+              "answer": "ST"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Dicho de un fantasma: vagar con lamentos.",
+              "answer": "PENAR"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Película de vaqueros, del lejano...",
+              "answer": "OESTE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Copio un dibujo.",
+              "answer": "CALCO"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"... del alma mía\" novela de Isabel Allende.",
+              "answer": "INES"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Toma 10 libras esterlinas.",
+              "answer": "TEN"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Líquido vital.",
+              "answer": "AGUA"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Solicité.",
+              "answer": "PEDI"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "La loba chalada no le da atención a la pelota.",
+              "answer": "BOLA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Orden o precepto que el superior da a los súbditos.",
+              "answer": "MANDATO"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Posición sobre la skate, en la que el pie izquierdo va delante.",
+              "answer": "REGULAR"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Griego que descubre que las funciones psíquicas parten del cerebro y no del corazón.",
+              "answer": "ALCMEON"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Acogido por motivos políticos.",
+              "answer": "ASILADO"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Usa la hucha.",
+              "answer": "AHORRA"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "\"... de Maeztu\" de la Generación de 98.",
+              "answer": "RAMIRO"
+            }
+          }
+        },
+        "vertical_clues": "1-Musical con 14 nominaciones al Óscar 2017, con Emma Stone.\r\n2-Hostilidad en dos personas. \r\n3-\"Antonio...\", cantautor de la exagrupación española \"Nacha Pop\".\r\n4-Sufijo diminutivo (fem).\r\n5-General, universal y que lo comprende todo en su especie.\r\n6-Un defecto.\r\n7-Encargué a alguien un trabajo, una carga.\r\n8-Nosotros en Italia.\r\n9-Apocope de papá.\r\n10-La Fiera del tenis.\r\n11-Que jaleo loco, mejor me distancio.\r\n12-De lunes a domingo.\r\n13-Mujer astuta y con muy pocos escrúpulos.\r\n15-Desuso.Terreno pedregoso.\r\n20-Flor morada, malva o lavanda.\r\n24-Este va a ser electrónico, el mensaje.\r\n26-Plataforma de tablas para transportar mercancías.\r\n27-La residencia de los dioses griegos.\r\n29-\"Don ... Corleone\" por Brando o por De Niro.\r\n32-Serie musical del 2010, sobre un coro estudiantil.\r\n34-Recobré la salud.\r\n35-Escribir cartas sobre un arma de fuego.\r\n37-Rentar, alquilar.\r\n38-Cubierto o reforzado con telas. \r\n39-Lámina dérmica.\r\n41-\"Raspé y...\" en la lotería.\r\n42-Cuéntame cuál es el santo del barrio de los Alcántara.\r\n44-Lengua malayopolinesia que se habla en Filipinas, principalmente en Luzón.\r\n46-Natural del Japón (fem).\r\n49-Merienda. \r\n50-El fundador de la ciudad de Tebas.\r\n52-Sí, esa persona es antipática y desabrida.\r\n56-La bulimia no va conmigo.\r\n58-Esta era es un caos.\r\n59-Son medio torpes.\r\n61-Alga comestible de Corea, parecido al nori japonés.",
+        "horizontal_clues": "1-Elévate mágicamente.\r\n7-\"... blancas\", estrellas en su fase final.\r\n13-Bollo italiano postre típico de Navidad.\r\n14-Cactus comestibles. \r\n16-Declaración, explicación, ante un juez.\r\n17-En el Día de Mañana disimuladamente te pediré la tiara.\r\n18-Cuba. Coloquialismo para nombrar la comida.\r\n19-Un presidente mexicano con su propio acrónimo.\r\n21-Club de fútbol de la ciudad de Ámsterdam.\r\n22-\"Mahershala...\", Premios Óscar por 'Moonlight' y 'Green Book'.\r\n23-Poéticas de la Edad Media, que concluían los relatos.\r\n24-Creo dos organismos iguales genéticamente.\r\n25-Lo hago y gano, un billete por ejemplo.\r\n28-Transporto, traslado.\r\n30-Carta de cada palo que lleva el número uno.\r\n31-Todo aquello que calma el dolor.\r\n33-Alejarse de un lugar. \r\n36-Mujer a la que amó Sansón y que fue su perdición.\r\n37-Capturé al ladrón.\r\n40-Entrégueme, otórgueme.\r\n41-El dibujante y productor de Los Simpson.\r\n43-Lo que tienen en común Steven Tyler y Sophie Turner.\r\n45-Dicho de un fantasma: vagar con lamentos.\r\n47-Película de vaqueros, del lejano...\r\n48-Copio un dibujo.\r\n51-\"... del alma mía\" novela de Isabel Allende.\r\n53-Toma 10 libras esterlinas.\r\n54-Líquido vital.\r\n55-Solicité.\r\n56-La loba chalada no le da atención a la pelota. \r\n57-Orden o precepto que el superior da a los súbditos.\r\n60-Posición sobre la skate, en la que el pie izquierdo va delante.\r\n62-Griego que descubre que las funciones psíquicas parten del cerebro y no del corazón.\r\n63-Acogido por motivos políticos.\r\n64-Usa la hucha.\r\n65-\"... de Maeztu\" de la Generación de 98.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,#,19,#,20,#,#,#,21,#,#,#\r\n22,#,#,#,#,23,#,#,#,#,24,#,#,#,#\r\n25,#,#,26,27,#,28,#,#,29,#,#,#,30,#\r\n31,#,#,#,#,32,#,#,#,33,#,34,35,#,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,38,#\r\n39,#,40,#,#,#,#,41,#,#,#,#,#,#,42\r\n43,44,#,#,45,#,46,#,#,#,47,#,#,#,#\r\n48,#,49,50,#,#,51,#,#,52,#,#,53,#,#\r\n54,#,#,#,#,#,55,#,#,#,#,56,#,#,#\r\n57,#,#,#,58,59,#,#,60,#,61,#,#,#,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#\r\n#,64,#,#,#,#,#,#,65,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

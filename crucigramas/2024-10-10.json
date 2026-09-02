@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1030,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-09T16:44:32.530453Z",
+      "updatedAt": "2024-10-09T16:44:32.530480Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-10",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CUELGA#ECHADA#\r\nCAERIA#U#HASANI\r\nISA#BLENDED#TUL\r\nGT#FRONTERAS#LU\r\nARPIA#CAB#SEPAS\r\nLOEN#BIDES#VERA\r\nA#LABRA#RUTER#S\r\n#COLEO###MERAS#\r\nO#TIMAR#PAJIL#S\r\nSAEZ#SETAS#DEPA\r\nCROAS#MAR#PASIL\r\nUR#RAPACIDAD#QT\r\nRUT#CANOSOS#LUA\r\nAGARRE#N#MAREEN\r\n#ABRAZA#POSTER#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Fidel de vacaciones en Santa Tegra (Pontevedra).",
+              "answer": "CASTRO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "La Universala Esperanto",
+              "answer": "UEA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico de Erbio.",
+              "answer": "ER"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Signo del zodíaco representado por una balanza.",
+              "answer": "LIBRA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Gentilicio de Astérix.",
+              "answer": "GALO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "La reina Isabel del pop.",
+              "answer": "CHER"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mujeres fantásticas aladas.",
+              "answer": "HADAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Carta de cada palo que lleva el número uno.",
+              "answer": "AS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ser la principal duda ante todos, es un dato incompleto.",
+              "answer": "DAT"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Dedo donde se coloca el anillo de matrimonio.",
+              "answer": "ANULAR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Crustáceo marino, semejante al cangrejo de río.",
+              "answer": "CIGALA"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Extended superficialmente aceite sobre algo.",
+              "answer": "UNTAD"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Propensas a ilusionarse, soñadoras.",
+              "answer": "ILUSAS"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Tejido que protege la dentadura.",
+              "answer": "ENCIA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Estar obligado a algo.",
+              "answer": "DEBER"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Llevar a término una tarea o actividad.",
+              "answer": "FINALIZAR"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Actuar con rigurosidad y estrictez.",
+              "answer": "SEVERIDAD"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "Intercambio prolongado de elogios exagerados.",
+              "answer": "PELOTEO"
+            },
+            "29": {
+              "col": 12,
+              "row": 4,
+              "clue": "\"José Luis…\", cantautor español apodado \"El poeta de la canción\".",
+              "answer": "PERALES"
+            },
+            "31": {
+              "col": 5,
+              "row": 5,
+              "clue": "Ensenadas llenas de barras y rompientes.",
+              "answer": "BROAS"
+            },
+            "32": {
+              "col": 9,
+              "row": 5,
+              "clue": "Reúnes en una sola varias cantidades homogéneas.",
+              "answer": "SUMAS"
+            },
+            "35": {
+              "col": 4,
+              "row": 6,
+              "clue": "Cabemos en el centro.",
+              "answer": "BEM"
+            },
+            "37": {
+              "col": 10,
+              "row": 6,
+              "clue": "Sube impulsado con motores de reacción, el avión.",
+              "answer": "TEJ"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Anochecida, opaca, umbrosa.",
+              "answer": "OSCURA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Mueven la embarcación a brazo.",
+              "answer": "REMAN"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Conocida en Europa como la Ciudad de la Luz.",
+              "answer": "PARIS"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Omiten algunos pasos, se los...",
+              "answer": "SALTAN"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Signo de envejecimiento por la pérdida de colágeno.",
+              "answer": "ARRUGA"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Pieza de mayor altura en la suela del calzado.",
+              "answer": "TACON"
+            },
+            "50": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"Conchita...\" cantante valenciana conocida como 'La gran señora de la copla'.",
+              "answer": "PIQUER"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Cosa sagrada.",
+              "answer": "SACRA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Entras con las uvas desecadas.",
+              "answer": "PASAS"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"Fito...\" cantautor argentino.",
+              "answer": "PAEZ"
+            },
+            "58": {
+              "col": 9,
+              "row": 11,
+              "clue": "Amansó a sus animales.",
+              "answer": "DOMO"
+            },
+            "61": {
+              "col": 2,
+              "row": 12,
+              "clue": "Informática. Tecla tabuladora.",
+              "answer": "TAB"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"Brandon...\", protagonista de 'El Cuervo' (1994).",
+              "answer": "LEE"
+            },
+            "65": {
+              "col": 3,
+              "row": 13,
+              "clue": "Dígrafo que nunca ha sido una letra.",
+              "answer": "RR"
+            },
+            "67": {
+              "col": 11,
+              "row": 13,
+              "clue": "Russia Today.",
+              "answer": "RT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Suspende o interrumpe una llamada telefónica.",
+              "answer": "CUELGA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "'La suerte está...' ya lo dijo Julio César.",
+              "answer": "ECHADA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Se desmoronaría, la bolsa.",
+              "answer": "CAERIA"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Se dice de la moneda marroquí.",
+              "answer": "HASANI"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Con cariño a Isabel.",
+              "answer": "ISA"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Un whisky, cuando está hecho por la mezcla de otros whiskys.",
+              "answer": "BLENDED"
+            },
+            "20": {
+              "col": 12,
+              "row": 2,
+              "clue": "Velo de novia.",
+              "answer": "TUL"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Un Mustang, tipo gran turismo.",
+              "answer": "GT"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Límites territoriales.",
+              "answer": "FRONTERAS"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Un poco lujoso.",
+              "answer": "LU"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ave fabulosa, con rostro de mujer y cuerpo de águila.",
+              "answer": "ARPIA"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"Taxi\" en inglés.",
+              "answer": "CAB"
+            },
+            "28": {
+              "col": 10,
+              "row": 4,
+              "clue": "Que pases por las pesas y así te enteres.",
+              "answer": "SEPAS"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Alaben, den por bueno algo.",
+              "answer": "LOEN"
+            },
+            "31": {
+              "col": 5,
+              "row": 5,
+              "clue": "Recipiente del baño para el aseo de las partes pudendas (pl).",
+              "answer": "BIDES"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"A tu...\" a tu lado.",
+              "answer": "VERA"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Parece que ladra cuando trabaja la madera.",
+              "answer": "LABRA"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "Inform. Dispositivo que emite señal wifi.",
+              "answer": "RUTER"
+            },
+            "38": {
+              "col": 1,
+              "row": 7,
+              "clue": "Tiro de la cola de una res para derribarla.",
+              "answer": "COLEO"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Puras, netas.",
+              "answer": "MERAS"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Quitar o hurtar con engaño.",
+              "answer": "TIMAR"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Perteneciente o relativo a los pajes.",
+              "answer": "PAJIL"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Cosme García...\" ingeniero e inventor español, conocido por su submarino.",
+              "answer": "SAEZ"
+            },
+            "47": {
+              "col": 5,
+              "row": 9,
+              "clue": "Especímenes de hongos, comestibles o no.",
+              "answer": "SETAS"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Apócope de departamento.",
+              "answer": "DEPA"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cantas como una rana.",
+              "answer": "CROAS"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"... Muerto\", el hipersalino.",
+              "answer": "MAR"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Piedra puesta para pasar un río o arroyo.",
+              "answer": "PASIL"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Antigua ciudad del sur de Mesopotamia.",
+              "answer": "UR"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Inclinación al robo y a la rapiña.",
+              "answer": "RAPACIDAD"
+            },
+            "59": {
+              "col": 13,
+              "row": 11,
+              "clue": "Inic. del director de la película Kill Bill.",
+              "answer": "QT"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Antiguo Testamento. Bisabuela del rey David.",
+              "answer": "RUT"
+            },
+            "62": {
+              "col": 4,
+              "row": 12,
+              "clue": "Sonsaco al desorden, a los mayores.",
+              "answer": "CANOSOS"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "El guante de los cetreros.",
+              "answer": "LUA"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cogí, así con fuerzas.",
+              "answer": "AGARRE"
+            },
+            "66": {
+              "col": 9,
+              "row": 13,
+              "clue": "Embriaguen ligeramente.",
+              "answer": "MAREEN"
+            },
+            "68": {
+              "col": 1,
+              "row": 14,
+              "clue": "Lo estrecha entre sus brazos, lo apapacha, lo...",
+              "answer": "ABRAZA"
+            },
+            "69": {
+              "col": 8,
+              "row": 14,
+              "clue": "Afiche.",
+              "answer": "POSTER"
+            }
+          }
+        },
+        "vertical_clues": "1-Fidel de vacaciones en Santa Tegra (Pontevedra).\r\n2-La Universala Esperanto-Asocio.\r\n3-Símbolo químico de Erbio.\r\n4-Signo del zodíaco representado por una balanza.\r\n5-Gentilicio de Astérix.\r\n7-La reina Isabel del pop.\r\n8-Mujeres fantásticas aladas.\r\n9-Carta de cada palo que lleva el número uno.\r\n10-Ser la principal duda ante todos, es un dato incompleto.\r\n11-Dedo donde se coloca el anillo de matrimonio.\r\n12-Crustáceo marino, semejante al cangrejo de río.\r\n13-Extended superficialmente aceite sobre algo.\r\n15-Propensas a ilusionarse, soñadoras.\r\n18-Tejido que protege la dentadura.\r\n19-Estar obligado a algo.\r\n22-Llevar a término una tarea o actividad. \r\n23-Actuar con rigurosidad y estrictez.\r\n26-Intercambio prolongado de elogios exagerados. \r\n29-\"José Luis…\", cantautor español apodado \"El poeta de la canción\".\r\n31-Ensenadas llenas de barras y rompientes. \r\n32-Reúnes en una sola varias cantidades homogéneas.\r\n35-Cabemos en el centro.\r\n37-Sube impulsado con motores de reacción, el avión.\r\n40-Anochecida, opaca, umbrosa.\r\n42-Mueven la embarcación a brazo.\r\n43-Conocida en Europa como la Ciudad de la Luz.\r\n44-Omiten algunos pasos, se los...\r\n46-Signo de envejecimiento por la pérdida de colágeno.\r\n48-Pieza de mayor altura en la suela del calzado.\r\n50-\"Conchita...\" cantante valenciana conocida como 'La gran señora de la copla'.\r\n52-Cosa sagrada.\r\n54-Entras con las uvas desecadas.\r\n57-\"Fito...\" cantautor argentino.\r\n58-Amansó a sus animales. \r\n61-Informática. Tecla tabuladora.\r\n63-\"Brandon...\", protagonista de 'El Cuervo' (1994).\r\n65-Dígrafo que nunca ha sido una letra.\r\n67-Russia Today.",
+        "horizontal_clues": "1-Suspende o interrumpe una llamada telefónica. \r\n6-'La suerte está...' ya lo dijo Julio César.\r\n12-Se desmoronaría, la bolsa.\r\n14-Se dice de la moneda marroquí.\r\n16-Con cariño a Isabel.\r\n17-Un whisky, cuando está hecho por la mezcla de otros whiskys.\r\n20-Velo de novia.\r\n21-Un Mustang, tipo gran turismo.\r\n22-Límites territoriales.\r\n24-Un poco lujoso.\r\n25-Ave fabulosa, con rostro de mujer y cuerpo de águila.\r\n27-\"Taxi\" en inglés.\r\n28-Que pases por las pesas y así te enteres.\r\n30-Alaben, den por bueno algo.\r\n31-Recipiente del baño para el aseo de las partes pudendas (pl). \r\n33-\"A tu...\" a tu lado.\r\n34-Parece que ladra cuando trabaja la madera.\r\n36-Inform. Dispositivo que emite señal wifi.\r\n38-Tiro de la cola de una res para derribarla.\r\n39-Puras, netas.\r\n41-Quitar o hurtar con engaño.\r\n43-Perteneciente o relativo a los pajes.\r\n45-\"Cosme García...\" ingeniero e inventor español, conocido por su submarino.\r\n47-Especímenes de hongos, comestibles o no.\r\n49-Apócope de departamento.\r\n51-Cantas como una rana.\r\n53-\"... Muerto\", el hipersalino.\r\n54-Piedra puesta para pasar un río o arroyo.\r\n55-Antigua ciudad del sur de Mesopotamia.\r\n56-Inclinación al robo y a la rapiña.\r\n59-Inic. del director de la película Kill Bill.\r\n60-Antiguo Testamento. Bisabuela del rey David.\r\n62-Sonsaco al desorden, a los mayores.\r\n63-El guante de los cetreros.\r\n64-Cogí, así con fuerzas.\r\n66-Embriaguen ligeramente.\r\n68-Lo estrecha entre sus brazos, lo apapacha, lo...\r\n69-Afiche.",
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,13,#,14,#,#,#,#,15\r\n16,#,#,#,17,#,18,#,19,#,#,#,20,#,#\r\n21,#,#,22,#,#,#,#,#,#,#,23,#,24,#\r\n25,#,26,#,#,#,27,#,#,#,28,#,29,#,#\r\n30,#,#,#,#,31,#,#,#,32,#,33,#,#,#\r\n#,#,34,#,35,#,#,#,36,#,37,#,#,#,#\r\n#,38,#,#,#,#,#,#,#,39,#,#,#,#,#\r\n40,#,41,#,#,#,42,#,43,#,#,#,#,#,44\r\n45,46,#,#,#,47,#,48,#,#,#,49,#,50,#\r\n51,#,#,#,52,#,53,#,#,#,54,#,#,#,#\r\n55,#,#,56,#,57,#,#,#,58,#,#,#,59,#\r\n60,#,61,#,62,#,#,#,#,#,#,#,63,#,#\r\n64,#,#,65,#,#,#,#,#,66,#,67,#,#,#\r\n#,68,#,#,#,#,#,#,69,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

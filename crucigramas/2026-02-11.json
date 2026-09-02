@@ -1,0 +1,474 @@
+{
+  "data": {
+    "id": 4776,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-10T22:17:07.111691Z",
+      "updatedAt": "2026-02-10T22:18:26.439419Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-11",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#VIBORA#ASTUCIA\r\nMADUREZ#GUATE#T\r\nACERCO##ESPERMA\r\nRIADAS#ENTORNAR\r\nGALAS#DADA#OIME\r\nODI##AUTANA##MA\r\nTOSCANA##TRAMAR\r\n##TALASOFILIA##\r\nCHALET##AVANZAR\r\nAI##FONICO##AME\r\nNETA#RIME#MAMON\r\nALEJARSE#RECORD\r\nSONEROS##OCURRI\r\nT#ENOJA#ASERRAR\r\nATRONAN#JADEAR#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Procedimiento de verter un material derretido en un molde",
+              "answer": "VACIADO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Persona propensa a representar las cosas de una manera ideal",
+              "answer": "IDEALISTA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tosca, basta, grosera",
+              "answer": "BURDA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ballenas en blanco y negro",
+              "answer": "ORCAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Convictos, privados de libertad",
+              "answer": "REOS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Primera y última",
+              "answer": "AZ"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Libreta con todos los días del año",
+              "answer": "AGENDA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Categoría gramatical que nombra seres, cosas o ideas",
+              "answer": "SUSTANTIVO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cierro, sello",
+              "answer": "TAPO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Matriz de la mujer y de las hembras de los mamíferos",
+              "answer": "UTERO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Separé con el cedazo la harina del salvado",
+              "answer": "CERNI"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Poner o señalar una tarea a alguien",
+              "answer": "ATAREAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"… Robbie\", tanto Barbie como Harley Queen",
+              "answer": "MARGOT"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "ABBA cantando \"… Mia!\"",
+              "answer": "MAMMA"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "En el Seat de Beatriz",
+              "answer": "EAT"
+            },
+            "21": {
+              "col": 6,
+              "row": 4,
+              "clue": "Porciones de tierra que reciben riego de una acequia",
+              "answer": "DUAS"
+            },
+            "24": {
+              "col": 5,
+              "row": 5,
+              "clue": "¿Trona o raja?, la de Mecano",
+              "answer": "ANATORROJA"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pon las frutas en arlos",
+              "answer": "ARLA"
+            },
+            "28": {
+              "col": 3,
+              "row": 6,
+              "clue": "Óxido de calcio",
+              "answer": "CAL"
+            },
+            "29": {
+              "col": 4,
+              "row": 6,
+              "clue": "Primera letra del alefato",
+              "answer": "ALEF"
+            },
+            "31": {
+              "col": 11,
+              "row": 6,
+              "clue": "Caín perdió la cabeza",
+              "answer": "AIN"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Parecida al salmorejo pero sin tomate, típica de Córdoba",
+              "answer": "MAZAMORRA"
+            },
+            "34": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"Poker…\" hit de Lady Gaga incluido en su álbum debut",
+              "answer": "FACE"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "El juego de cartas está en la cesta",
+              "answer": "CANASTA"
+            },
+            "36": {
+              "col": 1,
+              "row": 8,
+              "clue": "'Canción de… y fuego' serie de novelas, en las que se basa 'Juego de Tronos'",
+              "answer": "HIELO"
+            },
+            "38": {
+              "col": 13,
+              "row": 8,
+              "clue": "Bajar la cabeza, obstinándose en no hablar",
+              "answer": "AMORRAR"
+            },
+            "39": {
+              "col": 14,
+              "row": 8,
+              "clue": "Bajar los brazos, dejar de luchar",
+              "answer": "RENDIR"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Fabricante japonés de coches como el Leaf",
+              "answer": "NISSAN"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Centro agroalimentario",
+              "answer": "IME"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "Poseer, mantener",
+              "answer": "TENER"
+            },
+            "47": {
+              "col": 3,
+              "row": 10,
+              "clue": "Perteneciente a otra persona",
+              "answer": "AJENO"
+            },
+            "49": {
+              "col": 10,
+              "row": 10,
+              "clue": "Moved acompasadamente al niño en la cuna",
+              "answer": "MECED"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Roedor doméstico, oriundo de las Antillas suramericanas",
+              "answer": "ACURE"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Anillo que sirve para el juego de la argolla",
+              "answer": "ARON"
+            },
+            "53": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"El ruiseñor y la…\", cuento de Oscar Wilde",
+              "answer": "ROSA"
+            },
+            "57": {
+              "col": 8,
+              "row": 13,
+              "clue": "En el centro de la caja",
+              "answer": "AJ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tiene la lengua viperina",
+              "answer": "VIBORA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Con perspicacia en Asturias",
+              "answer": "ASTUCIA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Periodo de la vida anterior a la vejez",
+              "answer": "MADUREZ"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Con cariño a Guatemala",
+              "answer": "GUATE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Acorto la distancia, me…",
+              "answer": "ACERCO"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Semen",
+              "answer": "ESPERMA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Inundaciones, crecidas",
+              "answer": "RIADAS"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"… los ojos\" desconfiar con la mirada",
+              "answer": "ENTORNAR"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Fiesta en la que se exige vestido especial de esta clase (pl)",
+              "answer": "GALAS"
+            },
+            "21": {
+              "col": 6,
+              "row": 4,
+              "clue": "Inclinada, que tiene tendencia a algo",
+              "answer": "DADA"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Coloq Escuchame, prestame atención pibe",
+              "answer": "OIME"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Un pirado viene marcha atrás",
+              "answer": "ODI"
+            },
+            "24": {
+              "col": 5,
+              "row": 5,
+              "clue": "El tepuy, al sur de Venezuela, con una cueva formada de cuarzo",
+              "answer": "AUTANA"
+            },
+            "26": {
+              "col": 13,
+              "row": 5,
+              "clue": "Manga corta",
+              "answer": "MA"
+            },
+            "27": {
+              "col": 0,
+              "row": 6,
+              "clue": "Región italiana donde se ubica Florencia",
+              "answer": "TOSCANA"
+            },
+            "30": {
+              "col": 9,
+              "row": 6,
+              "clue": "Preparar con astucia un enredo",
+              "answer": "TRAMAR"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Afición intensa y duradera por el mar y los ambientes marinos",
+              "answer": "TALASOFILIA"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Edificio familiar con jardín",
+              "answer": "CHALET"
+            },
+            "37": {
+              "col": 8,
+              "row": 8,
+              "clue": "Progresar, adelantar",
+              "answer": "AVANZAR"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Bailó en Hawái",
+              "answer": "AI"
+            },
+            "41": {
+              "col": 4,
+              "row": 9,
+              "clue": "Relacionado con los sonidos del habla",
+              "answer": "FONICO"
+            },
+            "44": {
+              "col": 12,
+              "row": 9,
+              "clue": "Quiera, adore",
+              "answer": "AME"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una verdad muy mexicana",
+              "answer": "NETA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Consoné palabras",
+              "answer": "RIME"
+            },
+            "49": {
+              "col": 10,
+              "row": 10,
+              "clue": "Que mama mucho",
+              "answer": "MAMON"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Distanciarse, irse muy lejos",
+              "answer": "ALEJARSE"
+            },
+            "53": {
+              "col": 9,
+              "row": 11,
+              "clue": "Resultado máximo o mínimo en otras actividades",
+              "answer": "RECORD"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Cantantes de salsa que saben improvisar",
+              "answer": "SONEROS"
+            },
+            "55": {
+              "col": 9,
+              "row": 12,
+              "clue": "Acontecí, sucedí",
+              "answer": "OCURRI"
+            },
+            "56": {
+              "col": 2,
+              "row": 13,
+              "clue": "Se enfurece, se indigna, se…",
+              "answer": "ENOJA"
+            },
+            "57": {
+              "col": 8,
+              "row": 13,
+              "clue": "Cortar madera con la sierra",
+              "answer": "ASERRAR"
+            },
+            "58": {
+              "col": 0,
+              "row": 14,
+              "clue": "Aturden cual trueno",
+              "answer": "ATRONAN"
+            },
+            "59": {
+              "col": 8,
+              "row": 14,
+              "clue": "Respirar anhelosamente por un esfuerzo físico",
+              "answer": "JADEAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Procedimiento de verter un material derretido en un molde\r\n2-Persona propensa a representar las cosas de una manera ideal\r\n3-Tosca, basta, grosera \r\n4-Ballenas en blanco y negro\r\n5-Convictos, privados de libertad \r\n6-Primera y última\r\n7-Libreta con todos los días del año\r\n8-Categoría gramatical que nombra seres, cosas o ideas \r\n9-Cierro, sello\r\n10-Matriz de la mujer y de las hembras de los mamíferos\r\n11-Separé con el cedazo la harina del salvado\r\n12-Poner o señalar una tarea a alguien\r\n13-\"… Robbie\", tanto Barbie como Harley Queen\r\n17-ABBA cantando \"… Mia!\" \r\n19-En el Seat de Beatriz\r\n21-Porciones de tierra que reciben riego de una acequia\r\n24-¿Trona o raja?, la de Mecano\r\n25-Pon las frutas en arlos\r\n28-Óxido de calcio\r\n29-Primera letra del alefato\r\n31-Caín perdió la cabeza\r\n32-Parecida al salmorejo pero sin tomate, típica de Córdoba\r\n34-\"Poker…\" hit de Lady Gaga incluido en su álbum debut\r\n35-El juego de cartas está en la cesta\r\n36-'Canción de… y fuego' serie de novelas, en las que se basa 'Juego de Tronos' \r\n38-Bajar la cabeza, obstinándose en no hablar\r\n39-Bajar los brazos, dejar de luchar\r\n42-Fabricante japonés de coches como el Leaf\r\n43-Centro agroalimentario\r\n46-Poseer, mantener\r\n47-Perteneciente a otra persona\r\n49-Moved acompasadamente al niño en la cuna\r\n50-Roedor doméstico, oriundo de las Antillas suramericanas\r\n52-Anillo que sirve para el juego de la argolla\r\n53-\"El ruiseñor y la…\", cuento de Oscar Wilde\r\n57-En el centro de la caja",
+        "horizontal_clues": "1-Tiene la lengua viperina\r\n7-Con perspicacia en Asturias\r\n13-Periodo de la vida anterior a la vejez\r\n14-Con cariño a Guatemala\r\n15-Acorto la distancia, me…\r\n16-Semen\r\n18-Inundaciones, crecidas \r\n19-\"… los ojos\" desconfiar con la mirada\r\n20-Fiesta en la que se exige vestido especial de esta clase (pl)\r\n21-Inclinada, que tiene tendencia a algo\r\n22-Coloq Escuchame, prestame atención pibe\r\n23-Un pirado viene marcha atrás\r\n24-El tepuy, al sur de Venezuela, con una cueva formada de cuarzo\r\n26-Manga corta\r\n27-Región italiana donde se ubica Florencia\r\n30-Preparar con astucia un enredo\r\n33-Afición intensa y duradera por el mar y los ambientes marinos \r\n35-Edificio familiar con jardín\r\n37-Progresar, adelantar\r\n40-Bailó en Hawái\r\n41-Relacionado con los sonidos del habla \r\n44-Quiera, adore\r\n45-Una verdad muy mexicana\r\n48-Consoné palabras\r\n49-Que mama mucho\r\n51-Distanciarse, irse muy lejos\r\n53-Resultado máximo o mínimo en otras actividades\r\n54-Cantantes de salsa que saben improvisar\r\n55-Acontecí, sucedí\r\n56-Se enfurece, se indigna, se…\r\n57-Cortar madera con la sierra\r\n58-Aturden cual trueno\r\n59-Respirar anhelosamente por un esfuerzo físico",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,#\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,17,#\r\n18,#,#,#,#,#,#,19,#,#,#,#,#,#,#\r\n20,#,#,#,#,#,21,#,#,#,#,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,25,#,#,26,#\r\n27,#,#,28,29,#,#,#,#,30,#,31,32,#,#\r\n#,#,33,#,#,#,#,#,34,#,#,#,#,#,#\r\n35,36,#,#,#,#,#,#,37,#,#,#,#,38,39\r\n40,#,#,#,41,#,42,43,#,#,#,#,44,#,#\r\n45,#,46,47,#,48,#,#,#,#,49,50,#,#,#\r\n51,#,#,#,52,#,#,#,#,53,#,#,#,#,#\r\n54,#,#,#,#,#,#,#,#,55,#,#,#,#,#\r\n#,#,56,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,#,#,59,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

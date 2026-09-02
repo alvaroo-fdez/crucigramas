@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 547,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-09T12:16:52.130653Z",
+      "updatedAt": "2024-07-09T12:16:52.130670Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-10",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MAPAS#TAMBALEAR\r\nA#OBE#ATITLAN#E\r\nMOLONDRON#GIMAN\r\nOBERTURA#PICUDO\r\nTRATARON#ADIDAS\r\nRA#ARO##ACODE##\r\nEDA##SKYR#SACOS\r\nTONY##V#P##DECI\r\nORTOS#AFAN##RUN\r\n##AUTOS##AUN#PC\r\nTORTEL#DERROCAR\r\nESTUFA#AFRUTADO\r\nCEIBA#ARREBATON\r\nL#DENUEDO#UDA#I\r\nAPARICION#SORDA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Libro o documento extenso y poco manejable.",
+              "answer": "MAMOTRETO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Máquina simple.",
+              "answer": "POLEA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Un loco barato, abandona la misión.",
+              "answer": "ABORTA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Primero me voy a poner en la silla y luego tú entras con la sartén.",
+              "answer": "SENTAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Frasco.",
+              "answer": "TARRO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Remolcan una nave por la proa.",
+              "answer": "ATOAN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Acortamiento de minuto.",
+              "answer": "MIN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tanques rusos usados en la Guerra Civil española (siglas).",
+              "answer": "BT"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Momentos críticos, puntos...",
+              "answer": "ALGIDOS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Principio que establece la separación entre la sociedad civil y la religiosa.",
+              "answer": "LAICIDAD"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Quedarse sin palabras por sorpresa o temor.",
+              "answer": "ENMUDECER"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Los que llevan el trineo de Santa.",
+              "answer": "RENOS"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Taller donde se elaboran productos artesanales.",
+              "answer": "OBRADOR"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Resistentes o difíciles de romper.",
+              "answer": "DUROS"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Hada decapitada.",
+              "answer": "ADA"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Pactan, pero no tanto.",
+              "answer": "PAC"
+            },
+            "26": {
+              "col": 8,
+              "row": 5,
+              "clue": "Instrumento musical de 32 cuerdas.",
+              "answer": "ARPA"
+            },
+            "28": {
+              "col": 2,
+              "row": 6,
+              "clue": "Continente donde se encuentra el Polo Sur.",
+              "answer": "ANTARTIDA"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Bebida tradicional eslava y báltica a base de harina y malta.",
+              "answer": "KVAS"
+            },
+            "32": {
+              "col": 13,
+              "row": 6,
+              "clue": "Atareado, atosigado.",
+              "answer": "OCUPADO"
+            },
+            "33": {
+              "col": 14,
+              "row": 6,
+              "clue": "Coincidencia de hechos o fenómenos en el tiempo.",
+              "answer": "SINCRONIA"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Creador de contenido en plataforma de vídeos.",
+              "answer": "YOUTUBER"
+            },
+            "38": {
+              "col": 4,
+              "row": 8,
+              "clue": "\"Gwen...\", exvocalista de 'No Doubt'.",
+              "answer": "STEFANI"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Comuniqué, referí el hecho, fabulé.",
+              "answer": "NARRE"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Le devolví el saludo por teléfono.",
+              "answer": "OLA"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Uruguay. Zamuros, zopilotes.",
+              "answer": "URUBUS"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "He percibido algo en la nota do.",
+              "answer": "NOTADO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo es Shift o Ctrl.",
+              "answer": "TECLA"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Tenga el valor de cambiar eso.",
+              "answer": "OSE"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Arma arrojadiza.",
+              "answer": "DARDO"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"Zac...\" actor estadounidense.",
+              "answer": "EFRON"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Probar, degustar.",
+              "answer": "CATAR"
+            },
+            "56": {
+              "col": 6,
+              "row": 12,
+              "clue": "Las primeras vocales.",
+              "answer": "AEI"
+            },
+            "58": {
+              "col": 5,
+              "row": 13,
+              "clue": "Universidad de Cantabria.",
+              "answer": "UC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Representación geográfica de la Tierra (pl).",
+              "answer": "MAPAS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Perder el equilibrio físico o emocional.",
+              "answer": "TAMBALEAR"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Poco obediente.",
+              "answer": "OBE"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Lago de Guatemala, rodeado por tres volcanes.",
+              "answer": "ATITLAN"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Golpe dado en la cabeza, o con la cabeza.",
+              "answer": "MOLONDRON"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Hagan ruiditos de placer.",
+              "answer": "GIMAN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pieza musical que se da principio a una ópera.",
+              "answer": "OBERTURA"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Insecto que afecta a los cultivos de algodón.",
+              "answer": "PICUDO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Intentaron, pretendieron.",
+              "answer": "TRATARON"
+            },
+            "23": {
+              "col": 9,
+              "row": 4,
+              "clue": "Multinacional Alemana deportiva.",
+              "answer": "ADIDAS"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Poco razonable.",
+              "answer": "RA"
+            },
+            "25": {
+              "col": 3,
+              "row": 5,
+              "clue": "\"El...\" película de terror sobre una cinta de video maldita.",
+              "answer": "ARO"
+            },
+            "26": {
+              "col": 8,
+              "row": 5,
+              "clue": "Doblé algo en forma de codo.",
+              "answer": "ACODE"
+            },
+            "27": {
+              "col": 0,
+              "row": 6,
+              "clue": "Aún no llega a la edad.",
+              "answer": "EDA"
+            },
+            "29": {
+              "col": 5,
+              "row": 6,
+              "clue": "Producto lácteo parecido al yogur típico de Islandia.",
+              "answer": "SKYR"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "América. Chaqueta, americana (pl).",
+              "answer": "SACOS"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Premios...\" al teatro de Broadway.",
+              "answer": "TONY"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Prefijo que significa la décima parte, por ejemplo de un litro.",
+              "answer": "DECI"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Astronomía. Salida o aparición del Sol o de otro astro por el horizonte (pl).",
+              "answer": "ORTOS"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Prisa, diligencia, premura.",
+              "answer": "AFAN"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "Correr en inglés.",
+              "answer": "RUN"
+            },
+            "42": {
+              "col": 2,
+              "row": 9,
+              "clue": "Carros, coches.",
+              "answer": "AUTOS"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Incluso todavía.",
+              "answer": "AUN"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "Iniciales de la actriz española prota de 'A Roma con amor'.",
+              "answer": "PC"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Bollo de hojaldre en forma de rosca.",
+              "answer": "TORTEL"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Destituir a un gobernante de forma forzosa.",
+              "answer": "DERROCAR"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lugar donde el frío pierde la batalla.",
+              "answer": "ESTUFA"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Característica de ciertos vinos o alimentos.",
+              "answer": "AFRUTADO"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Árbol de gran envergadura, sagrado para los mayas.",
+              "answer": "CEIBA"
+            },
+            "56": {
+              "col": 6,
+              "row": 12,
+              "clue": "Robo cometido, arrancando algo a alguien por sorpresa.",
+              "answer": "ARREBATON"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "Parece que de nuevo hablamos de valentía extrema.",
+              "answer": "DENUEDO"
+            },
+            "59": {
+              "col": 10,
+              "row": 13,
+              "clue": "A la viuda ni la miré.",
+              "answer": "UDA"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Fenómeno paranormal inesperado.",
+              "answer": "APARICION"
+            },
+            "61": {
+              "col": 10,
+              "row": 14,
+              "clue": "Mujer que no escucha.",
+              "answer": "SORDA"
+            }
+          }
+        },
+        "vertical_clues": "1-Libro o documento extenso y poco manejable. \r\n2-Máquina simple.\r\n3-Un loco barato, abandona la misión.\r\n4-Primero me voy a poner en la silla y luego tú entras con la sartén.\r\n5-Frasco.\r\n6-Remolcan una nave por la proa.\r\n7-Acortamiento de minuto. \r\n8-Tanques rusos usados en la Guerra Civil española (siglas).\r\n9-Momentos críticos, puntos...\r\n10-Principio que establece la separación entre la sociedad civil y la religiosa.\r\n11-Quedarse sin palabras por sorpresa o temor. \r\n12-Los que llevan el trineo de Santa.\r\n16-Taller donde se elaboran productos artesanales. \r\n17-Resistentes o difíciles de romper. \r\n19-Hada decapitada.\r\n21-Pactan, pero no tanto.\r\n26-Instrumento musical de 32 cuerdas.\r\n28-Continente donde se encuentra el Polo Sur.\r\n30-Bebida tradicional eslava y báltica a base de harina y malta.\r\n32-Atareado, atosigado.\r\n33-Coincidencia de hechos o fenómenos en el tiempo.\r\n35-Creador de contenido en plataforma de vídeos. \r\n38-\"Gwen...\", exvocalista de 'No Doubt'.\r\n40-Comuniqué, referí el hecho, fabulé.\r\n43-Le devolví el saludo por teléfono.\r\n45-Uruguay. Zamuros, zopilotes.\r\n46-He percibido algo en la nota do.\r\n48-Lo es Shift o Ctrl.\r\n49-Tenga el valor de cambiar eso.\r\n50-Arma arrojadiza.\r\n51-\"Zac...\" actor estadounidense.\r\n52-Probar, degustar.\r\n56-Las primeras vocales.\r\n58-Universidad de Cantabria.",
+        "horizontal_clues": "1-Representación geográfica de la Tierra (pl).\r\n5-Perder el equilibrio físico o emocional. \r\n13-Poco obediente.\r\n14-Lago de Guatemala, rodeado por tres volcanes.\r\n15-Golpe dado en la cabeza, o con la cabeza.\r\n18-Hagan ruiditos de placer.\r\n20-Pieza musical que se da principio a una ópera.\r\n21-Insecto que afecta a los cultivos de algodón. \r\n22-Intentaron, pretendieron.\r\n23-Multinacional Alemana deportiva.\r\n24-Poco razonable.\r\n25-\"El...\" película de terror sobre una cinta de video maldita.\r\n26-Doblé algo en forma de codo.\r\n27-Aún no llega a la edad.\r\n29-Producto lácteo parecido al yogur típico de Islandia.\r\n31-América. Chaqueta, americana (pl).\r\n34-\"Premios...\" al teatro de Broadway.\r\n36-Prefijo que significa la décima parte, por ejemplo de un litro.\r\n37-Astronomía. Salida o aparición del Sol o de otro astro por el horizonte (pl).\r\n39-Prisa, diligencia, premura.\r\n41-Correr en inglés.\r\n42-Carros, coches.\r\n44-Incluso todavía.\r\n47-Iniciales de la actriz española prota de 'A Roma con amor'.\r\n48-Bollo de hojaldre en forma de rosca.\r\n50-Destituir a un gobernante de forma forzosa. \r\n53-Lugar donde el frío pierde la batalla.\r\n54-Característica de ciertos vinos o alimentos. \r\n55-Árbol de gran envergadura, sagrado para los mayas.\r\n56-Robo cometido, arrancando algo a alguien por sorpresa.\r\n57-Parece que de nuevo hablamos de valentía extrema.\r\n59-A la viuda ni la miré.\r\n60-Fenómeno paranormal inesperado. \r\n61-Mujer que no escucha.",
+        "board_clues_positions": "1,#,2,3,4,#,5,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,14,#,#,#,#,#,#,#,#\r\n15,16,#,#,#,17,#,#,#,#,18,#,#,19,#\r\n20,#,#,#,#,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,#,#,#,#,#,#,23,#,#,#,#,#\r\n24,#,#,25,#,#,#,#,26,#,#,#,#,#,#\r\n27,#,28,#,#,29,30,#,#,#,31,#,#,32,33\r\n34,#,#,35,#,#,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,38,#,39,#,#,40,#,#,41,#,#\r\n#,#,42,#,#,43,#,#,#,44,45,46,#,47,#\r\n48,49,#,#,#,#,#,50,51,#,#,#,52,#,#\r\n53,#,#,#,#,#,#,54,#,#,#,#,#,#,#\r\n55,#,#,#,#,#,56,#,#,#,#,#,#,#,#\r\n#,#,57,#,#,58,#,#,#,#,59,#,#,#,#\r\n60,#,#,#,#,#,#,#,#,#,61,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

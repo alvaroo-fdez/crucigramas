@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crucigrama experto</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">EL PAÍS</span></div>
+    <div class="top-actions">
+      <label class="date-picker">Fecha <select id="dateSelect" aria-label="Elegir fecha"></select></label>
+      <button class="icon-button" id="themeButton" title="Cambiar tema" aria-label="Cambiar tema">◐</button>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="game-head">
+      <div><p class="eyebrow">Crucigrama experto</p><h1 id="puzzleTitle">Cargando crucigrama</h1></div>
+      <div class="game-tools">
+        <div class="timer"><span id="timer">00:00</span><button class="pause-button" id="pauseButton" title="Pausar" aria-label="Pausar">Ⅱ</button></div>
+        <div class="action-menu"><button class="tool-button menu-trigger" type="button">Comprobar <span>⌄</span></button><div class="menu-items"><button type="button" id="checkLetterButton">Comprobar letra</button><button type="button" id="checkWordButton">Comprobar palabra</button><button type="button" id="checkPuzzleButton">Comprobar crucigrama</button></div></div>
+        <div class="action-menu"><button class="tool-button menu-trigger" type="button">Revelar <span>⌄</span></button><div class="menu-items"><button type="button" id="revealLetterButton">Revelar letra</button><button type="button" id="revealWordButton">Revelar palabra</button><button type="button" id="revealPuzzleButton">Revelar crucigrama completo</button></div></div>
+        <button class="tool-button" id="resetButton">Reiniciar</button>
+      </div>
+    </section>
+
+    <div class="game-layout">
+      <section class="board-panel">
+        <div class="status-line"><span id="statusMessage">Selecciona una casilla para empezar</span></div>
+        <div id="board" class="board" role="grid" aria-label="Crucigrama"></div>
+        <div class="keyboard" id="keyboard" aria-label="Teclado virtual"></div>
+      </section>
+
+      <aside class="clues-panel">
+        <div class="clues-column"><h2>Horizontales</h2><div id="acrossClues" class="clues-list"></div></div>
+        <div class="clues-column"><h2>Verticales</h2><div id="downClues" class="clues-list"></div></div>
+      </aside>
+    </div>
+  </main>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-card"><button id="closeModal" class="modal-close" aria-label="Cerrar">×</button><p class="eyebrow">Crucigrama experto</p><h2 id="modalTitle"></h2><p id="modalText"></p><div class="modal-actions"><button id="modalCancel" class="secondary-button">Cancelar</button><button id="modalAction" class="primary-button">Confirmar</button></div></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

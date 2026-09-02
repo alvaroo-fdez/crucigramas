@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4658,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-25T00:20:50.042022Z",
+      "updatedAt": "2026-01-25T00:21:38.342439Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-25",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DANIELA#KATIA#C\r\n#GORRO#BELMONTE\r\nCRISIS#AFEA#UAS\r\nOI#ESTERIL#ARNA\r\nAAB#I#VARIACION\r\nCREEP#OT###LAST\r\nHALLE#COCINA##E\r\n#NOELIA#HIERBA#\r\nO##NAUSEA#GARZA\r\nBLOC###XR#ADIOS\r\nREPONEDOR#T#OTI\r\nAMOS#XEROSIS#AL\r\nRAR#GIGA#EVADIA\r\nOSTENTAR#MOLAN#\r\nN#OLMOS#VISITAR",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Se pondrán agrios, se…",
+              "answer": "AGRIARAN"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Nosotros en Italia",
+              "answer": "NOI"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Alejarse de un lugar",
+              "answer": "IRSE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Infección de la piel que puede causar enrojecimiento y fiebre",
+              "answer": "ERISIPELA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Perdidos por esta serie",
+              "answer": "LOST"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Probiótico, excelente para la salud",
+              "answer": "KEFIR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Flor de muy buen olor y diversos colores",
+              "answer": "ALELI"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Toma Más Agua",
+              "answer": "TMA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Una pareja de 10",
+              "answer": "IO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Medicina Cesación total de la secreción urinaria",
+              "answer": "ANURIA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Persona que ha perdido su empleo en la administración pública",
+              "answer": "CESANTE"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "No es caro por eso rotaba",
+              "answer": "BARATO"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Forma de nombrar a los italianos en Argentina",
+              "answer": "TANOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Persona que asesora a otra para desarrollarse (voz inglesa)",
+              "answer": "COACH"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Recuerdas con nostalgia",
+              "answer": "EVOCAS"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Explicad, esclareced, dilucidad",
+              "answer": "ACLARAD"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "El padre de Egipto y Dánao",
+              "answer": "BELO"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Nómina de una compañía teatral (pl)",
+              "answer": "ELENCOS"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Jinete mexicano de emblemático sombrero",
+              "answer": "CHARRO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Par de flacas",
+              "answer": "II"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Imagen que ofrece invertidos los claros y oscuros (pl)",
+              "answer": "NEGATIVOS"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Espíritu, valor, resolución",
+              "answer": "BRIO"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Zurra de azotes",
+              "answer": "AZOTAINA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Procedieron, actuaron",
+              "answer": "OBRARON"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Pedir, solicitar con empeño",
+              "answer": "EXORAR"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Alberga a alguien en un refugio",
+              "answer": "ASILA"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Frases que expresan una idea y sirven de guía",
+              "answer": "LEMAS"
+            },
+            "47": {
+              "col": 2,
+              "row": 9,
+              "clue": "Segunda ciudad más importante de Portugal después de Lisboa",
+              "answer": "OPORTO"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Triunfo, victoria",
+              "answer": "EXITO"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "El pintor de las bailarinas",
+              "answer": "DEGAS"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Casi, medio lo es",
+              "answer": "SEMI"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Pasé de dentro a fuera",
+              "answer": "SALI"
+            },
+            "60": {
+              "col": 4,
+              "row": 12,
+              "clue": "El Germanisches NationalMuseum",
+              "answer": "GNM"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Digital Audio Tape",
+              "answer": "DAT"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Pronombre personal",
+              "answer": "EL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"… Romo\" mexicana intérprete del tema 'Yo no te pido la luna' (1984)",
+              "answer": "DANIELA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"… Ricciarelli\" soprano italiana de ópera lírica",
+              "answer": "KATIA"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Pieza de tela que abriga la cabeza",
+              "answer": "GORRO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Castillo de Castilla",
+              "answer": "BELMONTE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Intensificación brusca de los síntomas de una enfermedad",
+              "answer": "CRISIS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Hace menos estético un lugar",
+              "answer": "AFEA"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Universidad Autónoma de Sinaloa",
+              "answer": "UAS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Percibí con el oído",
+              "answer": "OI"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Incapaz de reproducirse",
+              "answer": "ESTERIL"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Colmena de corcho",
+              "answer": "ARNA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Calificación académica alta que consta de dos sobresalientes",
+              "answer": "AAB"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Cambio ligero en una misma melodía",
+              "answer": "VARIACION"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "La canción más exitosa de Radiohead",
+              "answer": "CREEP"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Óscar Terol",
+              "answer": "OT"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Esta pista es la última en inglés",
+              "answer": "LAST"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… Bailey\" la nueva Ariel, en 'La Sirenita'",
+              "answer": "HALLE"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Guisa en la estufa",
+              "answer": "COCINA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "\"Hace tiempo que sueño con ella / y solo sé que se llama…\" Nino Bravo",
+              "answer": "NOELIA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Planta verde que cubre el césped",
+              "answer": "HIERBA"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Repugnancia o aversión que causa algo",
+              "answer": "NAUSEA"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Ave zancuda",
+              "answer": "GARZA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cuadernillo de ilustrador",
+              "answer": "BLOC"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Extinction Rebellion, mov ecologista de desobediencia civil no violento (siglas)",
+              "answer": "XR"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "A Dios le pido, poder decirte hasta luego",
+              "answer": "ADIOS"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Empleado que coloca la mercancía en las estanterías",
+              "answer": "REPONEDOR"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Antiguo festival musical iberoamericano",
+              "answer": "OTI"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Los señores de la casa",
+              "answer": "AMOS"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Sequedad anormal de la piel",
+              "answer": "XEROSIS"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"… Bano\" cantante italiano",
+              "answer": "AL"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Inform Tipo de archivo comprimido",
+              "answer": "RAR"
+            },
+            "60": {
+              "col": 4,
+              "row": 12,
+              "clue": "Prefijo que refiere significa mil millones de veces",
+              "answer": "GIGA"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Se hacía el loco con su responsabilidad",
+              "answer": "EVADIA"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tener un título que da autoridad, prestigio o renombre",
+              "answer": "OSTENTAR"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Son muy buenas las pelis de Nolan",
+              "answer": "MOLAN"
+            },
+            "66": {
+              "col": 2,
+              "row": 14,
+              "clue": "Estos árboles tienen unos lomos deformes",
+              "answer": "OLMOS"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Al ir a su casa, vi tiras dispersas y la junté",
+              "answer": "VISITAR"
+            }
+          }
+        },
+        "vertical_clues": "2-Se pondrán agrios, se…\r\n3-Nosotros en Italia\r\n4-Alejarse de un lugar \r\n5-Infección de la piel que puede causar enrojecimiento y fiebre\r\n6-Perdidos por esta serie \r\n7-Probiótico, excelente para la salud\r\n8-Flor de muy buen olor y diversos colores\r\n9-Toma Más Agua\r\n10-Una pareja de 10\r\n11-Medicina Cesación total de la secreción urinaria\r\n12-Persona que ha perdido su empleo en la administración pública \r\n14-No es caro por eso rotaba\r\n15-Forma de nombrar a los italianos en Argentina\r\n16-Persona que asesora a otra para desarrollarse (voz inglesa) \r\n21-Recuerdas con nostalgia\r\n22-Explicad, esclareced, dilucidad\r\n24-El padre de Egipto y Dánao\r\n27-Nómina de una compañía teatral (pl)\r\n32-Jinete mexicano de emblemático sombrero\r\n33-Par de flacas\r\n34-Imagen que ofrece invertidos los claros y oscuros (pl)\r\n36-Las vocales débiles\r\n38-Espíritu, valor, resolución\r\n39-Zurra de azotes\r\n40-Procedieron, actuaron \r\n42-Pedir, solicitar con empeño\r\n44-Alberga a alguien en un refugio\r\n46-Frases que expresan una idea y sirven de guía\r\n47-Segunda ciudad más importante de Portugal después de Lisboa\r\n51-Triunfo, victoria\r\n52-El pintor de las bailarinas\r\n56-Casi, medio lo es\r\n57-Pasé de dentro a fuera\r\n60-El Germanisches NationalMuseum\r\n62-Digital Audio Tape\r\n64-Pronombre personal",
+        "horizontal_clues": "1-\"… Romo\" mexicana intérprete del tema 'Yo no te pido la luna' (1984)\r\n7-\"… Ricciarelli\" soprano italiana de ópera lírica \r\n13-Pieza de tela que abriga la cabeza\r\n14-Castillo de Castilla-La Mancha que ha aparecido en cine\r\n16-Intensificación brusca de los síntomas de una enfermedad\r\n17-Hace menos estético un lugar\r\n18-Universidad Autónoma de Sinaloa \r\n19-Percibí con el oído\r\n20-Incapaz de reproducirse\r\n22-Colmena de corcho\r\n23-Calificación académica alta que consta de dos sobresalientes \r\n25-Cambio ligero en una misma melodía \r\n26-La canción más exitosa de Radiohead\r\n28-Óscar Terol\r\n29-Esta pista es la última en inglés\r\n30-\"… Bailey\" la nueva Ariel, en 'La Sirenita'\r\n31-Guisa en la estufa\r\n35-\"Hace tiempo que sueño con ella / y solo sé que se llama…\" Nino Bravo \r\n37-Planta verde que cubre el césped \r\n41-Repugnancia o aversión que causa algo\r\n43-Ave zancuda\r\n45-Cuadernillo de ilustrador\r\n48-Extinction Rebellion, mov ecologista de desobediencia civil no violento (siglas)\r\n49-A Dios le pido, poder decirte hasta luego\r\n50-Empleado que coloca la mercancía en las estanterías\r\n53-Antiguo festival musical iberoamericano\r\n54-Los señores de la casa\r\n55-Sequedad anormal de la piel\r\n58-\"… Bano\" cantante italiano\r\n59-Inform Tipo de archivo comprimido\r\n60-Prefijo que refiere significa mil millones de veces\r\n61-Se hacía el loco con su responsabilidad\r\n63-Tener un título que da autoridad, prestigio o renombre\r\n65-Son muy buenas las pelis de Nolan\r\n66-Estos árboles tienen unos lomos deformes\r\n67-Al ir a su casa, vi tiras dispersas y la junté",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,#,7,8,9,10,11,#,12\r\n#,13,#,#,#,#,#,14,#,#,#,#,#,15,#\r\n16,#,#,#,#,#,#,17,#,#,#,#,18,#,#\r\n19,#,#,20,#,#,21,#,#,#,#,22,#,#,#\r\n23,#,24,#,#,#,25,#,#,#,#,#,#,#,#\r\n26,#,#,27,#,#,28,#,#,#,#,29,#,#,#\r\n30,#,#,#,#,#,31,#,32,33,34,#,#,#,#\r\n#,35,#,#,#,36,#,#,37,#,#,#,38,39,#\r\n40,#,#,41,#,#,#,42,#,#,43,#,#,#,44\r\n45,46,47,#,#,#,#,48,#,#,49,#,#,#,#\r\n50,#,#,#,#,51,52,#,#,#,#,#,53,#,#\r\n54,#,#,#,#,55,#,#,#,56,#,57,#,58,#\r\n59,#,#,#,60,#,#,#,#,61,#,#,62,#,#\r\n63,#,#,64,#,#,#,#,#,65,#,#,#,#,#\r\n#,#,66,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

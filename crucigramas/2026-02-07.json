@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4771,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-06T15:01:51.181486Z",
+      "updatedAt": "2026-02-06T15:02:52.571512Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-07",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#MONAS#ENVIDIA#\r\nPAPADO#N#ELENCO\r\nARTROSIS#LINDOR\r\nREA#BACALAO#EPI\r\nRASPE#AYO#NECIO\r\nOSEO#TROLA#LIAN\r\nC##CURO#INCAS##\r\nOLIERA###DEBAJO\r\n##TRUMP#ERRO##C\r\nARAO#OESTE#RECA\r\nRELSB#SUN#ZONAS\r\nPSI#ADEREZO#TRI\r\nAMARGA#TOALLERO\r\nSANDEZ#I#CLARIN\r\n#SOSLAYO#KEGEL#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Palideces con las corrientes marinas",
+              "answer": "MAREAS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Eligiese la estopa enredada",
+              "answer": "OPTASE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Similitud entre Narnia y Naruto",
+              "answer": "NAR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Empresa de Software que creó el formato PDF",
+              "answer": "ADOBE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "¿Cómo osas decir que me quedó sin sal?",
+              "answer": "SOSA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Prueba previa a una actuación o evento",
+              "answer": "ENSAYO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "¿Quién te ha dado… en este entierro?",
+              "answer": "VELA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Hueso de la cadera",
+              "answer": "ILION"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Otorguen, entreguen",
+              "answer": "DEN"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Nunca sabe qué opción elegir, es muy…",
+              "answer": "INDECISA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Junta, reúne granos o  provisiones",
+              "answer": "ACOPIA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Cura que tiene una feligresía",
+              "answer": "PARROCO"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Él lleva un cinturón de estrellas",
+              "answer": "ORION"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "El hijo de Dédalo, que voló demasiado cerca del sol",
+              "answer": "ICARO"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Con cariño a Dolores",
+              "answer": "LOLI"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Oficio de quienes limpian los pozos",
+              "answer": "POCEROS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Creo un plan con mucho laboreo",
+              "answer": "ELABORO"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Tomar confundido otro trayecto",
+              "answer": "TRAMO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "\"… Agassi\", exjugador de tenis estadounidense",
+              "answer": "ANDRE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Uruguay no es tan guay",
+              "answer": "URU"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "El Certificado de Reducción de Emisiones del Protocolo de Kioto",
+              "answer": "CER"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Gentilicio de Gianluca Vacchi, influencer de Instagram",
+              "answer": "ITALIANO"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "Coches de segunda mano, de…",
+              "answer": "OCASION"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Use la balanza",
+              "answer": "PESE"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Relativo al volcán Etna, en Sicilia",
+              "answer": "ETNEO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Instrumento musical con 32 cuerdas (pl)",
+              "answer": "ARPAS"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Varias pacas de papel para escribir",
+              "answer": "RESMAS"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Suministró algo",
+              "answer": "SURTIO"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Lo supe, me lo contaron, ya me…",
+              "answer": "ENTERE"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "La vía para las bicicletas",
+              "answer": "CARRIL"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Rosquilla polaca cubierta de semillas",
+              "answer": "BAGEL"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Pocilga",
+              "answer": "ZOLLE"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Sorgo, planta gramínea cultivada como cereal",
+              "answer": "DAZA"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"… Morris\" prota de 'Salvado por la campana' (serie de los 90')",
+              "answer": "ZACK"
+            },
+            "59": {
+              "col": 3,
+              "row": 12,
+              "clue": "Siglas en inglés de sistema de radiodifusión de datos",
+              "answer": "RDS"
+            },
+            "61": {
+              "col": 11,
+              "row": 12,
+              "clue": "Retraso producido en una telecomunicación",
+              "answer": "LAG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Coquetas las orangutanas",
+              "answer": "MONAS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Perversa forma de admiración",
+              "answer": "ENVIDIA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Institución que ejerce la autoridad suprema en la Iglesia católica",
+              "answer": "PAPADO"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Todos los actores de la obra",
+              "answer": "ELENCO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Enfermedad crónica que degenera el cartílago de la articulación",
+              "answer": "ARTROSIS"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "¡Qué lindo!, me trajo bombones",
+              "answer": "LINDOR"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Madre de Zeus",
+              "answer": "REA"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Pez preciado por su carne y el aceite de su hígado",
+              "answer": "BACALAO"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Equipo de protección individual",
+              "answer": "EPI"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Froté algo perdiendo algo de su superficie",
+              "answer": "RASPE"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Niñero",
+              "answer": "AYO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Terco y porfiado",
+              "answer": "NECIO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "De la naturaleza del hueso",
+              "answer": "OSEO"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "España Engaño, falsedad, mentira",
+              "answer": "TROLA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Se asocian para fines deshonestos",
+              "answer": "LIAN"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Remedio un mal",
+              "answer": "CURO"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Soberanos del Cuzco, su último líder fue Atahualpa",
+              "answer": "INCAS"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Vaso en que se guarda el santo óleo o la crisma",
+              "answer": "OLIERA"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "¿Arriba?, no, al contrario",
+              "answer": "DEBAJO"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Presidente de los EEUU",
+              "answer": "TRUMP"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "No acertó, se equivocó",
+              "answer": "ERRO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Ave caradriforme de la familia Alcidae, nativa de Europa",
+              "answer": "ARAO"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Punto cardinal donde se oculta el sol",
+              "answer": "OESTE"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "El recado está incompleto",
+              "answer": "RECA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Rapero mallorquín autor del álbum 'La Isla LP'",
+              "answer": "RELSB"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Perdidos: La heredera coreana, de sumisa a líder",
+              "answer": "SUN"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Áreas, lugares",
+              "answer": "ZONAS"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Vigésima tercera letra del alfabeto griego",
+              "answer": "PSI"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Doy sabor a los alimentos",
+              "answer": "ADEREZO"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "No se completó el trío",
+              "answer": "TRI"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Que tiene el sabor de la quinina (fem)",
+              "answer": "AMARGA"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Soporte fijo para colgar prendas de felpa",
+              "answer": "TOALLERO"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Despropósito, simpleza, necedad",
+              "answer": "SANDEZ"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Instrumento musical de metal semejante a la trompeta",
+              "answer": "CLARIN"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Mirada de reojo, mirada de…",
+              "answer": "SOSLAYO"
+            },
+            "65": {
+              "col": 9,
+              "row": 14,
+              "clue": "Ejercicios de contracción y relajación vaginal",
+              "answer": "KEGEL"
+            }
+          }
+        },
+        "vertical_clues": "1-Palideces con las corrientes marinas\r\n2-Eligiese la estopa enredada\r\n3-Similitud entre Narnia y Naruto\r\n4-Empresa de Software que creó el formato PDF\r\n5-¿Cómo osas decir que me quedó sin sal? \r\n6-Prueba previa a una actuación o evento \r\n7-¿Quién te ha dado… en este entierro? \r\n8-Hueso de la cadera\r\n9-Otorguen, entreguen\r\n10-Nunca sabe qué opción elegir, es muy…\r\n11-Junta, reúne granos o  provisiones\r\n12-Cura que tiene una feligresía\r\n14-Él lleva un cinturón de estrellas\r\n16-El hijo de Dédalo, que voló demasiado cerca del sol\r\n20-Con cariño a Dolores\r\n23-Oficio de quienes limpian los pozos\r\n26-Creo un plan con mucho laboreo\r\n28-Tomar confundido otro trayecto\r\n29-\"… Agassi\", exjugador de tenis estadounidense\r\n32-Uruguay no es tan guay\r\n34-El Certificado de Reducción de Emisiones del Protocolo de Kioto\r\n36-Gentilicio de Gianluca Vacchi, influencer de Instagram\r\n38-Coches de segunda mano, de…\r\n40-Use la balanza\r\n41-Relativo al volcán Etna, en Sicilia\r\n42-Instrumento musical con 32 cuerdas (pl)\r\n43-Varias pacas de papel para escribir\r\n45-Suministró algo\r\n47-Lo supe, me lo contaron, ya me…\r\n48-La vía para las bicicletas\r\n50-Rosquilla polaca cubierta de semillas\r\n52-Pocilga\r\n55-Sorgo, planta gramínea cultivada como cereal\r\n56-\"… Morris\" prota de 'Salvado por la campana' (serie de los 90')\r\n59-Siglas en inglés de sistema de radiodifusión de datos\r\n61-Retraso producido en una telecomunicación",
+        "horizontal_clues": "1-Coquetas las orangutanas\r\n6-Perversa forma de admiración \r\n12-Institución que ejerce la autoridad suprema en la Iglesia católica \r\n13-Todos los actores de la obra\r\n15-Enfermedad crónica que degenera el cartílago de la articulación\r\n17-¡Qué lindo!, me trajo bombones\r\n18-Madre de Zeus\r\n19-Pez preciado por su carne y el aceite de su hígado\r\n21-Equipo de protección individual\r\n22-Froté algo perdiendo algo de su superficie\r\n24-Niñero\r\n25-Terco y porfiado\r\n27-De la naturaleza del hueso\r\n28-España Engaño, falsedad, mentira\r\n30-Se asocian para fines deshonestos\r\n31-Remedio un mal\r\n33-Soberanos del Cuzco, su último líder fue Atahualpa\r\n35-Vaso en que se guarda el santo óleo o la crisma\r\n37-¿Arriba?, no, al contrario\r\n39-Presidente de los EEUU \r\n41-No acertó, se equivocó\r\n42-Ave caradriforme de la familia Alcidae, nativa de Europa\r\n44-Punto cardinal donde se oculta el sol\r\n46-El recado está incompleto\r\n49-Rapero mallorquín autor del álbum 'La Isla LP'\r\n51-Perdidos: La heredera coreana, de sumisa a líder\r\n52-Áreas, lugares\r\n53-Vigésima tercera letra del alfabeto griego\r\n54-Doy sabor a los alimentos\r\n57-No se completó el trío\r\n58-Que tiene el sabor de la quinina (fem)\r\n60-Soporte fijo para colgar prendas de felpa \r\n62-Despropósito, simpleza, necedad\r\n63-Instrumento musical de metal semejante a la trompeta\r\n64-Mirada de reojo, mirada de…\r\n65-Ejercicios de contracción y relajación vaginal",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,#,#,#,16,#,#,17,#,#,#,#,#\r\n18,#,#,#,19,#,#,#,20,#,#,#,21,#,#\r\n22,#,#,23,#,#,24,#,#,#,25,26,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n#,#,#,31,32,#,#,#,33,#,34,#,#,#,#\r\n35,#,36,#,#,#,#,#,#,37,#,#,#,#,38\r\n#,#,39,#,#,#,40,#,41,#,#,#,#,#,#\r\n42,43,#,#,#,44,#,45,#,#,#,46,47,48,#\r\n49,#,#,#,50,#,51,#,#,#,52,#,#,#,#\r\n53,#,#,#,54,55,#,#,#,56,#,#,57,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#\r\n#,64,#,#,#,#,#,#,#,65,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

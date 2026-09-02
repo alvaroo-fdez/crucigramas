@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 724,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-14T20:54:51.039904Z",
+      "updatedAt": "2024-08-14T20:54:51.039927Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-15",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CRONICO#FORENSE\r\nL#JOSEP#ARASE#X\r\nALAMBRE#CALCULO\r\nMOLINAR#TRAERAN\r\nOGEN#SAQUE#NOVE\r\nRORAN#NAR#GANAR\r\n####E###AVISADA\r\nCOP#RGB#ROB#SAR\r\nAMATEUR###A####\r\nTIRRO#INC#NOBLE\r\nATEA#BLOOM#LIAN\r\nRECITAL#MORISCO\r\nASIDERO#PROVEER\r\nT#DOGOS#RAMAL#M\r\nAMOROSO#ALISARE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Toque de campanas por los difuntos.",
+              "answer": "CLAMOR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Aflojo el barullo cuando subo.",
+              "answer": "OJALER"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lista de personas que reciben su salario.",
+              "answer": "NOMINA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Identificador único para los libros publicados.",
+              "answer": "ISBN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Crayones para los más pequeños.",
+              "answer": "CERAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Intervienen quirúrgicamente.",
+              "answer": "OPERAN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Emitir un documento comercial.",
+              "answer": "FACTURAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Rogaré al Altísimo.",
+              "answer": "ORARE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Coloquial. El Salvador. Aguada.",
+              "answer": "RALA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "En una película, partes dotadas de unidad en sí mismas.",
+              "answer": "ESCENAS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cien mil millones, en la cabeza.",
+              "answer": "NEURONAS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Librar de una obligación o carga.",
+              "answer": "EXONERAR"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Símbolo gráfico peculiar de una empresa (pl).",
+              "answer": "LOGO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tipo de foto: \"Cara...\", la modelo sin maquillaje.",
+              "answer": "LAVADA"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "Dominio web para Catar.",
+              "answer": "QA"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Mit. Griega. Dios de las olas del mar.",
+              "answer": "NEREO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Fastidian, molestan.",
+              "answer": "GIBAN"
+            },
+            "30": {
+              "col": 9,
+              "row": 6,
+              "clue": "Volver al occidente.",
+              "answer": "VO"
+            },
+            "31": {
+              "col": 0,
+              "row": 7,
+              "clue": "Esta cascada me nubla la vista.",
+              "answer": "CATARATA"
+            },
+            "32": {
+              "col": 1,
+              "row": 7,
+              "clue": "Ignoras, pasas por alto.",
+              "answer": "OMITES"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Semejante en apariencia.",
+              "answer": "PARECIDO"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Guía incompleta.",
+              "answer": "GU"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "Lustroso.",
+              "answer": "BRILLOSO"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "La tórrida tergiversación del judas.",
+              "answer": "TRAIDOR"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Petición denegada.",
+              "answer": "NO"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Adquisición de un bien o servicio.",
+              "answer": "COMPRA"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "Fruta base del llamado oro líquido de Italia (pl).",
+              "answer": "OLIVAS"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Haz un corte oblicuo en el borde del espejo.",
+              "answer": "BISELA"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Atrapé a la res con el lazo, la...",
+              "answer": "LACE"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Desmedido, excesivo, inmenso.",
+              "answer": "ENORME"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Una de las 1192 islas de las Maldivas.",
+              "answer": "BAROS"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Ciencia que trata del bien.",
+              "answer": "MORAL"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"... Calderón\" cantante boricua considerado el 'El Papá del Reguetón'.",
+              "answer": "TEGO"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Lo que tiene Romina de bromista.",
+              "answer": "ROMI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Un padecimiento que no se cura.",
+              "answer": "CRONICO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Medicina legal, medicina...",
+              "answer": "FORENSE"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "\"... Puig i Cadafalch\" diseñó la Casa de les Punxes en Barcelona.",
+              "answer": "JOSEP"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Surcase las tierras.",
+              "answer": "ARASE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "No está bien embalar con hilos de metal.",
+              "answer": "ALAMBRE"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Contabilizo mis piedras en los riñones.",
+              "answer": "CALCULO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Sitio donde están los molinos.",
+              "answer": "MOLINAR"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Retarán al caos y entrará en orden, y portarán la paz.",
+              "answer": "TRAERAN"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ojos en neerlandés.",
+              "answer": "OGEN"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo quité del partido.",
+              "answer": "SAQUE"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Perdió las gafas y ahora... (dos palabras).",
+              "answer": "NOVE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Cubran de rocío.",
+              "answer": "RORAN"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Similitud entre Narnia y Naruto.",
+              "answer": "NAR"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Triunfar, derrotar, vencer.",
+              "answer": "GANAR"
+            },
+            "29": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"Guerra... no mata a soldado\".",
+              "answer": "AVISADA"
+            },
+            "31": {
+              "col": 0,
+              "row": 7,
+              "clue": "Policía en inglés.",
+              "answer": "COP"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Código de color.",
+              "answer": "RGB"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Robo frustrado.",
+              "answer": "ROB"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Su Alteza Real.",
+              "answer": "SAR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "No profesional.",
+              "answer": "AMATEUR"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cinta adhesiva a base de papel.",
+              "answer": "TIRRO"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Abreviatura de la forma legal \"Incorporation\".",
+              "answer": "INC"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Honroso y honorable el ilustre hidalgo.",
+              "answer": "NOBLE"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "No creyente, ella.",
+              "answer": "ATEA"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Will Turner en \"Piratas del Caribe\".",
+              "answer": "BLOOM"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Se asocian para fines deshonestos.",
+              "answer": "LIAN"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Concierto, presentación musical.",
+              "answer": "RECITAL"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Descendiente de musulmanes en la España medieval.",
+              "answer": "MORISCO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Así de roto quedó el asa de la jarra.",
+              "answer": "ASIDERO"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Suministrar lo necesario.",
+              "answer": "PROVEER"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Perros argentinos.",
+              "answer": "DOGOS"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Parte que arranca de la línea principal de un camino.",
+              "answer": "RAMAL"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Afectuoso, cariñoso.",
+              "answer": "AMOROSO"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Me plancharé el cabello, me lo...",
+              "answer": "ALISARE"
+            }
+          }
+        },
+        "vertical_clues": "1-Toque de campanas por los difuntos.\r\n2-Aflojo el barullo cuando subo.\r\n3-Lista de personas que reciben su salario. \r\n4-Identificador único para los libros publicados. \r\n5-Crayones para los más pequeños.\r\n6-Intervienen quirúrgicamente.\r\n7-Emitir un documento comercial. \r\n8-Rogaré al Altísimo.\r\n9-Coloquial. El Salvador. Aguada.\r\n10-En una película, partes dotadas de unidad en sí mismas.\r\n11-Cien mil millones, en la cabeza.\r\n12-Librar de una obligación o carga. \r\n16-Símbolo gráfico peculiar de una empresa (pl).\r\n18-Tipo de foto: \"Cara...\", la modelo sin maquillaje.\r\n23-Dominio web para Catar.\r\n26-Mit. Griega. Dios de las olas del mar.\r\n28-Fastidian, molestan.\r\n30-Volver al occidente.\r\n31-Esta cascada me nubla la vista.\r\n32-Ignoras, pasas por alto.\r\n33-Semejante en apariencia. \r\n35-Guía incompleta.\r\n36-Lustroso.\r\n40-La tórrida tergiversación del judas.\r\n43-Petición denegada.\r\n44-Adquisición de un bien o servicio. \r\n46-Fruta base del llamado oro líquido de Italia (pl).\r\n47-Haz un corte oblicuo en el borde del espejo.\r\n48-Atrapé a la res con el lazo, la...\r\n49-Desmedido, excesivo, inmenso.\r\n51-Una de las 1192 islas de las Maldivas.\r\n52-Ciencia que trata del bien.\r\n55-\"... Calderón\" cantante boricua considerado el 'El Papá del Reguetón'.\r\n57-Lo que tiene Romina de bromista.",
+        "horizontal_clues": "1-Un padecimiento que no se cura.\r\n7-Medicina legal, medicina...\r\n13-\"... Puig i Cadafalch\" diseñó la Casa de les Punxes en Barcelona.\r\n14-Surcase las tierras.\r\n15-No está bien embalar con hilos de metal.\r\n17-Contabilizo mis piedras en los riñones.\r\n19-Sitio donde están los molinos.\r\n20-Retarán al caos y entrará en orden, y portarán la paz.\r\n21-Ojos en neerlandés.\r\n22-Lo quité del partido.\r\n24-Perdió las gafas y ahora... (dos palabras).\r\n25-Cubran de rocío.\r\n27-Similitud entre Narnia y Naruto.\r\n28-Triunfar, derrotar, vencer.\r\n29-\"Guerra... no mata a soldado\".\r\n31-Policía en inglés.\r\n34-Código de color.\r\n37-Robo frustrado.\r\n38-Su Alteza Real.\r\n39-No profesional.\r\n41-Cinta adhesiva a base de papel.\r\n42-Abreviatura de la forma legal \"Incorporation\".\r\n45-Honroso y honorable el ilustre hidalgo.\r\n50-No creyente, ella.\r\n51-Will Turner en \"Piratas del Caribe\".\r\n53-Se asocian para fines deshonestos.\r\n54-Concierto, presentación musical.\r\n56-Descendiente de musulmanes en la España medieval. \r\n58-Así de roto quedó el asa de la jarra.\r\n59-Suministrar lo necesario. \r\n60-Perros argentinos.\r\n61-Parte que arranca de la línea principal de un camino.\r\n62-Afectuoso, cariñoso.\r\n63-Me plancharé el cabello, me lo...",
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,#,14,#,#,#,#,#,#\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,22,#,23,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,27,#,#,#,28,#,#,#,#\r\n#,#,#,#,#,#,#,#,29,30,#,#,#,#,#\r\n31,32,33,#,34,35,36,#,37,#,#,#,38,#,#\r\n39,#,#,40,#,#,#,#,#,#,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,44,#,45,46,47,48,49\r\n50,#,#,#,#,51,#,#,#,52,#,53,#,#,#\r\n54,#,#,#,55,#,#,#,56,#,57,#,#,#,#\r\n58,#,#,#,#,#,#,#,59,#,#,#,#,#,#\r\n#,#,60,#,#,#,#,#,61,#,#,#,#,#,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

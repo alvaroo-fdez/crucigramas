@@ -1,0 +1,490 @@
+{
+  "data": {
+    "id": 4752,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-27T18:08:05.802603Z",
+      "updatedAt": "2026-01-27T18:08:05.815543Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-28",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##REVERENCIA##B\r\n#MOLINILLO#LAMA\r\nRAN#ORO###MELAS\r\nALCALA#VARIABLE\r\nMIELES#ACARREO#\r\nP##ATAN#TRAERSE\r\nAPAGAR#DUOS#G#S\r\nNEVO##PAE##FUET\r\nT#E#OYES#PERECE\r\nESCAPAD#NADE##R\r\n#TITANIC#DOOHAN\r\nGENOCIDA#EUNUCO\r\nOVARA###ACA#MEN\r\nMERA#POSTERIOR#\r\nA##RESPLANDOR##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Manifestación de cariño a alguien para conseguir un fin",
+              "answer": "RONCE"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Pronombre personal",
+              "answer": "EL"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Este color hace perder el norte a la violenta",
+              "answer": "VIOLETA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Llenar un recipiente hasta un determinado nivel o marca",
+              "answer": "ENRASAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Lo es el Turia o el Guadalquivir",
+              "answer": "RIO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Artículo de hotel",
+              "answer": "EL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Dominio web para los Países Bajos",
+              "answer": "NL"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Símbolo químico del cobalto",
+              "answer": "CO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Mezclaré los metales",
+              "answer": "ALEARE"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Beisbol Almohadilla en los vértices del diamante",
+              "answer": "BASE"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "País africano cuya capital es Bamako",
+              "answer": "MALI"
+            },
+            "13": {
+              "col": 12,
+              "row": 1,
+              "clue": "Resguardé, cobijé",
+              "answer": "ALBERGUE"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "Los villanos, los…",
+              "answer": "MALOS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Típica postura del león heráldico",
+              "answer": "RAMPANTE"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Lo ves",
+              "answer": "MIRAS"
+            },
+            "19": {
+              "col": 3,
+              "row": 3,
+              "clue": "Formo charcos o lagos en un terreno",
+              "answer": "ALAGO"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Se dirige hacia allá",
+              "answer": "VA"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Interpreté un papel",
+              "answer": "ACTUE"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Poco común o frecuente",
+              "answer": "RARO"
+            },
+            "27": {
+              "col": 14,
+              "row": 5,
+              "clue": "Hueso del tórax donde se unen las costillas",
+              "answer": "ESTERNON"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Pedir poco",
+              "answer": "PE"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "Acercar, aproximar",
+              "answer": "AVECINAR"
+            },
+            "31": {
+              "col": 7,
+              "row": 6,
+              "clue": "Entregas, otorgas, donas",
+              "answer": "DAS"
+            },
+            "33": {
+              "col": 6,
+              "row": 7,
+              "clue": "Rogad o demandad",
+              "answer": "PEDID"
+            },
+            "34": {
+              "col": 11,
+              "row": 7,
+              "clue": "Refrigerante derivado del metano, no inflamable",
+              "answer": "FREON"
+            },
+            "35": {
+              "col": 13,
+              "row": 7,
+              "clue": "Dominio web para Ecuador",
+              "answer": "EC"
+            },
+            "36": {
+              "col": 4,
+              "row": 8,
+              "clue": "Sin brillo",
+              "answer": "OPACA"
+            },
+            "37": {
+              "col": 5,
+              "row": 8,
+              "clue": "A Yanira con cariño",
+              "answer": "YANI"
+            },
+            "38": {
+              "col": 9,
+              "row": 8,
+              "clue": "Sufren, adolecen",
+              "answer": "PADECEN"
+            },
+            "39": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"… Manet\" pintor precursor del impresionismo francés",
+              "answer": "EDOUARD"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"… Jobs\" cofundador de Apple",
+              "answer": "STEVE"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Atascar, obstruir",
+              "answer": "ATORAR"
+            },
+            "45": {
+              "col": 7,
+              "row": 10,
+              "clue": "Cara cortada",
+              "answer": "CA"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "Es vítreo, el gel del ojo",
+              "answer": "HUMOR"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Compañía taiwanesa fabricante de computadoras",
+              "answer": "ACER"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tira o banda elástica",
+              "answer": "GOMA"
+            },
+            "52": {
+              "col": 8,
+              "row": 12,
+              "clue": "Amarra a la momia de Atacama",
+              "answer": "ATA"
+            },
+            "55": {
+              "col": 5,
+              "row": 13,
+              "clue": "Los bordes de las pizzas",
+              "answer": "PS"
+            },
+            "56": {
+              "col": 6,
+              "row": 13,
+              "clue": "Oriol Paulo (guionista y director de cine español)",
+              "answer": "OP"
+            },
+            "57": {
+              "col": 7,
+              "row": 13,
+              "clue": "Iniciales del creador de Marvel Studios",
+              "answer": "SL"
+            },
+            "58": {
+              "col": 11,
+              "row": 13,
+              "clue": "Luna de Júpiter",
+              "answer": "IO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inclinación del cuerpo en señal de respeto",
+              "answer": "REVERENCIA"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "El aparatillo para moler la pimienta",
+              "answer": "MOLINILLO"
+            },
+            "12": {
+              "col": 11,
+              "row": 1,
+              "clue": "Budismo tibetano Palabra que designa al maestro espiritual",
+              "answer": "LAMA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Diosa escandinava que lleva a los ahogados a su morada",
+              "answer": "RAN"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "No todo lo que brilla es…",
+              "answer": "ORO"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Endulzas",
+              "answer": "MELAS"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Una de las Puertas de Madrid",
+              "answer": "ALCALA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "La X o la Y, en una función matemática",
+              "answer": "VARIABLE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Principal producto que deriva de la apicultura (pl)",
+              "answer": "MIELES"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Traigo en mi carro todas las consecuencias",
+              "answer": "ACARREO"
+            },
+            "25": {
+              "col": 3,
+              "row": 5,
+              "clue": "Amarran, anudan",
+              "answer": "ATAN"
+            },
+            "26": {
+              "col": 8,
+              "row": 5,
+              "clue": "Venirse con ello, ponerse",
+              "answer": "TRAERSE"
+            },
+            "28": {
+              "col": 0,
+              "row": 6,
+              "clue": "Extinguir, sofocar el fuego",
+              "answer": "APAGAR"
+            },
+            "31": {
+              "col": 7,
+              "row": 6,
+              "clue": "Pares, duplas",
+              "answer": "DUOS"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cayó mucha nieve",
+              "answer": "NEVO"
+            },
+            "33": {
+              "col": 6,
+              "row": 7,
+              "clue": "Puntos de Atención al Emprendedor",
+              "answer": "PAE"
+            },
+            "34": {
+              "col": 11,
+              "row": 7,
+              "clue": "Embutido típico de Cataluña",
+              "answer": "FUET"
+            },
+            "36": {
+              "col": 4,
+              "row": 8,
+              "clue": "Escuchas",
+              "answer": "OYES"
+            },
+            "38": {
+              "col": 9,
+              "row": 8,
+              "clue": "Se muere, eso parece",
+              "answer": "PERECE"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Huid, desertad",
+              "answer": "ESCAPAD"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Impúlsese en el agua con la fuerza de sus brazos",
+              "answer": "NADE"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Se hundió por un iceberg",
+              "answer": "TITANIC"
+            },
+            "46": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Mick…\" excorredor de MotoGP australiano",
+              "answer": "DOOHAN"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Autor de la aniquilación sistemática de un pueblo o grupo étnico",
+              "answer": "GENOCIDA"
+            },
+            "50": {
+              "col": 9,
+              "row": 11,
+              "clue": "Hombre castrado",
+              "answer": "EUNUCO"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "¿Le pondrá huevos?",
+              "answer": "OVARA"
+            },
+            "52": {
+              "col": 8,
+              "row": 12,
+              "clue": "Aquí, entrando en la academia",
+              "answer": "ACA"
+            },
+            "53": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"X …\" La patrulla X",
+              "answer": "MEN"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "La Reina de Atlantis, la esposa de Acuamán",
+              "answer": "MERA"
+            },
+            "55": {
+              "col": 5,
+              "row": 13,
+              "clue": "La parte trasera del cuerpo",
+              "answer": "POSTERIOR"
+            },
+            "59": {
+              "col": 3,
+              "row": 14,
+              "clue": "\"El…\" peli de Kubrick y su prota Jack Nicholson (1980)",
+              "answer": "RESPLANDOR"
+            }
+          }
+        },
+        "vertical_clues": "1-Manifestación de cariño a alguien para conseguir un fin\r\n2-Pronombre personal\r\n3-Este color hace perder el norte a la violenta\r\n4-Llenar un recipiente hasta un determinado nivel o marca\r\n5-Lo es el Turia o el Guadalquivir\r\n6-Artículo de hotel\r\n7-Dominio web para los Países Bajos\r\n8-Símbolo químico del cobalto\r\n9-Mezclaré los metales\r\n10-Beisbol Almohadilla en los vértices del diamante\r\n11-País africano cuya capital es Bamako\r\n13-Resguardé, cobijé\r\n14-Los villanos, los…\r\n15-Típica postura del león heráldico \r\n17-Lo ves\r\n19-Formo charcos o lagos en un terreno\r\n20-Se dirige hacia allá\r\n21-Interpreté un papel\r\n22-Poco común o frecuente\r\n27-Hueso del tórax donde se unen las costillas\r\n29-Pedir poco\r\n30-Acercar, aproximar\r\n31-Entregas, otorgas, donas\r\n33-Rogad o demandad\r\n34-Refrigerante derivado del metano, no inflamable\r\n35-Dominio web para Ecuador\r\n36-Sin brillo\r\n37-A Yanira con cariño\r\n38-Sufren, adolecen\r\n39-\"… Manet\" pintor precursor del impresionismo francés\r\n41-\"… Jobs\" cofundador de Apple\r\n42-Atascar, obstruir\r\n45-Cara cortada\r\n47-Es vítreo, el gel del ojo\r\n48-Compañía taiwanesa fabricante de computadoras\r\n49-Tira o banda elástica\r\n52-Amarra a la momia de Atacama\r\n55-Los bordes de las pizzas\r\n56-Oriol Paulo (guionista y director de cine español) \r\n57-Iniciales del creador de Marvel Studios\r\n58-Luna de Júpiter\r\n",
+        "horizontal_clues": "1-Inclinación del cuerpo en señal de respeto\r\n11-El aparatillo para moler la pimienta \r\n12-Budismo tibetano Palabra que designa al maestro espiritual\r\n15-Diosa escandinava que lleva a los ahogados a su morada\r\n16-No todo lo que brilla es…\r\n17-Endulzas\r\n18-Una de las Puertas de Madrid\r\n20-La X o la Y, en una función matemática\r\n23-Principal producto que deriva de la apicultura (pl)\r\n24-Traigo en mi carro todas las consecuencias\r\n25-Amarran, anudan \r\n26-Venirse con ello, ponerse\r\n28-Extinguir, sofocar el fuego\r\n31-Pares, duplas\r\n32-Cayó mucha nieve\r\n33-Puntos de Atención al Emprendedor\r\n34-Embutido típico de Cataluña\r\n36-Escuchas\r\n38-Se muere, eso parece\r\n40-Huid, desertad\r\n43-Impúlsese en el agua con la fuerza de sus brazos\r\n44-Se hundió por un iceberg\r\n46-\"Mick…\" excorredor de MotoGP australiano\r\n49-Autor de la aniquilación sistemática de un pueblo o grupo étnico \r\n50-Hombre castrado\r\n51-¿Le pondrá huevos? \r\n52-Aquí, entrando en la academia\r\n53-\"X …\" La patrulla X\r\n54-La Reina de Atlantis, la esposa de Acuamán\r\n55-La parte trasera del cuerpo \r\n59-\"El…\" peli de Kubrick y su prota Jack Nicholson (1980)\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,6,7,8,#,9,#,#,10\r\n#,11,#,#,#,#,#,#,#,#,#,12,13,14,#\r\n15,#,#,#,16,#,#,#,#,#,17,#,#,#,#\r\n18,#,#,19,#,#,#,20,21,22,#,#,#,#,#\r\n23,#,#,#,#,#,#,24,#,#,#,#,#,#,#\r\n#,#,#,25,#,#,#,#,26,#,#,#,#,#,27\r\n28,29,30,#,#,#,#,31,#,#,#,#,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,34,#,35,#\r\n#,#,#,#,36,37,#,#,#,38,39,#,#,#,#\r\n40,41,#,42,#,#,#,#,43,#,#,#,#,#,#\r\n#,44,#,#,#,#,#,45,#,46,#,#,47,48,#\r\n49,#,#,#,#,#,#,#,#,50,#,#,#,#,#\r\n51,#,#,#,#,#,#,#,52,#,#,#,53,#,#\r\n54,#,#,#,#,55,56,57,#,#,#,58,#,#,#\r\n#,#,#,59,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

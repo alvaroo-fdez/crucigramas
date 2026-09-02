@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6716,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-15T22:24:38.163802Z",
+      "updatedAt": "2026-07-15T22:26:04.606666Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-16",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "APLASTO#ARREBOL\r\nPIOS#ADULE#SETE\r\nURGE#RIÑON#PERO\r\nNEONATO#COLOFON\r\nT##TRASPASAR##E\r\nAPTAR#OOO#TALAR\r\nREIRIA#N#PISALA\r\n#RZ#MIA#KUN#TI#\r\nEROGAR#L#TIBISI\r\nSONAR#MED#DUNAS\r\nC##NATIVIDAD##L\r\nAPLANAR#ARDILLA\r\nLOAS#CALLE#SION\r\nESTE#ESSEN#TEJE\r\nSAINETE#SABANAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Señalar con el dedo algo",
+              "answer": "APUNTAR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Me fui, me largué",
+              "answer": "PIRE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo gráfico peculiar de una empresa (pl)",
+              "answer": "LOGO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Fundar, establecer un pueblo",
+              "answer": "ASENTAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "En el centro de la mesa en un cumpleaños",
+              "answer": "TARTA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Antipático, repelente",
+              "answer": "ODIOSO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Como tiene Bad Gyal a Omar Montes",
+              "answer": "ALOCAO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Los que llevan el trineo de Santa",
+              "answer": "RENOS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Células reproductoras de los hongos",
+              "answer": "ESPORAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Anglicismo usado en redes que denota conflicto y pelea",
+              "answer": "BEEF"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Está roto, dame…",
+              "answer": "OTRO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Jaula de los leones",
+              "answer": "LEONERA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Uña rota",
+              "answer": "UÑ"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Acercarán o pondrán algo junto a otra cosa",
+              "answer": "ARRIMARAN"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "El modo de ser, los atributos de la comunidad de Latam",
+              "answer": "LATINIDAD"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"Pin…\", se lava su carita con agua y con jabón",
+              "answer": "PON"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "\"… que ladra, no muerde\"",
+              "answer": "PERRO"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Palo medio quemado",
+              "answer": "TIZON"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "El idioma de los exorcismos",
+              "answer": "LATIN"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Le plancha el cabello a Lisa",
+              "answer": "ALISA"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Se nos termina el aire",
+              "answer": "AIR"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "'Poner' en inglés",
+              "answer": "PUT"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Que trepes y asciendas",
+              "answer": "ESCALES"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Percibiesen dinero, cobrasen",
+              "answer": "GANASEN"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Espeque de que se sirven los artilleros",
+              "answer": "LEV"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "La súbdita desorientada se convierte a esta religión dhármica",
+              "answer": "BUDISTA"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "El islandés pagó 500, por unos velos de encaje antiguos",
+              "answer": "ISLANES"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Observase, viese",
+              "answer": "MIRASE"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Controles graduados de un aparato de radio antiguo",
+              "answer": "DIALES"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prolongado silencio de un fragmento musical",
+              "answer": "TACET"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Da salida a las aguas muertas",
+              "answer": "DRENA"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Ponte para la foto",
+              "answer": "POSA"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "Bombeé como el corazón",
+              "answer": "LATI"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Hagan un piti",
+              "answer": "LIEN"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Conocida como la ciudad del agua, en Granada",
+              "answer": "LOJA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Derrotó completamente al rival",
+              "answer": "APLASTO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Color rojo de las nubes iluminadas por los rayos del sol",
+              "answer": "ARREBOL"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Devotos, inclinados a la piedad",
+              "answer": "PIOS"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Exalte, loe",
+              "answer": "ADULE"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Desuso: Oficina de cambio de moneda donde estaba el cepo para acuñar al martillo",
+              "answer": "SETE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Es de vida o muerte, por eso ruge como loco",
+              "answer": "URGE"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Cada una de las glándulas secretorias de la orina",
+              "answer": "RIÑON"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "\"Sí… no\" canción del último álbum de Sho-Hai",
+              "answer": "PERO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Recién nacido",
+              "answer": "NEONATO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "En la nota final del libro dice la ciudad donde pudo nacer Homero",
+              "answer": "COLOFON"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Atravesar y llegar al otro lado",
+              "answer": "TRASPASAR"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hacer apto o adecuado para un fin específico",
+              "answer": "APTAR"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Las luces de un semáforo",
+              "answer": "OOO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Devastar un bosque",
+              "answer": "TALAR"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Carcajearía, sonreiría",
+              "answer": "REIRIA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Ponle el pie encima y verás a las pailas vibrar",
+              "answer": "PISALA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "En la cintura de Tarzán",
+              "answer": "RZ"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "\"… Khalifa\" exactriz pornográfica libanesa",
+              "answer": "MIA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"… Agüero\" exfutbolista argentino",
+              "answer": "KUN"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Distribuir, repartir bienes o caudales",
+              "answer": "EROGAR"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Venezuela: Especie de carrizo silvestre cuyas hojas sirven de forraje al ganado vacuno",
+              "answer": "TIBISI"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo peor que hace la alarma de la mañana",
+              "answer": "SONAR"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Abrev de medicina",
+              "answer": "MED"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Colinas de arenas movedizas",
+              "answer": "DUNAS"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Celebración del nacimiento de Jesús en Belén",
+              "answer": "NATIVIDAD"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Eliminar los desniveles de un terreno",
+              "answer": "APLANAR"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "\"… voladora\" animal en el que se inspiraron para crear el traje aéreo",
+              "answer": "ARDILLA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Glorificas el trabajo de alguien y lo honras",
+              "answer": "LOAS"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "Vía pública",
+              "answer": "CALLE"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Monte de Jerusalén",
+              "answer": "SION"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"Bloque del…\" liderado por la URSS, durante la Guerra Fría",
+              "answer": "ESTE"
+            },
+            "64": {
+              "col": 5,
+              "row": 13,
+              "clue": "La primera ciudad que decoró sus calles en Navidad (Alemania)",
+              "answer": "ESSEN"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Entrelaza hilos para formar telas",
+              "answer": "TEJE"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Situación tragicómica",
+              "answer": "SAINETE"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Hábitat de los leones (pl)",
+              "answer": "SABANAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Señalar con el dedo algo\r\n2-Me fui, me largué\r\n3-Símbolo gráfico peculiar de una empresa (pl)\r\n4-Fundar, establecer un pueblo\r\n5-En el centro de la mesa en un cumpleaños\r\n6-Antipático, repelente\r\n7-Como tiene Bad Gyal a Omar Montes\r\n8-Los que llevan el trineo de Santa\r\n9-Células reproductoras de los hongos\r\n10-Anglicismo usado en redes que denota conflicto y pelea\r\n11-Está roto, dame…\r\n12-Jaula de los leones \r\n15-Uña rota\r\n21-Acercarán o pondrán algo junto a otra cosa\r\n23-El modo de ser, los atributos de la comunidad de Latam\r\n25-\"Pin…\", se lava su carita con agua y con jabón\r\n27-\"… que ladra, no muerde\" \r\n28-Palo medio quemado\r\n31-El idioma de los exorcismos\r\n32-Le plancha el cabello a Lisa\r\n34-Se nos termina el aire\r\n35-'Poner' en inglés\r\n40-Que trepes y asciendas\r\n41-Percibiesen dinero, cobrasen\r\n42-Espeque de que se sirven los artilleros \r\n44-La súbdita desorientada se convierte a esta religión dhármica\r\n45-El islandés pagó 500, por unos velos de encaje antiguos\r\n47-Observase, viese\r\n48-Controles graduados de un aparato de radio antiguo \r\n51-Prolongado silencio de un fragmento musical\r\n52-Da salida a las aguas muertas\r\n54-Ponte para la foto\r\n55-Bombeé como el corazón\r\n57-Hagan un piti\r\n58-Conocida como la ciudad del agua, en Granada\r\n61-Iniciales del creador de los jeans o vaqueros",
+        "horizontal_clues": "1-Derrotó completamente al rival \r\n7-Color rojo de las nubes iluminadas por los rayos del sol \r\n13-Devotos, inclinados a la piedad\r\n14-Exalte, loe\r\n16-Desuso: Oficina de cambio de moneda donde estaba el cepo para acuñar al martillo\r\n17-Es de vida o muerte, por eso ruge como loco\r\n18-Cada una de las glándulas secretorias de la orina\r\n19-\"Sí… no\" canción del último álbum de Sho-Hai\r\n20-Recién nacido\r\n22-En la nota final del libro dice la ciudad donde pudo nacer Homero\r\n24-Atravesar y llegar al otro lado\r\n26-Hacer apto o adecuado para un fin específico \r\n29-Las luces de un semáforo\r\n30-Devastar un bosque\r\n33-Carcajearía, sonreiría\r\n35-Ponle el pie encima y verás a las pailas vibrar\r\n36-En la cintura de Tarzán\r\n37-\"… Khalifa\" exactriz pornográfica libanesa\r\n38-\"… Agüero\" exfutbolista argentino\r\n39-Titanio\r\n40-Distribuir, repartir bienes o caudales\r\n43-Venezuela: Especie de carrizo silvestre cuyas hojas sirven de forraje al ganado vacuno\r\n46-Lo peor que hace la alarma de la mañana\r\n47-Abrev de medicina\r\n49-Colinas de arenas movedizas\r\n50-Celebración del nacimiento de Jesús en Belén\r\n53-Eliminar los desniveles de un terreno\r\n56-\"… voladora\" animal en el que se inspiraron para crear el traje aéreo\r\n59-Glorificas el trabajo de alguien y lo honras\r\n60-Vía pública\r\n62-Monte de Jerusalén \r\n63-\"Bloque del…\" liderado por la URSS, durante la Guerra Fría\r\n64-La primera ciudad que decoró sus calles en Navidad (Alemania)\r\n65-Entrelaza hilos para formar telas\r\n66-Situación tragicómica\r\n67-Hábitat de los leones (pl)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,15,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,21,#,#,#,22,#,23,#,#,#,#\r\n#,#,#,24,#,#,#,25,#,#,#,#,#,#,#\r\n26,27,28,#,#,#,29,#,#,#,30,#,31,32,#\r\n33,#,#,#,#,34,#,#,#,35,#,#,#,#,#\r\n#,36,#,#,37,#,#,#,38,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,42,#,43,#,44,#,#,45\r\n46,#,#,#,#,#,47,#,48,#,49,#,#,#,#\r\n#,#,#,50,#,51,#,#,#,52,#,#,#,#,#\r\n53,54,55,#,#,#,#,#,56,#,#,#,57,58,#\r\n59,#,#,#,#,60,#,61,#,#,#,62,#,#,#\r\n63,#,#,#,#,64,#,#,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,#,#,67,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

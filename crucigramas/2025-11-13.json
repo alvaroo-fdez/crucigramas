@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 3903,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.856785Z",
+      "updatedAt": "2025-11-06T12:56:03.919814Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-13",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#HIPABA#CALAMAR\r\nTURULECA#MOFA#U\r\nIA#FORUM#ASENTI\r\nSOR#ENCARNACION\r\nAROM#AIRES#TAPO\r\nNABAB#AGUANOSOS\r\nANACARDO#RA###O\r\n#IDONEO#VACILA#\r\nA###AC#GENERICO\r\nTABULADOR#RIMAS\r\nALAS#MONOS#LOBA\r\nCATAMARANES#NAD\r\nANIMAR#DIRAN#RI\r\nM#DOPA#ACADEMIA\r\nACOSASE#ASEDIA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Pueblo indígena ecuatoriano protector del Amazonas",
+              "answer": "HUAORANI"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Entrando a Irlanda",
+              "answer": "IR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Asiento blando sin patas ni respaldo",
+              "answer": "PUF"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"… vera\" regenerador de la piel natural",
+              "answer": "ALOE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Capital de facto de Suiza",
+              "answer": "BERNA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Inquietado, desazonado",
+              "answer": "ACUCIADO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Domarán a bestia",
+              "answer": "AMANSARAN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Piedra llana y de poco grueso que sirve para solar",
+              "answer": "LOSA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Muestra de amor que un ser humano brinda otros",
+              "answer": "AFECTO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Caprichos, antojos, obsesiones",
+              "answer": "MANIAS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Pequeño, desmedrado y que no puede aprovecharse",
+              "answer": "RUINOSO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Infusión medicinal digestiva a base de hierbas",
+              "answer": "TISANA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Sabor a hiel",
+              "answer": "AMARGO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Se chocó con el espía",
+              "answer": "TOPO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Quitad o tomad para sí con violencia o con fuerza lo ajeno",
+              "answer": "ROBAD"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Una reunión corta, por favor",
+              "answer": "REU"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Malo, pícaro, bellaco",
+              "answer": "MACO"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Trivial, insustancial",
+              "answer": "BANAL"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Venir a este mundo para cenar carne",
+              "answer": "NACER"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Cuarto situado detrás de la habitación principal (pl)",
+              "answer": "RECAMARAS"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"… Romero\" cantante española, finalista de 'Operación triunfo 2001'",
+              "answer": "VERONICA"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Árbol de El Salvador",
+              "answer": "IRIL"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Fruta comestible de sabor ácido y extremadamente fragante",
+              "answer": "LIMON"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Perfeccionaría, terminaría una obra",
+              "answer": "ACABARIA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Desierto más seco del mundo",
+              "answer": "ATACAMA"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Órgano formador de gametos masculinos o femeninos",
+              "answer": "GONADA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Audacia, resolución, intrepidez",
+              "answer": "OSADIA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"… Turing\" padre de la informática moderna",
+              "answer": "ALAN"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "De proteína, lo toman los gym bros",
+              "answer": "BATIDO"
+            },
+            "47": {
+              "col": 3,
+              "row": 9,
+              "clue": "Utilizamos, empleamos",
+              "answer": "USAMOS"
+            },
+            "48": {
+              "col": 6,
+              "row": 9,
+              "clue": "A medio dormir",
+              "answer": "DOR"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Estarás, existirás",
+              "answer": "SERAS"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "Representación geográfica de la Tierra",
+              "answer": "MAPA"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Decimoctava letra del alfabeto fenicio",
+              "answer": "SADE"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"… Flanders\", el vecino de Homer",
+              "answer": "NED"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Esa nota me pertenece",
+              "answer": "MI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sufría reiteradamente el hipo",
+              "answer": "HIPABA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Molusco cefalópodo",
+              "answer": "CALAMAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estado de la gallina",
+              "answer": "TURULECA"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Burla y escarnio",
+              "answer": "MOFA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inteligencia artificial",
+              "answer": "IA"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Lugar donde se celebra dicho foro",
+              "answer": "FORUM"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Admití como cierto lo afirmado",
+              "answer": "ASENTI"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Hermana de una comunidad religiosa",
+              "answer": "SOR"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Personificación de una idea",
+              "answer": "ENCARNACION"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Baya silvestre color morado (inv)",
+              "answer": "AROM"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Buenos vientos para Argentina",
+              "answer": "AIRES"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cubro, arropo",
+              "answer": "TAPO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "En la India musulmana, gobernador de una provincia",
+              "answer": "NABAB"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Lleno de agua o demasiado húmedo (pl)",
+              "answer": "AGUANOSOS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Fruto seco con forma de riñón",
+              "answer": "ANACARDO"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "El último fragmento de la obra",
+              "answer": "RA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Apropiado para algo",
+              "answer": "IDONEO"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Venezuela Goza, diviértete",
+              "answer": "VACILA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Símbolo químico del actinio",
+              "answer": "AC"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Común, para nada original (masc)",
+              "answer": "GENERICO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Informática Máquina automática capaz de leer una serie de tarjetas perforadas",
+              "answer": "TABULADOR"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Repeticiones fonemáticas al final de los versos",
+              "answer": "RIMAS"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Las inferiores del sombrero, las que rodean la copa",
+              "answer": "ALAS"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Simios",
+              "answer": "MONOS"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Shakira en el armario, tiene ganas de salir",
+              "answer": "LOBA"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Embarcaciones, por lo común de velas, de dos cascos unidos",
+              "answer": "CATAMARANES"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Casi nada",
+              "answer": "NAD"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Infundir vigor a un ser viviente",
+              "answer": "ANIMAR"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Comentarán, expresarán",
+              "answer": "DIRAN"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Es fría por dentro",
+              "answer": "RI"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Administra fármacos o sustancias estimulantes",
+              "answer": "DOPA"
+            },
+            "63": {
+              "col": 7,
+              "row": 13,
+              "clue": "Escuela filosófica fundada por Platón",
+              "answer": "ACADEMIA"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Apremiase insistentemente a alguien que le huye",
+              "answer": "ACOSASE"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Cerca un lugar fortificado, para impedir que salgan quienes están en él",
+              "answer": "ASEDIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Pueblo indígena ecuatoriano protector del Amazonas\r\n2-Entrando a Irlanda\r\n3-Asiento blando sin patas ni respaldo\r\n4-\"… vera\" regenerador de la piel natural\r\n5-Capital de facto de Suiza\r\n6-Inquietado, desazonado\r\n8-Domarán a bestia\r\n9-Piedra llana y de poco grueso que sirve para solar\r\n10-Muestra de amor que un ser humano brinda otros\r\n11-Caprichos, antojos, obsesiones\r\n12-Pequeño, desmedrado y que no puede aprovecharse\r\n13-Infusión medicinal digestiva a base de hierbas\r\n14-Sabor a hiel\r\n19-Se chocó con el espía\r\n21-Quitad o tomad para sí con violencia o con fuerza lo ajeno\r\n23-Una reunión corta, por favor\r\n25-Malo, pícaro, bellaco\r\n29-Trivial, insustancial\r\n31-Venir a este mundo para cenar carne\r\n33-Cuarto situado detrás de la habitación principal (pl)\r\n36-\"… Romero\" cantante española, finalista de 'Operación triunfo 2001'\r\n37-Árbol de El Salvador\r\n38-Fruta comestible de sabor ácido y extremadamente fragante\r\n39-Perfeccionaría, terminaría una obra\r\n40-Desierto más seco del mundo\r\n42-Órgano formador de gametos masculinos o femeninos\r\n43-Audacia, resolución, intrepidez\r\n45-\"… Turing\" padre de la informática moderna\r\n46-De proteína, lo toman los gym bros\r\n47-Utilizamos, empleamos\r\n48-A medio dormir\r\n52-Estarás, existirás\r\n55-Representación geográfica de la Tierra\r\n56-Decimoctava letra del alfabeto fenicio\r\n60-\"… Flanders\", el vecino de Homer\r\n64-Esa nota me pertenece",
+        "horizontal_clues": "1-Sufría reiteradamente el hipo\r\n7-Molusco cefalópodo\r\n13-Estado de la gallina\r\n15-Burla y escarnio\r\n16-Inteligencia artificial\r\n17-Lugar donde se celebra dicho foro\r\n18-Admití como cierto lo afirmado\r\n20-Hermana de una comunidad religiosa\r\n22-Personificación de una idea\r\n24-Baya silvestre color morado (inv)\r\n26-Buenos vientos para Argentina\r\n27-Cubro, arropo\r\n28-En la India musulmana, gobernador de una provincia\r\n30-Lleno de agua o demasiado húmedo (pl)\r\n32-Fruto seco con forma de riñón\r\n34-El último fragmento de la obra\r\n35-Apropiado para algo\r\n36-Venezuela Goza, diviértete\r\n41-Símbolo químico del actinio\r\n42-Común, para nada original (masc)\r\n44-Informática Máquina automática capaz de leer una serie de tarjetas perforadas\r\n49-Repeticiones fonemáticas al final de los versos\r\n50-Las inferiores del sombrero, las que rodean la copa\r\n51-Simios\r\n53-Shakira en el armario, tiene ganas de salir\r\n54-Embarcaciones, por lo común de velas, de dos cascos unidos\r\n57-Casi nada\r\n58-Infundir vigor a un ser viviente\r\n59-Comentarán, expresarán\r\n61-Es fría por dentro\r\n62-Administra fármacos o sustancias estimulantes\r\n63-Escuela filosófica fundada por Platón\r\n65-Apremiase insistentemente a alguien que le huye\r\n66-Cerca un lugar fortificado, para impedir que salgan quienes están en él",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,#,#,#,#,#,14,#,15,#,#,#,#,#\r\n16,#,#,17,#,#,#,#,#,18,#,#,#,19,#\r\n20,#,21,#,22,#,#,#,23,#,#,#,#,#,#\r\n24,#,#,25,#,26,#,#,#,#,#,27,#,#,#\r\n28,#,#,#,29,#,30,#,#,#,31,#,#,#,#\r\n32,#,#,#,#,33,#,#,#,34,#,#,#,#,#\r\n#,35,#,#,#,#,#,#,36,#,#,37,38,39,#\r\n40,#,#,#,41,#,#,42,#,#,#,#,#,#,43\r\n44,45,46,47,#,#,48,#,#,#,49,#,#,#,#\r\n50,#,#,#,#,51,#,#,#,52,#,53,#,#,#\r\n54,#,#,#,55,#,#,#,#,#,56,#,57,#,#\r\n58,#,#,#,#,#,#,59,#,#,#,60,#,61,#\r\n#,#,62,#,#,#,#,63,#,#,#,#,64,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

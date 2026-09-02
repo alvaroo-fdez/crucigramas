@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 880,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-11T12:58:03.886402Z",
+      "updatedAt": "2024-09-11T12:58:03.886424Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-15",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PADRES###BOSS#\r\nCARRUSEL#BEBETO\r\nERGOT#RADICARAN\r\nNIEGA#RUECA#INC\r\nSANA#VERDI#CEDE\r\nOST#PAREO#KA#IA\r\n##ITALIA#AIRBNB\r\nPANACEA#PROPAGA\r\nAMABAS#DINTEL##\r\nRI#LE#BOXEO#CAP\r\nALBA#MAMES#CORI\r\nRAR#SUTIL#MANCA\r\nANABOLENA#OLIAN\r\nNAVAJA#EDUCANDO\r\n#ROTA###OPONGA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "En la India, los que ni siquiera pertenecen a una casta.",
+              "answer": "PARIAS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "2º país más grande de América Latina.",
+              "answer": "ARGENTINA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sustancia alucinógena o estimulante.",
+              "answer": "DROGA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Itinerario turístico.",
+              "answer": "RUTA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Dominio web para España.",
+              "answer": "ES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Lugar donde se procesan troncos de madera.",
+              "answer": "SERRERIA"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Subvención para realizar estudios o investigaciones.",
+              "answer": "BECA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Una serpiente enredada.",
+              "answer": "OBA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Lo es Succession, la de HBO.",
+              "answer": "SERIE"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Posición económica y social, categoría (voz inglesa).",
+              "answer": "STANDING"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Lista de la población.",
+              "answer": "CENSO"
+            },
+            "12": {
+              "col": 7,
+              "row": 1,
+              "clue": "Galardona, condecora.",
+              "answer": "LAUREA"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Bicicleta.",
+              "answer": "BICI"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "La pesaba en onzas, la ...",
+              "answer": "ONCEABA"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Elegido a..., (no por méritos sino por contactos).",
+              "answer": "DEDO"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "Unos cupones a cambio de las velas rotas.",
+              "answer": "VALES"
+            },
+            "23": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"... Diem\", aprovecha el momento.",
+              "answer": "CARPE"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Nombre con que se conoce el árbol de guamo, propio de la región andina.",
+              "answer": "PACAE"
+            },
+            "26": {
+              "col": 10,
+              "row": 5,
+              "clue": "El \"Protocolo de...\" en 1997, por el cambio climático.",
+              "answer": "KIOTO"
+            },
+            "29": {
+              "col": 3,
+              "row": 6,
+              "clue": "Pieza de madera plana.",
+              "answer": "TABLA"
+            },
+            "30": {
+              "col": 9,
+              "row": 6,
+              "clue": "Siempre lo usa el escalador.",
+              "answer": "ARNES"
+            },
+            "31": {
+              "col": 12,
+              "row": 6,
+              "clue": "Práctica temeraria desde balcones hoteleros.",
+              "answer": "BALCONING"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Detendrán.",
+              "answer": "PARARAN"
+            },
+            "33": {
+              "col": 1,
+              "row": 7,
+              "clue": "Intimidar o amedrentar a alguien.",
+              "answer": "AMILANAR"
+            },
+            "34": {
+              "col": 8,
+              "row": 7,
+              "clue": "Efecto visual de baja resolución digital.",
+              "answer": "PIXELADO"
+            },
+            "36": {
+              "col": 7,
+              "row": 8,
+              "clue": "Someta, sujete.",
+              "answer": "DOMINE"
+            },
+            "39": {
+              "col": 6,
+              "row": 9,
+              "clue": "Béisbol. Para sacarla de homerun.",
+              "answer": "BATE"
+            },
+            "41": {
+              "col": 13,
+              "row": 9,
+              "clue": "Movimiento anterior al vómito.",
+              "answer": "ARCADA"
+            },
+            "42": {
+              "col": 14,
+              "row": 9,
+              "clue": "Instrumento musical que tocaba Beethoven.",
+              "answer": "PIANO"
+            },
+            "44": {
+              "col": 2,
+              "row": 10,
+              "clue": "Una ovación para Nino, el que cantó 'Un beso y una flor'.",
+              "answer": "BRAVO"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "La humilde acompañante del buey en el pesebre de navidad.",
+              "answer": "MULA"
+            },
+            "46": {
+              "col": 11,
+              "row": 10,
+              "clue": "Penetran en un cuerpo permeable.",
+              "answer": "CALAN"
+            },
+            "48": {
+              "col": 4,
+              "row": 11,
+              "clue": "Leche con la que se prepara el tofu asiático.",
+              "answer": "SOJA"
+            },
+            "49": {
+              "col": 10,
+              "row": 11,
+              "clue": "Humor espeso de la nariz.",
+              "answer": "MOCO"
+            },
+            "51": {
+              "col": 3,
+              "row": 12,
+              "clue": "La batalla es aquí.",
+              "answer": "BAT"
+            },
+            "55": {
+              "col": 9,
+              "row": 13,
+              "clue": "Push",
+              "answer": "UP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"San Diego...\", equipo de las Grandes Ligas de Beisbol.",
+              "answer": "PADRES"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Diseñó los uniformes de la SS.",
+              "answer": "BOSS"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Atracción giratoria de diversión.",
+              "answer": "CARRUSEL"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Exfutbolista brasileño con cara de bebé.",
+              "answer": "BEBETO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Hongo parásito del centeno, del cual se desprende el LSD.",
+              "answer": "ERGOT"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Echarán raíces.",
+              "answer": "RADICARAN"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Dice que él no lo hizo, lo...",
+              "answer": "NIEGA"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Instrumento que porta la aguja que pincha a Aurora.",
+              "answer": "RUECA"
+            },
+            "20": {
+              "col": 12,
+              "row": 3,
+              "clue": "Abreviatura de la forma legal \"Incorporation\".",
+              "answer": "INC"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Capital de Yemen.",
+              "answer": "SANA"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"Giuseppe...\" compositor de ópera 'La Traviata'.",
+              "answer": "VERDI"
+            },
+            "23": {
+              "col": 11,
+              "row": 4,
+              "clue": "Deja, permite.",
+              "answer": "CEDE"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Poco ostentoso.",
+              "answer": "OST"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Pañuelo grande que se usa encima del traje de baño.",
+              "answer": "PAREO"
+            },
+            "26": {
+              "col": 10,
+              "row": 5,
+              "clue": "Octava consonante del abecedario español.",
+              "answer": "KA"
+            },
+            "27": {
+              "col": 13,
+              "row": 5,
+              "clue": "Salida de emergencia.",
+              "answer": "IA"
+            },
+            "28": {
+              "col": 2,
+              "row": 6,
+              "clue": "El país de la pasta y la pizza.",
+              "answer": "ITALIA"
+            },
+            "30": {
+              "col": 9,
+              "row": 6,
+              "clue": "Sitio web de alojamientos vacacionales.",
+              "answer": "AIRBNB"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "El medicamento que todo lo cura, la solución a todos los males.",
+              "answer": "PANACEA"
+            },
+            "34": {
+              "col": 8,
+              "row": 7,
+              "clue": "Extiende, dilata.",
+              "answer": "PROPAGA"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lo contrario de \"odiabas\".",
+              "answer": "AMABAS"
+            },
+            "36": {
+              "col": 7,
+              "row": 8,
+              "clue": "Pieza horizontal superior de puertas y ventanas.",
+              "answer": "DINTEL"
+            },
+            "37": {
+              "col": 0,
+              "row": 9,
+              "clue": "¡Rivas, tú te quedas!.",
+              "answer": "RI"
+            },
+            "38": {
+              "col": 3,
+              "row": 9,
+              "clue": "Pronombre, que mal empleado genera el leísmo.",
+              "answer": "LE"
+            },
+            "39": {
+              "col": 6,
+              "row": 9,
+              "clue": "El deporte de Saúl el \"Canelo\" Álvarez.",
+              "answer": "BOXEO"
+            },
+            "40": {
+              "col": 12,
+              "row": 9,
+              "clue": "Certificado de Aptitud Profesional.",
+              "answer": "CAP"
+            },
+            "43": {
+              "col": 0,
+              "row": 10,
+              "clue": "Aurora es como una bala perdida.",
+              "answer": "ALBA"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Extraigas, succiones con los labios.",
+              "answer": "MAMES"
+            },
+            "46": {
+              "col": 11,
+              "row": 10,
+              "clue": "A Corina con cariño.",
+              "answer": "CORI"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Inform. Tipo de archivo comprimido.",
+              "answer": "RAR"
+            },
+            "48": {
+              "col": 4,
+              "row": 11,
+              "clue": "Delicado, suave, tenue.",
+              "answer": "SUTIL"
+            },
+            "49": {
+              "col": 10,
+              "row": 11,
+              "clue": "Mujer sin brazo o mano.",
+              "answer": "MANCA"
+            },
+            "50": {
+              "col": 0,
+              "row": 12,
+              "clue": "Madre de la reina Isabel I de Inglaterra (2p).",
+              "answer": "ANABOLENA"
+            },
+            "52": {
+              "col": 10,
+              "row": 12,
+              "clue": "Husmeaban el viento.",
+              "answer": "OLIAN"
+            },
+            "53": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"Pedro...\" personaje de una canción de salsa, es amigo de Juanito Alimaña.",
+              "answer": "NAVAJA"
+            },
+            "54": {
+              "col": 7,
+              "row": 13,
+              "clue": "Persona que recibe formación académica.",
+              "answer": "EDUCANDO"
+            },
+            "56": {
+              "col": 1,
+              "row": 14,
+              "clue": "Gira la pieza quebrada.",
+              "answer": "ROTA"
+            },
+            "57": {
+              "col": 8,
+              "row": 14,
+              "clue": "Ponga su opinión en contra de lo que dice el otro.",
+              "answer": "OPONGA"
+            }
+          }
+        },
+        "vertical_clues": "1-En la India, los que ni siquiera pertenecen a una casta.\r\n2-2º país más grande de América Latina.\r\n3-Sustancia alucinógena o estimulante.\r\n4-Itinerario turístico.\r\n5-Dominio web para España.\r\n6-Lugar donde se procesan troncos de madera. \r\n7-Subvención para realizar estudios o investigaciones.\r\n8-Una serpiente enredada.\r\n9-Lo es Succession, la de HBO.\r\n10-Posición económica y social, categoría (voz inglesa).\r\n11-Lista de la población.\r\n12-Galardona, condecora.\r\n13-Bicicleta.\r\n14-La pesaba en onzas, la ...\r\n17-Elegido a..., (no por méritos sino por contactos).\r\n22-Unos cupones a cambio de las velas rotas.\r\n23-\"... Diem\", aprovecha el momento.\r\n25-Nombre con que se conoce el árbol de guamo, propio de la región andina.\r\n26-El \"Protocolo de...\" en 1997, por el cambio climático.\r\n29-Pieza de madera plana.\r\n30-Siempre lo usa el escalador.\r\n31-Práctica temeraria desde balcones hoteleros. \r\n32-Detendrán.\r\n33-Intimidar o amedrentar a alguien.\r\n34-Efecto visual de baja resolución digital. \r\n36-Someta, sujete.\r\n39-Béisbol. Para sacarla de homerun.\r\n41-Movimiento anterior al vómito.\r\n42-Instrumento musical que tocaba Beethoven.\r\n44-Una ovación para Nino, el que cantó 'Un beso y una flor'.\r\n45-La humilde acompañante del buey en el pesebre de navidad.\r\n46-Penetran en un cuerpo permeable.\r\n48-Leche con la que se prepara el tofu asiático.\r\n49-Humor espeso de la nariz.\r\n51-La batalla es aquí.\r\n55-Push-..., el sujetador.",
+        "horizontal_clues": "1-\"San Diego...\", equipo de las Grandes Ligas de Beisbol.\r\n7-Diseñó los uniformes de la SS.\r\n11-Atracción giratoria de diversión.\r\n13-Exfutbolista brasileño con cara de bebé.\r\n15-Hongo parásito del centeno, del cual se desprende el LSD.\r\n16-Echarán raíces.\r\n18-Dice que él no lo hizo, lo...\r\n19-Instrumento que porta la aguja que pincha a Aurora.\r\n20-Abreviatura de la forma legal \"Incorporation\".\r\n21-Capital de Yemen.\r\n22-\"Giuseppe...\" compositor de ópera 'La Traviata'.\r\n23-Deja, permite.\r\n24-Poco ostentoso.\r\n25-Pañuelo grande que se usa encima del traje de baño.\r\n26-Octava consonante del abecedario español.\r\n27-Salida de emergencia.\r\n28-El país de la pasta y la pizza.\r\n30-Sitio web de alojamientos vacacionales.\r\n32-El medicamento que todo lo cura, la solución a todos los males.\r\n34-Extiende, dilata.\r\n35-Lo contrario de \"odiabas\".\r\n36-Pieza horizontal superior de puertas y ventanas.\r\n37-¡Rivas, tú te quedas!. \r\n38-Pronombre, que mal empleado genera el leísmo.\r\n39-El deporte de Saúl el \"Canelo\" Álvarez.\r\n40-Certificado de Aptitud Profesional.\r\n43-Aurora es como una bala perdida.\r\n45-Extraigas, succiones con los labios.\r\n46-A Corina con cariño.\r\n47-Inform. Tipo de archivo comprimido.\r\n48-Delicado, suave, tenue.\r\n49-Mujer sin brazo o mano.\r\n50-Madre de la reina Isabel I de Inglaterra (2p). \r\n52-Husmeaban el viento.\r\n53-\"Pedro...\" personaje de una canción de salsa, es amigo de Juanito Alimaña.\r\n54-Persona que recibe formación académica. \r\n56-Gira la pieza quebrada.\r\n57-Ponga su opinión en contra de lo que dice el otro.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,#,7,8,9,10,#\r\n11,#,#,#,#,#,#,12,#,13,#,#,#,#,14\r\n15,#,#,#,#,#,16,#,17,#,#,#,#,#,#\r\n18,#,#,#,#,#,19,#,#,#,#,#,20,#,#\r\n21,#,#,#,#,22,#,#,#,#,#,23,#,#,#\r\n24,#,#,#,25,#,#,#,#,#,26,#,#,27,#\r\n#,#,28,29,#,#,#,#,#,30,#,#,31,#,#\r\n32,33,#,#,#,#,#,#,34,#,#,#,#,#,#\r\n35,#,#,#,#,#,#,36,#,#,#,#,#,#,#\r\n37,#,#,38,#,#,39,#,#,#,#,#,40,41,42\r\n43,#,44,#,#,45,#,#,#,#,#,46,#,#,#\r\n47,#,#,#,48,#,#,#,#,#,49,#,#,#,#\r\n50,#,#,51,#,#,#,#,#,#,52,#,#,#,#\r\n53,#,#,#,#,#,#,54,#,55,#,#,#,#,#\r\n#,56,#,#,#,#,#,#,57,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

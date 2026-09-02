@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1327,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-02T13:36:47.561252Z",
+      "updatedAt": "2024-12-03T11:28:35.801902Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-03",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#TORTAS#MANGLE#\r\nROMERIA#EMERITO\r\nOMITA#BAR#GAMER\r\nMITIGAR#CORDERO\r\nPLENO#IAE#AUNEN\r\nEL#A#FALDA#A#AD\r\nDORSAL#O#GALESA\r\n##A#RAP#GRI#S##\r\nARCAIS#R#INDICO\r\nTI#D#HURTO#R#RT\r\nASTIL#SRI#FEMUR\r\nBIOTITA#GRANIZO\r\nABRID#MAR#VALAR\r\nLLAVERO#ENOJADA\r\n#EXORES#SERENO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Planta aromática utilizada en cocina",
+              "answer": "TOMILLO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pasa por alto algo",
+              "answer": "OMITE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tejido interno del ojo, sensible a la luz (pl)",
+              "answer": "RETINAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Se bebió el cóctel",
+              "answer": "TRAGO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Amnistía Internacional",
+              "answer": "AI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Conocería, estaría al tanto",
+              "answer": "SABRIA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Voluntad o arbitrio de alguien",
+              "answer": "MERCED"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Buenos días",
+              "answer": "AM"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "La caja de los aviones",
+              "answer": "NEGRA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Poco a poco, progresivo",
+              "answer": "GRADUAL"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pulan las uñas",
+              "answer": "LIMEN"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Vagas, sutiles, vaporosas",
+              "answer": "ETEREAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Quebrad, fragmentad",
+              "answer": "ROMPED"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Llena de presunción y muy contenta de sí misma",
+              "answer": "ORONDA"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "Voz para contestar a una llamada",
+              "answer": "ALO"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "El superhéroe más veloz",
+              "answer": "FLASH"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Que produce sensación de acidez",
+              "answer": "AGRIO"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "Viene subiendo en un coche americano",
+              "answer": "RAC"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Cariñosamente, Ariana",
+              "answer": "ARI"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Caín perdió la cabeza",
+              "answer": "AIN"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Núcleo del Cesio",
+              "answer": "ESI"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Tambor pequeño o tamboril que suele tocarse en fiestas públicas",
+              "answer": "ATABAL"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Que causa risa o es digno de ella",
+              "answer": "RISIBLE"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Sustancia que se agrega a un alimento para potenciarlo",
+              "answer": "ADITIVO"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Reducir, Reciclar y Reutilizar",
+              "answer": "RRR"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Medio que se emplea para desaguar",
+              "answer": "DRENAJE"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Caballero medieval en las Cruzadas",
+              "answer": "CRUZADO"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "En otro tiempo",
+              "answer": "OTRORA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Utilizamos, empleamos",
+              "answer": "USAMOS"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Felinos salvajes",
+              "answer": "TIGRES"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"Placa de…\" radiografía para mirar los pulmones",
+              "answer": "TORAX"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "El que guía a la manada",
+              "answer": "LIDER"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Expresión mágica: \"Por…\"",
+              "answer": "FAVOR"
+            },
+            "55": {
+              "col": 12,
+              "row": 10,
+              "clue": "Capital de la moda italiana",
+              "answer": "MILAN"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Nota musical",
+              "answer": "RE"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Símbolo químico del neón",
+              "answer": "NE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Refrán \"A falta de pan, buenas son…\"",
+              "answer": "TORTAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Arbusto que forma los manglares",
+              "answer": "MANGLE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fiesta en formato peregrinación",
+              "answer": "ROMERIA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Profesor jubilado con honores",
+              "answer": "EMERITO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Pase por alto, ignore",
+              "answer": "OMITA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Local destinado al consumo de bebidas alcohólicas",
+              "answer": "BAR"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Jugador de videojuego (voz inglesa)",
+              "answer": "GAMER"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Reducir la intensidad de un efecto negativo",
+              "answer": "MITIGAR"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Cría joven del ganado ovino",
+              "answer": "CORDERO"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Se comió todo en el comedor, hizo…",
+              "answer": "PLENO"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"Timbales\" sin consonantes",
+              "answer": "IAE"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Hermanen, incorporen a varias personas",
+              "answer": "AUNEN"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Artículo masculino",
+              "answer": "EL"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "¿Mini o larga?",
+              "answer": "FALDA"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Número que llevan los futbolistas en su espalda",
+              "answer": "DORSAL"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Nacionalidad de la famosa actriz Catherine Zeta Jones",
+              "answer": "GALESA"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Regresaron los dos que cantaban hip hop",
+              "answer": "RAP"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Griego humilde",
+              "answer": "GRI"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Dais forma de arco, arqueáis",
+              "answer": "ARCAIS"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "El océano que baña a África, Asia y Oceanía",
+              "answer": "INDICO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Sustracción ilícita de bienes ajenos",
+              "answer": "HURTO"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Retweet",
+              "answer": "RT"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Mango del hacha",
+              "answer": "ASTIL"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"… Lanka\" la lágrima de la India",
+              "answer": "SRI"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "El hueso más largo",
+              "answer": "FEMUR"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Exmineral, desde el 98 es considerada un grupo de minerales",
+              "answer": "BIOTITA"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Precipitación en forma de hielo",
+              "answer": "GRANIZO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Destapad quitando la brida enredada",
+              "answer": "ABRID"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "\"… Muerto\", el hipersalino",
+              "answer": "MAR"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"… Morghulis y … Dohaeris\" frase de 'Juego de Tronos'",
+              "answer": "VALAR"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Acompaña a las llaves",
+              "answer": "LLAVERO"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Brava, enfadada",
+              "answer": "ENOJADA"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Pidas, solicites con empeño",
+              "answer": "EXORES"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Humedad nocturna",
+              "answer": "SERENO"
+            }
+          }
+        },
+        "vertical_clues": "1-Planta aromática utilizada en cocina \r\n2-Pasa por alto algo\r\n3-Tejido interno del ojo, sensible a la luz (pl)\r\n4-Se bebió el cóctel\r\n5-Amnistía Internacional\r\n6-Conocería, estaría al tanto\r\n7-Voluntad o arbitrio de alguien\r\n8-Buenos días\r\n9-La caja de los aviones\r\n10-Poco a poco, progresivo\r\n11-Pulan las uñas\r\n12-Vagas, sutiles, vaporosas\r\n13-Quebrad, fragmentad\r\n15-Llena de presunción y muy contenta de sí misma\r\n23-Voz para contestar a una llamada\r\n26-El superhéroe más veloz\r\n27-Que produce sensación de acidez\r\n30-Viene subiendo en un coche americano\r\n31-Cariñosamente, Ariana\r\n33-Caín perdió la cabeza\r\n34-Núcleo del Cesio\r\n37-Tambor pequeño o tamboril que suele tocarse en fiestas públicas\r\n38-Que causa risa o es digno de ella\r\n39-Sustancia que se agrega a un alimento para potenciarlo\r\n40-Reducir, Reciclar y Reutilizar\r\n42-Medio que se emplea para desaguar\r\n43-Caballero medieval en las Cruzadas \r\n44-En otro tiempo\r\n47-Utilizamos, empleamos\r\n48-Felinos salvajes\r\n51-\"Placa de…\" radiografía para mirar los pulmones\r\n52-El que guía a la manada\r\n54-Expresión mágica: \"Por…\" \r\n55-Capital de la moda italiana\r\n62-Nota musical\r\n64-Símbolo químico del neón",
+        "horizontal_clues": "1-Refrán \"A falta de pan, buenas son…\"\r\n7-Arbusto que forma los manglares\r\n13-Fiesta en formato peregrinación\r\n14-Profesor jubilado con honores\r\n16-Pase por alto, ignore\r\n17-Local destinado al consumo de bebidas alcohólicas\r\n18-Jugador de videojuego (voz inglesa)\r\n19-Reducir la intensidad de un efecto negativo \r\n20-Cría joven del ganado ovino \r\n21-Se comió todo en el comedor, hizo…\r\n22-\"Timbales\" sin consonantes\r\n24-Hermanen, incorporen a varias personas\r\n25-Artículo masculino \r\n26-¿Mini o larga? \r\n28-Dominio web para Andorra\r\n29-Número que llevan los futbolistas en su espalda\r\n32-Nacionalidad de la famosa actriz Catherine Zeta Jones\r\n35-Regresaron los dos que cantaban hip hop\r\n36-Griego humilde\r\n37-Dais forma de arco, arqueáis\r\n41-El océano que baña a África, Asia y Oceanía\r\n45-Titanio\r\n46-Sustracción ilícita de bienes ajenos \r\n49-Retweet\r\n50-Mango del hacha\r\n53-\"… Lanka\" la lágrima de la India\r\n54-El hueso más largo\r\n56-Exmineral, desde el 98 es considerada un grupo de minerales\r\n57-Precipitación en forma de hielo \r\n58-Destapad quitando la brida enredada \r\n59-\"… Muerto\", el hipersalino\r\n60-\"… Morghulis y … Dohaeris\" frase de 'Juego de Tronos' \r\n61-Acompaña a las llaves\r\n63-Brava, enfadada\r\n65-Pidas, solicites con empeño\r\n66-Humedad nocturna",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,#,#,18,#,#,#,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,#,22,23,#,#,24,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,#,#,28,#\r\n29,#,30,#,31,#,#,#,#,32,33,#,34,#,#\r\n#,#,#,#,35,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,39,#,#,#,40,#,41,#,42,#,43,44\r\n45,#,#,#,#,46,47,#,48,#,#,#,#,49,#\r\n50,#,51,#,52,#,53,#,#,#,54,#,55,#,#\r\n56,#,#,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,62,#,#,63,64,#,#,#,#,#\r\n#,65,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

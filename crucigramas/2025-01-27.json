@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 1565,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-24T17:26:15.518615Z",
+      "updatedAt": "2025-01-24T17:26:15.532454Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-27",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "LUCHAR#JE#GUELL\r\nI#RETOCAN#ABRIA\r\nADEREZO#ACLARAR\r\nDECENAS#MALSANO\r\n#SID##TRONO#N##\r\nHADA#MAURA#DTMF\r\nAHORMA#TARAREAR\r\nRO##LMN#RIE##TO\r\nEGIPCIOS#ALEJAD\r\nMONO#FRACS#MUDO\r\n##U#BEMOL##AGE#\r\nMASCARA#ABONARA\r\nAGUIJON#CALADOS\r\nTIANA#DESCARO#M\r\nSOLAS#OK#OFERTA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Armad un cigarrillo",
+              "answer": "LIAD"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ya estás mayor chaval, ya has…",
+              "answer": "CRECIDO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Recibir patrimonio",
+              "answer": "HEREDAR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Amarren",
+              "answer": "ATEN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Corta leña menuda",
+              "answer": "ROZA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Risa abierta",
+              "answer": "JA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Despertar sentimientos románticos en otra persona",
+              "answer": "ENAMORAR"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "La misa antes de la medianoche de la Nochebuena",
+              "answer": "GALLO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Suba descontrolado",
+              "answer": "UBAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"El judío…\" condenado por Dios por negar agua a Jesús",
+              "answer": "ERRANTE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Se asocian para fines deshonestos",
+              "answer": "LIAN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Relativo a la palabra hablada (inv)",
+              "answer": "LARO"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Los es la Brava, la del Sol o la del Azahar",
+              "answer": "COSTA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Liberación emocional de tensión acumulada",
+              "answer": "DESAHOGO"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Archipiélago español, ubicado en Atlántico",
+              "answer": "CANARIAS"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Antiguo Testamento Bisabuela del rey David",
+              "answer": "RUT"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Casa de los musulmanes en que viven las mujeres",
+              "answer": "HAREM"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Animal vertebrado que alimenta a sus crías con leche",
+              "answer": "MAMIFERO"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Iniciales del actor que interpreta a Harry Potter",
+              "answer": "DR"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Instalación industrial para el sacrificio de reses",
+              "answer": "MATADERO"
+            },
+            "29": {
+              "col": 14,
+              "row": 5,
+              "clue": "El héroe de todos los hobbits",
+              "answer": "FRODO"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Milicia sin vocales",
+              "answer": "MLC"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Al expandido (2p)",
+              "answer": "AEL"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "Natural de una región histórica del norte de Francia",
+              "answer": "NORMANDO"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Luis Aún está enredado, eso no frecuente",
+              "answer": "INUSUAL"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Poco pobladas",
+              "answer": "PO"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"…Paulo\", Brasil",
+              "answer": "SAO"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Desprenderé, por ejemplo energía o mal olor",
+              "answer": "EMANARE"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Lo eres tú en relación a este pasatiempo",
+              "answer": "JUGADOR"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Sombreros de copa alta, plegables",
+              "answer": "CLACS"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "La cifras cuando están por el suelo",
+              "answer": "BAJAS"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Esterillas de yoga",
+              "answer": "MATS"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Especulación sobre el alza y baja de los fondos públicos",
+              "answer": "AGIO"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "No mira la vecina",
+              "answer": "CINA"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Dios de los viñedos",
+              "answer": "BACO"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Muñeco de nieve creado por Elsa (Frozen)",
+              "answer": "OLAF"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Enfermedad de los bronquios con sibilantes",
+              "answer": "ASMA"
+            },
+            "63": {
+              "col": 7,
+              "row": 13,
+              "clue": "El monograma de Emir Kusturica",
+              "answer": "EK"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo que se hace en la arena",
+              "answer": "LUCHAR"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Risa incrédula",
+              "answer": "JE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "El parque de Gaudí, en Barcelona",
+              "answer": "GUELL"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Editan los desperfectos de una foto",
+              "answer": "RETOCAN"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Aperturaba una cuenta bancaria",
+              "answer": "ABRIA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Doy sabor a los alimentos",
+              "answer": "ADEREZO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Rebajar la intensidad de un color",
+              "answer": "ACLARAR"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Grupos de diez",
+              "answer": "DECENAS"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Insano, dañino para la salud o la moral",
+              "answer": "MALSANO"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "\"… Vicious\" bajista de los Sex Pistols",
+              "answer": "SID"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"…de hierro\" forjado por Aegon I Targaryen con las espadas de sus enemigos",
+              "answer": "TRONO"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ser fantástico en forma de mujer hermosa",
+              "answer": "HADA"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"Antonio…\" 5 veces presidente del Consejo de Ministros",
+              "answer": "MAURA"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "¡Dios, que Temazo Más Formidable!",
+              "answer": "DTMF"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ajusta algo a su horma o molde",
+              "answer": "AHORMA"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Imitar una melodía sin articular bien las palabras",
+              "answer": "TARAREAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Medio roto",
+              "answer": "RO"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Tres seguidas",
+              "answer": "LMN"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"El que… de último, … mejor\"",
+              "answer": "RIE"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "El descuento final es que esté todo al 50%",
+              "answer": "TO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Antiguos habitantes del valle del Nilo",
+              "answer": "EGIPCIOS"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Distanciad, llevad lejos",
+              "answer": "ALEJAD"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo contrario al estéreo",
+              "answer": "MONO"
+            },
+            "47": {
+              "col": 5,
+              "row": 9,
+              "clue": "Vestidura de hombre con dos faldones atrás (pl)",
+              "answer": "FRACS"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Cambió, de dientes o de piel",
+              "answer": "MUDO"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Cuando una nota está un semitono más baja de lo normal",
+              "answer": "BEMOL"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Edad en inglés",
+              "answer": "AGE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "La cara de Anonymous, la de 'V de Vendetta'",
+              "answer": "MASCARA"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Fertilizará la tierra",
+              "answer": "ABONARA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Órgano venenoso de algunos artrópodos",
+              "answer": "AGUIJON"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Tallados, grabados, labrados",
+              "answer": "CALADOS"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Princesa afroamericana de Disney",
+              "answer": "TIANA"
+            },
+            "62": {
+              "col": 6,
+              "row": 13,
+              "clue": "Decoras los recados y eso es un atrevimiento",
+              "answer": "DESCARO"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Ellas están sin compañía",
+              "answer": "SOLAS"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "La palabra más utilizada del mundo",
+              "answer": "OK"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Ofrece a buen precio",
+              "answer": "OFERTA"
+            }
+          }
+        },
+        "vertical_clues": "1-Armad un cigarrillo\r\n2-Ya estás mayor chaval, ya has…\r\n3-Recibir patrimonio\r\n4-Amarren\r\n5-Corta leña menuda\r\n6-Risa abierta\r\n7-Despertar sentimientos románticos en otra persona \r\n8-La misa antes de la medianoche de la Nochebuena\r\n9-Suba descontrolado\r\n10-\"El judío…\" condenado por Dios por negar agua a Jesús\r\n11-Se asocian para fines deshonestos\r\n12-Relativo a la palabra hablada (inv)\r\n14-Los es la Brava, la del Sol o la del Azahar\r\n17-Liberación emocional de tensión acumulada \r\n19-Archipiélago español, ubicado en Atlántico\r\n24-Antiguo Testamento Bisabuela del rey David\r\n25-Casa de los musulmanes en que viven las mujeres\r\n26-Animal vertebrado que alimenta a sus crías con leche \r\n27-Iniciales del actor que interpreta a Harry Potter\r\n28-Instalación industrial para el sacrificio de reses \r\n29-El héroe de todos los hobbits\r\n31-Milicia sin vocales\r\n33-Al expandido (2p) \r\n36-Natural de una región histórica del norte de Francia \r\n40-Luis Aún está enredado, eso no frecuente\r\n41-Poco pobladas\r\n42-\"…Paulo\", Brasil\r\n44-Desprenderé, por ejemplo energía o mal olor\r\n45-Lo eres tú en relación a este pasatiempo\r\n48-Sombreros de copa alta, plegables\r\n50-La cifras cuando están por el suelo\r\n52-Esterillas de yoga\r\n53-Especulación sobre el alza y baja de los fondos públicos\r\n54-No mira la vecina \r\n56-Dios de los viñedos\r\n57-Muñeco de nieve creado por Elsa (Frozen)\r\n58-Enfermedad de los bronquios con sibilantes\r\n63-El monograma de Emir Kusturica\r\n",
+        "horizontal_clues": "1-Lo que se hace en la arena\r\n6-Risa incrédula\r\n8-El parque de Gaudí, en Barcelona\r\n13-Editan los desperfectos de una foto\r\n15-Aperturaba una cuenta bancaria\r\n16-Doy sabor a los alimentos\r\n18-Rebajar la intensidad de un color\r\n20-Grupos de diez\r\n21-Insano, dañino para la salud o la moral\r\n22-\"… Vicious\" bajista de los Sex Pistols\r\n23-\"…de hierro\" forjado por Aegon I Targaryen con las espadas de sus enemigos\r\n25-Ser fantástico en forma de mujer hermosa\r\n26-\"Antonio…\" 5 veces presidente del Consejo de Ministros\r\n27-¡Dios, que Temazo Más Formidable! \r\n30-Ajusta algo a su horma o molde\r\n32-Imitar una melodía sin articular bien las palabras\r\n34-Medio roto\r\n35-Tres seguidas\r\n37-\"El que… de último, … mejor\" \r\n38-El descuento final es que esté todo al 50%\r\n39-Antiguos habitantes del valle del Nilo \r\n43-Distanciad, llevad lejos\r\n46-Lo contrario al estéreo\r\n47-Vestidura de hombre con dos faldones atrás (pl)\r\n49-Cambió, de dientes o de piel\r\n50-Cuando una nota está un semitono más baja de lo normal\r\n51-Edad en inglés\r\n52-La cara de Anonymous, la de 'V de Vendetta'\r\n55-Fertilizará la tierra\r\n59-Órgano venenoso de algunos artrópodos\r\n60-Tallados, grabados, labrados\r\n61-Princesa afroamericana de Disney\r\n62-Decoras los recados y eso es un atrevimiento\r\n64-Ellas están sin compañía\r\n65-La palabra más utilizada del mundo\r\n66-Ofrece a buen precio\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,#,6,7,#,8,9,10,11,12\r\n#,#,13,#,#,#,14,#,#,#,15,#,#,#,#\r\n16,17,#,#,#,#,#,#,18,19,#,#,#,#,#\r\n20,#,#,#,#,#,#,#,21,#,#,#,#,#,#\r\n#,22,#,#,#,#,23,24,#,#,#,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,#,#,27,#,28,29\r\n30,#,#,#,31,#,#,32,#,#,33,#,#,#,#\r\n34,#,#,#,35,#,36,#,37,#,#,#,#,38,#\r\n39,#,40,41,#,#,#,42,#,43,#,44,45,#,#\r\n46,#,#,#,#,47,#,#,48,#,#,49,#,#,#\r\n#,#,#,#,50,#,#,#,#,#,#,51,#,#,#\r\n52,53,#,54,#,#,#,#,55,56,57,#,#,#,58\r\n59,#,#,#,#,#,#,#,60,#,#,#,#,#,#\r\n61,#,#,#,#,#,62,63,#,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,66,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

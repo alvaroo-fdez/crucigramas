@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4896,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-22T19:56:06.850104Z",
+      "updatedAt": "2026-02-22T19:59:37.241911Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-23",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "IKEA#JALAR#MIOS\r\nBOEB#ASILO#ORFO\r\nAJEA#MEDID#DALI\r\nSIERPES#ARNESES\r\n###CUSTODIAR###\r\nCASAL#ANA#RACAS\r\nOCURSO#C#ERRADO\r\nLET#ARREGLA#LRN\r\nARISCO#A#ATACAS\r\nDALAI#ABA#IBERO\r\n###COMPASIVO###\r\nESCANER#CRANEAL\r\nLIAR#COREE#AFRO\r\nFACA#HAITI#REME\r\nOVAN#ASPAS#ASEN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Te trasladabas",
+              "answer": "IBAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… Kabuto\" el piloto del Mazinger Z",
+              "answer": "KOJI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Eduardo Enrique Escobar Espinoza",
+              "answer": "EEEE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Rodear, contener o comprender algo",
+              "answer": "ABARCAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Webb\" el telescopio espacial",
+              "answer": "JAMES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Da, propina un golpe en la cabeza",
+              "answer": "ASESTA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Combate, pelea, pugna",
+              "answer": "LID"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mi cómplice, mi…",
+              "answer": "ALIADA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Fut: centrocampo español del Manchester City",
+              "answer": "RODRI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Regular, ajustar, por ejemplo, las pasiones o la voz",
+              "answer": "MODERAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Asistirás con el traje de la indias al revés",
+              "answer": "IRAS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Regresa el ayudante de Papá Noel",
+              "answer": "OFLE"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Pertenecéis, correspondéis a algo",
+              "answer": "SOIS"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Toque rápido en una tecla o botón",
+              "answer": "PULSACION"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Género literario en prosa",
+              "answer": "NARRATIVA"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "La pesaba en onzas, la …",
+              "answer": "ONCEABA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pasad un líquido por una manga",
+              "answer": "COLAD"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Orilla de la calle",
+              "answer": "ACERA"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Delicado, suave, tenue",
+              "answer": "SUTIL"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Encajé, engrané",
+              "answer": "CALCE"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Repartir las aguas para el riego",
+              "answer": "ADRAR"
+            },
+            "33": {
+              "col": 14,
+              "row": 5,
+              "clue": "Tonto, simple, mentecato",
+              "answer": "SONSO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "No todo lo que brilla es…",
+              "answer": "ORO"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "La enfermedad que tuvo Stephen Hawking (siglas)",
+              "answer": "ELA"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Pondrán algo fuera del lugar donde estaba",
+              "answer": "SACARAN"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Fertilizará la tierra",
+              "answer": "ABONARA"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Vuelves la proa a alguna parte",
+              "answer": "APROAS"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Persona que hace vida austera",
+              "answer": "ASCETA"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Tipo de robot de combate, tripulado, como Mazinger Z",
+              "answer": "MECHA"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Te dirigiréis a tal sitio",
+              "answer": "IREIS"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Criatura mágica de la mitología nórdica",
+              "answer": "ELFO"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "Marcháis en dirección contraria",
+              "answer": "SIAV"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Palabra dicha a los niños al tocar algo peligroso o sucio",
+              "answer": "CACA"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Nombre de la letra \"f\" (pl)",
+              "answer": "EFES"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"Me… de valor\" y me atreví",
+              "answer": "ARME"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "Alaben, den por bueno algo",
+              "answer": "LOEN"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Descanse en paz",
+              "answer": "RIP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Marca sueca, experta en muebles desarmables",
+              "answer": "IKEA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Comer con mucho apetito",
+              "answer": "JALAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Esos me pertenecen, son…",
+              "answer": "MIOS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bebo chorreado",
+              "answer": "BOEB"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Lugar privilegiado de refugio para los perseguidos",
+              "answer": "ASILO"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Pescado semejante al besugo",
+              "answer": "ORFO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Opina la perdiz",
+              "answer": "AJEA"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Comparad su estatura",
+              "answer": "MEDID"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Del surrealismo, el salvador",
+              "answer": "DALI"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Culebras de gran tamaño",
+              "answer": "SIERPES"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Armazón provisto de correas y hebillas (pl)",
+              "answer": "ARNESES"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Vigilar algo para que no sufra daño ni robo",
+              "answer": "CUSTODIAR"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Luz …\", cantante española de pop rock",
+              "answer": "CASAL"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"… Karenina', novela de Tolstoi",
+              "answer": "ANA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Sacar a la izquierda",
+              "answer": "RACAS"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Escrito jurídico, en un tribunal mexicano",
+              "answer": "OCURSO"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Equivocado, desacertado",
+              "answer": "ERRADO"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Boleto de Leticia",
+              "answer": "LET"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Todo se acomoda porque parece que ya tiene la regla",
+              "answer": "ARREGLA"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "\"Alearían\" sin vocales",
+              "answer": "LRN"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Áspero e intratable",
+              "answer": "ARISCO"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Embistes, arremetes",
+              "answer": "ATACAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… Lama\", líder espiritual del budismo tibetano",
+              "answer": "DALAI"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Mit Griega Ninfa de la fuente de Ergisque",
+              "answer": "ABA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Prefijo que refiere a la península ibérica",
+              "answer": "IBERO"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Que muestra empatía y ternura ante el sufrimiento ajeno",
+              "answer": "COMPASIVO"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Periférico que se usa para digitalizar imágenes impresas",
+              "answer": "ESCANER"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Aclaren mejor lo del traumatismo de la cabeza",
+              "answer": "CRANEAL"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"Mentiroso\" en inglés",
+              "answer": "LIAR"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Canté, recité en un coro",
+              "answer": "COREE"
+            },
+            "61": {
+              "col": 11,
+              "row": 12,
+              "clue": "Tipo de peinado popular en los años 60 y 70",
+              "answer": "AFRO"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cuchillo corvo",
+              "answer": "FACA"
+            },
+            "63": {
+              "col": 5,
+              "row": 13,
+              "clue": "1er país de América Latina en independizarse de España",
+              "answer": "HAITI"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Trabajé con el remo para impeler la barca en el agua",
+              "answer": "REME"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Ponen huevos",
+              "answer": "OVAN"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "Las que giran en un molino de viento",
+              "answer": "ASPAS"
+            },
+            "67": {
+              "col": 11,
+              "row": 14,
+              "clue": "Tuesten, doren",
+              "answer": "ASEN"
+            }
+          }
+        },
+        "vertical_clues": "1-Te trasladabas\r\n2-\"… Kabuto\" el piloto del Mazinger Z\r\n3-Eduardo Enrique Escobar Espinoza\r\n4-Rodear, contener o comprender algo\r\n5-\"… Webb\" el telescopio espacial\r\n6-Da, propina un golpe en la cabeza\r\n7-Combate, pelea, pugna\r\n8-Mi cómplice, mi…\r\n9-Fut: centrocampo español del Manchester City\r\n10-Regular, ajustar, por ejemplo, las pasiones o la voz\r\n11-Asistirás con el traje de la indias al revés\r\n12-Regresa el ayudante de Papá Noel\r\n13-Pertenecéis, correspondéis a algo\r\n21-Toque rápido en una tecla o botón \r\n23-Género literario en prosa \r\n25-La pesaba en onzas, la …\r\n26-Pasad un líquido por una manga\r\n27-Orilla de la calle\r\n28-Delicado, suave, tenue\r\n31-Encajé, engrané\r\n32-Repartir las aguas para el riego\r\n33-Tonto, simple, mentecato\r\n35-No todo lo que brilla es…\r\n36-La enfermedad que tuvo Stephen Hawking (siglas)\r\n41-Pondrán algo fuera del lugar donde estaba\r\n43-Fertilizará la tierra\r\n45-Vuelves la proa a alguna parte\r\n46-Persona que hace vida austera\r\n49-Tipo de robot de combate, tripulado, como Mazinger Z\r\n50-Te dirigiréis a tal sitio\r\n51-Criatura mágica de la mitología nórdica\r\n52-Marcháis en dirección contraria\r\n53-Palabra dicha a los niños al tocar algo peligroso o sucio\r\n55-Nombre de la letra \"f\" (pl)\r\n56-\"Me… de valor\" y me atreví\r\n57-Alaben, den por bueno algo\r\n60-Descanse en paz",
+        "horizontal_clues": "1-Marca sueca, experta en muebles desarmables\r\n5-Comer con mucho apetito\r\n10-Esos me pertenecen, son…\r\n14-Bebo chorreado \r\n15-Lugar privilegiado de refugio para los perseguidos\r\n16-Pescado semejante al besugo\r\n17-Opina la perdiz \r\n18-Comparad su estatura\r\n19-Del surrealismo, el salvador\r\n20-Culebras de gran tamaño\r\n22-Armazón provisto de correas y hebillas (pl)\r\n24-Vigilar algo para que no sufra daño ni robo \r\n26-\"Luz …\", cantante española de pop rock\r\n29-\"… Karenina', novela de Tolstoi\r\n30-Sacar a la izquierda\r\n34-Escrito jurídico, en un tribunal mexicano\r\n36-Equivocado, desacertado\r\n37-Boleto de Leticia\r\n38-Todo se acomoda porque parece que ya tiene la regla\r\n39-\"Alearían\" sin vocales\r\n40-Áspero e intratable\r\n42-Embistes, arremetes\r\n44-\"… Lama\", líder espiritual del budismo tibetano\r\n45-Mit Griega Ninfa de la fuente de Ergisque\r\n47-Prefijo que refiere a la península ibérica\r\n48-Que muestra empatía y ternura ante el sufrimiento ajeno \r\n51-Periférico que se usa para digitalizar imágenes impresas\r\n54-Aclaren mejor lo del traumatismo de la cabeza\r\n58-\"Mentiroso\" en inglés\r\n59-Canté, recité en un coro\r\n61-Tipo de peinado popular en los años 60 y 70\r\n62-Cuchillo corvo\r\n63-1er país de América Latina en independizarse de España\r\n64-Trabajé con el remo para impeler la barca en el agua\r\n65-Ponen huevos\r\n66-Las que giran en un molino de viento\r\n67-Tuesten, doren",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,21,#,#,#,22,#,23,#,#,#,#\r\n#,#,#,24,#,#,#,25,#,#,#,#,#,#,#\r\n26,27,28,#,#,#,29,#,#,#,30,#,31,32,33\r\n34,#,#,#,#,35,#,#,#,36,#,#,#,#,#\r\n37,#,#,#,38,#,#,#,#,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,#,#,42,#,43,#,#,#\r\n44,#,#,#,#,#,45,#,46,#,47,#,#,#,#\r\n#,#,#,48,#,49,#,#,#,50,#,#,#,#,#\r\n51,52,53,#,#,#,#,#,54,#,#,#,55,56,57\r\n58,#,#,#,#,59,#,60,#,#,#,61,#,#,#\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,#,67,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 1398,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-06T18:35:07.473318Z",
+      "updatedAt": "2024-12-06T18:35:07.489507Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-09",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "HECAMBIADO#FIFA\r\nALOCA#DAVIS#NAP\r\nTIRANTES#DELATA\r\nO#TETRA#COCINAR\r\n#DECAER#H#ASILE\r\nCASE#NIMIEDAD#J\r\nIN#REZO#AMASARA\r\nMEA##A###P##DAD\r\nESTRADO#CAST#YO\r\nN#REMOCION#IGOR\r\nTAIMA#I#LADRON#\r\nALCALDE#IDEAL#V\r\nREIRIA#ABANDONA\r\nARO#ANDAR#TOSEN\r\nSONY#INCINERADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Conjunto de ganado",
+              "answer": "HATO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Biblia Maestro del profeta Samuel",
+              "answer": "ELI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Hernán…\" español que lideró la conquista del Imperio azteca",
+              "answer": "CORTES"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Suceder, hacerse realidad",
+              "answer": "ACAECER"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lo matan por error y le ponen un cobertor",
+              "answer": "MANTA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "El repertorio de ideas de un autor",
+              "answer": "IDEARIO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Ácido Acetilsalicílico (abrev)",
+              "answer": "AAS"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Iniciales del pintor del óleo \"Las Meninas\"",
+              "answer": "DV"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "He escuchado que el iodo está malo",
+              "answer": "OIDO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vacuidad, insignificancia",
+              "answer": "INANIDAD"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Una falta mal ejecutada es un error mortal",
+              "answer": "FATAL"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Técnico en construcción",
+              "answer": "APAREJADOR"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"Jon…\" cantautor de la canción 'Otro día más sin verte'",
+              "answer": "SECADA"
+            },
+            "19": {
+              "col": 5,
+              "row": 2,
+              "clue": "Técnica de entrelazar fibras",
+              "answer": "TRENZADO"
+            },
+            "21": {
+              "col": 11,
+              "row": 2,
+              "clue": "Superficies sin irregularidades",
+              "answer": "LISAS"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "¿Estás clara que piqué las semillitas?",
+              "answer": "CHIA"
+            },
+            "24": {
+              "col": 1,
+              "row": 4,
+              "clue": "Con un sedán, sobre una densa senda, va el dinamarqués a los Andes",
+              "answer": "DANES"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Construirás tu argumento sobre bases sólidas",
+              "answer": "CIMENTARAS"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Rebosada en pan",
+              "answer": "EMPANADA"
+            },
+            "32": {
+              "col": 13,
+              "row": 6,
+              "clue": "Pon un rayajo en la seda artificial",
+              "answer": "RAYON"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Mil Debilitamiento gradual del enemigo causado por un ataque frecuente y constante",
+              "answer": "ATRICION"
+            },
+            "37": {
+              "col": 3,
+              "row": 8,
+              "clue": "Mover la embarcación a brazo",
+              "answer": "REMAR"
+            },
+            "38": {
+              "col": 4,
+              "row": 8,
+              "clue": "\"… Rodrigues\" cantante portuguesa conocida como la 'Reina del Fado'",
+              "answer": "AMALIA"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Descanse, disfrute de no hacer nada",
+              "answer": "OCIE"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Ave más pequeña del mundo",
+              "answer": "COLIBRI"
+            },
+            "41": {
+              "col": 11,
+              "row": 8,
+              "clue": "Este es un profesional con las armas de fuego",
+              "answer": "TIRADOR"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Glotona",
+              "answer": "GOLOSA"
+            },
+            "47": {
+              "col": 1,
+              "row": 10,
+              "clue": "Parte inferior del tejado",
+              "answer": "ALERO"
+            },
+            "49": {
+              "col": 10,
+              "row": 10,
+              "clue": "Punto de cocción para la pasta",
+              "answer": "DENTE"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"… Fernández\" Mejor Artista en los 'Los 40 Music Awards' 2022",
+              "answer": "DANI"
+            },
+            "53": {
+              "col": 14,
+              "row": 11,
+              "clue": "Insustancial, trivial",
+              "answer": "VANO"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "Academia de Artes Culinarias",
+              "answer": "AAC"
+            },
+            "56": {
+              "col": 13,
+              "row": 12,
+              "clue": "\"… Flanders\", el vecino de Homer",
+              "answer": "NED"
+            },
+            "59": {
+              "col": 6,
+              "row": 13,
+              "clue": "Dave Navarro (guitarrista de Jane's Addiction)",
+              "answer": "DN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Modo indicativo, 1ª pers del singular, pretérito perfecto compuesto, del verbo cambiar (2p)",
+              "answer": "HECAMBIADO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Institución con todas las federaciones de fútbol",
+              "answer": "FIFA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Enloquece, se desordena, se…",
+              "answer": "ALOCA"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "La Copa Mundial de Tenis",
+              "answer": "DAVIS"
+            },
+            "17": {
+              "col": 12,
+              "row": 1,
+              "clue": "Devuélveme la baguette",
+              "answer": "NAP"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Le arrojan tilas a la camiseta sin mangas",
+              "answer": "TIRANTES"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Revela a la autoridad un delito, designando al autor",
+              "answer": "DELATA"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Prefijo que significa cuatro",
+              "answer": "TETRA"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Preparar una crónica de terror",
+              "answer": "COCINAR"
+            },
+            "24": {
+              "col": 1,
+              "row": 4,
+              "clue": "Perder intensidad, venirse abajo",
+              "answer": "DECAER"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Así le ayudé, lo albergué",
+              "answer": "ASILE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Contraje matrimonio, me…",
+              "answer": "CASE"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Ni mi edad importa, es una pequeñez",
+              "answer": "NIMIEDAD"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "El fin de Putin",
+              "answer": "IN"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Oración tipo Padre Nuestro o Ave María",
+              "answer": "REZO"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Trabajará la masa",
+              "answer": "AMASARA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Haz pis",
+              "answer": "MEA"
+            },
+            "35": {
+              "col": 12,
+              "row": 7,
+              "clue": "Entregad, otorgad",
+              "answer": "DAD"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sitio de honor, algo elevado, en un salón de actos",
+              "answer": "ESTRADO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Chrome__, el botón para transmitir del móvil a la tele",
+              "answer": "CAST"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Primera persona del singular",
+              "answer": "YO"
+            },
+            "43": {
+              "col": 2,
+              "row": 9,
+              "clue": "Eliminación de residuos",
+              "answer": "REMOCION"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "Burro de peluche amigo de Winnie the Pooh",
+              "answer": "IGOR"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Picardía, astucia",
+              "answer": "TAIMA"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "Toma subrepticia de electricidad",
+              "answer": "LADRON"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Autoridad municipal",
+              "answer": "ALCALDE"
+            },
+            "52": {
+              "col": 8,
+              "row": 11,
+              "clue": "Excelente, perfecto en su línea",
+              "answer": "IDEAL"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Carcajearía, sonreiría",
+              "answer": "REIRIA"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "Aborta una misión, la…",
+              "answer": "ABANDONA"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"El…\" película de terror sobre una cinta de video maldita",
+              "answer": "ARO"
+            },
+            "58": {
+              "col": 4,
+              "row": 13,
+              "clue": "“Caminante no hay camino, se hace camino al…\" Machado",
+              "answer": "ANDAR"
+            },
+            "60": {
+              "col": 10,
+              "row": 13,
+              "clue": "Se ahogan, se atragantan",
+              "answer": "TOSEN"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Empresa que junto a Phillips, crearon el Compact Disc",
+              "answer": "SONY"
+            },
+            "62": {
+              "col": 5,
+              "row": 14,
+              "clue": "Reducido a cenizas por el fuego",
+              "answer": "INCINERADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Conjunto de ganado \r\n2-Biblia Maestro del profeta Samuel\r\n3-\"Hernán…\" español que lideró la conquista del Imperio azteca\r\n4-Suceder, hacerse realidad\r\n5-Lo matan por error y le ponen un cobertor\r\n6-El repertorio de ideas de un autor\r\n7-Ácido Acetilsalicílico (abrev)\r\n8-Iniciales del pintor del óleo \"Las Meninas\"\r\n9-He escuchado que el iodo está malo\r\n11-Vacuidad, insignificancia\r\n12-Una falta mal ejecutada es un error mortal\r\n13-Técnico en construcción \r\n16-\"Jon…\" cantautor de la canción 'Otro día más sin verte' \r\n19-Técnica de entrelazar fibras \r\n21-Superficies sin irregularidades\r\n23-¿Estás clara que piqué las semillitas? \r\n24-Con un sedán, sobre una densa senda, va el dinamarqués a los Andes\r\n26-Construirás tu argumento sobre bases sólidas \r\n28-Rebosada en pan\r\n32-Pon un rayajo en la seda artificial\r\n34-Mil Debilitamiento gradual del enemigo causado por un ataque frecuente y constante \r\n37-Mover la embarcación a brazo\r\n38-\"… Rodrigues\" cantante portuguesa conocida como la 'Reina del Fado' \r\n39-Descanse, disfrute de no hacer nada\r\n40-Ave más pequeña del mundo\r\n41-Este es un profesional con las armas de fuego\r\n45-Glotona\r\n47-Parte inferior del tejado\r\n49-Punto de cocción para la pasta\r\n51-\"… Fernández\" Mejor Artista en los 'Los 40 Music Awards' 2022\r\n53-Insustancial, trivial\r\n55-Academia de Artes Culinarias\r\n56-\"… Flanders\", el vecino de Homer\r\n59-Dave Navarro (guitarrista de Jane's Addiction)\r\n",
+        "horizontal_clues": "1-Modo indicativo, 1ª pers del singular, pretérito perfecto compuesto, del verbo cambiar (2p)\r\n10-Institución con todas las federaciones de fútbol\r\n14-Enloquece, se desordena, se…\r\n15-La Copa Mundial de Tenis\r\n17-Devuélveme la baguette\r\n18-Le arrojan tilas a la camiseta sin mangas\r\n20-Revela a la autoridad un delito, designando al autor\r\n22-Prefijo que significa cuatro\r\n23-Preparar una crónica de terror\r\n24-Perder intensidad, venirse abajo\r\n25-Así le ayudé, lo albergué\r\n26-Contraje matrimonio, me…\r\n27-Ni mi edad importa, es una pequeñez\r\n29-El fin de Putin\r\n30-Oración tipo Padre Nuestro o Ave María\r\n31-Trabajará la masa\r\n33-Haz pis\r\n35-Entregad, otorgad\r\n36-Sitio de honor, algo elevado, en un salón de actos\r\n40-Chrome__, el botón para transmitir del móvil a la tele\r\n42-Primera persona del singular\r\n43-Eliminación de residuos \r\n44-Burro de peluche amigo de Winnie the Pooh\r\n46-Picardía, astucia\r\n48-Toma subrepticia de electricidad\r\n50-Autoridad municipal\r\n52-Excelente, perfecto en su línea\r\n54-Carcajearía, sonreiría\r\n55-Aborta una misión, la…\r\n57-\"El…\" película de terror sobre una cinta de video maldita\r\n58-“Caminante no hay camino, se hace camino al…\" Machado\r\n60-Se ahogan, se atragantan\r\n61-Empresa que junto a Phillips, crearon el Compact Disc\r\n62-Reducido a cenizas por el fuego \r\n",
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,16,#,17,#,#\r\n18,#,#,#,#,19,#,#,#,20,#,21,#,#,#\r\n#,#,22,#,#,#,#,#,23,#,#,#,#,#,#\r\n#,24,#,#,#,#,#,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,#,#,#,#,#\r\n29,#,#,30,#,#,#,#,31,#,#,#,#,32,#\r\n33,#,34,#,#,#,#,#,#,#,#,#,35,#,#\r\n36,#,#,37,38,#,39,#,40,#,#,41,#,42,#\r\n#,#,43,#,#,#,#,#,#,#,#,44,45,#,#\r\n46,47,#,#,#,#,#,#,48,#,49,#,#,#,#\r\n50,#,#,#,#,51,#,#,52,#,#,#,#,#,53\r\n54,#,#,#,#,#,#,55,#,#,#,#,#,56,#\r\n57,#,#,#,58,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,62,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

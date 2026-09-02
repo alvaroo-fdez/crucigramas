@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 4474,
+    "type": null,
+    "attributes": {
+      "author": "Nataly y Elro",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:18:48.477690Z",
+      "updatedAt": "2025-12-30T18:39:17.772567Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly y Elro",
+      "theme": "Y, para colmo, un cruci a dos manos",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-31",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#QUENOSELEPUEDA\r\nQUESEROS#TANGOS\r\nUI#POINT#ESCOGE\r\nENCINTAR#RAIL#G\r\nSOLA##SII##RAGU\r\nI###CREADOR#TUI\r\nETEREO#RECURRIR\r\nMIRADAS#MUNDIAL\r\nPROFANES#PASADA\r\nRAT#NATIVOS###P\r\nERIC##ATI##COMI\r\nU#ZARA#ITERADAS\r\nSHARON#ARROZ#NT\r\nEUROPA#BARBACOA\r\nNMALASPALABRAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Alias de Joaquín Salvador Lavado Tejón, \"padre\" de 'Mafalda'",
+              "answer": "QUINO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "La panza del juez",
+              "answer": "UE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Topo profesional",
+              "answer": "ESPIA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Gas noble usado en carteles",
+              "answer": "NEON"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Disparo al cielo",
+              "answer": "ORIT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "La pusiesen en la radio",
+              "answer": "SONASE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Se va a acanalar por estirar de mala manera",
+              "answer": "ESTRIAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Reté a Tere a poner la quintaesencia griega",
+              "answer": "ETER"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "No le des importancia a la uva desecada",
+              "answer": "PASA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Atar al yugo bueyes, mulas u otras bestias",
+              "answer": "UNCIR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Narcisismo, vanidad",
+              "answer": "EGOLATRIA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"Naughty …\" empresa detrás de 'Uncharted' y 'The Last of Us'",
+              "answer": "DOG"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "·Viene de la 1 horizontal·",
+              "answer": "ASEGUIRLAPISTA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "·¿Cuál es el colmo de los jugadores de crucigramas? (5p, que siguen en la 66 h)·",
+              "answer": "QUESIEMPREUSEN"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Ponen cloro en la web de Chile",
+              "answer": "CL"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Para el latín, es lo mismo",
+              "answer": "IDEM"
+            },
+            "26": {
+              "col": 13,
+              "row": 4,
+              "clue": "Liderad el grupo para llevarlo por el buen camino",
+              "answer": "GUIAD"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Traspasen el sedán",
+              "answer": "CEDAN"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Yegua de pelo mezclado de blanco, gris y bayo",
+              "answer": "ROANA"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Se hizo cargo del asunto, se…",
+              "answer": "OCUPO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Letras de los antiguos alfabetos escandinavos",
+              "answer": "RUNAS"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Lanzar al contenedor",
+              "answer": "TIRAR"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Hará más picante su ficción",
+              "answer": "EROTIZARA"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "La Royal Air Force",
+              "answer": "RAF"
+            },
+            "37": {
+              "col": 11,
+              "row": 6,
+              "clue": "Recuerda tus Deseos más Soñados",
+              "answer": "RDS"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "Puede ser comestible, venenosa o alucinógena",
+              "answer": "SETA"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Sí tía bajamos separadas porque la asediaba",
+              "answer": "SITIABA"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Vidriera de colores",
+              "answer": "VITRAL"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Mujer que, por el calor, clora el coral y lo deja claro",
+              "answer": "CAROL"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Alternativa a cultivar, en el Neolítico",
+              "answer": "CAZAR"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Están en el centro de todo",
+              "answer": "OD"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Las que se pueden convertir en piedra, papel o tijera",
+              "answer": "MANOS"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Me paro en proa y me pongo mi vestimenta",
+              "answer": "ROPA"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Regresará curada del sur",
+              "answer": "ANAS"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Intetna preo se equvioca",
+              "answer": "ERRA"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "GOT El primogénito de los Stark, el de la Boda Roja",
+              "answer": "ROBB"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Un poco de hummus",
+              "answer": "HUM"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Con un poco de café",
+              "answer": "CA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "·¿Cuál es el colmo de un constructor de crucigramas? (8p, que bajan en la 13v)·",
+              "answer": "QUENOSELEPUEDA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Artesanos del parmesano",
+              "answer": "QUESEROS"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "El argentino Gastón se revuelve en estos bailes",
+              "answer": "TANGOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Herradura y clavo",
+              "answer": "UI"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "\"Power…\" el rey de las diapositivas",
+              "answer": "POINT"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Elige: ¿Cesc o Gerard?",
+              "answer": "ESCOGE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Acordonar el área de Cintia",
+              "answer": "ENCINTAR"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Se va a liar parda en el carril del tren",
+              "answer": "RAIL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"…en el olvido/ …con su amor el mar/ …en el muelle de San Blas\" Maná",
+              "answer": "SOLA"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "Si sostenido",
+              "answer": "SII"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Salsa italiana de carne guisada",
+              "answer": "RAGU"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Humano que hace palpables sus ideas",
+              "answer": "CREADOR"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Tuit con el 75% de caracteres",
+              "answer": "TUI"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Aunque suena en estéreo, resulta sutil e impalpable",
+              "answer": "ETEREO"
+            },
+            "36": {
+              "col": 7,
+              "row": 6,
+              "clue": "Tocar el timbre en la casa del juez para pedirle un favor",
+              "answer": "RECURRIR"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Expresiones hechas con esos ojazos",
+              "answer": "MIRADAS"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Faltan 5 meses y 11 días para este evento de fútbol",
+              "answer": "MUNDIAL"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Irrespetes lo sagrado en favor de la fanaticada",
+              "answer": "PROFANES"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "No es futura esta cosa tan extraordinaria",
+              "answer": "PASADA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Espero que esto sea por poco rato",
+              "answer": "RAT"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Los que estuvieron antes que nadie en estas tierras",
+              "answer": "NATIVOS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"… Cartman\" personaje de South Park",
+              "answer": "ERIC"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "¡Gracias …, tía loca! (2p)",
+              "answer": "ATI"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Desaparecí el banquete que yacía frente a mí",
+              "answer": "COMI"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Su marca low cost es Lefties",
+              "answer": "ZARA"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Repetidas una y otra vez",
+              "answer": "ITERADAS"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"… Tate\" actriz estadounidense, víctima de la Familia Manson",
+              "answer": "SHARON"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Si se le pasa a una mujer ya no se casa",
+              "answer": "ARROZ"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales del inventor serbio que tenía mucha chispa",
+              "answer": "NT"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Territorio donde conviven la polka, el yodel, la ópera y el flamenco",
+              "answer": "EUROPA"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Vamos juntos al bar Baco a por la parrilla",
+              "answer": "BARBACOA"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "·Viene de la 14 vertical·",
+              "answer": "NMALASPALABRAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Alias de Joaquín Salvador Lavado Tejón, \"padre\" de 'Mafalda'\r\n2-La panza del juez\r\n3-Topo profesional\r\n4-Gas noble usado en carteles\r\n5-Disparo al cielo\r\n6-La pusiesen en la radio\r\n7-Se va a acanalar por estirar de mala manera\r\n8-Reté a Tere a poner la quintaesencia griega\r\n9-No le des importancia a la uva desecada\r\n10-Atar al yugo bueyes, mulas u otras bestias\r\n11-Narcisismo, vanidad\r\n12-\"Naughty …\" empresa detrás de 'Uncharted' y 'The Last of Us'\r\n13-·Viene de la 1 horizontal·\r\n14-·¿Cuál es el colmo de los jugadores de crucigramas? (5p, que siguen en la 66 h)· \r\n20-Ponen cloro en la web de Chile \r\n24-Para el latín, es lo mismo\r\n26-Liderad el grupo para llevarlo por el buen camino\r\n27-Traspasen el sedán\r\n28-Yegua de pelo mezclado de blanco, gris y bayo\r\n29-Se hizo cargo del asunto, se…\r\n30-Letras de los antiguos alfabetos escandinavos\r\n33-Lanzar al contenedor\r\n34-Hará más picante su ficción\r\n35-La Royal Air Force\r\n37-Recuerda tus Deseos más Soñados\r\n39-Puede ser comestible, venenosa o alucinógena\r\n42-Sí tía bajamos separadas porque la asediaba \r\n46-Vidriera de colores\r\n48-Mujer que, por el calor, clora el coral y lo deja claro\r\n50-Alternativa a cultivar, en el Neolítico\r\n51-Están en el centro de todo\r\n52-Las que se pueden convertir en piedra, papel o tijera\r\n54-Me paro en proa y me pongo mi vestimenta \r\n55-Regresará curada del sur \r\n57-Intetna preo se equvioca\r\n58-GOT El primogénito de los Stark, el de la Boda Roja\r\n60-Un poco de hummus\r\n65-Con un poco de café",
+        "horizontal_clues": "1-·¿Cuál es el colmo de un constructor de crucigramas? (8p, que bajan en la 13v)· \r\n14-Artesanos del parmesano\r\n15-El argentino Gastón se revuelve en estos bailes\r\n16-Herradura y clavo \r\n17-\"Power…\" el rey de las diapositivas\r\n18-Elige: ¿Cesc o Gerard? \r\n19-Acordonar el área de Cintia \r\n21-Se va a liar parda en el carril del tren\r\n22-\"…en el olvido/ …con su amor el mar/ …en el muelle de San Blas\" Maná \r\n23-Si sostenido\r\n25-Salsa italiana de carne guisada \r\n27-Humano que hace palpables sus ideas \r\n31-Tuit con el 75% de caracteres\r\n32-Aunque suena en estéreo, resulta sutil e impalpable\r\n36-Tocar el timbre en la casa del juez para pedirle un favor\r\n38-Expresiones hechas con esos ojazos\r\n40-Faltan 5 meses y 11 días para este evento de fútbol \r\n41-Irrespetes lo sagrado en favor de la fanaticada\r\n43-No es futura esta cosa tan extraordinaria\r\n44-Espero que esto sea por poco rato\r\n45-Los que estuvieron antes que nadie en estas tierras\r\n47-\"… Cartman\" personaje de South Park\r\n49-¡Gracias …, tía loca! (2p)\r\n50-Desaparecí el banquete que yacía frente a mí\r\n53-Su marca low cost es Lefties\r\n56-Repetidas una y otra vez\r\n59-\"… Tate\" actriz estadounidense, víctima de la Familia Manson\r\n61-Si se le pasa a una mujer ya no se casa\r\n62-Iniciales del inventor serbio que tenía mucha chispa\r\n63-Territorio donde conviven la polka, el yodel, la ópera y el flamenco\r\n64-Vamos juntos al bar Baco a por la parrilla\r\n66-·Viene de la 14 vertical·",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,#,15,#,#,#,#,#\r\n16,#,#,17,#,#,#,#,#,18,#,#,#,#,#\r\n19,#,20,#,#,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,#,#,#,23,#,24,#,#,25,#,26,#\r\n#,#,#,#,27,28,#,#,#,29,30,#,31,#,#\r\n32,33,34,35,#,#,#,36,#,#,#,37,#,#,#\r\n38,#,#,#,#,#,39,#,40,#,#,#,#,#,#\r\n41,#,#,#,#,#,#,42,#,43,#,#,#,#,#\r\n44,#,#,#,45,#,#,#,46,#,#,#,#,#,#\r\n47,#,#,48,#,#,49,#,#,#,#,50,51,52,#\r\n#,#,53,#,54,55,#,56,#,57,58,#,#,#,#\r\n59,60,#,#,#,#,#,61,#,#,#,#,#,62,#\r\n63,#,#,#,#,#,#,64,#,#,#,#,65,#,#\r\n66,#,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

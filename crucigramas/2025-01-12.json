@@ -1,0 +1,466 @@
+{
+  "data": {
+    "id": 1503,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-09T10:22:20.201473Z",
+      "updatedAt": "2025-01-09T10:22:20.225086Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-12",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "G#VOLCAN#GUACHE\r\nE##TOLLO#UNCE##\r\nRC##BAUTISTA##A\r\nARD#AUSENTE##RU\r\nREEF#DISTO#AFAN\r\nDILUVIO#ESCLAVA\r\n##ANION#LOABLES\r\nABCDE#####VALLE\r\nMARINAN#AMAÑE##\r\nAYUDABA#SADICAS\r\nBAZO#URDAN#LELO\r\nAS##BERILIO#RGB\r\nN##SELECTAS##AR\r\n##KIBO#HACEN##A\r\nBIENES#ORONDO#R",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Fundador de Kings League",
+              "answer": "GERARD"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Iniciales de cantante boricua, apodada la Mujer de Fuego",
+              "answer": "OT"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Canción de Shakira, que ella considera que es sinónimo de libertad",
+              "answer": "LOBA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "El Gallo de los Looney Tunes",
+              "answer": "CLAUDIO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Mención indirecta",
+              "answer": "ALUSION"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Observes, distingas",
+              "answer": "NOTES"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Que produce placer o agrado",
+              "answer": "GUSTOSO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Aplique y extienda sobre la piel, el bronceador",
+              "answer": "UNTE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Aquí, entrando en la academia",
+              "answer": "ACA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "La tercera",
+              "answer": "CE"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Confié, tuve fe",
+              "answer": "CREI"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Informática Mayor fabricante de procesadores",
+              "answer": "INTEL"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Uniese, confederase para algún fin",
+              "answer": "AUNASE"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "\"Sor Juana Inés…\" religiosa literata (3p)",
+              "answer": "DELACRUZ"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Famoso bolero",
+              "answer": "RAVEL"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Derretido por calor intenso",
+              "answer": "FUNDIDO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Constructor, maestro de obras",
+              "answer": "ALBAÑIL"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Dejar de existir",
+              "answer": "FALLECER"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Capital de Austria",
+              "answer": "VIENA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Ahondad, penetrad",
+              "answer": "CAVAD"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tenían afecto a alguien o algo",
+              "answer": "AMABAN"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Bot Tipo más común de fruto carnoso simple (pl)",
+              "answer": "BAYAS"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "Los padres de mis progenitores",
+              "answer": "ABUELOS"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Comuniqué, referí el hecho, fabulé",
+              "answer": "NARRE"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Saltará como loco, cuando lo vayan a robar",
+              "answer": "ASALTAR"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Hombre con euforia patológica",
+              "answer": "MANIACO"
+            },
+            "44": {
+              "col": 13,
+              "row": 9,
+              "clue": "Lo es el wakame o el nori",
+              "answer": "ALGA"
+            },
+            "45": {
+              "col": 14,
+              "row": 9,
+              "clue": "Exceder lo necesario",
+              "answer": "SOBRAR"
+            },
+            "48": {
+              "col": 7,
+              "row": 10,
+              "clue": "Es chido el refrán que te he comentado",
+              "answer": "DICHO"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Toma leche el recién nacido",
+              "answer": "BEBE"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Emprendan algo con audacia",
+              "answer": "OSEN"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Gram Preposición que denota carencia",
+              "answer": "SIN"
+            },
+            "56": {
+              "col": 2,
+              "row": 13,
+              "clue": "Medida de tiempo china que equivale a 15 minutos aprox",
+              "answer": "KE"
+            },
+            "58": {
+              "col": 11,
+              "row": 13,
+              "clue": "Ando sin límites",
+              "answer": "ND"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Lo es el Teide o el Cotopaxi",
+              "answer": "VOLCAN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Técnica pictórica usada en ilustración y publicidad",
+              "answer": "GUACHE"
+            },
+            "12": {
+              "col": 3,
+              "row": 1,
+              "clue": "Carne que tiene el ciervo junto a los lomos",
+              "answer": "TOLLO"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Amarra, enlaza a los bueyes, los…",
+              "answer": "UNCE"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dentro de la cárcel",
+              "answer": "RC"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Precursor religioso en el río Jordán",
+              "answer": "BAUTISTA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Casi ardemos",
+              "answer": "ARD"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "\"Me gusta cuando callas porque estás como…\" Neruda",
+              "answer": "AUSENTE"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Cerámica china de la dinastía Song",
+              "answer": "RU"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Arrecife en inglés",
+              "answer": "REEF"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Difiero, me alejo",
+              "answer": "DISTO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Prisa, diligencia, premura",
+              "answer": "AFAN"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Gran inundación bíblica",
+              "answer": "DILUVIO"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Pulsera sin adornos que no se abre",
+              "answer": "ESCLAVA"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Ion con carga negativa",
+              "answer": "ANION"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Meritorios, estimables, ensalzables",
+              "answer": "LOABLES"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Las 5 primeras opciones",
+              "answer": "ABCDE"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Depresión entre montañas",
+              "answer": "VALLE"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Conservan el pescado crudo, adobándolo con especies",
+              "answer": "MARINAN"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Preparé algo con artificio y engaño",
+              "answer": "AMAÑE"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Le tiraba un cable, la…",
+              "answer": "AYUDABA"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Mujeres que disfrutan siendo crueles",
+              "answer": "SADICAS"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "El mayor de los órganos linfáticos",
+              "answer": "BAZO"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Preparen los hilos en la urdidera para pasarlos al telar",
+              "answer": "URDAN"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Simple o atontado",
+              "answer": "LELO"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Carta de cada palo que lleva el número uno",
+              "answer": "AS"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Elemento químico ligero y gris",
+              "answer": "BERILIO"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Código de color",
+              "answer": "RGB"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Cuidadosamente elegidas",
+              "answer": "SELECTAS"
+            },
+            "55": {
+              "col": 13,
+              "row": 12,
+              "clue": "Arthur Rimbaud (poeta francés de 'Iluminaciones')",
+              "answer": "AR"
+            },
+            "56": {
+              "col": 2,
+              "row": 13,
+              "clue": "Volcán más alto de África",
+              "answer": "KIBO"
+            },
+            "57": {
+              "col": 7,
+              "row": 13,
+              "clue": "Realizan",
+              "answer": "HACEN"
+            },
+            "59": {
+              "col": 0,
+              "row": 14,
+              "clue": "Parece que vienes con todas tus posesiones",
+              "answer": "BIENES"
+            },
+            "60": {
+              "col": 7,
+              "row": 14,
+              "clue": "Hinchado, esponjado",
+              "answer": "ORONDO"
+            }
+          }
+        },
+        "vertical_clues": "1-Fundador de Kings League\r\n3-Iniciales de cantante boricua, apodada la Mujer de Fuego\r\n4-Canción de Shakira, que ella considera que es sinónimo de libertad\r\n5-El Gallo de los Looney Tunes\r\n6-Mención indirecta\r\n7-Observes, distingas\r\n8-Que produce placer o agrado \r\n9-Aplique y extienda sobre la piel, el bronceador\r\n10-Aquí, entrando en la academia\r\n11-La tercera\r\n15-Confié, tuve fe\r\n17-Informática Mayor fabricante de procesadores\r\n18-Uniese, confederase para algún fin\r\n20-\"Sor Juana Inés…\" religiosa literata (3p) \r\n22-Famoso bolero\r\n24-Derretido por calor intenso \r\n26-Constructor, maestro de obras\r\n27-Dejar de existir \r\n29-Capital de Austria\r\n31-Ahondad, penetrad\r\n34-Tenían afecto a alguien o algo\r\n35-Bot Tipo más común de fruto carnoso simple (pl) \r\n38-Los padres de mis progenitores\r\n39-Comuniqué, referí el hecho, fabulé\r\n40-Saltará como loco, cuando lo vayan a robar\r\n41-Hombre con euforia patológica\r\n44-Lo es el wakame o el nori\r\n45-Exceder lo necesario \r\n48-Es chido el refrán que te he comentado\r\n51-Toma leche el recién nacido\r\n52-Emprendan algo con audacia\r\n54-Gram Preposición que denota carencia\r\n56-Medida de tiempo china que equivale a 15 minutos aprox\r\n58-Ando sin límites\r\n",
+        "horizontal_clues": "2-Lo es el Teide o el Cotopaxi\r\n8-Técnica pictórica usada en ilustración y publicidad \r\n12-Carne que tiene el ciervo junto a los lomos\r\n13-Amarra, enlaza a los bueyes, los…\r\n14-Dentro de la cárcel\r\n16-Precursor religioso en el río Jordán \r\n19-Casi ardemos\r\n21-\"Me gusta cuando callas porque estás como…\" Neruda\r\n22-Cerámica china de la dinastía Song\r\n23-Arrecife en inglés\r\n25-Difiero, me alejo\r\n26-Prisa, diligencia, premura\r\n28-Gran inundación bíblica \r\n30-Pulsera sin adornos que no se abre\r\n32-Ion con carga negativa \r\n33-Meritorios, estimables, ensalzables\r\n34-Las 5 primeras opciones\r\n36-Depresión entre montañas \r\n37-Conservan el pescado crudo, adobándolo con especies\r\n40-Preparé algo con artificio y engaño\r\n42-Le tiraba un cable, la…\r\n43-Mujeres que disfrutan siendo crueles\r\n46-El mayor de los órganos linfáticos\r\n47-Preparen los hilos en la urdidera para pasarlos al telar\r\n49-Simple o atontado\r\n50-Carta de cada palo que lleva el número uno\r\n51-Elemento químico ligero y gris \r\n53-Código de color\r\n54-Cuidadosamente elegidas \r\n55-Arthur Rimbaud (poeta francés de 'Iluminaciones') \r\n56-Volcán más alto de África\r\n57-Realizan\r\n59-Parece que vienes con todas tus posesiones \r\n60-Hinchado, esponjado\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,7,#,8,9,10,11,#,#\r\n#,#,#,12,#,#,#,#,#,13,#,#,#,#,#\r\n14,15,#,#,16,#,#,#,17,#,#,#,#,#,18\r\n19,#,20,#,21,#,#,#,#,#,#,#,#,22,#\r\n23,#,#,24,#,25,#,#,#,#,#,26,27,#,#\r\n28,#,#,#,29,#,#,#,30,#,31,#,#,#,#\r\n#,#,32,#,#,#,#,#,33,#,#,#,#,#,#\r\n34,35,#,#,#,#,#,#,#,#,36,#,#,#,#\r\n37,#,#,#,#,38,39,#,40,41,#,#,#,#,#\r\n42,#,#,#,#,#,#,#,43,#,#,#,#,44,45\r\n46,#,#,#,#,47,#,48,#,#,#,49,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,52,#,53,#,#\r\n#,#,#,54,#,#,#,#,#,#,#,#,#,55,#\r\n#,#,56,#,#,#,#,57,#,#,#,58,#,#,#\r\n59,#,#,#,#,#,#,60,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5475,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-28T00:17:21.996922Z",
+      "updatedAt": "2026-04-28T00:18:12.978993Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-28",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FORMULAS#BRAVAS\r\nISCA#LUIGI#LIDE\r\nCLAN#ORION#MARC\r\nCORDERO#FAMILIA\r\nI##ETERNIDAD##R\r\nORALE#AIO#LOCAL\r\nNAZARI#R#BANANA\r\n#MO##SAVIA##CD#\r\nGOTICO#A#RAFAEL\r\nANORA#INI#LLOSA\r\nR##LONGANIZA##D\r\nGIRASOL#DROPEAR\r\nODIN#TURIN#PURA\r\nLAND#ASACO#EROS\r\nASGARD#DESTRONE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Cuando la realidad supera la…\" increíble, pero cierto",
+              "answer": "FICCION"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Capital de Noruega",
+              "answer": "OSLO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "El Real Club Astur de Regatas",
+              "answer": "RCAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sudafricano, Premio Nobel de la Paz 1993",
+              "answer": "MANDELA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "No pude contener mis lágrimas",
+              "answer": "LLORE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "La bella durmiente",
+              "answer": "AURORA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Síndrome del intestino irritable",
+              "answer": "SII"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Haced la segunda cava en las viñas",
+              "answer": "BINAD"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lo que se le quita al arroz del sushi al lavarlo",
+              "answer": "ALMIDON"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Calle formada por dos filas paralelas de árboles",
+              "answer": "VIAL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Adrián, te quiero mucho",
+              "answer": "ADRI"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Dejarla sin una gota de agua",
+              "answer": "SECARLA"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Alimento de harina no cernida, típico de las Islas Canarias",
+              "answer": "GOFIO"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Profeta Jaredita del Libro de Mormón",
+              "answer": "ETER"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Una… idea, un error",
+              "answer": "MALA"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Banda de grunge fundada por Kurt Cobain",
+              "answer": "NIRVANA"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Román y Norma moran con este chico",
+              "answer": "RAMON"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Doy golpes con el azote",
+              "answer": "AZOTO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Fruto del que proviene el chocolate",
+              "answer": "CACAO"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "\"Cordillera de los…\", la segunda más alta del mundo",
+              "answer": "ANDES"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Lo que tienen en común Edison y Marisol",
+              "answer": "ISO"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "\"… visite nuestro…\" Hombres G",
+              "answer": "BAR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Criatura gótica de piedra",
+              "answer": "GARGOLA"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "País donde las cruces celtas son símbolos culturales",
+              "answer": "IRLANDA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "\"El… no es un foso, es una escalera\" Meñique en 'Juego de Tronos'",
+              "answer": "CAOS"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Levanto, elevo",
+              "answer": "ALZO"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Estilo ícono de los locos años 20 (en las chicas)",
+              "answer": "FLAPPER"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Hablase como un perro",
+              "answer": "LADRASE"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Viviendas de los esquimales",
+              "answer": "IGLUS"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Lista ordenada de los capítulos de un libro",
+              "answer": "INDICE"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Percatad, percibid",
+              "answer": "NOTAD"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Largarnos",
+              "answer": "IRNOS"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Personas que están faltas de juicio",
+              "answer": "IDAS"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "Cuadrilátero de boxeo",
+              "answer": "RING"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Moneda oficial en la Unión Europea",
+              "answer": "EURO"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Anillo que sirve para el juego de la argolla",
+              "answer": "ARON"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Radián (abrev)",
+              "answer": "RAD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Recetas matemáticas",
+              "answer": "FORMULAS"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "“Patatas…”, en el top 3 de las tapas más consumidas en toda España",
+              "answer": "BRAVAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Casi está desordenado",
+              "answer": "ISCA"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "El hermano de Mario Bros",
+              "answer": "LUIGI"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Magistrado romano encargado de las obras públicas (inv)",
+              "answer": "LIDE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Grupo unido por fuertes vínculos",
+              "answer": "CLAN"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Amante de Eos, asesinado por Artemisa",
+              "answer": "ORION"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "\"… Anthony\", cantante de 'Vivir mi vida'",
+              "answer": "MARC"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cría joven del ganado ovino",
+              "answer": "CORDERO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "\"Sagrada…\" la basílica de Gaudí",
+              "answer": "FAMILIA"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Existencia que no está enmarcada en el tiempo",
+              "answer": "ETERNIDAD"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"… wey\" expresión mexicana",
+              "answer": "ORALE"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Alfa, India, Óscar",
+              "answer": "AIO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Perteneciente o relativo a un territorio",
+              "answer": "LOCAL"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Última dinastía musulmana que dominó el Reino de Granada",
+              "answer": "NAZARI"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Plátano, cambur",
+              "answer": "BANANA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Símbolo químico del Molibdeno",
+              "answer": "MO"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "La sangre de las plantas",
+              "answer": "SAVIA"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "¿El compact disc está hecho con cadmio?",
+              "answer": "CD"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Estilo arquitectónico de catedrales medievales con arcos apuntados",
+              "answer": "GOTICO"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Pintor y arquitecto italiano del Renacimiento",
+              "answer": "RAFAEL"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Óscar a la mejor película del 2025",
+              "answer": "ANORA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Iniesta se ausenta",
+              "answer": "INI"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"Mario Vargas…\" en 'La ciudad y los perros'",
+              "answer": "LLOSA"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Embutido español",
+              "answer": "LONGANIZA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Flor grande, con pétalos amarillos y centro marrón",
+              "answer": "GIRASOL"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Videojuegos: Soltar un objeto para liberar espacio en el inventario",
+              "answer": "DROPEAR"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "El rey del Valhalla",
+              "answer": "ODIN"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "Ciudad italiana con el sudario de Jesús",
+              "answer": "TURIN"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Libre y exenta de toda maldad",
+              "answer": "PURA"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Lugar, país, región en inglés",
+              "answer": "LAND"
+            },
+            "64": {
+              "col": 5,
+              "row": 13,
+              "clue": "\"… Paco\", sin miramientos, dándolo todo (2p)",
+              "answer": "ASACO"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Pulsión de vida",
+              "answer": "EROS"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "El mundo de los dioses nórdicos, gobernado por Odín",
+              "answer": "ASGARD"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Le quité el trono a un monarca, lo…",
+              "answer": "DESTRONE"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Cuando la realidad supera la…\" increíble, pero cierto \r\n2-Capital de Noruega\r\n3-El Real Club Astur de Regatas\r\n4-Sudafricano, Premio Nobel de la Paz 1993\r\n5-No pude contener mis lágrimas\r\n6-La bella durmiente\r\n7-Síndrome del intestino irritable\r\n8-Haced la segunda cava en las viñas\r\n9-Lo que se le quita al arroz del sushi al lavarlo\r\n10-Calle formada por dos filas paralelas de árboles\r\n11-Adrián, te quiero mucho \r\n12-Dejarla sin una gota de agua \r\n15-Alimento de harina no cernida, típico de las Islas Canarias\r\n21-Profeta Jaredita del Libro de Mormón\r\n23-Una… idea, un error\r\n25-Banda de grunge fundada por Kurt Cobain\r\n27-Román y Norma moran con este chico\r\n28-Doy golpes con el azote\r\n31-Fruto del que proviene el chocolate\r\n32-\"Cordillera de los…\", la segunda más alta del mundo\r\n34-Lo que tienen en común Edison y Marisol\r\n35-\"… visite nuestro…\" Hombres G\r\n39-Criatura gótica de piedra \r\n40-País donde las cruces celtas son símbolos culturales\r\n41-\"El… no es un foso, es una escalera\" Meñique en 'Juego de Tronos'\r\n43-Levanto, elevo\r\n44-Estilo ícono de los locos años 20 (en las chicas) \r\n45-Hablase como un perro \r\n47-Viviendas de los esquimales\r\n48-Lista ordenada de los capítulos de un libro\r\n51-Percatad, percibid\r\n52-Largarnos\r\n54-Personas que están faltas de juicio\r\n55-Cuadrilátero de boxeo\r\n57-Moneda oficial en la Unión Europea\r\n58-Anillo que sirve para el juego de la argolla\r\n61-Radián (abrev)",
+        "horizontal_clues": "1-Recetas matemáticas \r\n8-“Patatas…”, en el top 3 de las tapas más consumidas en toda España\r\n13-Casi está desordenado \r\n14-El hermano de Mario Bros \r\n16-Magistrado romano encargado de las obras públicas (inv) \r\n17-Grupo unido por fuertes vínculos\r\n18-Amante de Eos, asesinado por Artemisa\r\n19-\"… Anthony\", cantante de 'Vivir mi vida'\r\n20-Cría joven del ganado ovino \r\n22-\"Sagrada…\" la basílica de Gaudí\r\n24-Existencia que no está enmarcada en el tiempo\r\n26-\"… wey\" expresión mexicana\r\n29-Alfa, India, Óscar\r\n30-Perteneciente o relativo a un territorio\r\n33-Última dinastía musulmana que dominó el Reino de Granada\r\n35-Plátano, cambur\r\n36-Símbolo químico del Molibdeno\r\n37-La sangre de las plantas\r\n38-¿El compact disc está hecho con cadmio? \r\n39-Estilo arquitectónico de catedrales medievales con arcos apuntados \r\n42-Pintor y arquitecto italiano del Renacimiento\r\n46-Óscar a la mejor película del 2025 \r\n47-Iniesta se ausenta\r\n49-\"Mario Vargas…\" en 'La ciudad y los perros'\r\n50-Embutido español\r\n53-Flor grande, con pétalos amarillos y centro marrón\r\n56-Videojuegos: Soltar un objeto para liberar espacio en el inventario\r\n59-El rey del Valhalla\r\n60-Ciudad italiana con el sudario de Jesús\r\n62-Libre y exenta de toda maldad\r\n63-Lugar, país, región en inglés \r\n64-\"… Paco\", sin miramientos, dándolo todo (2p)\r\n65-Pulsión de vida\r\n66-El mundo de los dioses nórdicos, gobernado por Odín\r\n67-Le quité el trono a un monarca, lo…",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,#,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,15,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,21,#,#,#,22,#,23,#,#,#,#\r\n#,#,#,24,#,#,#,25,#,#,#,#,#,#,#\r\n26,27,28,#,#,#,29,#,#,#,30,#,31,32,#\r\n33,#,#,#,#,34,#,#,#,35,#,#,#,#,#\r\n#,36,#,#,#,37,#,#,#,#,#,#,38,#,#\r\n39,#,#,40,41,#,#,#,#,42,43,44,#,#,45\r\n46,#,#,#,#,#,47,#,48,#,49,#,#,#,#\r\n#,#,#,50,#,51,#,#,#,52,#,#,#,#,#\r\n53,54,55,#,#,#,#,#,56,#,#,#,57,58,#\r\n59,#,#,#,#,60,#,61,#,#,#,62,#,#,#\r\n63,#,#,#,#,64,#,#,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

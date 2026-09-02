@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1325,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-01T08:24:16.251669Z",
+      "updatedAt": "2024-12-01T08:24:16.277258Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-02",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##RUPIA#ESTOY##\r\n#GOLIAT#MUERTE#\r\nPA#SAGACIDAD#NB\r\nARC#NOVATOS#PSI\r\nDRAE##IDI##FRED\r\nMARX#SOMAV#LEÑO\r\nESTIRA#O#ALEMAN\r\n##ATONO#CROMA##\r\nANGOLA#D#IMITAD\r\nPIES#SAUCE#NUDO\r\nETNO##HBO##GRES\r\nLIA#OCIARAS#OPI\r\nOD#OBELISCOS#TS\r\n#OBTUSA#ENGAÑO#\r\n##ZOSER#SENNA##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "A finales de enero",
+              "answer": "RO"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Universidad de La Serena",
+              "answer": "ULS"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cantan los pollitos",
+              "answer": "PIAN"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "El loro rojo de Jafar, villano de Aladdin",
+              "answer": "IAGO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Vestido, prenda con que se cubre el cuerpo",
+              "answer": "ATAVIO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Transmitía desde un dispositivo",
+              "answer": "EMITIA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Me empapo por el calor",
+              "answer": "SUDO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Astillas impregnadas de resina",
+              "answer": "TEAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ordeno que quiten la sal de frutas",
+              "answer": "ORD"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dominio web para Mayotte",
+              "answer": "YT"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Patas de un animal, armadas de uñas fuertes y agudas",
+              "answer": "GARRAS"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Muestra cómo se educa",
+              "answer": "ENSEÑA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Star Wars La madre de Luke y Laia",
+              "answer": "PADME"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "El fundador de la ciudad de Tebas",
+              "answer": "CADMO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Recipiente hermético de sustancias que requieren aislamiento",
+              "answer": "BIDON"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Ciudad natal de Arturo Pérez",
+              "answer": "CARTAGENA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Parto ocurrido antes de las 37 semanas de gestación",
+              "answer": "PREMATURO"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Victorioso, triunfante",
+              "answer": "EXITOSO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Médico que descubrió la penicilina",
+              "answer": "FLEMING"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Curas las heridas, a veces del cuerpo, a veces del alma",
+              "answer": "SANAS"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Transforme, modifique",
+              "answer": "VARIE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "\"Juego de…\" como 'Mazmorras y dragones'",
+              "answer": "ROL"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Comí un poco de lomo",
+              "answer": "LOM"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Recurro a los que montan caballo sin montura",
+              "answer": "APELO"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Todo muy claro, nada borroso",
+              "answer": "NITIDO"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Uno de los siete Emiratos",
+              "answer": "DUBAI"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Partidario de alguna persona o idea con visión religiosa (masc)",
+              "answer": "ADEPTO"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Cantidad de medicamento a administrar en un día",
+              "answer": "DOSIS"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Ir uno tras otro formando hilera",
+              "answer": "AHILAR"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Prenda para estilizar y moldear el cuerpo (pl)",
+              "answer": "CORSES"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Cañón de guerra",
+              "answer": "OBUS"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"… al fuego\" suspensión temporal del conflicto",
+              "answer": "CESE"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Enfermedad de la piel",
+              "answer": "ACNE"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Segundo fiordo más grande del mundo, Noruega",
+              "answer": "SOGN"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Especie de lechuza",
+              "answer": "OTO"
+            },
+            "59": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"… Pedro\" el portador de las llaves",
+              "answer": "SAN"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Blas Zambrano (Pedagogo español)",
+              "answer": "BZ"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "La doña perdió la clave",
+              "answer": "ÑA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Moneda usada en la India",
+              "answer": "RUPIA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "No me he ido, aquí…",
+              "answer": "ESTOY"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Personaje bíblico que peleó contra David",
+              "answer": "GOLIAT"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "El descanso eterno",
+              "answer": "MUERTE"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Símbolo químico del Protactinio",
+              "answer": "PA"
+            },
+            "15": {
+              "col": 3,
+              "row": 2,
+              "clue": "Perspicacia, agudeza, viveza",
+              "answer": "SAGACIDAD"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Niobio",
+              "answer": "NB"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Lo que Eladio quiere de Arcadio",
+              "answer": "ARC"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Principiantes",
+              "answer": "NOVATOS"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Vigésima tercera letra del alfabeto griego",
+              "answer": "PSI"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Herramienta de crucigramistas (en español)",
+              "answer": "DRAE"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Las idioteces de Lidia",
+              "answer": "IDI"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "El chico rubio de Scooby",
+              "answer": "FRED"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Autor del libro 'El Capital'",
+              "answer": "MARX"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Marchamos en retroceso",
+              "answer": "SOMAV"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Trozo de árbol después de cortado y limpio de ramas",
+              "answer": "LEÑO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Haz que cunda la compra",
+              "answer": "ESTIRA"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Gentilicio de Martín Lutero",
+              "answer": "ALEMAN"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Que no tiene acento prosódico (masc)",
+              "answer": "ATONO"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Marco confundido, baña la pieza metálica",
+              "answer": "CROMA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "País africano donde se originó la capoeira",
+              "answer": "ANGOLA"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Emulad, duplicad",
+              "answer": "IMITAD"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Perteneciste a una raza antigua / de… descalzos y de sueños blancos\" Shakira",
+              "answer": "PIES"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Árbol llorón o Árbol de Babilonia",
+              "answer": "SAUCE"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Lazo que se estrecha y cierra",
+              "answer": "NUDO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Prefijo referente a lo étnico",
+              "answer": "ETNO"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Canal de TV, productor de la serie 'Los Sopranos'",
+              "answer": "HBO"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Tipo de pasta cerámica",
+              "answer": "GRES"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Soga tejida para atar los fardos",
+              "answer": "LIA"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Vaguearás, estarás sin hacer nada",
+              "answer": "OCIARAS"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Organismos Públicos de Investigación",
+              "answer": "OPI"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Un poco de odio",
+              "answer": "OD"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Monumento pétreo con forma de pilar, con cuatro caras trapezoidales iguales (pl)",
+              "answer": "OBELISCOS"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Tribunal supremo",
+              "answer": "TS"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Roma, sin punta",
+              "answer": "OBTUSA"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Falta de verdad en lo que se dice",
+              "answer": "ENGAÑO"
+            },
+            "65": {
+              "col": 2,
+              "row": 14,
+              "clue": "Pirámide que construyó Imhotep, el primer arquitecto de la historia",
+              "answer": "ZOSER"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Corredor de Fórmula 1, brasilero (1960",
+              "answer": "SENNA"
+            }
+          }
+        },
+        "vertical_clues": "1-A finales de enero\r\n2-Universidad de La Serena\r\n3-Cantan los pollitos\r\n4-El loro rojo de Jafar, villano de Aladdin\r\n5-Vestido, prenda con que se cubre el cuerpo\r\n6-Transmitía desde un dispositivo\r\n7-Me empapo por el calor\r\n8-Astillas impregnadas de resina\r\n9-Ordeno que quiten la sal de frutas\r\n10-Dominio web para Mayotte\r\n11-Patas de un animal, armadas de uñas fuertes y agudas\r\n13-Muestra cómo se educa\r\n14-Star Wars La madre de Luke y Laia\r\n16-El fundador de la ciudad de Tebas\r\n18-Recipiente hermético de sustancias que requieren aislamiento\r\n20-Ciudad natal de Arturo Pérez-Reverte\r\n22-Parto ocurrido antes de las 37 semanas de gestación\r\n24-Victorioso, triunfante\r\n26-Médico que descubrió la penicilina\r\n28-Curas las heridas, a veces del cuerpo, a veces del alma\r\n29-Transforme, modifique\r\n32-\"Juego de…\" como 'Mazmorras y dragones' \r\n34-Comí un poco de lomo\r\n37-Recurro a los que montan caballo sin montura\r\n38-Todo muy claro, nada borroso\r\n39-Uno de los siete Emiratos\r\n41-Partidario de alguna persona o idea con visión religiosa (masc)\r\n42-Cantidad de medicamento a administrar en un día\r\n45-Ir uno tras otro formando hilera\r\n46-Prenda para estilizar y moldear el cuerpo (pl)\r\n52-Cañón de guerra\r\n53-\"… al fuego\" suspensión temporal del conflicto\r\n54-Enfermedad de la piel\r\n55-Segundo fiordo más grande del mundo, Noruega\r\n58-Especie de lechuza\r\n59-\"… Pedro\" el portador de las llaves\r\n62-Blas Zambrano (Pedagogo español)\r\n64-La doña perdió la clave\r\n",
+        "horizontal_clues": "1-Moneda usada en la India\r\n6-No me he ido, aquí…\r\n11-Personaje bíblico que peleó contra David \r\n12-El descanso eterno\r\n14-Símbolo químico del Protactinio\r\n15-Perspicacia, agudeza, viveza\r\n17-Niobio\r\n19-Lo que Eladio quiere de Arcadio\r\n21-Principiantes\r\n22-Vigésima tercera letra del alfabeto griego\r\n23-Herramienta de crucigramistas (en español)\r\n25-Las idioteces de Lidia \r\n26-El chico rubio de Scooby-Doo\r\n27-Autor del libro 'El Capital'\r\n28-Marchamos en retroceso\r\n30-Trozo de árbol después de cortado y limpio de ramas\r\n31-Haz que cunda la compra\r\n33-Gentilicio de Martín Lutero\r\n35-Que no tiene acento prosódico (masc)\r\n36-Marco confundido, baña la pieza metálica\r\n37-País africano donde se originó la capoeira\r\n40-Emulad, duplicad\r\n43-\"Perteneciste a una raza antigua / de… descalzos y de sueños blancos\" Shakira\r\n44-Árbol llorón o Árbol de Babilonia\r\n47-Lazo que se estrecha y cierra\r\n48-Prefijo referente a lo étnico\r\n49-Canal de TV, productor de la serie 'Los Sopranos'\r\n50-Tipo de pasta cerámica\r\n51-Soga tejida para atar los fardos\r\n52-Vaguearás, estarás sin hacer nada\r\n56-Organismos Públicos de Investigación\r\n57-Un poco de odio\r\n58-Monumento pétreo con forma de pilar, con cuatro caras trapezoidales iguales (pl)\r\n60-Tribunal supremo\r\n61-Roma, sin punta\r\n63-Falta de verdad en lo que se dice\r\n65-Pirámide que construyó Imhotep, el primer arquitecto de la historia\r\n66-Corredor de Fórmula 1, brasilero (1960-94) \r\n",
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,13,#\r\n14,#,#,15,#,#,#,16,#,#,#,#,#,17,18\r\n19,#,20,#,21,#,#,#,#,#,#,#,22,#,#\r\n23,#,#,24,#,#,25,#,#,#,#,26,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n31,#,#,#,32,#,#,#,#,33,34,#,#,#,#\r\n#,#,35,#,#,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,#,#,#,#,39,#,40,#,#,#,41,42\r\n43,#,#,#,#,44,45,#,46,#,#,47,#,#,#\r\n48,#,#,#,#,#,49,#,#,#,#,50,#,#,#\r\n51,#,#,#,52,53,#,#,#,54,55,#,56,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,59,#,60,#\r\n#,61,62,#,#,#,#,#,63,#,#,#,64,#,#\r\n#,#,65,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

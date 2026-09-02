@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2280,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T16:33:46.197069Z",
+      "updatedAt": "2025-04-29T16:37:45.477276Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-07",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PUAS#CARRO#TEAM\r\nA#MINAZ#OPTAS#I\r\nLLANERO#SORITES\r\nMIMO#ATLAS#TUVO\r\n#RADICA#LIGADA#\r\nTINO#TIBET#SILO\r\nRST#LENIDAD#OUT\r\nAMASARA#ARRASAR\r\nBORAT#####ATORA\r\nO##SIAV#TOCA##S\r\n#LOARIA#OTOÑOS#\r\nDISC#SPEKE#ECUO\r\nRAE#ALE#ERA#REP\r\nINHALAR#NORTEÑO\r\nLACIOS###SANSON",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "“…  Beach”, Famosa playa de Aruba",
+              "answer": "PALM"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Nutrir desde el pecho",
+              "answer": "AMAMANTAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Concilio de los obispos",
+              "answer": "SINODO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Fuerza y elevación de ánimo natural de alguien",
+              "answer": "CARACTER"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Zurra de azotes",
+              "answer": "AZOTAINA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Jardín o lugar donde se cultivan rosas",
+              "answer": "ROSALEDA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lo que haces para conseguir un empleo público",
+              "answer": "OPOSITAR"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Voz infantil con que se designa a los padres",
+              "answer": "TAITAS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "¿Es tu dios o solo le gusta leer mucho?",
+              "answer": "ESTUDIOSO"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Condimento japonés que acompaña a este tipo de ramen",
+              "answer": "MISO"
+            },
+            "12": {
+              "col": 4,
+              "row": 1,
+              "clue": "Símbolo químico del neón",
+              "answer": "NE"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Tito Rojas (El Gallo de la Salsa)",
+              "answer": "TR"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Cualidad de lírico",
+              "answer": "LIRISMO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Hacer un examen a los estudiantes",
+              "answer": "EVALUAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Impido el desarrollo normal de algo",
+              "answer": "TRABO"
+            },
+            "26": {
+              "col": 7,
+              "row": 5,
+              "clue": "Dominio web para Burundi",
+              "answer": "BI"
+            },
+            "28": {
+              "col": 14,
+              "row": 5,
+              "clue": "Están rotas, mejor busca…",
+              "answer": "OTRAS"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Vibrar, palpitar",
+              "answer": "LATIR"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"… Malfoy\" el de Harry Potter",
+              "answer": "DRACO"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Viviendas, moradas (inv)",
+              "answer": "SASAC"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Te corresponde, es contigo, te…",
+              "answer": "ATAÑE"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "Separas a los contagiados, los…",
+              "answer": "AISLAS"
+            },
+            "41": {
+              "col": 6,
+              "row": 9,
+              "clue": "Dispositivo electrónico para fumar",
+              "answer": "VAPER"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Ficha, pseudomoneda digital",
+              "answer": "TOKEN"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Cerros aislados que dominan un llano",
+              "answer": "OTEROS"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Liliana usa el bejuco de Tarzán",
+              "answer": "LIANA"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Viene subiendo un chico de Valle de Hecho (Huesca)",
+              "answer": "OSEHC"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "Son …, color amarillo terroso",
+              "answer": "OCRES"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Lo que controla Morfeo, el…",
+              "answer": "SUEÑO"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tela fuerte de hilo o de algodón crudos",
+              "answer": "DRIL"
+            },
+            "52": {
+              "col": 14,
+              "row": 11,
+              "clue": "Enfrenta algo contra otra cosa para entorpecer o impedir su efecto",
+              "answer": "OPON"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "El surfista la ve elevarse",
+              "answer": "ALO"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "En el altar, Sara hará cara para Tara",
+              "answer": "ARA"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Inic Director de la película \"Balada triste de la trompeta\"",
+              "answer": "AI"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Dominio web para Túnez",
+              "answer": "TN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Puntas, espinas",
+              "answer": "PUAS"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Coche, automóvil",
+              "answer": "CARRO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Dream…\" el equipo soñado del básquet en 1992",
+              "answer": "TEAM"
+            },
+            "11": {
+              "col": 2,
+              "row": 1,
+              "clue": "Que amenaza",
+              "answer": "MINAZ"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "¿Prefieres los patos aptos o el pasto con posta?",
+              "answer": "OPTAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un tipo de los llanos",
+              "answer": "LLANERO"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Recurso estilístico usado en la retórica",
+              "answer": "SORITES"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Oficio del destacado español Carlos Martínez",
+              "answer": "MIMO"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Titán condenado por Zeus a cargar los pilares de la Tierra",
+              "answer": "ATLAS"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Ya no lo tiene",
+              "answer": "TUVO"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Consiste, se ubica, está fundamentado, por ejemplo un problema",
+              "answer": "RADICA"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Relacionada, asociada",
+              "answer": "LIGADA"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "El loco Toni tiene buen juicio, siempre acierta",
+              "answer": "TINO"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Región natal del Dalai Lama",
+              "answer": "TIBET"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Como un granero, es un depósito para guardar los granos",
+              "answer": "SILO"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Van seguidas",
+              "answer": "RST"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Blandura en exigir el cumplimiento de las normas o leyes",
+              "answer": "LENIDAD"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Beisbol Jugada decretada por el árbitro que retira a un jugador de la ofensiva",
+              "answer": "OUT"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Trabajará la masa",
+              "answer": "AMASARA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Echar por tierra, destruir",
+              "answer": "ARRASAR"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Personaje ficticio de Sacha Baron Cohen",
+              "answer": "BORAT"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Atasca, obstruye",
+              "answer": "ATORA"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Marcháis en dirección contraria",
+              "answer": "SIAV"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Ejercita el sentido del tacto",
+              "answer": "TOCA"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Exclamaría, exageraría los valores positivos de alguien o algo",
+              "answer": "LOARIA"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "¡Oh Toño! llevamos varias estaciones  escribiéndonos",
+              "answer": "OTOÑOS"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "El 'compact…' lo tiene el '… jockey'",
+              "answer": "DISC"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"John …\" famoso británico explorador y aventurero en África",
+              "answer": "SPEKE"
+            },
+            "51": {
+              "col": 11,
+              "row": 11,
+              "clue": "Recto, justo",
+              "answer": "ECUO"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Legitima al español",
+              "answer": "RAE"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Ni lager ni pilsen",
+              "answer": "ALE"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "Ya no es ese tiempo histórico",
+              "answer": "ERA"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Reporta las primeras",
+              "answer": "REP"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Usar la nariz de aspiradora",
+              "answer": "INHALAR"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Persona que vive en la parte alta de un mapa",
+              "answer": "NORTEÑO"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Cabello que cae sin formar ondas ni rizos (pl)",
+              "answer": "LACIOS"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Se enamoró de Dalila",
+              "answer": "SANSON"
+            }
+          }
+        },
+        "vertical_clues": "1-“…  Beach”, Famosa playa de Aruba\r\n2-Nutrir desde el pecho\r\n3-Concilio de los obispos\r\n4-Fuerza y elevación de ánimo natural de alguien\r\n5-Zurra de azotes\r\n6-Jardín o lugar donde se cultivan rosas\r\n7-Lo que haces para conseguir un empleo público\r\n8-Voz infantil con que se designa a los padres\r\n9-¿Es tu dios o solo le gusta leer mucho? \r\n10-Condimento japonés que acompaña a este tipo de ramen\r\n12-Símbolo químico del neón\r\n14-Tito Rojas (El Gallo de la Salsa)\r\n16-Cualidad de lírico\r\n18-Hacer un examen a los estudiantes\r\n24-Impido el desarrollo normal de algo\r\n26-Dominio web para Burundi\r\n28-Están rotas, mejor busca…\r\n30-Vibrar, palpitar\r\n31-\"… Malfoy\" el de Harry Potter\r\n34-Viviendas, moradas (inv)\r\n36-Te corresponde, es contigo, te…\r\n40-Separas a los contagiados, los…\r\n41-Dispositivo electrónico para fumar\r\n42-Ficha, pseudomoneda digital\r\n43-Cerros aislados que dominan un llano\r\n44-Liliana usa el bejuco de Tarzán\r\n45-Viene subiendo un chico de Valle de Hecho (Huesca)\r\n47-Son …, color amarillo terroso\r\n48-Lo que controla Morfeo, el…\r\n49-Tela fuerte de hilo o de algodón crudos\r\n52-Enfrenta algo contra otra cosa para entorpecer o impedir su efecto\r\n54-El surfista la ve elevarse\r\n56-En el altar, Sara hará cara para Tara\r\n59-Inic Director de la película \"Balada triste de la trompeta\"\r\n61-Dominio web para Túnez",
+        "horizontal_clues": "1-Puntas, espinas\r\n4-Coche, automóvil\r\n8-\"Dream…\" el equipo soñado del básquet en 1992\r\n11-Que amenaza\r\n13-¿Prefieres los patos aptos o el pasto con posta? \r\n15-Un tipo de los llanos\r\n17-Recurso estilístico usado en la retórica\r\n19-Oficio del destacado español Carlos Martínez\r\n20-Titán condenado por Zeus a cargar los pilares de la Tierra\r\n21-Ya no lo tiene\r\n22-Consiste, se ubica, está fundamentado, por ejemplo un problema\r\n23-Relacionada, asociada\r\n24-El loco Toni tiene buen juicio, siempre acierta\r\n25-Región natal del Dalai Lama\r\n27-Como un granero, es un depósito para guardar los granos\r\n29-Van seguidas\r\n30-Blandura en exigir el cumplimiento de las normas o leyes\r\n32-Beisbol Jugada decretada por el árbitro que retira a un jugador de la ofensiva\r\n33-Trabajará la masa\r\n35-Echar por tierra, destruir\r\n37-Personaje ficticio de Sacha Baron Cohen\r\n38-Atasca, obstruye\r\n39-Marcháis en dirección contraria\r\n42-Ejercita el sentido del tacto\r\n44-Exclamaría, exageraría los valores positivos de alguien o algo\r\n46-¡Oh Toño! llevamos varias estaciones  escribiéndonos\r\n49-El 'compact…' lo tiene el '… jockey'\r\n50-\"John …\" famoso británico explorador y aventurero en África\r\n51-Recto, justo\r\n53-Legitima al español\r\n54-Ni lager ni pilsen\r\n55-Ya no es ese tiempo histórico\r\n57-Reporta las primeras\r\n58-Usar la nariz de aspiradora\r\n60-Persona que vive en la parte alta de un mapa\r\n62-Cabello que cae sin formar ondas ni rizos (pl)\r\n63-Se enamoró de Dalila",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,#,4,5,#,6,7,#,8,9,#,10\r\n#,#,11,#,12,#,#,#,13,#,14,#,#,#,#\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,20,#,#,#,#,#,21,#,#,#\r\n#,22,#,#,#,#,#,#,23,#,#,#,#,#,#\r\n24,#,#,#,#,25,#,26,#,#,#,27,#,#,28\r\n29,#,#,#,30,#,#,#,#,#,31,#,32,#,#\r\n33,#,#,34,#,#,#,#,35,#,#,36,#,#,#\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,#,#\r\n#,#,#,39,#,40,41,#,42,43,#,#,#,#,#\r\n#,44,45,#,#,#,#,#,46,#,#,#,47,48,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,#,55,#,56,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

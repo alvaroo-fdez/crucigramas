@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4026,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.553635Z",
+      "updatedAt": "2025-12-16T12:21:12.477205Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-25",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PELDAÑO#MODISMO\r\nUSB#FORNIDO#TAJ\r\nAT#PORCELANA#RO\r\nRAZAS#OOO#ANTIS\r\n#TARAD#C#ANTES#\r\nTUNA#ISLAS#IRMA\r\nUSAD#REARO#BRAN\r\nT#HIPERSOMNIA#E\r\nESOS#CLIMA#ONIX\r\nSIRI#TOCAD#TOCA\r\n#FIACA#I#AVIVE#\r\nBRACO#LSV#ACABA\r\nLI#OPTOMETRO#ER\r\nONU#AUTORIA#IRI\r\nGATILLO#OBLONGA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hacer púas en un peine",
+              "answer": "PUAR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Nivel social",
+              "answer": "ESTATUS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Simbolo de una unidad de masa usada desde la Antigua Roma",
+              "answer": "LB"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Se defiende haciendo algún foso",
+              "answer": "AFOSA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "No tengo información de este señor",
+              "answer": "ÑOR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tolkien Monstruo de las hordas de Sauron y Saruman",
+              "answer": "ORCO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"… J\" el argentino que cantó 'Rara Vez'",
+              "answer": "MILO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Composición lírica en estrofas de tono elevado",
+              "answer": "ODA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "No dan",
+              "answer": "DONAN"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Iniciales de líder y vocalista de Aerosmith",
+              "answer": "ST"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Terreno bajo y pantanoso que inundan las aguas del mar",
+              "answer": "MARISMA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Los que brillan cuando hay alegría",
+              "answer": "OJOS"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Movimiento estético del siglo XVIII que se opuso al rococó",
+              "answer": "NEOCLASICISMO"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Gloriosamente divino como el Edén",
+              "answer": "PARADISIACO"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Sustancia química de acción bactericida",
+              "answer": "ANTIBIOTICO"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Hortaliza rica en vitamina A",
+              "answer": "ZANAHORIA"
+            },
+            "25": {
+              "col": 12,
+              "row": 3,
+              "clue": "Raza de perro, muy grande y peludo, originario de Canadá",
+              "answer": "TERRANOVA"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Mujer que habla sin rodeos",
+              "answer": "DIRECTA"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Sacada o mostrada por una abertura",
+              "answer": "ASOMADA"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Juego en que se cantan puntos reuniendo caballos y reyes (pl)",
+              "answer": "TUTES"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "¿Loser? puedo parecerlo pero no…",
+              "answer": "SERLO"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "Olor, perfume romántico",
+              "answer": "AROMA"
+            },
+            "34": {
+              "col": 14,
+              "row": 5,
+              "clue": "Adjunta, agrega",
+              "answer": "ANEXA"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Venezuela Mujer superficial, que por lo general tiene dinero",
+              "answer": "SIFRINA"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Solo se le ve la punta de hielo",
+              "answer": "ICEBERG"
+            },
+            "48": {
+              "col": 4,
+              "row": 10,
+              "clue": "Tipo de resina",
+              "answer": "COPAL"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Vara muy larga y gruesa",
+              "answer": "VARAL"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Sitio web, a modo de diario personal",
+              "answer": "BLOG"
+            },
+            "52": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Templo del …\" Casa de adoración con forma de flor",
+              "answer": "LOTO"
+            },
+            "53": {
+              "col": 8,
+              "row": 11,
+              "clue": "Mi amiga Verónica",
+              "answer": "VERO"
+            },
+            "55": {
+              "col": 14,
+              "row": 11,
+              "clue": "Pieza musical de una sola voz",
+              "answer": "ARIA"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Tejido transparente de seda",
+              "answer": "TUL"
+            },
+            "59": {
+              "col": 9,
+              "row": 12,
+              "clue": "Informática Unidad de información utilizada como un múltiplo del byte (siglas)",
+              "answer": "TIB"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Uma Thurman jugando en Ultimate Team",
+              "answer": "UT"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Fin del fin",
+              "answer": "IN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cada tramo de la escalera",
+              "answer": "PELDAÑO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "'Oveja negra' o 'pan comido'",
+              "answer": "MODISMO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bus de comunicaciones",
+              "answer": "USB"
+            },
+            "14": {
+              "col": 4,
+              "row": 1,
+              "clue": "Un tipo de huesos y músculos grandes",
+              "answer": "FORNIDO"
+            },
+            "16": {
+              "col": 12,
+              "row": 1,
+              "clue": "\"… Mahal\", palacio indio",
+              "answer": "TAJ"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Antiguo Testamento",
+              "answer": "AT"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "La cerámica más fina que nos dio China",
+              "answer": "PORCELANA"
+            },
+            "20": {
+              "col": 13,
+              "row": 2,
+              "clue": "Un poco de rock and roll",
+              "answer": "RO"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Grupos en que se subdividen algunas especies biológicas",
+              "answer": "RAZAS"
+            },
+            "23": {
+              "col": 6,
+              "row": 3,
+              "clue": "Triple cero",
+              "answer": "OOO"
+            },
+            "24": {
+              "col": 10,
+              "row": 3,
+              "clue": "Los que están en contra",
+              "answer": "ANTIS"
+            },
+            "26": {
+              "col": 1,
+              "row": 4,
+              "clue": "Señalad el peso que se rebaja en la pesada total",
+              "answer": "TARAD"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "En aquel momento",
+              "answer": "ANTES"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pícara, tunante, vagabunda",
+              "answer": "TUNA"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Porción de tierra rodeada de agua (pl)",
+              "answer": "ISLAS"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Mira que mal rima esta chica",
+              "answer": "IRMA"
+            },
+            "35": {
+              "col": 0,
+              "row": 6,
+              "clue": "Utilizad, emplead",
+              "answer": "USAD"
+            },
+            "36": {
+              "col": 5,
+              "row": 6,
+              "clue": "Vuelvo a arar",
+              "answer": "REARO"
+            },
+            "37": {
+              "col": 11,
+              "row": 6,
+              "clue": "Baile usado antiguamente en España",
+              "answer": "BRAN"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Lo que tiene quien duerme mucho e igual está cansado",
+              "answer": "HIPERSOMNIA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Pronombre demostrativo que señala algo que está cerca (masc, pl)",
+              "answer": "ESOS"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Condiciones atmosféricas",
+              "answer": "CLIMA"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Piedra semipreciosa negra",
+              "answer": "ONIX"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Amiga virtual",
+              "answer": "SIRI"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Ejercitad el sentido del tacto",
+              "answer": "TOCAD"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "Prenda de tela con que se cubría la cabeza",
+              "answer": "TOCA"
+            },
+            "47": {
+              "col": 1,
+              "row": 10,
+              "clue": "La pereza de los gauchos",
+              "answer": "FIACA"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"… la llama del amor\" la encendí, animé la cosa",
+              "answer": "AVIVE"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Raza de perro",
+              "answer": "BRACO"
+            },
+            "52": {
+              "col": 6,
+              "row": 11,
+              "clue": "Lengua de Señas Venezolana (siglas)",
+              "answer": "LSV"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Termina con eso",
+              "answer": "ACABA"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "51 romanos",
+              "answer": "LI"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "Optó por el metro para llevar su instrumento que mide la visión",
+              "answer": "OPTOMETRO"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Las últimas en responder",
+              "answer": "ER"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Organización a cargo de los ODS",
+              "answer": "ONU"
+            },
+            "63": {
+              "col": 4,
+              "row": 13,
+              "clue": "Este crucigrama lo hice yo, es de mi…",
+              "answer": "AUTORIA"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Índice de regularidad internacional (siglas)",
+              "answer": "IRI"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Mecanismo disparador",
+              "answer": "GATILLO"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Más larga que ancha",
+              "answer": "OBLONGA"
+            }
+          }
+        },
+        "vertical_clues": "1-Hacer púas en un peine\r\n2-Nivel social\r\n3-Simbolo de una unidad de masa usada desde la Antigua Roma\r\n4-Se defiende haciendo algún foso\r\n5-No tengo información de este señor\r\n6-Tolkien Monstruo de las hordas de Sauron y Saruman\r\n7-\"… J\" el argentino que cantó 'Rara Vez'\r\n8-Composición lírica en estrofas de tono elevado\r\n9-No dan\r\n10-Iniciales de líder y vocalista de Aerosmith\r\n11-Terreno bajo y pantanoso que inundan las aguas del mar\r\n12-Los que brillan cuando hay alegría\r\n15-Movimiento estético del siglo XVIII que se opuso al rococó\r\n18-Gloriosamente divino como el Edén\r\n19-Sustancia química de acción bactericida\r\n22-Hortaliza rica en vitamina A\r\n25-Raza de perro, muy grande y peludo, originario de Canadá\r\n27-Mujer que habla sin rodeos\r\n28-Sacada o mostrada por una abertura\r\n29-Juego en que se cantan puntos reuniendo caballos y reyes (pl)\r\n31-¿Loser? puedo parecerlo pero no…\r\n32-Olor, perfume romántico\r\n34-Adjunta, agrega\r\n40-Venezuela Mujer superficial, que por lo general tiene dinero\r\n43-Solo se le ve la punta de hielo\r\n48-Tipo de resina\r\n50-Vara muy larga y gruesa\r\n51-Sitio web, a modo de diario personal\r\n52-\"Templo del …\" Casa de adoración con forma de flor\r\n53-Mi amiga Verónica\r\n55-Pieza musical de una sola voz\r\n58-Tejido transparente de seda\r\n59-Informática Unidad de información utilizada como un múltiplo del byte (siglas)\r\n62-Uma Thurman jugando en Ultimate Team\r\n64-Fin del fin",
+        "horizontal_clues": "1-Cada tramo de la escalera\r\n7-'Oveja negra' o 'pan comido'\r\n13-Bus de comunicaciones\r\n14-Un tipo de huesos y músculos grandes\r\n16-\"… Mahal\", palacio indio\r\n17-Antiguo Testamento\r\n18-La cerámica más fina que nos dio China\r\n20-Un poco de rock and roll\r\n21-Grupos en que se subdividen algunas especies biológicas\r\n23-Triple cero\r\n24-Los que están en contra\r\n26-Señalad el peso que se rebaja en la pesada total\r\n28-En aquel momento\r\n29-Pícara, tunante, vagabunda\r\n30-Porción de tierra rodeada de agua (pl)\r\n33-Mira que mal rima esta chica\r\n35-Utilizad, emplead\r\n36-Vuelvo a arar\r\n37-Baile usado antiguamente en España\r\n38-Lo que tiene quien duerme mucho e igual está cansado\r\n39-Pronombre demostrativo que señala algo que está cerca (masc, pl)\r\n41-Condiciones atmosféricas\r\n42-Piedra semipreciosa negra\r\n44-Amiga virtual\r\n45-Ejercitad el sentido del tacto\r\n46-Prenda de tela con que se cubría la cabeza\r\n47-La pereza de los gauchos\r\n49-\"… la llama del amor\" la encendí, animé la cosa\r\n51-Raza de perro\r\n52-Lengua de Señas Venezolana (siglas)\r\n54-Termina con eso\r\n56-51 romanos\r\n57-Optó por el metro para llevar su instrumento que mide la visión\r\n60-Las últimas en responder\r\n61-Organización a cargo de los ODS\r\n63-Este crucigrama lo hice yo, es de mi…\r\n64-Índice de regularidad internacional (siglas)\r\n65-Mecanismo disparador\r\n66-Más larga que ancha",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,4,5,6,#,7,8,9,#,10,11,12\r\n13,#,#,#,14,#,#,15,#,#,#,#,16,#,#\r\n17,#,#,18,#,#,#,#,#,#,#,19,#,20,#\r\n21,#,22,#,#,#,23,#,#,#,24,#,25,#,#\r\n#,26,#,#,#,27,#,#,#,28,#,#,#,#,#\r\n29,#,#,#,#,30,31,#,32,#,#,33,#,#,34\r\n35,#,#,#,#,36,#,#,#,#,#,37,#,#,#\r\n#,#,38,#,#,#,#,#,#,#,#,#,#,#,#\r\n39,40,#,#,#,41,#,#,#,#,#,42,#,43,#\r\n44,#,#,#,#,45,#,#,#,#,#,46,#,#,#\r\n#,47,#,#,48,#,#,#,#,49,50,#,#,#,#\r\n51,#,#,#,#,#,52,#,53,#,54,#,#,#,55\r\n56,#,#,57,#,58,#,#,#,59,#,#,#,60,#\r\n61,#,62,#,63,#,#,#,#,#,#,#,64,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

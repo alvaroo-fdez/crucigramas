@@ -1,0 +1,546 @@
+{
+  "data": {
+    "id": 4307,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-17T12:27:41.604880Z",
+      "updatedAt": "2025-12-18T07:07:19.104675Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Lo importante es que tenemos salud",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-18",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TABLAS#FRACCION\r\nOSA#TORAX#CORRI\r\nLIRAS#EJ#ECHADA\r\nV#BSE#SORT#ED#G\r\nANIMUS##ANOTADA\r\nSUERTE#SUIZA#UR\r\n#M###ACODA#ZARA\r\n#ESTE#AÑO#TOCA#\r\nARAR#CLASH###ZP\r\nRO#ASEAR#OCEANO\r\nA#ABOLI##JUNTOS\r\nBOJ#BISEL#EDU#T\r\nIDIOMA#JA#SERIE\r\nGORDO#DEBUT#DAR\r\nALAMBRES#DECIMO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "·Los embudos donde la suerte aprende a caer despacio·",
+              "answer": "TOLVAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Yo soy … y … seguiré, nunca cambiaré\" Alaska",
+              "answer": "ASI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ella es una auténtica muñeca",
+              "answer": "BARBIE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Torra, dora el pan cuando está volteado",
+              "answer": "ATSEUT"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "El punto está en la esquina inferior izquierda",
+              "answer": "SO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Un paquete, un atado, pero de billetes, por favor",
+              "answer": "FAJO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Necesitas una radiografía, en corto",
+              "answer": "RX"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "300 espartanos en Roma",
+              "answer": "CCC"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Petardazo, salida explosiva de una moto o un coche de F1",
+              "answer": "COHETAZO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Forajida",
+              "answer": "IRADA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Un poco de orden porque el Lord ha perdido la cabeza",
+              "answer": "ORD"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Cataratas más famosas de América del Norte",
+              "answer": "NIAGARA"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "'De…', de nada en catalán",
+              "answer": "RES"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Fenómeno sensorial relajante en videos de internet",
+              "answer": "ASMR"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "La especie humana no se divide por raza, sino por…",
+              "answer": "ETNIA"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Rápidos en la acción o en la respuesta ante un estímulo",
+              "answer": "RAUDOS"
+            },
+            "26": {
+              "col": 1,
+              "row": 4,
+              "clue": "·El DNI del gordo la revelarán los niños de San Ildefonso·",
+              "answer": "NUMERO"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"Que… lo que Dios quiera\"",
+              "answer": "SEA"
+            },
+            "29": {
+              "col": 10,
+              "row": 4,
+              "clue": "En esta Tierra, Dorothy conoció al Espantapájaros",
+              "answer": "OZ"
+            },
+            "30": {
+              "col": 13,
+              "row": 4,
+              "clue": "Primo del melocotón, un poco más pequeño",
+              "answer": "DURAZNO"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "·Lo que haces despierto imaginando que te toca el Gordo·",
+              "answer": "SOÑAR"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Cortáis la lámina de metal de forma que resulte un dibujo",
+              "answer": "CALAIS"
+            },
+            "37": {
+              "col": 12,
+              "row": 6,
+              "clue": "Desde hace 454 mil millones de años, hasta hace 2025 años",
+              "answer": "AC"
+            },
+            "39": {
+              "col": 2,
+              "row": 7,
+              "clue": "Sexólicos Anónimos",
+              "answer": "SA"
+            },
+            "40": {
+              "col": 3,
+              "row": 7,
+              "clue": "Trabajo incompleto",
+              "answer": "TRAB"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Goma…\" pegamento natural comestible",
+              "answer": "ARABIGA"
+            },
+            "44": {
+              "col": 5,
+              "row": 8,
+              "clue": "\"… Cruz\" la reina de la salsa con ¡azúcar!",
+              "answer": "CELIA"
+            },
+            "45": {
+              "col": 9,
+              "row": 8,
+              "clue": "Ponme 3 de hojaldre, por favor",
+              "answer": "HOJ"
+            },
+            "47": {
+              "col": 14,
+              "row": 8,
+              "clue": "·El antiguo nombre del Lotero lo han cambiado a posta·",
+              "answer": "POSTERO"
+            },
+            "50": {
+              "col": 4,
+              "row": 9,
+              "clue": "·Cilindros dorados que hacen girar la suerte de todo un país y lo ponen patas arriba·",
+              "answer": "SOBMOB"
+            },
+            "52": {
+              "col": 10,
+              "row": 9,
+              "clue": "Tenga determinado valor económico, valga",
+              "answer": "CUESTE"
+            },
+            "53": {
+              "col": 11,
+              "row": 9,
+              "clue": "\"Por…\" adverbio que significa 'por tanto'",
+              "answer": "ENDE"
+            },
+            "54": {
+              "col": 12,
+              "row": 9,
+              "clue": "Agobié, ensordecí",
+              "answer": "ATURDI"
+            },
+            "55": {
+              "col": 2,
+              "row": 10,
+              "clue": "Término islámico que se refiere al Más Allá",
+              "answer": "AJIRA"
+            },
+            "58": {
+              "col": 1,
+              "row": 11,
+              "clue": "Aquí se empieza desde abajo, con el fango",
+              "answer": "ODOL"
+            },
+            "60": {
+              "col": 7,
+              "row": 11,
+              "clue": "Piezas mecánicas sometidas a rotación en una máquina",
+              "answer": "EJES"
+            },
+            "61": {
+              "col": 8,
+              "row": 11,
+              "clue": "Pequeño laboratorio",
+              "answer": "LAB"
+            },
+            "64": {
+              "col": 3,
+              "row": 12,
+              "clue": "Oficina de Disparates Mentales",
+              "answer": "ODM"
+            },
+            "67": {
+              "col": 13,
+              "row": 12,
+              "clue": "Infarto Agudo de Miocardio cuando dijo \"yo soy inglés\"",
+              "answer": "IAM"
+            },
+            "69": {
+              "col": 6,
+              "row": 13,
+              "clue": "Entregue la letra",
+              "answer": "DE"
+            },
+            "70": {
+              "col": 9,
+              "row": 13,
+              "clue": "¿Usted de pequeño?",
+              "answer": "UD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "·Galerías de los números afortunados, escaparates del éxito ajeno·",
+              "answer": "TABLAS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "·Es igual a 1/10·",
+              "answer": "FRACCION"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"… menor\" la constelación que tiene a la estrella polar",
+              "answer": "OSA"
+            },
+            "14": {
+              "col": 4,
+              "row": 1,
+              "clue": "Parte del cuerpo que se infla de orgullo y de aire",
+              "answer": "TORAX"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Salí disparada",
+              "answer": "CORRI"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "·Arpas metálicas donde se ordenan las bolas antes del bombo·",
+              "answer": "LIRAS"
+            },
+            "19": {
+              "col": 6,
+              "row": 2,
+              "clue": "Ernst Jünger es un pequeño ejemplo",
+              "answer": "EJ"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "·'La suerte está…' ya lo dijo Julio César o Alfonso Arús·",
+              "answer": "ECHADA"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Base de Seguridad del Estado (o no me cierra el cruci)",
+              "answer": "BSE"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "·La bruja dice que este pueblo de Cataluña es muy afortunado·",
+              "answer": "SORT"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "La editora será Elizabeth Duval",
+              "answer": "ED"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Psico, el arquetipo masculino en la psique femenina según Jung",
+              "answer": "ANIMUS"
+            },
+            "28": {
+              "col": 8,
+              "row": 4,
+              "clue": "Está apuntada dentro de la nota dañada",
+              "answer": "ANOTADA"
+            },
+            "31": {
+              "col": 0,
+              "row": 5,
+              "clue": "·Cuando el azar te guiña un ojo·",
+              "answer": "SUERTE"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "De ahí son Federer, Rousseau, Le Corbusier y Jung",
+              "answer": "SUIZA"
+            },
+            "33": {
+              "col": 13,
+              "row": 5,
+              "clue": "En la puerta de Urgencias",
+              "answer": "UR"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Apoya el codo sobre alguna parte",
+              "answer": "ACODA"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Zapatos, Accesorios y Ropa Adictiva, ¡perdón! Accesible, No, Actual Ay, qué Ansiedad",
+              "answer": "ZARA"
+            },
+            "38": {
+              "col": 1,
+              "row": 7,
+              "clue": "·\"Frase que, contra toda probabilidad, declara el deseo colectivo…·",
+              "answer": "ESTE"
+            },
+            "41": {
+              "col": 6,
+              "row": 7,
+              "clue": "·… de creer, que esta vez la suerte puede acordarse de nosotros\"·",
+              "answer": "AÑO"
+            },
+            "42": {
+              "col": 10,
+              "row": 7,
+              "clue": "·Viene de las 2 pistas anteriores (Las tres palabras)·",
+              "answer": "TOCA"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"… en el mar\" cuando el esfuerzo es inútil",
+              "answer": "ARAR"
+            },
+            "44": {
+              "col": 5,
+              "row": 8,
+              "clue": "\"… Royale\" juego móvil de cartas y duelos en arena",
+              "answer": "CLASH"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "El aka de Zapatero",
+              "answer": "ZP"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Ropa al 50%",
+              "answer": "RO"
+            },
+            "49": {
+              "col": 3,
+              "row": 9,
+              "clue": "Mantener limpio algo",
+              "answer": "ASEAR"
+            },
+            "51": {
+              "col": 9,
+              "row": 9,
+              "clue": "Reino de Neptuno",
+              "answer": "OCEANO"
+            },
+            "55": {
+              "col": 2,
+              "row": 10,
+              "clue": "Revoqué, neutralicé",
+              "answer": "ABOLI"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "·\"¿El décimo?, el décimo es para esto, para estar…\"·",
+              "answer": "JUNTOS"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "·Madera con la que se fabrican las bolas del sorteo·",
+              "answer": "BOJ"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "Corte oblicuo en el borde espejo",
+              "answer": "BISEL"
+            },
+            "62": {
+              "col": 10,
+              "row": 11,
+              "clue": "Dominio web educativo",
+              "answer": "EDU"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lo es el español o el inglés",
+              "answer": "IDIOMA"
+            },
+            "65": {
+              "col": 7,
+              "row": 12,
+              "clue": "¡Qué risa!, ya empezó el jaleo",
+              "answer": "JA"
+            },
+            "66": {
+              "col": 10,
+              "row": 12,
+              "clue": "·Conjunto de billetes idénticos que comparten número·",
+              "answer": "SERIE"
+            },
+            "68": {
+              "col": 0,
+              "row": 13,
+              "clue": "·\"El…\" el que quieres que te toque en Navidad·",
+              "answer": "GORDO"
+            },
+            "69": {
+              "col": 6,
+              "row": 13,
+              "clue": "Primera actuación en público",
+              "answer": "DEBUT"
+            },
+            "71": {
+              "col": 12,
+              "row": 13,
+              "clue": "Amar es \"… sin esperar nada a cambio\"",
+              "answer": "DAR"
+            },
+            "72": {
+              "col": 0,
+              "row": 14,
+              "clue": "·Varillas donde los niños ensartan números y premios ya cantados·",
+              "answer": "ALAMBRES"
+            },
+            "73": {
+              "col": 9,
+              "row": 14,
+              "clue": "·Vale de 20 euros, para soñar despierto hasta Navidad·",
+              "answer": "DECIMO"
+            }
+          }
+        },
+        "vertical_clues": "1-·Los embudos donde la suerte aprende a caer despacio· \r\n2-\"Yo soy … y … seguiré, nunca cambiaré\" Alaska\r\n3-Ella es una auténtica muñeca\r\n4-Torra, dora el pan cuando está volteado\r\n5-El punto está en la esquina inferior izquierda\r\n6-Un paquete, un atado, pero de billetes, por favor\r\n7-Necesitas una radiografía, en corto\r\n8-300 espartanos en Roma\r\n9-Petardazo, salida explosiva de una moto o un coche de F1\r\n10-Forajida\r\n11-Un poco de orden porque el Lord ha perdido la cabeza\r\n12-Cataratas más famosas de América del Norte\r\n15-'De…', de nada en catalán\r\n18-Fenómeno sensorial relajante en videos de internet \r\n20-La especie humana no se divide por raza, sino por…\r\n23-Rápidos en la acción o en la respuesta ante un estímulo \r\n26-·El DNI del gordo la revelarán los niños de San Ildefonso·\r\n27-\"Que… lo que Dios quiera\"\r\n29-En esta Tierra, Dorothy conoció al Espantapájaros\r\n30-Primo del melocotón, un poco más pequeño\r\n32-·Lo que haces despierto imaginando que te toca el Gordo·\r\n35-Cortáis la lámina de metal de forma que resulte un dibujo\r\n37-Desde hace 454 mil millones de años, hasta hace 2025 años\r\n39-Sexólicos Anónimos\r\n40-Trabajo incompleto\r\n43-\"Goma…\" pegamento natural comestible\r\n44-\"… Cruz\" la reina de la salsa con ¡azúcar! \r\n45-Ponme 3 de hojaldre, por favor\r\n47-·El antiguo nombre del Lotero lo han cambiado a posta·\r\n50-·Cilindros dorados que hacen girar la suerte de todo un país y lo ponen patas arriba·\r\n52-Tenga determinado valor económico, valga \r\n53-\"Por…\" adverbio que significa 'por tanto'\r\n54-Agobié, ensordecí\r\n55-Término islámico que se refiere al Más Allá\r\n58-Aquí se empieza desde abajo, con el fango\r\n60-Piezas mecánicas sometidas a rotación en una máquina\r\n61-Pequeño laboratorio\r\n64-Oficina de Disparates Mentales\r\n67-Infarto Agudo de Miocardio cuando dijo \"yo soy inglés\"\r\n69-Entregue la letra\r\n70-¿Usted de pequeño?",
+        "horizontal_clues": "1-·Galerías de los números afortunados, escaparates del éxito ajeno·\r\n6-·Es igual a 1/10·\r\n13-\"… menor\" la constelación que tiene a la estrella polar\r\n14-Parte del cuerpo que se infla de orgullo y de aire \r\n16-Salí disparada\r\n17-·Arpas metálicas donde se ordenan las bolas antes del bombo·\r\n19-Ernst Jünger es un pequeño ejemplo\r\n20-·'La suerte está…' ya lo dijo Julio César o Alfonso Arús· \r\n21-Base de Seguridad del Estado (o no me cierra el cruci) \r\n22-·La bruja dice que este pueblo de Cataluña es muy afortunado·\r\n24-La editora será Elizabeth Duval\r\n25-Psico, el arquetipo masculino en la psique femenina según Jung\r\n28-Está apuntada dentro de la nota dañada\r\n31-·Cuando el azar te guiña un ojo·\r\n32-De ahí son Federer, Rousseau, Le Corbusier y Jung\r\n33-En la puerta de Urgencias\r\n34-Apoya el codo sobre alguna parte\r\n36-Zapatos, Accesorios y Ropa Adictiva, ¡perdón! Accesible, No, Actual Ay, qué Ansiedad\r\n38-·\"Frase que, contra toda probabilidad, declara el deseo colectivo…·\r\n41-·… de creer, que esta vez la suerte puede acordarse de nosotros\"· \r\n42-·Viene de las 2 pistas anteriores (Las tres palabras)· \r\n43-\"… en el mar\" cuando el esfuerzo es inútil\r\n44-\"… Royale\" juego móvil de cartas y duelos en arena\r\n46-El aka de Zapatero\r\n48-Ropa al 50% \r\n49-Mantener limpio algo\r\n51-Reino de Neptuno\r\n55-Revoqué, neutralicé\r\n56-·\"¿El décimo?, el décimo es para esto, para estar…\"· \r\n57-·Madera con la que se fabrican las bolas del sorteo·\r\n59-Corte oblicuo en el borde espejo\r\n62-Dominio web educativo\r\n63-Lo es el español o el inglés\r\n65-¡Qué risa!, ya empezó el jaleo\r\n66-·Conjunto de billetes idénticos que comparten número· \r\n68-·\"El…\" el que quieres que te toque en Navidad·\r\n69-Primera actuación en público\r\n71-Amar es \"… sin esperar nada a cambio\"\r\n72-·Varillas donde los niños ensartan números y premios ya cantados· \r\n73-·Vale de 20 euros, para soñar despierto hasta Navidad·",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,4,5,#,6,7,#,8,9,10,11,12\r\n13,#,#,#,14,#,15,#,#,#,16,#,#,#,#\r\n17,#,#,18,#,#,19,#,#,20,#,#,#,#,#\r\n#,#,21,#,#,#,22,#,23,#,#,24,#,#,#\r\n25,26,#,#,#,27,#,#,28,#,29,#,#,30,#\r\n31,#,#,#,#,#,#,32,#,#,#,#,#,33,#\r\n#,#,#,#,#,34,35,#,#,#,#,36,37,#,#\r\n#,38,39,40,#,#,41,#,#,#,42,#,#,#,#\r\n43,#,#,#,#,44,#,#,#,45,#,#,#,46,47\r\n48,#,#,49,50,#,#,#,#,51,52,53,54,#,#\r\n#,#,55,#,#,#,#,#,#,56,#,#,#,#,#\r\n57,58,#,#,59,#,#,60,61,#,62,#,#,#,#\r\n63,#,#,64,#,#,#,65,#,#,66,#,#,67,#\r\n68,#,#,#,#,#,69,#,#,70,#,#,71,#,#\r\n72,#,#,#,#,#,#,#,#,73,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

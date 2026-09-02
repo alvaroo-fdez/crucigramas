@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3900,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.800558Z",
+      "updatedAt": "2025-11-06T12:53:57.963898Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AMERITA#GRAPAR#\r\nU#XENON#REMOVER\r\nTC#COMODIDAD#TU\r\nOES#DAM#TERCERA\r\nBRIBONA#AS#ASAN\r\nUNGIR#LCR#USTED\r\nSINTONIA#FUTURA\r\n##A##BARDA##D##\r\nRATADA#GENETICA\r\nADULA#LOC#SMART\r\nPERE#LL#OVOIDEO\r\nACARREO#RAF#OYE\r\nIU#GEORRADAR#OM\r\nSESIONE#DOGOS#O\r\n#SOASAN#ASOCIAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vehículo automóvil de transporte público",
+              "answer": "AUTOBUS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mi pareja anterior, mi…",
+              "answer": "EX"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Película de terror dirigida por Jaume Balagueró y Paco Plaza",
+              "answer": "REC"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "El váter no tiene ningún olor",
+              "answer": "INODORO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cogen la birra y se la beben",
+              "answer": "TOMAN"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Un defecto",
+              "answer": "ANOMALIA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Levantar la voz más de lo acostumbrado",
+              "answer": "GRITAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Twitter, Instagram, TikTok",
+              "answer": "REDES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Querer no, lo siguiente",
+              "answer": "AMAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Serie episódica de archivos de audio",
+              "answer": "PODCAST"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Avenida corta",
+              "answer": "AV"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Retirar, retroceder",
+              "answer": "RETRAER"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "País conocido como \"Nieblas de África\"",
+              "answer": "RUANDA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Separé con el cedazo la harina del salvado",
+              "answer": "CERNI"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Marca en algo para distinguirla de otras cosas",
+              "answer": "SIGNATURA"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "Amanerado después de leer toda la teoría",
+              "answer": "ESTUDIADO"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "Unidad mínima de información en informática",
+              "answer": "BIT"
+            },
+            "31": {
+              "col": 7,
+              "row": 5,
+              "clue": "Puesto de trabajo, plaza",
+              "answer": "CARGO"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Dos herraduras",
+              "answer": "UU"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Olimpo de Michael Jeffrey Jordan",
+              "answer": "NBA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Admirador de alguien",
+              "answer": "FAN"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Adornada, ataviada",
+              "answer": "DECORADA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Cortáis el cabello al rape",
+              "answer": "RAPAIS"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Adaptes algo a determinada situación",
+              "answer": "ADECUES"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Respuesta inmunitaria excesiva por sustancias",
+              "answer": "ALERGIA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Final de temporada",
+              "answer": "DA"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Conducto que conduce el bolo desde la faringe al estómago",
+              "answer": "ESOFAGO"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Instituto fundado por Robert Monroe (siglas)",
+              "answer": "TMI"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Confió en él, le…",
+              "answer": "CREYO"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Remolquemos la nave",
+              "answer": "ATOEMOS"
+            },
+            "48": {
+              "col": 6,
+              "row": 9,
+              "clue": "Derramen lágrimas",
+              "answer": "LLOREN"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"La… blanca\" novela negra de Henning Mankell (1993)",
+              "answer": "LEONA"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Lugares de los ríos con fondos firmes y poco profundos",
+              "answer": "VADOS"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "Demandados en juicio civil o criminal, a distinción del actor",
+              "answer": "REOS"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Ave fabulosa persa",
+              "answer": "ROC"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Saturnino Odalberio",
+              "answer": "SO"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Afirmativo",
+              "answer": "SI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La americana merece todo",
+              "answer": "AMERITA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sujetar con grapas",
+              "answer": "GRAPAR"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Gas cuyo efecto en la voz, es contrario al helio",
+              "answer": "XENON"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Mezclar continuamente para que no se pegue, ni se queme",
+              "answer": "REMOVER"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dominio Web para Islas Turcas y Caicos",
+              "answer": "TC"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Confort, placer",
+              "answer": "COMODIDAD"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "\"Me importas… / Y… y… / y nadie más que…\" Bobby Capó, 1952",
+              "answer": "TU"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ooooo",
+              "answer": "OES"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "El término de Sadam era la entrada de Damasco",
+              "answer": "DAM"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Penúltima base del campo de béisbol",
+              "answer": "TERCERA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Bellaca, truhana, villana",
+              "answer": "BRIBONA"
+            },
+            "27": {
+              "col": 8,
+              "row": 4,
+              "clue": "Iniciales de músico español que compuso la canción \"Corazón Partío\"",
+              "answer": "AS"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Se agobian de calor, se…",
+              "answer": "ASAN"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Llenar con santos óleos",
+              "answer": "UNGIR"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Líquido cefalorraquídeo (siglas)",
+              "answer": "LCR"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Ud",
+              "answer": "USTED"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Pensar lo mismo, estar en…",
+              "answer": "SINTONIA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "¿Tipografía que no es una pasada?",
+              "answer": "FUTURA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Matojos silvestres con espinas",
+              "answer": "BARDA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Maldad contra alguien",
+              "answer": "RATADA"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Área de la biología que estudió Gregor Mendel",
+              "answer": "GENETICA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Hace la pelota",
+              "answer": "ADULA"
+            },
+            "48": {
+              "col": 6,
+              "row": 9,
+              "clue": "Casi se vuelve loco",
+              "answer": "LOC"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "La TV cuando es inteligente",
+              "answer": "SMART"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Compte o Balaguer, arquitecto del gótico valenciano",
+              "answer": "PERE"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Exletra",
+              "answer": "LL"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "De forma de huevo (masc)",
+              "answer": "OVOIDEO"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Traigo en mi carro todas las consecuencias",
+              "answer": "ACARREO"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Historietista catalán, también conocido como Dino o Roldán",
+              "answer": "RAF"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Escucha, percibe el sonido",
+              "answer": "OYE"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "59": {
+              "col": 3,
+              "row": 12,
+              "clue": "Dispositivo capaz de detectar materiales por debajo del nivel del suelo",
+              "answer": "GEORRADAR"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Sonido primordial, origen y principio de los mantras dhármicos",
+              "answer": "OM"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Asista a una sesión",
+              "answer": "SESIONE"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Perros argentinos",
+              "answer": "DOGOS"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Asan ligeramente algo",
+              "answer": "SOASAN"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Estableces la relación entre una cosa y otra",
+              "answer": "ASOCIAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Vehículo automóvil de transporte público\r\n2-Mi pareja anterior, mi…\r\n3-Película de terror dirigida por Jaume Balagueró y Paco Plaza\r\n4-El váter no tiene ningún olor\r\n5-Cogen la birra y se la beben\r\n6-Un defecto\r\n7-Levantar la voz más de lo acostumbrado\r\n8-Twitter, Instagram, TikTok\r\n9-Querer no, lo siguiente\r\n10-Serie episódica de archivos de audio\r\n11-Avenida corta\r\n12-Retirar, retroceder\r\n15-País conocido como \"Nieblas de África\"\r\n17-Separé con el cedazo la harina del salvado\r\n21-Marca en algo para distinguirla de otras cosas\r\n24-Amanerado después de leer toda la teoría\r\n26-Unidad mínima de información en informática\r\n31-Puesto de trabajo, plaza\r\n32-Dos herraduras\r\n34-Olimpo de Michael Jeffrey Jordan\r\n35-Admirador de alguien\r\n37-Adornada, ataviada\r\n38-Cortáis el cabello al rape\r\n39-Adaptes algo a determinada situación\r\n40-Respuesta inmunitaria excesiva por sustancias \r\n41-Final de temporada\r\n43-Conducto que conduce el bolo desde la faringe al estómago\r\n44-Instituto fundado por Robert Monroe (siglas)\r\n45-Confió en él, le…\r\n46-Remolquemos la nave\r\n48-Derramen lágrimas\r\n51-\"La… blanca\" novela negra de Henning Mankell (1993)\r\n53-Lugares de los ríos con fondos firmes y poco profundos\r\n55-Demandados en juicio civil o criminal, a distinción del actor\r\n60-Ave fabulosa persa\r\n63-Saturnino Odalberio\r\n65-Afirmativo",
+        "horizontal_clues": "1-La americana merece todo\r\n7-Sujetar con grapas\r\n13-Gas cuyo efecto en la voz, es contrario al helio\r\n14-Mezclar continuamente para que no se pegue, ni se queme\r\n16-Dominio Web para Islas Turcas y Caicos\r\n18-Confort, placer\r\n19-\"Me importas… / Y… y… / y nadie más que…\" Bobby Capó, 1952\r\n20-Ooooo\r\n22-El término de Sadam era la entrada de Damasco\r\n23-Penúltima base del campo de béisbol\r\n25-Bellaca, truhana, villana\r\n27-Iniciales de músico español que compuso la canción \"Corazón Partío\"\r\n28-Se agobian de calor, se…\r\n29-Llenar con santos óleos\r\n30-Líquido cefalorraquídeo (siglas)\r\n32-Ud\r\n33-Pensar lo mismo, estar en…\r\n35-¿Tipografía que no es una pasada?\r\n36-Matojos silvestres con espinas\r\n38-Maldad contra alguien\r\n42-Área de la biología que estudió Gregor Mendel\r\n47-Hace la pelota\r\n48-Casi se vuelve loco\r\n49-La TV cuando es inteligente\r\n50-Compte o Balaguer, arquitecto del gótico valenciano\r\n51-Exletra\r\n52-De forma de huevo (masc)\r\n54-Traigo en mi carro todas las consecuencias\r\n56-Historietista catalán, también conocido como Dino o Roldán\r\n57-Escucha, percibe el sonido\r\n58-Las vocales débiles\r\n59-Dispositivo capaz de detectar materiales por debajo del nivel del suelo\r\n61-Sonido primordial, origen y principio de los mantras dhármicos\r\n62-Asista a una sesión\r\n64-Perros argentinos\r\n66-Asan ligeramente algo\r\n67-Estableces la relación entre una cosa y otra",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n#,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,18,#,#,#,#,#,#,#,#,#,19,#\r\n20,#,21,#,22,#,#,#,23,#,#,#,24,#,#\r\n25,#,#,26,#,#,#,#,27,#,#,28,#,#,#\r\n29,#,#,#,#,#,30,31,#,#,32,#,#,#,#\r\n33,#,#,#,#,34,#,#,#,35,#,#,#,#,#\r\n#,#,#,#,#,36,#,#,37,#,#,#,#,#,#\r\n38,39,#,40,41,#,#,42,#,#,43,44,#,45,46\r\n47,#,#,#,#,#,48,#,#,#,49,#,#,#,#\r\n50,#,#,#,#,51,#,#,52,53,#,#,#,#,#\r\n54,#,#,#,55,#,#,#,56,#,#,#,57,#,#\r\n58,#,#,59,#,#,#,#,#,#,#,60,#,61,#\r\n62,#,63,#,#,#,#,#,64,#,#,#,65,#,#\r\n#,66,#,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

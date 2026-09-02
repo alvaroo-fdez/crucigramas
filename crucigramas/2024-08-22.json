@@ -1,0 +1,441 @@
+{
+  "data": {
+    "id": 739,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-21T19:25:05.549787Z",
+      "updatedAt": "2024-08-21T19:25:05.549807Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-22",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#C#ARZOBISPO#S#\r\nGRADUO#R#KUWAIT\r\n#A##COLEGIR##N#\r\nIN#HOMOGENEO#FD\r\nPETA##CAM##BRIE\r\nSOUL#MARAS#JENS\r\nO#TABES#SERES#P\r\nFREGAR###SATIRA\r\nA#LATEX#PELAD#C\r\nCHAD#YEMEN#BUAH\r\nTORO##NET##LONA\r\nOB#RAZONABLE#OR\r\n#B##MINERIA##M#\r\nBIOMBO#A#LGTBIQ\r\n#T#CONTROLAR#A#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Caja ósea en que está contenido el encéfalo.",
+              "answer": "CRANEO"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Anno Domini.",
+              "answer": "AD"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Viejo, inútil.",
+              "answer": "RUCO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Acercar la imagen, hacer... (voz inglesa).",
+              "answer": "ZOOM"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lidiar con un trabajo pesado.",
+              "answer": "BREGAR"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"__",
+              "answer": "SKIN"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Papilla que se hace con patatas.",
+              "answer": "PURE"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Orson Welles (Actor y director del Ciudadano Kane).",
+              "answer": "OW"
+            },
+            "9": {
+              "col": 13,
+              "row": 0,
+              "clue": "Interminable.",
+              "answer": "SINFIN"
+            },
+            "13": {
+              "col": 6,
+              "row": 2,
+              "clue": "Colas chifladas.",
+              "answer": "LOCAS"
+            },
+            "14": {
+              "col": 8,
+              "row": 2,
+              "clue": "Nombre genérico de las piedras preciosas (pl).",
+              "answer": "GEMAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 3,
+              "clue": "Voz latina que indica inmediatez (dos palabras).",
+              "answer": "IPSOFACTO"
+            },
+            "16": {
+              "col": 3,
+              "row": 3,
+              "clue": "Alentador, animador.",
+              "answer": "HALAGADOR"
+            },
+            "17": {
+              "col": 11,
+              "row": 3,
+              "clue": "Que merece ser rechazado o criticado.",
+              "answer": "OBJETABLE"
+            },
+            "19": {
+              "col": 14,
+              "row": 3,
+              "clue": "Enviar un paquete o mercancía.",
+              "answer": "DESPACHAR"
+            },
+            "21": {
+              "col": 2,
+              "row": 4,
+              "clue": "Amparar, custodiar.",
+              "answer": "TUTELAR"
+            },
+            "24": {
+              "col": 12,
+              "row": 4,
+              "clue": "Porción que queda de un todo.",
+              "answer": "RESIDUO"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Otro nombre del anacardo.",
+              "answer": "MEREY"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "España. Antigua moneda de Aragón.",
+              "answer": "SESEN"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "La batalla es aquí.",
+              "answer": "BAT"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "Código que define un color.",
+              "answer": "RAL"
+            },
+            "36": {
+              "col": 6,
+              "row": 8,
+              "clue": "Elemento químico de número atómico 54.",
+              "answer": "XENON"
+            },
+            "37": {
+              "col": 8,
+              "row": 8,
+              "clue": "Llenar el táper, hasta el tope.",
+              "answer": "PETAR"
+            },
+            "39": {
+              "col": 1,
+              "row": 9,
+              "clue": "Individuo de cierta raza ficticia creada por Tolkien.",
+              "answer": "HOBBIT"
+            },
+            "41": {
+              "col": 7,
+              "row": 9,
+              "clue": "Mover la cadera.",
+              "answer": "MENEAR"
+            },
+            "43": {
+              "col": 13,
+              "row": 9,
+              "clue": "Situación que deriva de la carencia de normas sociales.",
+              "answer": "ANOMIA"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "En el cartón del bingo, dos número pegados.",
+              "answer": "AMBO"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "La última ciudad humana en la tierra de Matrix.",
+              "answer": "ZION"
+            },
+            "51": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"... Gates\" 7ª persona más rica del mundo.",
+              "answer": "BILL"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Playa surfera de Vizcaya.",
+              "answer": "LAGA"
+            },
+            "56": {
+              "col": 3,
+              "row": 13,
+              "clue": "Maestro de Ceremonias, rapero.",
+              "answer": "MC"
+            },
+            "58": {
+              "col": 11,
+              "row": 13,
+              "clue": "Otro sin ojos.",
+              "answer": "TR"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Líder religioso de una diócesis.",
+              "answer": "ARZOBISPO"
+            },
+            "10": {
+              "col": 0,
+              "row": 1,
+              "clue": "Afino la intensidad.",
+              "answer": "GRADUO"
+            },
+            "11": {
+              "col": 9,
+              "row": 1,
+              "clue": "País protagonista de la primera guerra del Golfo.",
+              "answer": "KUWAIT"
+            },
+            "12": {
+              "col": 4,
+              "row": 2,
+              "clue": "Inferir, deducir.",
+              "answer": "COLEGIR"
+            },
+            "15": {
+              "col": 0,
+              "row": 3,
+              "clue": "Dominio web para India.",
+              "answer": "IN"
+            },
+            "16": {
+              "col": 3,
+              "row": 3,
+              "clue": "Relativo a un mismo género, poseedor de iguales caracteres.",
+              "answer": "HOMOGENEO"
+            },
+            "18": {
+              "col": 13,
+              "row": 3,
+              "clue": "El monograma de Fred Durst (el de Limp Bizkit).",
+              "answer": "FD"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Organización que defiende los derechos animales.",
+              "answer": "PETA"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Mi Macintosh va para atrás.",
+              "answer": "CAM"
+            },
+            "23": {
+              "col": 11,
+              "row": 4,
+              "clue": "El queso francés favorito de Larson (la Capitana Marvel).",
+              "answer": "BRIE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Género musical afroamericano en USA, que llega al alma.",
+              "answer": "SOUL"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Centroamérica. Pandillas peligrosas.",
+              "answer": "MARAS"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"... Stoltenberg\" secretario general de la OTAN.",
+              "answer": "JENS"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "Medicina. Extenuación, enflaquecimiento, consunción.",
+              "answer": "TABES"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Sujetos palindrómicos.",
+              "answer": "SERES"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Limpiar el suelo con agua y jabón.",
+              "answer": "FREGAR"
+            },
+            "34": {
+              "col": 9,
+              "row": 7,
+              "clue": "Género literario.",
+              "answer": "SATIRA"
+            },
+            "35": {
+              "col": 2,
+              "row": 8,
+              "clue": "Material con que se hacen los condones.",
+              "answer": "LATEX"
+            },
+            "37": {
+              "col": 8,
+              "row": 8,
+              "clue": "Despellejad, quitad la piel.",
+              "answer": "PELAD"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "País ubicado en África central, sin salida al mar.",
+              "answer": "CHAD"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "País de la península arábiga, cuya capital es Saná.",
+              "answer": "YEMEN"
+            },
+            "42": {
+              "col": 11,
+              "row": 9,
+              "clue": "\"... chaval\" expresión coloquial.",
+              "answer": "BUAH"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Guillermo del...\", director mexicano de 'El laberinto del fauno'.",
+              "answer": "TORO"
+            },
+            "45": {
+              "col": 6,
+              "row": 10,
+              "clue": "Dominio genérico de Internet.",
+              "answer": "NET"
+            },
+            "46": {
+              "col": 11,
+              "row": 10,
+              "clue": "Material de las velas.",
+              "answer": "LONA"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Obligatorias las dos primeras.",
+              "answer": "OB"
+            },
+            "48": {
+              "col": 3,
+              "row": 11,
+              "clue": "Adecuado, conforme a razón.",
+              "answer": "RAZONABLE"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "Río que pasa por Rusia y Kazajistán.",
+              "answer": "OR"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Extracción selectiva de minerales.",
+              "answer": "MINERIA"
+            },
+            "55": {
+              "col": 0,
+              "row": 13,
+              "clue": "Mampara plegable.",
+              "answer": "BIOMBO"
+            },
+            "57": {
+              "col": 9,
+              "row": 13,
+              "clue": "Colectivo diverso en orientación e identidad.",
+              "answer": "LGTBIQ"
+            },
+            "59": {
+              "col": 3,
+              "row": 14,
+              "clue": "Ejercer dominio sobre una situación.",
+              "answer": "CONTROLAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Caja ósea en que está contenido el encéfalo.\r\n2-Anno Domini.\r\n3-Viejo, inútil.\r\n4-Acercar la imagen, hacer... (voz inglesa). \r\n5-Lidiar con un trabajo pesado.\r\n6-\"__-head\" los cabezarrapadas.\r\n7-Papilla que se hace con patatas.\r\n8-Orson Welles (Actor y director del Ciudadano Kane). \r\n9-Interminable.\r\n13-Colas chifladas.\r\n14-Nombre genérico de las piedras preciosas (pl).\r\n15-Voz latina que indica inmediatez (dos palabras).\r\n16-Alentador, animador.\r\n17-Que merece ser rechazado o criticado. \r\n19-Enviar un paquete o mercancía. \r\n21-Amparar, custodiar.\r\n24-Porción que queda de un todo.\r\n26-Otro nombre del anacardo.\r\n27-España. Antigua moneda de Aragón.\r\n30-La batalla es aquí.\r\n32-Código que define un color.\r\n36-Elemento químico de número atómico 54.\r\n37-Llenar el táper, hasta el tope.\r\n39-Individuo de cierta raza ficticia creada por Tolkien.\r\n41-Mover la cadera.\r\n43-Situación que deriva de la carencia de normas sociales.\r\n49-En el cartón del bingo, dos número pegados.\r\n50-La última ciudad humana en la tierra de Matrix.\r\n51-\"... Gates\" 7ª persona más rica del mundo.\r\n52-Playa surfera de Vizcaya.\r\n56-Maestro de Ceremonias, rapero.\r\n58-Otro sin ojos.",
+        "horizontal_clues": "2-Líder religioso de una diócesis. \r\n10-Afino la intensidad.\r\n11-País protagonista de la primera guerra del Golfo.\r\n12-Inferir, deducir.\r\n15-Dominio web para India.\r\n16-Relativo a un mismo género, poseedor de iguales caracteres.\r\n18-El monograma de Fred Durst (el de Limp Bizkit). \r\n20-Organización que defiende los derechos animales. \r\n22-Mi Macintosh va para atrás.\r\n23-El queso francés favorito de Larson (la Capitana Marvel). \r\n25-Género musical afroamericano en USA, que llega al alma.\r\n26-Centroamérica. Pandillas peligrosas.\r\n28-\"... Stoltenberg\" secretario general de la OTAN.\r\n29-Medicina. Extenuación, enflaquecimiento, consunción.\r\n31-Sujetos palindrómicos.\r\n33-Limpiar el suelo con agua y jabón. \r\n34-Género literario.\r\n35-Material con que se hacen los condones.\r\n37-Despellejad, quitad la piel.\r\n38-País ubicado en África central, sin salida al mar.\r\n40-País de la península arábiga, cuya capital es Saná.\r\n42-\"... chaval\" expresión coloquial.\r\n44-\"Guillermo del...\", director mexicano de 'El laberinto del fauno'.\r\n45-Dominio genérico de Internet.\r\n46-Material de las velas.\r\n47-Obligatorias las dos primeras.\r\n48-Adecuado, conforme a razón.\r\n53-Río que pasa por Rusia y Kazajistán.\r\n54-Extracción selectiva de minerales.\r\n55-Mampara plegable.\r\n57-Colectivo diverso en orientación e identidad. \r\n59-Ejercer dominio sobre una situación.",
+        "board_clues_positions": "#,1,#,2,3,4,#,5,#,6,7,8,#,9,#\r\n10,#,#,#,#,#,#,#,#,11,#,#,#,#,#\r\n#,#,#,#,12,#,13,#,14,#,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,17,#,18,19\r\n20,#,21,#,#,#,22,#,#,#,#,23,24,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,28,#,#,#\r\n#,#,29,#,30,#,#,#,31,#,32,#,#,#,#\r\n33,#,#,#,#,#,#,#,#,34,#,#,#,#,#\r\n#,#,35,#,#,#,36,#,37,#,#,#,#,#,#\r\n38,39,#,#,#,40,#,41,#,#,#,42,#,43,#\r\n44,#,#,#,#,#,45,#,#,#,#,46,#,#,#\r\n47,#,#,48,49,50,#,#,#,51,52,#,#,53,#\r\n#,#,#,#,54,#,#,#,#,#,#,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,57,#,58,#,#,#\r\n#,#,#,59,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 1022,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-04T12:39:02.361589Z",
+      "updatedAt": "2024-10-04T12:39:02.361616Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-06",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##CAPAZ#ABOLIA#\r\nECUMENO#CADIZ#I\r\nLABORAL#CLIP#ES\r\nTRO#SILVIO#ABBA\r\nOR#POSEIDO##ARD\r\nNIPON##VE#SALIO\r\n#CELA#CONFIRMAR\r\nT#PIRLO#TANTA#A\r\nEFICIENTE#CHIP#\r\nLINEA#SE##RUNAS\r\nAJA##TOMADOR#VA\r\nMORE#ALEPIN#TAJ\r\nOS#JIPI#EVITADO\r\nN#VELAD#LACERAN\r\n#GUSANO#ENOJO##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Sólido regular limitado por seis cuadrados iguales.",
+              "answer": "CUBO"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dueño de esclavos.",
+              "answer": "AMO"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Se presentaría en persona.",
+              "answer": "PERSONARIA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"... Nin\" la escritora de los 7 Diarios.",
+              "answer": "ANAIS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pocilga.",
+              "answer": "ZOLLE"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Suceso imprevisto que causa daños o lesiones.",
+              "answer": "ACCIDENTE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Oso del \"Libro de la selva\".",
+              "answer": "BALOO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Un pirado viene marcha atrás.",
+              "answer": "ODI"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Barriga de los vertebrados, especialmente si es abultada.",
+              "answer": "LIPA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Izar a medias.",
+              "answer": "IZ"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"... John\" cantando a Diana de Gales.",
+              "answer": "ELTON"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Tipo de gabán muy holgado.",
+              "answer": "CARRIC"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"... Duncan\", bailarina creadora de la danza moderna.",
+              "answer": "ISADORA"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Me rabié con la ibera borracha.",
+              "answer": "EBRIA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"Se busca... o muerto\".",
+              "answer": "VIVO"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Firma francesa de alta costura.",
+              "answer": "BALMAIN"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "\"The...\" trío de rock británico de 'Roxanne'.",
+              "answer": "POLICE"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Pues, una plantación de pepinos.",
+              "answer": "PEPINAR"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Que ocurre al mismo tiempo que otro evento.",
+              "answer": "SINCRONICO"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"...Schopenhauer\" representante del pesimismo filosófico.",
+              "answer": "ARTHUR"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Fortaleció o aseguró una posición.",
+              "answer": "CONSOLIDO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Cuarta nota musical.",
+              "answer": "FA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Arq. Atlante, estatua masculina que hace de columna.",
+              "answer": "TELAMON"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "\"... Corbusier\" padre de la arquitectura moderna.",
+              "answer": "LE"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Permanentes o estables en un trabajo.",
+              "answer": "FIJOS"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Sospecha, desconfía, recela.",
+              "answer": "TEME"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Tontería o acción sin importancia en Argentina.",
+              "answer": "PAVADA"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Individuo nacido en Sajonia.",
+              "answer": "SAJON"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Encubren al patán.",
+              "answer": "TAPAN"
+            },
+            "49": {
+              "col": 8,
+              "row": 10,
+              "clue": "Recurrí al juez para revocar una resolución.",
+              "answer": "APELE"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Asiento alargado, generalmente sin respaldo.",
+              "answer": "DIVAN"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Sostén de un cuerpo giratorio (pl).",
+              "answer": "EJES"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Disminuyó el valor de algo por defectuoso.",
+              "answer": "TARO"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Al fondo de la mochila.",
+              "answer": "ILA"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Sube impulsado con motores de reacción, el avión.",
+              "answer": "TEJ"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Dominio web para Vanuatu.",
+              "answer": "VU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Preparado, instruido para hacerlo.",
+              "answer": "CAPAZ"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Terminaba con la esclavitud.",
+              "answer": "ABOLIA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Porción de la Tierra apta para la vida humana.",
+              "answer": "ECUMENO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Ciudad española de la que zarpó el 2 viaje de Colón a América.",
+              "answer": "CADIZ"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Lloraba descontrolada por su ambiente de trabajo.",
+              "answer": "LABORAL"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Utensilio de oficina.",
+              "answer": "CLIP"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Iniciales del escritor argentino de 'Sobre héroes y tumbas.'.",
+              "answer": "ES"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "República Dominicana. Mucho, por mucho.",
+              "answer": "TRO"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Cantautor cubano de música nueva trova.",
+              "answer": "SILVIO"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "¡Mamma Mía! estos suecos cantaban y se te caía la baba.",
+              "answer": "ABBA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Río que pasa por Rusia y Kazajistán.",
+              "answer": "OR"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Se le metió el demonio.",
+              "answer": "POSEIDO"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Casi ardemos.",
+              "answer": "ARD"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Natural del Japón.",
+              "answer": "NIPON"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Observa como empieza la vejez.",
+              "answer": "VE"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Se fue de fiesta.",
+              "answer": "SALIO"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Cuida, vigila.",
+              "answer": "CELA"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Verificar la veracidad de una información.",
+              "answer": "CONFIRMAR"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Excentrocampista italiano apodado el Arquitecto.",
+              "answer": "PIRLO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Demasiada, mucha.",
+              "answer": "TANTA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Que logra los mejores resultados con mínimo esfuerzo.",
+              "answer": "EFICIENTE"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Electr. Pequeño circuito integrado en los ordenadores.",
+              "answer": "CHIP"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Estar en forma, estar en la...",
+              "answer": "LINEA"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Símbolo químico del Selenio.",
+              "answer": "SE"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Caracteres de la escritura de los antiguos escandinavos.",
+              "answer": "RUNAS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Está bien, dame la caja sin tapa.",
+              "answer": "AJA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Persona aficionada a beber alcohol en exceso.",
+              "answer": "TOMADOR"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "El monograma de la Villano Antillano.",
+              "answer": "VA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Habité o residí habitualmente en un lugar.",
+              "answer": "MORE"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Tela muy fina de lana.",
+              "answer": "ALEPIN"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"... Mahal\", palacio indio.",
+              "answer": "TAJ"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del osmio.",
+              "answer": "OS"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "Un hippie español.",
+              "answer": "JIPI"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Esto se pudo haber evadido.",
+              "answer": "EVITADO"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Haced guardia por la noche.",
+              "answer": "VELAD"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Lastiman, golpean, magullan.",
+              "answer": "LACERAN"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Lombriz, larva, oruga.",
+              "answer": "GUSANO"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Enfado, bravura.",
+              "answer": "ENOJO"
+            }
+          }
+        },
+        "vertical_clues": "1-Sólido regular limitado por seis cuadrados iguales.\r\n2-Dueño de esclavos.\r\n3-Se presentaría en persona.\r\n4-\"... Nin\" la escritora de los 7 Diarios.\r\n5-Pocilga.\r\n6-Suceso imprevisto que causa daños o lesiones. \r\n7-Oso del \"Libro de la selva\".\r\n8-Un pirado viene marcha atrás.\r\n9-Barriga de los vertebrados, especialmente si es abultada.\r\n10-Izar a medias.\r\n11-\"... John\" cantando a Diana de Gales.\r\n12-Tipo de gabán muy holgado.\r\n14-\"... Duncan\", bailarina creadora de la danza moderna.\r\n17-Me rabié con la ibera borracha.\r\n20-\"Se busca... o muerto\".\r\n22-Firma francesa de alta costura. \r\n24-\"The...\" trío de rock británico de 'Roxanne'. \r\n27-Pues, una plantación de pepinos. \r\n29-Que ocurre al mismo tiempo que otro evento. \r\n30-\"...Schopenhauer\" representante del pesimismo filosófico.\r\n32-Fortaleció o aseguró una posición. \r\n33-Cuarta nota musical.\r\n34-Arq. Atlante, estatua masculina que hace de columna.\r\n36-\"... Corbusier\" padre de la arquitectura moderna.\r\n39-Permanentes o estables en un trabajo.\r\n40-Sospecha, desconfía, recela.\r\n42-Tontería o acción sin importancia en Argentina. \r\n46-Individuo nacido en Sajonia.\r\n48-Encubren al patán.\r\n49-Recurrí al juez para revocar una resolución.\r\n50-Asiento alargado, generalmente sin respaldo.\r\n53-Sostén de un cuerpo giratorio (pl).\r\n55-Disminuyó el valor de algo por defectuoso.\r\n58-Al fondo de la mochila.\r\n60-Sube impulsado con motores de reacción, el avión.\r\n61-Dominio web para Vanuatu.",
+        "horizontal_clues": "1-Preparado, instruido para hacerlo.\r\n6-Terminaba con la esclavitud.\r\n11-Porción de la Tierra apta para la vida humana.\r\n13-Ciudad española de la que zarpó el 2 viaje de Colón a América.\r\n15-Lloraba descontrolada por su ambiente de trabajo.\r\n16-Utensilio de oficina.\r\n17-Iniciales del escritor argentino de 'Sobre héroes y tumbas.'. \r\n18-República Dominicana. Mucho, por mucho.\r\n19-Cantautor cubano de música nueva trova. \r\n21-¡Mamma Mía! estos suecos cantaban y se te caía la baba.\r\n23-Río que pasa por Rusia y Kazajistán.\r\n24-Se le metió el demonio.\r\n25-Casi ardemos.\r\n26-Natural del Japón.\r\n28-Observa como empieza la vejez.\r\n29-Se fue de fiesta.\r\n31-Cuida, vigila.\r\n32-Verificar la veracidad de una información. \r\n35-Excentrocampista italiano apodado el Arquitecto.\r\n37-Demasiada, mucha.\r\n38-Que logra los mejores resultados con mínimo esfuerzo. \r\n41-Electr. Pequeño circuito integrado en los ordenadores.\r\n43-Estar en forma, estar en la...\r\n44-Símbolo químico del Selenio.\r\n45-Caracteres de la escritura de los antiguos escandinavos.\r\n47-Está bien, dame la caja sin tapa.\r\n48-Persona aficionada a beber alcohol en exceso. \r\n51-El monograma de la Villano Antillano.\r\n52-Habité o residí habitualmente en un lugar.\r\n54-Tela muy fina de lana.\r\n55-\"... Mahal\", palacio indio.\r\n56-Símbolo químico del osmio.\r\n57-Un hippie español.\r\n59-Esto se pudo haber evadido.\r\n61-Haced guardia por la noche.\r\n62-Lastiman, golpean, magullan.\r\n63-Lombriz, larva, oruga.\r\n64-Enfado, bravura.",
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n11,12,#,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,17,#\r\n18,#,#,#,19,#,#,20,#,#,#,21,22,#,#\r\n23,#,#,24,#,#,#,#,#,#,#,#,25,#,#\r\n26,#,27,#,#,#,#,28,#,#,29,30,#,#,#\r\n#,31,#,#,#,#,32,#,#,33,#,#,#,#,#\r\n34,#,35,#,#,36,#,#,37,#,#,#,#,#,#\r\n38,39,#,#,#,#,#,40,#,#,41,#,#,42,#\r\n43,#,#,#,#,#,44,#,#,#,45,#,#,#,46\r\n47,#,#,#,#,48,#,#,49,50,#,#,#,51,#\r\n52,#,#,53,#,54,#,#,#,#,#,#,55,#,#\r\n56,#,#,57,58,#,#,#,59,#,#,60,#,#,#\r\n#,#,61,#,#,#,#,#,62,#,#,#,#,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 1897,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-11T12:43:04.959819Z",
+      "updatedAt": "2025-03-11T12:46:47.430369Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-14",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALADOS#ANECDOTA\r\nLODO#ECHO#LIMES\r\nBOICOTEAR#OVINO\r\nARREBOL#MORIRAN\r\nT##NL#USABAS##A\r\nRECTO#LOSE#ATAR\r\nORIENTAL#SPRAY#\r\nSAN#GIRASOL#PUM\r\n#DECAE#ROSARINO\r\nMASA#SPIN#NERON\r\nI##SITIAR#CH##T\r\nOCTAVOS#ECHARLA\r\nSERRA#ANIMACION\r\nIDEAN#DARA#ENTE\r\nSONSACAR#CARGAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El ave voladora más grande del mundo",
+              "answer": "ALBATROS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Elogio, aplauso",
+              "answer": "LOOR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Derecho Aceptar la herencia tácita o expresamente",
+              "answer": "ADIR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "El profesor parece un tipo decente",
+              "answer": "DOCENTE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cercado hecho de matas o arbustos",
+              "answer": "SETO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Saliendo de la Yamaha",
+              "answer": "AHA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Leyes, reglas",
+              "answer": "NORMAS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Potabiliza con cloro, el agua",
+              "answer": "CLORA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ver, aunque confusamente, un objeto",
+              "answer": "DIVISAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Combinó las palabras al revés y por eso lo miró mal",
+              "answer": "OMIR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Conjunto de útiles de un determinado arte de pesca",
+              "answer": "TENA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Convenir un sonido con otro",
+              "answer": "ASONAR"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Teléfono móvil, teléfono…",
+              "answer": "CELULAR"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Más larga que ancha",
+              "answer": "OBLONGA"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Hombres excesivamente gordos",
+              "answer": "OBESOS"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Planeta ficticio del libro \"El sol desnudo\" de Isaac Asimov",
+              "answer": "SOLARIA"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Tierra dividida en eras",
+              "answer": "ERADA"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Las salas de la gran pantalla",
+              "answer": "CINES"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Danta, pariente lejano del rinoceronte",
+              "answer": "TAPIR"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Lo que hago cuando no desayuno",
+              "answer": "AYUNO"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Este DJ neerlandés parece que está tieso",
+              "answer": "TIESTO"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Deja la camisa sin arrugas, la…",
+              "answer": "PLANCHA"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Expresar facialmente la alegría",
+              "answer": "SONREIR"
+            },
+            "41": {
+              "col": 14,
+              "row": 7,
+              "clue": "\"Ricardo…\" cantautor de 'Tan enamorados' y 'Me va a extrañar'",
+              "answer": "MONTANER"
+            },
+            "43": {
+              "col": 3,
+              "row": 8,
+              "clue": "Portarás las alianzas, te…",
+              "answer": "CASARAS"
+            },
+            "45": {
+              "col": 11,
+              "row": 8,
+              "clue": "Hacer de nuevo",
+              "answer": "REHACER"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Contracción de la pupila del ojo",
+              "answer": "MIOSIS"
+            },
+            "48": {
+              "col": 6,
+              "row": 9,
+              "clue": "Huella, rastro",
+              "answer": "PISADA"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"… Andrés\" defensora española en el Inter de Milán",
+              "answer": "IVANA"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Doy mi brazo a torcer",
+              "answer": "CEDO"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "No pasa nada si lo pierdes, ya vendrá otro",
+              "answer": "TREN"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Centro de Mediación, Conciliación y Arbitraje",
+              "answer": "CMAC"
+            },
+            "58": {
+              "col": 12,
+              "row": 11,
+              "clue": "Cuadrilátero de boxeo",
+              "answer": "RING"
+            },
+            "59": {
+              "col": 13,
+              "row": 11,
+              "clue": "Devuélveme mi atol",
+              "answer": "LOTA"
+            },
+            "62": {
+              "col": 7,
+              "row": 12,
+              "clue": "El ARN está alterado",
+              "answer": "NAR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "En el ala dos están los que pueden volar",
+              "answer": "ALADOS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "El cuento corto de una historia interesante",
+              "answer": "ANECDOTA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fango, barro",
+              "answer": "LODO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "El hecho es que al no pronunciarse, lo tiró",
+              "answer": "ECHO"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Reduzcas, por ejemplo las asperezas",
+              "answer": "LIMES"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Sabotear pero con más estilo",
+              "answer": "BOICOTEAR"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Tipo de ganado al que pertenece la oveja",
+              "answer": "OVINO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Color rojo de las nubes iluminadas por los rayos del sol",
+              "answer": "ARREBOL"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Fenecerán, fallecerán",
+              "answer": "MORIRAN"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Dominio web para los Países Bajos",
+              "answer": "NL"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Empleabas, utilizabas",
+              "answer": "USABAS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "El corte correcto debe ser derecho",
+              "answer": "RECTO"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Estoy al tanto (dos palabras)",
+              "answer": "LOSE"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Amarrar a la rata que sube",
+              "answer": "ATAR"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Nacido en algún país de Asia del Este",
+              "answer": "ORIENTAL"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Lo usan los grafiteros yanquis",
+              "answer": "SPRAY"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"… José\" un buen padrastro",
+              "answer": "SAN"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "La flor de las pipas",
+              "answer": "GIRASOL"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "El sonido del bajo",
+              "answer": "PUM"
+            },
+            "42": {
+              "col": 1,
+              "row": 8,
+              "clue": "Que va a menos",
+              "answer": "DECAE"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Gentilicio de Messi",
+              "answer": "ROSARINO"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "¿Amas la de hojaldre?",
+              "answer": "MASA"
+            },
+            "47": {
+              "col": 5,
+              "row": 9,
+              "clue": "Física Momento cinético intrínseco de una partícula",
+              "answer": "SPIN"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "El emperador que tocaba la lira, cuando Roma ardía",
+              "answer": "NERON"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Acorralar a alguien, bloqueando todas sus rutas de escape",
+              "answer": "SITIAR"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Exletra",
+              "answer": "CH"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Hasta aquí llegamos en el Mundial de Catar",
+              "answer": "OCTAVOS"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Arrojarla, lanzarla",
+              "answer": "ECHARLA"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"Màrius…\" periodista y crucigramista en catalán",
+              "answer": "SERRA"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Porrismo, cheerleading",
+              "answer": "ANIMACION"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Se inventan algo que nadie puede organizar",
+              "answer": "IDEAN"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Entregará, otorgará",
+              "answer": "DARA"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Entidad del ser",
+              "answer": "ENTE"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Arte de persuadir para conseguir confesiones",
+              "answer": "SONSACAR"
+            },
+            "67": {
+              "col": 9,
+              "row": 14,
+              "clue": "Llenar la batería del móvil",
+              "answer": "CARGAR"
+            }
+          }
+        },
+        "vertical_clues": "1-El ave voladora más grande del mundo\r\n2-Elogio, aplauso\r\n3-Derecho Aceptar la herencia tácita o expresamente\r\n4-El profesor parece un tipo decente\r\n5-Cercado hecho de matas o arbustos\r\n6-Saliendo de la Yamaha\r\n7-Leyes, reglas\r\n8-Potabiliza con cloro, el agua\r\n9-Ver, aunque confusamente, un objeto\r\n10-Combinó las palabras al revés y por eso lo miró mal\r\n11-Conjunto de útiles de un determinado arte de pesca\r\n12-Convenir un sonido con otro\r\n15-Teléfono móvil, teléfono…\r\n18-Más larga que ancha\r\n22-Hombres excesivamente gordos\r\n25-Planeta ficticio del libro \"El sol desnudo\" de Isaac Asimov\r\n27-Tierra dividida en eras\r\n28-Las salas de la gran pantalla\r\n31-Danta, pariente lejano del rinoceronte\r\n32-Lo que hago cuando no desayuno \r\n34-Este DJ neerlandés parece que está tieso\r\n36-Deja la camisa sin arrugas, la…\r\n39-Expresar facialmente la alegría\r\n41-\"Ricardo…\" cantautor de 'Tan enamorados' y 'Me va a extrañar'\r\n43-Portarás las alianzas, te…\r\n45-Hacer de nuevo\r\n46-Contracción de la pupila del ojo\r\n48-Huella, rastro\r\n51-\"… Andrés\" defensora española en el Inter de Milán\r\n54-Doy mi brazo a torcer \r\n55-No pasa nada si lo pierdes, ya vendrá otro\r\n57-Centro de Mediación, Conciliación y Arbitraje\r\n58-Cuadrilátero de boxeo\r\n59-Devuélveme mi atol\r\n62-El ARN está alterado",
+        "horizontal_clues": "1-En el ala dos están los que pueden volar\r\n6-El cuento corto de una historia interesante\r\n13-Fango, barro\r\n14-El hecho es que al no pronunciarse, lo tiró\r\n16-Reduzcas, por ejemplo las asperezas\r\n17-Sabotear pero con más estilo\r\n19-Tipo de ganado al que pertenece la oveja\r\n20-Color rojo de las nubes iluminadas por los rayos del sol \r\n21-Fenecerán, fallecerán\r\n23-Dominio web para los Países Bajos\r\n24-Empleabas, utilizabas\r\n26-El corte correcto debe ser derecho\r\n29-Estoy al tanto (dos palabras) \r\n30-Amarrar a la rata que sube\r\n33-Nacido en algún país de Asia del Este\r\n35-Lo usan los grafiteros yanquis\r\n37-\"… José\" un buen padrastro\r\n38-La flor de las pipas\r\n40-El sonido del bajo\r\n42-Que va a menos\r\n44-Gentilicio de Messi\r\n46-¿Amas la de hojaldre? \r\n47-Física Momento cinético intrínseco de una partícula\r\n49-El emperador que tocaba la lira, cuando Roma ardía\r\n50-Acorralar a alguien, bloqueando todas sus rutas de escape\r\n52-Exletra\r\n53-Hasta aquí llegamos en el Mundial de Catar\r\n56-Arrojarla, lanzarla\r\n60-\"Màrius…\" periodista y crucigramista en catalán\r\n61-Porrismo, cheerleading \r\n63-Se inventan algo que nadie puede organizar\r\n64-Entregará, otorgará\r\n65-Entidad del ser\r\n66-Arte de persuadir para conseguir confesiones \r\n67-Llenar la batería del móvil",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,#,6,7,#,8,9,10,11,12\r\n13,#,#,#,#,14,15,#,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,#,#,21,22,#,#,#,#,#\r\n#,#,#,23,#,#,24,25,#,#,#,#,#,#,#\r\n26,27,28,#,#,#,29,#,#,#,#,30,31,32,#\r\n33,#,#,#,#,34,#,#,#,35,36,#,#,#,#\r\n37,#,#,#,38,#,#,#,39,#,#,#,40,#,41\r\n#,42,#,43,#,#,#,44,#,#,#,45,#,#,#\r\n46,#,#,#,#,47,48,#,#,#,49,#,#,#,#\r\n#,#,#,50,51,#,#,#,#,#,52,#,#,#,#\r\n53,54,55,#,#,#,#,#,56,57,#,#,58,59,#\r\n60,#,#,#,#,#,61,62,#,#,#,#,#,#,#\r\n63,#,#,#,#,#,64,#,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,#,#,#,67,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

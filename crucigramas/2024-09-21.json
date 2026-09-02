@@ -1,0 +1,453 @@
+{
+  "data": {
+    "id": 929,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-20T05:19:27.344628Z",
+      "updatedAt": "2024-09-20T05:19:27.344653Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-21",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "GOMERA##MARISCO\r\nADOSA##DONACION\r\nSENTE#PETULANTE\r\nTOFU#SEVERO#DIR\r\nONID#UTERO#LIZO\r\nN##IMPAGO#PACAS\r\n##PAELLA#PAVADA\r\n#PONCIO#PARADO#\r\nPASTAR#SABADO##\r\nESTES#REGIDO##D\r\nSIUS#LEGAL#VANA\r\nCOL#VAPULO#EVAN\r\nANALIZARA#GRAVE\r\nDADIVOSO##ODRES\r\nOLOROSA##OLEOSA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"... Leroux\" escritor francés autor de la novela 'El fantasma de la ópera'.",
+              "answer": "GASTON"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Edificio teatral en la antigua Grecia.",
+              "answer": "ODEON"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Fiesta del municipio Cútar (Málaga), en honor de sus orígenes moriscos.",
+              "answer": "MONFI"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Alumnos matriculados en un centro educativo.",
+              "answer": "ESTUDIANTES"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Institución de regularización lingüística, del español.",
+              "answer": "RAE"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Motorizado, motociclista.",
+              "answer": "MOTERO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Anfibio que carece de cola.",
+              "answer": "ANURO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Aguado.",
+              "answer": "RALO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ubica a la derecha.",
+              "answer": "ICA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Trabajador afiliado a una organización laboral.",
+              "answer": "SINDICADO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Valorado en el mercado bursátil.",
+              "answer": "COTIZADO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Pesada, engorrosa.",
+              "answer": "ONEROSA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Apellido del famoso dramaturgo Lope.",
+              "answer": "DEVEGA"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Parte colorida de una flor.",
+              "answer": "PETALO"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Reemplazar, sustituir algo por otra cosa.",
+              "answer": "SUPLIR"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Greenwashing, publicidad para parecer ecológicos, cuando no lo son (2p).",
+              "answer": "LAVADOVERDE"
+            },
+            "24": {
+              "col": 4,
+              "row": 5,
+              "clue": "Lugar donde una actividad  tiene su mayor cultivo (pl).",
+              "answer": "MECAS"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cesad de hacer algo.",
+              "answer": "PARAD"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Principio básico de una teoría.",
+              "answer": "POSTULADO"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Mecha de una vela o candil.",
+              "answer": "PABILO"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "Crimen de un amor insano, crimen...",
+              "answer": "PASIONAL"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Sáldala, la deuda.",
+              "answer": "PAGALA"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Que he pecado con una serpiente, en lugar comer atún.",
+              "answer": "PESCADO"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "Estoy convencido de que mi suegro está equivocado.",
+              "answer": "SEGURO"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Vuelve a examinar los apuntes de clase.",
+              "answer": "REPASA"
+            },
+            "34": {
+              "col": 14,
+              "row": 9,
+              "clue": "Natural de Dinamarca (fem).",
+              "answer": "DANESA"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "Nudos muy bonitos.",
+              "answer": "LAZOS"
+            },
+            "38": {
+              "col": 12,
+              "row": 10,
+              "clue": "Tacaño como Ebenezer Scrooge del 'Cuento de Navidad'.",
+              "answer": "AVARO"
+            },
+            "39": {
+              "col": 13,
+              "row": 10,
+              "clue": "Barcos, naos.",
+              "answer": "NAVES"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Se busca... o muerto\".",
+              "answer": "VIVO"
+            },
+            "44": {
+              "col": 3,
+              "row": 12,
+              "clue": "Salir por el oriente.",
+              "answer": "LIR"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Unidad de puntaje del fútbol.",
+              "answer": "GOL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Isla canaria conocida por su silbo.",
+              "answer": "GOMERA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Los son la almeja o el berberecho.",
+              "answer": "MARISCO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Construye una casa pegada a otra.",
+              "answer": "ADOSA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Acto altruista de ceder bienes.",
+              "answer": "DONACION"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Establecí, por ejemplo un precedente.",
+              "answer": "SENTE"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Persona presuntuosa y vanidosa.",
+              "answer": "PETULANTE"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Leche de soja cuajada pero no fermentada, tipo queso.",
+              "answer": "TOFU"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Ochoa fue muy estricto para ganar el Nobel de Medicina.",
+              "answer": "SEVERO"
+            },
+            "19": {
+              "col": 12,
+              "row": 3,
+              "clue": "Dirección incompleta.",
+              "answer": "DIR"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Sonido interior de un nido destruido.",
+              "answer": "ONID"
+            },
+            "21": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"In...\" el tercer y último álbum de Nirvana.",
+              "answer": "UTERO"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Hilo fuerte que sirve de urdimbre para ciertos tejidos.",
+              "answer": "LIZO"
+            },
+            "23": {
+              "col": 3,
+              "row": 5,
+              "clue": "Falta de liquidación de una deuda.",
+              "answer": "IMPAGO"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Fardo o lío (pl).",
+              "answer": "PACAS"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Plato internacional, típico de Valencia",
+              "answer": "PAELLA"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Tontería o necedad.",
+              "answer": "PAVADA"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "El que se lavó las manos.",
+              "answer": "PONCIO"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "El rapado nervioso sigue de pie.",
+              "answer": "PARADO"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Acción del ganado al alimentarse en el campo.",
+              "answer": "PASTAR"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "El día de la semana, para estar sobada.",
+              "answer": "SABADO"
+            },
+            "32": {
+              "col": 0,
+              "row": 9,
+              "clue": "Existas, seas.",
+              "answer": "ESTES"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Ha gobernado, ha mandado.",
+              "answer": "REGIDO"
+            },
+            "35": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pájaros americanos muy semejantes a los jilgueros.",
+              "answer": "SIUS"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prescrito por la ley y conforme a ella.",
+              "answer": "LEGAL"
+            },
+            "37": {
+              "col": 11,
+              "row": 10,
+              "clue": "Falta de realidad, sustancia o entidad.",
+              "answer": "VANA"
+            },
+            "40": {
+              "col": 0,
+              "row": 11,
+              "clue": "Planta hortense, repollo.",
+              "answer": "COL"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Acción y efecto de vapular.",
+              "answer": "VAPULO"
+            },
+            "42": {
+              "col": 11,
+              "row": 11,
+              "clue": "\"... Peters\" lo vemos en 'American Horror Story' y en 'Dahmer'.",
+              "answer": "EVAN"
+            },
+            "43": {
+              "col": 0,
+              "row": 12,
+              "clue": "Indagará, profundizará.",
+              "answer": "ANALIZARA"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Se dice de la palabra cuya sílaba tónica es la penúltima.",
+              "answer": "GRAVE"
+            },
+            "46": {
+              "col": 0,
+              "row": 13,
+              "clue": "Individuo generoso y desprendido.",
+              "answer": "DADIVOSO"
+            },
+            "47": {
+              "col": 10,
+              "row": 13,
+              "clue": "Cuero cosido, que sirve para contener vino o aceite (pl).",
+              "answer": "ODRES"
+            },
+            "48": {
+              "col": 0,
+              "row": 14,
+              "clue": "Que exhala de sí fragancia (fem).",
+              "answer": "OLOROSA"
+            },
+            "49": {
+              "col": 9,
+              "row": 14,
+              "clue": "Aceitosa, grasosa, oleaginosa.",
+              "answer": "OLEOSA"
+            }
+          }
+        },
+        "vertical_clues": "1-\"... Leroux\" escritor francés autor de la novela 'El fantasma de la ópera'.\r\n2-Edificio teatral en la antigua Grecia.\r\n3-Fiesta del municipio Cútar (Málaga), en honor de sus orígenes moriscos.\r\n4-Alumnos matriculados en un centro educativo. \r\n5-Institución de regularización lingüística, del español.\r\n6-Motorizado, motociclista.\r\n7-Anfibio que carece de cola.\r\n8-Aguado.\r\n9-Ubica a la derecha.\r\n10-Trabajador afiliado a una organización laboral. \r\n11-Valorado en el mercado bursátil. \r\n12-Pesada, engorrosa.\r\n14-Apellido del famoso dramaturgo Lope. \r\n16-Parte colorida de una flor. \r\n18-Reemplazar, sustituir algo por otra cosa.\r\n22-Greenwashing, publicidad para parecer ecológicos, cuando no lo son (2p).\r\n24-Lugar donde una actividad  tiene su mayor cultivo (pl).\r\n25-Cesad de hacer algo.\r\n26-Principio básico de una teoría. \r\n27-Mecha de una vela o candil. \r\n28-Crimen de un amor insano, crimen...\r\n29-Sáldala, la deuda.\r\n30-Que he pecado con una serpiente, en lugar comer atún.\r\n31-Estoy convencido de que mi suegro está equivocado.\r\n33-Vuelve a examinar los apuntes de clase.\r\n34-Natural de Dinamarca (fem).\r\n36-Nudos muy bonitos.\r\n38-Tacaño como Ebenezer Scrooge del 'Cuento de Navidad'.\r\n39-Barcos, naos.\r\n41-\"Se busca... o muerto\".\r\n44-Salir por el oriente.\r\n45-Unidad de puntaje del fútbol.",
+        "horizontal_clues": "1-Isla canaria conocida por su silbo. \r\n6-Los son la almeja o el berberecho.\r\n13-Construye una casa pegada a otra.\r\n14-Acto altruista de ceder bienes. \r\n15-Establecí, por ejemplo un precedente.\r\n16-Persona presuntuosa y vanidosa. \r\n17-Leche de soja cuajada pero no fermentada, tipo queso.\r\n18-Ochoa fue muy estricto para ganar el Nobel de Medicina.\r\n19-Dirección incompleta.\r\n20-Sonido interior de un nido destruido.\r\n21-\"In...\" el tercer y último álbum de Nirvana.\r\n22-Hilo fuerte que sirve de urdimbre para ciertos tejidos.\r\n23-Falta de liquidación de una deuda. \r\n25-Fardo o lío (pl).\r\n26-Plato internacional, típico de Valencia-España.\r\n27-Tontería o necedad. \r\n28-El que se lavó las manos.\r\n29-El rapado nervioso sigue de pie.\r\n30-Acción del ganado al alimentarse en el campo. \r\n31-El día de la semana, para estar sobada. \r\n32-Existas, seas.\r\n33-Ha gobernado, ha mandado.\r\n35-Pájaros americanos muy semejantes a los jilgueros.\r\n36-Prescrito por la ley y conforme a ella.\r\n37-Falta de realidad, sustancia o entidad.\r\n40-Planta hortense, repollo.\r\n41-Acción y efecto de vapular.\r\n42-\"... Peters\" lo vemos en 'American Horror Story' y en 'Dahmer'.\r\n43-Indagará, profundizará.\r\n45-Se dice de la palabra cuya sílaba tónica es la penúltima.\r\n46-Individuo generoso y desprendido. \r\n47-Cuero cosido, que sirve para contener vino o aceite (pl).\r\n48-Que exhala de sí fragancia (fem).\r\n49-Aceitosa, grasosa, oleaginosa.",
+        "board_clues_positions": "1,2,3,4,5,#,#,#,6,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,16,#,#,#,#,#,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,#,19,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n#,#,#,23,24,#,#,#,#,#,25,#,#,#,#\r\n#,#,26,#,#,#,#,#,#,27,#,#,#,#,#\r\n#,28,#,#,#,#,#,#,29,#,#,#,#,#,#\r\n30,#,#,#,#,#,#,31,#,#,#,#,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,#,#,#,34\r\n35,#,#,#,#,36,#,#,#,#,#,37,38,39,#\r\n40,#,#,#,41,#,#,#,#,#,#,42,#,#,#\r\n43,#,#,44,#,#,#,#,#,#,45,#,#,#,#\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,#,#,#,#,49,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

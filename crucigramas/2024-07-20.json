@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 628,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-17T13:45:54.065037Z",
+      "updatedAt": "2024-07-17T13:45:54.065061Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-20",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TERUEL#P#BOLERA\r\nES#AMAME#RETSAM\r\nUTILIDAD#OTIT#P\r\nTIC#RETRO#A#ANA\r\nOLOR#AROMA#AMAR\r\nNOR#ADA#ASOMBRO\r\n###ASAZ#RETOUR#\r\nFRIKI#####RULOT\r\n#EMILIO#ETER###\r\nAPAREEN#LIS#TIP\r\nLOGA#GADOT#LISA\r\nENE#B#NOGAL#PME\r\nT#NAOS#BINOMIAL\r\nACERTO#BOINA#EL\r\nSISTER#Y#CANELA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Antiguo pueblo germánico.",
+              "answer": "TEUTON"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Manera característica de expresión artística.",
+              "answer": "ESTILO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Siglas de universidad almeriense.",
+              "answer": "UAL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Príncipe o caudillo árabe.",
+              "answer": "EMIR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Inclinada hacia un lado.",
+              "answer": "LADEADA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Almodóvar el director o Infante el cantante.",
+              "answer": "PEDRO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "... es a brother, lo que mano es a hermano (por analogía).",
+              "answer": "BRO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "El que no cree en ningún Dios viene subiendo.",
+              "answer": "OETA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "El penalti salió por la derecha.",
+              "answer": "LTI"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ciudad más poblada de Turquía.",
+              "answer": "ESTAMBUL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Medio raro.",
+              "answer": "RA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "\"... Sánchez\" vocalista de exagrupación 'Amparanoia'.",
+              "answer": "AMPARO"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Vaso esférico de cristal terminado en un tubo estrecho, usado en laboratorios.",
+              "answer": "MATRAZ"
+            },
+            "18": {
+              "col": 2,
+              "row": 2,
+              "clue": "La sangre de los dioses griegos, fuente de su inmortalidad.",
+              "answer": "ICOR"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Él mora en Roma y armó, con amor, un ramo de maro.",
+              "answer": "OMAR"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Contó, describió los acontecimientos.",
+              "answer": "NARRO"
+            },
+            "27": {
+              "col": 9,
+              "row": 4,
+              "clue": "Cocine un alimento.",
+              "answer": "ASE"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "El amor de un francés.",
+              "answer": "AMOUR"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Así le ayudé, lo albergué.",
+              "answer": "ASILE"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Otros que son inclusivos.",
+              "answer": "OTRES"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"... Toriyama\" creador de Dragon Ball.",
+              "answer": "AKIRA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Restituye lo que falta.",
+              "answer": "REPON"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Representaciones visuales.",
+              "answer": "IMAGENES"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Siguen subiendo los Gases de Efecto Invernadero.",
+              "answer": "IEG"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"El pecado de...\" la masturbación.",
+              "answer": "ONAN"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Le oigo liado con la alabanza.",
+              "answer": "ELOGIO"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Se hundió por un iceberg.",
+              "answer": "TITANIC"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Se las cortan a los tiburones para hacer sopas y ellos mueren.",
+              "answer": "ALETAS"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Vivienda de los indios de América del Norte.",
+              "answer": "TIPI"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"… Miranda\", salsero apodado \"El Niño Bonito de la Salsa\".",
+              "answer": "ISMAEL"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Plato internacional, típico de Valencia",
+              "answer": "PAELLA"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Elfo doméstico y amigo de Harry Potter.",
+              "answer": "DOBBY"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Salto de la lancha.",
+              "answer": "BOTE"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Material de las velas.",
+              "answer": "LONA"
+            },
+            "59": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"... Attack\" programa infantil de manualidades.",
+              "answer": "ART"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "Tratamiento para Juana Inés de la Cruz.",
+              "answer": "SOR"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Este tipo es inglés.",
+              "answer": "MAN"
+            },
+            "64": {
+              "col": 1,
+              "row": 13,
+              "clue": "Su cociente intelectual es de 101.",
+              "answer": "CI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ciudad aragonesa que alberga al Observatorio Astrofísico de Javalambre.",
+              "answer": "TERUEL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lugar destinado a jugar bolos.",
+              "answer": "BOLERA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Elba Sado.",
+              "answer": "ES"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Quiéreme, adórame.",
+              "answer": "AMAME"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "La maestría viene del oriente.",
+              "answer": "RETSAM"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Provecho, beneficio.",
+              "answer": "UTILIDAD"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "El líder de la desaparecida Yugoslavia (inv).",
+              "answer": "OTIT"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Característica principal del síndrome de Tourette.",
+              "answer": "TIC"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Modas pasadas.",
+              "answer": "RETRO"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "La que soñó por un momento que era aire, oxígeno, nitrógeno y argón.",
+              "answer": "ANA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Hedor, fetidez.",
+              "answer": "OLOR"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Como el olor, pero del vino o el café.",
+              "answer": "AROMA"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Querer no, lo siguiente.",
+              "answer": "AMAR"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "En el norte no hay infusiones.",
+              "answer": "NOR"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Ubicada a la derecha.",
+              "answer": "ADA"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Me impresionó porque ni obramos, ni robamos.",
+              "answer": "ASOMBRO"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Bastante, mucho.",
+              "answer": "ASAZ"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"Le...\" película francesa de 2023 dirigida por Catherine Corsini.",
+              "answer": "RETOUR"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Persona cuyas aficiones son inusuales o extravagantes.",
+              "answer": "FRIKI"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Coloquialmente una caravana.",
+              "answer": "RULOT"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Nombre del famoso payaso español Miliki.",
+              "answer": "EMILIO"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Esfera aparente que rodea a la Tierra.",
+              "answer": "ETER"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Procreen, se...",
+              "answer": "APAREEN"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Flor de loto.",
+              "answer": "LIS"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Consejillo.",
+              "answer": "TIP"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "La socióloga que perdió a su accionista.",
+              "answer": "LOGA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Gal...\" es la Mujer Maravilla.",
+              "answer": "GADOT"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "La Simpson inteligente.",
+              "answer": "LISA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Desde principios hasta mediados de enero.",
+              "answer": "ENE"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Árbol que da de fruto la nuez.",
+              "answer": "NOGAL"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Parque Móvil del Estado.",
+              "answer": "PME"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "Naves, embarcaciones antiguas.",
+              "answer": "NAOS"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Expresión algebraica con dos términos.",
+              "answer": "BINOMIAL"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Adivinó correctamente.",
+              "answer": "ACERTO"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Como la gorra de los Peaky Blinders.",
+              "answer": "BOINA"
+            },
+            "66": {
+              "col": 13,
+              "row": 13,
+              "clue": "Pronombre de un cisgénero masculino.",
+              "answer": "EL"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "La hermana del inglés.",
+              "answer": "SISTER"
+            },
+            "68": {
+              "col": 9,
+              "row": 14,
+              "clue": "Especia de Sri Lanka y la India, muy usada en la repostería.",
+              "answer": "CANELA"
+            }
+          }
+        },
+        "vertical_clues": "1-Antiguo pueblo germánico. \r\n2-Manera característica de expresión artística. \r\n3-Siglas de universidad almeriense.\r\n4-Príncipe o caudillo árabe.\r\n5-Inclinada hacia un lado. \r\n6-Almodóvar el director o Infante el cantante.\r\n7-... es a brother, lo que mano es a hermano (por analogía).\r\n8-El que no cree en ningún Dios viene subiendo.\r\n9-El penalti salió por la derecha.\r\n10-Ciudad más poblada de Turquía. \r\n11-Medio raro.\r\n12-\"... Sánchez\" vocalista de exagrupación 'Amparanoia'. \r\n15-Vaso esférico de cristal terminado en un tubo estrecho, usado en laboratorios.\r\n18-La sangre de los dioses griegos, fuente de su inmortalidad.\r\n22-Él mora en Roma y armó, con amor, un ramo de maro.\r\n24-Contó, describió los acontecimientos.\r\n27-Cocine un alimento.\r\n28-El amor de un francés.\r\n30-Así le ayudé, lo albergué.\r\n32-Otros que son inclusivos.\r\n33-\"... Toriyama\" creador de Dragon Ball.\r\n36-Restituye lo que falta.\r\n37-Representaciones visuales.\r\n40-Siguen subiendo los Gases de Efecto Invernadero.\r\n41-\"El pecado de...\" la masturbación.\r\n42-Le oigo liado con la alabanza.\r\n43-Se hundió por un iceberg.\r\n44-Se las cortan a los tiburones para hacer sopas y ellos mueren.\r\n46-Vivienda de los indios de América del Norte.\r\n47-\"… Miranda\", salsero apodado \"El Niño Bonito de la Salsa\".\r\n48-Plato internacional, típico de Valencia-España.\r\n51-Elfo doméstico y amigo de Harry Potter.\r\n54-Salto de la lancha.\r\n56-Material de las velas.\r\n59-\"... Attack\" programa infantil de manualidades.\r\n60-Tratamiento para Juana Inés de la Cruz.\r\n62-Este tipo es inglés.\r\n64-Su cociente intelectual es de 101.",
+        "horizontal_clues": "1-Ciudad aragonesa que alberga al Observatorio Astrofísico de Javalambre.\r\n7-Lugar destinado a jugar bolos.\r\n13-Elba Sado.\r\n14-Quiéreme, adórame.\r\n16-La maestría viene del oriente.\r\n17-Provecho, beneficio.\r\n19-El líder de la desaparecida Yugoslavia (inv).\r\n20-Característica principal del síndrome de Tourette.\r\n21-Modas pasadas.\r\n23-La que soñó por un momento que era aire, oxígeno, nitrógeno y argón.\r\n25-Hedor, fetidez.\r\n26-Como el olor, pero del vino o el café.\r\n28-Querer no, lo siguiente.\r\n29-En el norte no hay infusiones.\r\n30-Ubicada a la derecha.\r\n31-Me impresionó porque ni obramos, ni robamos.\r\n33-Bastante, mucho.\r\n34-\"Le...\" película francesa de 2023 dirigida por Catherine Corsini.\r\n35-Persona cuyas aficiones son inusuales o extravagantes.\r\n38-Coloquialmente una caravana.\r\n39-Nombre del famoso payaso español Miliki.\r\n42-Esfera aparente que rodea a la Tierra.\r\n44-Procreen, se...\r\n45-Flor de loto.\r\n46-Consejillo.\r\n49-La socióloga que perdió a su accionista.\r\n50-\"Gal...\" es la Mujer Maravilla.\r\n52-La Simpson inteligente.\r\n53-Desde principios hasta mediados de enero.\r\n55-Árbol que da de fruto la nuez.\r\n57-Parque Móvil del Estado.\r\n58-Naves, embarcaciones antiguas.\r\n61-Expresión algebraica con dos términos. \r\n63-Adivinó correctamente. \r\n65-Como la gorra de los Peaky Blinders.\r\n66-Pronombre de un cisgénero masculino.\r\n67-La hermana del inglés.\r\n68-Especia de Sri Lanka y la India, muy usada en la repostería.",
+        "board_clues_positions": "1,2,#,3,4,5,#,6,#,7,8,9,10,11,12\r\n13,#,#,14,#,#,15,#,#,16,#,#,#,#,#\r\n17,#,18,#,#,#,#,#,#,19,#,#,#,#,#\r\n20,#,#,#,21,#,#,#,22,#,#,#,23,24,#\r\n25,#,#,#,#,26,#,#,#,27,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,31,#,32,#,#,#,#\r\n#,#,#,33,#,#,#,#,34,#,#,#,#,#,#\r\n35,36,37,#,#,#,#,#,#,#,38,#,#,#,#\r\n#,39,#,#,#,40,41,#,42,43,#,#,#,#,#\r\n44,#,#,#,#,#,#,#,45,#,#,#,46,47,48\r\n49,#,#,#,#,50,#,51,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,#,56,#,57,#,#\r\n#,#,58,59,#,60,#,61,#,#,#,62,#,#,#\r\n63,64,#,#,#,#,#,65,#,#,#,#,#,66,#\r\n67,#,#,#,#,#,#,#,#,68,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

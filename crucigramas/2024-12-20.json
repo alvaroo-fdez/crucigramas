@@ -1,0 +1,525 @@
+{
+  "data": {
+    "id": 1471,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-19T10:44:25.105466Z",
+      "updatedAt": "2024-12-19T16:40:04.341546Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Lo importante es lo de adentro",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-20",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/png;name=crucigrama-xmasV2%402x.png;base64,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"
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EDAD#SACIE#OJOS\r\nNOQUEEN#IMPRIMI\r\nAYUDAR#C#PULMON\r\nM#IA#I#U#A#AI#C\r\nOR#BIENESTAR#PE\r\nROSA#DORMI#AMAR\r\nADI#ZARPAZO#URI\r\nRISA#DIOSA#USED\r\nSLASH##Y##PALMA\r\nELI#ESPALDA#OID\r\n#ASARE#L#ALOSA#\r\nU##PIROMANAS##C\r\nSANGRE#A#INEPTO\r\nA#BASNA#PECHO#D\r\nRECREOS#PLACEBO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Es sentir mariposas en el estómago·",
+              "answer": "ENAMORARSE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "¿Te lo da hoy? Mejor lo hago yo",
+              "answer": "DOY"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "En este lugar",
+              "answer": "AQUI"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Alzaba la ceja con escepticismo·",
+              "answer": "DUDABA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Con el rostro estoico, con expresión imperturbable·",
+              "answer": "SERIEDAD"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Iván perdió cuatro liras italianas",
+              "answer": "AN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Pause",
+              "answer": "II"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Se pone en la piel del otro·",
+              "answer": "EMPATIZA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Bordeará, ribeteará",
+              "answer": "ORLARA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "El gran Hendrix",
+              "answer": "JIMI"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Isla del estrecho de Dinamarca",
+              "answer": "OMO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Esto va de hablar con el corazón en la mano·",
+              "answer": "SINCERIDAD"
+            },
+            "14": {
+              "col": 4,
+              "row": 1,
+              "clue": "Emilio Aragón (Miliki), el de \"Había una vez\"",
+              "answer": "EA"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Plutonio",
+              "answer": "PU"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Vives y te entregas con todo tu ser (3p)·",
+              "answer": "CUERPOYALMA"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Con esta en tierra, declaro mi lealtad·",
+              "answer": "RODILLA"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Alga para el sushi",
+              "answer": "NORI"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Sumas incorrectas por falta de herradura",
+              "answer": "SMAS"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Sabiduría condensada en pocas palabras",
+              "answer": "PAREMIA"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Hacéis una sisa en una prenda de vestir",
+              "answer": "SISAIS"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Lo que más se ejercita el día de piernas en el gimnasio",
+              "answer": "MUSLOS"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Inic del actor que dijo: 'Hasta la vista, baby'",
+              "answer": "AS"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Dominio web para Ucrania",
+              "answer": "UA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Hacerse pupa, lastimarse",
+              "answer": "HERIRSE"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "Máquina simple que data de la prehistoria",
+              "answer": "PALANCA"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Tranquilo, él actúa con cabeza fría·",
+              "answer": "SERENO"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "\"…Craig\" séptimo y actual James Bond",
+              "answer": "DANIEL"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Test que valora la viabilidad de un recién nacido al nacer",
+              "answer": "APGAR"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Viene subiendo un chico de Valle de Hecho (Huesca)",
+              "answer": "OSEHC"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Utilizar, emplear",
+              "answer": "USAR"
+            },
+            "54": {
+              "col": 14,
+              "row": 11,
+              "clue": "Articula es pro de la solidaridad o la discreción·",
+              "answer": "CODO"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "National Broadcasting Company",
+              "answer": "NBC"
+            },
+            "58": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"Edgar Allan…\" autor de 'La caída de la Casa Usher'",
+              "answer": "POE"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "Carta de la baraja",
+              "answer": "AS"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Lo que tienen en común el Padre Pío y Pol Pot",
+              "answer": "PP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Años vividos",
+              "answer": "EDAD"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Calmé por completo el hambre",
+              "answer": "SACIE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Los que brillan cuando hay alegría·",
+              "answer": "OJOS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Que lo dejen fuera de combate, que lo…",
+              "answer": "NOQUEEN"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Estampé, grabé, por ejemplo mi marca",
+              "answer": "IMPRIMI"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Echar una mano·",
+              "answer": "AYUDAR"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "\"Gritar a pleno…\" con toda la fuerza posible·",
+              "answer": "PULMON"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "La usa el chat GPT",
+              "answer": "IA"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "¿Ahí donde no hay hidrógeno?",
+              "answer": "AI"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "La oreja de Van Gogh",
+              "answer": "OR"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Estar bien es cuidar de nuestro cuerpo y nuestras emociones·",
+              "answer": "BIENESTAR"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "'De… a pa', con todas las letras",
+              "answer": "PE"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"La… de Guadalupe\" serie mexicana",
+              "answer": "ROSA"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Me hice una siesta",
+              "answer": "DORMI"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Entregar el corazón sin condición·",
+              "answer": "AMAR"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cumbre del Pirineo navarro",
+              "answer": "ADI"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Ataque felino",
+              "answer": "ZARPAZO"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Unidad de Respuesta Inmediata",
+              "answer": "URI"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Por ella te partes, te meas, lloras, duele la tripa y hasta sientes que vas a morir·",
+              "answer": "RISA"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Lo es Freyja, Párvati, Pacha Mama, Isis o Afrodita",
+              "answer": "DIOSA"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Usada en el NY Times",
+              "answer": "USED"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Guns N' Roses / el guitarrista",
+              "answer": "SLASH"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "La certeza plena de que lo conozco como la… de mi mano·",
+              "answer": "PALMA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Biblia Maestro del profeta Samuel",
+              "answer": "ELI"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "Hablar de alguien sin que lo sepa, a traición, por la…·",
+              "answer": "ESPALDA"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Prestad atención a lo que se dice",
+              "answer": "OID"
+            },
+            "48": {
+              "col": 1,
+              "row": 10,
+              "clue": "Lo cocinaré luego de asear esas áreas",
+              "answer": "ASARE"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Pez conocido como Sábalo",
+              "answer": "ALOSA"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Le gusta jugar con fuego, incendiarias",
+              "answer": "PIROMANAS"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Hierve cuando te enfadas, se congela cuando te asustas·",
+              "answer": "SANGRE"
+            },
+            "57": {
+              "col": 9,
+              "row": 12,
+              "clue": "No apto, ni a propósito para algo",
+              "answer": "INEPTO"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Especie de narria para arrastrar grandes pesos",
+              "answer": "BASNA"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "No te ofendas que no es personal, no te lo tomes tan a…·",
+              "answer": "PECHO"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Horas de patio, recesos",
+              "answer": "RECREOS"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Fármaco inerte",
+              "answer": "PLACEBO"
+            }
+          }
+        },
+        "vertical_clues": "1-Es sentir mariposas en el estómago·\r\n2-¿Te lo da hoy? Mejor lo hago yo\r\n3-En este lugar\r\n4-Alzaba la ceja con escepticismo·\r\n5-Con el rostro estoico, con expresión imperturbable·\r\n6-Iván perdió cuatro liras italianas\r\n7-Pause\r\n8-Se pone en la piel del otro·\r\n9-Bordeará, ribeteará\r\n10-El gran Hendrix\r\n11-Isla del estrecho de Dinamarca\r\n12-Esto va de hablar con el corazón en la mano·\r\n14-Emilio Aragón (Miliki), el de \"Había una vez\"\r\n16-Plutonio\r\n18-Vives y te entregas con todo tu ser (3p)·\r\n23-Con esta en tierra, declaro mi lealtad·\r\n25-Alga para el sushi\r\n26-Sumas incorrectas por falta de herradura\r\n27-Sabiduría condensada en pocas palabras \r\n29-Hacéis una sisa en una prenda de vestir\r\n32-Lo que más se ejercita el día de piernas en el gimnasio\r\n37-Inic del actor que dijo: 'Hasta la vista, baby'\r\n39-Dominio web para Ucrania\r\n41-Hacerse pupa, lastimarse\r\n42-Máquina simple que data de la prehistoria\r\n45-Tranquilo, él actúa con cabeza fría·\r\n46-\"…Craig\" séptimo y actual James Bond\r\n49-Test que valora la viabilidad de un recién nacido al nacer\r\n51-Viene subiendo un chico de Valle de Hecho (Huesca)\r\n52-Utilizar, emplear\r\n54-Articula es pro de la solidaridad o la discreción·\r\n56-National Broadcasting Company \r\n58-\"Edgar Allan…\" autor de 'La caída de la Casa Usher'\r\n60-Carta de la baraja\r\n61-Lo que tienen en común el Padre Pío y Pol Pot",
+        "horizontal_clues": "1-Años vividos\r\n5-Calmé por completo el hambre\r\n9-Los que brillan cuando hay alegría·\r\n13-Que lo dejen fuera de combate, que lo…\r\n15-Estampé, grabé, por ejemplo mi marca\r\n17-Echar una mano·\r\n19-\"Gritar a pleno…\" con toda la fuerza posible·\r\n20-La usa el chat GPT\r\n21-¿Ahí donde no hay hidrógeno? \r\n22-La oreja de Van Gogh\r\n24-Estar bien es cuidar de nuestro cuerpo y nuestras emociones·\r\n27-'De… a pa', con todas las letras\r\n28-\"La… de Guadalupe\" serie mexicana\r\n30-Me hice una siesta\r\n31-Entregar el corazón sin condición·\r\n33-Cumbre del Pirineo navarro\r\n34-Ataque felino \r\n35-Unidad de Respuesta Inmediata\r\n36-Por ella te partes, te meas, lloras, duele la tripa y hasta sientes que vas a morir·\r\n38-Lo es Freyja, Párvati, Pacha Mama, Isis o Afrodita\r\n39-Usada en el NY Times \r\n40-Guns N' Roses / el guitarrista\r\n42-La certeza plena de que lo conozco como la… de mi mano·\r\n43-Biblia Maestro del profeta Samuel\r\n44-Hablar de alguien sin que lo sepa, a traición, por la…·\r\n47-Prestad atención a lo que se dice\r\n48-Lo cocinaré luego de asear esas áreas\r\n50-Pez conocido como Sábalo\r\n53-Le gusta jugar con fuego, incendiarias\r\n55-Hierve cuando te enfadas, se congela cuando te asustas·\r\n57-No apto, ni a propósito para algo\r\n59-Especie de narria para arrastrar grandes pesos\r\n61-No te ofendas que no es personal, no te lo tomes tan a…·\r\n62-Horas de patio, recesos\r\n63-Fármaco inerte",
+        "highlighted_cells": [
+          {
+            "col": "8",
+            "row": "3"
+          },
+          {
+            "col": "8",
+            "row": "4"
+          },
+          {
+            "col": "8",
+            "row": "5"
+          },
+          {
+            "col": "8",
+            "row": "6"
+          },
+          {
+            "col": "8",
+            "row": "7"
+          },
+          {
+            "col": "8",
+            "row": "8"
+          },
+          {
+            "col": "8",
+            "row": "9"
+          },
+          {
+            "col": "8",
+            "row": "10"
+          },
+          {
+            "col": "8",
+            "row": "11"
+          },
+          {
+            "col": "8",
+            "row": "12"
+          },
+          {
+            "col": "8",
+            "row": "13"
+          }
+        ],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,14,#,#,#,15,#,16,#,#,#,#\r\n17,#,#,#,#,#,#,18,#,19,#,#,#,#,#\r\n#,#,20,#,#,#,#,#,#,#,#,21,#,#,#\r\n22,23,#,24,#,#,25,#,26,#,#,#,#,27,#\r\n28,#,29,#,#,30,#,#,#,#,#,31,32,#,#\r\n33,#,#,#,34,#,#,#,#,#,#,#,35,#,#\r\n36,#,#,37,#,38,#,#,#,#,#,39,#,#,#\r\n40,#,#,#,41,#,#,#,#,#,42,#,#,#,#\r\n43,#,#,#,44,45,#,#,#,46,#,#,47,#,#\r\n#,48,#,49,#,#,#,#,#,50,#,51,#,#,#\r\n52,#,#,53,#,#,#,#,#,#,#,#,#,#,54\r\n55,#,56,#,#,#,#,#,#,57,#,#,58,#,#\r\n#,#,59,#,#,#,60,#,61,#,#,#,#,#,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

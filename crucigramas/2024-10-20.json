@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1051,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-18T18:58:55.051345Z",
+      "updatedAt": "2024-10-18T18:58:55.051377Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-20",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##ROMPE#TASAS##\r\n#PALIAR#ELIXIR#\r\nNA#ESTORNUDO#IP\r\nEGP#SEGUIDA#RCA\r\nVARE##ABA##METI\r\nUNES#BRISA#AGUR\r\nSASTRE#O#PELUSA\r\n##URUBU#NOVEL##\r\nPERERO#B#DOTABA\r\nAXON#PARDO#IDAS\r\nVISO##TOE##NORI\r\nOSO#CEROSOS#ROL\r\nNT#LAVAMANOS#JA\r\n#EVITES#TISANA#\r\n##OPERO#EXODO##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo químico del radio.",
+              "answer": "RA"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Voz usada para animar las corridas de toros.",
+              "answer": "OLE"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"... Universo\" el mayor concurso de belleza.",
+              "answer": "MISS"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pasta de hígado.",
+              "answer": "PATE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Distribuir, repartir bienes o caudales.",
+              "answer": "EROGAR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Solitarias lombrices.",
+              "answer": "TENIAS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Avalancha.",
+              "answer": "ALUD"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Acrónimo del Síndrome de Inmunodeficiencia Adquirida.",
+              "answer": "SIDA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Saxo sin boquilla.",
+              "answer": "AXO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "La última de la escala musical.",
+              "answer": "SI"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Apagan la fe que no sea cristiana.",
+              "answer": "PAGANA"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Expresión facial en la cual se levanta una esquina del labio superior.",
+              "answer": "RICTUS"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un lunar, un...",
+              "answer": "NEVUS"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "El Rubius cuando se decolora el pelo.",
+              "answer": "RUBIO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Mantén el barco, con las velas quietas y tendidas.",
+              "answer": "PAIRA"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Con prisa y entusiasmo, apurado y vertiginoso.",
+              "answer": "PRESUROSO"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Dispositivo que controla el flujo o intensidad.",
+              "answer": "REGULADOR"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Debut de una película en la gran pantalla.",
+              "answer": "ESTRENO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Maleta, valija de empresario.",
+              "answer": "MALETIN"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Variante del jazz de ritmos rápidos y solos instrumentales.",
+              "answer": "BEBOP"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Parece que Apolo tiene un pseudónimo.",
+              "answer": "APODO"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Río de Bélgica, Alemania y los Países Bajos.",
+              "answer": "RUR"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Duración de tiempo sin término.",
+              "answer": "EVO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Mariposa cuyas alas recuerdan a un pavo real.",
+              "answer": "PAVON"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Es real y verdadera.",
+              "answer": "EXISTE"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Escoba en inglés.",
+              "answer": "BROOM"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"Pío...\" escritor español de la generación del 98.",
+              "answer": "BAROJA"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Alberga a alguien en un refugio.",
+              "answer": "ASILA"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Insuficiencia de desarrollo en la civilización o en la cultura.",
+              "answer": "ATRASO"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Solté el nudo.",
+              "answer": "DESATE"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"... Blanchett\" la elfa Galadriel en 'El Señor de los Anillos\".",
+              "answer": "CATE"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"Alguna vez\" en inglés.",
+              "answer": "EVER"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Piedra semipreciosa negra.",
+              "answer": "ONIX"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Hombre que carece de gracia y viveza.",
+              "answer": "SOSO"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Labio en inglés.",
+              "answer": "LIP"
+            },
+            "59": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"Triste\" en inglés.",
+              "answer": "SAD"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Volver al occidente.",
+              "answer": "VO"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "¿Seguimos? sí, ¿paramos?...",
+              "answer": "NO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Parte, quiebra.",
+              "answer": "ROMPE"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Impones un costo al disfrute de ciertos servicios.",
+              "answer": "TASAS"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Suavizar los embates de una enfermedad.",
+              "answer": "PALIAR"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Medicamento o remedio maravilloso.",
+              "answer": "ELIXIR"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Símbolo químico del sodio.",
+              "answer": "NA"
+            },
+            "15": {
+              "col": 3,
+              "row": 2,
+              "clue": "Acto reflejo que no puedes hacer con los ojos abiertos.",
+              "answer": "ESTORNUDO"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Número único de un ordenador en la Red.",
+              "answer": "IP"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Símbolo de la libra egipcia.",
+              "answer": "EGP"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Continua, sin interrupción.",
+              "answer": "SEGUIDA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Cable con 3 puntas, blanca, roja y amarilla.",
+              "answer": "RCA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Saqué del mar un barco, para ponerlo en seco.",
+              "answer": "VARE"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Mit. Griega. Ninfa de la fuente de Ergisque.",
+              "answer": "ABA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Encerré, introduje algo dentro de otra cosa.",
+              "answer": "METI"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Juntas.",
+              "answer": "UNES"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "¿Abrís y entra un viento suave?.",
+              "answer": "BRISA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Voz usada para despedirse (vasquismo).",
+              "answer": "AGUR"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Hombre que hace trajes de hombre.",
+              "answer": "SASTRE"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Pelo muy tenue de algunas frutas.",
+              "answer": "PELUSA"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Peli española de terror sobre un fotógrafo y ornitólogo (2021).",
+              "answer": "URUBU"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Novato, con poca experiencia en un arte.",
+              "answer": "NOVEL"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Instrumento usado antiguamente para mondar peras.",
+              "answer": "PERERO"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Concedía ciertos dones o cualidades a alguien.",
+              "answer": "DOTABA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Parte de la neurona.",
+              "answer": "AXON"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Podrá podar al prado marrón.",
+              "answer": "PARDO"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Personas que están faltas de juicio.",
+              "answer": "IDAS"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Sitio o lugar alto.",
+              "answer": "VISO"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Remolque una nave.",
+              "answer": "TOE"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Alga para el sushi.",
+              "answer": "NORI"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Aquí hay un animal hermoso.",
+              "answer": "OSO"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Que tienen cera, o se parecen a ella.",
+              "answer": "CEROSOS"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Juego en el que los jugadores asumen personajes imaginarios.",
+              "answer": "ROL"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Nuevo Testamento.",
+              "answer": "NT"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Depósito de agua con caño, llave y pila para lavarse las manos.",
+              "answer": "LAVAMANOS"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Risa franca.",
+              "answer": "JA"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Evadas su mirada.",
+              "answer": "EVITES"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Infusión medicinal digestiva a base de hierbas.",
+              "answer": "TISANA"
+            },
+            "65": {
+              "col": 2,
+              "row": 14,
+              "clue": "Entro al quirófano, me...",
+              "answer": "OPERO"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Migración de un pueblo.",
+              "answer": "EXODO"
+            }
+          }
+        },
+        "vertical_clues": "1-Símbolo químico del radio.\r\n2-Voz usada para animar las corridas de toros.\r\n3-\"... Universo\" el mayor concurso de belleza.\r\n4-Pasta de hígado.\r\n5-Distribuir, repartir bienes o caudales.\r\n6-Solitarias lombrices.\r\n7-Avalancha.\r\n8-Acrónimo del Síndrome de Inmunodeficiencia Adquirida.\r\n9-Saxo sin boquilla.\r\n10-La última de la escala musical.\r\n11-Apagan la fe que no sea cristiana.\r\n13-Expresión facial en la cual se levanta una esquina del labio superior.\r\n14-Un lunar, un...\r\n16-El Rubius cuando se decolora el pelo.\r\n18-Mantén el barco, con las velas quietas y tendidas.\r\n20-Con prisa y entusiasmo, apurado y vertiginoso.\r\n22-Dispositivo que controla el flujo o intensidad. \r\n24-Debut de una película en la gran pantalla. \r\n26-Maleta, valija de empresario.\r\n28-Variante del jazz de ritmos rápidos y solos instrumentales.\r\n29-Parece que Apolo tiene un pseudónimo.\r\n32-Río de Bélgica, Alemania y los Países Bajos.\r\n34-Duración de tiempo sin término.\r\n37-Mariposa cuyas alas recuerdan a un pavo real.\r\n38-Es real y verdadera.\r\n39-Escoba en inglés.\r\n41-\"Pío...\" escritor español de la generación del 98.\r\n42-Alberga a alguien en un refugio.\r\n45-Insuficiencia de desarrollo en la civilización o en la cultura.\r\n46-Solté el nudo.\r\n52-\"... Blanchett\" la elfa Galadriel en 'El Señor de los Anillos\".\r\n53-\"Alguna vez\" en inglés.\r\n54-Piedra semipreciosa negra.\r\n55-Hombre que carece de gracia y viveza.\r\n58-Labio en inglés.\r\n59-\"Triste\" en inglés.\r\n62-Volver al occidente.\r\n64-¿Seguimos? sí, ¿paramos?...",
+        "horizontal_clues": "1-Parte, quiebra.\r\n6-Impones un costo al disfrute de ciertos servicios.\r\n11-Suavizar los embates de una enfermedad. \r\n12-Medicamento o remedio maravilloso.\r\n14-Símbolo químico del sodio.\r\n15-Acto reflejo que no puedes hacer con los ojos abiertos.\r\n17-Número único de un ordenador en la Red.\r\n19-Símbolo de la libra egipcia.\r\n21-Continua, sin interrupción. \r\n22-Cable con 3 puntas, blanca, roja y amarilla.\r\n23-Saqué del mar un barco, para ponerlo en seco.\r\n25-Mit. Griega. Ninfa de la fuente de Ergisque.\r\n26-Encerré, introduje algo dentro de otra cosa.\r\n27-Juntas.\r\n28-¿Abrís y entra un viento suave?. \r\n30-Voz usada para despedirse (vasquismo).\r\n31-Hombre que hace trajes de hombre.\r\n33-Pelo muy tenue de algunas frutas.\r\n35-Peli española de terror sobre un fotógrafo y ornitólogo (2021).\r\n36-Novato, con poca experiencia en un arte.\r\n37-Instrumento usado antiguamente para mondar peras.\r\n40-Concedía ciertos dones o cualidades a alguien.\r\n43-Parte de la neurona.\r\n44-Podrá podar al prado marrón. \r\n47-Personas que están faltas de juicio.\r\n48-Sitio o lugar alto.\r\n49-Remolque una nave.\r\n50-Alga para el sushi.\r\n51-Aquí hay un animal hermoso.\r\n52-Que tienen cera, o se parecen a ella.\r\n56-Juego en el que los jugadores asumen personajes imaginarios.\r\n57-Nuevo Testamento.\r\n58-Depósito de agua con caño, llave y pila para lavarse las manos.\r\n60-Risa franca.\r\n61-Evadas su mirada.\r\n63-Infusión medicinal digestiva a base de hierbas.\r\n65-Entro al quirófano, me...\r\n66-Migración de un pueblo.",
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,13,#\r\n14,#,#,15,#,#,#,16,#,#,#,#,#,17,18\r\n19,#,20,#,21,#,#,#,#,#,#,#,22,#,#\r\n23,#,#,24,#,#,25,#,#,#,#,26,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n31,#,#,#,32,#,#,#,#,33,34,#,#,#,#\r\n#,#,35,#,#,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,#,#,#,#,39,#,40,#,#,#,41,42\r\n43,#,#,#,#,44,45,#,46,#,#,47,#,#,#\r\n48,#,#,#,#,#,49,#,#,#,#,50,#,#,#\r\n51,#,#,#,52,53,#,#,#,54,55,#,56,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,59,#,60,#\r\n#,61,62,#,#,#,#,#,63,#,#,#,64,#,#\r\n#,#,65,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

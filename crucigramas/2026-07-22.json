@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 6741,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-22T01:09:38.585862Z",
+      "updatedAt": "2026-07-22T01:09:38.585875Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-22",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BALADA#CHOCAN#\r\nB#DESIGUALDAD#L\r\nAHOGO#UMT#IMITE\r\nGORILAS#ELABORO\r\nALOBE#TNT#NISAN\r\nJA#L#FILOS#A#GE\r\nEDREDON#SIERRAS\r\n#OI#DR###GG#UP#\r\nENESIMA#ALBACEA\r\nSJ#T#OPACO#S#RZ\r\nCOSAN#LVA#LABRA\r\nASONARA#BRILLAR\r\nSENTI#UVA#ATESE\r\nO#SOLIDARIDAD#S\r\n#BONSAI#AVAROS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Rindo culto",
+              "answer": "ADORO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Buena letra",
+              "answer": "LEGIBLE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Demuela, saquee",
+              "answer": "ASOLE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"… Jiménez\" actor y comediante español",
+              "answer": "AGUSTIN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Junto a la hipotenusa, estos forman un triángulo recto,",
+              "answer": "CATETOS"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Símbolo del hectolitro",
+              "answer": "HL"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo repugnan, lo aborrecen",
+              "answer": "ODIAN"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ya no ser el mismo de antes",
+              "answer": "CAMBIAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "A Dios le pido, poder decirte hasta luego",
+              "answer": "ADIOS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Conjunto de conocimientos o noticias de que dispone alguien",
+              "answer": "BAGAJE"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Universidad de Margarita (siglas)",
+              "answer": "UM"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Los reyes de sabana",
+              "answer": "LEONES"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Hola Don Pepito…\" (3p)",
+              "answer": "HOLADONJOSE"
+            },
+            "20": {
+              "col": 13,
+              "row": 2,
+              "clue": "Máquina de casino con palanca y símbolos que giran",
+              "answer": "TRAGAPERRAS"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Dominio web para los Países Bajos",
+              "answer": "NL"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Crío, educo y forjo, a mi hija para la vida, por ejemplo",
+              "answer": "FORMO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "100 años",
+              "answer": "SIGLO"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"El que… de último,… mejor\"",
+              "answer": "RIE"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Didanosina 2do fármaco aprobado contra el SIDA (siglas)",
+              "answer": "DDI"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Educación General Básica",
+              "answer": "EGB"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Foco de destrucción",
+              "answer": "RUC"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Cuando algo es limitado o insuficiente",
+              "answer": "ESCASO"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"Harry Dean…\" protagonista de 'Paris, Texas' (1984)",
+              "answer": "STANTON"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Acompañé con las manos el ritmo de la música",
+              "answer": "APLAUDI"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Terminará, finiquitará",
+              "answer": "ACABARA"
+            },
+            "45": {
+              "col": 11,
+              "row": 8,
+              "clue": "Saltará como loco, cuando lo vayan a robar",
+              "answer": "ASALTAR"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Desgracias imprevistas",
+              "answer": "AZARES"
+            },
+            "49": {
+              "col": 7,
+              "row": 9,
+              "clue": "Américo Vespucio",
+              "answer": "AV"
+            },
+            "52": {
+              "col": 2,
+              "row": 10,
+              "clue": "Tonto, simple, mentecato",
+              "answer": "SONSO"
+            },
+            "53": {
+              "col": 4,
+              "row": 10,
+              "clue": "'Nine Inch…' banda de rock industrial estadounidense",
+              "answer": "NAILS"
+            },
+            "55": {
+              "col": 10,
+              "row": 10,
+              "clue": "Dalia está enredada",
+              "answer": "LIADA"
+            },
+            "56": {
+              "col": 12,
+              "row": 10,
+              "clue": "Cosa insignificante, de poco o ningún valor",
+              "answer": "BLEDO"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Iniciales del poeta español Nobel de Literatura, 1977",
+              "answer": "VA"
+            },
+            "64": {
+              "col": 5,
+              "row": 13,
+              "clue": "Salida de emergencia",
+              "answer": "IA"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Cuatro en números romanos",
+              "answer": "IV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Canción popular, de ritmo lento y tema amoroso",
+              "answer": "BALADA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Se encuentran violentamente dos vehículos",
+              "answer": "CHOCAN"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Antónimo de igualdad",
+              "answer": "DESIGUALDAD"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Sumergió las penas en alcohol, las…",
+              "answer": "AHOGO"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Universidad Médica de Taipéi (siglas)",
+              "answer": "UMT"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Parodié, emulé",
+              "answer": "IMITE"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Los más grandes de los primates vivos",
+              "answer": "GORILAS"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Creo un plan con mucho laboreo",
+              "answer": "ELABORO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Acosé, importuné",
+              "answer": "ALOBE"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Siglas explosivas",
+              "answer": "TNT"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Primer mes del calendario hebreo bíblico",
+              "answer": "NISAN"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Iniciales de la actriz que interpreta Rachel en 'Friends'",
+              "answer": "JA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Borde agudo de un instrumento cortante (pl)",
+              "answer": "FILOS"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Símbolo químico del Germanio",
+              "answer": "GE"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cobertor, cobija rellena de plumón",
+              "answer": "EDREDON"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Cordilleras de montes o peñascos cortados",
+              "answer": "SIERRAS"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Parece que hoy sí te escuché",
+              "answer": "OI"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Doctor",
+              "answer": "DR"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "En un bolso Gucci",
+              "answer": "GG"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "Película de Disney, ambientada en Canaima - Venezuela",
+              "answer": "UP"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Vez ultra repetida",
+              "answer": "ENESIMA"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Balacea enloquecido, a la del testamento",
+              "answer": "ALBACEA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo que tienen en común Scarlett Johansson y Steve Jobs",
+              "answer": "SJ"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "¡Oh, Paco! has perdido brillo",
+              "answer": "OPACO"
+            },
+            "50": {
+              "col": 13,
+              "row": 9,
+              "clue": "En la cintura de Tarzán",
+              "answer": "RZ"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Remienden, zurzan la ropa",
+              "answer": "COSAN"
+            },
+            "54": {
+              "col": 6,
+              "row": 10,
+              "clue": "Licencia Vehículo Agrícola",
+              "answer": "LVA"
+            },
+            "55": {
+              "col": 10,
+              "row": 10,
+              "clue": "Parece que ladra cuando trabaja la madera",
+              "answer": "LABRA"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Convendrá un sonido con otro",
+              "answer": "ASONARA"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Me gusta destacar en el billar",
+              "answer": "BRILLAR"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Experimenté sensaciones",
+              "answer": "SENTI"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Ha triunfado la sin pepitas",
+              "answer": "UVA"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Tensé las velas del barco, las…",
+              "answer": "ATESE"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Adhesión circunstancial a la causa de otros",
+              "answer": "SOLIDARIDAD"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Planta ornamental miniatura",
+              "answer": "BONSAI"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Que reservan, ocultan o escatiman algo",
+              "answer": "AVAROS"
+            }
+          }
+        },
+        "vertical_clues": "2-Rindo culto\r\n3-Buena letra\r\n4-Demuela, saquee\r\n5-Pronuncia 501 en romano antiguo\r\n6-\"… Jiménez\" actor y comediante español\r\n7-Junto a la hipotenusa, estos forman un triángulo recto, \r\n8-Símbolo del hectolitro\r\n9-Lo repugnan, lo aborrecen\r\n10-Ya no ser el mismo de antes\r\n11-A Dios le pido, poder decirte hasta luego\r\n12-Conjunto de conocimientos o noticias de que dispone alguien\r\n14-Universidad de Margarita (siglas)\r\n15-Los reyes de sabana\r\n17-\"Hola Don Pepito…\" (3p) \r\n20-Máquina de casino con palanca y símbolos que giran \r\n25-Dominio web para los Países Bajos\r\n28-Crío, educo y forjo, a mi hija para la vida, por ejemplo\r\n29-100 años\r\n32-\"El que… de último,… mejor\" \r\n33-Didanosina 2do fármaco aprobado contra el SIDA (siglas) \r\n35-Educación General Básica\r\n36-Foco de destrucción\r\n41-Cuando algo es limitado o insuficiente\r\n42-\"Harry Dean…\" protagonista de 'Paris, Texas' (1984)\r\n43-Acompañé con las manos el ritmo de la música\r\n44-Terminará, finiquitará\r\n45-Saltará como loco, cuando lo vayan a robar\r\n46-Desgracias imprevistas\r\n49-Américo Vespucio\r\n52-Tonto, simple, mentecato\r\n53-'Nine Inch…' banda de rock industrial estadounidense\r\n55-Dalia está enredada\r\n56-Cosa insignificante, de poco o ningún valor\r\n61-Iniciales del poeta español Nobel de Literatura, 1977\r\n64-Salida de emergencia\r\n65-Cuatro en números romanos\r\n",
+        "horizontal_clues": "1-Canción popular, de ritmo lento y tema amoroso\r\n7-Se encuentran violentamente dos vehículos\r\n13-Antónimo de igualdad\r\n16-Sumergió las penas en alcohol, las…\r\n18-Universidad Médica de Taipéi (siglas)\r\n19-Parodié, emulé\r\n21-Los más grandes de los primates vivos\r\n22-Creo un plan con mucho laboreo\r\n23-Acosé, importuné\r\n24-Siglas explosivas\r\n26-Primer mes del calendario hebreo bíblico\r\n27-Iniciales de la actriz que interpreta Rachel en 'Friends'\r\n28-Borde agudo de un instrumento cortante (pl)\r\n30-Símbolo químico del Germanio\r\n31-Cobertor, cobija rellena de plumón\r\n34-Cordilleras de montes o peñascos cortados\r\n37-Parece que hoy sí te escuché\r\n38-Doctor\r\n39-En un bolso Gucci\r\n40-Película de Disney, ambientada en Canaima - Venezuela\r\n41-Vez ultra repetida\r\n44-Balacea enloquecido, a la del testamento\r\n47-Lo que tienen en común Scarlett Johansson y Steve Jobs \r\n48-¡Oh, Paco! has perdido brillo\r\n50-En la cintura de Tarzán\r\n51-Remienden, zurzan la ropa\r\n54-Licencia Vehículo Agrícola\r\n55-Parece que ladra cuando trabaja la madera\r\n57-Convendrá un sonido con otro\r\n58-Me gusta destacar en el billar\r\n59-Experimenté sensaciones\r\n60-Ha triunfado la sin pepitas\r\n62-Tensé las velas del barco, las…\r\n63-Adhesión circunstancial a la causa de otros\r\n66-Planta ornamental miniatura\r\n67-Que reservan, ocultan o escatiman algo\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,14,#,#,#,#,#,#,15\r\n16,17,#,#,#,#,18,#,#,#,19,#,#,20,#\r\n21,#,#,#,#,#,#,#,22,#,#,#,#,#,#\r\n23,#,#,#,#,#,24,25,#,#,26,#,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,#,#,30,#\r\n31,#,32,#,33,#,#,#,34,#,35,#,36,#,#\r\n#,37,#,#,38,#,#,#,#,39,#,#,40,#,#\r\n41,#,#,42,#,#,43,#,44,#,#,45,#,#,46\r\n47,#,#,#,#,48,#,49,#,#,#,#,#,50,#\r\n51,#,52,#,53,#,54,#,#,#,55,#,56,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,#,#,#\r\n59,#,#,#,#,#,60,61,#,#,62,#,#,#,#\r\n#,#,63,#,#,64,#,#,#,65,#,#,#,#,#\r\n#,66,#,#,#,#,#,#,67,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

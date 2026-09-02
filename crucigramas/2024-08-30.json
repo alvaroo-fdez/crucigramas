@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 756,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-27T17:32:38.099846Z",
+      "updatedAt": "2024-09-03T08:21:19.459489Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-30",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PEGA#APARENTE#\r\nMASIA#CALENTURA\r\nESTRAPERLO##ROS\r\nZARA#ALEA#CORSE\r\nCRIS#LEAN#ALAIN\r\nLAD#BARRA#MIRO#\r\nASOMADA#RAPE#NA\r\nB#RISA###PARE#B\r\nAJ#MARC#PEÑASCO\r\n#USAD#APAGA#PET\r\nGRADA#PATA#BIRO\r\nRALOS#ASID#OGUN\r\nORE##CRONOGRAMA\r\nGARRAPATA#ARDER\r\n#SOSTENER#PEON#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Franquearás, cruzarás de una parte a otra.",
+              "answer": "PASARAS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Sonido agudo y chirriante producido por obstrucción respiratoria.",
+              "answer": "ESTRIDOR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Viajes que realizan los cantantes famosos.",
+              "answer": "GIRAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pila seca de uso común.",
+              "answer": "AAA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Aumenta la velocidad.",
+              "answer": "ACELERA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Formar pares.",
+              "answer": "PAREAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Aplanar el camino.",
+              "answer": "ALLANAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Privado de libertad.",
+              "answer": "REO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "En la cabeza de Einstein y en los zapatos de Newton.",
+              "answer": "EN"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Natalia Tena, (Álex en '10.000 km').",
+              "answer": "NT"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tostar o asar en las brasas.",
+              "answer": "TURRAR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Desgaste de la superficie terrestre por el agua y viento.",
+              "answer": "EROSION"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Combinaba, fusionaba.",
+              "answer": "MEZCLABA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Tuesten, doren.",
+              "answer": "ASEN"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Techo de la cavidad oral.",
+              "answer": "PALADAR"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Plan, cruzada, operación.",
+              "answer": "CAMPAÑA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Vaso en que se guarda el santo óleo o el crisma.",
+              "answer": "OLIERA"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Asentadas, fundadas, establecidas.",
+              "answer": "BASADAS"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Consentido, por ejemplo el hijo menor.",
+              "answer": "MIMADO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Muy unido por la pega doble.",
+              "answer": "APEGADO"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Cerrar una camisa.",
+              "answer": "ABOTONAR"
+            },
+            "37": {
+              "col": 12,
+              "row": 7,
+              "clue": "De figura alta y delgada.",
+              "answer": "ESPIGADO"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Lo harás por tu dios o por tu madre, pero lo harás.",
+              "answer": "JURARAS"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Extirparán los genitales de los toros, lo...",
+              "answer": "CAPARAN"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Deslizarse sobre una superficie lisa con un calzado especial.",
+              "answer": "PATINAR"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Sustancia cerosa secretada por el oído.",
+              "answer": "CERUMEN"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "En la mesa con el pimentero.",
+              "answer": "SALERO"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Zancada grande, casi un brinco.",
+              "answer": "PASOTE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Agua caliente azucarada mezclada con ron.",
+              "answer": "GROG"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Lo eliminé con mi goma, lo...",
+              "answer": "BORRE"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Comité Paralímpico Español.",
+              "answer": "CPE"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "Vacío entre dos términos que se contrastan.",
+              "answer": "GAP"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Inic. de pintor de \"Las Estancias de Rafael\" en el Palacio Apostólico.",
+              "answer": "RS"
+            },
+            "60": {
+              "col": 4,
+              "row": 13,
+              "clue": "Aitor Menta.",
+              "answer": "AT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"El que ... primero, ... dos veces\".",
+              "answer": "PEGA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Que parece pero no lo es.",
+              "answer": "APARENTE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Casa de labor, típica del antiguo reino de Aragón.",
+              "answer": "MASIA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Elevación anormal de la temperatura corporal.",
+              "answer": "CALENTURA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Comercio ilegal en la época de la posguerra española.",
+              "answer": "ESTRAPERLO"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Lo que Thalía desea de Rosalía.",
+              "answer": "ROS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tienda de moda española.",
+              "answer": "ZARA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Mueve las alas.",
+              "answer": "ALEA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Prenda utilizada para estilizar y moldear el cuerpo.",
+              "answer": "CORSE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "La crisis aún no termina.",
+              "answer": "CRIS"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"David...\" director de 'Doctor Zhivago' (1965).",
+              "answer": "LEAN"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"... Delon\" actor francés, prota de 'El gatopardo', 1963.",
+              "answer": "ALAIN"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Por estos lados no hay osmio.",
+              "answer": "LAD"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Mostrador de un bar.",
+              "answer": "BARRA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"Joan …\", español pintor de \"Metamorfosis\".",
+              "answer": "MIRO"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Como está La muchacha en la ventana, la del cuadro de Dalí.",
+              "answer": "ASOMADA"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Tabaco en polvo, para uso nasal.",
+              "answer": "RAPE"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Casi nada.",
+              "answer": "NA"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Movimiento del rostro, que demuestra alegría.",
+              "answer": "RISA"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Detuve el movimiento de alguien.",
+              "answer": "PARE"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Dentro de la caja.",
+              "answer": "AJ"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"... Levy\" autor de la novela 'Ojalá fuera cierto'.",
+              "answer": "MARC"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Formación rocosa de gran tamaño y altura.",
+              "answer": "PEÑASCO"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Utilizad, emplead.",
+              "answer": "USAD"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "... la luz al salir.",
+              "answer": "APAGA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Media petaca.",
+              "answer": "PET"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Asiento de los estadios deportivos (sing).",
+              "answer": "GRADA"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Esta va a ser de jamón.",
+              "answer": "PATA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Ladislao...\" periodista húngaro",
+              "answer": "BIRO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Separados, espaciados, dispersos.",
+              "answer": "RALOS"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Tomad o coged con la mano.",
+              "answer": "ASID"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Una de las deidades de la religión yoruba.",
+              "answer": "OGUN"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Suplique que el reo se arregle.",
+              "answer": "ORE"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Representación gráfica de actividades en función del tiempo.",
+              "answer": "CRONOGRAMA"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Peor y más peligrosa que una pulga.",
+              "answer": "GARRAPATA"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "Encender, incendiar.",
+              "answer": "ARDER"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Mantener o defender una idea.",
+              "answer": "SOSTENER"
+            },
+            "63": {
+              "col": 10,
+              "row": 14,
+              "clue": "Pieza de menor valía en el ajedrez.",
+              "answer": "PEON"
+            }
+          }
+        },
+        "vertical_clues": "1-Franquearás, cruzarás de una parte a otra.\r\n2-Sonido agudo y chirriante producido por obstrucción respiratoria. \r\n3-Viajes que realizan los cantantes famosos.\r\n4-Pila seca de uso común. \r\n5-Aumenta la velocidad.\r\n6-Formar pares.\r\n7-Aplanar el camino.\r\n8-Privado de libertad.\r\n9-En la cabeza de Einstein y en los zapatos de Newton.\r\n10-Natalia Tena, (Álex en '10.000 km').\r\n11-Tostar o asar en las brasas.\r\n12-Desgaste de la superficie terrestre por el agua y viento.\r\n13-Combinaba, fusionaba.\r\n15-Tuesten, doren.\r\n17-Techo de la cavidad oral.\r\n21-Plan, cruzada, operación.\r\n22-Vaso en que se guarda el santo óleo o el crisma.\r\n27-Asentadas, fundadas, establecidas.\r\n30-Consentido, por ejemplo el hijo menor.\r\n32-Muy unido por la pega doble.\r\n34-Cerrar una camisa.\r\n37-De figura alta y delgada. \r\n39-Lo harás por tu dios o por tu madre, pero lo harás.\r\n41-Extirparán los genitales de los toros, lo...\r\n42-Deslizarse sobre una superficie lisa con un calzado especial. \r\n43-Sustancia cerosa secretada por el oído.\r\n45-En la mesa con el pimentero.\r\n47-Zancada grande, casi un brinco.\r\n49-Agua caliente azucarada mezclada con ron.\r\n51-Lo eliminé con mi goma, lo...\r\n56-Comité Paralímpico Español. \r\n57-Vacío entre dos términos que se contrastan.\r\n59-Inic. de pintor de \"Las Estancias de Rafael\" en el Palacio Apostólico.\r\n60-Aitor Menta.",
+        "horizontal_clues": "1-\"El que ... primero, ... dos veces\".\r\n5-Que parece pero no lo es.\r\n13-Casa de labor, típica del antiguo reino de Aragón.\r\n14-Elevación anormal de la temperatura corporal. \r\n16-Comercio ilegal en la época de la posguerra española. \r\n18-Lo que Thalía desea de Rosalía.\r\n19-Tienda de moda española.\r\n20-Mueve las alas.\r\n21-Prenda utilizada para estilizar y moldear el cuerpo.\r\n23-La crisis aún no termina.\r\n24-\"David...\" director de 'Doctor Zhivago' (1965).\r\n25-\"... Delon\" actor francés, prota de 'El gatopardo', 1963.\r\n26-Por estos lados no hay osmio.\r\n27-Mostrador de un bar.\r\n28-\"Joan …\", español pintor de \"Metamorfosis\".\r\n29-Como está La muchacha en la ventana, la del cuadro de Dalí.\r\n31-Tabaco en polvo, para uso nasal.\r\n33-Casi nada.\r\n35-Movimiento del rostro, que demuestra alegría.\r\n36-Detuve el movimiento de alguien.\r\n38-Dentro de la caja.\r\n40-\"... Levy\" autor de la novela 'Ojalá fuera cierto'.\r\n42-Formación rocosa de gran tamaño y altura. \r\n44-Utilizad, emplead.\r\n46-... la luz al salir.\r\n48-Media petaca.\r\n49-Asiento de los estadios deportivos (sing).\r\n50-Esta va a ser de jamón.\r\n51-\"Ladislao...\" periodista húngaro-argentino, inventor del bolígrafo. \r\n52-Separados, espaciados, dispersos.\r\n53-Tomad o coged con la mano.\r\n54-Una de las deidades de la religión yoruba.\r\n55-Suplique que el reo se arregle.\r\n56-Representación gráfica de actividades en función del tiempo. \r\n58-Peor y más peligrosa que una pulga.\r\n61-Encender, incendiar.\r\n62-Mantener o defender una idea.\r\n63-Pieza de menor valía en el ajedrez.",
+        "board_clues_positions": "#,1,2,3,4,#,5,6,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,14,#,#,#,#,#,#,#,15\r\n16,#,#,#,#,17,#,#,#,#,#,#,18,#,#\r\n19,#,#,#,#,20,#,#,#,#,21,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,25,#,#,#,#\r\n26,#,#,#,27,#,#,#,#,#,28,#,#,#,#\r\n29,#,#,30,#,#,#,#,31,32,#,#,#,33,34\r\n#,#,35,#,#,#,#,#,#,36,#,#,37,#,#\r\n38,39,#,40,#,#,41,#,42,#,#,#,#,43,#\r\n#,44,45,#,#,#,46,47,#,#,#,#,48,#,#\r\n49,#,#,#,#,#,50,#,#,#,#,51,#,#,#\r\n52,#,#,#,#,#,53,#,#,#,#,54,#,#,#\r\n55,#,#,#,#,56,#,#,#,#,57,#,#,#,#\r\n58,#,#,59,60,#,#,#,#,#,61,#,#,#,#\r\n#,62,#,#,#,#,#,#,#,#,63,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

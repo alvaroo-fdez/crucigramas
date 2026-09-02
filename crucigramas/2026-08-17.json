@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 6913,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-16T19:42:15.891413Z",
+      "updatedAt": "2026-08-16T19:43:44.264076Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACUSASTE#GACETA\r\nQ#PENAR#SUPRA#P\r\nUO#METACARPO#VA\r\nINDEX#TABULADOR\r\n#DEJO#OBO#EDITE\r\nMAJA#B#ETC##VAC\r\nESENCIA#ALABARE\r\nR##TASE#JACA##R\r\nCATETER#ESCUCHA\r\nAPA##LOG#E#TOEN\r\nNIVEL#BEL#PIPI#\r\nCLASIFICA#AZADA\r\nIO#PSICOPATA#IG\r\nA#VIAJO#SHARK#I\r\nSEDOSO#HORNEADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "En este lugar",
+              "answer": "AQUI"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Película de Disney, ambientada en Canaima, Venezuela",
+              "answer": "UP"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Similar, parecido",
+              "answer": "SEMEJANTE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Apéndice, adenda en un trabajo de investigación",
+              "answer": "ANEXO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "¿Un satélite para todos?",
+              "answer": "SAT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"Nos damos la mano y cerramos el…\"",
+              "answer": "TRATO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Maestro espiritual o jefe religioso del hinduismo",
+              "answer": "GURU"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "La empresa de la manzana",
+              "answer": "APPLE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Haced sonidos como las ranas",
+              "answer": "CROAD"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Las dos letras más utilizadas en el idioma español",
+              "answer": "EA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Nere aparca confundida porque saldrán los fantasmas",
+              "answer": "APARECERAN"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Entorpecimiento hecho aposta para perjudicar a alguien",
+              "answer": "SABOTAJE"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Premios…\" los primeros galardones de radio y TV de España",
+              "answer": "ONDAS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Entra perfectamente",
+              "answer": "CABE"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Aprobar por votación",
+              "answer": "VOTAR"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Me retiré o aparté de algo o de alguien",
+              "answer": "DEJE"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Artista del mundo del espectáculo",
+              "answer": "DIVA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Productos que se compran o venden",
+              "answer": "MERCANCIAS"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Corte oblicuo en el borde espejo",
+              "answer": "BISEL"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Categoría, nivel de un hotel",
+              "answer": "CLASE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Gato londinense",
+              "answer": "CAT"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Ejercicio que se produce con la utilización de oxígeno libre",
+              "answer": "AEROBICO"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Empieza la acción",
+              "answer": "ACC"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Cristianaré, renaceré",
+              "answer": "BAUTIZARE"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Hago una montaña de cosas, las…",
+              "answer": "APILO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Plancha usada en la cocina india y pakistaní",
+              "answer": "TAVA"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "Balón para el coñac, flauta para el champán",
+              "answer": "COPA"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "La que cantaba: \"Abuelito dime tú…\"",
+              "answer": "HEIDI"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Pequeña lagartija que limpia de insectos las casas",
+              "answer": "GECO"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Intento conseguir información secreta",
+              "answer": "ESPIO"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Bolas de billar del 1 al 8",
+              "answer": "LISAS"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Sopla palos en un tiempo determinado",
+              "answer": "LAPSO"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "El perro de Pierre Nodoyuna, el de 'Los autos locos'",
+              "answer": "PATAN"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Contrato indefinido",
+              "answer": "FIJO"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Especulación sobre el alza y baja de los fondos públicos",
+              "answer": "AGIO"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Región alemana famosa por su vino Pinot Noir",
+              "answer": "AHR"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Límites de velocidad",
+              "answer": "VD"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Octava consonante del abecedario español",
+              "answer": "KA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Te chivaste de alguien, lo…",
+              "answer": "ACUSASTE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "El antiguo diario oficial del Gobierno",
+              "answer": "GACETA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Dicho de un fantasma: vagar con lamentos",
+              "answer": "PENAR"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Si lo que está por abajo es \"infra\", lo que está por encima es…",
+              "answer": "SUPRA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "La Unión de Oficiales",
+              "answer": "UO"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Complejo óseo de la palma de la mano, el…",
+              "answer": "METACARPO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Iniciales del poeta español Nobel de Literatura, 1977",
+              "answer": "VA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"… librorum prohibitorum\" antigua lista de libros censurados",
+              "answer": "INDEX"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Máquina automática capaz de leer una serie de tarjetas perforadas",
+              "answer": "TABULADOR"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Renunció con tono de desidia",
+              "answer": "DEJO"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Ecuador Árbol de jobo",
+              "answer": "OBO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Publique una obra por medio de la imprenta",
+              "answer": "EDITE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vestida o desnuda, la de Goya",
+              "answer": "MAJA"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Etcétera (abrev)",
+              "answer": "ETC"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Medio vacíos",
+              "answer": "VAC"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Fil: No es una realidad dentro de la cosa, sino que es la cosa misma en cuanto es real (X Zubiri)",
+              "answer": "ESENCIA"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Le diré solo cosas buenas de su trabajo",
+              "answer": "ALABARE"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Fijé oficialmente el precio para una mercancía",
+              "answer": "TASE"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Caballo cuya alzada no llega a metro y medio",
+              "answer": "JACA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sonda que se introduce en el organismo",
+              "answer": "CATETER"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Presta atención",
+              "answer": "ESCUCHA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Apócope de papá",
+              "answer": "APA"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Casi lo logro",
+              "answer": "LOG"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Remolquen una nave",
+              "answer": "TOEN"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Categoría, rango",
+              "answer": "NIVEL"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Anabel en Belice",
+              "answer": "BEL"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Pis, orina",
+              "answer": "PIPI"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Obtiene su puesto para competir en la Copa Mundial de Fútbol",
+              "answer": "CLASIFICA"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Azadón, instrumento de pala cuadrangular",
+              "answer": "AZADA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Una pareja de 10",
+              "answer": "IO"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Padece de trastorno de personalidad antisocial",
+              "answer": "PSICOPATA"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Índice Glucémico",
+              "answer": "IG"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Recorrió el mundo",
+              "answer": "VIAJO"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Tiburón en inglés",
+              "answer": "SHARK"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Suave y brillante, el cabello",
+              "answer": "SEDOSO"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Cocido lenta y uniformemente dentro de un aparato cerrado",
+              "answer": "HORNEADO"
+            }
+          }
+        },
+        "vertical_clues": "1-En este lugar\r\n2-Película de Disney, ambientada en Canaima, Venezuela\r\n3-Similar, parecido\r\n4-Apéndice, adenda en un trabajo de investigación\r\n5-¿Un satélite para todos? \r\n6-\"Nos damos la mano y cerramos el…\" \r\n7-Maestro espiritual o jefe religioso del hinduismo\r\n8-La empresa de la manzana\r\n9-Haced sonidos como las ranas\r\n10-Las dos letras más utilizadas en el idioma español\r\n11-Nere aparca confundida porque saldrán los fantasmas\r\n13-Entorpecimiento hecho aposta para perjudicar a alguien\r\n15-\"Premios…\" los primeros galardones de radio y TV de España\r\n17-Entra perfectamente\r\n18-Aprobar por votación\r\n20-Me retiré o aparté de algo o de alguien\r\n22-Artista del mundo del espectáculo\r\n26-Productos que se compran o venden \r\n27-Corte oblicuo en el borde espejo\r\n29-Categoría, nivel de un hotel\r\n32-Gato londinense\r\n33-Ejercicio que se produce con la utilización de oxígeno libre\r\n35-Empieza la acción\r\n36-Cristianaré, renaceré \r\n40-Hago una montaña de cosas, las…\r\n41-Plancha usada en la cocina india y pakistaní\r\n43-Balón para el coñac, flauta para el champán\r\n44-La que cantaba: \"Abuelito dime tú…\" \r\n47-Pequeña lagartija que limpia de insectos las casas\r\n50-Intento conseguir información secreta\r\n51-Bolas de billar del 1 al 8\r\n53-Sopla palos en un tiempo determinado\r\n54-El perro de Pierre Nodoyuna, el de 'Los autos locos'\r\n56-Contrato indefinido\r\n58-Especulación sobre el alza y baja de los fondos públicos\r\n61-Región alemana famosa por su vino Pinot Noir \r\n63-Límites de velocidad\r\n65-Octava consonante del abecedario español",
+        "horizontal_clues": "1-Te chivaste de alguien, lo…\r\n7-El antiguo diario oficial del Gobierno\r\n12-Dicho de un fantasma: vagar con lamentos\r\n13-Si lo que está por abajo es \"infra\", lo que está por encima es…\r\n14-La Unión de Oficiales\r\n16-Complejo óseo de la palma de la mano, el…\r\n18-Iniciales del poeta español Nobel de Literatura, 1977\r\n19-\"… librorum prohibitorum\" antigua lista de libros censurados\r\n21-Máquina automática capaz de leer una serie de tarjetas perforadas\r\n23-Renunció con tono de desidia\r\n24-Ecuador Árbol de jobo\r\n25-Publique una obra por medio de la imprenta\r\n26-Vestida o desnuda, la de Goya\r\n28-Etcétera (abrev)\r\n30-Medio vacíos\r\n31-Fil: No es una realidad dentro de la cosa, sino que es la cosa misma en cuanto es real (X Zubiri)\r\n34-Le diré solo cosas buenas de su trabajo\r\n37-Fijé oficialmente el precio para una mercancía\r\n38-Caballo cuya alzada no llega a metro y medio\r\n39-Sonda que se introduce en el organismo\r\n42-Presta atención\r\n45-Apócope de papá\r\n46-Casi lo logro\r\n48-Remolquen una nave\r\n49-Categoría, rango\r\n52-Anabel en Belice\r\n54-Pis, orina\r\n55-Obtiene su puesto para competir en la Copa Mundial de Fútbol\r\n57-Azadón, instrumento de pala cuadrangular\r\n59-Una pareja de 10\r\n60-Padece de trastorno de personalidad antisocial\r\n62-Índice Glucémico\r\n63-Recorrió el mundo\r\n64-Tiburón en inglés\r\n66-Suave y brillante, el cabello\r\n67-Cocido lenta y uniformemente dentro de un aparato cerrado",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,16,#,#,#,17,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,#,#,22,#,#\r\n#,23,#,#,#,#,24,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,28,#,29,#,#,30,#,#\r\n31,#,#,#,32,#,33,#,34,#,35,36,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,41,#,#,#,#,#,42,#,#,#,43,44,#\r\n45,#,#,#,#,46,#,47,#,#,#,48,#,#,#\r\n49,#,#,50,51,#,52,#,53,#,54,#,#,#,#\r\n55,#,#,#,#,56,#,#,#,#,57,#,#,#,58\r\n59,#,#,60,#,#,#,#,#,61,#,#,#,62,#\r\n#,#,63,#,#,#,#,#,64,#,#,#,65,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

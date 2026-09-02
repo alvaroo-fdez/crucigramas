@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 882,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-11T12:58:21.329482Z",
+      "updatedAt": "2024-09-11T12:58:21.329503Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-17",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "OCTETO#REACTIVO\r\nBLASON#EMULARE#\r\nLORENZ#S#NULO#C\r\nING#YATES#BANCA\r\nGAEL#SOÑAR#DILE\r\nORTOS#BAÑAN#ZAR\r\n###CEPO#ALABARA\r\nJABONA###LUIRAS\r\nELISION#BOTE###\r\nTBS#LLEGO#ALTAS\r\nSUBA#AVAST#AUPA\r\nERICK#ALEAN#TAB\r\nT#SUYO#E#SUREÑA\r\n#MEDITAR#EMULAN\r\nALOEVERA#NOTARA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Impuso, coaccionó, sometió.",
+              "answer": "OBLIGO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Copiar idénticamente un organismo a partir de su ADN.",
+              "answer": "CLONAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Público objetivo de las acciones de marketing.",
+              "answer": "TARGET"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "La letra que señala.",
+              "answer": "ESE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Premios...\" al teatro de Broadway.",
+              "answer": "TONY"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Unidades de masa, submúltiplos de la libra.",
+              "answer": "ONZAS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Veredicto de un usuario.",
+              "answer": "RESEÑA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Esclerosis múltiple.",
+              "answer": "EM"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Incluso todavía.",
+              "answer": "AUN"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sociedad fundada por un grupo de personas con intereses comunes.",
+              "answer": "CLUB"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Devastad un bosque.",
+              "answer": "TALAD"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Recurso retórico que expresa lo contrario de lo que se quiere decir.",
+              "answer": "IRONIZAR"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Acércate y observa.",
+              "answer": "VE"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Darás de bruces con el piso.",
+              "answer": "CAERAS"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Cubeta, pipote.",
+              "answer": "TOBO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Con mala intención, con...",
+              "answer": "SAÑA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Noche con el cielo despejado y con luz de luna.",
+              "answer": "CLARA"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "\"Esos... bajitos\" de Serrat.",
+              "answer": "LOCOS"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Llora descontrolada por el rallador.",
+              "answer": "RALLO"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Persona de avanzada edad.",
+              "answer": "SENIL"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Hombre cuya profesión se ejerce en el mar.",
+              "answer": "NAUTA"
+            },
+            "36": {
+              "col": 5,
+              "row": 6,
+              "clue": "\"... Franchi\" modelo italiana, última pareja de Maurizio Gucci.",
+              "answer": "PAOLA"
+            },
+            "38": {
+              "col": 11,
+              "row": 6,
+              "clue": "Barra que cambia el movimiento de vaivén a rotación.",
+              "answer": "BIELA"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Clase social internacional, rica y ostentosa.",
+              "answer": "JETSET"
+            },
+            "40": {
+              "col": 1,
+              "row": 7,
+              "clue": "Méx. Juego de palabras de doble sentido.",
+              "answer": "ALBUR"
+            },
+            "41": {
+              "col": 2,
+              "row": 7,
+              "clue": "Sonido tenue producido al hablar en voz muy baja.",
+              "answer": "BISBISEO"
+            },
+            "44": {
+              "col": 6,
+              "row": 8,
+              "clue": "En la nave vean cómo caen los copos.",
+              "answer": "NEVA"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "\"Miguel…\" el amante bandido.",
+              "answer": "BOSE"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Embarcación de vela y remo.",
+              "answer": "GALERA"
+            },
+            "50": {
+              "col": 12,
+              "row": 9,
+              "clue": "Autoridad que se confiere a alguien para que cuide de un menor de edad falto de padres.",
+              "answer": "TUTELA"
+            },
+            "51": {
+              "col": 13,
+              "row": 9,
+              "clue": "Resolver con lo que hay.",
+              "answer": "APAÑAR"
+            },
+            "52": {
+              "col": 14,
+              "row": 9,
+              "clue": "Bajera o encimera.",
+              "answer": "SABANA"
+            },
+            "54": {
+              "col": 3,
+              "row": 10,
+              "clue": "Ve, te han citado.",
+              "answer": "ACUDE"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "Fijen el precio para una mercancía.",
+              "answer": "TASEN"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "Kiev escrito en ucraniano.",
+              "answer": "KYIV"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Desuso. Moneda o dinero.",
+              "answer": "NUMO"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Sufijo usado para formar aumentativos en las palabras (masc).",
+              "answer": "OTE"
+            },
+            "66": {
+              "col": 11,
+              "row": 12,
+              "clue": "Antiguo Testamento. Bisabuela del rey David.",
+              "answer": "RUT"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "1050 romanos.",
+              "answer": "ML"
+            },
+            "68": {
+              "col": 6,
+              "row": 13,
+              "clue": "Voz militar.",
+              "answer": "AR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Música. Composición para ocho instrumentos o voces.",
+              "answer": "OCTETO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Despertó de nuevo su modo de loco creativo.",
+              "answer": "REACTIVO"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Escudo de armas.",
+              "answer": "BLASON"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Imitaré la acción de otro procurando igualarla.",
+              "answer": "EMULARE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"Edward Norton...\" el que desarrolla la teoría del efecto mariposa.",
+              "answer": "LORENZ"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "Sin validez, sin valor.",
+              "answer": "NULO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Sufijo que forma, en el verbo, el gerundio en inglés.",
+              "answer": "ING"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Embarcaciones de gala.",
+              "answer": "YATES"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Asiento de madera sin respaldo (fem).",
+              "answer": "BANCA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"... García\", prota de la serie 'Mozart in the Jungle'.",
+              "answer": "GAEL"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Discurrir fantásticamente.",
+              "answer": "SOÑAR"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cuéntale al edil porque está confundido.",
+              "answer": "DILE"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Astronomía. Salida o aparición del Sol o de otro astro por el horizonte (pl).",
+              "answer": "ORTOS"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Sumergen algo en un líquido.",
+              "answer": "BAÑAN"
+            },
+            "34": {
+              "col": 12,
+              "row": 5,
+              "clue": "Título que se daba al soberano de Bulgaria.",
+              "answer": "ZAR"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "Caja para recoger limosnas en una iglesia.",
+              "answer": "CEPO"
+            },
+            "37": {
+              "col": 8,
+              "row": 6,
+              "clue": "Halagará por sus méritos a alguien.",
+              "answer": "ALABARA"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Friega, estrega la ropa con jabón.",
+              "answer": "JABONA"
+            },
+            "42": {
+              "col": 9,
+              "row": 7,
+              "clue": "Redimirás censos.",
+              "answer": "LUIRAS"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Acción y efecto de elidir.",
+              "answer": "ELISION"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "Salto de la lancha.",
+              "answer": "BOTE"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tokyo Broadcasting System (cadena de televisión japonesa).",
+              "answer": "TBS"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Alcanzo.",
+              "answer": "LLEGO"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Salta desenfrenada por los nuevos ingresos en la Seguridad Social.",
+              "answer": "ALTAS"
+            },
+            "53": {
+              "col": 0,
+              "row": 10,
+              "clue": "Vaya para arriba.",
+              "answer": "SUBA"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Software antivirus gratuito más usado en el mundo.",
+              "answer": "AVAST"
+            },
+            "57": {
+              "col": 11,
+              "row": 10,
+              "clue": "Levanta o sube a alguien.",
+              "answer": "AUPA"
+            },
+            "58": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"... Hervé\" rapero español.",
+              "answer": "ERICK"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "Mezclan metales, los...",
+              "answer": "ALEAN"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "Informática. Tecla tabuladora.",
+              "answer": "TAB"
+            },
+            "63": {
+              "col": 2,
+              "row": 12,
+              "clue": "De su propiedad.",
+              "answer": "SUYO"
+            },
+            "65": {
+              "col": 9,
+              "row": 12,
+              "clue": "Esta chica es del sur.",
+              "answer": "SUREÑA"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "Pensar atenta y detenidamente sobre algo.",
+              "answer": "MEDITAR"
+            },
+            "69": {
+              "col": 9,
+              "row": 13,
+              "clue": "Reproducen, imitan las acciones de los demás.",
+              "answer": "EMULAN"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Sábila, la suculenta (dos palabras).",
+              "answer": "ALOEVERA"
+            },
+            "71": {
+              "col": 9,
+              "row": 14,
+              "clue": "Se dará cuenta.",
+              "answer": "NOTARA"
+            }
+          }
+        },
+        "vertical_clues": "1-Impuso, coaccionó, sometió.\r\n2-Copiar idénticamente un organismo a partir de su ADN.\r\n3-Público objetivo de las acciones de marketing.\r\n4-La letra que señala.\r\n5-\"Premios...\" al teatro de Broadway.\r\n6-Unidades de masa, submúltiplos de la libra.\r\n7-Veredicto de un usuario.\r\n8-Esclerosis múltiple.\r\n9-Incluso todavía.\r\n10-Sociedad fundada por un grupo de personas con intereses comunes.\r\n11-Devastad un bosque.\r\n12-Recurso retórico que expresa lo contrario de lo que se quiere decir. \r\n13-Acércate y observa.\r\n18-Darás de bruces con el piso.\r\n21-Cubeta, pipote.\r\n22-Con mala intención, con...\r\n24-Noche con el cielo despejado y con luz de luna.\r\n26-\"Esos... bajitos\" de Serrat.\r\n28-Llora descontrolada por el rallador.\r\n31-Persona de avanzada edad.\r\n33-Hombre cuya profesión se ejerce en el mar.\r\n36-\"... Franchi\" modelo italiana, última pareja de Maurizio Gucci.\r\n38-Barra que cambia el movimiento de vaivén a rotación.\r\n39-Clase social internacional, rica y ostentosa.\r\n40-Méx. Juego de palabras de doble sentido.\r\n41-Sonido tenue producido al hablar en voz muy baja. \r\n44-En la nave vean cómo caen los copos.\r\n45-\"Miguel…\" el amante bandido.\r\n48-Embarcación de vela y remo.\r\n50-Autoridad que se confiere a alguien para que cuide de un menor de edad falto de padres.\r\n51-Resolver con lo que hay.\r\n52-Bajera o encimera.\r\n54-Ve, te han citado.\r\n56-Fijen el precio para una mercancía.\r\n59-Kiev escrito en ucraniano.\r\n61-Desuso. Moneda o dinero.\r\n64-Sufijo usado para formar aumentativos en las palabras (masc).\r\n66-Antiguo Testamento. Bisabuela del rey David.\r\n67-1050 romanos.\r\n68-Voz militar.",
+        "horizontal_clues": "1-Música. Composición para ocho instrumentos o voces.\r\n7-Despertó de nuevo su modo de loco creativo.\r\n14-Escudo de armas.\r\n15-Imitaré la acción de otro procurando igualarla.\r\n16-\"Edward Norton...\" el que desarrolla la teoría del efecto mariposa.\r\n17-Sin validez, sin valor.\r\n19-Sufijo que forma, en el verbo, el gerundio en inglés.\r\n20-Embarcaciones de gala.\r\n23-Asiento de madera sin respaldo (fem).\r\n25-\"... García\", prota de la serie 'Mozart in the Jungle'.\r\n27-Discurrir fantásticamente.\r\n29-Cuéntale al edil porque está confundido.\r\n30-Astronomía. Salida o aparición del Sol o de otro astro por el horizonte (pl).\r\n32-Sumergen algo en un líquido.\r\n34-Título que se daba al soberano de Bulgaria.\r\n35-Caja para recoger limosnas en una iglesia.\r\n37-Halagará por sus méritos a alguien.\r\n39-Friega, estrega la ropa con jabón.\r\n42-Redimirás censos.\r\n43-Acción y efecto de elidir.\r\n45-Salto de la lancha.\r\n46-Tokyo Broadcasting System (cadena de televisión japonesa).\r\n47-Alcanzo.\r\n49-Salta desenfrenada por los nuevos ingresos en la Seguridad Social.\r\n53-Vaya para arriba.\r\n55-Software antivirus gratuito más usado en el mundo.\r\n57-Levanta o sube a alguien.\r\n58-\"... Hervé\" rapero español.\r\n60-Mezclan metales, los...\r\n62-Informática. Tecla tabuladora.\r\n63-De su propiedad.\r\n65-Esta chica es del sur.\r\n67-Pensar atenta y detenidamente sobre algo.\r\n69-Reproducen, imitan las acciones de los demás.\r\n70-Sábila, la suculenta (dos palabras).\r\n71-Se dará cuenta.",
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,10,11,12,13,#\r\n14,#,#,#,#,#,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,17,#,#,#,#,18\r\n19,#,#,#,20,#,21,#,22,#,23,#,#,24,#\r\n25,#,#,26,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,#,31,#,32,#,#,#,33,#,34,#,#\r\n#,#,#,35,#,36,#,#,37,#,#,38,#,#,#\r\n39,40,41,#,#,#,#,#,#,42,#,#,#,#,#\r\n43,#,#,#,#,#,44,#,45,#,#,#,#,#,#\r\n46,#,#,#,47,#,#,48,#,#,49,#,50,51,52\r\n53,#,#,54,#,55,#,#,#,56,#,57,#,#,#\r\n58,#,#,#,59,#,60,#,#,#,61,#,62,#,#\r\n#,#,63,#,#,64,#,#,#,65,#,66,#,#,#\r\n#,67,#,#,#,#,68,#,#,69,#,#,#,#,#\r\n70,#,#,#,#,#,#,#,#,71,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

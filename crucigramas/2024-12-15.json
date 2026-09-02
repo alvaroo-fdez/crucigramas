@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 1407,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-09T10:55:13.467683Z",
+      "updatedAt": "2024-12-09T10:55:13.486886Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-15",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CAMERON###BARES\r\nOLIVARES#COSACO\r\nCOLAS#CHURCHILL\r\nACIDO#TUNEA#CIA\r\nDALO#ZANCO#DEPP\r\nARI#SERGI#CA#SA\r\n##THALIA#CALMAD\r\nMIRANDO#CANGURO\r\nATONTA#FASTOS##\r\nNA#KO#FALTA#SAP\r\nILOS#CORVO#ROGO\r\nLIR#FARSA#MILES\r\nLABILIDAD#AFINE\r\nANIMAN#SOPLANTE\r\nROTEN###SAUSIER",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Bebida compuesta de la médula rallada del coco",
+              "answer": "COCADA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Volver loca a Carola",
+              "answer": "ALOCAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Unidad de volumen igual a la milésima parte de un litro",
+              "answer": "MILILITRO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Evito los impuestos",
+              "answer": "EVADO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Milicia Que no tiene un título que lo distinga",
+              "answer": "RASO"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "La oreja de Evander Holyfield",
+              "answer": "OR"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Órgano de las plantas que produce néctar",
+              "answer": "NECTARIO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cállate y mantenla bien cerrada",
+              "answer": "BOCA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Entrenador Pokémon, dueño de Pikachu",
+              "answer": "ASH"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Eché raíces en México",
+              "answer": "RAICE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Opacar el brillo o la importancia de algo o alguien",
+              "answer": "ECLIPSAR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Disimulado con malicia",
+              "answer": "SOLAPADO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Arte erótico japonés del período Edo",
+              "answer": "SHUNGA"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Tengo fe",
+              "answer": "CREO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Sujeté el yugo a los bueyes",
+              "answer": "UNCI"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Videojuego de Nintendo sobre las aventuras de Link",
+              "answer": "ZELDA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Desuso Hacer bien, tratar con agasajo y regalo",
+              "answer": "DALGO"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Perfecto y libre de toda culpa",
+              "answer": "SANTO"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Entona la canción",
+              "answer": "CANTA"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"Tom…\" el prota de la peli 'Filadelfia' (1993)",
+              "answer": "HANKS"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Hombre que se abstiene del goce sexual",
+              "answer": "CASTO"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Dictador italiano entre 1922",
+              "answer": "MUSSOLINI"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Parte de la bicicleta para dirigirla",
+              "answer": "MANILLAR"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Gentilicio de Nicolás Maquiavelo",
+              "answer": "ITALIANO"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Aguardiente de manzana, originario de Normandía",
+              "answer": "CALVADOS"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Enredo, trama o tramoya para aparentar o engañar (pl)",
+              "answer": "FARSAS"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "\"Harrison…\" Indiana Jones",
+              "answer": "FORD"
+            },
+            "42": {
+              "col": 13,
+              "row": 9,
+              "clue": "Mediador autorizado que representa a un futbolista",
+              "answer": "AGENTE"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "Tener en su poder algo",
+              "answer": "POSEER"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Popular marca de chicle",
+              "answer": "ORBIT"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Hermano de Abel, según la Biblia",
+              "answer": "CAIN"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Sorteos, loterías",
+              "answer": "RIFAS"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Postre casero",
+              "answer": "FLAN"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Esta mujer está loca como una mula",
+              "answer": "MALU"
+            },
+            "52": {
+              "col": 3,
+              "row": 12,
+              "clue": "Centro agroalimentario",
+              "answer": "IME"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Paga solo el 50%",
+              "answer": "PA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cineasta canadiense, que dirigió 'Terminator', 'Avatar' y 'Titanic'",
+              "answer": "CAMERON"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Hay muchos en España, 1 por cada 170 personas aprox",
+              "answer": "BARES"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Sitios poblados de olivos",
+              "answer": "OLIVARES"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Soldado ruso de caballería ligera",
+              "answer": "COSACO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"Zorro de las nueve…\" espíritu de la mitología japonesa presente en el ánime Naruto",
+              "answer": "COLAS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Primer ministro británico durante la Segunda Guerra Mundial",
+              "answer": "CHURCHILL"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Uno de los cinco sabores básicos",
+              "answer": "ACIDO"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Repotencia y personaliza su coche",
+              "answer": "TUNEA"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Agencia de inteligencia estadounidense (siglas)",
+              "answer": "CIA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"… por hecho\", créelo",
+              "answer": "DALO"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Cada palo alto en que se afirman y atan los pies",
+              "answer": "ZANCO"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Actor que interpreta a Eduardo Manostijeras",
+              "answer": "DEPP"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Cariñosamente, Ariana",
+              "answer": "ARI"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"… López\" el Capitán Vidal en 'El Laberinto del Fauno'",
+              "answer": "SERGI"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Símbolo químico del calcio",
+              "answer": "CA"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "La cáscara de la sandía",
+              "answer": "SA"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "Cantante y actriz mexicana",
+              "answer": "THALIA"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Tranquilizad",
+              "answer": "CALMAD"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Estoy viendo que se dormían rimando",
+              "answer": "MIRANDO"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Animal endémico de Australia",
+              "answer": "CANGURO"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aturde o atolondra",
+              "answer": "ATONTA"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Antónimo de nefastos",
+              "answer": "FASTOS"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Una nave rota",
+              "answer": "NA"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Nocaut, fuera de combate",
+              "answer": "KO"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Si es muy grave, tarjeta roja",
+              "answer": "FALTA"
+            },
+            "41": {
+              "col": 12,
+              "row": 9,
+              "clue": "Sapo sin cola",
+              "answer": "SAP"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Es filoso solo en el centro",
+              "answer": "ILOS"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Curvo, como un garfio",
+              "answer": "CORVO"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Le suplicó al ogro loco",
+              "answer": "ROGO"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Salir por el oriente",
+              "answer": "LIR"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Mentira, apariencia engañosa",
+              "answer": "FARSA"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "1000 (pl)",
+              "answer": "MILES"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Propensión al cambio o inestabilidad emocional",
+              "answer": "LABILIDAD"
+            },
+            "53": {
+              "col": 10,
+              "row": 12,
+              "clue": "Puse en tono justo los instrumentos musicales",
+              "answer": "AFINE"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Se motivan, se deciden y lo hacen, se…",
+              "answer": "ANIMAN"
+            },
+            "55": {
+              "col": 7,
+              "row": 13,
+              "clue": "Dicho especialmente del viento: Que sopla",
+              "answer": "SOPLANTE"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "Den vueltas alrededor de un núcleo",
+              "answer": "ROTEN"
+            },
+            "58": {
+              "col": 8,
+              "row": 14,
+              "clue": "Jefe de la sausería de palacio, encargado de los servicios de la mesa",
+              "answer": "SAUSIER"
+            }
+          }
+        },
+        "vertical_clues": "1-Bebida compuesta de la médula rallada del coco\r\n2-Volver loca a Carola\r\n3-Unidad de volumen igual a la milésima parte de un litro \r\n4-Evito los impuestos\r\n5-Milicia Que no tiene un título que lo distinga\r\n6-La oreja de Evander Holyfield\r\n7-Órgano de las plantas que produce néctar \r\n8-Cállate y mantenla bien cerrada\r\n9-Entrenador Pokémon, dueño de Pikachu\r\n10-Eché raíces en México\r\n11-Opacar el brillo o la importancia de algo o alguien \r\n12-Disimulado con malicia\r\n14-Arte erótico japonés del período Edo \r\n15-Tengo fe\r\n18-Sujeté el yugo a los bueyes\r\n23-Videojuego de Nintendo sobre las aventuras de Link\r\n24-Desuso Hacer bien, tratar con agasajo y regalo\r\n26-Perfecto y libre de toda culpa\r\n27-Entona la canción\r\n30-\"Tom…\" el prota de la peli 'Filadelfia' (1993)\r\n31-Hombre que se abstiene del goce sexual\r\n32-Dictador italiano entre 1922-1943 \r\n33-Parte de la bicicleta para dirigirla \r\n34-Gentilicio de Nicolás Maquiavelo\r\n35-Aguardiente de manzana, originario de Normandía \r\n37-Enredo, trama o tramoya para aparentar o engañar (pl)\r\n40-\"Harrison…\" Indiana Jones\r\n42-Mediador autorizado que representa a un futbolista\r\n43-Tener en su poder algo\r\n45-Popular marca de chicle\r\n46-Hermano de Abel, según la Biblia\r\n47-Sorteos, loterías\r\n49-Postre casero\r\n50-Esta mujer está loca como una mula\r\n52-Centro agroalimentario\r\n56-Paga solo el 50%\r\n",
+        "horizontal_clues": "1-Cineasta canadiense, que dirigió 'Terminator', 'Avatar' y 'Titanic'\r\n8-Hay muchos en España, 1 por cada 170 personas aprox\r\n13-Sitios poblados de olivos\r\n15-Soldado ruso de caballería ligera\r\n16-\"Zorro de las nueve…\" espíritu de la mitología japonesa presente en el ánime Naruto\r\n17-Primer ministro británico durante la Segunda Guerra Mundial \r\n19-Uno de los cinco sabores básicos\r\n20-Repotencia y personaliza su coche\r\n21-Agencia de inteligencia estadounidense (siglas)\r\n22-\"… por hecho\", créelo\r\n23-Cada palo alto en que se afirman y atan los pies\r\n24-Actor que interpreta a Eduardo Manostijeras\r\n25-Cariñosamente, Ariana\r\n26-\"… López\" el Capitán Vidal en 'El Laberinto del Fauno'\r\n27-Símbolo químico del calcio\r\n28-La cáscara de la sandía\r\n29-Cantante y actriz mexicana\r\n31-Tranquilizad\r\n33-Estoy viendo que se dormían rimando\r\n35-Animal endémico de Australia\r\n36-Aturde o atolondra\r\n37-Antónimo de nefastos\r\n38-Una nave rota\r\n39-Nocaut, fuera de combate\r\n40-Si es muy grave, tarjeta roja\r\n41-Sapo sin cola\r\n44-Es filoso solo en el centro\r\n46-Curvo, como un garfio\r\n47-Le suplicó al ogro loco\r\n48-Salir por el oriente\r\n49-Mentira, apariencia engañosa\r\n50-1000 (pl)\r\n51-Propensión al cambio o inestabilidad emocional\r\n53-Puse en tono justo los instrumentos musicales\r\n54-Se motivan, se deciden y lo hacen, se…\r\n55-Dicho especialmente del viento: Que sopla\r\n57-Den vueltas alrededor de un núcleo\r\n58-Jefe de la sausería de palacio, encargado de los servicios de la mesa\r\n",
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,#,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,15,#,#,#,#,#\r\n16,#,#,#,#,#,17,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,#,#,27,#,#,28,#\r\n#,#,29,30,#,#,#,#,#,31,#,#,32,#,#\r\n33,34,#,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,#,#,#,#,#,37,#,#,#,#,#,#,#\r\n38,#,#,39,#,#,40,#,#,#,#,#,41,42,43\r\n44,#,45,#,#,46,#,#,#,#,#,47,#,#,#\r\n48,#,#,#,49,#,#,#,#,#,50,#,#,#,#\r\n51,#,#,52,#,#,#,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,#,#,55,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

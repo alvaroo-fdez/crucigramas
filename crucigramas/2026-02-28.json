@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 5002,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-26T16:00:25.644648Z",
+      "updatedAt": "2026-02-26T16:04:27.825366Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-28",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TENORIO#BIGBANG\r\nR#ENIGMA#CORRER\r\nON#SALID#ACERCA\r\nMOM#LUTO#REGION\r\nPREZ#SANTO#ABRA\r\nAMAIA##AU#CROAD\r\nSABOR#WITCH###O\r\n#SANZIO#IGUALA#\r\nA###ACOLA#FLACO\r\nMERCK#LL##ABREV\r\nAREA#EFETA#AGTA\r\nREMOVI#GAGA#ARC\r\nABOLIR#ATAÑE#EI\r\nBOTIGA#SATIRA#O\r\nARANOSA#SALAZON",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Las de Falopio",
+              "answer": "TROMPAS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo químico del neón",
+              "answer": "NE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Fonsi al desnudo",
+              "answer": "ONS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Moneda de Arabia Saudí",
+              "answer": "RIAL"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Viviendas de los esquimales",
+              "answer": "IGLUS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pase por alto, ignore",
+              "answer": "OMITA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "El hijo de Dédalo, que voló demasiado cerca del sol",
+              "answer": "ICARO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "La pasé superbién, disfruté",
+              "answer": "GOCE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lidiar con un trabajo pesado",
+              "answer": "BREGAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "La llegada, el final del viaje",
+              "answer": "ARRIBO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cangrejo de mar, muy apreciado en gastronomía",
+              "answer": "NECORA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Árbol de la granada",
+              "answer": "GRANADO"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Uno de los nombres propios de Dios en el judaísmo",
+              "answer": "ADONAI"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Leyes, reglas",
+              "answer": "NORMAS"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Hacía pis",
+              "answer": "MEABA"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "La última ciudad humana en la tierra de Matrix",
+              "answer": "ZION"
+            },
+            "28": {
+              "col": 8,
+              "row": 4,
+              "clue": "España Excusa, divagación",
+              "answer": "TUTIA"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Juan Mari…\", chef donostiarra, con sus 3 estrellas Michelín",
+              "answer": "ARZAK"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tubérculo base de la horchata valenciana",
+              "answer": "CHUFA"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "\"Virginia…\" escritora británica, símbolo del feminismo",
+              "answer": "WOOLF"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Símbolo del centigramo",
+              "answer": "CG"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "En la punta del iceberg",
+              "answer": "IC"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "La duquesa Cayetana",
+              "answer": "ALBA"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Extensa, por ejemplo, la espera",
+              "answer": "LARGA"
+            },
+            "42": {
+              "col": 13,
+              "row": 7,
+              "clue": "Caldero pequeño para sacar agua de los pozos",
+              "answer": "ACETRE"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sujetaba con cuerdas una embarcación al muelle",
+              "answer": "AMARABA"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Alcanzas un objetivo, hasta fin de mes",
+              "answer": "LLEGAS"
+            },
+            "47": {
+              "col": 14,
+              "row": 8,
+              "clue": "Se ponen de pie para aplaudirlo, le hacen una…",
+              "answer": "OVACION"
+            },
+            "49": {
+              "col": 1,
+              "row": 9,
+              "clue": "Tolkien: La Montaña Solitaria de los enanos, la que usurpó Smaug",
+              "answer": "EREBOR"
+            },
+            "50": {
+              "col": 2,
+              "row": 9,
+              "clue": "Muy lejana en el espacio o en el tiempo",
+              "answer": "REMOTA"
+            },
+            "51": {
+              "col": 3,
+              "row": 9,
+              "clue": "Arcilla blanca",
+              "answer": "CAOLIN"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Otro de los nombres del hurón, mamífero carnívoro americano (pl)",
+              "answer": "EIRAS"
+            },
+            "56": {
+              "col": 8,
+              "row": 10,
+              "clue": "Apodos cariñosos para abuelos o personas mayores",
+              "answer": "TATAS"
+            },
+            "57": {
+              "col": 9,
+              "row": 10,
+              "clue": "Cuarzo lapídeo",
+              "answer": "AGATA"
+            },
+            "60": {
+              "col": 4,
+              "row": 11,
+              "clue": "Solo digo que hay fiesta en el municipio más poblado de Galicia",
+              "answer": "VIGO"
+            },
+            "62": {
+              "col": 10,
+              "row": 11,
+              "clue": "Azul profundo, índigo",
+              "answer": "AÑIL"
+            },
+            "66": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"… victoriana\"",
+              "answer": "ERA"
+            },
+            "70": {
+              "col": 12,
+              "row": 13,
+              "clue": "Abril Zamora (de la serie 'Todo lo otro')",
+              "answer": "AZ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Don Juan…\" Seductor literario famoso por sus conquistas",
+              "answer": "TENORIO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Teoría cosmológica sobre el origen del universo",
+              "answer": "BIGBANG"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "El misterio de por qué gemían ante su imagen",
+              "answer": "ENIGMA"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Lo mejor que puedes hacer para quemar calorías",
+              "answer": "CORRER"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Modo encendido, modo…",
+              "answer": "ON"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Dilas al revés",
+              "answer": "SALID"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Esto va de que se aproxima a la cerca",
+              "answer": "ACERCA"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mamá en inglés",
+              "answer": "MOM"
+            },
+            "23": {
+              "col": 4,
+              "row": 3,
+              "clue": "Signo exterior de pena y duelo",
+              "answer": "LUTO"
+            },
+            "24": {
+              "col": 9,
+              "row": 3,
+              "clue": "El origen de este territorio fue alterado",
+              "answer": "REGION"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Honor que se gana con una acción gloriosa",
+              "answer": "PREZ"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Perfecto y libre de toda culpa",
+              "answer": "SANTO"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Aperture",
+              "answer": "ABRA"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vocalista de 'La Oreja de Van Gogh'",
+              "answer": "AMAIA"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "Símbolo químico del oro",
+              "answer": "AU"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Haced sonidos como las ranas",
+              "answer": "CROAD"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo es el dulce o el salado",
+              "answer": "SABOR"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "La mujer del inglés es una bruja",
+              "answer": "WITCH"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Apellido del de \"Las Estancias de Rafael\" en el Vaticano",
+              "answer": "SANZIO"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Equipara, empareja",
+              "answer": "IGUALA"
+            },
+            "44": {
+              "col": 4,
+              "row": 8,
+              "clue": "Pone detrás del escudo señales de distinción",
+              "answer": "ACOLA"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "Hombre escuálido, delgado",
+              "answer": "FLACO"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… KGaA\" compañía farmacéutica alemana más antigua del mundo",
+              "answer": "MERCK"
+            },
+            "52": {
+              "col": 6,
+              "row": 9,
+              "clue": "Exletra",
+              "answer": "LL"
+            },
+            "53": {
+              "col": 10,
+              "row": 9,
+              "clue": "Pequeña abreviatura",
+              "answer": "ABREV"
+            },
+            "54": {
+              "col": 0,
+              "row": 10,
+              "clue": "Sitio, ámbito",
+              "answer": "AREA"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Palabra bíblica con la que Jesús abre oídos y boca",
+              "answer": "EFETA"
+            },
+            "58": {
+              "col": 11,
+              "row": 10,
+              "clue": "Indígenas de las montañas de Luzón en Filipinas",
+              "answer": "AGTA"
+            },
+            "59": {
+              "col": 0,
+              "row": 11,
+              "clue": "Quité el esmalte de mis uñas, lo…",
+              "answer": "REMOVI"
+            },
+            "61": {
+              "col": 7,
+              "row": 11,
+              "clue": "La Lady que cantó con Bad Bunny en el Super Bowl",
+              "answer": "GAGA"
+            },
+            "63": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"Arco\" en inglés",
+              "answer": "ARC"
+            },
+            "64": {
+              "col": 0,
+              "row": 12,
+              "clue": "Derogar, dejar sin vigencia una ley",
+              "answer": "ABOLIR"
+            },
+            "65": {
+              "col": 7,
+              "row": 12,
+              "clue": "Te corresponde, es contigo, te…",
+              "answer": "ATAÑE"
+            },
+            "67": {
+              "col": 13,
+              "row": 12,
+              "clue": "Saliendo de Taipéi",
+              "answer": "EI"
+            },
+            "68": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tienda pequeña de barrio en catalán",
+              "answer": "BOTIGA"
+            },
+            "69": {
+              "col": 7,
+              "row": 13,
+              "clue": "Género literario",
+              "answer": "SATIRA"
+            },
+            "71": {
+              "col": 0,
+              "row": 14,
+              "clue": "Que está cubierta de telarañas",
+              "answer": "ARANOSA"
+            },
+            "72": {
+              "col": 8,
+              "row": 14,
+              "clue": "Método de preservación de los alimentos con sal",
+              "answer": "SALAZON"
+            }
+          }
+        },
+        "vertical_clues": "1-Las de Falopio\r\n2-Símbolo químico del neón\r\n3-Fonsi al desnudo\r\n4-Moneda de Arabia Saudí\r\n5-Viviendas de los esquimales\r\n6-Pase por alto, ignore\r\n8-El hijo de Dédalo, que voló demasiado cerca del sol\r\n9-La pasé superbién, disfruté\r\n10-Lidiar con un trabajo pesado\r\n11-La llegada, el final del viaje\r\n12-Cangrejo de mar, muy apreciado en gastronomía \r\n13-Árbol de la granada\r\n15-Uno de los nombres propios de Dios en el judaísmo\r\n18-Leyes, reglas\r\n22-Hacía pis\r\n26-La última ciudad humana en la tierra de Matrix\r\n28-España Excusa, divagación\r\n31-\"Juan Mari…\", chef donostiarra, con sus 3 estrellas Michelín\r\n33-Tubérculo base de la horchata valenciana\r\n35-\"Virginia…\" escritora británica, símbolo del feminismo\r\n36-Símbolo del centigramo\r\n38-En la punta del iceberg\r\n40-La duquesa Cayetana\r\n41-Extensa, por ejemplo, la espera\r\n42-Caldero pequeño para sacar agua de los pozos\r\n43-Sujetaba con cuerdas una embarcación al muelle \r\n45-Alcanzas un objetivo, hasta fin de mes\r\n47-Se ponen de pie para aplaudirlo, le hacen una…\r\n49-Tolkien: La Montaña Solitaria de los enanos, la que usurpó Smaug\r\n50-Muy lejana en el espacio o en el tiempo \r\n51-Arcilla blanca\r\n55-Otro de los nombres del hurón, mamífero carnívoro americano (pl)\r\n56-Apodos cariñosos para abuelos o personas mayores \r\n57-Cuarzo lapídeo\r\n60-Solo digo que hay fiesta en el municipio más poblado de Galicia\r\n62-Azul profundo, índigo\r\n66-\"… victoriana\"\r\n70-Abril Zamora (de la serie 'Todo lo otro')",
+        "horizontal_clues": "1-\"Don Juan…\" Seductor literario famoso por sus conquistas \r\n7-Teoría cosmológica sobre el origen del universo \r\n14-El misterio de por qué gemían ante su imagen\r\n16-Lo mejor que puedes hacer para quemar calorías\r\n17-Modo encendido, modo…\r\n19-Dilas al revés\r\n20-Esto va de que se aproxima a la cerca\r\n21-Mamá en inglés\r\n23-Signo exterior de pena y duelo\r\n24-El origen de este territorio fue alterado\r\n25-Honor que se gana con una acción gloriosa\r\n27-Perfecto y libre de toda culpa\r\n29-Aperture\r\n30-Vocalista de 'La Oreja de Van Gogh'\r\n32-Símbolo químico del oro\r\n33-Haced sonidos como las ranas\r\n34-Lo es el dulce o el salado\r\n35-La mujer del inglés es una bruja\r\n37-Apellido del de \"Las Estancias de Rafael\" en el Vaticano\r\n39-Equipara, empareja\r\n44-Pone detrás del escudo señales de distinción\r\n46-Hombre escuálido, delgado\r\n48-\"… KGaA\" compañía farmacéutica alemana más antigua del mundo\r\n52-Exletra\r\n53-Pequeña abreviatura\r\n54-Sitio, ámbito \r\n55-Palabra bíblica con la que Jesús abre oídos y boca \r\n58-Indígenas de las montañas de Luzón en Filipinas\r\n59-Quité el esmalte de mis uñas, lo…\r\n61-La Lady que cantó con Bad Bunny en el Super Bowl \r\n63-\"Arco\" en inglés\r\n64-Derogar, dejar sin vigencia una ley\r\n65-Te corresponde, es contigo, te…\r\n67-Saliendo de Taipéi\r\n68-Tienda pequeña de barrio en catalán \r\n69-Género literario\r\n71-Que está cubierta de telarañas \r\n72-Método de preservación de los alimentos con sal",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,11,12,13\r\n#,#,14,#,#,#,#,15,#,16,#,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,20,#,#,#,#,#\r\n21,#,22,#,23,#,#,#,#,24,#,#,#,#,#\r\n25,#,#,26,#,27,#,#,28,#,#,29,#,#,#\r\n30,#,#,#,31,#,#,32,#,#,33,#,#,#,#\r\n34,#,#,#,#,#,35,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,38,#,#,39,#,#,40,41,42,#\r\n43,#,#,#,44,#,#,45,#,#,46,#,#,#,47\r\n48,49,50,51,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,#,56,57,#,58,#,#,#\r\n59,#,#,#,60,#,#,61,#,#,62,#,63,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,66,#,67,#\r\n68,#,#,#,#,#,#,69,#,#,#,#,70,#,#\r\n71,#,#,#,#,#,#,#,72,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

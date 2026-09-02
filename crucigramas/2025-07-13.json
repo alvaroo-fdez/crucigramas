@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2852,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-07-12T23:23:52.377421Z",
+      "updatedAt": "2025-07-12T23:24:34.443657Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-07-13",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PORTLAND#MURCIA\r\nAV#ACCION#VERMU\r\nRAC#RAQUETAZO#T\r\nAREL#MUGROSO#SO\r\nDALI#PELAR##REG\r\nO#INMOLA#REMEDE\r\n#PACA##S#EDECAN\r\nPECHERO#ASIDERO\r\nATRASE#B##TINA#\r\nLAUREN#RACHAS#D\r\nMIZ##CHOLO#DIRE\r\nAS#CLOACAS#OOOH\r\nR#CHARLOTTE#NME\r\nIREIS#OLEADA#PS\r\nOBLITO#ISLANDIA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El rapado nervioso sigue sin empleo",
+              "answer": "PARADO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Pondrá huevos",
+              "answer": "OVARA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Media tasa",
+              "answer": "TA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Medicina Líquido CefaloRraquídeo (siglas)",
+              "answer": "LCR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pernoctó en una tienda de campaña",
+              "answer": "ACAMPO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Elemento metálico utilizado en monedas y baterías",
+              "answer": "NIQUEL"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Capital de la Isla de Man",
+              "answer": "DOUGLAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "'Pan, … y queso, saben a beso'",
+              "answer": "UVAS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Una oración al pie del cerezo",
+              "answer": "REZO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Conversion Rate Optimization (siglas)",
+              "answer": "CRO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Dominio web para Isla de Man",
+              "answer": "IM"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Que se genera por sí mismo sin ayuda externa",
+              "answer": "AUTOGENO"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"Fumata…\" columna de humo cuando no Habemus Papam (voz de Italia)",
+              "answer": "NERA"
+            },
+            "19": {
+              "col": 2,
+              "row": 2,
+              "clue": "La Reina de la Salsa, la Guarachera de Cuba (2p)",
+              "answer": "CELIACRUZ"
+            },
+            "21": {
+              "col": 9,
+              "row": 2,
+              "clue": "Las gemelas del ajedrez",
+              "answer": "TORRES"
+            },
+            "23": {
+              "col": 3,
+              "row": 3,
+              "clue": "Ejecutar sin juicio previo por una multitud enfurecida",
+              "answer": "LINCHAR"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Adormecerá con calmantes",
+              "answer": "SEDARA"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Examen crítico de un texto o documento",
+              "answer": "RECENSION"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Antigua forma de decir maestro",
+              "answer": "MAESE"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "La musa de Tolkien, su esposa",
+              "answer": "EDITH"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "En punto intermedio de desarrollo o progreso",
+              "answer": "MEDIADO"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Agradáis, complacéis",
+              "answer": "PETAIS"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tan evidente que resulta innegable",
+              "answer": "PALMARIO"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Resentimiento arraigado y tenaz",
+              "answer": "RENCOR"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "¿Esta hortaliza es bicolor?",
+              "answer": "BROCOLI"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Criado o mozo de un rufián en el antiguo reino de Valencia",
+              "answer": "ALATES"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Saco para los granos",
+              "answer": "COSTAL"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Tierra para criar a los potros separados de las madres",
+              "answer": "DEHESA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Círculo de luz difusa en torno de un cuerpo luminoso",
+              "answer": "HALO"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Primo, por error, lo quebré",
+              "answer": "ROMPI"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Seguidor del chiismo",
+              "answer": "CHII"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Esta pista es la última en inglés",
+              "answer": "LAST"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "En el centro de Barcelona",
+              "answer": "CEL"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "Sufijo que indicando lugar donde estos abundan",
+              "answer": "EDA"
+            },
+            "60": {
+              "col": 1,
+              "row": 13,
+              "clue": "Rubidio",
+              "answer": "RB"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "Entrando en Andorra",
+              "answer": "AN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Famosa ciudad de Oregón, conocida por su cultura alternativa",
+              "answer": "PORTLAND"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tierra de huerta y agricultura en el Mediterráneo español",
+              "answer": "MURCIA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Avenida corta",
+              "answer": "AV"
+            },
+            "15": {
+              "col": 3,
+              "row": 1,
+              "clue": "Ejercicio de la posibilidad de hacer",
+              "answer": "ACCION"
+            },
+            "17": {
+              "col": 10,
+              "row": 1,
+              "clue": "Licor que tiene su hora",
+              "answer": "VERMU"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Coche inglés (inv)",
+              "answer": "RAC"
+            },
+            "20": {
+              "col": 4,
+              "row": 2,
+              "clue": "Lo daba Nadal o Federer",
+              "answer": "RAQUETAZO"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Criba grande para limpiar el trigo en la era",
+              "answer": "AREL"
+            },
+            "24": {
+              "col": 5,
+              "row": 3,
+              "clue": "Asqueroso, increíblemente sucio",
+              "answer": "MUGROSO"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Un poco sola",
+              "answer": "SO"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "El pintor del bigote",
+              "answer": "DALI"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Quitar la piel o la cáscara a algo",
+              "answer": "PELAR"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Pavimento desértico o pedregoso",
+              "answer": "REG"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Sacrifica su vida",
+              "answer": "INMOLA"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Hice las mismas acciones con intención de burla",
+              "answer": "REMEDE"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Fardo o lío",
+              "answer": "PACA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Auxiliar, acompañante",
+              "answer": "EDECAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Plebeyo que pagaba impuestos en la España medieval",
+              "answer": "PECHERO"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Parte por donde se ase algo",
+              "answer": "ASIDERO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Demoré, dilaté",
+              "answer": "ATRASE"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "La bañera de la Turner",
+              "answer": "TINA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Ralph…\" diseñador de modas",
+              "answer": "LAUREN"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Series de acontecimientos o sucesos consecutivos",
+              "answer": "RACHAS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Voz usada para llamar al gato",
+              "answer": "MIZ"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Apodo de Diego Simeone, entrenador del Atlético de Madrid",
+              "answer": "CHOLO"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Pediré que le quiten el polietileno y te lo comentaré",
+              "answer": "DIRE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "El mejor",
+              "answer": "AS"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Conductos de las aguas residuales",
+              "answer": "CLOACAS"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Voz de mucho asombro",
+              "answer": "OOOH"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "\"… Guillard\"  la 1ª mujer impresora importante de la que se conoce su biografía",
+              "answer": "CHARLOTTE"
+            },
+            "58": {
+              "col": 12,
+              "row": 12,
+              "clue": "Semanario musical del Reino Unido, popular durante la era punk (siglas)",
+              "answer": "NME"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Te dirigiréis a tal sitio",
+              "answer": "IREIS"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Aparición repentina de algo en gran cantidad",
+              "answer": "OLEADA"
+            },
+            "63": {
+              "col": 13,
+              "row": 13,
+              "clue": "Patrick Stewart (el Profesor Xavier en X",
+              "answer": "PS"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Objeto olvidado dentro del cuerpo tras una cirugía",
+              "answer": "OBLITO"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "De majestuosos paisajes, conocida como la isla de hielo y fuego",
+              "answer": "ISLANDIA"
+            }
+          }
+        },
+        "vertical_clues": "1-El rapado nervioso sigue sin empleo\r\n2-Pondrá huevos\r\n3-Media tasa\r\n4-Medicina Líquido CefaloRraquídeo (siglas)\r\n5-Pernoctó en una tienda de campaña\r\n6-Elemento metálico utilizado en monedas y baterías \r\n7-Capital de la Isla de Man\r\n9-'Pan, … y queso, saben a beso'\r\n10-Una oración al pie del cerezo\r\n11-Conversion Rate Optimization (siglas)\r\n12-Dominio web para Isla de Man\r\n13-Que se genera por sí mismo sin ayuda externa \r\n16-\"Fumata…\" columna de humo cuando no Habemus Papam (voz de Italia)\r\n19-La Reina de la Salsa, la Guarachera de Cuba (2p)\r\n21-Las gemelas del ajedrez\r\n23-Ejecutar sin juicio previo por una multitud enfurecida \r\n25-Adormecerá con calmantes\r\n28-Examen crítico de un texto o documento \r\n30-Antigua forma de decir maestro\r\n32-La musa de Tolkien, su esposa\r\n33-En punto intermedio de desarrollo o progreso \r\n34-Agradáis, complacéis\r\n36-Tan evidente que resulta innegable \r\n37-Resentimiento arraigado y tenaz\r\n40-¿Esta hortaliza es bicolor? \r\n44-Criado o mozo de un rufián en el antiguo reino de Valencia\r\n45-Saco para los granos\r\n46-Tierra para criar a los potros separados de las madres\r\n49-Círculo de luz difusa en torno de un cuerpo luminoso\r\n51-Primo, por error, lo quebré\r\n53-Seguidor del chiismo\r\n54-Esta pista es la última en inglés\r\n56-En el centro de Barcelona\r\n57-Sufijo que indicando lugar donde estos abundan\r\n60-Rubidio\r\n62-Entrando en Andorra",
+        "horizontal_clues": "1-Famosa ciudad de Oregón, conocida por su cultura alternativa \r\n8-Tierra de huerta y agricultura en el Mediterráneo español \r\n14-Avenida corta\r\n15-Ejercicio de la posibilidad de hacer\r\n17-Licor que tiene su hora\r\n18-Coche inglés (inv)\r\n20-Lo daba Nadal o Federer \r\n22-Criba grande para limpiar el trigo en la era\r\n24-Asqueroso, increíblemente sucio\r\n25-Un poco sola\r\n26-El pintor del bigote \r\n27-Quitar la piel o la cáscara a algo\r\n28-Pavimento desértico o pedregoso\r\n29-Sacrifica su vida\r\n31-Hice las mismas acciones con intención de burla\r\n34-Fardo o lío\r\n35-Auxiliar, acompañante\r\n36-Plebeyo que pagaba impuestos en la España medieval \r\n38-Parte por donde se ase algo\r\n39-Demoré, dilaté\r\n41-La bañera de la Turner\r\n42-\"Ralph…\" diseñador de modas\r\n43-Series de acontecimientos o sucesos consecutivos \r\n47-Voz usada para llamar al gato\r\n48-Apodo de Diego Simeone, entrenador del Atlético de Madrid\r\n50-Pediré que le quiten el polietileno y te lo comentaré\r\n52-El mejor\r\n53-Conductos de las aguas residuales\r\n55-Voz de mucho asombro\r\n56-\"… Guillard\"  la 1ª mujer impresora importante de la que se conoce su biografía\r\n58-Semanario musical del Reino Unido, popular durante la era punk (siglas)\r\n59-Te dirigiréis a tal sitio\r\n61-Aparición repentina de algo en gran cantidad\r\n63-Patrick Stewart (el Profesor Xavier en X-Men) \r\n64-Objeto olvidado dentro del cuerpo tras una cirugía \r\n65-De majestuosos paisajes, conocida como la isla de hielo y fuego",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,15,#,#,#,#,16,#,17,#,#,#,#\r\n18,#,19,#,20,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,#,#,25,#\r\n26,#,#,#,#,27,#,#,#,#,#,#,28,#,#\r\n#,#,29,#,30,#,#,#,#,31,32,33,#,#,#\r\n#,34,#,#,#,#,#,#,#,35,#,#,#,#,#\r\n36,#,#,#,#,37,#,#,38,#,#,#,#,#,#\r\n39,#,#,#,#,#,#,40,#,#,41,#,#,#,#\r\n42,#,#,#,#,#,#,43,44,45,#,#,#,#,46\r\n47,#,#,#,#,48,49,#,#,#,#,50,#,51,#\r\n52,#,#,53,54,#,#,#,#,#,#,55,#,#,#\r\n#,#,56,#,#,#,#,#,#,#,57,#,58,#,#\r\n59,60,#,#,#,#,61,#,#,#,#,62,#,63,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

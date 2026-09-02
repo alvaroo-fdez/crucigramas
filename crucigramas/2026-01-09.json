@@ -1,0 +1,508 @@
+{
+  "data": {
+    "id": 4483,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.993675Z",
+      "updatedAt": "2025-12-30T13:55:53.006082Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-09",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TERSA#FAM#HABLO\r\nILEO#IRNOS#NOEL\r\nMENS#NIETA#ACNE\r\nAGUE#TECOL#TITO\r\nSINGLE#D#VIENES\r\n##CUERPOYALMA##\r\nTRIE#METED#AZAR\r\nROO#PILATOS#OTI\r\nIG#BOTO#IRTE#OO\r\nPEROTE###DALLAS\r\n#RATING#CALLEN#\r\nP#SENTADILLAS#H\r\nAIA#GERANIO#IDO\r\nVERMU#UMT#NAVAL\r\nORATE#AEA#EPOCA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Quitas o hurtas con engaño",
+              "answer": "TIMAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Decidí, opté",
+              "answer": "ELEGI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Te aviso, te anuncio que hoy… / a tus negocios sucios\" Shakira",
+              "answer": "RENUNCIO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Aplaqué, pacifiqué, aquieté",
+              "answer": "SOSEGUE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Cocina en aceite",
+              "answer": "FRIE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Relato breve de un hecho curioso",
+              "answer": "ANECDOTA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "La herramienta de Marc Márquez",
+              "answer": "MOTO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Maldición, imprecación",
+              "answer": "ANATEMA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ruido cuando el de adelante se piensa que el verde es para no avanzar",
+              "answer": "BOCINAZO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Pieza de cristal que se usa en instrumentos ópticos",
+              "answer": "LENTE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Pinturas, obras pictóricas",
+              "answer": "OLEOS"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Otro nombre para la luz de giro",
+              "answer": "INTERMITENTE"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Artista que se inspiró en el queso Camembert para pintar relojes derretidos (2p)",
+              "answer": "SALVADORDALI"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Fin del baile",
+              "answer": "LE"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "En el corazón del Nilo",
+              "answer": "IL"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Que no te engañen, que tomen del…",
+              "answer": "PELO"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "El abominable hombre de las nieves",
+              "answer": "YETI"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Un viaje divertido por los Estados Unidos",
+              "answer": "TRIP"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Waters o Federer",
+              "answer": "ROGER"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Remolcan el barco",
+              "answer": "ATOAN"
+            },
+            "35": {
+              "col": 14,
+              "row": 6,
+              "clue": "\"Miguel…\" cantando 'Santa Lucía'",
+              "answer": "RIOS"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Bebida de aspecto y sabor desagradable, coloquialmente",
+              "answer": "POTINGUE"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Actor de Rocky Balboa",
+              "answer": "STALLONE"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "El premio acumulado",
+              "answer": "BOTE"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Lela pero leal, esa chica",
+              "answer": "ELLA"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Rozará ligeramente",
+              "answer": "RASARA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Hace daño, genera lesiones, es…",
+              "answer": "LESIVO"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Llovizna, lluvia suave",
+              "answer": "GARUA"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Celo, adhesivo, teipe",
+              "answer": "CINTA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Da pavor esta edad, la del…",
+              "answer": "PAVO"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Yo quiero, … un poco",
+              "answer": "DAME"
+            },
+            "55": {
+              "col": 14,
+              "row": 11,
+              "clue": "Saludo",
+              "answer": "HOLA"
+            },
+            "57": {
+              "col": 1,
+              "row": 12,
+              "clue": "Sonreí (invertido)",
+              "answer": "IER"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Centro de oxidación",
+              "answer": "DAC"
+            },
+            "62": {
+              "col": 3,
+              "row": 13,
+              "clue": "Símbolo químico del Meitnerio",
+              "answer": "MT"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Inic de protagonista de la película Cara Cortada",
+              "answer": "AP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Estar bien y sin arrugas",
+              "answer": "TERSA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Una familia pequeña",
+              "answer": "FAM"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Digo",
+              "answer": "HABLO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Enfermedad que retuerce las asas intestinales",
+              "answer": "ILEO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Largarnos, marcharnos",
+              "answer": "IRNOS"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "\"Papá…\", Santa Claus, San Nicolás",
+              "answer": "NOEL"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"… Health\" la revista masculina más vendida del mundo",
+              "answer": "MENS"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Atiné la etnia de mi descendiente",
+              "answer": "NIETA"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Enfermedad de las glándulas sebáceas en la cara",
+              "answer": "ACNE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mezclé agua con otro líquido",
+              "answer": "AGUE"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "México Gusano que se cría en el maguey",
+              "answer": "TECOL"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"… Puente\" percusionista conocido como 'El rey de los timbales'",
+              "answer": "TITO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Disco fonográfico de corta duración",
+              "answer": "SINGLE"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Acudes acá, con el tipo de Viena",
+              "answer": "VIENES"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Lo físico con lo espiritual, todo confluyendo en tu ser (3p)",
+              "answer": "CUERPOYALMA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Abeja: Entre y salga de una colmena muy poblada",
+              "answer": "TRIE"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Introducid, insertad",
+              "answer": "METED"
+            },
+            "33": {
+              "col": 11,
+              "row": 6,
+              "clue": "Juegos de envite y…",
+              "answer": "AZAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Corto con los dientes",
+              "answer": "ROO"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "El gobernador que condenó a Jesús",
+              "answer": "PILATOS"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Antiguo festival musical iberoamericano",
+              "answer": "OTI"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Instagram",
+              "answer": "IG"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Lo echó y saltó",
+              "answer": "BOTO"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Lo tiré mal, largarte será la mejor opción",
+              "answer": "IRTE"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Ojos bien abiertos",
+              "answer": "OO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Natural de Álora, localidad malagueña",
+              "answer": "PEROTE"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Condado de Texas",
+              "answer": "DALLAS"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Porcentaje de audiencia de un programa de televisión",
+              "answer": "RATING"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "No hablen, guarden silencio",
+              "answer": "CALLEN"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Ejercicio para el cuerpo que fortalece los glúteos (pl)",
+              "answer": "SENTADILLAS"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Aeropuerto Internacional de Atenas",
+              "answer": "AIA"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Planta de la familia de las Geraniáceas",
+              "answer": "GERANIO"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Coloquial Falto de juicio",
+              "answer": "IDO"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Vino macerado en hierbas",
+              "answer": "VERMU"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Universidad Médica de Taipéi (siglas)",
+              "answer": "UMT"
+            },
+            "64": {
+              "col": 10,
+              "row": 13,
+              "clue": "Fuerza Armada, fuerza…",
+              "answer": "NAVAL"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Persona demente",
+              "answer": "ORATE"
+            },
+            "67": {
+              "col": 6,
+              "row": 14,
+              "clue": "Asociación Española de Anunciantes",
+              "answer": "AEA"
+            },
+            "68": {
+              "col": 10,
+              "row": 14,
+              "clue": "Temporada de considerable duración",
+              "answer": "EPOCA"
+            }
+          }
+        },
+        "vertical_clues": "1-Quitas o hurtas con engaño\r\n2-Decidí, opté\r\n3-\"Te aviso, te anuncio que hoy… / a tus negocios sucios\" Shakira\r\n4-Aplaqué, pacifiqué, aquieté\r\n5-Cocina en aceite\r\n6-Relato breve de un hecho curioso\r\n7-La herramienta de Marc Márquez\r\n9-Maldición, imprecación\r\n10-Ruido cuando el de adelante se piensa que el verde es para no avanzar\r\n11-Pieza de cristal que se usa en instrumentos ópticos\r\n12-Pinturas, obras pictóricas\r\n14-Otro nombre para la luz de giro\r\n15-Artista que se inspiró en el queso Camembert para pintar relojes derretidos (2p)\r\n24-Fin del baile\r\n26-En el corazón del Nilo\r\n28-Que no te engañen, que tomen del…\r\n29-El abominable hombre de las nieves\r\n30-Un viaje divertido por los Estados Unidos\r\n31-Waters o Federer\r\n34-Remolcan el barco\r\n35-\"Miguel…\" cantando 'Santa Lucía'\r\n37-Bebida de aspecto y sabor desagradable, coloquialmente\r\n38-Actor de Rocky Balboa\r\n41-El premio acumulado\r\n43-Lela pero leal, esa chica\r\n46-Rozará ligeramente\r\n48-Hace daño, genera lesiones, es…\r\n50-Llovizna, lluvia suave\r\n51-Celo, adhesivo, teipe\r\n52-Da pavor esta edad, la del…\r\n54-Yo quiero, … un poco\r\n55-Saludo\r\n57-Sonreí (invertido)\r\n60-Centro de oxidación\r\n62-Símbolo químico del Meitnerio\r\n65-Inic de protagonista de la película Cara Cortada\r\n",
+        "horizontal_clues": "1-Estar bien y sin arrugas\r\n5-Una familia pequeña\r\n8-Digo\r\n13-Enfermedad que retuerce las asas intestinales\r\n14-Largarnos, marcharnos\r\n16-\"Papá…\", Santa Claus, San Nicolás\r\n17-\"… Health\" la revista masculina más vendida del mundo\r\n18-Atiné la etnia de mi descendiente\r\n19-Enfermedad de las glándulas sebáceas en la cara\r\n20-Mezclé agua con otro líquido\r\n21-México Gusano que se cría en el maguey\r\n22-\"… Puente\" percusionista conocido como 'El rey de los timbales' \r\n23-Disco fonográfico de corta duración\r\n25-Acudes acá, con el tipo de Viena\r\n27-Lo físico con lo espiritual, todo confluyendo en tu ser (3p)\r\n30-Abeja: Entre y salga de una colmena muy poblada\r\n32-Introducid, insertad\r\n33-Juegos de envite y…\r\n36-Corto con los dientes\r\n37-El gobernador que condenó a Jesús\r\n39-Antiguo festival musical iberoamericano\r\n40-Instagram\r\n41-Lo echó y saltó\r\n42-Lo tiré mal, largarte será la mejor opción\r\n44-Ojos bien abiertos\r\n45-Natural de Álora, localidad malagueña\r\n47-Condado de Texas\r\n49-Porcentaje de audiencia de un programa de televisión\r\n51-No hablen, guarden silencio\r\n53-Ejercicio para el cuerpo que fortalece los glúteos (pl)\r\n56-Aeropuerto Internacional de Atenas\r\n58-Planta de la familia de las Geraniáceas\r\n59-Coloquial Falto de juicio\r\n61-Vino macerado en hierbas\r\n63-Universidad Médica de Taipéi (siglas)\r\n64-Fuerza Armada, fuerza…\r\n66-Persona demente\r\n67-Asociación Española de Anunciantes\r\n68-Temporada de considerable duración\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,#,5,6,7,#,8,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,15,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n23,#,#,#,24,#,#,#,#,25,26,#,#,#,#\r\n#,#,27,#,#,#,28,#,29,#,#,#,#,#,#\r\n30,31,#,#,#,32,#,#,#,#,#,33,#,34,35\r\n36,#,#,#,37,#,#,#,#,#,38,#,39,#,#\r\n40,#,#,41,#,#,#,#,42,#,#,43,#,44,#\r\n45,#,46,#,#,#,#,#,#,47,#,#,48,#,#\r\n#,49,#,#,#,#,50,#,51,#,#,#,#,#,#\r\n52,#,53,#,#,#,#,54,#,#,#,#,#,#,55\r\n56,57,#,#,58,#,#,#,#,#,#,#,59,60,#\r\n61,#,#,62,#,#,63,#,#,#,64,65,#,#,#\r\n66,#,#,#,#,#,67,#,#,#,68,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 4404,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-19T09:37:52.038997Z",
+      "updatedAt": "2025-12-19T16:31:33.558665Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "¡Que te lo digo yo!",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-23",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ERAS#ESPEJO#PTA\r\nSETA#CORTA#SER#\r\nPUEBLO#ENMENDAD\r\nANTES#OCIOS#REI\r\nDIAS#CRIAN#UO#N\r\nAOR#NILO##ONCEE\r\n#N#SOTA#MARCHAR\r\nB#RIVER#INDIE#O\r\nUTERINA#ETER#A#\r\nSEPIA##ANEN#AGO\r\nCARO#TARTA#AGUR\r\nA#O#VITAE#CHOJI\r\nRACISTAS#ANOTEN\r\n##HE#AUTOR#RARA\r\nFRASESDECUÑADOS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Arma blanca larga",
+              "answer": "ESPADA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "·\"… familiar\" momento para escuchar el nuevo repertorio del susodicho·",
+              "answer": "REUNION"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dar la teta",
+              "answer": "ATETAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "·Trae, lo hago yo, que tú no…·",
+              "answer": "SABES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Los principios ecológicos siempre resuenan",
+              "answer": "ECO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Fin del descanso",
+              "answer": "SO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "·El marisco me lo trae a mí un amigo gallego por la mitad de…·",
+              "answer": "PRECIO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Comunidad humana con afinidades raciales, lingüísticas, culturales",
+              "answer": "ETNIA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "·¡Échale un poco de… a la vegana!·",
+              "answer": "JAMON"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "·A ver qué traje saca la… este año·",
+              "answer": "PEDROCHE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Viene con eso incluido, lo…",
+              "answer": "TRAE"
+            },
+            "14": {
+              "col": 11,
+              "row": 1,
+              "clue": "Símbolo químico del estaño",
+              "answer": "SN"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Este se quedó sin manzanilla",
+              "answer": "ES"
+            },
+            "19": {
+              "col": 14,
+              "row": 2,
+              "clue": "·Pagando alquiler en vez de hipoteca, estás tirando el…·",
+              "answer": "DINERO"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Bordeará, ribeteará",
+              "answer": "ORLARA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Nombren al autor, si lo usan",
+              "answer": "CITEN"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Atar al yugo bueyes, mulas u otras bestias",
+              "answer": "UNCIR"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "·¿Otro año sin…? A ver si vas a ser de la acera de enfrente·",
+              "answer": "NOVIA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Lo que grita el juez",
+              "answer": "ORDEN"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Las fronteras de España",
+              "answer": "EA"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Nombre de la estrella más brillante vista desde la tierra",
+              "answer": "SIRIO"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "·Tráeme una rubia porque esa no…·",
+              "answer": "MIENTE"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Diosa griega de las flores",
+              "answer": "ANTEA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "·Pues yo aquí siempre aparco a la primera Si es que no sabéis…·",
+              "answer": "BUSCAR"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Te recuerda, sin mucha dulzura, lo que hiciste mal",
+              "answer": "REPROCHA"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Una astilla resinosa en mi té inglés",
+              "answer": "TEA"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "·Mari Carmen, ponme otra cerveza que esta tiene un…·",
+              "answer": "AGUJERO"
+            },
+            "41": {
+              "col": 7,
+              "row": 9,
+              "clue": "Removiste la tierra haciendo en ella surcos con el arado",
+              "answer": "ARASTE"
+            },
+            "42": {
+              "col": 12,
+              "row": 9,
+              "clue": "Terminad con la existencia de un producto",
+              "answer": "AGOTAD"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "Vas al servicio",
+              "answer": "ORINAS"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Tías andaluzas",
+              "answer": "TITAS"
+            },
+            "46": {
+              "col": 6,
+              "row": 10,
+              "clue": "¿Se ata Ud a la caja de la muerte?",
+              "answer": "ATAUD"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "·En mis tiempos sí que sabíamos divertirnos, no como…·",
+              "answer": "AHORA"
+            },
+            "48": {
+              "col": 4,
+              "row": 11,
+              "clue": "Versus",
+              "answer": "VS"
+            },
+            "49": {
+              "col": 10,
+              "row": 11,
+              "clue": "Inic del director de la peli \"Oppenheimer\"",
+              "answer": "CN"
+            },
+            "51": {
+              "col": 3,
+              "row": 12,
+              "clue": "Colocar los puntos sobre estas letras, concretan una situación",
+              "answer": "IES"
+            },
+            "52": {
+              "col": 9,
+              "row": 12,
+              "clue": "Grupo de 95 islas Indonesia",
+              "answer": "ARU"
+            },
+            "55": {
+              "col": 8,
+              "row": 13,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Los son la paleozoica, mesozoica y cenozoica",
+              "answer": "ERAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "El que le dice las verdades a la Reina Grimhilde",
+              "answer": "ESPEJO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "La puerta pequeña",
+              "answer": "PTA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "No te ates por la espalda a un champiñón",
+              "answer": "SETA"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "·Así no se… el jamón, que le quitas toda la gracia·",
+              "answer": "CORTA"
+            },
+            "14": {
+              "col": 11,
+              "row": 1,
+              "clue": "Tu manera de comportarte, tu forma de…",
+              "answer": "SER"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "El demos para los griegos",
+              "answer": "PUEBLO"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Rectificad antes de que os demanden por error",
+              "answer": "ENMENDAD"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "·Ya no hay música como la de…·",
+              "answer": "ANTES"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Cesación del trabajo, inacción (pl)",
+              "answer": "OCIOS"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Me tronché con el rey en Portugal",
+              "answer": "REI"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "·España la arreglo yo en dos…·",
+              "answer": "DIAS"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo hacen las gallinas con los polluelos y los padres con los niños",
+              "answer": "CRIAN"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lo situó en la zona derecha",
+              "answer": "UO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Se cortó la aorta",
+              "answer": "AOR"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Ni lo pienses, este río es el más largo de África",
+              "answer": "NILO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pese por onzas",
+              "answer": "ONCEE"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"…, caballo y rey\" juego infantil",
+              "answer": "SOTA"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Andar al compás de la tropa",
+              "answer": "MARCHAR"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Fút \"… Plate vs Boca Juniors\" el superclásico argentino",
+              "answer": "RIVER"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Arte libre de grandes industrias, con sello propio",
+              "answer": "INDIE"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Anatomía \"Cavidad…\", región central del útero",
+              "answer": "UTERINA"
+            },
+            "38": {
+              "col": 8,
+              "row": 8,
+              "clue": "Esfera aparente que rodea a la Tierra",
+              "answer": "ETER"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "El filtro de las pelis americanas para México",
+              "answer": "SEPIA"
+            },
+            "41": {
+              "col": 7,
+              "row": 9,
+              "clue": "Una niña mirándose al espejo",
+              "answer": "ANEN"
+            },
+            "42": {
+              "col": 12,
+              "row": 9,
+              "clue": "3 de agosto",
+              "answer": "AGO"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "·Si es que, al final, lo barato sale…·",
+              "answer": "CARO"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "·Traigo de postre… al whisky, pero sin la…·",
+              "answer": "TARTA"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Adiós, dijo el vasco",
+              "answer": "AGUR"
+            },
+            "48": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Curriculum…\" la carrera de la vida",
+              "answer": "VITAE"
+            },
+            "49": {
+              "col": 10,
+              "row": 11,
+              "clue": "Naruto: El mejor amigo de Shikamaru",
+              "answer": "CHOJI"
+            },
+            "50": {
+              "col": 0,
+              "row": 12,
+              "clue": "·Nosotros no somos…, tenemos amigos negros·",
+              "answer": "RACISTAS"
+            },
+            "52": {
+              "col": 9,
+              "row": 12,
+              "clue": "Escriban en un plano tensado sin dispersarse",
+              "answer": "ANOTEN"
+            },
+            "53": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del helio",
+              "answer": "HE"
+            },
+            "54": {
+              "col": 5,
+              "row": 13,
+              "clue": "El creador es un tauro atípico",
+              "answer": "AUTOR"
+            },
+            "56": {
+              "col": 11,
+              "row": 13,
+              "clue": "Distinta, poco común",
+              "answer": "RARA"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "·Enunciados categóricos, pero sin base, propios de quienes \"todo lo saben\" o lo que son las pistas destacadas (3p)·",
+              "answer": "FRASESDECUÑADOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Arma blanca larga\r\n2-·\"… familiar\" momento para escuchar el nuevo repertorio del susodicho·\r\n3-Dar la teta \r\n4-·Trae, lo hago yo, que tú no…· \r\n5-Los principios ecológicos siempre resuenan\r\n6-Fin del descanso\r\n7-·El marisco me lo trae a mí un amigo gallego por la mitad de…·\r\n8-Comunidad humana con afinidades raciales, lingüísticas, culturales\r\n9-·¡Échale un poco de… a la vegana!· \r\n10-·A ver qué traje saca la… este año· \r\n11-Viene con eso incluido, lo…\r\n14-Símbolo químico del estaño\r\n16-Iniciales del creador de los jeans o vaqueros\r\n18-Este se quedó sin manzanilla\r\n19-·Pagando alquiler en vez de hipoteca, estás tirando el…· \r\n21-Bordeará, ribeteará\r\n24-Nombren al autor, si lo usan\r\n25-Atar al yugo bueyes, mulas u otras bestias\r\n27-·¿Otro año sin…? A ver si vas a ser de la acera de enfrente·\r\n28-Lo que grita el juez\r\n29-Las fronteras de España\r\n30-Nombre de la estrella más brillante vista desde la tierra\r\n31-·Tráeme una rubia porque esa no…·\r\n32-Diosa griega de las flores\r\n33-·Pues yo aquí siempre aparco a la primera Si es que no sabéis…· \r\n34-Te recuerda, sin mucha dulzura, lo que hiciste mal\r\n37-Una astilla resinosa en mi té inglés\r\n39-·Mari Carmen, ponme otra cerveza que esta tiene un…·\r\n41-Removiste la tierra haciendo en ella surcos con el arado\r\n42-Terminad con la existencia de un producto\r\n43-Vas al servicio\r\n45-Tías andaluzas\r\n46-¿Se ata Ud a la caja de la muerte? \r\n47-·En mis tiempos sí que sabíamos divertirnos, no como…·\r\n48-Versus\r\n49-Inic del director de la peli \"Oppenheimer\"\r\n51-Colocar los puntos sobre estas letras, concretan una situación\r\n52-Grupo de 95 islas Indonesia\r\n55-Lengua provenzal",
+        "horizontal_clues": "1-Los son la paleozoica, mesozoica y cenozoica\r\n5-El que le dice las verdades a la Reina Grimhilde\r\n10-La puerta pequeña\r\n12-No te ates por la espalda a un champiñón\r\n13-·Así no se… el jamón, que le quitas toda la gracia· \r\n14-Tu manera de comportarte, tu forma de…\r\n15-El demos para los griegos\r\n17-Rectificad antes de que os demanden por error\r\n20-·Ya no hay música como la de…· \r\n21-Cesación del trabajo, inacción (pl)\r\n22-Me tronché con el rey en Portugal \r\n23-·España la arreglo yo en dos…· \r\n24-Lo hacen las gallinas con los polluelos y los padres con los niños \r\n25-Lo situó en la zona derecha\r\n26-Se cortó la aorta\r\n27-Ni lo pienses, este río es el más largo de África\r\n28-Pese por onzas\r\n30-\"…, caballo y rey\" juego infantil\r\n31-Andar al compás de la tropa\r\n34-Fút \"… Plate vs Boca Juniors\" el superclásico argentino\r\n35-Arte libre de grandes industrias, con sello propio\r\n36-Anatomía \"Cavidad…\", región central del útero\r\n38-Esfera aparente que rodea a la Tierra\r\n40-El filtro de las pelis americanas para México\r\n41-Una niña mirándose al espejo\r\n42-3 de agosto\r\n44-·Si es que, al final, lo barato sale…· \r\n45-·Traigo de postre… al whisky, pero sin la…· \r\n47-Adiós, dijo el vasco\r\n48-\"Curriculum…\" la carrera de la vida \r\n49-Naruto: El mejor amigo de Shikamaru\r\n50-·Nosotros no somos…, tenemos amigos negros·\r\n52-Escriban en un plano tensado sin dispersarse\r\n53-Símbolo químico del helio\r\n54-El creador es un tauro atípico\r\n56-Distinta, poco común\r\n57-·Enunciados categóricos, pero sin base, propios de quienes \"todo lo saben\" o lo que son las pistas destacadas (3p)·",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,#,10,11,#\r\n12,#,#,#,#,13,#,#,#,#,#,14,#,#,#\r\n15,#,#,#,16,#,#,17,#,#,18,#,#,#,19\r\n20,#,#,#,#,#,21,#,#,#,#,#,22,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,#,#,#,#,28,#,#,29,#\r\n#,#,#,30,#,#,#,#,31,32,#,#,#,#,#\r\n33,#,34,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,37,#,#,#,#,#,#,38,#,#,#,#,39,#\r\n40,#,#,#,#,#,#,41,#,#,#,#,42,#,43\r\n44,#,#,#,#,45,46,#,#,#,#,47,#,#,#\r\n#,#,#,#,48,#,#,#,#,#,49,#,#,#,#\r\n50,#,#,51,#,#,#,#,#,52,#,#,#,#,#\r\n#,#,53,#,#,54,#,#,55,#,#,56,#,#,#\r\n57,#,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5348,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-30T20:46:46.084740Z",
+      "updatedAt": "2026-03-30T20:48:44.759609Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-31",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACCEDI###TERESA\r\nLLENE#ALT#POROS\r\nHADES#ÑORA#MILI\r\nAMORAL#CARNAVAL\r\nJO#GROE#SPINOZA\r\nA#SIMIL#LANA##R\r\n#NECESITADO#FC#\r\n#EXA##P#D##VIL#\r\n#TY#MASCARPONE#\r\nV##SINO#BAILA#B\r\nORGANDI#AFEE#FA\r\nLEONARDO#ALISAN\r\nCOMA#EEUU#ABOCA\r\nAJERA#STY#GOHAN\r\nROZADO###GOLOSA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Joya, adorno de metales o piedras preciosas",
+              "answer": "ALHAJA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Dio voces lastimeras pidiendo ayuda",
+              "answer": "CLAMO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Doy mi brazo a torcer",
+              "answer": "CEDO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Rotunda",
+              "answer": "ENERGICA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Desmonté, separé un rompecabezas",
+              "answer": "DESARME"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Elsa Pito",
+              "answer": "EP"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ramona está loca por visitar a su amiga italiana",
+              "answer": "ROMANA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Cynthia…\" interpreta a Elphaba en Wicked",
+              "answer": "ERIVO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Esparcimiento, alivio de los trabajos",
+              "answer": "SOLAZ"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Recibir y proteger a alguien en un país",
+              "answer": "ASILAR"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Este año aún no termina",
+              "answer": "AÑ"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Casi se vuelve loco",
+              "answer": "LOC"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Movía de un lugar a otro",
+              "answer": "TRASLADABA"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Dinastía medieval húngara",
+              "answer": "ARPAD"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Esposa de Peter en 'Padre de familia'",
+              "answer": "LOIS"
+            },
+            "24": {
+              "col": 10,
+              "row": 3,
+              "clue": "El cantante más bravo de Valencia",
+              "answer": "NINO"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "Cuerpos geométricos tridimensionales similares a esferas deformadas",
+              "answer": "ELIPSOIDES"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Que tiene atractivo físico y sexual (voz inglesa)",
+              "answer": "SEXY"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Dominio genérico de Internet",
+              "answer": "NET"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Delicada, elegante, selecta",
+              "answer": "FINA"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Saliendo de una debacle",
+              "answer": "CLE"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Deporte de red",
+              "answer": "VOLEIBOL"
+            },
+            "37": {
+              "col": 4,
+              "row": 8,
+              "clue": "Una chica, una joven en argentina",
+              "answer": "MINA"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "\"… Agassi\", exjugador de tenis estadounidense",
+              "answer": "ANDRE"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "Cuando no estoy enojada con Rafael",
+              "answer": "RAFA"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "Parte del mar, que dista mucho de la tierra",
+              "answer": "PIELAGO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tumbar, desplomar, caer",
+              "answer": "VOLCAR"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Se curará",
+              "answer": "SANARA"
+            },
+            "44": {
+              "col": 14,
+              "row": 9,
+              "clue": "Plátano, cambur",
+              "answer": "BANANA"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Lo vio disimuladamente, lo miró de…",
+              "answer": "REOJO"
+            },
+            "47": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"Selena …\", exnovia de Justin Bieber",
+              "answer": "GOMEZ"
+            },
+            "49": {
+              "col": 13,
+              "row": 10,
+              "clue": "Las flacas pagaron 50 por estos cuchillos",
+              "answer": "FACAS"
+            },
+            "51": {
+              "col": 7,
+              "row": 11,
+              "clue": "Béisbol: jugada decretada por el árbitro que retira a un jugador de la ofensiva",
+              "answer": "OUT"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Famoso y ecléctico barrio londinense",
+              "answer": "SOHO"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Voz para denotar dolor físico agudo",
+              "answer": "UY"
+            },
+            "59": {
+              "col": 4,
+              "row": 13,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Consentí, permití",
+              "answer": "ACCEDI"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "La Madre de Calcuta",
+              "answer": "TERESA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Colmé, topé",
+              "answer": "LLENE"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "En el corazón de Malta",
+              "answer": "ALT"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Los encargados de permitir la transpiración",
+              "answer": "POROS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Del inframundo, el Dios griego",
+              "answer": "HADES"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Variedad de pimiento rojo secado al sol",
+              "answer": "ÑORA"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Prefijo significa mil",
+              "answer": "MILI"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Persona desprovista de sentido moral",
+              "answer": "AMORAL"
+            },
+            "23": {
+              "col": 7,
+              "row": 3,
+              "clue": "Fiesta popular que precede al comienzo de la Cuaresma",
+              "answer": "CARNAVAL"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Onomatopeya de la risa de Papá Noel",
+              "answer": "JO"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "Croé, hice como un sapo",
+              "answer": "GROE"
+            },
+            "28": {
+              "col": 8,
+              "row": 4,
+              "clue": "El Dios en el que creía Einstein, \"El Dios de…\"",
+              "answer": "SPINOZA"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Comparación, semejanza entre dos cosas",
+              "answer": "SIMIL"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "En México el pelo ovino deja dinero",
+              "answer": "LANA"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Falto de recursos o auxilio",
+              "answer": "NECESITADO"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Facundo Cabral",
+              "answer": "FC"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Prefijo del que indica un trillón",
+              "answer": "EXA"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"Garrote…\" usado en la última ejecución de una mujer en España",
+              "answer": "VIL"
+            },
+            "36": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"… Cobb\" beisbolista conocido como El durazno de Georgia",
+              "answer": "TY"
+            },
+            "37": {
+              "col": 4,
+              "row": 8,
+              "clue": "Queso fresco del norte de Italia",
+              "answer": "MASCARPONE"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Destino vikingo",
+              "answer": "SINO"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Muévete al ritmo de la música",
+              "answer": "BAILA"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tejido fino y transparente de algodón",
+              "answer": "ORGANDI"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "Desluzca, deslustre",
+              "answer": "AFEE"
+            },
+            "49": {
+              "col": 13,
+              "row": 10,
+              "clue": "Hay una nota en la farmacia",
+              "answer": "FA"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pintor de 'La última cena' y 'La Gioconda'",
+              "answer": "LEONARDO"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Dejan plana y destruyen la salina",
+              "answer": "ALISAN"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Consuma hasta perder el conocimiento",
+              "answer": "COMA"
+            },
+            "55": {
+              "col": 5,
+              "row": 12,
+              "clue": "Estados Unidos",
+              "answer": "EEUU"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "Dirige hacia un lugar armas de fuego",
+              "answer": "ABOCA"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Persona que vende ajos",
+              "answer": "AJERA"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "Iniciales de Sebastián Torrealba Yánez",
+              "answer": "STY"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "Dragon Ball Hijo mayor de Goku",
+              "answer": "GOHAN"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Tocado ligeramente",
+              "answer": "ROZADO"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Glotona",
+              "answer": "GOLOSA"
+            }
+          }
+        },
+        "vertical_clues": "1-Joya, adorno de metales o piedras preciosas\r\n2-Dio voces lastimeras pidiendo ayuda\r\n3-Doy mi brazo a torcer \r\n4-Rotunda\r\n5-Desmonté, separé un rompecabezas\r\n7-Elsa Pito\r\n8-Ramona está loca por visitar a su amiga italiana\r\n9-\"Cynthia…\" interpreta a Elphaba en Wicked\r\n10-Esparcimiento, alivio de los trabajos\r\n11-Recibir y proteger a alguien en un país\r\n13-Este año aún no termina\r\n14-Casi se vuelve loco\r\n15-Movía de un lugar a otro\r\n19-Dinastía medieval húngara \r\n22-Esposa de Peter en 'Padre de familia'\r\n24-El cantante más bravo de Valencia\r\n27-Cuerpos geométricos tridimensionales similares a esferas deformadas \r\n29-Que tiene atractivo físico y sexual (voz inglesa)\r\n31-Dominio genérico de Internet\r\n32-Delicada, elegante, selecta\r\n33-Saliendo de una debacle\r\n35-Deporte de red \r\n37-Una chica, una joven en argentina\r\n38-\"… Agassi\", exjugador de tenis estadounidense\r\n39-Cuando no estoy enojada con Rafael\r\n40-Parte del mar, que dista mucho de la tierra\r\n41-Tumbar, desplomar, caer\r\n42-Se curará\r\n44-Plátano, cambur\r\n46-Lo vio disimuladamente, lo miró de…\r\n47-\"Selena …\", exnovia de Justin Bieber\r\n49-Las flacas pagaron 50 por estos cuchillos\r\n51-Béisbol: jugada decretada por el árbitro que retira a un jugador de la ofensiva\r\n53-Famoso y ecléctico barrio londinense\r\n56-Voz para denotar dolor físico agudo\r\n59-Dominio web para Andorra",
+        "horizontal_clues": "1-Consentí, permití\r\n6-La Madre de Calcuta\r\n12-Colmé, topé\r\n13-En el corazón de Malta\r\n16-Los encargados de permitir la transpiración\r\n17-Del inframundo, el Dios griego\r\n18-Variedad de pimiento rojo secado al sol\r\n20-Prefijo significa mil\r\n21-Persona desprovista de sentido moral\r\n23-Fiesta popular que precede al comienzo de la Cuaresma \r\n25-Onomatopeya de la risa de Papá Noel\r\n26-Croé, hice como un sapo\r\n28-El Dios en el que creía Einstein, \"El Dios de…\" \r\n29-Comparación, semejanza entre dos cosas\r\n30-En México el pelo ovino deja dinero\r\n31-Falto de recursos o auxilio \r\n32-Facundo Cabral\r\n34-Prefijo del que indica un trillón\r\n35-\"Garrote…\" usado en la última ejecución de una mujer en España\r\n36-\"… Cobb\" beisbolista conocido como El durazno de Georgia\r\n37-Queso fresco del norte de Italia\r\n42-Destino vikingo\r\n43-Muévete al ritmo de la música\r\n45-Tejido fino y transparente de algodón \r\n48-Desluzca, deslustre\r\n49-Hay una nota en la farmacia\r\n50-Pintor de 'La última cena' y 'La Gioconda'\r\n52-Dejan plana y destruyen la salina\r\n54-Consuma hasta perder el conocimiento\r\n55-Estados Unidos\r\n57-Dirige hacia un lugar armas de fuego\r\n58-Persona que vende ajos\r\n60-Iniciales de Sebastián Torrealba Yánez\r\n61-Dragon Ball Hijo mayor de Goku\r\n62-Tocado ligeramente\r\n63-Glotona",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,#,#,6,7,8,9,10,11\r\n12,#,#,#,#,#,13,14,15,#,16,#,#,#,#\r\n17,#,#,#,#,#,18,#,#,19,#,20,#,#,#\r\n21,#,#,#,#,22,#,23,#,#,24,#,#,#,#\r\n25,#,#,26,#,#,27,#,28,#,#,#,#,#,#\r\n#,#,29,#,#,#,#,#,30,#,#,#,#,#,#\r\n#,31,#,#,#,#,#,#,#,#,#,#,32,33,#\r\n#,34,#,#,#,#,#,#,#,#,#,35,#,#,#\r\n#,36,#,#,37,38,#,#,#,39,40,#,#,#,#\r\n41,#,#,42,#,#,#,#,43,#,#,#,#,#,44\r\n45,46,47,#,#,#,#,#,48,#,#,#,#,49,#\r\n50,#,#,#,#,#,#,51,#,52,#,#,53,#,#\r\n54,#,#,#,#,55,#,#,56,#,57,#,#,#,#\r\n58,#,#,#,59,#,60,#,#,#,61,#,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

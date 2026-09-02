@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 2293,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T16:33:46.612324Z",
+      "updatedAt": "2025-04-29T18:13:33.802515Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-20",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "HOMICIDIO#PESOS\r\nU#ATUVE#EXIMO#H\r\nEMPEÑAR#REJILLA\r\nCIARA#ME##ALTAR\r\nORCO#MISMO#YEMA\r\n#EH#PASTOSO#REP\r\nASE#EY#ATASCADO\r\nU##PROCLAMAR##V\r\nTEMPORAL#BB#ALA\r\nOSO#NAVIERA#TI#\r\nCTRL#LADRE#CENA\r\nRETES##OE#PONCI\r\nASEGURO#CRUPIER\r\nT#RABOS#TERRA#E\r\nAMOLO#AGOBIANTE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Abrir un espacio en la agenda, hacer un…",
+              "answer": "HUECO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mamífero norteamericano con antifaz",
+              "answer": "MAPACHE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Repito lo dicho",
+              "answer": "ITERO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pequeña pieza de madera que encaja y sostiene",
+              "answer": "CUÑA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Impuesto del 21%",
+              "answer": "IVA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Capa de la piel que se ve afectada por quemaduras de segundo grado",
+              "answer": "DERMIS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lo regresan a la cárcel",
+              "answer": "OER"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Una española, muy fresa, cheta, sifrina, gomela",
+              "answer": "PIJA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… Blunt\" la nueva Mary Poppins",
+              "answer": "EMILY"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Sin novio, la chica",
+              "answer": "SOLTERA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Exjugadora de tenis profesional y modelo rusa",
+              "answer": "SHARAPOVA"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Xenón",
+              "answer": "XE"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Observes, veas",
+              "answer": "MIRES"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Pasad la lengua",
+              "answer": "LAMED"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Explosión estruendosa",
+              "answer": "ESTALLIDO"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Pastor que cuida de las reses bravas",
+              "answer": "MAYORAL"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Nombre que recibe la marihuana en México",
+              "answer": "MOTA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Desuso Osamenta",
+              "answer": "OSAMBRE"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Expresidente argentino, marido de Evita",
+              "answer": "PERON"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Se arriesgaba, se aventuraba",
+              "answer": "OSABA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Gobernante que ejerce por sí solo el poder en un Estado",
+              "answer": "AUTOCRATA"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Iniciales del 7 portugués del fútbol",
+              "answer": "CR"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Las iniciales del actor del Mandaloriano y de Joel",
+              "answer": "PP"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Desentierra un vino blanco espumoso",
+              "answer": "CAVA"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Existas, seas",
+              "answer": "ESTES"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Te voy a machacar con este utensilio de cocina",
+              "answer": "MORTERO"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Asumían, se ajustaban por ejemplo a las consecuencias",
+              "answer": "ATENIAN"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Felino ibérico, con alto riesgo de extinción en estado silvestre",
+              "answer": "LINCE"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Erguido, levantado",
+              "answer": "ERECTO"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Prescrito por la ley y conforme a ella",
+              "answer": "LEGAL"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Médula del coco de la palma",
+              "answer": "COPRA"
+            },
+            "52": {
+              "col": 14,
+              "row": 10,
+              "clue": "Ponga al aire o ventile algo",
+              "answer": "AIREE"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Asciendo de nivel",
+              "answer": "SUBO"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Con cariño a Purificación",
+              "answer": "PURI"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Un poco de rock and roll",
+              "answer": "RO"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Osados sin par",
+              "answer": "OSA"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "El 50% de la rebaja",
+              "answer": "REB"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "OMI sí dio su testimonio sobre el asesinato",
+              "answer": "HOMICIDIO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Monedas para ver los resultados de las balanzas",
+              "answer": "PESOS"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Me mantuve, guardé u observé algo",
+              "answer": "ATUVE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Absuelvo, excuso, indulto",
+              "answer": "EXIMO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dejar un objeto como garantía a cambio de dinero",
+              "answer": "EMPEÑAR"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Entramado",
+              "answer": "REJILLA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Andará hacia atrás, retrocederá",
+              "answer": "CIARA"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Medio mega de memoria",
+              "answer": "ME"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Mesa donde se celebra el matrimonio religioso",
+              "answer": "ALTAR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tolkien Monstruo de las hordas de Sauron y Saruman",
+              "answer": "ORCO"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"No es lo… arte que hartar / No es lo… ser justo que ¡qué justo te va!\" (Sanz)",
+              "answer": "MISMO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lo amarillo del huevo",
+              "answer": "YEMA"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Interjección usada para preguntar o llamar",
+              "answer": "EH"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Viscoso como una masa mal batida",
+              "answer": "PASTOSO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Reporta las primeras",
+              "answer": "REP"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Agarra",
+              "answer": "ASE"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Un rey sin corona",
+              "answer": "EY"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Las puertas eran acotadas y el loco se quedó trabado",
+              "answer": "ATASCADO"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Declarar para que todo el mundo sepa",
+              "answer": "PROCLAMAR"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Transitorio, efímero, pasajero",
+              "answer": "TEMPORAL"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Brigitte Bardot",
+              "answer": "BB"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Por esta sala no hay entrada, está en la otra parte del edificio",
+              "answer": "ALA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Aquí hay un animal hermoso",
+              "answer": "OSO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Compañía propietaria de buques mercantes",
+              "answer": "NAVIERA"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Informática Tecla Control",
+              "answer": "CTRL"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Se manifieste, el perro",
+              "answer": "LADRE"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"La última…\" de Leonardo da Vinci",
+              "answer": "CENA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Desafíes a duelo",
+              "answer": "RETES"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Outlook Express",
+              "answer": "OE"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Especie de limón agrio y corteza muy gruesa",
+              "answer": "PONCI"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pago mi póliza y quedo tranquila, me…",
+              "answer": "ASEGURO"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Repartidor de cartas en los juegos que la casa siempre ganará",
+              "answer": "CRUPIER"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Colas de los animales",
+              "answer": "RABOS"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Diosa romana de la Tierra",
+              "answer": "TERRA"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Sacó filo a un cuchillo",
+              "answer": "AMOLO"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Sofocante, abrumador",
+              "answer": "AGOBIANTE"
+            }
+          }
+        },
+        "vertical_clues": "1-Abrir un espacio en la agenda, hacer un…\r\n2-Mamífero norteamericano con antifaz \r\n3-Repito lo dicho\r\n4-Pequeña pieza de madera que encaja y sostiene\r\n5-Impuesto del 21%\r\n6-Capa de la piel que se ve afectada por quemaduras de segundo grado\r\n7-Lo regresan a la cárcel\r\n8-Una española, muy fresa, cheta, sifrina, gomela\r\n9-\"… Blunt\" la nueva Mary Poppins\r\n10-Sin novio, la chica\r\n11-Exjugadora de tenis profesional y modelo rusa\r\n14-Xenón\r\n16-Observes, veas\r\n18-Pasad la lengua\r\n21-Explosión estruendosa\r\n24-Pastor que cuida de las reses bravas\r\n25-Nombre que recibe la marihuana en México\r\n26-Desuso Osamenta\r\n29-Expresidente argentino, marido de Evita\r\n30-Se arriesgaba, se aventuraba\r\n32-Gobernante que ejerce por sí solo el poder en un Estado\r\n35-Iniciales del 7 portugués del fútbol\r\n36-Las iniciales del actor del Mandaloriano y de Joel\r\n37-Desentierra un vino blanco espumoso\r\n39-Existas, seas\r\n40-Te voy a machacar con este utensilio de cocina\r\n42-Asumían, se ajustaban por ejemplo a las consecuencias\r\n43-Felino ibérico, con alto riesgo de extinción en estado silvestre\r\n46-Erguido, levantado\r\n49-Prescrito por la ley y conforme a ella\r\n51-Médula del coco de la palma\r\n52-Ponga al aire o ventile algo\r\n54-Asciendo de nivel\r\n56-Con cariño a Purificación\r\n58-Un poco de rock and roll\r\n59-Osados sin par\r\n61-El 50% de la rebaja",
+        "horizontal_clues": "1-OMI sí dio su testimonio sobre el asesinato\r\n8-Monedas para ver los resultados de las balanzas\r\n12-Me mantuve, guardé u observé algo\r\n13-Absuelvo, excuso, indulto\r\n15-Dejar un objeto como garantía a cambio de dinero\r\n17-Entramado\r\n19-Andará hacia atrás, retrocederá\r\n20-Medio mega de memoria\r\n22-Mesa donde se celebra el matrimonio religioso\r\n23-Tolkien Monstruo de las hordas de Sauron y Saruman\r\n24-\"No es lo… arte que hartar / No es lo… ser justo que ¡qué justo te va!\" (Sanz)\r\n27-Lo amarillo del huevo\r\n28-Interjección usada para preguntar o llamar\r\n29-Viscoso como una masa mal batida\r\n31-Reporta las primeras\r\n32-Agarra\r\n33-Un rey sin corona\r\n34-Las puertas eran acotadas y el loco se quedó trabado\r\n36-Declarar para que todo el mundo sepa\r\n38-Transitorio, efímero, pasajero\r\n41-Brigitte Bardot\r\n42-Por esta sala no hay entrada, está en la otra parte del edificio\r\n44-Aquí hay un animal hermoso\r\n45-Compañía propietaria de buques mercantes\r\n47-Titanio\r\n48-Informática Tecla Control\r\n50-Se manifieste, el perro\r\n51-\"La última…\" de Leonardo da Vinci\r\n53-Desafíes a duelo\r\n55-Outlook Express\r\n56-Especie de limón agrio y corteza muy gruesa\r\n57-Pago mi póliza y quedo tranquila, me…\r\n60-Repartidor de cartas en los juegos que la casa siempre ganará\r\n62-Colas de los animales\r\n63-Diosa romana de la Tierra\r\n64-Sacó filo a un cuchillo\r\n65-Sofocante, abrumador",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,#,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,14,#,#,#,#,#\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,#,20,21,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,25,26,#,27,#,#,#\r\n#,28,#,#,29,#,#,#,#,#,30,#,31,#,#\r\n32,#,#,#,33,#,#,34,#,#,#,35,#,#,#\r\n#,#,#,36,#,#,37,#,#,#,#,#,#,#,#\r\n38,39,40,#,#,#,#,#,#,41,#,#,42,43,#\r\n44,#,#,#,45,#,#,#,46,#,#,#,47,#,#\r\n48,#,#,49,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,55,#,#,56,#,#,#,#\r\n57,#,#,#,#,58,59,#,60,61,#,#,#,#,#\r\n#,#,62,#,#,#,#,#,63,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

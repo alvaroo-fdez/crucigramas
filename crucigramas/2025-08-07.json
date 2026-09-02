@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3106,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-04T12:24:19.171899Z",
+      "updatedAt": "2025-08-04T12:29:00.362791Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-07",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ANTI#CADMO#ARMA\r\nRAIN#AMBAS#REAS\r\nPREGONA#MADRINA\r\nARREPENTIMIENTO\r\nDARNOS#A#ACATAS\r\n##AUN#SIN#EIR##\r\nVIDA#TITAS#SOCA\r\nODE#PASADOR#DON\r\nLEONERA#ORACULO\r\nCOSITA#A#AZACAN\r\nALOCA#ACA#OMITI\r\nNOS#LACERAN#REM\r\nIG#ROTATIVAS#RA\r\nCIA#SABADOS#GAT\r\nAANG#SALAN#TALO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Dinastía medieval húngara",
+              "answer": "ARPAD"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Árbol de Filipinas, cuya infusión es azul",
+              "answer": "NARRA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Película de Disney con Kenai y Koda, para Latinoamérica (3p)",
+              "answer": "TIERRADEOSOS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ella es parece genuina, aunque sea incauta e inocente",
+              "answer": "INGENUA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Los perros se secan sacudiéndose",
+              "answer": "CANES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Quieren, adoran",
+              "answer": "AMAN"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Símbolo químico del dubnio",
+              "answer": "DB"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Madre cariñosa",
+              "answer": "MAMI"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Bin Laden",
+              "answer": "OSAMA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Estimuláis a las bestias",
+              "answer": "ARREAIS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Incluir de nuevo",
+              "answer": "REINTRODUCIR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cobija, cobertor",
+              "answer": "MANTA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Moríos de calor",
+              "answer": "ASAOS"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Enfrenta algo contra otra cosa",
+              "answer": "OPON"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "\"Lo que Juan… de Pedro, … más de Juan que de Pedro\"",
+              "answer": "DICE"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Hombre que tenía el gobierno de la mancebía",
+              "answer": "TAITA"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "La fracción que te roban",
+              "answer": "SISA"
+            },
+            "27": {
+              "col": 8,
+              "row": 5,
+              "clue": "Me desplazó en el agua braceando",
+              "answer": "NADO"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Muy ardiente y fogosa",
+              "answer": "VOLCANICA"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Conjunto de ideas que caracterizan un movimiento social",
+              "answer": "IDEOLOGIA"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Defecto físico o psíquico, por lo común importante y de carácter hereditario",
+              "answer": "TARA"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Municipio de la comarca de Osona, Barcelona",
+              "answer": "SORA"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Efecto secundario, efecto…",
+              "answer": "COLATERAL"
+            },
+            "35": {
+              "col": 14,
+              "row": 6,
+              "clue": "Condición de un autor cuya identidad es desconocida",
+              "answer": "ANONIMATO"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Hojas de la corola",
+              "answer": "PETALOS"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Reflexionas, analizas, piensas",
+              "answer": "RAZONAS"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Hay que seguir las Normas Internacionales de Contabilidad",
+              "answer": "NIC"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Camino interrumpido",
+              "answer": "CAM"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Química Producto resultante de la reacción entre un aldehído y un alcohol",
+              "answer": "ACETAL"
+            },
+            "48": {
+              "col": 6,
+              "row": 10,
+              "clue": "Termina con eso",
+              "answer": "ACABA"
+            },
+            "49": {
+              "col": 8,
+              "row": 10,
+              "clue": "Seca, estéril, de poco jugo y humedad",
+              "answer": "ARIDA"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Anudas o amarras, por ejemplo los cordones",
+              "answer": "ATAS"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Cosméticos y perfumes por catálogo",
+              "answer": "AVON"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "La cola del gavilán",
+              "answer": "AN"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Dominio de nivel superior geográfico para Gabón",
+              "answer": "GA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Enloqueció Nati en la tina y se opone a la vacuna",
+              "answer": "ANTI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "El fundador de la ciudad de Tebas",
+              "answer": "CADMO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Instrumento destinado a atacar",
+              "answer": "ARMA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"November…\", canción de Guns N' Roses",
+              "answer": "RAIN"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Las dos",
+              "answer": "AMBAS"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Privadas de libertad",
+              "answer": "REAS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Publica, propaga en voz alta un anuncio",
+              "answer": "PREGONA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "La que acompaña al novio hasta el altar",
+              "answer": "MADRINA"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Aflicción por algo que no debí haber hecho",
+              "answer": "ARREPENTIMIENTO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Concedernos, otorgarnos",
+              "answer": "DARNOS"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Obedeces, cumples las reglas",
+              "answer": "ACATAS"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Sí, todavía",
+              "answer": "AUN"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Gram Preposición que denota carencia",
+              "answer": "SIN"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Diosa nórdica de la sanación, la salud y la euforia",
+              "answer": "EIR"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Te quiero… mía, te quiero noche y día\" Nino Bravo",
+              "answer": "VIDA"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Tías andaluzas",
+              "answer": "TITAS"
+            },
+            "33": {
+              "col": 11,
+              "row": 6,
+              "clue": "Bolivia Brote de la cosecha del arroz",
+              "answer": "SOCA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ciudad de la India en el distrito de Anand, estado de Guyarat",
+              "answer": "ODE"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "¿Qué pasa con el pestillo?",
+              "answer": "PASADOR"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Dádiva, presente o regalo",
+              "answer": "DON"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Jaula de los leones",
+              "answer": "LEONERA"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Vaticinio, profecía",
+              "answer": "ORACULO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Antigua mascota del programa recordada por casarse con Puchi",
+              "answer": "COSITA"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "Hombre que se ocupa en trabajos humildes y penosos",
+              "answer": "AZACAN"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Enloquece, se desordena, se…",
+              "answer": "ALOCA"
+            },
+            "48": {
+              "col": 6,
+              "row": 10,
+              "clue": "Aquí, entrando en la academia",
+              "answer": "ACA"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Ignoré algo",
+              "answer": "OMITI"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Forma átona de nosotros",
+              "answer": "NOS"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Lastiman, golpean, magullan",
+              "answer": "LACERAN"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "En la fase que sueño con 'Losing my religion'",
+              "answer": "REM"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Sistema para cuantificar la respuesta glucémica de un alimento",
+              "answer": "IG"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "Máquinas para imprimir industrialmente",
+              "answer": "ROTATIVAS"
+            },
+            "58": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dios egipcio del sol",
+              "answer": "RA"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Agencia de Inteligencia Norteamericana (siglas)",
+              "answer": "CIA"
+            },
+            "61": {
+              "col": 4,
+              "row": 13,
+              "clue": "Quiero sobadas agitadas, todos los días de descanso",
+              "answer": "SABADOS"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Ciudad donde vivía Goliat",
+              "answer": "GAT"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "El avatar, el último maestro del aire",
+              "answer": "AANG"
+            },
+            "64": {
+              "col": 5,
+              "row": 14,
+              "clue": "Curan con sal, para conservación",
+              "answer": "SALAN"
+            },
+            "65": {
+              "col": 11,
+              "row": 14,
+              "clue": "Cortó un abeto, lo…",
+              "answer": "TALO"
+            }
+          }
+        },
+        "vertical_clues": "1-Dinastía medieval húngara \r\n2-Árbol de Filipinas, cuya infusión es azul\r\n3-Película de Disney con Kenai y Koda, para Latinoamérica (3p)\r\n4-Ella es parece genuina, aunque sea incauta e inocente\r\n5-Los perros se secan sacudiéndose\r\n6-Quieren, adoran\r\n7-Símbolo químico del dubnio\r\n8-Madre cariñosa\r\n9-Bin Laden\r\n10-Estimuláis a las bestias\r\n11-Incluir de nuevo\r\n12-Cobija, cobertor\r\n13-Moríos de calor\r\n18-Enfrenta algo contra otra cosa\r\n20-\"Lo que Juan… de Pedro, … más de Juan que de Pedro\"\r\n22-Hombre que tenía el gobierno de la mancebía\r\n26-La fracción que te roban\r\n27-Me desplazó en el agua braceando\r\n29-Muy ardiente y fogosa\r\n30-Conjunto de ideas que caracterizan un movimiento social\r\n31-Defecto físico o psíquico, por lo común importante y de carácter hereditario\r\n32-Municipio de la comarca de Osona, Barcelona\r\n34-Efecto secundario, efecto…\r\n35-Condición de un autor cuya identidad es desconocida\r\n37-Hojas de la corola\r\n38-Reflexionas, analizas, piensas\r\n41-Hay que seguir las Normas Internacionales de Contabilidad\r\n43-Camino interrumpido\r\n45-Química Producto resultante de la reacción entre un aldehído y un alcohol\r\n48-Termina con eso\r\n49-Seca, estéril, de poco jugo y humedad\r\n53-Anudas o amarras, por ejemplo los cordones\r\n54-Cosméticos y perfumes por catálogo\r\n60-La cola del gavilán\r\n62-Dominio de nivel superior geográfico para Gabón",
+        "horizontal_clues": "1-Enloqueció Nati en la tina y se opone a la vacuna\r\n5-El fundador de la ciudad de Tebas\r\n10-Instrumento destinado a atacar\r\n14-\"November…\", canción de Guns N' Roses\r\n15-Las dos\r\n16-Privadas de libertad\r\n17-Publica, propaga en voz alta un anuncio\r\n19-La que acompaña al novio hasta el altar\r\n21-Aflicción por algo que no debí haber hecho\r\n23-Concedernos, otorgarnos\r\n24-Obedeces, cumples las reglas\r\n25-Sí, todavía\r\n26-Gram Preposición que denota carencia\r\n28-Diosa nórdica de la sanación, la salud y la euforia\r\n29-\"Te quiero… mía, te quiero noche y día\" Nino Bravo\r\n31-Tías andaluzas\r\n33-Bolivia Brote de la cosecha del arroz\r\n36-Ciudad de la India en el distrito de Anand, estado de Guyarat\r\n37-¿Qué pasa con el pestillo?\r\n39-Dádiva, presente o regalo\r\n40-Jaula de los leones \r\n42-Vaticinio, profecía\r\n44-Antigua mascota del programa recordada por casarse con Puchi\r\n46-Hombre que se ocupa en trabajos humildes y penosos\r\n47-Enloquece, se desordena, se…\r\n48-Aquí, entrando en la academia\r\n50-Ignoré algo\r\n51-Forma átona de nosotros\r\n52-Lastiman, golpean, magullan\r\n55-En la fase que sueño con 'Losing my religion'\r\n56-Sistema para cuantificar la respuesta glucémica de un alimento\r\n57-Máquinas para imprimir industrialmente\r\n58-Dios egipcio del sol\r\n59-Agencia de Inteligencia Norteamericana (siglas)\r\n61-Quiero sobadas agitadas, todos los días de descanso\r\n62-Ciudad donde vivía Goliat\r\n63-El avatar, el último maestro del aire\r\n64-Curan con sal, para conservación\r\n65-Cortó un abeto, lo…",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,19,#,20,#,#,#,#\r\n21,#,#,#,#,#,#,22,#,#,#,#,#,#,#\r\n23,#,#,#,#,#,#,#,#,24,#,#,#,#,#\r\n#,#,25,#,#,#,26,#,27,#,28,#,#,#,#\r\n29,30,#,#,#,31,#,#,#,32,#,33,#,34,35\r\n36,#,#,#,37,#,#,#,#,#,38,#,39,#,#\r\n40,#,#,41,#,#,#,#,42,#,#,43,#,#,#\r\n44,#,#,#,#,#,#,45,#,46,#,#,#,#,#\r\n47,#,#,#,#,#,48,#,49,#,50,#,#,#,#\r\n51,#,#,#,52,53,#,#,#,54,#,#,55,#,#\r\n56,#,#,57,#,#,#,#,#,#,#,#,#,58,#\r\n59,#,60,#,61,#,#,#,#,#,#,#,62,#,#\r\n63,#,#,#,#,64,#,#,#,#,#,65,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 2141,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-09T19:44:49.380083Z",
+      "updatedAt": "2025-04-09T19:45:55.598241Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "VIAJANTE#OBVIAR\r\nUNGARO#X#YUDOCA\r\nSSE#DEDALES#SUS\r\nTU#PULIMENTO#ST\r\nEMPRA#VER#ORLAR\r\nDOLO#PANDA#DUDO\r\n##AFEAN#ORBES#J\r\nETNEOS###CONTEO\r\nN#ESNOB#TOLAR##\r\nMETI#SACAS#DOWN\r\nASAOS#TOM#POSEE\r\nRC#NUMERADOR#BG\r\nCOL#BIATLON#ICA\r\nATENAS#A#MEDIAD\r\nREPASA#SIONISMO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Más viejo y obsoleto que usted",
+              "answer": "VUSTED"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Un bien que se emplea en la producción de otros bienes",
+              "answer": "INSUMO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Edad en inglés",
+              "answer": "AGE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Iniciales de la actriz que interpreta Rachel en 'Friends'",
+              "answer": "JA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Labor áspera y fragosa",
+              "answer": "ARDUA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Que regrese el felino, no él",
+              "answer": "NOEL"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Prueba, control, parcial",
+              "answer": "EXAMEN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Me escuchan",
+              "answer": "OYEN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Escultura o pintura de la cabeza y parte superior del tórax",
+              "answer": "BUSTO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Límites de velocidad",
+              "answer": "VD"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Isla griega",
+              "answer": "IOS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Denunciad, delatad",
+              "answer": "ACUSAD"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Es un rastro jocoso el del residuo de la mies",
+              "answer": "RASTROJO"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Asiento alargado, generalmente sin respaldo",
+              "answer": "DIVAN"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Torpe",
+              "answer": "LERDO"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Labor que requiere estudios",
+              "answer": "PROFESION"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Computadora de escritorio o portátil",
+              "answer": "ORDENADOR"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"Nuestro… es muy frágil, hay que tratarlo con cariño\" Carl Sagan",
+              "answer": "PLANETA"
+            },
+            "29": {
+              "col": 12,
+              "row": 4,
+              "clue": "Períodos de cinco años",
+              "answer": "LUSTROS"
+            },
+            "31": {
+              "col": 5,
+              "row": 5,
+              "clue": "Movimiento sucesivo, que dejan huellas",
+              "answer": "PASOS"
+            },
+            "32": {
+              "col": 9,
+              "row": 5,
+              "clue": "Arma que dispara flechas (pl)",
+              "answer": "ARCOS"
+            },
+            "35": {
+              "col": 4,
+              "row": 6,
+              "clue": "Muchísimos años, millones",
+              "answer": "EON"
+            },
+            "37": {
+              "col": 10,
+              "row": 6,
+              "clue": "Recipiente para el ponche",
+              "answer": "BOL"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Poner algo en un marco",
+              "answer": "ENMARCAR"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Dale a la pelota con el bate",
+              "answer": "BATEA"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Especie de hallaquita mexicana",
+              "answer": "TAMAL"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Parte del busto del vestido que queda descubierto",
+              "answer": "ESCOTE"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Escindes las menos largas",
+              "answer": "CORTAS"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Cámara de red",
+              "answer": "WEBCAM"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Completamente inútil para realizar algo",
+              "answer": "NEGADO"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Escales, aumentes",
+              "answer": "SUBAS"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Pone 1, ponen 2, todos…",
+              "answer": "PONEN"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Del gallo, la eucaristía",
+              "answer": "MISA"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Amansó a sus animales",
+              "answer": "DOMO"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Límites de Exposición Profesional",
+              "answer": "LEP"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Internet Information Services (siglas)",
+              "answer": "IIS"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Símbolo químico del sodio",
+              "answer": "NA"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Agente comercial que recorre grandes distancias para negociar",
+              "answer": "VIAJANTE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Evitar, rehuir, ignorar",
+              "answer": "OBVIAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"Emanuel…\" el cirujano de la moda, diseñador francés",
+              "answer": "UNGARO"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Profesional del yudo",
+              "answer": "YUDOCA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Sursudeste",
+              "answer": "SSE"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Cascos para dedos de costurera",
+              "answer": "DEDALES"
+            },
+            "20": {
+              "col": 12,
+              "row": 2,
+              "clue": "Suyos",
+              "answer": "SUS"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"No hay nadie como…\" según Calle 13",
+              "answer": "TU"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Sustancia para alisar y lustrar un objeto",
+              "answer": "PULIMENTO"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Inic Actriz que interpreta a Sansa Stark en 'Juego de Tronos'",
+              "answer": "ST"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Usufructúa",
+              "answer": "EMPRA"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "Percibir con los ojos",
+              "answer": "VER"
+            },
+            "28": {
+              "col": 10,
+              "row": 4,
+              "clue": "Bordear, ribetear",
+              "answer": "ORLAR"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Derecho Voluntad deliberada de cometer un delito",
+              "answer": "DOLO"
+            },
+            "31": {
+              "col": 5,
+              "row": 5,
+              "clue": "Animal símbolo del Fondo Mundial para la Naturaleza",
+              "answer": "PANDA"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Pongo en tela de juicio",
+              "answer": "DUDO"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Se descuidan por la faena caótica",
+              "answer": "AFEAN"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "Esfera celeste o terrestre (pl)",
+              "answer": "ORBES"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Relativos al volcán Etna, en Sicilia",
+              "answer": "ETNEOS"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Cálculo, valoración",
+              "answer": "CONTEO"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Persona que imita a los distinguidos",
+              "answer": "ESNOB"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Moneda oficial de Eslovenia hasta el 2007",
+              "answer": "TOLAR"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Encerré, introduje algo dentro de otra cosa",
+              "answer": "METI"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Obtienes, logras",
+              "answer": "SACAS"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Síndrome conocido como 'Trisomía 21'",
+              "answer": "DOWN"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Moríos de calor",
+              "answer": "ASAOS"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Protagonista de la saga 'Misión imposible'",
+              "answer": "TOM"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Tiene en su poder",
+              "answer": "POSEE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Radiocontrol (siglas)",
+              "answer": "RC"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Parte superior en una fracción, opuesta al denominador",
+              "answer": "NUMERADOR"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Iniciales de cofundador de Microsoft",
+              "answer": "BG"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Planta hortense, repollo",
+              "answer": "COL"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "Deporte de invierno que usa esquíes y rifle",
+              "answer": "BIATLON"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Ubica a la derecha",
+              "answer": "ICA"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ciudad griega donde está el Partenón",
+              "answer": "ATENAS"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Interceded o rogad por alguien",
+              "answer": "MEDIAD"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Vuelve a examinar los apuntes de clase",
+              "answer": "REPASA"
+            },
+            "68": {
+              "col": 7,
+              "row": 14,
+              "clue": "Movimiento político judío",
+              "answer": "SIONISMO"
+            }
+          }
+        },
+        "vertical_clues": "1-Más viejo y obsoleto que usted\r\n2-Un bien que se emplea en la producción de otros bienes\r\n3-Edad en inglés\r\n4-Iniciales de la actriz que interpreta Rachel en 'Friends'\r\n5-Labor áspera y fragosa\r\n6-Que regrese el felino, no él\r\n7-Prueba, control, parcial\r\n8-Me escuchan\r\n9-Escultura o pintura de la cabeza y parte superior del tórax\r\n10-Límites de velocidad\r\n11-Isla griega\r\n12-Denunciad, delatad\r\n13-Es un rastro jocoso el del residuo de la mies\r\n18-Asiento alargado, generalmente sin respaldo\r\n19-Torpe\r\n22-Labor que requiere estudios\r\n23-Computadora de escritorio o portátil\r\n26-\"Nuestro… es muy frágil, hay que tratarlo con cariño\" Carl Sagan\r\n29-Períodos de cinco años\r\n31-Movimiento sucesivo, que dejan huellas\r\n32-Arma que dispara flechas (pl)\r\n35-Muchísimos años, millones\r\n37-Recipiente para el ponche\r\n38-Poner algo en un marco\r\n41-Dale a la pelota con el bate\r\n42-Especie de hallaquita mexicana\r\n44-Parte del busto del vestido que queda descubierto\r\n46-Escindes las menos largas\r\n48-Cámara de red\r\n49-Completamente inútil para realizar algo\r\n51-Escales, aumentes\r\n53-Pone 1, ponen 2, todos…\r\n56-Del gallo, la eucaristía\r\n57-Amansó a sus animales \r\n60-Límites de Exposición Profesional\r\n62-Internet Information Services (siglas)\r\n64-Símbolo químico del sodio\r\n66-Pronuncia 501 en romano antiguo",
+        "horizontal_clues": "1-Agente comercial que recorre grandes distancias para negociar\r\n8-Evitar, rehuir, ignorar\r\n14-\"Emanuel…\" el cirujano de la moda, diseñador francés\r\n15-Profesional del yudo\r\n16-Sursudeste\r\n17-Cascos para dedos de costurera\r\n20-Suyos\r\n21-\"No hay nadie como…\" según Calle 13\r\n22-Sustancia para alisar y lustrar un objeto\r\n24-Inic Actriz que interpreta a Sansa Stark en 'Juego de Tronos'\r\n25-Usufructúa\r\n27-Percibir con los ojos\r\n28-Bordear, ribetear\r\n30-Derecho Voluntad deliberada de cometer un delito\r\n31-Animal símbolo del Fondo Mundial para la Naturaleza\r\n33-Pongo en tela de juicio\r\n34-Se descuidan por la faena caótica\r\n36-Esfera celeste o terrestre (pl)\r\n38-Relativos al volcán Etna, en Sicilia\r\n39-Cálculo, valoración\r\n40-Persona que imita a los distinguidos\r\n42-Moneda oficial de Eslovenia hasta el 2007\r\n43-Encerré, introduje algo dentro de otra cosa\r\n45-Obtienes, logras\r\n47-Síndrome conocido como 'Trisomía 21'\r\n50-Moríos de calor\r\n52-Protagonista de la saga 'Misión imposible'\r\n53-Tiene en su poder\r\n54-Radiocontrol (siglas)\r\n55-Parte superior en una fracción, opuesta al denominador\r\n58-Iniciales de cofundador de Microsoft\r\n59-Planta hortense, repollo\r\n61-Deporte de invierno que usa esquíes y rifle\r\n62-Ubica a la derecha\r\n63-Ciudad griega donde está el Partenón\r\n65-Interceded o rogad por alguien\r\n67-Vuelve a examinar los apuntes de clase\r\n68-Movimiento político judío",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,#,15,#,#,#,#,#\r\n16,#,#,#,17,#,18,#,19,#,#,#,20,#,#\r\n21,#,#,22,#,#,#,#,#,#,#,23,#,24,#\r\n25,#,26,#,#,#,27,#,#,#,28,#,29,#,#\r\n30,#,#,#,#,31,#,#,#,32,#,33,#,#,#\r\n#,#,34,#,35,#,#,#,36,#,37,#,#,#,#\r\n38,#,#,#,#,#,#,#,#,39,#,#,#,#,#\r\n#,#,40,#,#,#,41,#,42,#,#,#,#,#,#\r\n43,44,#,#,#,45,#,46,#,#,#,47,#,48,49\r\n50,#,#,#,51,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,55,#,56,#,#,#,57,#,#,#,58,#\r\n59,#,60,#,61,#,#,#,#,#,#,#,62,#,#\r\n63,#,#,64,#,#,#,#,#,65,#,66,#,#,#\r\n67,#,#,#,#,#,#,68,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

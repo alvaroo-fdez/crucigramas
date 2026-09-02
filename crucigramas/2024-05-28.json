@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 261,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-22T09:30:27.227536Z",
+      "updatedAt": "2024-05-30T06:06:46.437979Z",
+      "level": null,
+      "creationDate": "2024-05-28",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-28",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MUDA#NECIAMENTE\r\nATEN#EVENTO#ARN\r\nTICO#SINTETICAS\r\nALITAS#SILO#ETA\r\nDEDAL#SUMO#FRAY\r\nORINADERA#LIADA\r\nROR#CIÑA#PULSAR\r\n###VENA#DIME###\r\nCAFETO#TITI#GAG\r\nABRAS#GUATEMALA\r\nPIAN#MATS#RELES\r\nIES#FONO#HEDERE\r\nTRINITARIA#IATA\r\nATE#GORIOT#UNAS\r\nNORCOREANO#MOSE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Apodo de Edinson Cavani, delantero uruguayo.",
+              "answer": "MATADOR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Hombre encargado de la utilería.",
+              "answer": "UTILERO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Formar juicio definitivo sobre algo dudoso.",
+              "answer": "DECIDIR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Toman notas, escriben.",
+              "answer": "ANOTAN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Eliot...\" líder de Los Intocables.",
+              "answer": "NESS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Muy pocas evidencias.",
+              "answer": "EVI"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo prohíbe, lo limita por estar fuera de tono, lo...",
+              "answer": "CENSURA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Se dice de una amistad muy estrecha.",
+              "answer": "INTIMA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Amárrelo, para que se tome atole.",
+              "answer": "ATELO"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "La herramienta de Valentino Rossi.",
+              "answer": "MOTO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vendrás a la vida.",
+              "answer": "NACERAS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Recibiendo tratamiento (fem).",
+              "answer": "TRATADA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Practicar para la obra.",
+              "answer": "ENSAYAR"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Arquitectura. Fundamento de un edificio (pl).",
+              "answer": "ALACETS"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Gesto comunicativo.",
+              "answer": "SEÑA"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Archivo en inglés.",
+              "answer": "FILE"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "El dinosaurio de Pedro Picapiedra.",
+              "answer": "DINO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Hermanos que filmaron la 1ª película de la historia.",
+              "answer": "LUMIERE"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "El prota de la peli 'Bullet Train'.",
+              "answer": "PITT"
+            },
+            "32": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"Que no te importe como te... los demás\".",
+              "answer": "VEAN"
+            },
+            "33": {
+              "col": 8,
+              "row": 7,
+              "clue": "Tiempo que la Tierra emplea en dar una vuelta alrededor de su eje (pl).",
+              "answer": "DIAS"
+            },
+            "34": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"... América\" superhéroe de Marvel Comics.",
+              "answer": "CAPITAN"
+            },
+            "35": {
+              "col": 1,
+              "row": 8,
+              "clue": "Lo rebatió incorrectamente porque no está cerrado.",
+              "answer": "ABIERTO"
+            },
+            "36": {
+              "col": 2,
+              "row": 8,
+              "clue": "Serie de los 90, sobre un psiquiatra con un programa de radio.",
+              "answer": "FRASIER"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Reunión con el profesor de mi hijo.",
+              "answer": "TUTORIA"
+            },
+            "38": {
+              "col": 12,
+              "row": 8,
+              "clue": "Autor del libro \"Las venas abiertas de América Latina\".",
+              "answer": "GALEANO"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "Atentos, pendientes al peligro.",
+              "answer": "ALERTAS"
+            },
+            "40": {
+              "col": 14,
+              "row": 8,
+              "clue": "Sometiese a la acción de gases asfixiantes, tóxicos.",
+              "answer": "GASEASE"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Llegaré primero a la meta.",
+              "answer": "GANARE"
+            },
+            "43": {
+              "col": 11,
+              "row": 9,
+              "clue": "Persona dotada de facultades paranormales.",
+              "answer": "MEDIUM"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Máquina que produce movimiento a través de energía.",
+              "answer": "MOTOR"
+            },
+            "48": {
+              "col": 4,
+              "row": 11,
+              "clue": "Capitán de la selección de Portugal en el año 2004.",
+              "answer": "FIGO"
+            },
+            "49": {
+              "col": 9,
+              "row": 11,
+              "clue": "Porción de ganado mayor o menor.",
+              "answer": "HATO"
+            },
+            "51": {
+              "col": 8,
+              "row": 12,
+              "clue": "De adicción y de opresión.",
+              "answer": "ION"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sin decir nada, ella se cambia de piso.",
+              "answer": "MUDA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Porfiadamente.",
+              "answer": "NECIAMENTE"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Amarren.",
+              "answer": "ATEN"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Suceso importante y programado.",
+              "answer": "EVENTO"
+            },
+            "16": {
+              "col": 12,
+              "row": 1,
+              "clue": "Ácido Ribonucleico.",
+              "answer": "ARN"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Así le dicen a un costarricense.",
+              "answer": "TICO"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Cosas hechas por procesos industriales y que imitan a otras que son naturales.",
+              "answer": "SINTETICAS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Deliciosas presitas de pollo.",
+              "answer": "ALITAS"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Como un granero, es un depósito para guardar los granos.",
+              "answer": "SILO"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Cola de avioneta.",
+              "answer": "ETA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Utensilio para proteger el dedo al coser.",
+              "answer": "DEDAL"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "El deporte de Yokozuna.",
+              "answer": "SUMO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Tratamiento católico que recibe el pintor de la obra La Anunciación.",
+              "answer": "FRAY"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo que pasa cuando tomas muchas cervezas.",
+              "answer": "ORINADERA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Dalia está enredada.",
+              "answer": "LIADA"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Furor en el oriente.",
+              "answer": "ROR"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Se ajuste a las instrucciones, se...",
+              "answer": "CIÑA"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Dar un toque a una cuerda de un instrumento.",
+              "answer": "PULSAR"
+            },
+            "32": {
+              "col": 3,
+              "row": 7,
+              "clue": "Ven a este conducto sangriento.",
+              "answer": "VENA"
+            },
+            "33": {
+              "col": 8,
+              "row": 7,
+              "clue": "Háblame, coméntame.",
+              "answer": "DIME"
+            },
+            "34": {
+              "col": 0,
+              "row": 8,
+              "clue": "El árbol del café.",
+              "answer": "CAFETO"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "La que le preguntó a Bad Bunny si tiene muchas novia'.",
+              "answer": "TITI"
+            },
+            "38": {
+              "col": 12,
+              "row": 8,
+              "clue": "Efecto cómico rápido e inesperado en un filme.",
+              "answer": "GAG"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Descubras, destapes.",
+              "answer": "ABRAS"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "País centroamericano donde está la ciudad maya Tikal.",
+              "answer": "GUATEMALA"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cantan los pollitos.",
+              "answer": "PIAN"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Esterillas de yoga.",
+              "answer": "MATS"
+            },
+            "46": {
+              "col": 10,
+              "row": 10,
+              "clue": "Electricidad. Que permite la dirección de la corriente de un circuito (pl).",
+              "answer": "RELES"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Plural de la tercera vocal.",
+              "answer": "IES"
+            },
+            "48": {
+              "col": 4,
+              "row": 11,
+              "clue": "Prefijo que refiere voz, sonido.",
+              "answer": "FONO"
+            },
+            "49": {
+              "col": 9,
+              "row": 11,
+              "clue": "Apestaré.",
+              "answer": "HEDERE"
+            },
+            "50": {
+              "col": 0,
+              "row": 12,
+              "clue": "Nombre dado a la Santísima Trinidad en algunos contextos religiosos.",
+              "answer": "TRINITARIA"
+            },
+            "52": {
+              "col": 11,
+              "row": 12,
+              "clue": "El código de los aeropuertos.",
+              "answer": "IATA"
+            },
+            "53": {
+              "col": 0,
+              "row": 13,
+              "clue": "Lo que hice con los cabos cuando entendí todo.",
+              "answer": "ATE"
+            },
+            "54": {
+              "col": 4,
+              "row": 13,
+              "clue": "\"Papá...\", novela del escritor francés Honoré de Balzac.",
+              "answer": "GORIOT"
+            },
+            "55": {
+              "col": 11,
+              "row": 13,
+              "clue": "Juntes a algunas.",
+              "answer": "UNAS"
+            },
+            "56": {
+              "col": 0,
+              "row": 14,
+              "clue": "Gentilicio de Kim Jong",
+              "answer": "NORCOREANO"
+            },
+            "57": {
+              "col": 11,
+              "row": 14,
+              "clue": "El sistema que protege a la ciudad de Venecia, de las mareas de otoño.",
+              "answer": "MOSE"
+            }
+          }
+        },
+        "vertical_clues": "1-Apodo de Edinson Cavani, delantero uruguayo.\r\n2-Hombre encargado de la utilería.\r\n3-Formar juicio definitivo sobre algo dudoso.\r\n4-Toman notas, escriben.\r\n5-\"Eliot...\" líder de Los Intocables.\r\n6-Muy pocas evidencias.\r\n7-Lo prohíbe, lo limita por estar fuera de tono, lo...\r\n8-Se dice de una amistad muy estrecha.\r\n9-Amárrelo, para que se tome atole.\r\n10-La herramienta de Valentino Rossi.\r\n11-Vendrás a la vida.\r\n12-Recibiendo tratamiento (fem).\r\n13-Practicar para la obra.\r\n20-Arquitectura. Fundamento de un edificio (pl).\r\n24-Gesto comunicativo.\r\n25-Archivo en inglés.\r\n27-El dinosaurio de Pedro Picapiedra.\r\n28-Hermanos que filmaron la 1ª película de la historia.\r\n31-El prota de la peli 'Bullet Train'.\r\n32-\"Que no te importe como te... los demás\". \r\n33-Tiempo que la Tierra emplea en dar una vuelta alrededor de su eje (pl).\r\n34-\"... América\" superhéroe de Marvel Comics.\r\n35-Lo rebatió incorrectamente porque no está cerrado.\r\n36-Serie de los 90, sobre un psiquiatra con un programa de radio.\r\n37-Reunión con el profesor de mi hijo.\r\n38-Autor del libro \"Las venas abiertas de América Latina\".\r\n39-Atentos, pendientes al peligro.\r\n40-Sometiese a la acción de gases asfixiantes, tóxicos.\r\n42-Llegaré primero a la meta.\r\n43-Persona dotada de facultades paranormales.\r\n45-Máquina que produce movimiento a través de energía.\r\n48-Capitán de la selección de Portugal en el año 2004.\r\n49-Porción de ganado mayor o menor.\r\n51-De adicción y de opresión.",
+        "horizontal_clues": "1-Sin decir nada, ella se cambia de piso.\r\n5-Porfiadamente.\r\n14-Amarren.\r\n15-Suceso importante y programado.\r\n16-Ácido Ribonucleico.\r\n17-Así le dicen a un costarricense.\r\n18-Cosas hechas por procesos industriales y que imitan a otras que son naturales.\r\n19-Deliciosas presitas de pollo.\r\n21-Como un granero, es un depósito para guardar los granos.\r\n22-Cola de avioneta.\r\n23-Utensilio para proteger el dedo al coser.\r\n24-El deporte de Yokozuna.\r\n25-Tratamiento católico que recibe el pintor de la obra La Anunciación.\r\n26-Lo que pasa cuando tomas muchas cervezas.\r\n28-Dalia está enredada.\r\n29-Furor en el oriente.\r\n30-Se ajuste a las instrucciones, se...\r\n31-Dar un toque a una cuerda de un instrumento.\r\n32-Ven a este conducto sangriento.\r\n33-Háblame, coméntame.\r\n34-El árbol del café.\r\n37-La que le preguntó a Bad Bunny si tiene muchas novia'.\r\n38-Efecto cómico rápido e inesperado en un filme.\r\n41-Descubras, destapes.\r\n42-País centroamericano donde está la ciudad maya Tikal.\r\n44-Cantan los pollitos.\r\n45-Esterillas de yoga.\r\n46-Electricidad. Que permite la dirección de la corriente de un circuito (pl).\r\n47-Plural de la tercera vocal.\r\n48-Prefijo que refiere voz, sonido.\r\n49-Apestaré.\r\n50-Nombre dado a la Santísima Trinidad en algunos contextos religiosos.\r\n52-El código de los aeropuertos.\r\n53-Lo que hice con los cabos cuando entendí todo.\r\n54-\"Papá...\", novela del escritor francés Honoré de Balzac.\r\n55-Juntes a algunas.\r\n56-Gentilicio de Kim Jong-un.\r\n57-El sistema que protege a la ciudad de Venecia, de las mareas de otoño.",
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,10,#,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,#,16,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,#,#,#,#\r\n19,#,#,#,20,#,#,21,#,#,#,#,22,#,#\r\n23,#,#,#,#,#,24,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,28,#,#,#,#\r\n29,#,#,#,30,#,#,#,#,31,#,#,#,#,#\r\n#,#,#,32,#,#,#,#,33,#,#,#,#,#,#\r\n34,35,36,#,#,#,#,37,#,#,#,#,38,39,40\r\n41,#,#,#,#,#,42,#,#,#,#,43,#,#,#\r\n44,#,#,#,#,45,#,#,#,#,46,#,#,#,#\r\n47,#,#,#,48,#,#,#,#,49,#,#,#,#,#\r\n50,#,#,#,#,#,#,#,51,#,#,52,#,#,#\r\n53,#,#,#,54,#,#,#,#,#,#,55,#,#,#\r\n56,#,#,#,#,#,#,#,#,#,#,57,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

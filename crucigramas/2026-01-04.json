@@ -1,0 +1,456 @@
+{
+  "data": {
+    "id": 4478,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.859529Z",
+      "updatedAt": "2025-12-30T18:40:42.151581Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-04",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SATINA###RESACA\r\nAMATEUR#MERITOS\r\nLAPESTE#ANEMICA\r\nUPI#SOPESAN#PEN\r\nTOZA#PASIL#CIMA\r\nELARTISTA#POCOS\r\n#ARRASAR#BALAS#\r\n###ENTREGADO###\r\n#APAGA#PECERAS#\r\nAGRIA#FINALIZAR\r\nTRES#RETEN#NULO\r\nREM#AUTORAS#LIS\r\nASIENTO#ALAMEDA\r\nCOARTAS#REBAJAN\r\nARREOS###SEROSA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Antigua moneda de España y Francia o a lo que brindas en Italia",
+              "answer": "SALUTE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Adormidera, la flor del opio",
+              "answer": "AMAPOLA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Forrar los muebles",
+              "answer": "TAPIZAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Transite por la derecha",
+              "answer": "ITE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lago con un monstruo",
+              "answer": "NESS"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Grandes vías donde andan Hondas y se ven Benz",
+              "answer": "AUTOPISTA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Relativo a los riñones",
+              "answer": "RENAL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Formen eras para plantarlas",
+              "answer": "EREN"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Tarjeta inteligente de los teléfonos móviles",
+              "answer": "SIM"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Que se aparta de los modelos o de los tipos conocidos (fem)",
+              "answer": "ATIPICA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cocinamos en agua",
+              "answer": "COCEMOS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Posturas corporales del yoga",
+              "answer": "ASANAS"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Volver a estudiar",
+              "answer": "REPASAR"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Casa de labor, típica del antiguo reino de Aragón",
+              "answer": "MASIA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Ruido que no pasa desapercibido",
+              "answer": "ESTREPITO"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Lleváis a las bestias",
+              "answer": "ARREAIS"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Pelirrojo",
+              "answer": "COLORIN"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Ropa interior femenina, la que no cubre las nalgas",
+              "answer": "TANGA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tenis de pala",
+              "answer": "PADEL"
+            },
+            "30": {
+              "col": 9,
+              "row": 6,
+              "clue": "Dicho de las fiestas del dios Baco (pl)",
+              "answer": "BACANALES"
+            },
+            "32": {
+              "col": 8,
+              "row": 7,
+              "clue": "Producir, causar, por ejemplo nuevas ideas",
+              "answer": "GENERAR"
+            },
+            "33": {
+              "col": 1,
+              "row": 8,
+              "clue": "Que comete agresión (masc)",
+              "answer": "AGRESOR"
+            },
+            "34": {
+              "col": 2,
+              "row": 8,
+              "clue": "Laurear al ganador",
+              "answer": "PREMIAR"
+            },
+            "36": {
+              "col": 12,
+              "row": 8,
+              "clue": "Pieza alfarera de cerámica",
+              "answer": "AZULEJO"
+            },
+            "37": {
+              "col": 13,
+              "row": 8,
+              "clue": "Partidas, viajes",
+              "answer": "SALIDAS"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Llega al puerto, un barco",
+              "answer": "ATRACA"
+            },
+            "39": {
+              "col": 6,
+              "row": 9,
+              "clue": "Embrión de los mamíferos placentarios (pl)",
+              "answer": "FETOS"
+            },
+            "40": {
+              "col": 14,
+              "row": 9,
+              "clue": "Cantautora canaria de 'El Talismán'",
+              "answer": "ROSANA"
+            },
+            "42": {
+              "col": 5,
+              "row": 10,
+              "clue": "Caminos, senderos",
+              "answer": "RUTAS"
+            },
+            "45": {
+              "col": 4,
+              "row": 11,
+              "clue": "A Antonela con cariño",
+              "answer": "ANTO"
+            },
+            "46": {
+              "col": 10,
+              "row": 11,
+              "clue": "Está al tanto",
+              "answer": "SABE"
+            },
+            "49": {
+              "col": 3,
+              "row": 12,
+              "clue": "Despido colectivo",
+              "answer": "ERE"
+            },
+            "51": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"… Mediterráneo\", el más contaminado",
+              "answer": "MAR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lustra por presión",
+              "answer": "SATINA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Caerás destruida por la cruda",
+              "answer": "RESACA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Aficionado",
+              "answer": "AMATEUR"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Merecimiento, valía (pl)",
+              "answer": "MERITOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Novela de Albert Camus, ambientada en Orán de 1940 (2p)",
+              "answer": "LAPESTE"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "La chica está débil y con la piel amarillenta, está…",
+              "answer": "ANEMICA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Unidad de Patrimonio e Inventario",
+              "answer": "UPI"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Examinan con atención el pro y el contra de un asunto",
+              "answer": "SOPESAN"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "\"… Drive\" o memoria USB",
+              "answer": "PEN"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pedazo de corteza del pino y de otros árboles",
+              "answer": "TOZA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Piedra puesta para pasar un río o arroyo",
+              "answer": "PASIL"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Punto más alto de los montes",
+              "answer": "CIMA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Película francesa de Michel Hazanavicius ganadora de 5 Óscar en el 2011 (2p)",
+              "answer": "ELARTISTA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Escasos como copos rotos",
+              "answer": "POCOS"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Echar por tierra, destruir",
+              "answer": "ARRASAR"
+            },
+            "30": {
+              "col": 9,
+              "row": 6,
+              "clue": "Proyectiles de plomo",
+              "answer": "BALAS"
+            },
+            "31": {
+              "col": 3,
+              "row": 7,
+              "clue": "Lo que dice el del delivery cuando te dejó tu pedido",
+              "answer": "ENTREGADO"
+            },
+            "33": {
+              "col": 1,
+              "row": 8,
+              "clue": "Sofoca el fuego",
+              "answer": "APAGA"
+            },
+            "35": {
+              "col": 7,
+              "row": 8,
+              "clue": "Vasijas de cristal usadas para tener peces",
+              "answer": "PECERAS"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Que produce sensación de acidez (fem)",
+              "answer": "AGRIA"
+            },
+            "39": {
+              "col": 6,
+              "row": 9,
+              "clue": "Llevar a término una tarea o actividad",
+              "answer": "FINALIZAR"
+            },
+            "41": {
+              "col": 0,
+              "row": 10,
+              "clue": "Número de lados iguales que posee un triángulo equilátero",
+              "answer": "TRES"
+            },
+            "42": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prevención que se tiene de algo",
+              "answer": "RETEN"
+            },
+            "43": {
+              "col": 11,
+              "row": 10,
+              "clue": "Falto de valor o fuerza",
+              "answer": "NULO"
+            },
+            "44": {
+              "col": 0,
+              "row": 11,
+              "clue": "Fase del sueño",
+              "answer": "REM"
+            },
+            "45": {
+              "col": 4,
+              "row": 11,
+              "clue": "Las que escribieron la obra",
+              "answer": "AUTORAS"
+            },
+            "47": {
+              "col": 12,
+              "row": 11,
+              "clue": "Flor de loto",
+              "answer": "LIS"
+            },
+            "48": {
+              "col": 0,
+              "row": 12,
+              "clue": "Butaca, sillón, mecedora",
+              "answer": "ASIENTO"
+            },
+            "50": {
+              "col": 8,
+              "row": 12,
+              "clue": "En el paseo con árboles, vi a la maleada loca",
+              "answer": "ALAMEDA"
+            },
+            "52": {
+              "col": 0,
+              "row": 13,
+              "clue": "No concedes enteramente algo",
+              "answer": "COARTAS"
+            },
+            "53": {
+              "col": 8,
+              "row": 13,
+              "clue": "Abaratan, disminuyen el precio",
+              "answer": "REBAJAN"
+            },
+            "54": {
+              "col": 0,
+              "row": 14,
+              "clue": "Atavíos, adornos",
+              "answer": "ARREOS"
+            },
+            "55": {
+              "col": 9,
+              "row": 14,
+              "clue": "Sustancia parecida al suero",
+              "answer": "SEROSA"
+            }
+          }
+        },
+        "vertical_clues": "1-Antigua moneda de España y Francia o a lo que brindas en Italia\r\n2-Adormidera, la flor del opio\r\n3-Forrar los muebles\r\n4-Transite por la derecha\r\n5-Lago con un monstruo\r\n6-Grandes vías donde andan Hondas y se ven Benz\r\n7-Relativo a los riñones\r\n8-Formen eras para plantarlas\r\n9-Tarjeta inteligente de los teléfonos móviles\r\n10-Que se aparta de los modelos o de los tipos conocidos (fem)\r\n11-Cocinamos en agua\r\n12-Posturas corporales del yoga\r\n14-Volver a estudiar\r\n15-Casa de labor, típica del antiguo reino de Aragón\r\n20-Ruido que no pasa desapercibido\r\n23-Lleváis a las bestias\r\n25-Pelirrojo\r\n27-Ropa interior femenina, la que no cubre las nalgas\r\n28-Tenis de pala\r\n30-Dicho de las fiestas del dios Baco (pl)\r\n32-Producir, causar, por ejemplo nuevas ideas\r\n33-Que comete agresión (masc)\r\n34-Laurear al ganador\r\n36-Pieza alfarera de cerámica\r\n37-Partidas, viajes\r\n38-Llega al puerto, un barco\r\n39-Embrión de los mamíferos placentarios (pl)\r\n40-Cantautora canaria de 'El Talismán'\r\n42-Caminos, senderos\r\n45-A Antonela con cariño\r\n46-Está al tanto\r\n49-Despido colectivo\r\n51-\"… Mediterráneo\", el más contaminado",
+        "horizontal_clues": "1-Lustra por presión\r\n7-Caerás destruida por la cruda\r\n13-Aficionado\r\n15-Merecimiento, valía (pl)\r\n16-Novela de Albert Camus, ambientada en Orán de 1940 (2p) \r\n17-La chica está débil y con la piel amarillenta, está…\r\n18-Unidad de Patrimonio e Inventario\r\n19-Examinan con atención el pro y el contra de un asunto\r\n21-\"… Drive\" o memoria USB\r\n22-Pedazo de corteza del pino y de otros árboles\r\n24-Piedra puesta para pasar un río o arroyo\r\n25-Punto más alto de los montes\r\n26-Película francesa de Michel Hazanavicius ganadora de 5 Óscar en el 2011 (2p)\r\n28-Escasos como copos rotos\r\n29-Echar por tierra, destruir\r\n30-Proyectiles de plomo\r\n31-Lo que dice el del delivery cuando te dejó tu pedido\r\n33-Sofoca el fuego\r\n35-Vasijas de cristal usadas para tener peces\r\n38-Que produce sensación de acidez (fem)\r\n39-Llevar a término una tarea o actividad\r\n41-Número de lados iguales que posee un triángulo equilátero\r\n42-Prevención que se tiene de algo\r\n43-Falto de valor o fuerza\r\n44-Fase del sueño\r\n45-Las que escribieron la obra\r\n47-Flor de loto\r\n48-Butaca, sillón, mecedora\r\n50-En el paseo con árboles, vi a la maleada loca\r\n52-No concedes enteramente algo\r\n53-Abaratan, disminuyen el precio\r\n54-Atavíos, adornos\r\n55-Sustancia parecida al suero",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,#,#,7,8,9,10,11,12\r\n13,#,#,#,#,#,14,#,15,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,19,#,#,20,#,#,#,#,21,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,#,#,#,#,28,#,#,#,#\r\n#,29,#,#,#,#,#,#,#,30,#,#,#,#,#\r\n#,#,#,31,#,#,#,#,32,#,#,#,#,#,#\r\n#,33,34,#,#,#,#,35,#,#,#,#,36,37,#\r\n38,#,#,#,#,#,39,#,#,#,#,#,#,#,40\r\n41,#,#,#,#,42,#,#,#,#,#,43,#,#,#\r\n44,#,#,#,45,#,#,#,#,#,46,#,47,#,#\r\n48,#,#,49,#,#,#,#,50,#,#,51,#,#,#\r\n52,#,#,#,#,#,#,#,53,#,#,#,#,#,#\r\n54,#,#,#,#,#,#,#,#,55,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

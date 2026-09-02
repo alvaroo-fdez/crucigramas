@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5938,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-26T07:29:01.044760Z",
+      "updatedAt": "2026-05-26T07:31:16.263298Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TRUMP#FRANKFURT\r\nO#SIUX#OMEGAS#R\r\nNUERA#CUPO#RASO\r\nANDARIEGO#CALIZ\r\nLI#R#NIELS#NANA\r\nICE#CTB#LOAD#G#\r\nDELIRIO#ALBUR#C\r\nAFINE#####ULEMA\r\nD#EONES#DESAMOR\r\n#F#CAVA#ITE#ORA\r\nTABU#ABREN#T#EV\r\nALELO#REGALISTA\r\nROBA#TOCO#ARWEN\r\nD#ODIASE#TYRA#A\r\nESPONJOSO#SOTAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "De mala manera está dilatando el tema del matiz del color",
+              "answer": "TONALIDAD"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Usada en el NY Times",
+              "answer": "USED"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dirigir la vista a un objeto",
+              "answer": "MIRAR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pura y desordenada",
+              "answer": "PUAR"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"Moulin…\", nombre de famoso cabaret parisino",
+              "answer": "ROUGE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "La burbuja que sale en piel tras una quemada",
+              "answer": "AMPOLLA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "El elegido para destruir a Matrix",
+              "answer": "NEO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Kilogramo",
+              "answer": "KG"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Profesión de la gente del mundo del espectáculo",
+              "answer": "FARANDULA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "La conciencia… utilízala",
+              "answer": "USALA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Trozo grueso de madera cortada del tronco",
+              "answer": "TROZA"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Organización internacional para la infancia",
+              "answer": "UNICEF"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Árbol Nacional de Argentina y Uruguay",
+              "answer": "CEIBO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Abreviatura de singular",
+              "answer": "SING"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Dios inca del sol",
+              "answer": "INTI"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Nota musical",
+              "answer": "SOL"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "\"… Ducommun\" fundador de Oficina Internacional por la Paz (Nobel en 1902)",
+              "answer": "ELIE"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Carne mala, muy mala",
+              "answer": "CRENA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Utilicé mal la confianza que depositó en mí",
+              "answer": "ABUSE"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Inyectado, introducido",
+              "answer": "INOCULADO"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Gracias a Luperca están vivos, Rómulo y …",
+              "answer": "REMO"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Vehículos aptos para hacer vida en ellos",
+              "answer": "CARAVANAS"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Moretón, hematoma",
+              "answer": "MORETE"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Normal que ella haya comido del Árbol del conocimiento",
+              "answer": "EVA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Delicioso, divino",
+              "answer": "SABROSO"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Maradona, Rivera o Velázquez",
+              "answer": "DIEGO"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "El volcán siciliano, todo un clásico",
+              "answer": "ETNA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Otra denominación del pene",
+              "answer": "FALO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ya no hay tiempo que darte, ya es demasiado…",
+              "answer": "TARDE"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Variante del jazz de ritmos rápidos y solos instrumentales",
+              "answer": "BEBOP"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "Te dirijas a Dios",
+              "answer": "RECES"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Cinta adhesiva de Venezuela",
+              "answer": "TIRRO"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Marca de papitas",
+              "answer": "LAYS"
+            },
+            "58": {
+              "col": 12,
+              "row": 11,
+              "clue": "Unidad táctica de EEUU para situaciones policiales especiales",
+              "answer": "SWAT"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "\"… Mahal\", palacio indio",
+              "answer": "TAJ"
+            },
+            "63": {
+              "col": 4,
+              "row": 13,
+              "clue": "De moda",
+              "answer": "IN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Presidente de los EEUU",
+              "answer": "TRUMP"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"… am Main\", ciudad occidental de Alemania",
+              "answer": "FRANKFURT"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Pueblo indígena norteamericano",
+              "answer": "SIUX"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Vigésima cuarta letra del alfabeto griego (pl)",
+              "answer": "OMEGAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "No era la que la suegra quería",
+              "answer": "NUERA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Entró en la plaza",
+              "answer": "CUPO"
+            },
+            "18": {
+              "col": 11,
+              "row": 2,
+              "clue": "Milicia: Que no tiene un título que lo distinga",
+              "answer": "RASO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Caminante, andarín, trotamundos",
+              "answer": "ANDARIEGO"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Vaso sagrado",
+              "answer": "CALIZ"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Cincuenta y uno\" en números romanos",
+              "answer": "LI"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"… Ryberg Finsen\" Nobel por descubrir el efecto germicida de la luz ultravioleta (1903)",
+              "answer": "NIELS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "La Mouskouri cantando 'Adiós mi amor' y 'Libertad'",
+              "answer": "NANA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Hielo\" en inglés",
+              "answer": "ICE"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Se te ve raro, Cantando Todo Borracho",
+              "answer": "CTB"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Glorificad, enalteced",
+              "answer": "LOAD"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Disparate, locura",
+              "answer": "DELIRIO"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Méx Juego de palabras de doble sentido",
+              "answer": "ALBUR"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Puse en tono justo los instrumentos musicales",
+              "answer": "AFINE"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Doctor de la ley islámica",
+              "answer": "ULEMA"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "2000 millones de años = 2…",
+              "answer": "EONES"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Falta de amor hacia la persona antes amada",
+              "answer": "DESAMOR"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Desentierra un vino blanco espumoso",
+              "answer": "CAVA"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Transite por la derecha",
+              "answer": "ITE"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Ruega a Dios que me devuelvan el anillo",
+              "answer": "ORA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Prejuicio moral",
+              "answer": "TABU"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Destapan",
+              "answer": "ABREN"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "Fút: Iniciales del entrenador del Athletic de Bilbao",
+              "answer": "EV"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Cada uno de los genes del par de cromosomas",
+              "answer": "ALELO"
+            },
+            "56": {
+              "col": 6,
+              "row": 11,
+              "clue": "Partidario de que el Estado controle asuntos eclesiásticos",
+              "answer": "REGALISTA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Toma del mazo una carta",
+              "answer": "ROBA"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "Palpó",
+              "answer": "TOCO"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Princesa élfica de la Tierra Media",
+              "answer": "ARWEN"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Tuviese absoluto rencor contra alguien",
+              "answer": "ODIASE"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Supermodelo conductora del programa 'American Next Top Models'",
+              "answer": "TYRA"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Como el bizcocho bien horneado, lleno de burbujas y aire",
+              "answer": "ESPONJOSO"
+            },
+            "66": {
+              "col": 10,
+              "row": 14,
+              "clue": "Las jotas de la baraja",
+              "answer": "SOTAS"
+            }
+          }
+        },
+        "vertical_clues": "1-De mala manera está dilatando el tema del matiz del color\r\n2-Usada en el NY Times\r\n3-Dirigir la vista a un objeto\r\n4-Pura y desordenada\r\n6-\"Moulin…\", nombre de famoso cabaret parisino\r\n7-La burbuja que sale en piel tras una quemada\r\n8-El elegido para destruir a Matrix\r\n9-Kilogramo\r\n10-Profesión de la gente del mundo del espectáculo\r\n11-La conciencia… utilízala\r\n12-Trozo grueso de madera cortada del tronco \r\n16-Organización internacional para la infancia \r\n17-Árbol Nacional de Argentina y Uruguay\r\n19-Abreviatura de singular\r\n21-Dios inca del sol\r\n25-Nota musical\r\n28-\"… Ducommun\" fundador de Oficina Internacional por la Paz (Nobel en 1902)\r\n29-Carne mala, muy mala\r\n31-Utilicé mal la confianza que depositó en mí\r\n33-Inyectado, introducido\r\n35-Gracias a Luperca están vivos, Rómulo y …\r\n36-Vehículos aptos para hacer vida en ellos\r\n39-Moretón, hematoma\r\n41-Normal que ella haya comido del Árbol del conocimiento\r\n42-Delicioso, divino\r\n43-Maradona, Rivera o Velázquez\r\n44-El volcán siciliano, todo un clásico\r\n45-Otra denominación del pene\r\n49-Ya no hay tiempo que darte, ya es demasiado…\r\n50-Variante del jazz de ritmos rápidos y solos instrumentales\r\n52-Te dirijas a Dios\r\n53-Cinta adhesiva de Venezuela\r\n57-Marca de papitas\r\n58-Unidad táctica de EEUU para situaciones policiales especiales\r\n60-\"… Mahal\", palacio indio\r\n63-De moda",
+        "horizontal_clues": "1-Presidente de los EEUU \r\n5-\"… am Main\", ciudad occidental de Alemania\r\n13-Pueblo indígena norteamericano\r\n14-Vigésima cuarta letra del alfabeto griego (pl)\r\n15-No era la que la suegra quería\r\n17-Entró en la plaza\r\n18-Milicia: Que no tiene un título que lo distinga\r\n20-Caminante, andarín, trotamundos\r\n22-Vaso sagrado\r\n23-\"Cincuenta y uno\" en números romanos\r\n24-\"… Ryberg Finsen\" Nobel por descubrir el efecto germicida de la luz ultravioleta (1903)\r\n26-La Mouskouri cantando 'Adiós mi amor' y 'Libertad'\r\n27-\"Hielo\" en inglés\r\n29-Se te ve raro, Cantando Todo Borracho\r\n30-Glorificad, enalteced\r\n32-Disparate, locura\r\n34-Méx Juego de palabras de doble sentido\r\n37-Puse en tono justo los instrumentos musicales\r\n38-Doctor de la ley islámica\r\n40-2000 millones de años = 2…\r\n43-Falta de amor hacia la persona antes amada\r\n46-Desentierra un vino blanco espumoso\r\n47-Transite por la derecha\r\n48-Ruega a Dios que me devuelvan el anillo\r\n49-Prejuicio moral\r\n51-Destapan\r\n54-Fút: Iniciales del entrenador del Athletic de Bilbao\r\n55-Cada uno de los genes del par de cromosomas\r\n56-Partidario de que el Estado controle asuntos eclesiásticos \r\n59-Toma del mazo una carta\r\n60-Palpó\r\n61-Princesa élfica de la Tierra Media \r\n62-Tuviese absoluto rencor contra alguien\r\n64-Supermodelo conductora del programa 'American Next Top Models'\r\n65-Como el bizcocho bien horneado, lleno de burbujas y aire \r\n66-Las jotas de la baraja",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,#,5,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,16,#,#,#,#,17,#,#,#,#,18,#,19,#\r\n20,#,#,#,#,21,#,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,26,#,#,#\r\n27,#,28,#,29,#,#,#,30,#,31,#,#,#,#\r\n32,#,#,33,#,#,#,#,34,#,#,#,35,#,36\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,39,#\r\n#,#,40,#,#,41,42,#,43,44,#,#,#,#,#\r\n#,45,#,46,#,#,#,#,47,#,#,#,48,#,#\r\n49,#,50,#,#,51,#,52,#,#,#,53,#,54,#\r\n55,#,#,#,#,#,56,#,#,#,57,#,58,#,#\r\n59,#,#,#,#,60,#,#,#,#,61,#,#,#,#\r\n#,#,62,#,63,#,#,#,#,64,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,#,#,66,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

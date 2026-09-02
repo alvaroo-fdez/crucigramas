@@ -1,0 +1,525 @@
+{
+  "data": {
+    "id": 1100,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-27T17:27:38.688699Z",
+      "updatedAt": "2024-10-27T17:27:38.688721Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-28",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CHELO#HOMO#SACO\r\nMURIO#ASOCIARON\r\nARICO#BANALIDAD\r\nCACO#MISA#UNICA\r\n#C#RAUL#CODA#HS\r\nHAMELS#CAJERO##\r\nINERTE#HT#S#MAC\r\nPESA#OCIOS#VIBE\r\nOSA#A#IT#IMITAR\r\n##SAPINA#MOCOSO\r\nCT#MOJE#HILA#T#\r\nHUMUS#AVIO#RAES\r\nANESTESIE#CIRCO\r\nMALGASTAR#MAMEY\r\nOSEO#CALO#GLERA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Centro de Mediación, Conciliación y Arbitraje.",
+              "answer": "CMAC"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tormentas tropicales devastadoras.",
+              "answer": "HURACANES"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"... Clapton\" cantante y compositor de rock y blues británico.",
+              "answer": "ERIC"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Mueble para guardar bebidas espirituosas.",
+              "answer": "LICORERA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Las luces de un semáforo.",
+              "answer": "OOO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Día de trabajo, no festivo.",
+              "answer": "HABIL"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Te aventuras, te arriesgas.",
+              "answer": "OSAS"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Estilo de vida de los monjes.",
+              "answer": "MONACATO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "'De... a..., tiro porque me toca'.",
+              "answer": "OCA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Engordar a los animales.",
+              "answer": "SAINAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dirá erróneamente que me quemé en el infierno.",
+              "answer": "ARDI"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Persona que asesora a otra para desarrollarse (voz inglesa).",
+              "answer": "COACH"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "\"Premios...\" los primeros galardones de radio y TV de España.",
+              "answer": "ONDAS"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Eludes, burlas.",
+              "answer": "ILUDES"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Institución que exhibe obras de arte o artefactos históricos.",
+              "answer": "MUSEO"
+            },
+            "23": {
+              "col": 4,
+              "row": 4,
+              "clue": "En el corazón de Malta.",
+              "answer": "ALT"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Ojo sin cerrar.",
+              "answer": "OJ"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Contracción involuntaria y repetitiva del diafragma.",
+              "answer": "HIPO"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Éstas serán redondas, como las de Arturo.",
+              "answer": "MESAS"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Felino africano conocido por su velocidad.",
+              "answer": "CHITA"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Hago caso omiso, lo paso por alto.",
+              "answer": "OMITO"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Proporcionar suministros necesarios.",
+              "answer": "ABASTECER"
+            },
+            "35": {
+              "col": 14,
+              "row": 6,
+              "clue": "\"... patatero\", nada de nada.",
+              "answer": "CERO"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Cinematografista.",
+              "answer": "CINEASTA"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Primate antropoide.",
+              "answer": "SIMIO"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Relacionado con el cargo de vicario en la Iglesia.",
+              "answer": "VICARIAL"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Adrede, con intención deliberada.",
+              "answer": "APOSTA"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "Molécula gramo.",
+              "answer": "MOL"
+            },
+            "47": {
+              "col": 3,
+              "row": 9,
+              "clue": "Desconfío.",
+              "answer": "AMUSGO"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Iker Jiménez.",
+              "answer": "IJ"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Un joven venezolano.",
+              "answer": "CHAMO"
+            },
+            "51": {
+              "col": 1,
+              "row": 10,
+              "clue": "Conjuntos musicales formados por estudiantes vistiendo ropa antigua.",
+              "answer": "TUNAS"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Lastimo, hago daño.",
+              "answer": "HIERO"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "Rugby. Enfrentamiento de dos bloques de jugadores enlazados.",
+              "answer": "MELE"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "Calle formada por dos filas paralelas de árboles.",
+              "answer": "VIAL"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"Me... de valor\" y me atreví.",
+              "answer": "ARME"
+            },
+            "60": {
+              "col": 14,
+              "row": 11,
+              "clue": "Salsa china.",
+              "answer": "SOYA"
+            },
+            "62": {
+              "col": 5,
+              "row": 12,
+              "clue": "Tecla para salir de un programa.",
+              "answer": "ESC"
+            },
+            "63": {
+              "col": 10,
+              "row": 12,
+              "clue": "Orden de San Miguel y San Jorge. Honra a los servidores de la corona británica (siglas).",
+              "answer": "CMG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Instrumento de cuerda frotada más grande que el violín.",
+              "answer": "CHELO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Prefijo que significa igual.",
+              "answer": "HOMO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Receptáculo de tela.",
+              "answer": "SACO"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Falleció.",
+              "answer": "MURIO"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Unieron, sindicaron.",
+              "answer": "ASOCIARON"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aro, escarbo superficialmente.",
+              "answer": "ARICO"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Trivialidad sin importancia.",
+              "answer": "BANALIDAD"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ladrón.",
+              "answer": "CACO"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Celebración de la eucaristía.",
+              "answer": "MISA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Sola y sin otra de su especie.",
+              "answer": "UNICA"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "El segundo Castro.",
+              "answer": "RAUL"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Música. Repetición final de una pieza bailable.",
+              "answer": "CODA"
+            },
+            "26": {
+              "col": 13,
+              "row": 4,
+              "clue": "Herbert Spencer.",
+              "answer": "HS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Exlanzador californiano de Los Angeles Dodgers.",
+              "answer": "HAMELS"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Empleado bancario que maneja dinero.",
+              "answer": "CAJERO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Inmóvil, paralizado.",
+              "answer": "INERTE"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Dominio web para Haití.",
+              "answer": "HT"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "Acortamiento de \"Macintosh\".",
+              "answer": "MAC"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Pasé correctamente con la mancuerna.",
+              "answer": "PESA"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Cesación del trabajo, inacción (pl).",
+              "answer": "OCIOS"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "La onda, la vibra de un inglés.",
+              "answer": "VIBE"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Osados sin par.",
+              "answer": "OSA"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Ilia Topuria, el Campeón Mundial de Peso Pluma de UFC.",
+              "answer": "IT"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "Copiar, duplicar.",
+              "answer": "IMITAR"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Planta fruticosa, vivaz, de la familia de las Quenopodiáceas, salicor.",
+              "answer": "SAPINA"
+            },
+            "49": {
+              "col": 9,
+              "row": 9,
+              "clue": "Niño malcriado.",
+              "answer": "MOCOSO"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Charlize Theron.",
+              "answer": "CT"
+            },
+            "52": {
+              "col": 3,
+              "row": 10,
+              "clue": "\"... la cama\", me hice pis.",
+              "answer": "MOJE"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Teje, la araña.",
+              "answer": "HILA"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Capa superior del suelo rica en materia orgánica.",
+              "answer": "HUMUS"
+            },
+            "56": {
+              "col": 6,
+              "row": 11,
+              "clue": "Prevención, apresto.",
+              "answer": "AVIO"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Raspas, restriegas.",
+              "answer": "RAES"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lo sedé, lo dormí, lo narcoticé.",
+              "answer": "ANESTESIE"
+            },
+            "63": {
+              "col": 10,
+              "row": 12,
+              "clue": "Divertida carpa itinerante.",
+              "answer": "CIRCO"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Derrochar el dinero.",
+              "answer": "MALGASTAR"
+            },
+            "65": {
+              "col": 10,
+              "row": 13,
+              "clue": "Fruta exótica de las Antillas, también zapote.",
+              "answer": "MAMEY"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "De la naturaleza del hueso.",
+              "answer": "OSEO"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Penetró en un cuerpo permeable.",
+              "answer": "CALO"
+            },
+            "68": {
+              "col": 10,
+              "row": 14,
+              "clue": "Gran terreno arenoso.",
+              "answer": "GLERA"
+            }
+          }
+        },
+        "vertical_clues": "1-Centro de Mediación, Conciliación y Arbitraje.\r\n2-Tormentas tropicales devastadoras. \r\n3-\"... Clapton\" cantante y compositor de rock y blues británico.\r\n4-Mueble para guardar bebidas espirituosas. \r\n5-Las luces de un semáforo.\r\n6-Día de trabajo, no festivo.\r\n7-Te aventuras, te arriesgas.\r\n8-Estilo de vida de los monjes. \r\n9-'De... a..., tiro porque me toca'.\r\n10-Engordar a los animales.\r\n11-Dirá erróneamente que me quemé en el infierno.\r\n12-Persona que asesora a otra para desarrollarse (voz inglesa). \r\n13-\"Premios...\" los primeros galardones de radio y TV de España.\r\n16-Eludes, burlas.\r\n20-Institución que exhibe obras de arte o artefactos históricos. \r\n23-En el corazón de Malta.\r\n25-Ojo sin cerrar.\r\n27-Contracción involuntaria y repetitiva del diafragma.\r\n28-Éstas serán redondas, como las de Arturo.\r\n29-Felino africano conocido por su velocidad. \r\n30-Hago caso omiso, lo paso por alto.\r\n34-Proporcionar suministros necesarios. \r\n35-\"... patatero\", nada de nada.\r\n38-Cinematografista.\r\n39-Primate antropoide.\r\n40-Relacionado con el cargo de vicario en la Iglesia. \r\n42-Adrede, con intención deliberada.\r\n45-Molécula gramo.\r\n47-Desconfío. \r\n48-Iker Jiménez. \r\n50-Un joven venezolano.\r\n51-Conjuntos musicales formados por estudiantes vistiendo ropa antigua.\r\n53-Lastimo, hago daño.\r\n55-Rugby. Enfrentamiento de dos bloques de jugadores enlazados.\r\n57-Calle formada por dos filas paralelas de árboles.\r\n59-\"Me... de valor\" y me atreví.\r\n60-Salsa china.\r\n62-Tecla para salir de un programa.\r\n63-Orden de San Miguel y San Jorge. Honra a los servidores de la corona británica (siglas).",
+        "horizontal_clues": "1-Instrumento de cuerda frotada más grande que el violín. \r\n6-Prefijo que significa igual.\r\n10-Receptáculo de tela.\r\n14-Falleció.\r\n15-Unieron, sindicaron.\r\n17-Aro, escarbo superficialmente.\r\n18-Trivialidad sin importancia. \r\n19-Ladrón.\r\n20-Celebración de la eucaristía.\r\n21-Sola y sin otra de su especie.\r\n22-El segundo Castro.\r\n24-Música. Repetición final de una pieza bailable.\r\n26-Herbert Spencer.\r\n27-Exlanzador californiano de Los Angeles Dodgers.\r\n29-Empleado bancario que maneja dinero. \r\n31-Inmóvil, paralizado.\r\n32-Dominio web para Haití.\r\n33-Acortamiento de \"Macintosh\".\r\n36-Pasé correctamente con la mancuerna.\r\n37-Cesación del trabajo, inacción (pl).\r\n40-La onda, la vibra de un inglés.\r\n41-Osados sin par.\r\n43-Ilia Topuria, el Campeón Mundial de Peso Pluma de UFC.\r\n44-Copiar, duplicar.\r\n46-Planta fruticosa, vivaz, de la familia de las Quenopodiáceas, salicor.\r\n49-Niño malcriado.\r\n50-Charlize Theron.\r\n52-\"... la cama\", me hice pis.\r\n53-Teje, la araña.\r\n54-Capa superior del suelo rica en materia orgánica. \r\n56-Prevención, apresto.\r\n58-Raspas, restriegas.\r\n61-Lo sedé, lo dormí, lo narcoticé.\r\n63-Divertida carpa itinerante.\r\n64-Derrochar el dinero.\r\n65-Fruta exótica de las Antillas, también zapote.\r\n66-De la naturaleza del hueso.\r\n67-Penetró en un cuerpo permeable.\r\n68-Gran terreno arenoso.",
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,16,#,#,#,#\r\n17,#,#,#,#,#,18,#,#,#,#,#,#,#,#\r\n19,#,#,#,#,20,#,#,#,#,21,#,#,#,#\r\n#,#,#,22,23,#,#,#,24,25,#,#,#,26,#\r\n27,#,28,#,#,#,#,29,#,#,#,#,30,#,#\r\n31,#,#,#,#,#,#,32,#,#,#,#,33,34,35\r\n36,#,#,#,#,37,38,#,#,39,#,40,#,#,#\r\n41,#,#,#,42,#,43,#,#,44,45,#,#,#,#\r\n#,#,46,47,#,48,#,#,#,49,#,#,#,#,#\r\n50,51,#,52,#,#,#,#,53,#,#,#,#,#,#\r\n54,#,55,#,#,#,56,57,#,#,#,58,59,#,60\r\n61,#,#,#,#,62,#,#,#,#,63,#,#,#,#\r\n64,#,#,#,#,#,#,#,#,#,65,#,#,#,#\r\n66,#,#,#,#,67,#,#,#,#,68,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

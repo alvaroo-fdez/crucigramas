@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 6427,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-23T12:03:40.807833Z",
+      "updatedAt": "2026-06-23T12:07:24.156539Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-24",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CRASOS#PAPERA#\r\nSHAKIRA#AIREABA\r\nAES#SALOBRE#ROC\r\nLV#PEDIGUEÑO#CO\r\nTELAMON#LOABLES\r\nARELO#OBO#DIETA\r\nRECOSI#A#POTTER\r\n##HM#SIMIO#UO##\r\nACEITE#B#AVANCE\r\nNORTE#MUE#ERIAL\r\nCROACIA#MARIANO\r\nHO#SOBREPUSO#TG\r\nATO#LECHERA#CEI\r\nSORDERA#COCHERO\r\n#SENSOR#ENELDO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Col y Vzla Coloquial Bueno, agradable, simpático",
+              "answer": "CHEVERE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Altura, nivel",
+              "answer": "RAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"… 47\" el Kaláshnikov",
+              "answer": "AK"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Saquemos una parte de la mercancía, sin que se den cuenta",
+              "answer": "SISEMOS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Solicitado al Señor",
+              "answer": "ORADO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Solían mezclar con suero con sales",
+              "answer": "SALINO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Alimento que se toma para subsistir",
+              "answer": "PABULO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ventilo",
+              "answer": "AIREO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Bollo asturiano relleno y con buena dicción",
+              "answer": "PREÑADO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Inform Tipo de archivo comprimido",
+              "answer": "RAR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Bosquejé, esbocé",
+              "answer": "ABOCETE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Brincar, rebotar",
+              "answer": "SALTAR"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Perseguir, hostigar",
+              "answer": "ACOSAR"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Iniciales de pintor ecuatoriano autor de 'Quito en rojo'",
+              "answer": "OG"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Cotufas, popcorn, crispetas, pochoclo, rosetas",
+              "answer": "PALOMITAS"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Sección necrológica de un periódico",
+              "answer": "OBITUARIO"
+            },
+            "25": {
+              "col": 2,
+              "row": 4,
+              "clue": "Repartidor que lleva el lácteo a domicilio cada mañana",
+              "answer": "LECHERO"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "País cuya capital es Riga",
+              "answer": "LETONIA"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Alimento favorito de los osos panda",
+              "answer": "BAMBU"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Último trago de un tequila sunrise",
+              "answer": "ISE"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "El Plan Operativo Anual",
+              "answer": "POA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Amplias, vastas",
+              "answer": "ANCHAS"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Trastos, cosas, objetos de una persona venezolana",
+              "answer": "COROTOS"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Gusanos que se crían en el maguey",
+              "answer": "TECOLES"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "La casa que heredó Donatella",
+              "answer": "VERSACE"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Artesano que trabaja la piedra",
+              "answer": "CANTERO"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Le oigo liado con la alabanza",
+              "answer": "ELOGIO"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Tachar",
+              "answer": "MARCAR"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Inicié, comencé",
+              "answer": "EMPECE"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prefijo que refiere a la península ibérica",
+              "answer": "IBERO"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"__play\" el streamer español",
+              "answer": "AURON"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Interjección usada para preguntar o llamar",
+              "answer": "EH"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "Diríjase a una divinidad",
+              "answer": "ORE"
+            },
+            "60": {
+              "col": 12,
+              "row": 12,
+              "clue": "Creced en el oriente",
+              "answer": "CED"
+            },
+            "62": {
+              "col": 3,
+              "row": 13,
+              "clue": "Dave Navarro (guitarrista de Jane's Addiction)",
+              "answer": "DN"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo del hectolitro",
+              "answer": "HL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Grasos, untuosos",
+              "answer": "CRASOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Inflamación de las glándulas salivales (sing)",
+              "answer": "PAPERA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "La cantautora latina más conocida del mundo",
+              "answer": "SHAKIRA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Ventilaba",
+              "answer": "AIREABA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "El cinturón del guardaespalda",
+              "answer": "AES"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "El agua cuando tiene tanta sal que no se puede beber",
+              "answer": "SALOBRE"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Pedazo de roca",
+              "answer": "ROC"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Iniciales de empresa francesa de marroquinería de lujo",
+              "answer": "LV"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Que siempre está pidiendo favores o dinero a los demás",
+              "answer": "PEDIGUEÑO"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Símbolo químico del cobalto",
+              "answer": "CO"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Arq Atlante, estatua masculina que hace de columna",
+              "answer": "TELAMON"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Meritorios, estimables, ensalzables",
+              "answer": "LOABLES"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Limpio el trigo con arel",
+              "answer": "ARELO"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Ecuador Árbol de jobo",
+              "answer": "OBO"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Régimen alimenticio",
+              "answer": "DIETA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Volví a coser",
+              "answer": "RECOSI"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "El mago más popular de Hogwarts",
+              "answer": "POTTER"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Símbolo del Hectómetro",
+              "answer": "HM"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Primate antropoide",
+              "answer": "SIMIO"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "La Unión de Oficiales",
+              "answer": "UO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Líquido graso que se obtiene de semillas",
+              "answer": "ACEITE"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Anticipo de dinero o de otra cosa",
+              "answer": "AVANCE"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "El que no hay que perder",
+              "answer": "NORTE"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Muela desgastada",
+              "answer": "MUE"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Tierra o campo sin cultivar ni labrar",
+              "answer": "ERIAL"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "País cuya capital es Zagreb",
+              "answer": "CROACIA"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"… Benlliure\" escultor español",
+              "answer": "MARIANO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Media hora",
+              "answer": "HO"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "Ella controló su ánimo, superó las adversidades y lo logró Ella se…",
+              "answer": "SOBREPUSO"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Dominio web para Togo",
+              "answer": "TG"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Unió los cabos",
+              "answer": "ATO"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Recipiente tradicional para transportar leche fresca",
+              "answer": "LECHERA"
+            },
+            "60": {
+              "col": 12,
+              "row": 12,
+              "clue": "Comunidad de Estados Independientes",
+              "answer": "CEI"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Privación o disminución de la facultad de oír",
+              "answer": "SORDERA"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Conductor de coches de caballos",
+              "answer": "COCHERO"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Dispositivo que detecta movimiento",
+              "answer": "SENSOR"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "El secreto está en el dominio de este condimento",
+              "answer": "ENELDO"
+            }
+          }
+        },
+        "vertical_clues": "1-Col y Vzla: Bueno, agradable, simpático\r\n2-Altura, nivel\r\n3-\"… 47\" el Kaláshnikov\r\n4-Saquemos una parte de la mercancía, sin que se den cuenta\r\n5-Solicitado al Señor\r\n6-Solían mezclar con suero con sales \r\n7-Alimento que se toma para subsistir\r\n8-Ventilo\r\n9-Bollo asturiano relleno y con buena dicción \r\n10-Piel de elefante\r\n11-Inform: Tipo de archivo comprimido\r\n12-Bosquejé, esbocé\r\n13-Brincar, rebotar\r\n15-Perseguir, hostigar\r\n18-Iniciales de pintor ecuatoriano autor de 'Quito en rojo'\r\n21-Cotufas, popcorn, crispetas, pochoclo, rosetas\r\n22-Sección necrológica de un periódico\r\n25-Repartidor que lleva el lácteo a domicilio cada mañana \r\n27-País cuya capital es Riga\r\n30-Alimento favorito de los osos panda\r\n33-Último trago de un tequila sunrise\r\n34-El Plan Operativo Anual\r\n38-Amplias, vastas\r\n39-Trastos, cosas, objetos de una persona venezolana\r\n40-Gusanos que se crían en el maguey\r\n42-La casa que heredó Donatella\r\n43-Artesano que trabaja la piedra \r\n44-Le oigo liado con la alabanza\r\n46-Tachar\r\n47-Inicié, comencé\r\n50-Prefijo que refiere a la península ibérica\r\n52-\"__play\" el streamer español\r\n55-Interjección usada para preguntar o llamar\r\n58-Diríjase a una divinidad\r\n60-Creced en el oriente\r\n62-Dave Navarro (guitarrista de Jane's Addiction)\r\n64-Símbolo del hectolitro",
+        "horizontal_clues": "1-Grasos, untuosos\r\n7-Inflamación de las glándulas salivales (sing)\r\n13-La cantautora latina más conocida del mundo\r\n14-Ventilaba\r\n16-El cinturón del guardaespalda\r\n17-El agua cuando tiene tanta sal que no se puede beber\r\n19-Pedazo de roca\r\n20-Iniciales de empresa francesa de marroquinería de lujo\r\n21-Que siempre está pidiendo favores o dinero a los demás \r\n23-Símbolo químico del cobalto\r\n24-Arq: Atlante, estatua masculina que hace de columna\r\n26-Meritorios, estimables, ensalzables\r\n28-Limpio el trigo con arel\r\n29-Ecuador Árbol de jobo\r\n31-Régimen alimenticio\r\n32-Volví a coser\r\n34-El mago más popular de Hogwarts\r\n35-Símbolo del Hectómetro\r\n36-Primate antropoide\r\n37-La Unión de Oficiales\r\n38-Líquido graso que se obtiene de semillas\r\n41-Anticipo de dinero o de otra cosa\r\n45-El que no hay que perder\r\n46-Muela desgastada\r\n48-Tierra o campo sin cultivar ni labrar\r\n49-País cuya capital es Zagreb\r\n51-\"… Benlliure\" escultor español\r\n53-Media hora\r\n54-Ella controló su ánimo, superó las adversidades y lo logró, ella se…\r\n56-Dominio web para Togo\r\n57-Unió los cabos\r\n59-Recipiente tradicional para transportar leche fresca \r\n60-Comunidad de Estados Independientes\r\n61-Privación o disminución de la facultad de oír\r\n63-Conductor de coches de caballos\r\n65-Dispositivo que detecta movimiento\r\n66-El secreto está en el dominio de este condimento",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,17,#,#,18,#,#,#,#,19,#,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,23,#\r\n24,#,25,#,#,#,#,#,26,#,#,#,27,#,#\r\n28,#,#,#,#,#,29,30,#,#,31,#,#,#,#\r\n32,#,#,#,#,33,#,#,#,34,#,#,#,#,#\r\n#,#,35,#,#,36,#,#,#,#,#,37,#,#,#\r\n38,39,#,#,40,#,#,#,#,41,42,#,#,43,44\r\n45,#,#,#,#,#,46,#,47,#,48,#,#,#,#\r\n49,#,#,#,#,50,#,#,51,52,#,#,#,#,#\r\n53,#,#,54,#,#,#,55,#,#,#,#,#,56,#\r\n57,#,58,#,59,#,#,#,#,#,#,#,60,#,#\r\n61,#,#,62,#,#,#,#,63,#,#,64,#,#,#\r\n#,65,#,#,#,#,#,#,66,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 1509,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-14T10:43:23.486782Z",
+      "updatedAt": "2025-01-14T10:43:23.512520Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-18",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PROMPT#MOLDURA\r\nV#AFEARE#PIES#T\r\nEM#CAJAS#ESCAPE\r\nRAD#DESPERTARES\r\nGUAY#SUITE#DAÑO\r\nELFOS#NRC#BASAR\r\nLANGOSTA#MO###E\r\n#REARMO#HONGOS#\r\nL###DA#REVUELTA\r\nICARO#DIR#SEMAS\r\nBOGA#LAGER#KOBE\r\nELASTICIDAD#SAD\r\nRASPAR#DEJES#TI\r\nT#SEXI#ORALES#O\r\nOMISION#OSEMOS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Poco razonable",
+              "answer": "RA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "La Confederación de Fútbol de Oceanía, pero en inglés",
+              "answer": "OFC"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Id al servicio y haced pis",
+              "answer": "MEAD"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Escuderos",
+              "answer": "PAJES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Copia o reproducción exacta de un original",
+              "answer": "TRASUNTO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Me hice una cirugía, me…",
+              "answer": "OPERE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lista sin fin",
+              "answer": "LIST"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "De cada 10 años se determina una generación",
+              "answer": "DECADA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Harás servir una cosa para algo",
+              "answer": "USARAS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Reuní y guardé cosas de valor",
+              "answer": "ATESORE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Huerto con variedad de flores y árboles frutales",
+              "answer": "VERGEL"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Vuelta completa de una línea en hélice",
+              "answer": "ESPIRA"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Sin paular ni…\"",
+              "answer": "MAULAR"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Esta va a ser taurina",
+              "answer": "PEÑA"
+            },
+            "23": {
+              "col": 2,
+              "row": 3,
+              "clue": "\"Apolo y …\", escultura realizada por el italiano Bernini",
+              "answer": "DAFNE"
+            },
+            "25": {
+              "col": 8,
+              "row": 3,
+              "clue": "Etcétera (abrev)",
+              "answer": "ETC"
+            },
+            "27": {
+              "col": 3,
+              "row": 4,
+              "clue": "Goya estresado practicando sus asanas",
+              "answer": "YOGA"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Privado de la facultad de oír",
+              "answer": "SORDO"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Un extra",
+              "answer": "BONUS"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "\"Su Majestad apostólica\", título del rey de Hungría",
+              "answer": "SMA"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Poco movimiento",
+              "answer": "MOV"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Sucesor legítimo de bienes familiares",
+              "answer": "HEREDERO"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Amante de la tecnología, parecido a un nerd",
+              "answer": "GEEK"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "Estos árboles tienen unos lomos deformes",
+              "answer": "OLMOS"
+            },
+            "41": {
+              "col": 13,
+              "row": 7,
+              "clue": "Himno dedicado a los dolores de la Virgen al pie de la cruz",
+              "answer": "STABAT"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Esclavo que obtuvo su libertad",
+              "answer": "LIBERTO"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Inflexible y poco adaptable al cambio",
+              "answer": "RIGIDO"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Sitió, cercó",
+              "answer": "ASEDIO"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Sabor de refrescos",
+              "answer": "COLA"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Extenista que perdió un Garros por una peluca",
+              "answer": "AGASSI"
+            },
+            "49": {
+              "col": 3,
+              "row": 9,
+              "clue": "Frotes algo quitándole alguna parte superficial",
+              "answer": "RASPES"
+            },
+            "50": {
+              "col": 6,
+              "row": 9,
+              "clue": "Diseño asistido por computador (siglas)",
+              "answer": "DAC"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Flor grande, de seis pétalos azules o morados y a veces blancos",
+              "answer": "LIRIO"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Cortas, agrietas",
+              "answer": "RAJAS"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Automóvil de alquiler con conductor",
+              "answer": "TAXI"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "Proporciónele, entréguele",
+              "answer": "DELE"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Este semestre en concreto",
+              "answer": "SEM"
+            },
+            "66": {
+              "col": 12,
+              "row": 13,
+              "clue": "Voz para calmar a las bestias",
+              "answer": "SO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Instrucción que se le da al ChatGPT (voz inglesa)",
+              "answer": "PROMPT"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Marco decorativo en una pared o cuadro",
+              "answer": "MOLDURA"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Era fea, pero yo la pondré peor",
+              "answer": "AFEARE"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "\"Perteneciste a una raza antigua / de… descalzos y de sueños blancos\" Shakira",
+              "answer": "PIES"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Iniciales del pintor de \"El almuerzo sobre la hierba\"",
+              "answer": "EM"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Las chicas no son de ahorro",
+              "answer": "CAJAS"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Hui",
+              "answer": "ESCAPE"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Radián (abrev)",
+              "answer": "RAD"
+            },
+            "24": {
+              "col": 4,
+              "row": 3,
+              "clue": "Instantes de volver a la realidad después del sueño",
+              "answer": "DESPERTARES"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Equivalente español a chévere, chido, copado o bacán",
+              "answer": "GUAY"
+            },
+            "28": {
+              "col": 5,
+              "row": 4,
+              "clue": "Habitación lujosa de un hotel",
+              "answer": "SUITE"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lesión, agravio moral, físico o psicológico",
+              "answer": "DAÑO"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"3 Anillos para los Reyes… bajo el cielo, 7 para los Señores Enanos en palacios de piedra\"",
+              "answer": "ELFOS"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Número de Referencia Completo",
+              "answer": "NRC"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Asentar algo sobre una base",
+              "answer": "BASAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Crustáceo marino muy apreciado en gastronomía",
+              "answer": "LANGOSTA"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Símbolo químico del molibdeno",
+              "answer": "MO"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Abasteció de armas nuevamente",
+              "answer": "REARMO"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Setas, champiñones",
+              "answer": "HONGOS"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "Sí, en ruso",
+              "answer": "DA"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Protesta popular contra la autoridad",
+              "answer": "REVUELTA"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "El hijo de Dédalo, que voló demasiado cerca del sol",
+              "answer": "ICARO"
+            },
+            "50": {
+              "col": 6,
+              "row": 9,
+              "clue": "Comando del sistema operativo DOS",
+              "answer": "DIR"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Durante estas semanas no habrá sodio",
+              "answer": "SEMAS"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Rema, mueve la embarcación",
+              "answer": "BOGA"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Tipo de cerveza, también le dicen rubia",
+              "answer": "LAGER"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "La mamba inmortal de la NBA",
+              "answer": "KOBE"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Propiedad de recuperar la forma original",
+              "answer": "ELASTICIDAD"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"Triste\" en inglés",
+              "answer": "SAD"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Restregar las parras malas",
+              "answer": "RASPAR"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Abandones algo definitivamente",
+              "answer": "DEJES"
+            },
+            "63": {
+              "col": 13,
+              "row": 12,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "64": {
+              "col": 2,
+              "row": 13,
+              "clue": "Que tiene atractivo físico y sexual",
+              "answer": "SEXI"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Verbales, bucales",
+              "answer": "ORALES"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "El pecado de hacerse el loco",
+              "answer": "OMISION"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Emprendamos, sin miedo",
+              "answer": "OSEMOS"
+            }
+          }
+        },
+        "vertical_clues": "2-Poco razonable\r\n3-La Confederación de Fútbol de Oceanía, pero en inglés\r\n4-Id al servicio y haced pis\r\n5-Escuderos\r\n6-Copia o reproducción exacta de un original \r\n8-Me hice una cirugía, me…\r\n9-Lista sin fin\r\n10-De cada 10 años se determina una generación\r\n11-Harás servir una cosa para algo\r\n12-Reuní y guardé cosas de valor\r\n13-Huerto con variedad de flores y árboles frutales\r\n15-Vuelta completa de una línea en hélice \r\n18-\"Sin paular ni…\" \r\n21-Esta va a ser taurina\r\n23-\"Apolo y …\", escultura realizada por el italiano Bernini\r\n25-Etcétera (abrev)\r\n27-Goya estresado practicando sus asanas\r\n31-Privado de la facultad de oír\r\n33-Un extra\r\n35-\"Su Majestad apostólica\", título del rey de Hungría\r\n36-Poco movimiento\r\n38-Sucesor legítimo de bienes familiares \r\n39-Amante de la tecnología, parecido a un nerd\r\n40-Estos árboles tienen unos lomos deformes\r\n41-Himno dedicado a los dolores de la Virgen al pie de la cruz\r\n42-Esclavo que obtuvo su libertad \r\n44-Inflexible y poco adaptable al cambio \r\n45-Sitió, cercó\r\n47-Sabor de refrescos\r\n48-Extenista que perdió un Garros por una peluca\r\n49-Frotes algo quitándole alguna parte superficial\r\n50-Diseño asistido por computador (siglas)\r\n53-Flor grande, de seis pétalos azules o morados y a veces blancos\r\n54-Cortas, agrietas\r\n57-Automóvil de alquiler con conductor\r\n58-Proporciónele, entréguele\r\n62-Este semestre en concreto\r\n66-Voz para calmar a las bestias\r\n",
+        "horizontal_clues": "1-Instrucción que se le da al ChatGPT (voz inglesa) \r\n7-Marco decorativo en una pared o cuadro \r\n14-Era fea, pero yo la pondré peor\r\n16-\"Perteneciste a una raza antigua / de… descalzos y de sueños blancos\" Shakira\r\n17-Iniciales del pintor de \"El almuerzo sobre la hierba\"\r\n19-Las chicas no son de ahorro\r\n20-Hui\r\n22-Radián (abrev)\r\n24-Instantes de volver a la realidad después del sueño \r\n26-Equivalente español a chévere, chido, copado o bacán\r\n28-Habitación lujosa de un hotel\r\n29-Lesión, agravio moral, físico o psicológico\r\n30-\"3 Anillos para los Reyes… bajo el cielo, 7 para los Señores Enanos en palacios de piedra\"\r\n32-Número de Referencia Completo\r\n33-Asentar algo sobre una base\r\n34-Crustáceo marino muy apreciado en gastronomía \r\n36-Símbolo químico del molibdeno\r\n37-Abasteció de armas nuevamente\r\n38-Setas, champiñones\r\n43-Sí, en ruso\r\n44-Protesta popular contra la autoridad \r\n46-El hijo de Dédalo, que voló demasiado cerca del sol\r\n50-Comando del sistema operativo DOS\r\n51-Durante estas semanas no habrá sodio\r\n52-Rema, mueve la embarcación\r\n53-Tipo de cerveza, también le dicen rubia\r\n55-La mamba inmortal de la NBA\r\n56-Propiedad de recuperar la forma original \r\n59-\"Triste\" en inglés\r\n60-Restregar las parras malas\r\n61-Abandones algo definitivamente \r\n63-Titanio\r\n64-Que tiene atractivo físico y sexual \r\n65-Verbales, bucales\r\n67-El pecado de hacerse el loco\r\n68-Emprendamos, sin miedo\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,14,#,#,#,#,15,#,16,#,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,20,#,#,#,21,#\r\n22,#,23,#,24,#,#,#,25,#,#,#,#,#,#\r\n26,#,#,27,#,28,#,#,#,#,#,29,#,#,#\r\n30,#,#,#,31,#,32,#,#,#,33,#,#,#,#\r\n34,#,#,#,#,35,#,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,#,#,#,38,#,#,39,40,41,#\r\n42,#,#,#,43,#,#,44,#,#,#,#,#,#,45\r\n46,47,48,49,#,#,50,#,#,#,51,#,#,#,#\r\n52,#,#,#,#,53,#,#,#,54,#,55,#,#,#\r\n56,#,#,#,57,#,#,#,#,#,58,#,59,#,#\r\n60,#,#,#,#,#,#,61,#,#,#,62,#,63,#\r\n#,#,64,#,#,#,#,65,#,#,#,#,66,#,#\r\n67,#,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

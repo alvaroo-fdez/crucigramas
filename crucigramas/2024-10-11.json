@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 1032,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-10T20:34:27.490695Z",
+      "updatedAt": "2024-10-10T20:34:27.490719Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-11",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#FILME#EHRLICH#\r\nBURLAR#PICO##UT\r\nA#MENONITA#CEBU\r\nL#AGOGICO#PONEN\r\nAK#ALANO#CONTRE\r\nNOT#ORG#DEPORTE\r\nCHEF#EURIDICE##\r\nELMAR#NAV#TECOL\r\n##PREFERIR#ROJO\r\nACOMODO#SAC#TEN\r\nCARAJO#FINOS#OG\r\nOPACO#BROCHAS#E\r\nDOLO#QUINIELA#V\r\nAT##CACE#ATENTO\r\n#ESLALON#RENDI#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Fuego humilde.",
+              "answer": "FU"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Rima mal con Mari, prueba con otra chica.",
+              "answer": "IRMA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Toca, alcanza la meta.",
+              "answer": "LLEGA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"... Valdés\" el escultor de las meninas.",
+              "answer": "MANOLO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Distribuiré y repartiré el dinero.",
+              "answer": "EROGARE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "No es nivel Dios, pero casi, es nivel...",
+              "answer": "EPICO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Acontecimiento importante que marca un cambio.",
+              "answer": "HITO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Un cable con 3 puntas no es inteligente.",
+              "answer": "RCA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Artículo neutro.",
+              "answer": "LO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"... Selby Jr\" autor de la novela \"Réquiem por un sueño\".",
+              "answer": "HUBERT"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Movimiento de un cuerpo de un lado a otro.",
+              "answer": "BALANCE"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Personalicé mi coche.",
+              "answer": "TUNEE"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Menosprecio o falta de reconocimiento.",
+              "answer": "NINGUNEO"
+            },
+            "17": {
+              "col": 11,
+              "row": 2,
+              "clue": "Socializar, descubrir nuevas personas y entornos.",
+              "answer": "CONOCER"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Corte de carne vacuna cerca de las costillas.",
+              "answer": "ENTRECOT"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Juguete antiestrés popularizado en TikTok.",
+              "answer": "POPIT"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Excanciller alemán, que lideró la reunificación de Alemania.",
+              "answer": "KOHL"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Creced en el oriente.",
+              "answer": "CED"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Transitorio, efímero, pasajero.",
+              "answer": "TEMPORAL"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Operación matemática de reparto equitativo.",
+              "answer": "DIVISION"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Sustancia y principio activo de un medicamento.",
+              "answer": "FARMACO"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Inform. Tipo de archivo comprimido.",
+              "answer": "RAR"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Lo vio disimuladamente, lo miró de...",
+              "answer": "REOJO"
+            },
+            "37": {
+              "col": 13,
+              "row": 7,
+              "clue": "Lo veo por encima, lo...",
+              "answer": "OJEO"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "Que alcanza muchos años de edad (masc).",
+              "answer": "LONGEVO"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Abreviatura para 'Firmado'.",
+              "answer": "FDO"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Poner rancio.",
+              "answer": "RANCIAR"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Apoya el codo sobre alguna parte.",
+              "answer": "ACODA"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Capa de abrigo.",
+              "answer": "CAPOTE"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Vehículo espacial.",
+              "answer": "COHETE"
+            },
+            "49": {
+              "col": 7,
+              "row": 10,
+              "clue": "Cocinan en aceite.",
+              "answer": "FRIEN"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Van de adentro hacia afuera.",
+              "answer": "SALEN"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Cabrón, macho cabrío.",
+              "answer": "BUCO"
+            },
+            "54": {
+              "col": 12,
+              "row": 11,
+              "clue": "Arena en inglés.",
+              "answer": "SAND"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "\"Dijo\" en árabe.",
+              "answer": "QAL"
+            },
+            "58": {
+              "col": 4,
+              "row": 13,
+              "clue": "Símbolo químico del calcio.",
+              "answer": "CA"
+            },
+            "60": {
+              "col": 13,
+              "row": 13,
+              "clue": "Titanio.",
+              "answer": "TI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Grabé una película que parece muy firme.",
+              "answer": "FILME"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"Paul...\" desarrolló el primer el tratamiento contra la sífilis.",
+              "answer": "EHRLICH"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Esquivar y ridiculizar a la ley.",
+              "answer": "BURLAR"
+            },
+            "12": {
+              "col": 7,
+              "row": 1,
+              "clue": "Lo partió en la cumbre.",
+              "answer": "PICO"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Inic. de la prota de 'Kill Bill' de Tarantino.",
+              "answer": "UT"
+            },
+            "15": {
+              "col": 2,
+              "row": 2,
+              "clue": "Disidente de los anabaptistas seguidor de Mennón Simons.",
+              "answer": "MENONITA"
+            },
+            "17": {
+              "col": 11,
+              "row": 2,
+              "clue": "Bóvido que destaca por su joroba o giba.",
+              "answer": "CEBU"
+            },
+            "19": {
+              "col": 2,
+              "row": 3,
+              "clue": "Mús. Conjunto de modificaciones de tiempo requeridas en una ejecución.",
+              "answer": "AGOGICO"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Pone 1, ponen 2, todos...",
+              "answer": "PONEN"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"...",
+              "answer": "AK"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Perro español.",
+              "answer": "ALANO"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Contra en francés.",
+              "answer": "CONTRE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Dejó una nota sin terminar.",
+              "answer": "NOT"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Pequeña organización.",
+              "answer": "ORG"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Actividad física y competición.",
+              "answer": "DEPORTE"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Oficio de Jordi Cruz.",
+              "answer": "CHEF"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "El amor de Orfeo.",
+              "answer": "EURIDICE"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"El viejo y...\", novela de Hemingway.",
+              "answer": "ELMAR"
+            },
+            "35": {
+              "col": 6,
+              "row": 7,
+              "clue": "¿Van subiendo? sí, van subiendo.",
+              "answer": "NAV"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Gusano del tequila.",
+              "answer": "TECOL"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Optar por una alternativa sobre otras.",
+              "answer": "PREFERIR"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"Barón...\" banda española de heavy metal de los 80.",
+              "answer": "ROJO"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Me pongo cómoda, me...",
+              "answer": "ACOMODO"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Servicio de Atención Ciudadana.",
+              "answer": "SAC"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Toma 10 dólares.",
+              "answer": "TEN"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Te puedes ir a la cesta del palo mayor de una carabela.",
+              "answer": "CARAJO"
+            },
+            "49": {
+              "col": 7,
+              "row": 10,
+              "clue": "Delicado y de buena calidad en su especie (pl).",
+              "answer": "FINOS"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "El pie de página (footer) de mi blog.",
+              "answer": "OG"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "¡Oh, Paco! has perdido brillo.",
+              "answer": "OPACO"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Herramientas del pintor.",
+              "answer": "BROCHAS"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Derecho. Voluntad deliberada de cometer un delito.",
+              "answer": "DOLO"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Apuesta deportiva con múltiples pronósticos.",
+              "answer": "QUINIELA"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "Antiguo Testamento.",
+              "answer": "AT"
+            },
+            "58": {
+              "col": 4,
+              "row": 13,
+              "clue": "Persiga fieras para comerlas.",
+              "answer": "CACE"
+            },
+            "59": {
+              "col": 9,
+              "row": 13,
+              "clue": "Cometido, cordial, servicial.",
+              "answer": "ATENTO"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "Competición de esquí, con pasos obligados.",
+              "answer": "ESLALON"
+            },
+            "62": {
+              "col": 9,
+              "row": 14,
+              "clue": "Bajé los brazos, me di por vencida, me...",
+              "answer": "RENDI"
+            }
+          }
+        },
+        "vertical_clues": "1-Fuego humilde.\r\n2-Rima mal con Mari, prueba con otra chica.\r\n3-Toca, alcanza la meta.\r\n4-\"... Valdés\" el escultor de las meninas.\r\n5-Distribuiré y repartiré el dinero.\r\n6-No es nivel Dios, pero casi, es nivel...\r\n7-Acontecimiento importante que marca un cambio.\r\n8-Un cable con 3 puntas no es inteligente.\r\n9-Artículo neutro.\r\n10-\"... Selby Jr\" autor de la novela \"Réquiem por un sueño\".\r\n11-Movimiento de un cuerpo de un lado a otro.\r\n14-Personalicé mi coche.\r\n16-Menosprecio o falta de reconocimiento. \r\n17-Socializar, descubrir nuevas personas y entornos.\r\n18-Corte de carne vacuna cerca de las costillas. \r\n20-Juguete antiestrés popularizado en TikTok.\r\n22-Excanciller alemán, que lideró la reunificación de Alemania.\r\n24-Creced en el oriente.\r\n26-Transitorio, efímero, pasajero.\r\n28-Operación matemática de reparto equitativo. \r\n30-Sustancia y principio activo de un medicamento.\r\n32-Inform. Tipo de archivo comprimido.\r\n34-Lo vio disimuladamente, lo miró de...\r\n37-Lo veo por encima, lo...\r\n38-Que alcanza muchos años de edad (masc).\r\n40-Abreviatura para 'Firmado'.\r\n41-Poner rancio.\r\n43-Apoya el codo sobre alguna parte.\r\n44-Capa de abrigo.\r\n46-Vehículo espacial.\r\n49-Cocinan en aceite.\r\n50-Van de adentro hacia afuera.\r\n53-Cabrón, macho cabrío.\r\n54-Arena en inglés.\r\n56-\"Dijo\" en árabe.\r\n58-Símbolo químico del calcio.\r\n60-Titanio.",
+        "horizontal_clues": "1-Grabé una película que parece muy firme.\r\n6-\"Paul...\" desarrolló el primer el tratamiento contra la sífilis.\r\n11-Esquivar y ridiculizar a la ley.\r\n12-Lo partió en la cumbre.\r\n13-Inic. de la prota de 'Kill Bill' de Tarantino.\r\n15-Disidente de los anabaptistas seguidor de Mennón Simons.\r\n17-Bóvido que destaca por su joroba o giba.\r\n19-Mús. Conjunto de modificaciones de tiempo requeridas en una ejecución.\r\n20-Pone 1, ponen 2, todos...\r\n21-\"...-47\" el Kaláshnikov.\r\n23-Perro español.\r\n24-Contra en francés. \r\n25-Dejó una nota sin terminar.\r\n27-Pequeña organización.\r\n28-Actividad física y competición.\r\n29-Oficio de Jordi Cruz.\r\n31-El amor de Orfeo.\r\n33-\"El viejo y...\", novela de Hemingway.\r\n35-¿Van subiendo? sí, van subiendo.\r\n36-Gusano del tequila.\r\n39-Optar por una alternativa sobre otras. \r\n42-\"Barón...\" banda española de heavy metal de los 80.\r\n43-Me pongo cómoda, me...\r\n45-Servicio de Atención Ciudadana.\r\n47-Toma 10 dólares.\r\n48-Te puedes ir a la cesta del palo mayor de una carabela.\r\n49-Delicado y de buena calidad en su especie (pl).\r\n51-El pie de página (footer) de mi blog.\r\n52-¡Oh, Paco! has perdido brillo.\r\n53-Herramientas del pintor.\r\n55-Derecho. Voluntad deliberada de cometer un delito.\r\n56-Apuesta deportiva con múltiples pronósticos. \r\n57-Antiguo Testamento. \r\n58-Persiga fieras para comerlas.\r\n59-Cometido, cordial, servicial.\r\n61-Competición de esquí, con pasos obligados.\r\n62-Bajé los brazos, me di por vencida, me...",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,#,#,10,#\r\n11,#,#,#,#,#,#,12,#,#,#,#,#,13,14\r\n#,#,15,#,#,#,16,#,#,#,#,17,18,#,#\r\n#,#,19,#,#,#,#,#,#,#,20,#,#,#,#\r\n21,22,#,23,#,#,#,#,#,24,#,#,#,#,#\r\n25,#,26,#,27,#,#,#,28,#,#,#,#,#,#\r\n29,#,#,30,#,31,#,32,#,#,#,#,#,#,#\r\n33,#,#,#,34,#,35,#,#,#,36,#,#,37,38\r\n#,#,39,#,#,40,#,#,#,41,#,42,#,#,#\r\n43,44,#,#,#,#,#,#,45,#,46,#,47,#,#\r\n48,#,#,#,#,#,#,49,#,#,#,50,#,51,#\r\n52,#,#,#,#,#,53,#,#,#,#,#,54,#,#\r\n55,#,#,#,#,56,#,#,#,#,#,#,#,#,#\r\n57,#,#,#,58,#,#,#,#,59,#,#,#,60,#\r\n#,61,#,#,#,#,#,#,#,62,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

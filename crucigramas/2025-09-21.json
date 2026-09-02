@@ -1,0 +1,486 @@
+{
+  "data": {
+    "id": 3377,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:24.919062Z",
+      "updatedAt": "2025-09-09T14:18:52.214226Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MARISCO#BARROCO\r\nACECHO#PASEA#HR\r\nSUP#OBJETIVIDAD\r\nASEVERAR#A#LUPE\r\nSALE#ERRATA#BUN\r\n#DEJO#DOCIL#AZA\r\nA#RICCI#OCASION\r\nNR#GUANABANA#NZ\r\nDETALLE#ASILA#A\r\nRAI#TARAR#SAÑA#\r\nAST#ABORDO#DAHL\r\nJUAN#A#RAPSODIA\r\nOMNISCIENTE#ITS\r\nSI#SUITE#ANDRES\r\nARIADNA#TROYANO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Las grandes consumidoras",
+              "answer": "MASAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Denunciad, delatad",
+              "answer": "ACUSAD"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Arrojar, lanzar o echar de sí algo con impulso o violencia",
+              "answer": "REPELER"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Insuficiencia cardíaca",
+              "answer": "IC"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Zapato inglés",
+              "answer": "SHOE"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Edad precede a la del Bronce",
+              "answer": "COBRE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "El bate de Batman",
+              "answer": "BAT"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Y así, a ti casi te unen con las orientales",
+              "answer": "ASIATICAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Un poco revuelto",
+              "answer": "REV"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Carril de las vías férreas",
+              "answer": "RAIL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ingreso para nada sutil en la piscina",
+              "answer": "CHAPUZON"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Reglamento, normativa, legislación",
+              "answer": "ORDENANZA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "El mejor amigo del hombre",
+              "answer": "PERRO"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Beisbol Posición defensiva que cubre el área del outfield",
+              "answer": "JARDINERO"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Emirato que alberga al Museo del Futuro",
+              "answer": "DUBAI"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Órgano en el cual va depositándose la orina",
+              "answer": "VEJIGA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Son unos gallinas, no se atreven por miedo",
+              "answer": "ACOBARDAN"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Cantautora del sencillo 'Ironic' (1995)",
+              "answer": "ALANIS"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Verdad que no se da a conocer",
+              "answer": "OCULTA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Vestida con ropa vieja y rota",
+              "answer": "ANDRAJOSA"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Pequeña calabaza cilíndrica",
+              "answer": "CALABACIN"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Sabor típico del cloruro sódico",
+              "answer": "SALADO"
+            },
+            "38": {
+              "col": 1,
+              "row": 7,
+              "clue": "Volver a ocupar un cargo",
+              "answer": "REASUMIR"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Persona de excepcional fuerza",
+              "answer": "TITAN"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Agregará",
+              "answer": "AÑADIRA"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Estimule a las bestias",
+              "answer": "ARREE"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Señalen los lindes de un terreno",
+              "answer": "AHITEN"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Parto descontrolado antes de escoger el destino",
+              "answer": "OPTAR"
+            },
+            "54": {
+              "col": 14,
+              "row": 10,
+              "clue": "\"Ted…\" mejor serie de comedia en los Emmy 2022",
+              "answer": "LASSO"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Ni sabrás qué ciudad de Capadocia es",
+              "answer": "NISA"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "Aquí debes sacar el pecho",
+              "answer": "SENO"
+            },
+            "60": {
+              "col": 4,
+              "row": 12,
+              "clue": "Prefijo que significa Sur",
+              "answer": "SUD"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Diminutivo femenino",
+              "answer": "ITA"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo químico del Disprosio",
+              "answer": "DY"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Criamos por error una gamba en vez de un mejillón",
+              "answer": "MARISCO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mov pictórico representado por Caravaggio, Rembrandt, Rubens, entre otros",
+              "answer": "BARROCO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Aguardar cautelosamente con algún propósito, estar al…",
+              "answer": "ACECHO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Camina por distracción",
+              "answer": "PASEA"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Home Run",
+              "answer": "HR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Apenas superado",
+              "answer": "SUP"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Neutralidad en la opinión, prioridad de los hechos",
+              "answer": "OBJETIVIDAD"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Afirmar o asegurar lo que se dice",
+              "answer": "ASEVERAR"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"… Fiasco\" rapero estadounidense",
+              "answer": "LUPE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Se moviliza de dentro a fuera",
+              "answer": "SALE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Equivocación material cometida en lo impreso o manuscrito",
+              "answer": "ERRATA"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Descubriendo a Bunbury",
+              "answer": "BUN"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Acento peculiar del habla de determinada región",
+              "answer": "DEJO"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Suave, que recibe fácilmente la enseñanza",
+              "answer": "DOCIL"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Beata \"Juana de…\", madre de Santo Domingo de Guzmán",
+              "answer": "AZA"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Pintor, grabador y escenógrafo italiano del rococó",
+              "answer": "RICCI"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Coches de segunda mano, de…",
+              "answer": "OCASION"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "La cintura de Monroe",
+              "answer": "NR"
+            },
+            "39": {
+              "col": 3,
+              "row": 7,
+              "clue": "Fruta del guanábano",
+              "answer": "GUANABANA"
+            },
+            "40": {
+              "col": 13,
+              "row": 7,
+              "clue": "Dominio web para Nueva Zelanda",
+              "answer": "NZ"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Información minuciosa o específica",
+              "answer": "DETALLE"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Alberga a alguien en un refugio",
+              "answer": "ASILA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Desgasté una tela",
+              "answer": "RAI"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Señalar la tara o peso de algo",
+              "answer": "TARAR"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Con mala intención, con…",
+              "answer": "SAÑA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Enzima aminotransferasa",
+              "answer": "AST"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Me acerco a alguien para hacerle una pregunta",
+              "answer": "ABORDO"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Roald…\" el autor de 'Charlie y la fábrica de chocolate'",
+              "answer": "DAHL"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "“… Luis Guerra\" canta junto a Enrique Iglesias 'Cuando me enamoro'",
+              "answer": "JUAN"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "Obra musical formada por diversas unidades rítmicas sin vínculo entre sí",
+              "answer": "RAPSODIA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Que conoce todas las cosas reales y posibles",
+              "answer": "OMNISCIENTE"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Infecciones de Transmisión Sexual",
+              "answer": "ITS"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Séptima nota de la escala musical",
+              "answer": "SI"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Habitación lujosa de un hotel",
+              "answer": "SUITE"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "El genio de Fuentealbilla",
+              "answer": "ANDRES"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"… Gil\", interpretó a Violeta, en la 'Belle Époque' de F Trueba",
+              "answer": "ARIADNA"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Inform Tipo de virus",
+              "answer": "TROYANO"
+            }
+          }
+        },
+        "vertical_clues": "1-Las grandes consumidoras\r\n2-Denunciad, delatad\r\n3-Arrojar, lanzar o echar de sí algo con impulso o violencia\r\n4-Insuficiencia cardíaca\r\n5-Zapato inglés\r\n6-Edad precede a la del Bronce\r\n7-El bate de Batman\r\n8-Y así, a ti casi te unen con las orientales\r\n9-Un poco revuelto\r\n10-Carril de las vías férreas\r\n11-Ingreso para nada sutil en la piscina\r\n12-Reglamento, normativa, legislación\r\n14-El mejor amigo del hombre\r\n18-Beisbol Posición defensiva que cubre el área del outfield\r\n19-Emirato que alberga al Museo del Futuro\r\n21-Órgano en el cual va depositándose la orina\r\n25-Son unos gallinas, no se atreven por miedo\r\n26-Cantautora del sencillo 'Ironic' (1995)\r\n29-Verdad que no se da a conocer\r\n32-Vestida con ropa vieja y rota\r\n34-Pequeña calabaza cilíndrica\r\n36-Sabor típico del cloruro sódico\r\n38-Volver a ocupar un cargo\r\n42-Persona de excepcional fuerza\r\n44-Agregará\r\n47-Estimule a las bestias\r\n49-Señalen los lindes de un terreno\r\n52-Parto descontrolado antes de escoger el destino\r\n54-\"Ted…\" mejor serie de comedia en los Emmy 2022\r\n56-Ni sabrás qué ciudad de Capadocia es\r\n58-Aquí debes sacar el pecho\r\n60-Prefijo que significa Sur\r\n61-Diminutivo femenino\r\n66-Símbolo químico del Disprosio",
+        "horizontal_clues": "1-Criamos por error una gamba en vez de un mejillón\r\n7-Mov pictórico representado por Caravaggio, Rembrandt, Rubens, entre otros\r\n13-Aguardar cautelosamente con algún propósito, estar al…\r\n14-Camina por distracción\r\n15-Home Run\r\n16-Apenas superado\r\n17-Neutralidad en la opinión, prioridad de los hechos\r\n20-Afirmar o asegurar lo que se dice\r\n22-\"… Fiasco\" rapero estadounidense\r\n23-Se moviliza de dentro a fuera\r\n24-Equivocación material cometida en lo impreso o manuscrito\r\n27-Descubriendo a Bunbury\r\n28-Acento peculiar del habla de determinada región\r\n30-Suave, que recibe fácilmente la enseñanza\r\n31-Beata \"Juana de…\", madre de Santo Domingo de Guzmán\r\n33-Pintor, grabador y escenógrafo italiano del rococó\r\n35-Coches de segunda mano, de…\r\n37-La cintura de Monroe\r\n39-Fruta del guanábano\r\n40-Dominio web para Nueva Zelanda\r\n41-Información minuciosa o específica\r\n43-Alberga a alguien en un refugio\r\n45-Desgasté una tela\r\n46-Señalar la tara o peso de algo\r\n48-Con mala intención, con…\r\n50-Enzima aminotransferasa\r\n51-Me acerco a alguien para hacerle una pregunta\r\n53-\"Roald…\" el autor de 'Charlie y la fábrica de chocolate'\r\n55-“… Luis Guerra\" canta junto a Enrique Iglesias 'Cuando me enamoro'\r\n57-Obra musical formada por diversas unidades rítmicas sin vínculo entre sí\r\n59-Que conoce todas las cosas reales y posibles\r\n62-Infecciones de Transmisión Sexual\r\n63-Séptima nota de la escala musical\r\n64-Habitación lujosa de un hotel\r\n65-El genio de Fuentealbilla\r\n67-\"… Gil\", interpretó a Violeta, en la 'Belle Époque' de F Trueba\r\n68-Inform Tipo de virus",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,#,7,8,9,10,#,11,12\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,15,#\r\n16,#,#,#,17,#,18,#,#,#,#,#,19,#,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,#,#\r\n23,#,#,#,#,24,#,#,25,#,26,#,27,#,#\r\n#,28,#,#,29,#,30,#,#,#,#,#,31,#,#\r\n32,#,33,#,#,34,#,#,35,#,#,36,#,#,#\r\n37,38,#,39,#,#,#,#,#,#,#,#,#,40,#\r\n41,#,42,#,#,#,#,#,43,#,#,#,44,#,#\r\n45,#,#,#,46,#,#,47,#,#,48,#,#,49,#\r\n50,#,#,#,51,#,#,#,#,52,#,53,#,#,54\r\n55,#,#,56,#,#,#,57,#,#,58,#,#,#,#\r\n59,#,#,#,60,#,61,#,#,#,#,#,62,#,#\r\n63,#,#,64,#,#,#,#,#,65,#,66,#,#,#\r\n67,#,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

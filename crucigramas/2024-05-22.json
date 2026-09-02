@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 255,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-22T09:26:26.280806Z",
+      "updatedAt": "2024-05-29T19:29:40.991208Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-22",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "K#MICROCHIP#RIT\r\nAMORIO#HORACERO\r\nPELELE#AYAS#FIN\r\nPRANA##MANO#EAT\r\nACNE#FIAD###R#E\r\n#A##TURCA#TRISA\r\nRN#GALIA##AYRAN\r\nAT#WILL#DOHA#RD\r\nTIBET##BETUN#AO\r\nCLONA#VALER##M#\r\nL#N###ELLA#JOPE\r\nICI#ABRA##SUBIR\r\nFAA#SOGN#FERVOR\r\nFITOPAEZ#AMAINO\r\nEAO#ATLANTIDA#R",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La K griega.",
+              "answer": "KAPPA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Son muy buenas las pelis de Nolan.",
+              "answer": "MOLAN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"... Joliot",
+              "answer": "IRENE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Medio ramillete de cilantro.",
+              "answer": "CILA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Corta con los dientes.",
+              "answer": "ROE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Una niña mexicana.",
+              "answer": "CHAMACA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Terreno bajo que no se descubre hasta estar cerca de él.",
+              "answer": "HOYADA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "País del Oriente Medio que limita por el oeste con Irak.",
+              "answer": "IRAN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"... de todos\", los ignoro, no me importan.",
+              "answer": "PASO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Recomendar su trabajo.",
+              "answer": "REFERIR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Caminaría, andaría de acá para allá.",
+              "answer": "IRIA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Diciendo o haciendo tonterías.",
+              "answer": "TONTEANDO"
+            },
+            "14": {
+              "col": 1,
+              "row": 1,
+              "clue": "\"Derecho...\" que regula el estatuto de los empresarios.",
+              "answer": "MERCANTIL"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sin restricciones, completo, al máximo.",
+              "answer": "FULL"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "El Salvador. Árbol cuyo fruto es jugoso y comestible.",
+              "answer": "IRIL"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Voz infantil con que se designa al padre.",
+              "answer": "TAITA"
+            },
+            "26": {
+              "col": 10,
+              "row": 5,
+              "clue": "Jugador fullero.",
+              "answer": "TAHUR"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"Meg...\" junto a Antonio Banderas en la peli 'Mi novio es un ladrón'.",
+              "answer": "RYAN"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Enfermedad contagiosa de manchitas rojas.",
+              "answer": "SARAMPION"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Jim...\" el hombre más rico de Gran Bretaña.",
+              "answer": "RATCLIFFE"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"... Stefani\", antes vocalista de No Doubt.",
+              "answer": "GWEN"
+            },
+            "34": {
+              "col": 8,
+              "row": 7,
+              "clue": "Marca de portátiles.",
+              "answer": "DELL"
+            },
+            "35": {
+              "col": 9,
+              "row": 7,
+              "clue": "Observa desde arriba.",
+              "answer": "OTEA"
+            },
+            "38": {
+              "col": 2,
+              "row": 8,
+              "clue": "Batata, camote.",
+              "answer": "BONIATO"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Aparato que sirve para pesar.",
+              "answer": "BALANZA"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Huerto con variedad de flores y árboles frutales.",
+              "answer": "VERGEL"
+            },
+            "44": {
+              "col": 11,
+              "row": 10,
+              "clue": "Afirmad o negad algo con legitimación sagrada.",
+              "answer": "JURAD"
+            },
+            "45": {
+              "col": 12,
+              "row": 10,
+              "clue": "Muy clara, que no tiene dificultad.",
+              "answer": "OBVIA"
+            },
+            "46": {
+              "col": 14,
+              "row": 10,
+              "clue": "Los es el 404, en las páginas web.",
+              "answer": "ERROR"
+            },
+            "48": {
+              "col": 1,
+              "row": 11,
+              "clue": "Perdía el equilibrio hasta dar en tierra.",
+              "answer": "CAIA"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Cada uno de los brazos de un molino.",
+              "answer": "ASPA"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "El barco inglés.",
+              "answer": "BOAT"
+            },
+            "51": {
+              "col": 10,
+              "row": 11,
+              "clue": "Casi, medio lo es.",
+              "answer": "SEMI"
+            },
+            "54": {
+              "col": 9,
+              "row": 12,
+              "clue": "Gordo en inglés.",
+              "answer": "FAT"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Como un chip pero más pequeño.",
+              "answer": "MICROCHIP"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "El ritual aún no termina.",
+              "answer": "RIT"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Pasajero idilio de amor en el río.",
+              "answer": "AMORIO"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Cuando, por primera vez, se activan los protocolos en una crisis (2p).",
+              "answer": "HORACERO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Persona que se deja manejar por los demás muy fácilmente.",
+              "answer": "PELELE"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Niñeras.",
+              "answer": "AYAS"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Término de algo.",
+              "answer": "FIN"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Hinduismo. Energía vital que conecta todo lo que hay en el universo.",
+              "answer": "PRANA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Capa de pintura, la primera o la segunda.",
+              "answer": "MANO"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Comer en inglés.",
+              "answer": "EAT"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Enfermedad de la piel.",
+              "answer": "ACNE"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Otorgad crédito.",
+              "answer": "FIAD"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Nacida en Turquía.",
+              "answer": "TURCA"
+            },
+            "26": {
+              "col": 10,
+              "row": 5,
+              "clue": "Dicho de la golondrina: canta.",
+              "answer": "TRISA"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Símbolo químico del Radón.",
+              "answer": "RN"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Territorio que ocupaban los pueblos protohistóricos celtas.",
+              "answer": "GALIA"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Bebida popular en Turquía a base de yogur y agua.",
+              "answer": "AYRAN"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Pato desplumado.",
+              "answer": "AT"
+            },
+            "33": {
+              "col": 3,
+              "row": 7,
+              "clue": "Actor que interpretó al príncipe de Bel",
+              "answer": "WILL"
+            },
+            "34": {
+              "col": 8,
+              "row": 7,
+              "clue": "Capital de Catar.",
+              "answer": "DOHA"
+            },
+            "36": {
+              "col": 13,
+              "row": 7,
+              "clue": "Iniciales del actor que interpreta a Iron Man.",
+              "answer": "RD"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Región natal del Dalai Lama.",
+              "answer": "TIBET"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Pasta o pomada para lustrar el calzado.",
+              "answer": "BETUN"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Vocales abiertas.",
+              "answer": "AO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Crea dos organismos iguales genéticamente.",
+              "answer": "CLONA"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Servir para algo.",
+              "answer": "VALER"
+            },
+            "43": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"... baila sola\".",
+              "answer": "ELLA"
+            },
+            "44": {
+              "col": 11,
+              "row": 10,
+              "clue": "¡Joder! un eufemismo.",
+              "answer": "JOPE"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Instituto Canario de Igualdad.",
+              "answer": "ICI"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Aperture.",
+              "answer": "ABRA"
+            },
+            "51": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cargar en internet.",
+              "answer": "SUBIR"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Fuerza Aérea Argentina (siglas).",
+              "answer": "FAA"
+            },
+            "53": {
+              "col": 4,
+              "row": 12,
+              "clue": "Segundo fiordo más grande del mundo, Noruega.",
+              "answer": "SOGN"
+            },
+            "54": {
+              "col": 9,
+              "row": 12,
+              "clue": "Entusiasmo o ardor con que se hace algo.",
+              "answer": "FERVOR"
+            },
+            "55": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cantó a dúo con Sabina y son enemigos íntimos (dos palabras).",
+              "answer": "FITOPAEZ"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Aflojó su potencia el viento.",
+              "answer": "AMAINO"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "Las vocales fuertes desordenadas.",
+              "answer": "EAO"
+            },
+            "58": {
+              "col": 4,
+              "row": 14,
+              "clue": "Legendaria isla mencionada en los escritos de Platón.",
+              "answer": "ATLANTIDA"
+            }
+          }
+        },
+        "vertical_clues": "1-La K griega.\r\n2-Son muy buenas las pelis de Nolan.\r\n3-\"... Joliot-Curie\", Nobel de química en 1935.\r\n4-Medio ramillete de cilantro.\r\n5-Corta con los dientes.\r\n6-Una niña mexicana.\r\n7-Terreno bajo que no se descubre hasta estar cerca de él.\r\n8-País del Oriente Medio que limita por el oeste con Irak.\r\n9-\"... de todos\", los ignoro, no me importan.\r\n10-Recomendar su trabajo.\r\n11-Caminaría, andaría de acá para allá.\r\n12-Diciendo o haciendo tonterías.\r\n14-\"Derecho...\" que regula el estatuto de los empresarios.\r\n23-Sin restricciones, completo, al máximo. \r\n24-El Salvador. Árbol cuyo fruto es jugoso y comestible.\r\n25-Voz infantil con que se designa al padre.\r\n26-Jugador fullero.\r\n27-\"Meg...\" junto a Antonio Banderas en la peli 'Mi novio es un ladrón'.\r\n28-Enfermedad contagiosa de manchitas rojas. \r\n29-\"Jim...\" el hombre más rico de Gran Bretaña.\r\n30-\"... Stefani\", antes vocalista de No Doubt.\r\n34-Marca de portátiles.\r\n35-Observa desde arriba.\r\n38-Batata, camote.\r\n39-Aparato que sirve para pesar.\r\n42-Huerto con variedad de flores y árboles frutales.\r\n44-Afirmad o negad algo con legitimación sagrada.\r\n45-Muy clara, que no tiene dificultad.\r\n46-Los es el 404, en las páginas web.\r\n48-Perdía el equilibrio hasta dar en tierra.\r\n49-Cada uno de los brazos de un molino.\r\n50-El barco inglés.\r\n51-Casi, medio lo es.\r\n54-Gordo en inglés.",
+        "horizontal_clues": "2-Como un chip pero más pequeño.\r\n10-El ritual aún no termina.\r\n13-Pasajero idilio de amor en el río.\r\n15-Cuando, por primera vez, se activan los protocolos en una crisis (2p). \r\n16-Persona que se deja manejar por los demás muy fácilmente.\r\n17-Niñeras.\r\n18-Término de algo.\r\n19-Hinduismo. Energía vital que conecta todo lo que hay en el universo.\r\n20-Capa de pintura, la primera o la segunda.\r\n21-Comer en inglés.\r\n22-Enfermedad de la piel.\r\n23-Otorgad crédito.\r\n25-Nacida en Turquía.\r\n26-Dicho de la golondrina: canta.\r\n29-Símbolo químico del Radón.\r\n30-Territorio que ocupaban los pueblos protohistóricos celtas.\r\n31-Bebida popular en Turquía a base de yogur y agua.\r\n32-Pato desplumado.\r\n33-Actor que interpretó al príncipe de Bel-Air en los 90.\r\n34-Capital de Catar.\r\n36-Iniciales del actor que interpreta a Iron Man.\r\n37-Región natal del Dalai Lama. \r\n39-Pasta o pomada para lustrar el calzado.\r\n40-Vocales abiertas.\r\n41-Crea dos organismos iguales genéticamente.\r\n42-Servir para algo.\r\n43-\"... baila sola\".\r\n44-¡Joder! un eufemismo.\r\n47-Instituto Canario de Igualdad.\r\n49-Aperture.\r\n51-Cargar en internet.\r\n52-Fuerza Aérea Argentina (siglas).\r\n53-Segundo fiordo más grande del mundo, Noruega.\r\n54-Entusiasmo o ardor con que se hace algo.\r\n55-Cantó a dúo con Sabina y son enemigos íntimos (dos palabras).\r\n56-Aflojó su potencia el viento.\r\n57-Las vocales fuertes desordenadas.\r\n58-Legendaria isla mencionada en los escritos de Platón.",
+        "board_clues_positions": "1,#,2,3,4,5,#,6,7,8,9,#,10,11,12\r\n13,14,#,#,#,#,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,17,#,#,#,#,18,#,#\r\n19,#,#,#,#,#,#,20,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,24,#,#,#,#,#,#,#,#\r\n#,#,#,#,25,#,#,#,#,#,26,27,#,28,#\r\n29,#,#,30,#,#,#,#,#,#,31,#,#,#,#\r\n32,#,#,33,#,#,#,#,34,35,#,#,#,36,#\r\n37,#,38,#,#,#,#,39,#,#,#,#,#,40,#\r\n41,#,#,#,#,#,42,#,#,#,#,#,#,#,#\r\n#,#,#,#,#,#,43,#,#,#,#,44,45,#,46\r\n47,48,#,#,49,50,#,#,#,#,51,#,#,#,#\r\n52,#,#,#,53,#,#,#,#,54,#,#,#,#,#\r\n55,#,#,#,#,#,#,#,#,56,#,#,#,#,#\r\n57,#,#,#,58,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

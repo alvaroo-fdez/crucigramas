@@ -1,0 +1,479 @@
+{
+  "data": {
+    "id": 6596,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-09T18:11:45.810563Z",
+      "updatedAt": "2026-07-09T18:11:45.810578Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-10",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#MECHAS#CACTUS#\r\nTACHAS###GRUPAL\r\nUT#ADOPTARAN#NI\r\nMIELOMA#CACERAS\r\nANS##OREIS##ENT\r\nCAPAR#ARD#AMADO\r\nALEGA#FRO#RICOS\r\n##CONTRAFAGOT##\r\nFRITA#ARO#EPICO\r\nLIMES#SOL#LEVAR\r\nESE##TENIS##AZO\r\nCONJURA#CAMERUN\r\nHT#ENARBOLAR#EJ\r\nATESTE###TRILLA\r\n#OCIOSO#TAKADA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Que sucede por la mañana",
+              "answer": "MATINAL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "De 13 y 18",
+              "answer": "EC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Estola, manto que usan las mujeres",
+              "answer": "CHAL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Encadenamiento fatal de los sucesos",
+              "answer": "HADO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "De ningún modo, ni por…",
+              "answer": "ASOMO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Especie de vid silvestre",
+              "answer": "AGRAS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Eso me suena a quiebre",
+              "answer": "CRAC"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Auto-…\", procesador de audio que corrige errores vocales",
+              "answer": "TUNE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Película de Disney, ambientada en Canaima - Venezuela",
+              "answer": "UP"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "La herida se está curando, está…",
+              "answer": "SANANDO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Coloquial “Pan…”, que viene de catalán Pa amb tomàquet",
+              "answer": "TUMACA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Los astutos ya están preparados",
+              "answer": "LISTOS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Explicar un texto con tus propias palabras",
+              "answer": "PARAFRASEAR"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Importante vitamina para las embarazadas (2p)",
+              "answer": "ACIDOFOLICO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Que te empecines por este sujeto particular, es una locura",
+              "answer": "ESPECIMEN"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Poner en marcha algo detenido",
+              "answer": "REACTIVAR"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Metieron la pata",
+              "answer": "ERRARON"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Me cansé, no puedo más, me…",
+              "answer": "AGOTE"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Batracios, anuros",
+              "answer": "RANAS"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Capital de Argelia",
+              "answer": "ARGEL"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Este no ve bien",
+              "answer": "MIOPE"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Indicador de dirección",
+              "answer": "FLECHA"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Plato típico italiano a base de arroz, carne y parmesano",
+              "answer": "RISOTTO"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "“Bicho que vuela, a la… ”",
+              "answer": "CAZUELA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Seta de sombrerito anaranjado y pie de color dorado",
+              "answer": "ORONJA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Conduces algo hacia ti",
+              "answer": "TRAES"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Brinca",
+              "answer": "SALTA"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "A Jésica con cariño",
+              "answer": "JESI"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Aplico y extiendo materia pingüe sobre algo",
+              "answer": "UNTO"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Twain o Zuckerberg",
+              "answer": "MARK"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Terreno grande perteneciente a varios dueños",
+              "answer": "ERIA"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Inic Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'",
+              "answer": "EC"
+            },
+            "63": {
+              "col": 12,
+              "row": 13,
+              "clue": "Inic Actor protagonista de 'Titanic'",
+              "answer": "LD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Franjas del cabello teñidas de un tono diferente al resto",
+              "answer": "MECHAS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Planta de la familia de las Cactáceas, procedente de México",
+              "answer": "CACTUS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Pequeños clavos que se usan en los tableros de corcho",
+              "answer": "TACHAS"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Perteneciente o relativo al grupo",
+              "answer": "GRUPAL"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic de la prota de 'Kill Bill' de Tarantino",
+              "answer": "UT"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Acogerán a un animal como mascota",
+              "answer": "ADOPTARAN"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "\"… tan calvo, … con dos pelucas\"",
+              "answer": "NI"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tipo de cáncer de la médula ósea",
+              "answer": "MIELOMA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Todo lo que cazaste en Murcia (pl)",
+              "answer": "CACERAS"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Estos jeans no dan risa",
+              "answer": "ANS"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo mejor es que roguéis a Dios porque hay un serio desorden",
+              "answer": "OREIS"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Entiendo poco",
+              "answer": "ENT"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Extirpar los genitales",
+              "answer": "CAPAR"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Casi ardemos",
+              "answer": "ARD"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Apreciado, querido",
+              "answer": "AMADO"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Argumenta, expone a su favor",
+              "answer": "ALEGA"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Sufro sin el suyo",
+              "answer": "FRO"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Los críos enloquecidos con tanto dinero",
+              "answer": "RICOS"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Inst mus análogo al fagot",
+              "answer": "CONTRAFAGOT"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Como una papa en un local de comida rápida",
+              "answer": "FRITA"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "En la mira del baloncestista",
+              "answer": "ARO"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "No es nivel Dios, pero casi, es nivel…",
+              "answer": "EPICO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Frontera o límite del Imperio romano",
+              "answer": "LIMES"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Nota musical",
+              "answer": "SOL"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Recoger el ancla que está fondeada",
+              "answer": "LEVAR"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "La letra que señala",
+              "answer": "ESE"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Deporte de raqueta",
+              "answer": "TENIS"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Pedazo de brazo",
+              "answer": "AZO"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Conspiración secreta entre varios",
+              "answer": "CONJURA"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "País conocido como \"África en miniatura\" por su diversidad geológica",
+              "answer": "CAMERUN"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Dominio web para Haití",
+              "answer": "HT"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Izar una bandera en alto",
+              "answer": "ENARBOLAR"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Un pequeño ejemplo",
+              "answer": "EJ"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Parece que a éste lo rellené hasta la testa",
+              "answer": "ATESTE"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Separa el grano de la paja",
+              "answer": "TRILLA"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Sin oficio",
+              "answer": "OCIOSO"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "\"Kenzo…\" diseñador de moda japonés",
+              "answer": "TAKADA"
+            }
+          }
+        },
+        "vertical_clues": "1-Que sucede por la mañana\r\n2-De 13 y 18\r\n3-Estola, manto que usan las mujeres\r\n4-Encadenamiento fatal de los sucesos\r\n5-De ningún modo, ni por…\r\n7-Especie de vid silvestre\r\n8-Eso me suena a quiebre\r\n9-\"Auto-…\", procesador de audio que corrige errores vocales\r\n10-Película de Disney, ambientada en Canaima - Venezuela\r\n11-La herida se está curando, está…\r\n12-Coloquial “Pan…”, que viene de catalán Pa amb tomàquet\r\n14-Los astutos ya están preparados\r\n17-Explicar un texto con tus propias palabras\r\n18-Importante vitamina para las embarazadas (2p) \r\n21-Que te empecines por este sujeto particular, es una locura\r\n23-Poner en marcha algo detenido \r\n26-Metieron la pata\r\n29-Me cansé, no puedo más, me…\r\n30-Batracios, anuros\r\n32-Capital de Argelia\r\n33-Este no ve bien\r\n38-Indicador de dirección\r\n39-Plato típico italiano a base de arroz, carne y parmesano\r\n42-“Bicho que vuela, a la… ” \r\n43-Seta de sombrerito anaranjado y pie de color dorado\r\n48-Conduces algo hacia ti\r\n49-Brinca\r\n52-A Jésica con cariño\r\n53-Aplico y extiendo materia pingüe sobre algo\r\n55-Twain o Zuckerberg\r\n56-Terreno grande perteneciente a varios dueños\r\n61-Inic Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'\r\n63-Inic Actor protagonista de 'Titanic'\r\n",
+        "horizontal_clues": "1-Franjas del cabello teñidas de un tono diferente al resto\r\n6-Planta de la familia de las Cactáceas, procedente de México\r\n12-Pequeños clavos que se usan en los tableros de corcho\r\n13-Perteneciente o relativo al grupo\r\n15-Inic de la prota de 'Kill Bill' de Tarantino\r\n16-Acogerán a un animal como mascota\r\n19-\"… tan calvo, … con dos pelucas\" \r\n20-Tipo de cáncer de la médula ósea\r\n22-Todo lo que cazaste en Murcia (pl)\r\n24-Estos jeans no dan risa\r\n25-Lo mejor es que roguéis a Dios porque hay un serio desorden\r\n27-Entiendo poco\r\n28-Extirpar los genitales\r\n31-Casi ardemos\r\n32-Apreciado, querido\r\n34-Argumenta, expone a su favor\r\n35-Sufro sin el suyo\r\n36-Los críos enloquecidos con tanto dinero\r\n37-Inst mus análogo al fagot\r\n38-Como una papa en un local de comida rápida\r\n40-En la mira del baloncestista\r\n41-No es nivel Dios, pero casi, es nivel…\r\n44-Frontera o límite del Imperio romano\r\n45-Nota musical\r\n46-Recoger el ancla que está fondeada\r\n47-La letra que señala\r\n48-Deporte de raqueta\r\n50-Pedazo de brazo\r\n51-Conspiración secreta entre varios \r\n54-País conocido como \"África en miniatura\" por su diversidad geológica\r\n57-Dominio web para Haití\r\n58-Izar una bandera en alto \r\n59-Un pequeño ejemplo\r\n60-Parece que a éste lo rellené hasta la testa\r\n62-Separa el grano de la paja\r\n64-Sin oficio \r\n65-\"Kenzo…\" diseñador de moda japonés\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,18,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,25,#,26,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,31,#,#,#,32,33,#,#,#\r\n34,#,#,#,#,#,35,#,#,#,36,#,#,#,#\r\n#,#,37,#,#,#,#,#,#,#,#,#,#,#,#\r\n38,39,#,#,#,#,40,#,#,#,41,#,#,42,43\r\n44,#,#,#,#,#,45,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,#,#,#,49,#,#,50,#,#\r\n51,#,#,52,53,#,#,#,54,#,55,56,#,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,#,#,59,#\r\n60,#,61,#,#,#,#,#,#,62,#,#,63,#,#\r\n#,64,#,#,#,#,#,#,65,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

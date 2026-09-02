@@ -1,0 +1,511 @@
+{
+  "data": {
+    "id": 5869,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-20T22:14:04.327485Z",
+      "updatedAt": "2026-05-20T22:15:10.478967Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ESCAMA#AVS#MASC\r\nSUSTITUCIONES#H\r\nBS#ACOLARE#ROMA\r\nO#BUROCRACIA#EM\r\nZELDA#EULER#PIB\r\nADA###RS#SALERO\r\n#E#UREA###SAR#N\r\nINFRAESTRUCTURA\r\nR#EDT###ECOS#U#\r\nRATIOS#AT###OBS\r\nASA#NAOMI#TOSIA\r\nDI#MALVERSABA#L\r\nIOTA#SALARIO#CT\r\nE#INDEBIDAMENTE\r\nNEON#AAA#SASTRA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Traza un boceto o idea inicial",
+              "answer": "ESBOZA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Suyos",
+              "answer": "SUS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Gas lacrimógeno antidisturbios",
+              "answer": "CS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Féretro, sarcófago",
+              "answer": "ATAUD"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Unidad de longitud equivalente a la millonésima parte del metro",
+              "answer": "MICRA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Rescató al barco varado",
+              "answer": "ATOO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Género del microscópico siro, el de la harina o el grano",
+              "answer": "ACARUS"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Dicho del contenido que se difunde de forma multitudinaria",
+              "answer": "VIRAL"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Vulgares, groseros",
+              "answer": "SOECES"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "La Reina de Atlantis, la esposa de Acuamán",
+              "answer": "MERA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cocino al fuego",
+              "answer": "ASO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Torpe, poco habilidosa en el deporte",
+              "answer": "CHAMBONA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Lesiones abiertas en tejidos internos o externos",
+              "answer": "ULCERAS"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "\"Golda…\" primera y única mujer en ser primera ministra de Israel (1969",
+              "answer": "MEIR"
+            },
+            "19": {
+              "col": 2,
+              "row": 3,
+              "clue": "Voz que sugiere habladurías",
+              "answer": "BLA"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Me enfurezco, en latín arcaico",
+              "answer": "IRASCO"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "El Paraíso",
+              "answer": "EDEN"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "País cuna de la cultura Inca",
+              "answer": "PERU"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Moneda de Letonia anterior al euro",
+              "answer": "LATS"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Preparé los hilos en la urdidera para pasarlos al telar",
+              "answer": "URDI"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Visitante nocturna no invitada que lo roe todo",
+              "answer": "RATONA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Se repite en Nochevieja",
+              "answer": "EE"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Emitan energía o luz en todas direcciones",
+              "answer": "IRRADIEN"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Queso clásico de Grecia",
+              "answer": "FETA"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Quitad un producto de los anaqueles",
+              "answer": "RETIRAD"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Unidad de control",
+              "answer": "UC"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Piedra preciosa color rojo",
+              "answer": "RUBI"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "Género de las lechuzas y los búhos",
+              "answer": "ASIO"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Cotillea por diversión",
+              "answer": "SALSEA"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "\"… Earhart\" célebre aviadora estadounidense",
+              "answer": "AMELIA"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "¿Quién… a perturbar mi sueño?",
+              "answer": "OSA"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Cocina algo rápidamente en una sartén a fuego fuerte",
+              "answer": "SALTEA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Ponía huevos",
+              "answer": "OVABA"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Marihuana en japonés",
+              "answer": "TAIMA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Los instrumentos del obeso están desafinados",
+              "answer": "OBOES"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"Thomas…\" Nobel en 1929 por la novela 'Los Buddenbrook'",
+              "answer": "MANN"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Señoras",
+              "answer": "SRAS"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Hermano de su padre o madre",
+              "answer": "TIO"
+            },
+            "58": {
+              "col": 13,
+              "row": 12,
+              "clue": "Métrica que calcula la cantidad de clics que se hacen en un enlace",
+              "answer": "CTR"
+            },
+            "60": {
+              "col": 12,
+              "row": 13,
+              "clue": "Iniciales del inventor serbio que tenía mucha chispa",
+              "answer": "NT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lámina dérmica",
+              "answer": "ESCAMA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Asociación Valenciana de Sociología",
+              "answer": "AVS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Masculino en los crucigramas",
+              "answer": "MASC"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Reemplazos temporales de docentes ausentes (sin tanta 19H)",
+              "answer": "SUSTITUCIONES"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Iniciales del novelista irlandés autor de \"Drácula\"",
+              "answer": "BS"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Uniré los dos escudos nobiliarios",
+              "answer": "ACOLARE"
+            },
+            "17": {
+              "col": 11,
+              "row": 2,
+              "clue": "La Ciudad Eterna",
+              "answer": "ROMA"
+            },
+            "19": {
+              "col": 2,
+              "row": 3,
+              "clue": "Carga de tareas administrativas que los centros y los profes deben afrontar",
+              "answer": "BUROCRACIA"
+            },
+            "21": {
+              "col": 13,
+              "row": 3,
+              "clue": "Iniciales del dueño de Tesla",
+              "answer": "EM"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Videojuego de Nintendo sobre las aventuras de Link",
+              "answer": "ZELDA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Matemático suizo del siglo XVIII, famoso por su número",
+              "answer": "EULER"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Indicador económico de la riqueza de un país",
+              "answer": "PIB"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hada decapitada",
+              "answer": "ADA"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Inic de pintor de \"Las Estancias de Rafael\" en el Palacio Apostólico",
+              "answer": "RS"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Recipiente en que se sirve la sal en la mesa",
+              "answer": "SALERO"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Sustancia orgánica tóxica expulsada a través de la orina",
+              "answer": "UREA"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"En las orillas del…\" el último libro de poemas de Rosalía de Castro",
+              "answer": "SAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Condiciones materiales de los centros educativos",
+              "answer": "INFRAESTRUCTURA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Estructura de Desglose del Trabajo",
+              "answer": "EDT"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Ciertos fenómenos acústicos… cústicos… ústicos…",
+              "answer": "ECOS"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Número de alumnos por aula o por docente",
+              "answer": "RATIOS"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Antiguo Testamento",
+              "answer": "AT"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Software gratuito para retransmisiones en directo",
+              "answer": "OBS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Para coger la tasa",
+              "answer": "ASA"
+            },
+            "48": {
+              "col": 4,
+              "row": 10,
+              "clue": "La nueva superheroína de DC",
+              "answer": "NAOMI"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Se ahogaba con su respiración",
+              "answer": "TOSIA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Se apropiaba de fondos ajenos de forma deshonesta",
+              "answer": "MALVERSABA"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Novena letra del alfabeto griego, equivale a la \"i\" del latino",
+              "answer": "IOTA"
+            },
+            "57": {
+              "col": 5,
+              "row": 12,
+              "clue": "Retribución económica con cuya mejora loarías a los profes",
+              "answer": "SALARIO"
+            },
+            "58": {
+              "col": 13,
+              "row": 12,
+              "clue": "Charlize Theron",
+              "answer": "CT"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "De manera incorrecta o sin autorización",
+              "answer": "INDEBIDAMENTE"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Luz fluorescente",
+              "answer": "NEON"
+            },
+            "62": {
+              "col": 5,
+              "row": 14,
+              "clue": "Las pilas de mando de la Tv",
+              "answer": "AAA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "La colega del sastre",
+              "answer": "SASTRA"
+            }
+          }
+        },
+        "vertical_clues": "1-Traza un boceto o idea inicial \r\n2-Suyos\r\n3-Gas lacrimógeno antidisturbios\r\n4-Féretro, sarcófago\r\n5-Unidad de longitud equivalente a la millonésima parte del metro\r\n6-Rescató al barco varado\r\n7-Género del microscópico siro, el de la harina o el grano \r\n8-Dicho del contenido que se difunde de forma multitudinaria\r\n9-Vulgares, groseros\r\n10-La Reina de Atlantis, la esposa de Acuamán\r\n11-Cocino al fuego\r\n12-Torpe, poco habilidosa en el deporte \r\n14-Lesiones abiertas en tejidos internos o externos \r\n18-\"Golda…\" primera y única mujer en ser primera ministra de Israel (1969-74)\r\n19-Voz que sugiere habladurías\r\n20-Me enfurezco, en latín arcaico \r\n23-El Paraíso\r\n25-País cuna de la cultura Inca\r\n29-Moneda de Letonia anterior al euro\r\n30-Preparé los hilos en la urdidera para pasarlos al telar\r\n31-Visitante nocturna no invitada que lo roe todo \r\n32-Se repite en Nochevieja\r\n34-Emitan energía o luz en todas direcciones \r\n35-Queso clásico de Grecia\r\n36-Quitad un producto de los anaqueles \r\n37-Unidad de control\r\n38-Piedra preciosa color rojo\r\n42-Género de las lechuzas y los búhos \r\n43-Cotillea por diversión \r\n44-\"… Earhart\" célebre aviadora estadounidense\r\n45-¿Quién… a perturbar mi sueño? \r\n46-Cocina algo rápidamente en una sartén a fuego fuerte\r\n49-Ponía huevos\r\n50-Marihuana en japonés \r\n51-Los instrumentos del obeso están desafinados\r\n53-\"Thomas…\" Nobel en 1929 por la novela 'Los Buddenbrook'\r\n54-Señoras\r\n56-Hermano de su padre o madre\r\n58-Métrica que calcula la cantidad de clics que se hacen en un enlace\r\n60-Iniciales del inventor serbio que tenía mucha chispa",
+        "horizontal_clues": "1-Lámina dérmica\r\n7-Asociación Valenciana de Sociología \r\n10-Masculino en los crucigramas \r\n13-Reemplazos temporales de docentes ausentes (sin tanta 19H) \r\n15-Iniciales del novelista irlandés autor de \"Drácula\"\r\n16-Uniré los dos escudos nobiliarios\r\n17-La Ciudad Eterna\r\n19-Carga de tareas administrativas que los centros y los profes deben afrontar \r\n21-Iniciales del dueño de Tesla\r\n22-Videojuego de Nintendo sobre las aventuras de Link\r\n24-Matemático suizo del siglo XVIII, famoso por su número \r\n25-Indicador económico de la riqueza de un país \r\n26-Hada decapitada\r\n27-Inic de pintor de \"Las Estancias de Rafael\" en el Palacio Apostólico\r\n28-Recipiente en que se sirve la sal en la mesa\r\n30-Sustancia orgánica tóxica expulsada a través de la orina\r\n33-\"En las orillas del…\" el último libro de poemas de Rosalía de Castro\r\n34-Condiciones materiales de los centros educativos\r\n39-Estructura de Desglose del Trabajo \r\n40-Ciertos fenómenos acústicos… cústicos… ústicos…\r\n41-Número de alumnos por aula o por docente\r\n44-Antiguo Testamento \r\n45-Software gratuito para retransmisiones en directo \r\n47-Para coger la tasa\r\n48-La nueva superheroína de DC\r\n50-Se ahogaba con su respiración \r\n52-Pronuncia 501 en romano antiguo\r\n53-Se apropiaba de fondos ajenos de forma deshonesta \r\n55-Novena letra del alfabeto griego, equivale a la \"i\" del latino\r\n57-Retribución económica con cuya mejora loarías a los profes \r\n58-Charlize Theron\r\n59-De manera incorrecta o sin autorización \r\n61-Luz fluorescente\r\n62-Las pilas de mando de la Tv\r\n63-La colega del sastre",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,#,10,11,#,12\r\n13,#,#,#,#,#,14,#,#,#,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,17,#,18,#\r\n#,#,19,#,#,#,#,#,#,#,20,#,#,21,#\r\n22,23,#,#,#,#,24,#,#,#,#,#,25,#,#\r\n26,#,#,#,#,#,27,#,#,28,#,29,#,#,#\r\n#,#,#,30,31,32,#,#,#,#,33,#,#,#,#\r\n34,#,35,#,#,#,#,#,36,37,#,#,#,38,#\r\n#,#,39,#,#,#,#,#,40,#,#,#,#,#,#\r\n41,42,#,#,#,43,#,44,#,#,#,#,45,#,46\r\n47,#,#,#,48,#,49,#,#,#,50,51,#,#,#\r\n52,#,#,53,#,#,#,#,#,54,#,#,#,#,#\r\n55,#,56,#,#,57,#,#,#,#,#,#,#,58,#\r\n#,#,59,#,#,#,#,#,#,#,#,#,60,#,#\r\n61,#,#,#,#,62,#,#,#,63,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

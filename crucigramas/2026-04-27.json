@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5444,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-26T21:18:01.923830Z",
+      "updatedAt": "2026-04-26T21:19:01.723913Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACAMPADA#OPTIME\r\nRH#SOMETE#EIRAS\r\nRAF#SACERDOTE#T\r\nOTRA#SANTANA#MI\r\nBOAS#ANDEL##AEL\r\nA#CORROE#ASENTO\r\n#DALO##R#SISAIS\r\nPESADEZ#LIMPIDO\r\nAMASEN#E##BESA#\r\nRODEAR#MUFASA#P\r\nARO##OPINE#OBRO\r\nGA#COLOSAL#REUS\r\nU#LOBOTOMIA#LAT\r\nACASO#TROPAS#NE\r\nSTREEP#ASEGURAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Símbolo usado en las direcciones de correo electrónico",
+              "answer": "ARROBA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Vaso bajo y ancho para vino o sidra",
+              "answer": "CHATO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dominio web para Montserrat",
+              "answer": "MS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Prefijo para 'después de'",
+              "answer": "POS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Amarás como loco el faenar del panadero",
+              "answer": "AMASAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Nombrado para presidir una facultad universitaria",
+              "answer": "DECANO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Satisfacer un deseo, ruego o mandato",
+              "answer": "ATENDER"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pieza de menor valía en el ajedrez",
+              "answer": "PEON"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Mi tía, mi…",
+              "answer": "TITA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ahí estaré",
+              "answer": "IRE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Iniciales del emperador romano autor de 'Meditaciones'",
+              "answer": "MA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Sofisticado, con aire distinguido",
+              "answer": "ESTILOSO"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Despedido temporal",
+              "answer": "ERTE"
+            },
+            "19": {
+              "col": 2,
+              "row": 2,
+              "clue": "El que decide quedarse a vivir en el fracaso",
+              "answer": "FRACASADO"
+            },
+            "21": {
+              "col": 9,
+              "row": 2,
+              "clue": "Moneda oficial de Gambia",
+              "answer": "DALASI"
+            },
+            "23": {
+              "col": 3,
+              "row": 3,
+              "clue": "Destruyese, arruinase",
+              "answer": "ASOLASE"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Un error, una… de pata",
+              "answer": "METIDA"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "\"… … Conejo\" escritora española del libro \"Utopía\" (2P)",
+              "answer": "ANAISABEL"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Cerca, acorrala, circunscribe",
+              "answer": "RODEA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Personaje protagonista de 'El Rey León'",
+              "answer": "SIMBA"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "El grosor, el…",
+              "answer": "ESPESOR"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "Tardanza, retraso",
+              "answer": "DEMORA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Sombrilla",
+              "answer": "PARAGUAS"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Inscribo a alguien en el rol o lista",
+              "answer": "ENROLO"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Empresa de radiodifusión",
+              "answer": "EMISORA"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Juntemos una mosca con otra",
+              "answer": "UNAMOS"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "\"… Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia\"",
+              "answer": "FELIPE"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Afiche",
+              "answer": "POSTER"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"Mal de…\", otro nombre para la tuberculosis vertebral",
+              "answer": "POTT"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Manta protectora contra el frío",
+              "answer": "RUANA"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Une con hilo",
+              "answer": "COSE"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Instrumento musical de viento que termina en forma de campana",
+              "answer": "OBOE"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Grecia Antigua: Cada uno de los dioses del hogar",
+              "answer": "LAR"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "Alfa, Alfa, Golf",
+              "answer": "AAG"
+            },
+            "60": {
+              "col": 1,
+              "row": 13,
+              "clue": "Inic Representa a España en el Festival de Eurovisión 22",
+              "answer": "CT"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "Será suya más tarde",
+              "answer": "SU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lugar al aire libre donde conectar con la naturaleza por varias noches",
+              "answer": "ACAMPADA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "En tiempo de caos perfeccioné mi tope",
+              "answer": "OPTIME"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Símbolo químico del Rodio",
+              "answer": "RH"
+            },
+            "15": {
+              "col": 3,
+              "row": 1,
+              "clue": "Se deja controlar por otro, se…",
+              "answer": "SOMETE"
+            },
+            "17": {
+              "col": 10,
+              "row": 1,
+              "clue": "Otro de los nombres del hurón, mamífero carnívoro americano (pl)",
+              "answer": "EIRAS"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Historietista catalán, también conocido como Dino o Roldán",
+              "answer": "RAF"
+            },
+            "20": {
+              "col": 4,
+              "row": 2,
+              "clue": "Un cura",
+              "answer": "SACERDOTE"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Para que la banda toque una canción más, decimos repetidamente…",
+              "answer": "OTRA"
+            },
+            "24": {
+              "col": 5,
+              "row": 3,
+              "clue": "\"Manolo…\", extenista español",
+              "answer": "SANTANA"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Casi es mío",
+              "answer": "MI"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Soba descontrolado a las serpientes",
+              "answer": "BOAS"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Rodada o carril",
+              "answer": "ANDEL"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Al expandido (2p)",
+              "answer": "AEL"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Desgasta el metal como royéndolo",
+              "answer": "CORROE"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Dio por cierto",
+              "answer": "ASENTO"
+            },
+            "34": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"… por hecho\", créelo",
+              "answer": "DALO"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Hacéis una sisa en una prenda de vestir",
+              "answer": "SISAIS"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Obesidad del ánimo",
+              "answer": "PESADEZ"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Limpio, terso, puro",
+              "answer": "LIMPIDO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Trabajen los pizzeros",
+              "answer": "AMASEN"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Oprime con un movimiento de labios",
+              "answer": "BESA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cercar algo poniéndolo en medio",
+              "answer": "RODEAR"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Padre de Simba en \"El Rey León\"",
+              "answer": "MUFASA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "En la mira del baloncestista",
+              "answer": "ARO"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Dije lo que pienso",
+              "answer": "OPINE"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Trabajo en el robo del boro",
+              "answer": "OBRO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Enorme, de dimensiones extraordinarias",
+              "answer": "COLOSAL"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Ciudad natal de Gaudí",
+              "answer": "REUS"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Incisión quirúrgica en un lóbulo cerebral (toda una aberración médica)",
+              "answer": "LOBOTOMIA"
+            },
+            "58": {
+              "col": 12,
+              "row": 12,
+              "clue": "Abreviatura de Latín",
+              "answer": "LAT"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Por si las moscas, por si…",
+              "answer": "ACASO"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Milicia Cuerpos que componen un ejército",
+              "answer": "TROPAS"
+            },
+            "63": {
+              "col": 13,
+              "row": 13,
+              "clue": "Símbolo químico del neón",
+              "answer": "NE"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Interpreta a Miranda Priestly en 'El Diablo viste de Prada'",
+              "answer": "STREEP"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "Pagar una póliza",
+              "answer": "ASEGURAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Símbolo usado en las direcciones de correo electrónico\r\n2-Vaso bajo y ancho para vino o sidra \r\n3-Dominio web para Montserrat\r\n4-Prefijo para 'después de'\r\n5-Amarás como loco el faenar del panadero\r\n6-Nombrado para presidir una facultad universitaria\r\n7-Satisfacer un deseo, ruego o mandato\r\n9-Pieza de menor valía en el ajedrez\r\n10-Mi tía, mi…\r\n11-Ahí estaré\r\n12-Iniciales del emperador romano autor de 'Meditaciones'\r\n13-Sofisticado, con aire distinguido \r\n16-Despedido temporal\r\n19-El que decide quedarse a vivir en el fracaso\r\n21-Moneda oficial de Gambia\r\n23-Destruyese, arruinase\r\n25-Un error, una… de pata\r\n28-\"… … Conejo\" escritora española del libro \"Utopía\" (2P) \r\n30-Cerca, acorrala, circunscribe\r\n32-Personaje protagonista de 'El Rey León'\r\n33-El grosor, el…\r\n34-Tardanza, retraso\r\n36-Sombrilla\r\n37-Inscribo a alguien en el rol o lista\r\n40-Empresa de radiodifusión\r\n44-Juntemos una mosca con otra\r\n45-\"… Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia\"\r\n46-Afiche\r\n49-\"Mal de…\", otro nombre para la tuberculosis vertebral\r\n51-Manta protectora contra el frío\r\n53-Une con hilo\r\n54-Instrumento musical de viento que termina en forma de campana\r\n56-Grecia Antigua: Cada uno de los dioses del hogar\r\n57-Alfa, Alfa, Golf \r\n60-Inic Representa a España en el Festival de Eurovisión 22\r\n62-Será suya más tarde",
+        "horizontal_clues": "1-Lugar al aire libre donde conectar con la naturaleza por varias noches\r\n8-En tiempo de caos perfeccioné mi tope\r\n14-Símbolo químico del Rodio\r\n15-Se deja controlar por otro, se…\r\n17-Otro de los nombres del hurón, mamífero carnívoro americano (pl)\r\n18-Historietista catalán, también conocido como Dino o Roldán\r\n20-Un cura\r\n22-Para que la banda toque una canción más, decimos repetidamente…\r\n24-\"Manolo…\", extenista español\r\n25-Casi es mío\r\n26-Soba descontrolado a las serpientes\r\n27-Rodada o carril\r\n28-Al expandido (2p) \r\n29-Desgasta el metal como royéndolo\r\n31-Dio por cierto\r\n34-\"… por hecho\", créelo\r\n35-Hacéis una sisa en una prenda de vestir\r\n36-Obesidad del ánimo\r\n38-Limpio, terso, puro\r\n39-Trabajen los pizzeros\r\n41-Oprime con un movimiento de labios\r\n42-Cercar algo poniéndolo en medio\r\n43-Padre de Simba en \"El Rey León\"\r\n47-En la mira del baloncestista\r\n48-Dije lo que pienso\r\n50-Trabajo en el robo del boro\r\n52-Piel de gallina\r\n53-Enorme, de dimensiones extraordinarias\r\n55-Ciudad natal de Gaudí\r\n56-Incisión quirúrgica en un lóbulo cerebral (toda una aberración médica)\r\n58-Abreviatura de Latín\r\n59-Por si las moscas, por si…\r\n61-Milicia Cuerpos que componen un ejército\r\n63-Símbolo químico del neón\r\n64-Interpreta a Miranda Priestly en 'El Diablo viste de Prada'\r\n65-Pagar una póliza",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,15,#,#,#,#,16,#,17,#,#,#,#\r\n18,#,19,#,20,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,#,#,25,#\r\n26,#,#,#,#,27,#,#,#,#,#,#,28,#,#\r\n#,#,29,#,30,#,#,#,#,31,32,33,#,#,#\r\n#,34,#,#,#,#,#,#,#,35,#,#,#,#,#\r\n36,#,#,#,#,37,#,#,38,#,#,#,#,#,#\r\n39,#,#,#,#,#,#,40,#,#,41,#,#,#,#\r\n42,#,#,#,#,#,#,43,44,45,#,#,#,#,46\r\n47,#,#,#,#,48,49,#,#,#,#,50,#,51,#\r\n52,#,#,53,54,#,#,#,#,#,#,55,#,#,#\r\n#,#,56,#,#,#,#,#,#,#,57,#,58,#,#\r\n59,60,#,#,#,#,61,#,#,#,#,62,#,63,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

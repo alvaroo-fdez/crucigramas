@@ -1,0 +1,453 @@
+{
+  "data": {
+    "id": 1193,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-13T16:35:57.432636Z",
+      "updatedAt": "2024-11-13T16:35:57.466051Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-19",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DIFUSORA#APORIA\r\nE#EXORAR#FOTO#C\r\nSON#MIME#ATONTE\r\nABORIGEN#BARDAL\r\nMUTE#ING#LIGASE\r\nATIZAN#ATESORAR\r\n##PALABRA#####A\r\nGROSERO#TATAMIS\r\nU#####APODADO##\r\nATACANTE#VUELTO\r\nREBASO#ISE#LEON\r\nAPORTE#NORDESTE\r\nCERCAS#ESTE#TEZ\r\nH#DADI#TAICHI#C\r\nABEJAS#ARROPADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Deja de amar, abandona el cariño",
+              "answer": "DESAMA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Manifestación visible de los genes",
+              "answer": "FENOTIPO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Siglas en inglés para Experiencia de Usuario",
+              "answer": "UX"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Somieres rotos",
+              "answer": "SOMI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Dar comienzo a algo",
+              "answer": "ORIGINAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "La comida favorita de Naruto",
+              "answer": "RAMEN"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Motivar a un equipo mediante un discurso",
+              "answer": "ARENGAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Suave en la conversación y el trato",
+              "answer": "AFABLE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vomitáis, devolvéis",
+              "answer": "POTAIS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Doy, concedo",
+              "answer": "OTORGO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Estar alrededor de, oscilar, por ejemplo los precios",
+              "answer": "RONDAR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Aumentas la velocidad",
+              "answer": "ACELERAS"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Sube por una cañería",
+              "answer": "OBUT"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tributo por ciertos servicios",
+              "answer": "TASA"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Le ruegas a Dios",
+              "answer": "REZAS"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Ni lager ni pilsen",
+              "answer": "ALE"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "España Hermano del mismo padre y madre",
+              "answer": "TATO"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Barco en inglés",
+              "answer": "BOAT"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Baile cubano con ritmo alegre",
+              "answer": "GUARACHA"
+            },
+            "34": {
+              "col": 9,
+              "row": 7,
+              "clue": "Avisar de un peligro inminente",
+              "answer": "ADVERTIR"
+            },
+            "35": {
+              "col": 10,
+              "row": 7,
+              "clue": "La T griega",
+              "answer": "TAU"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Famosa cantante británica",
+              "answer": "ADELE"
+            },
+            "37": {
+              "col": 12,
+              "row": 7,
+              "clue": "Incomodidad física o emocional",
+              "answer": "MOLESTIA"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Peine convexo que usan las mujeres por adorno o para asegurar el peinado",
+              "answer": "PEINETA"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Pedazo de tierra usado para trasplantar terrenos",
+              "answer": "TEPE"
+            },
+            "42": {
+              "col": 2,
+              "row": 9,
+              "clue": "Subí al avión, lo…",
+              "answer": "ABORDE"
+            },
+            "43": {
+              "col": 3,
+              "row": 9,
+              "clue": "El estuche del arquero",
+              "answer": "CARCAJ"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "Provista de asta",
+              "answer": "ASTADA"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Filosofía Visión intelectual, pensamiento",
+              "answer": "NOESIS"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"…King\" rapero español",
+              "answer": "TOTE"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "España Crezco, aprovecho",
+              "answer": "ONEZCO"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Terreno en que abunda la sosa",
+              "answer": "SOSAR"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"Art…\" movimiento artístico que seguía Tamara de Lempicka",
+              "answer": "DECO"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo de la unidad \"caballos de fuerza\"",
+              "answer": "HP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Emisora de radio o televisión",
+              "answer": "DIFUSORA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Fil Razonamiento irresoluble, inviable",
+              "answer": "APORIA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Pedir, solicitar con empeño",
+              "answer": "EXORAR"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Captura de un instante",
+              "answer": "FOTO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Sonido que afecta agradablemente al oído",
+              "answer": "SON"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Consentí, cuidé a mi niña",
+              "answer": "MIME"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Embobe, entontezca",
+              "answer": "ATONTE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Nativo de un país, contrario al habitante posterior",
+              "answer": "ABORIGEN"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Barda, cubierta de espinos",
+              "answer": "BARDAL"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tv en silencio",
+              "answer": "MUTE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sufijo que forma, en el verbo, el gerundio en inglés",
+              "answer": "ING"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Conquistase a una chica",
+              "answer": "LIGASE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Remueven el fuego para que arda más",
+              "answer": "ATIZAN"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Acumular riquezas con avaricia",
+              "answer": "ATESORAR"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"Es tu …, contra la mía\"",
+              "answer": "PALABRA"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Vulgar, soez",
+              "answer": "GROSERO"
+            },
+            "33": {
+              "col": 8,
+              "row": 7,
+              "clue": "Tapices acolchados para practicar kárate",
+              "answer": "TATAMIS"
+            },
+            "38": {
+              "col": 6,
+              "row": 8,
+              "clue": "Conocido como, llamado por su mote",
+              "answer": "APODADO"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Agresor, asaltante",
+              "answer": "ATACANTE"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "Cambio en monedas tras una compra",
+              "answer": "VUELTO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pasó o excedió cierto límite",
+              "answer": "REBASO"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Último trago de un tequila sunrise",
+              "answer": "ISE"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "El rey del Serengueti",
+              "answer": "LEON"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Apretó correctamente para recibir la contribución",
+              "answer": "APORTE"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Punto cardinal entre norte y este",
+              "answer": "NORDESTE"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Resguardas un sitio con vallas",
+              "answer": "CERCAS"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "\"Bloque del…\" liderado por la URSS, durante la Guerra Fría",
+              "answer": "ESTE"
+            },
+            "58": {
+              "col": 12,
+              "row": 12,
+              "clue": "Superficie del rostro humano",
+              "answer": "TEZ"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "No completas las dádivas porque te quedas en casa",
+              "answer": "DADI"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Arte marcial chino con movimientos lentos y fluidos",
+              "answer": "TAICHI"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "No las mates, son insectos imprescindibles",
+              "answer": "ABEJAS"
+            },
+            "63": {
+              "col": 7,
+              "row": 14,
+              "clue": "Abrigado con cariño",
+              "answer": "ARROPADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Deja de amar, abandona el cariño\r\n2-Manifestación visible de los genes \r\n3-Siglas en inglés para Experiencia de Usuario\r\n4-Somieres rotos\r\n5-Dar comienzo a algo \r\n6-La comida favorita de Naruto\r\n7-Motivar a un equipo mediante un discurso\r\n8-Suave en la conversación y el trato\r\n9-Vomitáis, devolvéis\r\n10-Doy, concedo\r\n11-Estar alrededor de, oscilar, por ejemplo los precios\r\n12-Aumentas la velocidad \r\n16-Sube por una cañería\r\n19-Tributo por ciertos servicios\r\n21-Le ruegas a Dios\r\n27-Ni lager ni pilsen\r\n29-España Hermano del mismo padre y madre\r\n31-Barco en inglés\r\n32-Baile cubano con ritmo alegre \r\n34-Avisar de un peligro inminente \r\n35-La T griega\r\n36-Famosa cantante británica\r\n37-Incomodidad física o emocional \r\n39-Peine convexo que usan las mujeres por adorno o para asegurar el peinado\r\n41-Pedazo de tierra usado para trasplantar terrenos\r\n42-Subí al avión, lo…\r\n43-El estuche del arquero\r\n44-Provista de asta\r\n45-Filosofía Visión intelectual, pensamiento\r\n47-\"…King\" rapero español\r\n48-España Crezco, aprovecho\r\n51-Terreno en que abunda la sosa\r\n55-\"Art…\" movimiento artístico que seguía Tamara de Lempicka\r\n61-Símbolo de la unidad \"caballos de fuerza\"\r\n",
+        "horizontal_clues": "1-Emisora de radio o televisión \r\n8-Fil Razonamiento irresoluble, inviable\r\n13-Pedir, solicitar con empeño\r\n14-Captura de un instante\r\n15-Sonido que afecta agradablemente al oído\r\n17-Consentí, cuidé a mi niña\r\n18-Embobe, entontezca\r\n20-Nativo de un país, contrario al habitante posterior\r\n22-Barda, cubierta de espinos\r\n23-Tv en silencio\r\n24-Sufijo que forma, en el verbo, el gerundio en inglés\r\n25-Conquistase a una chica\r\n26-Remueven el fuego para que arda más\r\n28-Acumular riquezas con avaricia \r\n30-\"Es tu …, contra la mía\"\r\n32-Vulgar, soez\r\n33-Tapices acolchados para practicar kárate\r\n38-Conocido como, llamado por su mote\r\n40-Agresor, asaltante\r\n46-Cambio en monedas tras una compra \r\n49-Pasó o excedió cierto límite\r\n50-Último trago de un tequila sunrise\r\n52-El rey del Serengueti\r\n53-Apretó correctamente para recibir la contribución\r\n54-Punto cardinal entre norte y este \r\n56-Resguardas un sitio con vallas\r\n57-\"Bloque del…\" liderado por la URSS, durante la Guerra Fría\r\n58-Superficie del rostro humano\r\n59-No completas las dádivas porque te quedas en casa\r\n60-Arte marcial chino con movimientos lentos y fluidos\r\n62-No las mates, son insectos imprescindibles\r\n63-Abrigado con cariño \r\n",
+        "board_clues_positions": "1,#,2,3,4,5,6,7,#,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,#,#,14,#,#,#,#,#\r\n15,16,#,#,17,#,#,#,#,18,#,#,#,19,#\r\n20,#,#,21,#,#,#,#,#,22,#,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,#,#,#,#\r\n26,#,#,#,27,#,#,28,29,#,#,#,#,#,#\r\n#,#,30,#,#,#,31,#,#,#,#,#,#,#,#\r\n32,#,#,#,#,#,#,#,33,34,35,36,37,#,#\r\n#,#,#,#,#,#,38,39,#,#,#,#,#,#,#\r\n40,41,42,43,44,45,#,#,#,46,#,#,#,47,48\r\n49,#,#,#,#,#,#,50,51,#,#,52,#,#,#\r\n53,#,#,#,#,#,#,54,#,#,55,#,#,#,#\r\n56,#,#,#,#,#,#,57,#,#,#,#,58,#,#\r\n#,#,59,#,#,#,#,60,#,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,63,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

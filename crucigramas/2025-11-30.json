@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 3919,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:48.180654Z",
+      "updatedAt": "2025-10-30T17:55:48.190080Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-30",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "APIADADO#OPTIME\r\nSUBLEVAR#NIEGAN\r\nINMOVIL#C#SANTI\r\nGE#COSIDAS#TETO\r\nN#MATA#ESPIRA##\r\nAGUDA#ESTELA#PP\r\nTUFO#R#PAELLERA\r\nURL#MORISCO#VIS\r\nRUANESES#H#POST\r\nAS#ORBITA#DECAI\r\n##AMAINA#PERO#L\r\nRETA#FORRAJE#FL\r\nAPODE#S#OPACARE\r\nSONABA#OBEDECER\r\nACOSTO#COLORADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cada materia del plan de estudios de una carrera universitaria",
+              "answer": "ASIGNATURA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Castiga al culpado",
+              "answer": "PUNE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Empresa creadora del primer procesador cuántico de uso comercial",
+              "answer": "IBM"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Atolondrado, desatinado",
+              "answer": "ALOCADO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Dedicada con fervor a obras de piedad y religión",
+              "answer": "DEVOTA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Notifica, anuncia",
+              "answer": "AVISA"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"Salvador…\", pintor español exponente del surrealismo",
+              "answer": "DALI"
+            },
+            "8": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo poco que queda de mi amor",
+              "answer": "OR"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "En el fondo del tazón",
+              "answer": "ON"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Coloquial Orina, orín",
+              "answer": "PIS"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Actitud efectista, exagerada, para llamar la atención",
+              "answer": "TEATRAL"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tipo de roca que se forma cuando el magma se enfría",
+              "answer": "IGNEA"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… LeBlanc\", Joey Tribbiani en 'Friends'",
+              "answer": "MATT"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "La hermana de Ares, la 'Destructora de Ciudades'",
+              "answer": "ENIO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Grupos sociales de la India",
+              "answer": "CASTAS"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Pst… ey… pst… ey… ¡EY! Esta pista es para distraer",
+              "answer": "DESPISTAR"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Discurso de Donald Trump",
+              "answer": "SPEECH"
+            },
+            "25": {
+              "col": 2,
+              "row": 4,
+              "clue": "Tipo de horno",
+              "answer": "MUFLA"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "¡Chiquillo, tú eres malagueño!",
+              "answer": "ILLO"
+            },
+            "29": {
+              "col": 1,
+              "row": 5,
+              "clue": "Maestros espirituales",
+              "answer": "GURUS"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Prontitud y rapidez con que sucede o se ejecuta algo",
+              "answer": "PRISA"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Estuche para guardar una pequeña medicación",
+              "answer": "PASTILLERO"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Pieza de carne de vacuno asada",
+              "answer": "ROSBIF"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Traigo algo a la memoria o a la imaginación",
+              "answer": "EVOCO"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "La Reina de Atlantis, la esposa de Acuamán",
+              "answer": "MERA"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "\"Los Siete…\" los que pelean por el Trono de Hierro",
+              "answer": "REINOS"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Trabajadores digitales que están en constante viaje",
+              "answer": "NOMADAS"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Puede parecer que va a morir",
+              "answer": "PERECER"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Apático, desganado, indiferente",
+              "answer": "DEJADO"
+            },
+            "47": {
+              "col": 2,
+              "row": 10,
+              "clue": "Fonética Inacentuado",
+              "answer": "ATONO"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Piedra, … o tijera\"",
+              "answer": "PAPEL"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Que pasa o se mueve a poca altura del suelo (fem)",
+              "answer": "RASA"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Enfermedad pulmonar obstructiva crónica",
+              "answer": "EPOC"
+            },
+            "52": {
+              "col": 8,
+              "row": 11,
+              "clue": "Obró mal y se llevó todo el boro",
+              "answer": "ROBO"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "El chico rubio de Scooby Doo",
+              "answer": "FRED"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Empresa de base tecnológica",
+              "answer": "EBT"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "'De… para allá'",
+              "answer": "ACA"
+            },
+            "59": {
+              "col": 5,
+              "row": 13,
+              "clue": "Cola del bacalao",
+              "answer": "AO"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Dentro de poco",
+              "answer": "OC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ha tenido piedad, se ha…",
+              "answer": "APIADADO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "En tiempo de caos perfeccioné mi tope",
+              "answer": "OPTIME"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Parece que en el bulevar se va rebelar la gente",
+              "answer": "SUBLEVAR"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Desmienten, rebaten, refutan",
+              "answer": "NIEGAN"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "No te muevas, quédate…",
+              "answer": "INMOVIL"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Apodo de centrocampista ambidiestro, español",
+              "answer": "SANTI"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Empieza la gesta",
+              "answer": "GE"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Unidas con hilo",
+              "answer": "COSIDAS"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "Doy la teta",
+              "answer": "TETO"
+            },
+            "25": {
+              "col": 2,
+              "row": 4,
+              "clue": "Quita la vida de la planta",
+              "answer": "MATA"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Vuelta completa de una línea en hélice",
+              "answer": "ESPIRA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Punzante, afilada",
+              "answer": "AGUDA"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Vaya tela con el chemtrail",
+              "answer": "ESTELA"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Lo que tienen en común el Pablo Picasso y Peso Pluma",
+              "answer": "PP"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Mal olor de las axilas",
+              "answer": "TUFO"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "Recipiente en el que se cocina un típico plato español",
+              "answer": "PAELLERA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Dirección web",
+              "answer": "URL"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Descendiente de musulmanes en la España medieval",
+              "answer": "MORISCO"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "\"… a …\" visita privada de un reo",
+              "answer": "VIS"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Nacidos en Ruan, Francia",
+              "answer": "RUANESES"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Una publicación en redes (voz inglesa)",
+              "answer": "POST"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Carta de la baraja",
+              "answer": "AS"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Trayectoria curva de un cuerpo en movimiento alrededor de un centro",
+              "answer": "ORBITA"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Me vine abajo",
+              "answer": "DECAI"
+            },
+            "47": {
+              "col": 2,
+              "row": 10,
+              "clue": "Pierde su fuerza",
+              "answer": "AMAINA"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Sí… no\" canción del último álbum de Sho Hai",
+              "answer": "PERO"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Desafía a duelo",
+              "answer": "RETA"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "Hierba primaveral para el ganado",
+              "answer": "FORRAJE"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "Código postal de Florida en USA",
+              "answer": "FL"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Coloque un pseudónimo",
+              "answer": "APODE"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Oscureceré, nublaré",
+              "answer": "OPACARE"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Hacía ruido",
+              "answer": "SONABA"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Hacer caso",
+              "answer": "OBEDECER"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Se echó en la cama, se…",
+              "answer": "ACOSTO"
+            },
+            "62": {
+              "col": 7,
+              "row": 14,
+              "clue": "Gran desierto de EEUU",
+              "answer": "COLORADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Cada materia del plan de estudios de una carrera universitaria\r\n2-Castiga al culpado\r\n3-Empresa creadora del primer procesador cuántico de uso comercial\r\n4-Atolondrado, desatinado\r\n5-Dedicada con fervor a obras de piedad y religión\r\n6-Notifica, anuncia\r\n7-\"Salvador…\", pintor español exponente del surrealismo\r\n8-Lo poco que queda de mi amor\r\n9-En el fondo del tazón\r\n10-Coloquial Orina, orín\r\n11-Actitud efectista, exagerada, para llamar la atención\r\n12-Tipo de roca que se forma cuando el magma se enfría\r\n13-\"… LeBlanc\", Joey Tribbiani en 'Friends'\r\n14-La hermana de Ares, la 'Destructora de Ciudades'\r\n18-Grupos sociales de la India\r\n22-Pst… ey… pst… ey… ¡EY! Esta pista es para distraer\r\n23-Discurso de Donald Trump\r\n25-Tipo de horno\r\n27-¡Chiquillo, tú eres malagueño!\r\n29-Maestros espirituales\r\n31-Prontitud y rapidez con que sucede o se ejecuta algo\r\n32-Estuche para guardar una pequeña medicación\r\n34-Pieza de carne de vacuno asada\r\n36-Traigo algo a la memoria o a la imaginación\r\n38-La Reina de Atlantis, la esposa de Acuamán\r\n39-\"Los Siete…\" los que pelean por el Trono de Hierro\r\n42-Trabajadores digitales que están en constante viaje\r\n43-Puede parecer que va a morir\r\n46-Apático, desganado, indiferente\r\n47-Fonética Inacentuado\r\n48-\"Piedra, … o tijera\"\r\n49-Que pasa o se mueve a poca altura del suelo (fem)\r\n50-Enfermedad pulmonar obstructiva crónica\r\n52-Obró mal y se llevó todo el boro\r\n53-El chico rubio de Scooby Doo\r\n55-Empresa de base tecnológica\r\n57-'De… para allá'\r\n59-Cola del bacalao\r\n60-Dentro de poco\r\n",
+        "horizontal_clues": "1-Ha tenido piedad, se ha…\r\n9-En tiempo de caos perfeccioné mi tope\r\n15-Parece que en el bulevar se va rebelar la gente\r\n16-Desmienten, rebaten, refutan\r\n17-No te muevas, quédate…\r\n19-Apodo de centrocampista ambidiestro, español\r\n20-Empieza la gesta\r\n21-Unidas con hilo\r\n24-Doy la teta\r\n25-Quita la vida de la planta\r\n26-Vuelta completa de una línea en hélice\r\n28-Punzante, afilada\r\n30-Vaya tela con el chemtrail\r\n31-Lo que tienen en común el Pablo Picasso y Peso Pluma\r\n33-Mal olor de las axilas\r\n35-Recipiente en el que se cocina un típico plato español\r\n37-Dirección web\r\n38-Descendiente de musulmanes en la España medieval\r\n40-\"… a …\" visita privada de un reo\r\n41-Nacidos en Ruan, Francia\r\n43-Una publicación en redes (voz inglesa)\r\n44-Carta de la baraja\r\n45-Trayectoria curva de un cuerpo en movimiento alrededor de un centro\r\n46-Me vine abajo\r\n47-Pierde su fuerza\r\n48-\"Sí… no\" canción del último álbum de Sho Hai\r\n49-Desafía a duelo\r\n51-Hierba primaveral para el ganado\r\n53-Código postal de Florida en USA\r\n54-Coloque un pseudónimo\r\n56-Oscureceré, nublaré\r\n58-Hacía ruido\r\n60-Hacer caso\r\n61-Se echó en la cama, se…\r\n62-Gran desierto de EEUU\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,8,#,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,#,#,16,#,#,#,#,#\r\n17,#,#,#,#,#,#,#,18,#,19,#,#,#,#\r\n20,#,#,21,#,#,#,22,#,23,#,24,#,#,#\r\n#,#,25,#,#,#,#,26,#,#,27,#,#,#,#\r\n28,29,#,#,#,#,30,#,#,#,#,#,#,31,32\r\n33,#,#,#,#,34,#,35,#,#,#,#,36,#,#\r\n37,#,#,#,38,#,39,#,#,#,#,#,40,#,#\r\n41,#,#,42,#,#,#,#,#,#,#,43,#,#,#\r\n44,#,#,45,#,#,#,#,#,#,46,#,#,#,#\r\n#,#,47,#,#,#,#,#,#,48,#,#,#,#,#\r\n49,50,#,#,#,51,#,#,52,#,#,#,#,53,#\r\n54,#,#,#,55,#,#,#,56,#,#,#,57,#,#\r\n58,#,#,#,#,59,#,60,#,#,#,#,#,#,#\r\n61,#,#,#,#,#,#,62,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

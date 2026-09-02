@@ -1,0 +1,529 @@
+{
+  "data": {
+    "id": 6866,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-06T01:14:40.980020Z",
+      "updatedAt": "2026-08-06T01:16:14.996184Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MICK#LUCIR#APTO\r\nODIA#USASE#MIAS\r\nMENTON#TRIFULCA\r\nAMERICA#ANILLOS\r\n##FICHAS#OJEA##\r\nCHINA#FOX#ATRAS\r\nAULA#B#L#EDO#VE\r\nMIO#POQUITO#RIP\r\nED#CIA#B#A#PELA\r\nLACON#ALA#DADAS\r\n##ONZA#EMPEÑO##\r\nNARVASO#ORIUNDO\r\nAGRESION#ASEDIE\r\nDRAX#ROBIN#LEMA\r\nEOLO#AHOGA#OLEO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Museo donde se expone \"Las señoritas de Avignon\" de Picasso",
+              "answer": "MOMA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Lo calculé de vuelta y es lo mismo",
+              "answer": "IDEM"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Aficionado apasionado del séptimo arte",
+              "answer": "CINEFILO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "El huracán más costoso de USA",
+              "answer": "KATRINA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Merienda",
+              "answer": "LUNCH"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "En páginas web estadounidenses",
+              "answer": "US"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Gato londinense",
+              "answer": "CAT"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "A Israel cuando era pequeño",
+              "answer": "ISRA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Organización política en monarquía",
+              "answer": "REINO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Una especie de talismán protector",
+              "answer": "AMULETO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Atrapar, coger",
+              "answer": "PILLAR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Tortilla de maíz enrollada, típica de México",
+              "answer": "TACO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Te aventuras, te arriesgas",
+              "answer": "OSAS"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Org Internacional de Constructores de Automóviles",
+              "answer": "OICA"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Sujetado firmemente en su sitio",
+              "answer": "FIJADO"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "Alfa, Alfa, Foxtrot",
+              "answer": "AAF"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Que se disuelve fácilmente en agua",
+              "answer": "SOLUBLE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Los cigarros del camello",
+              "answer": "CAMEL"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Escapada",
+              "answer": "HUIDA"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Ciudad amurallada de Castilla y León",
+              "answer": "AVILA"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Que pases por las pesas y así te enteres",
+              "answer": "SEPAS"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Serpiente americana",
+              "answer": "BOA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Cola de avioneta",
+              "answer": "ETA"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Con lo que hay que coger un asunto, cuando es muy delicado",
+              "answer": "PINZAS"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Espacio circular donde los toreros hacen su arte",
+              "answer": "REDONDEL"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Curvado hacia afuera, como una lente",
+              "answer": "CONVEXO"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Tela pequeña para sonarse o adornar el cuello",
+              "answer": "PAÑUELO"
+            },
+            "44": {
+              "col": 2,
+              "row": 9,
+              "clue": "Los mejores pollos, los del…",
+              "answer": "CORRAL"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Dueño de esclavos",
+              "answer": "AMO"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Entreguéis, otorguéis",
+              "answer": "DEIS"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Cogerá con la mano",
+              "answer": "ASIRA"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Hinduismo: Energía vital que conecta todo lo que hay en el universo",
+              "answer": "PRANA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Impúlsese en el agua con la fuerza de sus brazos",
+              "answer": "NADE"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Prefijo que refiere al campo",
+              "answer": "AGRO"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Voz de mucho asombro",
+              "answer": "OOOH"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Háblame, coméntame",
+              "answer": "DIME"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "En el océano, perdió 100 liras y el nitrógeno",
+              "answer": "OEAO"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Código IATA del aeropuerto de Nairobi",
+              "answer": "NBO"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Índice Glucémico",
+              "answer": "IG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "F1 El hijo de Michael Schumacher, excorredor de la escudería Hass",
+              "answer": "MICK"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Llevar a la vista, exhibir lo que alguien se ha puesto",
+              "answer": "LUCIR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Se topa con un pato capacitado",
+              "answer": "APTO"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Detesta, aborrece",
+              "answer": "ODIA"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Emplease, utilizase",
+              "answer": "USASE"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Farrow, Khalifa y Wasikowska, las tres juntas",
+              "answer": "MIAS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Barbilla",
+              "answer": "MENTON"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Pelea callejera con gritos y empujones",
+              "answer": "TRIFULCA"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Desde Alaska hasta la Patagonia",
+              "answer": "AMERICA"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Aros, argollas",
+              "answer": "ANILLOS"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Piezas circulares para juegos de mesa",
+              "answer": "FICHAS"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Echa un vistazo",
+              "answer": "OJEA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "País donde se originó la pandemia",
+              "answer": "CHINA"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Cadena de televisión estadounidense con zorro en el logo",
+              "answer": "FOX"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "A las espaldas de alguien",
+              "answer": "ATRAS"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Sala donde se imparten las clases",
+              "answer": "AULA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Un microestado",
+              "answer": "EDO"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Observa cómo empieza la vejez",
+              "answer": "VE"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "De mi propiedad",
+              "answer": "MIO"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Cantidad muy pequeña de algo",
+              "answer": "POQUITO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Descanse en paz",
+              "answer": "RIP"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Emily Dickinson (célebre poetisa)",
+              "answer": "ED"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Agencia de inteligencia estadounidense (siglas)",
+              "answer": "CIA"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Quita la cáscara a la naranja",
+              "answer": "PELA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Brazuelo del cerdo",
+              "answer": "LACON"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Malala expulsó la maldad",
+              "answer": "ALA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Inclinadas, con tendencia a algo",
+              "answer": "DADAS"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Unidad anglosajona para medir volumen",
+              "answer": "ONZA"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Insistencia tenaz para lograr un objetivo",
+              "answer": "EMPEÑO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "La caña del maíz después de quitarle la mazorca",
+              "answer": "NARVASO"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Originario, nativo de alguna parte del mundo",
+              "answer": "ORIUNDO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ataque violento contra alguien",
+              "answer": "AGRESION"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Rodee el castillo, que nadie pueda entrar ni salir",
+              "answer": "ASEDIE"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… el Destructor\" uno de los Guardianes de la Galaxia",
+              "answer": "DRAX"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "La mejor amiga de Steve en 'Stranger Things'",
+              "answer": "ROBIN"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Norma que parece regular la conducta de alguien",
+              "answer": "LEMA"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Mit Griega: El señor de los Vientos",
+              "answer": "EOLO"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "Se queda sin aire, por ejemplo, en un vaso de agua",
+              "answer": "AHOGA"
+            },
+            "67": {
+              "col": 11,
+              "row": 14,
+              "clue": "Obra pictórica realizada con pintura de aceite",
+              "answer": "OLEO"
+            }
+          }
+        },
+        "vertical_clues": "1-Museo donde se expone \"Las señoritas de Avignon\" de Picasso\r\n2-Lo calculé de vuelta y es lo mismo\r\n3-Aficionado apasionado del séptimo arte \r\n4-El huracán más costoso de USA\r\n5-Merienda \r\n6-En páginas web estadounidenses\r\n7-Gato londinense\r\n8-A Israel cuando era pequeño\r\n9-Organización política en monarquía\r\n10-Una especie de talismán protector\r\n11-Atrapar, coger\r\n12-Tortilla de maíz enrollada, típica de México\r\n13-Te aventuras, te arriesgas\r\n18-Org Internacional de Constructores de Automóviles \r\n20-Sujetado firmemente en su sitio \r\n22-Alfa, Alfa, Foxtrot\r\n25-Que se disuelve fácilmente en agua \r\n27-Los cigarros del camello\r\n28-Escapada\r\n31-Ciudad amurallada de Castilla y León \r\n32-Que pases por las pesas y así te enteres\r\n34-Serpiente americana\r\n35-Cola de avioneta\r\n38-Con lo que hay que coger un asunto, cuando es muy delicado\r\n39-Espacio circular donde los toreros hacen su arte \r\n41-Curvado hacia afuera, como una lente \r\n42-Tela pequeña para sonarse o adornar el cuello \r\n44-Los mejores pollos, los del…\r\n46-Dueño de esclavos\r\n47-Entreguéis, otorguéis\r\n49-Cogerá con la mano\r\n51-Hinduismo: Energía vital que conecta todo lo que hay en el universo\r\n52-Impúlsese en el agua con la fuerza de sus brazos\r\n53-Prefijo que refiere al campo\r\n54-Voz de mucho asombro\r\n56-Háblame, coméntame\r\n57-En el océano, perdió 100 liras y el nitrógeno\r\n59-Código IATA del aeropuerto de Nairobi\r\n63-Índice Glucémico",
+        "horizontal_clues": "1-F1 El hijo de Michael Schumacher, excorredor de la escudería Hass\r\n5-Llevar a la vista, exhibir lo que alguien se ha puesto\r\n10-Se topa con un pato capacitado\r\n14-Detesta, aborrece\r\n15-Emplease, utilizase\r\n16-Farrow, Khalifa y Wasikowska, las tres juntas\r\n17-Barbilla\r\n19-Pelea callejera con gritos y empujones \r\n21-Desde Alaska hasta la Patagonia\r\n23-Aros, argollas\r\n24-Piezas circulares para juegos de mesa \r\n26-Echa un vistazo\r\n27-País donde se originó la pandemia\r\n29-Cadena de televisión estadounidense con zorro en el logo \r\n30-A las espaldas de alguien\r\n33-Sala donde se imparten las clases\r\n35-Un microestado\r\n36-Observa cómo empieza la vejez\r\n37-De mi propiedad\r\n38-Cantidad muy pequeña de algo \r\n39-Descanse en paz\r\n40-Emily Dickinson (célebre poetisa) \r\n41-Agencia de inteligencia estadounidense (siglas)\r\n42-Quita la cáscara a la naranja\r\n43-Brazuelo del cerdo\r\n45-Malala expulsó la maldad\r\n47-Inclinadas, con tendencia a algo\r\n48-Unidad anglosajona para medir volumen\r\n50-Insistencia tenaz para lograr un objetivo \r\n52-La caña del maíz después de quitarle la mazorca\r\n55-Originario, nativo de alguna parte del mundo\r\n58-Ataque violento contra alguien \r\n60-Rodee el castillo, que nadie pueda entrar ni salir\r\n61-\"… el Destructor\" uno de los Guardianes de la Galaxia \r\n62-La mejor amiga de Steve en 'Stranger Things'\r\n64-Norma que parece regular la conducta de alguien\r\n65-Mit Griega: El señor de los Vientos\r\n66-Se queda sin aire, por ejemplo, en un vaso de agua\r\n67-Obra pictórica realizada con pintura de aceite",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,19,#,#,20,#,#,#,#\r\n21,#,#,#,#,#,22,#,23,#,#,#,#,#,#\r\n#,#,24,#,#,#,#,25,#,26,#,#,#,#,#\r\n27,28,#,#,#,#,29,#,#,#,30,#,#,31,32\r\n33,#,#,#,#,34,#,#,#,35,#,#,#,36,#\r\n37,#,#,#,38,#,#,#,#,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,#,#,#,#,42,#,#,#\r\n43,#,44,#,#,#,45,#,46,#,47,#,#,#,#\r\n#,#,48,#,#,49,#,50,#,51,#,#,#,#,#\r\n52,53,#,#,#,#,54,#,55,#,#,#,#,56,57\r\n58,#,#,#,#,#,#,59,#,60,#,#,#,#,#\r\n61,#,#,#,#,62,#,#,63,#,#,64,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,#,67,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

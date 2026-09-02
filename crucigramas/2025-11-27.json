@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4191,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-26T22:26:25.109717Z",
+      "updatedAt": "2025-11-26T22:27:04.286467Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "P#APARATOS#NANA\r\nEGM#GCCRR#HADA#\r\nSOBERANIA#ADIOS\r\nABATI#EOLICAS#C\r\n#IRISA###NIDADA\r\nA##LANGOSTA#BOR\r\nNACI#SISEE#TELL\r\nCLAC#IB#CR#OBOE\r\nLOMO#AARON#BART\r\nANE#ABOLSADO##T\r\nREMESA###REGUE#\r\nA#BLANCOS#BASIC\r\nSUELO#ASESINATO\r\n#ERAS#BASAD#LOO\r\nMATS#TODOLOGA#K",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pasé correctamente con la mancuerna",
+              "answer": "PESA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Resina fósil amarillenta que arde con buen olor",
+              "answer": "AMBAR"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Da color gris",
+              "answer": "AGRISA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cable con 3 puntas, blanca, roja y amarilla",
+              "answer": "RCA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Enfermedad de la piel",
+              "answer": "ACNE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Fantasía sexual más popular",
+              "answer": "TRIO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Que se toma por la boca",
+              "answer": "ORAL"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Desplazad tu cuerpo en el agua",
+              "answer": "NADAD"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Capital de Etiopía",
+              "answer": "ADISABEBA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Nave, embarcación antigua",
+              "answer": "NAO"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Desierto situado al norte de China y sur de Mongolia",
+              "answer": "GOBI"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Alrededor de, cerca de",
+              "answer": "HACIA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Cielito que desastre, tienes aliento alcohólico",
+              "answer": "ETILICO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Natasha Romanoff en la 'La Viuda Negra' de Marvel",
+              "answer": "SCARLETT"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Meter en un hospital, por varios días",
+              "answer": "INTERNAR"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Anhelaban con poca paciencia",
+              "answer": "ANSIABAN"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Lo que estudia la Algología",
+              "answer": "DOLOR"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Fondearás, ancorarás",
+              "answer": "ANCLARAS"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Pie de…\", danza aristocrática española del siglo XVII",
+              "answer": "GIBAO"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Símbolo químico del osmio",
+              "answer": "OS"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Que carecen de agua u otro líquido (masc)",
+              "answer": "SECOS"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"Paul…\" cantautor navarro del sencillo '¿Te acuerdas?'",
+              "answer": "ALONE"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Queso producido en Normandía, Francia",
+              "answer": "CAMEMBERT"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Rampa deslizante muy divertida",
+              "answer": "TOBOGAN"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Iniciales del tenista con la marca del cocodrilo",
+              "answer": "RL"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Moríos de calor",
+              "answer": "ASAOS"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Apropiado o correspondiente según las circunstancias",
+              "answer": "DEBIDO"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Tercera persona del plural, femenino",
+              "answer": "ELLAS"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "La conciencia… utilízala",
+              "answer": "USALA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Se termina el pleito",
+              "answer": "EITO"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Ciudad del …\" destino famoso por sus puestas de Sol, Sudáfrica",
+              "answer": "CABO"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Encarad, desafiad, enfrentad",
+              "answer": "OSAD"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Prudencia y cordura",
+              "answer": "SESO"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'",
+              "answer": "COOK"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "La Universala Esperanto",
+              "answer": "UEA"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Condimento por excelencia",
+              "answer": "SAL"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Por error apostará por las máquinas y artefactos",
+              "answer": "APARATOS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Un canción de cuna, una…",
+              "answer": "NANA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estudio General de Medios",
+              "answer": "EGM"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "La Galería de las Colecciones Reales (siglas)",
+              "answer": "GCCRR"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Lo es Campanilla, la del País de Nunca Jamás",
+              "answer": "HADA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Poder político supremo de Estado independiente",
+              "answer": "SOBERANIA"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "A Dios le pido, poder decirte hasta luego",
+              "answer": "ADIOS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Derrumbé con fuerzas las barreras",
+              "answer": "ABATI"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Energía producida por la fuerza del viento (pl)",
+              "answer": "EOLICAS"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Presenta reflejos de luz con colores como el arcoíris",
+              "answer": "IRISA"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Conjunto de los polluelos de una misma puesta mientras están en el nido",
+              "answer": "NIDADA"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Crustáceo marino muy apreciado en gastronomía",
+              "answer": "LANGOSTA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Al estribor del estribor",
+              "answer": "BOR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Vine al mundo",
+              "answer": "NACI"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Pronuncie muchas eses, como si estuviera llamando a alguien",
+              "answer": "SISEE"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Personaje suizo que le puso una manzana en la cabeza al hijo",
+              "answer": "TELL"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Sombrero de copa alta",
+              "answer": "CLAC"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "En la tribu de Aníbal",
+              "answer": "IB"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Código de la UICN para la clasificación \"En peligro crítico de extinción\"",
+              "answer": "CR"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Inst musical de viento",
+              "answer": "OBOE"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Este va a ser de cerdo",
+              "answer": "LOMO"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "El hermano de Moisés",
+              "answer": "AARON"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Hijo de Homer y Marge Simpson",
+              "answer": "BART"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Antes de Nuestra Era (siglas)",
+              "answer": "ANE"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Pantalón que cae en forma de bolsa",
+              "answer": "ABOLSADO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Dinero que los emigrantes envían a su país",
+              "answer": "REMESA"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Le eché agua a las flores, las…",
+              "answer": "REGUE"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Caucásicos",
+              "answer": "BLANCOS"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Mi inglés es muy básico",
+              "answer": "BASIC"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Su puntuación de Ajedrez está por el piso",
+              "answer": "SUELO"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Homicidio",
+              "answer": "ASESINATO"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Ya no lo eres",
+              "answer": "ERAS"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Fundamentad",
+              "answer": "BASAD"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Alabo",
+              "answer": "LOO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Esterillas de yoga",
+              "answer": "MATS"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Calificativo despectivo de quien cree saber de todo (fem)",
+              "answer": "TODOLOGA"
+            }
+          }
+        },
+        "vertical_clues": "1-Pasé correctamente con la mancuerna\r\n2-Resina fósil amarillenta que arde con buen olor\r\n3-Da color gris\r\n4-Cable con 3 puntas, blanca, roja y amarilla\r\n5-Enfermedad de la piel\r\n6-Fantasía sexual más popular\r\n7-Que se toma por la boca\r\n8-Desplazad tu cuerpo en el agua\r\n9-Capital de Etiopía\r\n10-Nave, embarcación antigua\r\n12-Desierto situado al norte de China y sur de Mongolia\r\n14-Alrededor de, cerca de\r\n16-Cielito que desastre, tienes aliento alcohólico\r\n18-Natasha Romanoff en la 'La Viuda Negra' de Marvel\r\n21-Meter en un hospital, por varios días\r\n23-Anhelaban con poca paciencia\r\n25-Lo que estudia la Algología\r\n26-Fondearás, ancorarás\r\n28-\"Pie de…\", danza aristocrática española del siglo XVII\r\n29-Símbolo químico del osmio\r\n30-Que carecen de agua u otro líquido (masc)\r\n33-\"Paul…\" cantautor navarro del sencillo '¿Te acuerdas?' \r\n34-Queso producido en Normandía, Francia  \r\n36-Rampa deslizante muy divertida\r\n43-Iniciales del tenista con la marca del cocodrilo\r\n46-Moríos de calor\r\n47-Apropiado o correspondiente según las circunstancias \r\n49-Tercera persona del plural, femenino\r\n51-La conciencia… utilízala\r\n52-Se termina el pleito\r\n54-\"Ciudad del …\" destino famoso por sus puestas de Sol, Sudáfrica\r\n55-Encarad, desafiad, enfrentad\r\n56-Prudencia y cordura\r\n58-\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'\r\n60-La Universala Esperanto-Asocio\r\n62-Condimento por excelencia",
+        "horizontal_clues": "2-Por error apostará por las máquinas y artefactos\r\n8-Un canción de cuna, una…\r\n11-Estudio General de Medios\r\n13-La Galería de las Colecciones Reales (siglas)\r\n14-Lo es Campanilla, la del País de Nunca Jamás\r\n15-Poder político supremo de Estado independiente\r\n17-A Dios le pido, poder decirte hasta luego\r\n19-Derrumbé con fuerzas las barreras\r\n20-Energía producida por la fuerza del viento (pl)\r\n22-Presenta reflejos de luz con colores como el arcoíris\r\n24-Conjunto de los polluelos de una misma puesta mientras están en el nido\r\n27-Crustáceo marino muy apreciado en gastronomía \r\n31-Al estribor del estribor\r\n32-Vine al mundo\r\n35-Pronuncie muchas eses, como si estuviera llamando a alguien\r\n36-Personaje suizo que le puso una manzana en la cabeza al hijo\r\n37-Sombrero de copa alta\r\n38-En la tribu de Aníbal\r\n39-Código de la UICN para la clasificación \"En peligro crítico de extinción\"\r\n40-Inst musical de viento\r\n41-Este va a ser de cerdo\r\n42-El hermano de Moisés\r\n44-Hijo de Homer y Marge Simpson\r\n45-Antes de Nuestra Era (siglas)\r\n46-Pantalón que cae en forma de bolsa\r\n48-Dinero que los emigrantes envían a su país\r\n50-Le eché agua a las flores, las…\r\n53-Caucásicos\r\n57-Mi inglés es muy básico\r\n59-Su puntuación de Ajedrez está por el piso\r\n61-Homicidio\r\n63-Ya no lo eres\r\n64-Fundamentad\r\n65-Alabo\r\n66-Esterillas de yoga\r\n67-Calificativo despectivo de quien cree saber de todo (fem)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

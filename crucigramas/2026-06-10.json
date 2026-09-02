@@ -1,0 +1,511 @@
+{
+  "data": {
+    "id": 6176,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-08T20:53:50.717776Z",
+      "updatedAt": "2026-06-09T22:01:47.886811Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#DEFORESTACION#\r\nREV#GENUINO#NOH\r\nEJES#SOBRA#MINE\r\nTARAD#LIA#MORAN\r\nAREL#JARRA#RITO\r\nSASTRE#A#CERCAS\r\n##TAITA#POLEA##\r\nMF#NESS#OTEE#TR\r\nILN#NEPALES#TIO\r\nLOAR#TESIS#ROED\r\nORCAS#RIN#CENSO\r\nNIHILISMOSOCIAL\r\nGN#CARI#MERO#SF\r\nA#RENIO#ITERO#O\r\n#ABOGAN#OSADOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Abandonará o cesará una actividad",
+              "answer": "DEJARA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Montaña más alta del planeta Tierra",
+              "answer": "EVEREST"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Iniciales de pintor ecuatoriano autor de Quito en rojo",
+              "answer": "OG"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "'De…', de nada en catalán",
+              "answer": "RES"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"… Holmes\" peli protagonizada por Millie Bobby Brown",
+              "answer": "ENOLA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Se moverá hacia arriba",
+              "answer": "SUBIRA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lanzar al contenedor",
+              "answer": "TIRAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "La que soñó por un momento que era aire",
+              "answer": "ANA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Una página colombiana que vende cobalto",
+              "answer": "CO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Perteneciente a los sueños (fem)",
+              "answer": "ONIRICA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Nacida por cesárea",
+              "answer": "NONATA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Le planteas un #challenge, lo…",
+              "answer": "RETAS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Planta que sirve de comida para los caballos (pl)",
+              "answer": "HENOS"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Omiten algunos pasos, se los…",
+              "answer": "SALTAN"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Se caiga a besos",
+              "answer": "MORREE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Clase social internacional, rica y ostentosa (2p)",
+              "answer": "JETSET"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Delimites, limites, demarques",
+              "answer": "ACOTES"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Lo hacen de últimos y lo hacen mejor",
+              "answer": "RIEN"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Llllllll",
+              "answer": "ELES"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Técnica de riego que distribuye el agua en forma de lluvia sobre los cultivos",
+              "answer": "ASPERSION"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Expresión algebraica con varios términos y coeficientes",
+              "answer": "POLINOMIO"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Género musical folclórico rioplatense, de origen gaucho",
+              "answer": "MILONGA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Moneda de los Países Bajos antes del euro",
+              "answer": "FLORIN"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Duras, firmes, rígidas",
+              "answer": "TIESAS"
+            },
+            "39": {
+              "col": 14,
+              "row": 7,
+              "clue": "El más popular de todos los renos de Papá Noel",
+              "answer": "RODOLFO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Rapero, sociólogo, poeta y escritor español",
+              "answer": "NACH"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Celebración litúrgica con hostia y vino (inv)",
+              "answer": "ASIM"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "\"… Acosta\" la madre en 'Padre no hay más que uno'",
+              "answer": "TONI"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Echo raíces como una planta",
+              "answer": "RAICEO"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Resultado máximo o mínimo en otras actividades",
+              "answer": "RECORD"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"Argot\" en inglés",
+              "answer": "SLANG"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "País donde se originó el taekwondo",
+              "answer": "COREA"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Caminaría, andaría de acá para allá",
+              "answer": "IRIA"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Los segmentos del tenis",
+              "answer": "SETS"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del rubidio",
+              "answer": "RB"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Par de huevos",
+              "answer": "OO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tala masiva de árboles que destruye bosques enteros",
+              "answer": "DEFORESTACION"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Mirar por el espejo",
+              "answer": "REV"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Genio gana algún artículo por ser auténtico y verdadero",
+              "answer": "GENUINO"
+            },
+            "14": {
+              "col": 12,
+              "row": 1,
+              "clue": "Manifestación destacada del drama musical japonés",
+              "answer": "NOH"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Sostén de un cuerpo giratorio (pl)",
+              "answer": "EJES"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Lo que pasa con una opinión no solicitada",
+              "answer": "SOBRA"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Abra galerías por debajo de la tierra",
+              "answer": "MINE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Disminuid el valor de algo por defectuoso",
+              "answer": "TARAD"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Arma un alboroto en el Laboratorio de Inteligencia Artificial",
+              "answer": "LIA"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Viven con la loca de Norma",
+              "answer": "MORAN"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Criba grande para limpiar el trigo en la era",
+              "answer": "AREL"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Vasija con cuello, de una o dos asas",
+              "answer": "JARRA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Regla para el culto y ceremonial religioso",
+              "answer": "RITO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hombre que hace trajes de hombre",
+              "answer": "SASTRE"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Resguardas un sitio con vallas",
+              "answer": "CERCAS"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Voz infantil con que se designa al padre",
+              "answer": "TAITA"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Máquina simple",
+              "answer": "POLEA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lo que tienen en común Megan Fox y Michael Foucault",
+              "answer": "MF"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Lago escocés famoso por su monstruo",
+              "answer": "NESS"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Observé con cuidado desde un lugar alto",
+              "answer": "OTEE"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Tito Rojas (El Gallo de la Salsa)",
+              "answer": "TR"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Instagram, LinkedIn y Netflix",
+              "answer": "ILN"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Gentilicio de Siddhārtha Gautama",
+              "answer": "NEPALES"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Gilito es uno",
+              "answer": "TIO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Adular, alabar, enaltecer",
+              "answer": "LOAR"
+            },
+            "47": {
+              "col": 5,
+              "row": 9,
+              "clue": "Trabajo final de grado",
+              "answer": "TESIS"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Cortad con los dientes",
+              "answer": "ROED"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ballenas en blanco y negro",
+              "answer": "ORCAS"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Pieza metálica central de la rueda de un vehículo",
+              "answer": "RIN"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Lista de la población",
+              "answer": "CENSO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Filosofía que niega los valores morales y las normas colectivas (2p)",
+              "answer": "NIHILISMOSOCIAL"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Abreviatura de Génesis, primer libro del Antiguo Testamento",
+              "answer": "GN"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "De color pardo o plomizo",
+              "answer": "CARI"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Pescado muy cotizado por su carne delicada",
+              "answer": "MERO"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales del padre del psicoanálisis",
+              "answer": "SF"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Elemento químico de símbolo Re",
+              "answer": "RENIO"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Repito lo dicho",
+              "answer": "ITERO"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Interceden, hablan en favor de alguien",
+              "answer": "ABOGAN"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Animosos, intrépidos",
+              "answer": "OSADOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Abandonará o cesará una actividad \r\n2-Montaña más alta del planeta Tierra\r\n3-Iniciales de pintor ecuatoriano autor de Quito en rojo\r\n4-'De…', de nada en catalán\r\n5-\"… Holmes\" peli protagonizada por Millie Bobby Brown\r\n6-Se moverá hacia arriba\r\n7-Lanzar al contenedor\r\n8-La que soñó por un momento que era aire\r\n9-Una página colombiana que vende cobalto\r\n10-Perteneciente a los sueños (fem)\r\n11-Nacida por cesárea\r\n12-Le planteas un #challenge, lo…\r\n15-Planta que sirve de comida para los caballos (pl)\r\n17-Omiten algunos pasos, se los…\r\n19-Se caiga a besos\r\n24-Clase social internacional, rica y ostentosa (2p)\r\n25-Delimites, limites, demarques\r\n28-Lo hacen de últimos y lo hacen mejor\r\n30-Llllllll\r\n32-Técnica de riego que distribuye el agua en forma de lluvia sobre los cultivos \r\n33-Expresión algebraica con varios términos y coeficientes \r\n34-Género musical folclórico rioplatense, de origen gaucho\r\n35-Moneda de los Países Bajos antes del euro\r\n38-Duras, firmes, rígidas\r\n39-El más popular de todos los renos de Papá Noel\r\n41-Rapero, sociólogo, poeta y escritor español\r\n43-Celebración litúrgica con hostia y vino (inv)\r\n44-\"… Acosta\" la madre en 'Padre no hay más que uno'\r\n46-Echo raíces como una planta\r\n48-Resultado máximo o mínimo en otras actividades\r\n50-\"Argot\" en inglés\r\n52-País donde se originó el taekwondo\r\n54-Caminaría, andaría de acá para allá\r\n55-Los segmentos del tenis\r\n60-Símbolo químico del rubidio\r\n62-Par de huevos",
+        "horizontal_clues": "1-Tala masiva de árboles que destruye bosques enteros \r\n12-Mirar por el espejo\r\n13-Genio gana algún artículo por ser auténtico y verdadero\r\n14-Manifestación destacada del drama musical japonés\r\n16-Sostén de un cuerpo giratorio (pl)\r\n18-Lo que pasa con una opinión no solicitada \r\n19-Abra galerías por debajo de la tierra\r\n20-Disminuid el valor de algo por defectuoso\r\n21-Arma un alboroto en el Laboratorio de Inteligencia Artificial\r\n22-Viven con la loca de Norma \r\n23-Criba grande para limpiar el trigo en la era\r\n24-Vasija con cuello, de una o dos asas\r\n26-Regla para el culto y ceremonial religioso\r\n27-Hombre que hace trajes de hombre\r\n29-Resguardas un sitio con vallas\r\n31-Voz infantil con que se designa al padre\r\n33-Máquina simple \r\n34-Lo que tienen en común Megan Fox y Michael Foucault\r\n36-Lago escocés famoso por su monstruo\r\n37-Observé con cuidado desde un lugar alto\r\n38-Tito Rojas (El Gallo de la Salsa)\r\n40-Instagram, LinkedIn y Netflix \r\n42-Gentilicio de Siddhārtha Gautama\r\n44-Gilito es uno\r\n45-Adular, alabar, enaltecer\r\n47-Trabajo final de grado\r\n48-Cortad con los dientes \r\n49-Ballenas en blanco y negro\r\n51-Pieza metálica central de la rueda de un vehículo\r\n52-Lista de la población\r\n53-Filosofía que niega los valores morales y las normas colectivas (2p) \r\n56-Abreviatura de Génesis, primer libro del Antiguo Testamento\r\n57-De color pardo o plomizo\r\n58-Pescado muy cotizado por su carne delicada\r\n59-Iniciales del padre del psicoanálisis\r\n60-Elemento químico de símbolo Re\r\n61-Repito lo dicho\r\n63-Interceden, hablan en favor de alguien\r\n64-Animosos, intrépidos",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,#,3,4,5,6,7,8,9,#,10,11,#\r\n12,#,#,#,13,#,#,#,#,#,#,#,14,#,15\r\n16,#,#,17,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,#,#,21,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,26,#,#,#\r\n27,#,#,#,28,#,#,#,#,29,30,#,#,#,#\r\n#,#,31,#,#,#,32,#,33,#,#,#,#,#,#\r\n34,35,#,36,#,#,#,#,37,#,#,#,#,38,39\r\n40,#,41,#,42,#,#,43,#,#,#,#,44,#,#\r\n45,#,#,46,#,47,#,#,#,#,#,48,#,#,#\r\n49,#,#,#,50,#,51,#,#,#,52,#,#,#,#\r\n53,#,#,#,#,54,#,#,#,55,#,#,#,#,#\r\n56,#,#,57,#,#,#,#,58,#,#,#,#,59,#\r\n#,#,60,#,#,#,#,#,61,#,#,#,62,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

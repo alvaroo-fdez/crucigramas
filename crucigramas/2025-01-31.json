@@ -1,0 +1,490 @@
+{
+  "data": {
+    "id": 1568,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-27T17:03:10.393793Z",
+      "updatedAt": "2025-01-27T17:03:10.489575Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-31",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "RUMBA#OBSCENO#C\r\n#DIAZ#JOTA##ESE\r\nAES#ACETAL#MATI\r\nJ#A#HURONES##AB\r\nU##PARAN#TIERRA\r\nSPEARS##KARMA##\r\nTOMS#OOOH#VASCA\r\nASPAS#I#A#ANGEL\r\nREARO#GANO#AULA\r\n##TANTO##TEBEOS\r\nFRENAR#FAENA##S\r\nLO##RODILLO#M#A\r\nODIN#MENTOR#END\r\nTER##BIDE#MOTE#\r\nA#ESCASEA#EVADE",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "¿Cómo terminó el fraude?",
+              "answer": "UDE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Los domingos en la iglesia",
+              "answer": "MISA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico del bario",
+              "answer": "BA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Flor del naranjo",
+              "answer": "AZAHAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Evidencia de insomnio, en el ojo",
+              "answer": "OJERA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "La flor está cerrada, capullo",
+              "answer": "BOTON"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Con cariño a Stanley",
+              "answer": "STAN"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Entrada de mar, más pequeña que la bahía",
+              "answer": "CALETA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Organización de Estados Americanos (siglas)",
+              "answer": "OEA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Árbol de gran envergadura, sagrado para los mayas",
+              "answer": "CEIBA"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "\"… Trek\" la serie del Enterprise",
+              "answer": "STAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ceñir, acomodar",
+              "answer": "AJUSTAR"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Prosigo mi rumbo",
+              "answer": "CURSO"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Sea soldado en activo",
+              "answer": "SIRVA"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Franquearán, cruzarán",
+              "answer": "PASARAN"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Emitía, desprendía de sí",
+              "answer": "EMANABA"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "Rompí una tela o un papel",
+              "answer": "RASGUE"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Postura poco natural",
+              "answer": "POSE"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "1:1",
+              "answer": "EMPATE"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Emperador y conquistador mongol",
+              "answer": "KHAN"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Escucho",
+              "answer": "OIGO"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Apetito sexual de los animales",
+              "answer": "CELO"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "\"Bashar…\" expresidente de Siria",
+              "answer": "ALASSAD"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Va a hacer ruido porque al soñar no tiene su sombrero",
+              "answer": "SONAR"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "El esposo de Desdémona",
+              "answer": "OTELO"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Irrupción tumultuosa de personas",
+              "answer": "TROMBA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Desmedido, excesivo, inmenso",
+              "answer": "ENORME"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Conjunto de barcos mercantes de un país",
+              "answer": "FLOTA"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Dirigí y actué en mi primera película",
+              "answer": "RODE"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Acortamiento de 'Fin de semana'",
+              "answer": "FINDE"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Ciudad alicantina conocida como 'La cúpula del Mediterráneo'",
+              "answer": "ALTEA"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Entreguéis, otorguéis",
+              "answer": "DEIS"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Empresa propietaria de Facebook, Instagram y WhatsApp",
+              "answer": "META"
+            },
+            "57": {
+              "col": 2,
+              "row": 12,
+              "clue": "Ahí estaré",
+              "answer": "IRE"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "\"… Flanders\", el vecino de Homer",
+              "answer": "NED"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Oficina Virtual",
+              "answer": "OV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Palo flamenco, el que se fusionó con la guaracha cubana",
+              "answer": "RUMBA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "El lenguaje vulgar de esos bocones desubicados",
+              "answer": "OBSCENO"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "\"Cameron…\" actriz a la que teníamos muchos días sin ver",
+              "answer": "DIAZ"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Danza tradicional española con castañuelas",
+              "answer": "JOTA"
+            },
+            "14": {
+              "col": 12,
+              "row": 1,
+              "clue": "Aquel, el de la letra",
+              "answer": "ESE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Esa desordenada, también tiene letras",
+              "answer": "AES"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Resultante de la reacción entre un aldehído y un alcohol",
+              "answer": "ACETAL"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Con cariño a Matías",
+              "answer": "MATI"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Mustélidos que se crían como mascotas",
+              "answer": "HURONES"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "El primer grupo sanguíneo en descubrirse (1901)",
+              "answer": "AB"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "No se detienen, no…",
+              "answer": "PARAN"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Retira tu caos de nuestro planeta",
+              "answer": "TIERRA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "La Britney",
+              "answer": "SPEARS"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Energía derivada de los actos",
+              "answer": "KARMA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Tambores sobre el bombo de la batería",
+              "answer": "TOMS"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Voz de mucho asombro",
+              "answer": "OOOH"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Pelota…\" deporte tradicional del norte de España",
+              "answer": "VASCA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Te la pasas distraído viendo las del molino de viento",
+              "answer": "ASPAS"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "\"… Martín\" comediante español, autor del libro 'Por si las voces vuelven'",
+              "answer": "ANGEL"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Vuelvo a arar",
+              "answer": "REARO"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Triunfo porque cobro bien",
+              "answer": "GANO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Salón de clases",
+              "answer": "AULA"
+            },
+            "44": {
+              "col": 2,
+              "row": 9,
+              "clue": "Gol, anotación",
+              "answer": "TANTO"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "Series de aventuras contadas en forma de historietas gráficas",
+              "answer": "TEBEOS"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Parar el movimiento de una máquina",
+              "answer": "FRENAR"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Trabajo, labor",
+              "answer": "FAENA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Artículo neutro",
+              "answer": "LO"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Herramienta de pizzero",
+              "answer": "RODILLO"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "El rey del Valhalla",
+              "answer": "ODIN"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Maestro, guía",
+              "answer": "MENTOR"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"This is the… my only friend, the…\" canción de 'The Doors'",
+              "answer": "END"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Arquitecta e influencer española",
+              "answer": "TER"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Recipiente del baño para el aseo de las partes pudendas",
+              "answer": "BIDE"
+            },
+            "63": {
+              "col": 10,
+              "row": 13,
+              "clue": "Apodo, sobrenombre",
+              "answer": "MOTE"
+            },
+            "65": {
+              "col": 2,
+              "row": 14,
+              "clue": "Falta en cantidad, ¡no hay suficiente para todos!",
+              "answer": "ESCASEA"
+            },
+            "66": {
+              "col": 10,
+              "row": 14,
+              "clue": "Rehúye de su nueva deuda",
+              "answer": "EVADE"
+            }
+          }
+        },
+        "vertical_clues": "2-¿Cómo terminó el fraude? \r\n3-Los domingos en la iglesia\r\n4-Símbolo químico del bario\r\n5-Flor del naranjo\r\n6-Evidencia de insomnio, en el ojo\r\n7-La flor está cerrada, capullo\r\n8-Con cariño a Stanley\r\n9-Entrada de mar, más pequeña que la bahía\r\n10-Organización de Estados Americanos (siglas)\r\n11-Árbol de gran envergadura, sagrado para los mayas\r\n15-\"… Trek\" la serie del Enterprise\r\n16-Ceñir, acomodar\r\n18-Prosigo mi rumbo\r\n21-Sea soldado en activo\r\n23-Franquearán, cruzarán\r\n25-Emitía, desprendía de sí\r\n26-Rompí una tela o un papel\r\n28-Postura poco natural\r\n29-1:1 \r\n30-Emperador y conquistador mongol\r\n33-Escucho\r\n35-Apetito sexual de los animales\r\n36-\"Bashar…\" expresidente de Siria\r\n38-Va a hacer ruido porque al soñar no tiene su sombrero\r\n42-El esposo de Desdémona\r\n45-Irrupción tumultuosa de personas\r\n47-Desmedido, excesivo, inmenso\r\n48-Conjunto de barcos mercantes de un país\r\n49-Dirigí y actué en mi primera película\r\n50-Acortamiento de 'Fin de semana'\r\n51-Ciudad alicantina conocida como 'La cúpula del Mediterráneo' \r\n54-Entreguéis, otorguéis\r\n55-Empresa propietaria de Facebook, Instagram y WhatsApp\r\n57-Ahí estaré\r\n60-\"… Flanders\", el vecino de Homer\r\n64-Oficina Virtual\r\n",
+        "horizontal_clues": "1-Palo flamenco, el que se fusionó con la guaracha cubana\r\n6-El lenguaje vulgar de esos bocones desubicados\r\n12-\"Cameron…\" actriz a la que teníamos muchos días sin ver\r\n13-Danza tradicional española con castañuelas\r\n14-Aquel, el de la letra \r\n16-Esa desordenada, también tiene letras\r\n17-Resultante de la reacción entre un aldehído y un alcohol\r\n19-Con cariño a Matías\r\n20-Mustélidos que se crían como mascotas\r\n22-El primer grupo sanguíneo en descubrirse (1901)\r\n23-No se detienen, no…\r\n24-Retira tu caos de nuestro planeta\r\n27-La Britney\r\n30-Energía derivada de los actos\r\n31-Tambores sobre el bombo de la batería\r\n32-Voz de mucho asombro\r\n34-\"Pelota…\" deporte tradicional del norte de España\r\n37-Te la pasas distraído viendo las del molino de viento\r\n39-\"… Martín\" comediante español, autor del libro 'Por si las voces vuelven'\r\n40-Vuelvo a arar\r\n41-Triunfo porque cobro bien\r\n43-Salón de clases\r\n44-Gol, anotación\r\n46-Series de aventuras contadas en forma de historietas gráficas\r\n48-Parar el movimiento de una máquina\r\n50-Trabajo, labor\r\n52-Artículo neutro\r\n53-Herramienta de pizzero\r\n56-El rey del Valhalla\r\n58-Maestro, guía\r\n59-\"This is the… my only friend, the…\" canción de 'The Doors' \r\n61-Arquitecta e influencer española\r\n62-Recipiente del baño para el aseo de las partes pudendas\r\n63-Apodo, sobrenombre\r\n65-Falta en cantidad, ¡no hay suficiente para todos! \r\n66-Rehúye de su nueva deuda\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,#,10,#,11\r\n#,12,#,#,#,#,13,#,#,#,#,#,14,15,#\r\n16,#,#,#,17,18,#,#,#,#,#,19,#,#,#\r\n#,#,#,#,20,#,#,#,#,#,21,#,#,22,#\r\n#,#,#,23,#,#,#,#,#,24,#,25,26,#,#\r\n27,28,29,#,#,#,#,#,30,#,#,#,#,#,#\r\n31,#,#,#,#,32,33,#,#,#,34,#,#,35,36\r\n37,#,#,#,38,#,#,#,#,#,39,#,#,#,#\r\n40,#,#,#,#,#,41,#,#,42,#,43,#,#,#\r\n#,#,44,#,#,45,#,#,#,46,47,#,#,#,#\r\n48,49,#,#,#,#,#,50,51,#,#,#,#,#,#\r\n52,#,#,#,53,#,54,#,#,#,#,#,55,#,#\r\n56,#,57,#,#,58,#,#,#,#,#,#,59,60,#\r\n61,#,#,#,#,62,#,#,#,#,63,64,#,#,#\r\n#,#,65,#,#,#,#,#,#,#,66,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

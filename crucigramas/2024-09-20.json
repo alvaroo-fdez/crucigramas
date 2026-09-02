@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 887,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-13T14:35:36.455272Z",
+      "updatedAt": "2024-09-13T14:35:36.455296Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-20",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#GRAFICO#AYUDA#\r\nPREDIO##ACABOSE\r\nRAPEES##SATINEN\r\nONE#LIBRETO#ASG\r\nBATA#FUESE#FLOR\r\nEDIPO##CO#FEDRA\r\n#ARRAIGAR#RA##S\r\nA##ESTOMACAL##E\r\nS##TI#BARANDAL#\r\nOGROS#ER##ZAFON\r\nCAEN#TRAES#DIGA\r\nICV#PENSION#LID\r\nAHORITA##BUTACA\r\nSACUDIR##ACUDAN\r\n#SACOS#TIRANOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Ciudad andaluza donde se encuentra La Alhambra.",
+              "answer": "GRANADA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Volver a hacer algo.",
+              "answer": "REPETIR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Administración y Dirección de Empresas.",
+              "answer": "ADE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Persona que no traiciona.",
+              "answer": "FIEL"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Nombre de Stalin.",
+              "answer": "IOSIF"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Acepte unas normas legales.",
+              "answer": "ACATE"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "El Dios protagonista del anime 'Noragami'.",
+              "answer": "YATO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Cuba. Especie de bejuco.",
+              "answer": "UBI"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "El pato de Trump.",
+              "answer": "DONALD"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Persona que, por oficio, debe aconsejar.",
+              "answer": "ASESOR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Intenté no ser pobre.",
+              "answer": "PROBE"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Dar consejo o dictamen.",
+              "answer": "ASESORAR"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Le puse lubricante, por ejemplo al motor del coche.",
+              "answer": "ENGRASE"
+            },
+            "18": {
+              "col": 6,
+              "row": 3,
+              "clue": "Voz para asustar a los niños.",
+              "answer": "BU"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "Cuarto situado detrás de la habitación principal (pl).",
+              "answer": "RECAMARAS"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Estrechez de manos.",
+              "answer": "APRETON"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"La Belleza y la... se encontraron a orillas del mar\" (fragmento de Vestiduras de Khalil Gibran).",
+              "answer": "FEALDAD"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Los hermanos Gallagher.",
+              "answer": "OASIS"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"... Schubert\" compositor clásico, autor del Ave María.",
+              "answer": "FRANZ"
+            },
+            "30": {
+              "col": 5,
+              "row": 6,
+              "clue": "Novela de Stephen King, sobre un payaso aterrador.",
+              "answer": "IT"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Dirigir, reinar.",
+              "answer": "GOBERNAR"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Estableces la relación entre una cosa y otra.",
+              "answer": "ASOCIAS"
+            },
+            "35": {
+              "col": 9,
+              "row": 7,
+              "clue": "Símbolo químico del calcio.",
+              "answer": "CA"
+            },
+            "38": {
+              "col": 12,
+              "row": 8,
+              "clue": "Cuidado, el cuchillo está recién...",
+              "answer": "AFILADO"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "Razonables, explicables.",
+              "answer": "LOGICAS"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Plato típico manchego de harina y agua.",
+              "answer": "GACHAS"
+            },
+            "42": {
+              "col": 2,
+              "row": 9,
+              "clue": "Anula, deroga, por ejemplo una condena.",
+              "answer": "REVOCA"
+            },
+            "45": {
+              "col": 14,
+              "row": 9,
+              "clue": "Si no lo hacen, se ahogan.",
+              "answer": "NADAN"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Diosa de las aguas del mundo, esposa de Océano.",
+              "answer": "TETIS"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "Saliendo de Taipéi.",
+              "answer": "EI"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Hacer cariño en una pupa.",
+              "answer": "SOBAR"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Solicito una ayuda.",
+              "answer": "PIDO"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "Región posterior al cuello.",
+              "answer": "NUCA"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Foco de destrucción.",
+              "answer": "RUC"
+            },
+            "58": {
+              "col": 11,
+              "row": 12,
+              "clue": "Tallo de petunia.",
+              "answer": "TUN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Representación visual de un análisis de datos.",
+              "answer": "GRAFICO"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Auxilio, asistencia, apoyo.",
+              "answer": "AYUDA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Hacienda, heredad, finca.",
+              "answer": "PREDIO"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Expresión para algo que ha llegado a su último extremo.",
+              "answer": "ACABOSE"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Cantes rap.",
+              "answer": "RAPEES"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Den a la tela tersura y lustre por medio de la presión.",
+              "answer": "SATINEN"
+            },
+            "16": {
+              "col": 0,
+              "row": 3,
+              "clue": "El número uno en Inglaterra.",
+              "answer": "ONE"
+            },
+            "17": {
+              "col": 4,
+              "row": 3,
+              "clue": "Texto de una ópera o zarzuela.",
+              "answer": "LIBRETO"
+            },
+            "20": {
+              "col": 12,
+              "row": 3,
+              "clue": "En pleno Glasgow.",
+              "answer": "ASG"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Prenda para estar en casa.",
+              "answer": "BATA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Asistiese, acudiese.",
+              "answer": "FUESE"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Brote formado por hojas de colores.",
+              "answer": "FLOR"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Complejo freudiano masculino.",
+              "answer": "EDIPO"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Símbolo químico del cobalto.",
+              "answer": "CO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Mit. La princesa de Creta que se enamoró de su hijastro.",
+              "answer": "FEDRA"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Echar raíces.",
+              "answer": "ARRAIGAR"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "Poco razonable.",
+              "answer": "RA"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Relativo al órgano digestivo principal.",
+              "answer": "ESTOMACAL"
+            },
+            "36": {
+              "col": 3,
+              "row": 8,
+              "clue": "Hoy por..., mañana por mí.",
+              "answer": "TI"
+            },
+            "37": {
+              "col": 6,
+              "row": 8,
+              "clue": "Pasamano, barandilla.",
+              "answer": "BARANDAL"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Los hijos de Shrek.",
+              "answer": "OGROS"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Símbolo químico de Erbio.",
+              "answer": "ER"
+            },
+            "44": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"Carlos Ruiz...\" a la sombra del viento.",
+              "answer": "ZAFON"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"... en la cuenta\", se percatan.",
+              "answer": "CAEN"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Conduces algo hacia ti.",
+              "answer": "TRAES"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Explique, pronuncie.",
+              "answer": "DIGA"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Índice de Calidad de Vida.",
+              "answer": "ICV"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Alojamiento con comidas incluidas.",
+              "answer": "PENSION"
+            },
+            "54": {
+              "col": 12,
+              "row": 11,
+              "clue": "Combate, pelea, pugna.",
+              "answer": "LID"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "En un momentito.",
+              "answer": "AHORITA"
+            },
+            "57": {
+              "col": 9,
+              "row": 12,
+              "clue": "Silla de brazos con el respaldo inclinado hacia atrás.",
+              "answer": "BUTACA"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Zarandear, agitar.",
+              "answer": "SACUDIR"
+            },
+            "60": {
+              "col": 9,
+              "row": 13,
+              "clue": "Vayan al sitio a donde son llamados.",
+              "answer": "ACUDAN"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "América. Chaqueta, americana (pl).",
+              "answer": "SACOS"
+            },
+            "62": {
+              "col": 7,
+              "row": 14,
+              "clue": "Arrójanos con fuerza porque somos los más villanos.",
+              "answer": "TIRANOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Ciudad andaluza donde se encuentra La Alhambra.\r\n2-Volver a hacer algo. \r\n3-Administración y Dirección de Empresas.\r\n4-Persona que no traiciona.\r\n5-Nombre de Stalin.\r\n6-Acepte unas normas legales.\r\n7-El Dios protagonista del anime 'Noragami'.\r\n8-Cuba. Especie de bejuco.\r\n9-El pato de Trump.\r\n10-Persona que, por oficio, debe aconsejar.\r\n11-Intenté no ser pobre.\r\n12-Dar consejo o dictamen.\r\n13-Le puse lubricante, por ejemplo al motor del coche.\r\n18-Voz para asustar a los niños.\r\n19-Cuarto situado detrás de la habitación principal (pl).\r\n22-Estrechez de manos.\r\n24-\"La Belleza y la... se encontraron a orillas del mar\" (fragmento de Vestiduras de Khalil Gibran). \r\n26-Los hermanos Gallagher.\r\n28-\"... Schubert\" compositor clásico, autor del Ave María.\r\n30-Novela de Stephen King, sobre un payaso aterrador.\r\n31-Dirigir, reinar.\r\n33-Estableces la relación entre una cosa y otra.\r\n35-Símbolo químico del calcio.\r\n38-Cuidado, el cuchillo está recién...\r\n39-Razonables, explicables.\r\n41-Plato típico manchego de harina y agua. \r\n42-Anula, deroga, por ejemplo una condena.\r\n45-Si no lo hacen, se ahogan.\r\n47-Diosa de las aguas del mundo, esposa de Océano.\r\n48-Saliendo de Taipéi.\r\n49-Hacer cariño en una pupa.\r\n52-Solicito una ayuda.\r\n53-Región posterior al cuello.\r\n56-Foco de destrucción.\r\n58-Tallo de petunia.",
+        "horizontal_clues": "1-Representación visual de un análisis de datos.\r\n6-Auxilio, asistencia, apoyo.\r\n11-Hacienda, heredad, finca.\r\n12-Expresión para algo que ha llegado a su último extremo.\r\n14-Cantes rap.\r\n15-Den a la tela tersura y lustre por medio de la presión.\r\n16-El número uno en Inglaterra.\r\n17-Texto de una ópera o zarzuela. \r\n20-En pleno Glasgow.\r\n21-Prenda para estar en casa. \r\n23-Asistiese, acudiese.\r\n24-Brote formado por hojas de colores.\r\n25-Complejo freudiano masculino.\r\n27-Símbolo químico del cobalto.\r\n28-Mit. La princesa de Creta que se enamoró de su hijastro.\r\n29-Echar raíces.\r\n32-Poco razonable.\r\n34-Relativo al órgano digestivo principal. \r\n36-Hoy por..., mañana por mí.\r\n37-Pasamano, barandilla.\r\n40-Los hijos de Shrek.\r\n43-Símbolo químico de Erbio.\r\n44-\"Carlos Ruiz...\" a la sombra del viento.\r\n46-\"... en la cuenta\", se percatan.\r\n47-Conduces algo hacia ti.\r\n50-Explique, pronuncie.\r\n51-Índice de Calidad de Vida. \r\n52-Alojamiento con comidas incluidas. \r\n54-Combate, pelea, pugna.\r\n55-En un momentito.\r\n57-Silla de brazos con el respaldo inclinado hacia atrás.\r\n59-Zarandear, agitar.\r\n60-Vayan al sitio a donde son llamados.\r\n61-América. Chaqueta, americana (pl).\r\n62-Arrójanos con fuerza porque somos los más villanos.",
+        "board_clues_positions": "#,1,2,3,4,5,#,#,#,6,7,8,9,10,#\r\n11,#,#,#,#,#,#,#,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,#,#\r\n16,#,#,#,17,#,18,19,#,#,#,#,20,#,#\r\n21,#,#,22,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,27,#,#,28,#,#,#,#\r\n#,29,#,#,#,30,31,#,#,#,32,#,#,#,#\r\n33,#,#,34,#,#,#,#,#,35,#,#,#,#,#\r\n#,#,#,36,#,#,37,#,#,#,#,#,38,39,#\r\n40,41,42,#,#,#,43,#,#,#,44,#,#,#,45\r\n46,#,#,#,#,47,#,#,48,49,#,50,#,#,#\r\n51,#,#,#,52,#,#,#,#,#,53,#,54,#,#\r\n55,#,#,56,#,#,#,#,#,57,#,58,#,#,#\r\n59,#,#,#,#,#,#,#,#,60,#,#,#,#,#\r\n#,61,#,#,#,#,#,62,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

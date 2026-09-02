@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4760,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-02T18:52:33.521668Z",
+      "updatedAt": "2026-02-02T18:53:36.158720Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PALO#SELECTOR#\r\nAUPAN#ELEMENTAL\r\nPLUVIOMETRO#IZO\r\nROÑA#JAVA#SACOS\r\nEVAS#ENANA#GANE\r\nSEL#ATARI#LOSA#\r\nARANCEL#AGIL#RC\r\nR#RUTA###RAPA#O\r\nAP#TURA#CASARME\r\n#RARO#MARGE#RUT\r\nPELI#TATUE#TUSA\r\nUSURO#RICA#RIEN\r\nLID#PERSISTENTE\r\nADENTRABA#ACATO\r\n#INTEGRAL#HERI#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Prenda de punto cerrada que se coloca por la cabeza",
+              "answer": "PULOVER"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Lo hacen los traidores y lo hacen por la espalda",
+              "answer": "APUÑALAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Limpias con agua y jabón",
+              "answer": "LAVAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "El demonio japonés es un poni decapitado",
+              "answer": "ONI"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Que sucede o se repite cada semana",
+              "answer": "SEMANAL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Se revela la confusión y es mejor subir una plegaria",
+              "answer": "ELEVAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Procesión católica",
+              "answer": "LETANIA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Equipo Móvil de Respuesta (siglas)",
+              "answer": "EMR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Directores ejecutivos",
+              "answer": "CEOS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Dominio web para Túnez",
+              "answer": "TN"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Gotas…, cuando son para los oídos",
+              "answer": "OTICAS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Establecer relación entre conceptos distintos para formar un juicio",
+              "answer": "RAZONAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Capturará, aprehenderá",
+              "answer": "APRESARA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Estoy al tanto (2p)",
+              "answer": "LOSE"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Hacer ojetes en algo",
+              "answer": "OJETEAR"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Junta de golpe en un lugar",
+              "answer": "AGOLPA"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Interpretó un papel en una peli",
+              "answer": "ACTUO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Formase un cigarrillo",
+              "answer": "LIASE"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Alimentar con cariño a una nutria",
+              "answer": "NUTRIR"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Pastillas, cápsulas",
+              "answer": "GRAGEAS"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Persona de la misma generación que otra persona",
+              "answer": "COETANEO"
+            },
+            "37": {
+              "col": 12,
+              "row": 7,
+              "clue": "Destruir, dañar",
+              "answer": "ARRUINAR"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Presi, di que yo dirigí la asamblea",
+              "answer": "PRESIDI"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Asegurar el barco al muelle",
+              "answer": "AMARRAR"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Crítico, decisivo",
+              "answer": "CRUCIAL"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"Lorenzo…\" el tenista italiano que se va de baja",
+              "answer": "MUSETTI"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Mencionan a alguien o insinúan algo",
+              "answer": "ALUDEN"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Mira, observa con cuidado",
+              "answer": "ATISBA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lustre, de brillo y tersura",
+              "answer": "PULA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "El número de mala suerte",
+              "answer": "TRECE"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Elija, escoja",
+              "answer": "OPTE"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Región arenosa de un desierto",
+              "answer": "ERG"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "Futbolista alemán, exdefensa del Bayer Leverkusen",
+              "answer": "TAH"
+            },
+            "61": {
+              "col": 3,
+              "row": 13,
+              "clue": "Nuevo Testamento",
+              "answer": "NT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Serie en que se divide la baraja de cartas",
+              "answer": "PALO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Dispositivo que permite elegir entre varias opciones",
+              "answer": "SELECTOR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Levantan, suben a alguien",
+              "answer": "AUPAN"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "La base de todo, lo más simple de la materia",
+              "answer": "ELEMENTAL"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aparato que mide la cantidad de lluvia caída",
+              "answer": "PLUVIOMETRO"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Elevó las banderas",
+              "answer": "IZO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Porquería y suciedad pegada",
+              "answer": "ROÑA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Amplio lenguaje de programación",
+              "answer": "JAVA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Carrera de… divertida actividad",
+              "answer": "SACOS"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Los biorrobots del anime Evangelion",
+              "answer": "EVAS"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Mujer muy pequeña",
+              "answer": "ENANA"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"Raspé y…\" en la lotería",
+              "answer": "GANE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Poco selectiva",
+              "answer": "SEL"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Antigua consola de videojuegos de 1977",
+              "answer": "ATARI"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pieza fina de cerámica, para cubrir suelos",
+              "answer": "LOSA"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Te laceran injustamente con este impuesto",
+              "answer": "ARANCEL"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Ligero, pronto, expedito",
+              "answer": "AGIL"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Radiocontrol (siglas)",
+              "answer": "RC"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Itinerario turístico",
+              "answer": "RUTA"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Se corta el cabello completamente, se…",
+              "answer": "RAPA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Apocalipsis",
+              "answer": "AP"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "A esta altura, ya no hay aluminio",
+              "answer": "TURA"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Voy a contraer nupcias, voy a…",
+              "answer": "CASARME"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Poco común o frecuente",
+              "answer": "RARO"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "La mamá de Bart",
+              "answer": "MARGE"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Antiguo Testamento Bisabuela del rey David",
+              "answer": "RUT"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una pequeña película",
+              "answer": "PELI"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Grabé un dibujo sobre la piel",
+              "answer": "TATUE"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Corazón de la mazorca del maíz",
+              "answer": "TUSA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Gano excesivos intereses en un préstamo",
+              "answer": "USURO"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Adinerada, acaudalada",
+              "answer": "RICA"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Lo hacen de últimos y lo hacen mejor",
+              "answer": "RIEN"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Combate, pelea, pugna",
+              "answer": "LID"
+            },
+            "57": {
+              "col": 4,
+              "row": 12,
+              "clue": "Que sigue adelante sin rendirse pese a las dificultades",
+              "answer": "PERSISTENTE"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Penetraba en lo interior de algo",
+              "answer": "ADENTRABA"
+            },
+            "62": {
+              "col": 10,
+              "row": 13,
+              "clue": "Acota que en cierto modo, obedeció órdenes",
+              "answer": "ACATO"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Referido a alimento elaborado con cereal sin refinar",
+              "answer": "INTEGRAL"
+            },
+            "64": {
+              "col": 10,
+              "row": 14,
+              "clue": "Te lastimé, te hice daño, te…",
+              "answer": "HERI"
+            }
+          }
+        },
+        "vertical_clues": "1-Prenda de punto cerrada que se coloca por la cabeza \r\n2-Lo hacen los traidores y lo hacen por la espalda\r\n3-Limpias con agua y jabón\r\n4-El demonio japonés es un poni decapitado\r\n5-Que sucede o se repite cada semana\r\n6-Se revela la confusión y es mejor subir una plegaria\r\n7-Procesión católica\r\n8-Equipo Móvil de Respuesta (siglas)\r\n9-Directores ejecutivos\r\n10-Dominio web para Túnez \r\n11-Gotas…, cuando son para los oídos\r\n12-Establecer relación entre conceptos distintos para formar un juicio\r\n13-Capturará, aprehenderá\r\n15-Estoy al tanto (2p) \r\n17-Hacer ojetes en algo\r\n22-Junta de golpe en un lugar\r\n27-Interpretó un papel en una peli\r\n28-Formase un cigarrillo\r\n30-Alimentar con cariño a una nutria\r\n32-Pastillas, cápsulas\r\n34-Persona de la misma generación que otra persona \r\n37-Destruir, dañar\r\n39-Presi, di que yo dirigí la asamblea\r\n41-Asegurar el barco al muelle\r\n42-Crítico, decisivo\r\n43-\"Lorenzo…\" el tenista italiano que se va de baja\r\n45-Mencionan a alguien o insinúan algo\r\n47-Mira, observa con cuidado\r\n49-Lustre, de brillo y tersura\r\n51-El número de mala suerte\r\n53-Elija, escoja\r\n58-Región arenosa de un desierto\r\n59-Futbolista alemán, exdefensa del Bayer Leverkusen\r\n61-Nuevo Testamento",
+        "horizontal_clues": "1-Serie en que se divide la baraja de cartas\r\n5-Dispositivo que permite elegir entre varias opciones \r\n13-Levantan, suben a alguien\r\n14-La base de todo, lo más simple de la materia\r\n16-Aparato que mide la cantidad de lluvia caída \r\n18-Elevó las banderas\r\n19-Porquería y suciedad pegada\r\n20-Amplio lenguaje de programación\r\n21-Carrera de… divertida actividad\r\n23-Los biorrobots del anime Evangelion\r\n24-Mujer muy pequeña\r\n25-\"Raspé y…\" en la lotería\r\n26-Poco selectiva\r\n27-Antigua consola de videojuegos de 1977\r\n28-Pieza fina de cerámica, para cubrir suelos\r\n29-Te laceran injustamente con este impuesto\r\n31-Ligero, pronto, expedito\r\n33-Radiocontrol (siglas)\r\n35-Itinerario turístico\r\n36-Se corta el cabello completamente, se…\r\n38-Apocalipsis\r\n40-A esta altura, ya no hay aluminio\r\n42-Voy a contraer nupcias, voy a…\r\n44-Poco común o frecuente\r\n46-La mamá de Bart\r\n48-Antiguo Testamento Bisabuela del rey David\r\n49-Una pequeña película\r\n50-Grabé un dibujo sobre la piel\r\n51-Corazón de la mazorca del maíz\r\n52-Gano excesivos intereses en un préstamo\r\n54-Adinerada, acaudalada\r\n55-Lo hacen de últimos y lo hacen mejor\r\n56-Combate, pelea, pugna\r\n57-Que sigue adelante sin rendirse pese a las dificultades \r\n60-Penetraba en lo interior de algo\r\n62-Acota que en cierto modo, obedeció órdenes\r\n63-Referido a alimento elaborado con cereal sin refinar \r\n64-Te lastimé, te hice daño, te…",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,5,6,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,14,#,#,#,#,#,#,#,15\r\n16,#,#,#,#,17,#,#,#,#,#,#,18,#,#\r\n19,#,#,#,#,20,#,#,#,#,21,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,#,#,#,#,28,#,#,#,#\r\n29,#,#,30,#,#,#,#,31,32,#,#,#,33,34\r\n#,#,35,#,#,#,#,#,#,36,#,#,37,#,#\r\n38,39,#,40,#,#,41,#,42,#,#,#,#,43,#\r\n#,44,45,#,#,#,46,47,#,#,#,#,48,#,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,#\r\n52,#,#,#,53,#,54,#,#,#,#,55,#,#,#\r\n56,#,#,#,57,58,#,#,#,#,59,#,#,#,#\r\n60,#,#,61,#,#,#,#,#,#,62,#,#,#,#\r\n#,63,#,#,#,#,#,#,#,#,64,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

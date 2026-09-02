@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 5050,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-04T17:57:09.543634Z",
+      "updatedAt": "2026-03-04T18:02:33.650388Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-05",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACABARIAN#KLIMT\r\nBUCAREST#OLIVER\r\nREA#CELA#SEPARA\r\nISBN#FALACIA#CS\r\nATEOS#MASON#FAT\r\n#ASPA##YT##PIDO\r\nV##ALOCAR#BAYER\r\nENCLAVE#ALUSION\r\nREHEN#BALLET##O\r\nTOES##AV##NOAM#\r\nEPO#DIRAN#ORTIZ\r\nBR#CAMELOT#ERRO\r\nREGALA#AVIE#AIR\r\nANOTAN#SEÑOREAR\r\nLORES#BELENISMO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Aperturaba una cuenta bancaria",
+              "answer": "ABRIA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Lo que vale esta pendiente",
+              "answer": "CUESTA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Él secaba el casabe; tú, es mejor que termines",
+              "answer": "ACABES"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico del bario",
+              "answer": "BA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lo que Eladio quiere de Arcadio",
+              "answer": "ARC"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Arrecife en inglés",
+              "answer": "REEF"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "La religión de los musulmanes",
+              "answer": "ISLAM"
+            },
+            "8": {
+              "col": 7,
+              "row": 0,
+              "clue": "Torre de vigilancia aislada",
+              "answer": "ATALAYA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Calvin…\" marca de moda juvenil estadounidense",
+              "answer": "KLEIN"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Barriga de los vertebrados, especialmente si es abultada",
+              "answer": "LIPA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Impuesto al Valor Agregado",
+              "answer": "IVA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Estrategias para promocionar y vender productos",
+              "answer": "MERCADEO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Alteración psicológica",
+              "answer": "TRASTORNO"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Lengua indoeuropea hablada en la parte meridional de la península itálica",
+              "answer": "OSCO"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Cactus comestibles",
+              "answer": "NOPALES"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Viaje imaginario por las estrellas",
+              "answer": "ASTRAL"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Conservan con sal",
+              "answer": "SALAN"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "País insular de Oceanía, punto internacional de surf",
+              "answer": "FIYI"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Pastor italiano",
+              "answer": "PASTORE"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Columna…\", estructura que protege la médula espinal",
+              "answer": "VERTEBRAL"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Original versión",
+              "answer": "OV"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Aumentaré el peso de los animales",
+              "answer": "CEBARE"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "¡Malo no es!",
+              "answer": "BUENO"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Material sintético usado en trajes de buceo",
+              "answer": "NEOPRENO"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Apodo que se les da a los José",
+              "answer": "CHEO"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Exletra",
+              "answer": "LL"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Sirviese de garante",
+              "answer": "AVALASE"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "\"Lo que piensas,…\" o sea, lo llamas a ti",
+              "answer": "ATRAES"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "La hermana mayor de Aarón y de Moisés",
+              "answer": "MIRIAM"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Entrégalas, porque en Dallas ya perdí una de las de 50",
+              "answer": "DALAS"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Con forma de herradura",
+              "answer": "IMAN"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Novato, con poca experiencia en un arte",
+              "answer": "NOVEL"
+            },
+            "54": {
+              "col": 14,
+              "row": 10,
+              "clue": "Superhéroe que firma \"Z\"",
+              "answer": "ZORRO"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"… Blanchett\" la elfa Galadriel en 'El Señor de los Anillos\"",
+              "answer": "CATE"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Tinta, pinta la ropa",
+              "answer": "TIÑE"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Municipio de Granada",
+              "answer": "GOR"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Muchísimos años, millones",
+              "answer": "EON"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "¡Rivas, tú te quedas!",
+              "answer": "RI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Aunque se abanicara mal, igual lo terminaría",
+              "answer": "ACABARIAN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pintor austríaco, autor de \"El Beso\"",
+              "answer": "KLIMT"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Capital de Rumania",
+              "answer": "BUCAREST"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "\"… Kahn\" famoso portero alemán",
+              "answer": "OLIVER"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "La primera diosa que se enfrentó a su marido",
+              "answer": "REA"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Cuida, vigila",
+              "answer": "CELA"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Aparta, distancia",
+              "answer": "SEPARA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Identificador único para los libros publicados",
+              "answer": "ISBN"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Argumento engañoso que parece válido",
+              "answer": "FALACIA"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Lo que tienen en común Charlie Sheen y Carl Sagan",
+              "answer": "CS"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Estos no se casan por la iglesia",
+              "answer": "ATEOS"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"… Thames\" actor prota del live action de 'Cómo entrenar a tu dragón'",
+              "answer": "MASON"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Foxtrot, Alpha, Tango",
+              "answer": "FAT"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Algo pasa con una de las del molino",
+              "answer": "ASPA"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "YouTube",
+              "answer": "YT"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Requiero, demando",
+              "answer": "PIDO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Aclaro, ¡me voy a volver loca!",
+              "answer": "ALOCAR"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Farmacéutica alemana dice que, si son suyos, son buenos",
+              "answer": "BAYER"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lo es Llívia dentro de Francia o Treviño dentro del País Vasco",
+              "answer": "ENCLAVE"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Mención indirecta",
+              "answer": "ALUSION"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Víctima de un secuestro",
+              "answer": "REHEN"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Danza clásica de conjunto",
+              "answer": "BALLET"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lleves a remolque una nave",
+              "answer": "TOES"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Inic de vocalista y guitarra de Nacha Pop (1957",
+              "answer": "AV"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"… Chomsky\" importante lingüista norteamericano",
+              "answer": "NOAM"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Época sin calcio",
+              "answer": "EPO"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Comentarán, expresarán",
+              "answer": "DIRAN"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "La reina Letizia…",
+              "answer": "ORTIZ"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Símbolo químico del Bromo",
+              "answer": "BR"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "El reino del rey Arturo",
+              "answer": "CAMELOT"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "No acertó, se equivocó",
+              "answer": "ERRO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Se alegra si la obsequia",
+              "answer": "REGALA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Me arreglé para salir, me…",
+              "answer": "AVIE"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"Aire\" en inglés",
+              "answer": "AIR"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Toman notas, escriben",
+              "answer": "ANOTAN"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Ejercer dominio altivo sobre otros",
+              "answer": "SEÑOREAR"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Señores, nobles británicos",
+              "answer": "LORES"
+            },
+            "68": {
+              "col": 6,
+              "row": 14,
+              "clue": "El arte de crear y montar belenes (desde 1471)",
+              "answer": "BELENISMO"
+            }
+          }
+        },
+        "vertical_clues": "1-Aperturaba una cuenta bancaria\r\n2-Lo que vale esta pendiente\r\n3-Él secaba el casabe; tú, es mejor que termines\r\n4-Símbolo químico del bario\r\n5-Lo que Eladio quiere de Arcadio\r\n6-Arrecife en inglés\r\n7-La religión de los musulmanes\r\n8-Torre de vigilancia aislada\r\n9-\"Calvin…\" marca de moda juvenil estadounidense\r\n10-Barriga de los vertebrados, especialmente si es abultada\r\n11-Impuesto al Valor Agregado\r\n12-Estrategias para promocionar y vender productos \r\n13-Alteración psicológica\r\n15-Lengua indoeuropea hablada en la parte meridional de la península itálica\r\n20-Cactus comestibles \r\n22-Viaje imaginario por las estrellas\r\n25-Conservan con sal\r\n27-País insular de Oceanía, punto internacional de surf\r\n30-Pastor italiano\r\n31-\"Columna…\", estructura que protege la médula espinal\r\n33-Original versión\r\n34-Aumentaré el peso de los animales\r\n35-¡Malo no es! \r\n37-Material sintético usado en trajes de buceo \r\n38-Apodo que se les da a los José\r\n40-Exletra\r\n43-Sirviese de garante\r\n47-\"Lo que piensas,…\" o sea, lo llamas a ti\r\n48-La hermana mayor de Aarón y de Moisés\r\n50-Entrégalas, porque en Dallas ya perdí una de las de 50\r\n51-Con forma de herradura\r\n52-Novato, con poca experiencia en un arte\r\n54-Superhéroe que firma \"Z\"\r\n56-\"… Blanchett\" la elfa Galadriel en 'El Señor de los Anillos\"\r\n57-Tinta, pinta la ropa\r\n60-Municipio de Granada\r\n62-Muchísimos años, millones\r\n66-¡Rivas, tú te quedas!",
+        "horizontal_clues": "1-Aunque se abanicara mal, igual lo terminaría\r\n9-Pintor austríaco, autor de \"El Beso\"\r\n14-Capital de Rumania\r\n15-\"… Kahn\" famoso portero alemán\r\n16-La primera diosa que se enfrentó a su marido\r\n17-Cuida, vigila\r\n18-Aparta, distancia\r\n19-Identificador único para los libros publicados \r\n21-Argumento engañoso que parece válido \r\n23-Lo que tienen en común Charlie Sheen y Carl Sagan\r\n24-Estos no se casan por la iglesia\r\n26-\"… Thames\" actor prota del live action de 'Cómo entrenar a tu dragón' \r\n27-Foxtrot, Alpha, Tango\r\n28-Algo pasa con una de las del molino\r\n29-YouTube\r\n30-Requiero, demando\r\n32-Aclaro, ¡me voy a volver loca! \r\n35-Farmacéutica alemana dice que, si son suyos, son buenos\r\n36-Lo es Llívia dentro de Francia o Treviño dentro del País Vasco \r\n39-Mención indirecta\r\n41-Víctima de un secuestro\r\n42-Danza clásica de conjunto\r\n44-Lleves a remolque una nave\r\n45-Inic de vocalista y guitarra de Nacha Pop (1957-2009)\r\n46-\"… Chomsky\" importante lingüista norteamericano\r\n49-Época sin calcio \r\n50-Comentarán, expresarán\r\n53-La reina Letizia…\r\n55-Símbolo químico del Bromo\r\n56-El reino del rey Arturo\r\n58-No acertó, se equivocó\r\n59-Se alegra si la obsequia\r\n61-Me arreglé para salir, me…\r\n63-\"Aire\" en inglés\r\n64-Toman notas, escriben\r\n65-Ejercer dominio altivo sobre otros \r\n67-Señores, nobles británicos\r\n68-El arte de crear y montar belenes (desde 1471)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,8,#,#,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,#,15,#,#,#,#,#\r\n16,#,#,#,17,#,#,#,#,18,#,#,#,#,#\r\n19,#,#,20,#,21,#,#,22,#,#,#,#,23,#\r\n24,#,#,#,25,#,26,#,#,#,#,#,27,#,#\r\n#,28,#,#,#,#,#,29,#,#,#,30,#,#,#\r\n31,#,#,32,#,33,34,#,#,#,35,#,#,#,#\r\n36,37,38,#,#,#,#,#,39,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,#,#,#,#,#,#,#\r\n44,#,#,#,#,#,45,#,#,#,46,#,47,48,#\r\n49,#,#,#,50,51,#,#,52,#,53,#,#,#,54\r\n55,#,#,56,#,#,#,#,#,57,#,58,#,#,#\r\n59,#,60,#,#,#,#,61,#,#,62,#,63,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,66,#,#,#\r\n67,#,#,#,#,#,68,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 852,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-30T12:33:35.376383Z",
+      "updatedAt": "2024-08-30T12:33:35.376406Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-01",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#LLAGA#CODEABA#\r\nBEIJING#DARLING\r\nUMBERTO#ARRESTO\r\nSPA#LETO#WE#TOR\r\nCINE#SANTI#MUIR\r\nAREOLA#CONTORNO\r\nDAS#ALIEN#EDIE#\r\nO##IVAN#GIRA##T\r\n#PERO#TRANS#ARA\r\nCOSTEARE#MORRAL\r\nLEPE#TOLDO#URDA\r\nISE#SE#EIRA#OID\r\nNIRVANA#ATRAPAR\r\nTAMALES#LAMBADA\r\n#SACIADO#LYCRA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Moneda de Honduras.",
+              "answer": "LEMPIRA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Del Líbano.",
+              "answer": "LIBANES"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Maltraté, desgasté.",
+              "answer": "AJE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Una chica en Londres.",
+              "answer": "GIRL"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Fút. Programa que precede al inicio de un partido importante.",
+              "answer": "ANTESALA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Composición poética de alabanza.",
+              "answer": "ODA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Charles...\" autor del libro 'El origen de las especies'.",
+              "answer": "DARWIN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Me equivoqué.",
+              "answer": "ERRE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ni lager ni pilsen.",
+              "answer": "ALE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Escalpelo o lanceta.",
+              "answer": "BISTURI"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Autor de \"El Principito\".",
+              "answer": "ANTOINE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Solicitado, investigado, reclamado.",
+              "answer": "BUSCADO"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Esta va a ser de sudor.",
+              "answer": "GOTA"
+            },
+            "16": {
+              "col": 14,
+              "row": 1,
+              "clue": "Pieza de tela que abriga la cabeza.",
+              "answer": "GORRO"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Organización Nacional de Ciegos Españoles.",
+              "answer": "ONCE"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Las fronteras de Egipto.",
+              "answer": "EO"
+            },
+            "27": {
+              "col": 8,
+              "row": 4,
+              "clue": "País cuya capital es Nukualofa.",
+              "answer": "TONGA"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Costumbre que está en boga durante algún tiempo.",
+              "answer": "MODA"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Héctor…\", cantando 'Juanito alimaña' (1983).",
+              "answer": "LAVOE"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Liso, sin arrugas.",
+              "answer": "TERSO"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Primera parte de un video de YouTube.",
+              "answer": "INTRO"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Marcharte, largarte.",
+              "answer": "IRTE"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "No puede morir.",
+              "answer": "INMORTAL"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "Agujerea con un perforador.",
+              "answer": "TALADRA"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Versos y rimas.",
+              "answer": "POESIAS"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Semen.",
+              "answer": "ESPERMA"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Regulador de corriente de un circuito eléctrico.",
+              "answer": "RELE"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Cubrir, abrigar.",
+              "answer": "ARROPAR"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "Dispuesta de manera análoga a los radios de una circunferencia.",
+              "answer": "RADIADA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"... Eastwood\", actor y director estadounidense.",
+              "answer": "CLINT"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Diosa griega de la inteligencia y la guerra.",
+              "answer": "ATENEA"
+            },
+            "50": {
+              "col": 11,
+              "row": 9,
+              "clue": "Cerámica china de la dinastía Song.",
+              "answer": "RU"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Conjunto de las emisoras de radio captadas.",
+              "answer": "DIAL"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Pasé de dentro a fuera.",
+              "answer": "SALI"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "La fandom de los BTS.",
+              "answer": "ARMY"
+            },
+            "61": {
+              "col": 3,
+              "row": 12,
+              "clue": "Medio vacíos.",
+              "answer": "VAC"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Das por error.",
+              "answer": "ASD"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Las tres primeras.",
+              "answer": "ABC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Úlcera de las personas y animales.",
+              "answer": "LLAGA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Se relacionaba, frecuentaba, se...",
+              "answer": "CODEABA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Otro nombre con que se le conoce a Pekín.",
+              "answer": "BEIJING"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Wendy, cariño, eres la prota de Peter Pan.",
+              "answer": "DARLING"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Italiano, autor de la novela \"El nombre de la Rosa\".",
+              "answer": "UMBERTO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Lo encierro tras las rejas.",
+              "answer": "ARRESTO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Local de salud y belleza.",
+              "answer": "SPA"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "\"Jared...\" prota de la peli \"Réquiem por un sueño\" (2000).",
+              "answer": "LETO"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "\"... are the Champions\" de Queen.",
+              "answer": "WE"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Son medio torpes.",
+              "answer": "TOR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "El séptimo arte.",
+              "answer": "CINE"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"... Cazorla\" centrocampo apodado El Mago.",
+              "answer": "SANTI"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Ordeñar a la vaca.",
+              "answer": "MUIR"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Círculo rojizo que rodea el pezón del pecho.",
+              "answer": "AREOLA"
+            },
+            "31": {
+              "col": 7,
+              "row": 5,
+              "clue": "La línea que bordea el perfil de una figura.",
+              "answer": "CONTORNO"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Entregas, otorgas, donas.",
+              "answer": "DAS"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "\"...: el octavo pasajero\" peli de ciencia ficción de 1979.",
+              "answer": "ALIEN"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"... Sedgwick\", musa de Andy Warhol.",
+              "answer": "EDIE"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"... el terrible\" primer zar de Rusia.",
+              "answer": "IVAN"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Tour artístico.",
+              "answer": "GIRA"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Sin embargo, no obstante.",
+              "answer": "PERO"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Persona cuya identidad de género difiere de su sexo biológico.",
+              "answer": "TRANS"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Ahora en Catalunya.",
+              "answer": "ARA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Correré con los gastos, lo pagaré.",
+              "answer": "COSTEARE"
+            },
+            "49": {
+              "col": 9,
+              "row": 9,
+              "clue": "Mochila, saco.",
+              "answer": "MORRAL"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Coloquial. Golpe suave en la frente con la mano abierta.",
+              "answer": "LEPE"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Lo verde de las terrazas.",
+              "answer": "TOLDO"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Trame un plan.",
+              "answer": "URDA"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Último trago de un tequila sunrise.",
+              "answer": "ISE"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "En este punto ya estoy al tanto.",
+              "answer": "SE"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "Tiene un aire loco, parece un animal.",
+              "answer": "EIRA"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "Escuchad.",
+              "answer": "OID"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Banda de grunge fundada por Kurt Cobain.",
+              "answer": "NIRVANA"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "Aprehender, aprisionar.",
+              "answer": "ATRAPAR"
+            },
+            "65": {
+              "col": 0,
+              "row": 13,
+              "clue": "Alimento de harina de maíz envuelto en hojas de plátano (pl).",
+              "answer": "TAMALES"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Provocativo baile brasilero de los 80.",
+              "answer": "LAMBADA"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "Hartado y satisfecho de bebida o de comida.",
+              "answer": "SACIADO"
+            },
+            "68": {
+              "col": 9,
+              "row": 14,
+              "clue": "Tejido sintético elástico.",
+              "answer": "LYCRA"
+            }
+          }
+        },
+        "vertical_clues": "1-Moneda de Honduras.\r\n2-Del Líbano.\r\n3-Maltraté, desgasté.\r\n4-Una chica en Londres.\r\n5-Fút. Programa que precede al inicio de un partido importante.\r\n7-Composición poética de alabanza.\r\n8-\"Charles...\" autor del libro 'El origen de las especies'.\r\n9-Me equivoqué.\r\n10-Ni lager ni pilsen.\r\n11-Escalpelo o lanceta.\r\n12-Autor de \"El Principito\".\r\n13-Solicitado, investigado, reclamado.\r\n14-Esta va a ser de sudor.\r\n16-Pieza de tela que abriga la cabeza.\r\n21-Organización Nacional de Ciegos Españoles.\r\n25-Las fronteras de Egipto.\r\n27-País cuya capital es Nukualofa. \r\n28-Costumbre que está en boga durante algún tiempo.\r\n30-\"Héctor…\", cantando 'Juanito alimaña' (1983). \r\n32-Liso, sin arrugas.\r\n35-Primera parte de un video de YouTube.\r\n37-Marcharte, largarte.\r\n39-No puede morir.\r\n40-Agujerea con un perforador.\r\n41-Versos y rimas.\r\n42-Semen.\r\n44-Regulador de corriente de un circuito eléctrico.\r\n45-Cubrir, abrigar.\r\n46-Dispuesta de manera análoga a los radios de una circunferencia.\r\n47-\"... Eastwood\", actor y director estadounidense.\r\n48-Diosa griega de la inteligencia y la guerra.\r\n50-Cerámica china de la dinastía Song.\r\n53-Conjunto de las emisoras de radio captadas.\r\n56-Pasé de dentro a fuera.\r\n58-La fandom de los BTS.\r\n61-Medio vacíos.\r\n62-Das por error.\r\n64-Las tres primeras.",
+        "horizontal_clues": "1-Úlcera de las personas y animales.\r\n6-Se relacionaba, frecuentaba, se...\r\n13-Otro nombre con que se le conoce a Pekín.\r\n15-Wendy, cariño, eres la prota de Peter Pan.\r\n17-Italiano, autor de la novela \"El nombre de la Rosa\".\r\n18-Lo encierro tras las rejas.\r\n19-Local de salud y belleza.\r\n20-\"Jared...\" prota de la peli \"Réquiem por un sueño\" (2000). \r\n22-\"... are the Champions\" de Queen.\r\n23-Son medio torpes.\r\n24-El séptimo arte.\r\n26-\"... Cazorla\" centrocampo apodado El Mago.\r\n28-Ordeñar a la vaca.\r\n29-Círculo rojizo que rodea el pezón del pecho.\r\n31-La línea que bordea el perfil de una figura.\r\n33-Entregas, otorgas, donas.\r\n34-\"...: el octavo pasajero\" peli de ciencia ficción de 1979.\r\n36-\"... Sedgwick\", musa de Andy Warhol.\r\n37-\"... el terrible\" primer zar de Rusia.\r\n38-Tour artístico.\r\n41-Sin embargo, no obstante.\r\n43-Persona cuya identidad de género difiere de su sexo biológico.\r\n45-Ahora en Catalunya.\r\n47-Correré con los gastos, lo pagaré.\r\n49-Mochila, saco.\r\n51-Coloquial. Golpe suave en la frente con la mano abierta.\r\n52-Lo verde de las terrazas.\r\n54-Trame un plan.\r\n55-Último trago de un tequila sunrise.\r\n56-En este punto ya estoy al tanto.\r\n57-Tiene un aire loco, parece un animal.\r\n59-Escuchad.\r\n60-Banda de grunge fundada por Kurt Cobain.\r\n63-Aprehender, aprisionar.\r\n65-Alimento de harina de maíz envuelto en hojas de plátano (pl).\r\n66-Provocativo baile brasilero de los 80.\r\n67-Hartado y satisfecho de bebida o de comida. \r\n68-Tejido sintético elástico.",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,14,#,15,#,#,#,#,#,16\r\n17,#,#,#,#,#,#,#,18,#,#,#,#,#,#\r\n19,#,#,#,20,#,#,21,#,22,#,#,23,#,#\r\n24,#,#,25,#,26,#,#,27,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,31,#,#,32,#,#,#,#\r\n33,#,#,#,34,#,35,#,#,#,36,#,#,#,#\r\n#,#,#,37,#,#,#,#,38,39,#,#,#,#,40\r\n#,41,42,#,#,#,43,44,#,#,#,#,45,46,#\r\n47,#,#,#,#,48,#,#,#,49,#,50,#,#,#\r\n51,#,#,#,#,52,#,#,53,#,#,54,#,#,#\r\n55,#,#,#,56,#,#,57,#,#,58,#,59,#,#\r\n60,#,#,61,#,#,62,#,63,#,#,64,#,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#\r\n#,67,#,#,#,#,#,#,#,68,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

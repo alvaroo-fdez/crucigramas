@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 8695,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-31T21:47:28.531935Z",
+      "updatedAt": "2026-08-31T21:49:16.700095Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#RELAJADAMENTE#\r\nP#MUDAS#RIMAR#M\r\nACOJONA#CRUZADO\r\nROTO#EL##ALISAD\r\nALISA#OMASO#TMU\r\nLIVOR##IR##VEAS\r\nENO#MAFER#MUSSO\r\nL###ABADEJO###P\r\nOREAS#VISOR#OPE\r\nGOLA##OC##APTAR\r\nRMC#PARAD#TERSA\r\nAPODAN##EH#PEEN\r\nMENINGE#CAVIDAD\r\nO#DOTES#ALETA#I\r\n#DESILUSIONADA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Conmovedor, por ejemplo, un discurso",
+              "answer": "EMOTIVO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Cualquier artículo que compra un millonario",
+              "answer": "LUJOSO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Entrando en la adolescencia",
+              "answer": "ADO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Goodall\" pionera en el estudio de los chimpancés salvajes",
+              "answer": "JANE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Cocínalo, no te lo comas crudo",
+              "answer": "ASALO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"Arco\" en inglés",
+              "answer": "ARC"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lo ves",
+              "answer": "MIRAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Imito las acciones de otro",
+              "answer": "EMULO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Partidario del nacionalsocialismo",
+              "answer": "NAZI"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Salientes de metal en el mástil de las guitarras",
+              "answer": "TRASTES"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Geometría: Cuadrilátero cuyos lados opuestos son paralelos entre sí",
+              "answer": "PARALELOGRAMO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Forma habitual de actuar de un latino (2p)",
+              "answer": "MODUSOPERANDI"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Animal que tiene la cola cortada",
+              "answer": "COLIN"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Mujeres distinguidas jugando en el tablero",
+              "answer": "DAMAS"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Instrumentos para atacar o defenderse",
+              "answer": "ARMAS"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "España: Forma despectiva para \"miedoso\"",
+              "answer": "MIEDICA"
+            },
+            "27": {
+              "col": 8,
+              "row": 4,
+              "clue": "Voz usada para estimular a los caballos (pl)",
+              "answer": "ARRES"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Dominio web para Vanuatu",
+              "answer": "VU"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dos de absenta, por favor",
+              "answer": "AB"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Expresión mágica: \"Por…\"",
+              "answer": "FAVOR"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Banda colombiana de pop latino, autores de 'Besos en guerra'",
+              "answer": "MORAT"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Onomatopeya de la risa de Papá Noel",
+              "answer": "JO"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Parte, quiebra",
+              "answer": "ROMPE"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"… de Montecristo\" novela de Alexander Dumas (2p)",
+              "answer": "ELCONDE"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Condición de ser otro",
+              "answer": "OTREDAD"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Camina por distracción",
+              "answer": "PASEA"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Esta va a ser de oro, o de la uva",
+              "answer": "PEPITA"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Parecida al leotardo, pero la tela es muy delgada y elástica",
+              "answer": "PANTI"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "El novio de Buffy, la cazavampiros de lo 90'",
+              "answer": "ANGEL"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Fui a menos, mengüé, descendí",
+              "answer": "DECAI"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Por este ser supremo están idos y locos",
+              "answer": "DIOS"
+            },
+            "58": {
+              "col": 9,
+              "row": 11,
+              "clue": "Videojuego tipo shooter cuyo personaje es Master Chief",
+              "answer": "HALO"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Lo utilicé al revés",
+              "answer": "ESU"
+            },
+            "63": {
+              "col": 10,
+              "row": 12,
+              "clue": "Acércate, camina hacia acá",
+              "answer": "VEN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sin tensión ni prisa, así, tranquilamente",
+              "answer": "RELAJADAMENTE"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Que no pueden hablar",
+              "answer": "MUDAS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Hacer una palabra consonante de otra",
+              "answer": "RIMAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Da miedo, acobarda a cualquiera",
+              "answer": "ACOJONA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Caballero medieval en las Cruzadas",
+              "answer": "CRUZADO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Hecho añicos",
+              "answer": "ROTO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Abel no tiene ningún plan",
+              "answer": "EL"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Poned liso algo",
+              "answer": "ALISAD"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Le plancha el cabello a Lisa",
+              "answer": "ALISA"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Tercer estómago de los rumiantes",
+              "answer": "OMASO"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "La Toronto Metropolitan University",
+              "answer": "TMU"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Malignidad, envidia, odio",
+              "answer": "LIVOR"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "A las aves locas, es mejor que las mires",
+              "answer": "VEAS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo dreno sin la presencia de un doctor",
+              "answer": "ENO"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "A María Fernanda de cariño",
+              "answer": "MAFER"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Roberto…\", vocalista de la banda de rock uruguaya 'El Cuarteto de Nos'",
+              "answer": "MUSSO"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Bacalao",
+              "answer": "ABADEJO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aireas para que seque",
+              "answer": "OREAS"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Sistema óptico para enfocar la cámara",
+              "answer": "VISOR"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "En la ópera de López",
+              "answer": "OPE"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pieza de la armadura que protegía la garganta",
+              "answer": "GOLA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Hacer apto o adecuado para un fin específico",
+              "answer": "APTAR"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Registro Mercantil Central",
+              "answer": "RMC"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Cesad de hacer algo",
+              "answer": "PARAD"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Traes las artes de estar con la piel suave",
+              "answer": "TERSA"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ponen sobrenombres",
+              "answer": "APODAN"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Interjección usada para preguntar o llamar",
+              "answer": "EH"
+            },
+            "59": {
+              "col": 11,
+              "row": 11,
+              "clue": "Suelten ventosidades",
+              "answer": "PEEN"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Membrana que envuelve el encéfalo y la médula espinal",
+              "answer": "MENINGE"
+            },
+            "62": {
+              "col": 8,
+              "row": 12,
+              "clue": "Hueco corporal",
+              "answer": "CAVIDAD"
+            },
+            "64": {
+              "col": 2,
+              "row": 13,
+              "clue": "Los proveas con tus talentos",
+              "answer": "DOTES"
+            },
+            "65": {
+              "col": 8,
+              "row": 13,
+              "clue": "Palíndromo \"Ate la…\"",
+              "answer": "ALETA"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Con las esperanzas rotas, sin fe en lo esperado",
+              "answer": "DESILUSIONADA"
+            }
+          }
+        },
+        "vertical_clues": "2-Conmovedor, por ejemplo, un discurso\r\n3-Cualquier artículo que compra un millonario\r\n4-Entrando en la adolescencia\r\n5-\"… Goodall\" pionera en el estudio de los chimpancés salvajes\r\n6-Cocínalo, no te lo comas crudo\r\n7-\"Arco\" en inglés\r\n8-Lo ves\r\n9-Imito las acciones de otro\r\n10-Partidario del nacionalsocialismo\r\n11-Salientes de metal en el mástil de las guitarras\r\n12-Geometría: Cuadrilátero cuyos lados opuestos son paralelos entre sí\r\n15-Forma habitual de actuar de un latino (2p) \r\n17-Animal que tiene la cola cortada\r\n19-Mujeres distinguidas jugando en el tablero\r\n24-Instrumentos para atacar o defenderse\r\n26-España: Forma despectiva para \"miedoso\"\r\n27-Voz usada para estimular a los caballos (pl)\r\n31-Dominio web para Vanuatu\r\n34-Dos de absenta, por favor\r\n35-Expresión mágica: \"Por…\" \r\n36-Banda colombiana de pop latino, autores de 'Besos en guerra'\r\n38-Onomatopeya de la risa de Papá Noel\r\n40-Parte, quiebra\r\n41-\"… de Montecristo\" novela de Alexander Dumas (2p) \r\n42-Alcohólicos Anónimos\r\n44-Condición de ser otro\r\n45-Camina por distracción\r\n49-Esta va a ser de oro, o de la uva\r\n51-Parecida al leotardo, pero la tela es muy delgada y elástica\r\n52-El novio de Buffy, la cazavampiros de lo 90'\r\n53-Fui a menos, mengüé, descendí\r\n56-Por este ser supremo están idos y locos\r\n58-Videojuego tipo shooter cuyo personaje es Master Chief\r\n61-Lo utilicé al revés\r\n63-Acércate, camina hacia acá",
+        "horizontal_clues": "1-Sin tensión ni prisa, así, tranquilamente \r\n13-Que no pueden hablar\r\n14-Hacer una palabra consonante de otra\r\n16-Da miedo, acobarda a cualquiera\r\n18-Caballero medieval en las Cruzadas \r\n20-Hecho añicos\r\n21-Abel no tiene ningún plan\r\n22-Poned liso algo\r\n23-Le plancha el cabello a Lisa\r\n25-Tercer estómago de los rumiantes\r\n28-La Toronto Metropolitan University \r\n29-Malignidad, envidia, odio\r\n30-Andar, marchar\r\n31-A las aves locas, es mejor que las mires\r\n32-Lo dreno sin la presencia de un doctor\r\n33-A María Fernanda de cariño\r\n36-\"Roberto…\", vocalista de la banda de rock uruguaya 'El Cuarteto de Nos'\r\n37-Bacalao\r\n39-Aireas para que seque\r\n43-Sistema óptico para enfocar la cámara\r\n44-En la ópera de López\r\n46-Pieza de la armadura que protegía la garganta\r\n47-Lengua provenzal \r\n48-Hacer apto o adecuado para un fin específico \r\n50-Registro Mercantil Central\r\n51-Cesad de hacer algo\r\n54-Traes las artes de estar con la piel suave\r\n55-Ponen sobrenombres\r\n57-Interjección usada para preguntar o llamar\r\n59-Suelten ventosidades\r\n60-Membrana que envuelve el encéfalo y la médula espinal\r\n62-Hueco corporal\r\n64-Los proveas con tus talentos\r\n65-Palíndromo \"Ate la…\" \r\n66-Con las esperanzas rotas, sin fe en lo esperado",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,#,18,#,#,#,#,19,#\r\n20,#,#,#,#,21,#,#,#,22,#,#,#,#,#\r\n23,#,#,#,24,#,25,26,27,#,#,#,28,#,#\r\n29,#,#,#,#,#,#,30,#,#,#,31,#,#,#\r\n32,#,#,#,33,34,35,#,#,#,36,#,#,#,#\r\n#,#,#,#,37,#,#,#,#,38,#,#,#,#,#\r\n39,40,41,42,#,#,43,#,#,#,#,#,44,45,#\r\n46,#,#,#,#,#,47,#,#,#,48,49,#,#,#\r\n50,#,#,#,51,52,#,#,53,#,54,#,#,#,#\r\n55,#,#,56,#,#,#,#,57,58,#,59,#,#,#\r\n60,#,#,#,#,#,61,#,62,#,63,#,#,#,#\r\n#,#,64,#,#,#,#,#,65,#,#,#,#,#,#\r\n#,66,#,#,#,#,#,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

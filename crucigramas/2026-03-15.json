@@ -1,0 +1,499 @@
+{
+  "data": {
+    "id": 5069,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-14T21:53:20.941798Z",
+      "updatedAt": "2026-03-14T21:55:19.289162Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-15",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CLAVARAN#PACMAN\r\nALTIVEZ#A#DRACO\r\nNERD#PUIG#SOYAS\r\nAVIE#ECHO#LLAMO\r\nDOLO#LEERA###PT\r\nA###VEN#ALARGAR\r\n#FILERA#RETORNO\r\nR#BON#####AMO#S\r\nEROTICO#HALAGO#\r\nVENERAR#ALO###A\r\nEB###NIPLE#ALLI\r\nRELEI#LIAD#LEER\r\nTL#WS#LIGA#UNTE\r\nIDEAL#O#AÑADIRA\r\nREINAR#PROPINAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "País más septentrional del mundo",
+              "answer": "CANADA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Transporto, traslado",
+              "answer": "LLEVO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mueble que sirve para sostener partituras",
+              "answer": "ATRIL"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Representación audiovisual",
+              "answer": "VIDEO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Va de subida",
+              "answer": "AV"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Arrojar, lanzar o echar de sí algo con impulso o violencia",
+              "answer": "REPELER"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "En Iguazú cenan con esta flor",
+              "answer": "AZUCENA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Internet que no es de fibra óptica",
+              "answer": "ADSL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Estilo de natación más rápido",
+              "answer": "CROL"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Famosa abejita rebelde que protagoniza una caricatura",
+              "answer": "MAYA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Montan tiendas provisionales, y pasan la noche",
+              "answer": "ACAMPAN"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Otros nos ordenan, ellos no",
+              "answer": "NOSOTROS"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Predecir, anunciar, generalmente desdichas",
+              "answer": "AGORAR"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Índice Histórico Español",
+              "answer": "IHE"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Bale está en el centro de Gales",
+              "answer": "ALE"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Acudir, asistir aquí",
+              "answer": "VENIR"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Amárralo",
+              "answer": "ATALO"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Capital europea donde está El Coliseo",
+              "answer": "ROMA"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Agua caliente azucarada mezclada con ron",
+              "answer": "GROG"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"… de Plan\" el lago mágico del Pirineo Aragonés",
+              "answer": "IBON"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "Conjunto de objetos similares que se agrupan",
+              "answer": "LOTE"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Echar para atrás, por ejemplo, los efectos de algo",
+              "answer": "REVERTIR"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Insurrecto",
+              "answer": "REBELDE"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Perro, mamífero cánido",
+              "answer": "CAN"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Borde tejido en telas y tapices",
+              "answer": "ORILLO"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Reconocer y expresar los aciertos de alguien",
+              "answer": "HALAGAR"
+            },
+            "45": {
+              "col": 9,
+              "row": 8,
+              "clue": "Barrio contiguo",
+              "answer": "ALEDAÑO"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Poner al aire o ventilar algo",
+              "answer": "AIREAR"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "El sonido de la censura",
+              "answer": "PII"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Hice referencia a algo",
+              "answer": "ALUDI"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Predecesor de Stalin",
+              "answer": "LENIN"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "El guion de una canción, la…",
+              "answer": "LETRA"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Actor que interpreta a Mark Renton en Trainspotting",
+              "answer": "EWAN"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"La… bonita\" cantada por Madonna en 1987",
+              "answer": "ISLA"
+            },
+            "65": {
+              "col": 2,
+              "row": 13,
+              "clue": "Saliendo de Taipéi",
+              "answer": "EI"
+            },
+            "67": {
+              "col": 10,
+              "row": 13,
+              "clue": "Austin Powers",
+              "answer": "AP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La fijarán durante ese raro carnaval",
+              "answer": "CLAVARAN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Famoso personaje de videojuegos inspirado en una pizza",
+              "answer": "PACMAN"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Cualidad de quien se cree superior a los demás",
+              "answer": "ALTIVEZ"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"… Malfoy\" el de Harry Potter",
+              "answer": "DRACO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Término despectivo para los estudiosos",
+              "answer": "NERD"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Compañía multinacional española que opera en los sectores de la moda y los perfumes",
+              "answer": "PUIG"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Salsa de origen chino (pl)",
+              "answer": "SOYAS"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Me arreglé para salir, me…",
+              "answer": "AVIE"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Lo tiro, lo arrojo a la basura",
+              "answer": "ECHO"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Telefoneo",
+              "answer": "LLAMO"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "No hay tanto dolor en ese fraude",
+              "answer": "DOLO"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Comprenderá lo escrito",
+              "answer": "LEERA"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Dominio web para Portugal",
+              "answer": "PT"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Acércate, camina hacia acá",
+              "answer": "VEN"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Estirar",
+              "answer": "ALARGAR"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Arte de pesca en las albuferas",
+              "answer": "FILERA"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "El del Jedi, en el Episodio VI de Star Wars",
+              "answer": "RETORNO"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "\"… Jovi\", cantando 'It's my life'",
+              "answer": "BON"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "Dueño de esclavos",
+              "answer": "AMO"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Relativo al amor o al placer sexual (masc)",
+              "answer": "EROTICO"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Lisonja, elogio",
+              "answer": "HALAGO"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Adorar, idolatrar",
+              "answer": "VENERAR"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "El surfista la ve elevarse",
+              "answer": "ALO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Emily Blunt",
+              "answer": "EB"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Pieza cilíndrica, con rosca en sus extremos, que sirve para empalmar tuberías",
+              "answer": "NIPLE"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Ahí está la loca Lila",
+              "answer": "ALLI"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Volví a leer",
+              "answer": "RELEI"
+            },
+            "58": {
+              "col": 6,
+              "row": 11,
+              "clue": "Armad un cigarrillo",
+              "answer": "LIAD"
+            },
+            "59": {
+              "col": 11,
+              "row": 11,
+              "clue": "Pasar la vista por lo escrito",
+              "answer": "LEER"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del Talio",
+              "answer": "TL"
+            },
+            "61": {
+              "col": 3,
+              "row": 12,
+              "clue": "En los autógrafos de Will Smith",
+              "answer": "WS"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Enlace, link",
+              "answer": "LIGA"
+            },
+            "63": {
+              "col": 11,
+              "row": 12,
+              "clue": "Aplique y extienda sobre la piel, el bronceador",
+              "answer": "UNTE"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Excelente, perfecto en su línea",
+              "answer": "IDEAL"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Agregará",
+              "answer": "AÑADIRA"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "Ejercer en una monarquía la jefatura del Estado",
+              "answer": "REINAR"
+            },
+            "69": {
+              "col": 7,
+              "row": 14,
+              "clue": "Ofrecer generosamente",
+              "answer": "PROPINAR"
+            }
+          }
+        },
+        "vertical_clues": "1-País más septentrional del mundo\r\n2-Transporto, traslado\r\n3-Mueble que sirve para sostener partituras\r\n4-Representación audiovisual\r\n5-Va de subida \r\n6-Arrojar, lanzar o echar de sí algo con impulso o violencia\r\n7-En Iguazú cenan con esta flor\r\n9-Internet que no es de fibra óptica\r\n10-Estilo de natación más rápido\r\n11-Famosa abejita rebelde que protagoniza una caricatura\r\n12-Montan tiendas provisionales, y pasan la noche\r\n13-Otros nos ordenan, ellos no\r\n15-Predecir, anunciar, generalmente desdichas\r\n19-Índice Histórico Español\r\n26-Bale está en el centro de Gales\r\n28-Acudir, asistir aquí\r\n30-Amárralo\r\n31-Capital europea donde está El Coliseo\r\n32-Agua caliente azucarada mezclada con ron\r\n34-\"… de Plan\" el lago mágico del Pirineo Aragonés\r\n35-Conjunto de objetos similares que se agrupan\r\n37-Echar para atrás, por ejemplo, los efectos de algo\r\n41-Insurrecto\r\n42-Perro, mamífero cánido\r\n43-Borde tejido en telas y tapices \r\n44-Reconocer y expresar los aciertos de alguien\r\n45-Barrio contiguo\r\n48-Poner al aire o ventilar algo\r\n51-El sonido de la censura\r\n52-Hice referencia a algo\r\n53-Predecesor de Stalin\r\n54-El guion de una canción, la…\r\n56-Actor que interpreta a Mark Renton en Trainspotting\r\n57-\"La… bonita\" cantada por Madonna en 1987\r\n65-Saliendo de Taipéi\r\n67-Austin Powers",
+        "horizontal_clues": "1-La fijarán durante ese raro carnaval\r\n8-Famoso personaje de videojuegos inspirado en una pizza\r\n14-Cualidad de quien se cree superior a los demás \r\n16-\"… Malfoy\" el de Harry Potter\r\n17-Término despectivo para los estudiosos\r\n18-Compañía multinacional española que opera en los sectores de la moda y los perfumes\r\n20-Salsa de origen chino (pl)\r\n21-Me arreglé para salir, me…\r\n22-Lo tiro, lo arrojo a la basura \r\n23-Telefoneo\r\n24-No hay tanto dolor en ese fraude\r\n25-Comprenderá lo escrito\r\n27-Dominio web para Portugal\r\n28-Acércate, camina hacia acá\r\n29-Estirar\r\n33-Arte de pesca en las albuferas\r\n36-El del Jedi, en el Episodio VI de Star Wars\r\n38-\"… Jovi\", cantando 'It's my life'\r\n39-Dueño de esclavos\r\n40-Relativo al amor o al placer sexual (masc)\r\n44-Lisonja, elogio\r\n46-Adorar, idolatrar\r\n47-El surfista la ve elevarse\r\n49-Emily Blunt\r\n50-Pieza cilíndrica, con rosca en sus extremos, que sirve para empalmar tuberías\r\n52-Ahí está la loca Lila\r\n55-Volví a leer\r\n58-Armad un cigarrillo\r\n59-Pasar la vista por lo escrito\r\n60-Símbolo químico del Talio\r\n61-En los autógrafos de Will Smith\r\n62-Enlace, link\r\n63-Aplique y extienda sobre la piel, el bronceador\r\n64-Excelente, perfecto en su línea\r\n66-Agregará\r\n68-Ejercer en una monarquía la jefatura del Estado\r\n69-Ofrecer generosamente",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,15,#,16,#,#,#,#\r\n17,#,#,#,#,18,#,19,#,#,20,#,#,#,#\r\n21,#,#,#,#,22,#,#,#,#,23,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,#,#,27,#\r\n#,#,#,#,28,#,#,#,29,#,30,31,32,#,#\r\n#,33,34,35,#,#,#,#,36,#,#,#,#,#,#\r\n37,#,38,#,#,#,#,#,#,#,39,#,#,#,#\r\n40,41,#,#,#,42,43,#,44,45,#,#,#,#,#\r\n46,#,#,#,#,#,#,#,47,#,#,#,#,#,48\r\n49,#,#,#,#,50,#,51,#,#,#,52,53,54,#\r\n55,#,#,56,57,#,58,#,#,#,#,59,#,#,#\r\n60,#,#,61,#,#,62,#,#,#,#,63,#,#,#\r\n64,#,65,#,#,#,#,#,66,#,67,#,#,#,#\r\n68,#,#,#,#,#,#,69,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

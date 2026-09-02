@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5873,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-24T17:32:20.879338Z",
+      "updatedAt": "2026-05-24T17:33:53.784369Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-25",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EXALTAR#BIOPSIA\r\nM#CUEVA#MENE##G\r\nP#ACTIVO#SERENA\r\nASTEROIDE#ACNUR\r\nSIESA#OIT#LATER\r\nTUS##PLENO#NEVO\r\nAX#PURI#ALACRAN\r\n##MEMO###IDEE##\r\nEMANAIS#FANS#DC\r\nRUNA#ZAGAS##AEI\r\nULALA#KIM#HORDA\r\nDATIL#EROGACION\r\nINICUO#ASOCIA#U\r\nT##EDIL#ODEON#R\r\nALINEAR#SONSACO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Encuaderna en pasta un libro",
+              "answer": "EMPASTA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Sigas las instrucciones al pie de la letra",
+              "answer": "ACATES"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lo que ilumina al árbol de navidad",
+              "answer": "LUCES"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Prefijo que significa cuatro",
+              "answer": "TETRA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Prevención, apresto",
+              "answer": "AVIO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pasta rellena de carne",
+              "answer": "RAVIOLI"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Iniciales de exdictador italiano",
+              "answer": "BM"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Plural de la tercera vocal",
+              "answer": "IES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Shaquille…\" exjugador de baloncesto estadounidense",
+              "answer": "ONEAL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Contratiempos, daños, perjuicios imprevistos",
+              "answer": "PERCANCES"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Coloquial: Discusión, pelea",
+              "answer": "AGARRON"
+            },
+            "15": {
+              "col": 7,
+              "row": 2,
+              "clue": "Nombre del perro compañero del gato Garfield",
+              "answer": "ODIE"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Lo supe, me lo contaron, ya me…",
+              "answer": "ENTERE"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Recién hecha",
+              "answer": "NUEVA"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Pueblo indígena norteamericano",
+              "answer": "SIUX"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "El volcán siciliano, todo un clásico",
+              "answer": "ETNA"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Mar Piedra en tierra, en que se amarra la embarcación",
+              "answer": "PROIZ"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Te lo sospechabas, te lo…",
+              "answer": "OLIAS"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Tipifiquen como delito una conducta",
+              "answer": "PENALICEN"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Actriz que interpreta a La Novia en 'Kill Bill'",
+              "answer": "UMA"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Prueba de paternidad",
+              "answer": "ADN"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "En secreto te filman a ti con una vaca marina",
+              "answer": "MANATI"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Profunda conocedora de documentos relativos a una ciencia o arte",
+              "answer": "ERUDITA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Princesa china de Disney",
+              "answer": "MULAN"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Bebida japonesa o vino de arroz nihonshu",
+              "answer": "SAKE"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Los que ansían privacidad",
+              "answer": "FAMOSOS"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Elegido a…, (no por méritos, sino por contactos)",
+              "answer": "DEDO"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Sal del ácido cianhídrico, de toxicidad elevada",
+              "answer": "CIANURO"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Serie de actuaciones sucesivas de un artista en diferentes localidades",
+              "answer": "GIRA"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Nacida bajo el signo zodiacal de Aries",
+              "answer": "ARIANA"
+            },
+            "48": {
+              "col": 4,
+              "row": 10,
+              "clue": "Apunta, insinúa, sugiere",
+              "answer": "ALUDE"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Realizan",
+              "answer": "HACEN"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Cesación del trabajo, inacción (pl)",
+              "answer": "OCIOS"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Pueblo germánico fundador de reinos en España e Italia",
+              "answer": "GODO"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Escuchaba, percibía el sonido",
+              "answer": "OIA"
+            },
+            "59": {
+              "col": 6,
+              "row": 13,
+              "clue": "Inic del fundador del grupo automovilístico Renault",
+              "answer": "LR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Enaltecer, aclamar, realzar",
+              "answer": "EXALTAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Muestra de tejido tomada con fines diagnósticos",
+              "answer": "BIOPSIA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Lo que estudian los espeleólogos (sing)",
+              "answer": "CUEVA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Manantial natural de petróleo",
+              "answer": "MENE"
+            },
+            "14": {
+              "col": 2,
+              "row": 2,
+              "clue": "Pongo en marcha uno de los bienes de la empresa",
+              "answer": "ACTIVO"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "Juega al tenis muy tranquila, la Williams",
+              "answer": "SERENA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Planeta telescópico cuya órbita está entre Marte y Júpiter",
+              "answer": "ASTEROIDE"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "De la ONU, esta es la agencia para los refugiados",
+              "answer": "ACNUR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Sí, esa persona es antipática y desabrida",
+              "answer": "SIESA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Regresa el hermano de mi padre",
+              "answer": "OIT"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"Luego\" en inglés",
+              "answer": "LATER"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Adj posesivo tuyo (pl)",
+              "answer": "TUS"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Se comió todo en el comedor, hizo…",
+              "answer": "PLENO"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Cayó mucha nieve",
+              "answer": "NEVO"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Achaque",
+              "answer": "AX"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Con cariño a Purificación",
+              "answer": "PURI"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Escorpión, arácnido",
+              "answer": "ALACRAN"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Tonto, simple, mentecato",
+              "answer": "MEMO"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "¡Edie, se me ocurrió algo!",
+              "answer": "IDEE"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Irradiáis",
+              "answer": "EMANAIS"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Estas son groupies",
+              "answer": "FANS"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"Después de Cristo\" (abrev)",
+              "answer": "DC"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Carácter de la escritura de los antiguos escandinavos",
+              "answer": "RUNA"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Milicia Últimos cuerpos de tropas en marcha",
+              "answer": "ZAGAS"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Las primeras vocales",
+              "answer": "AEI"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Especie de cactus",
+              "answer": "ULALA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"… Jong",
+              "answer": "KIM"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Comunidad de salvajes nómadas",
+              "answer": "HORDA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Parece que no es fácil esta fruta desecada",
+              "answer": "DATIL"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Distribución de bienes y caudales",
+              "answer": "EROGACION"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Que no tiene equidad o es injusto",
+              "answer": "INICUO"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Relaciona las ideas",
+              "answer": "ASOCIA"
+            },
+            "58": {
+              "col": 3,
+              "row": 13,
+              "clue": "Antiguos romanos: Magistrado encargado de las obras públicas",
+              "answer": "EDIL"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Edificio teatral en la antigua Grecia",
+              "answer": "ODEON"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Colocar tres o más cosas en línea recta",
+              "answer": "ALINEAR"
+            },
+            "62": {
+              "col": 8,
+              "row": 14,
+              "clue": "Obtengo de información mediante engaño",
+              "answer": "SONSACO"
+            }
+          }
+        },
+        "vertical_clues": "1-Encuaderna en pasta un libro\r\n2-Sigas las instrucciones al pie de la letra\r\n3-Lo que ilumina al árbol de navidad\r\n4-Prefijo que significa cuatro\r\n5-Prevención, apresto\r\n6-Pasta rellena de carne\r\n7-Iniciales de exdictador italiano\r\n8-Plural de la tercera vocal\r\n9-\"Shaquille…\" exjugador de baloncesto estadounidense\r\n10-Contratiempos, daños, perjuicios imprevistos\r\n11-Coloquial: Discusión, pelea\r\n15-Nombre del perro compañero del gato Garfield\r\n17-Lo supe, me lo contaron, ya me…\r\n18-Recién hecha\r\n20-Pueblo indígena norteamericano\r\n21-El volcán siciliano, todo un clásico\r\n27-Mar Piedra en tierra, en que se amarra la embarcación\r\n28-Te lo sospechabas, te lo…\r\n31-Tipifiquen como delito una conducta\r\n32-Actriz que interpreta a La Novia en 'Kill Bill' \r\n34-Prueba de paternidad\r\n35-En secreto te filman a ti con una vaca marina\r\n37-Profunda conocedora de documentos relativos a una ciencia o arte\r\n38-Princesa china de Disney\r\n39-Bebida japonesa o vino de arroz nihonshu\r\n40-Los que ansían privacidad\r\n41-Elegido a…, (no por méritos, sino por contactos)\r\n42-Sal del ácido cianhídrico, de toxicidad elevada\r\n45-Serie de actuaciones sucesivas de un artista en diferentes localidades\r\n46-Nacida bajo el signo zodiacal de Aries\r\n48-Apunta, insinúa, sugiere\r\n50-Realizan\r\n51-Cesación del trabajo, inacción (pl)\r\n54-Pueblo germánico fundador de reinos en España e Italia\r\n56-Escuchaba, percibía el sonido\r\n59-Inic del fundador del grupo automovilístico Renault",
+        "horizontal_clues": "1-Enaltecer, aclamar, realzar\r\n7-Muestra de tejido tomada con fines diagnósticos\r\n12-Lo que estudian los espeleólogos (sing)\r\n13-Manantial natural de petróleo\r\n14-Pongo en marcha uno de los bienes de la empresa\r\n16-Juega al tenis muy tranquila, la Williams\r\n19-Planeta telescópico cuya órbita está entre Marte y Júpiter\r\n22-De la ONU, esta es la agencia para los refugiados\r\n23-Sí, esa persona es antipática y desabrida\r\n24-Regresa el hermano de mi padre\r\n25-\"Luego\" en inglés\r\n26-Adj posesivo tuyo (pl)\r\n27-Se comió todo en el comedor, hizo…\r\n29-Cayó mucha nieve\r\n30-Achaque\r\n31-Con cariño a Purificación\r\n33-Escorpión, arácnido\r\n35-Tonto, simple, mentecato\r\n36-¡Edie, se me ocurrió algo! \r\n37-Irradiáis\r\n40-Estas son groupies\r\n41-\"Después de Cristo\" (abrev)\r\n43-Carácter de la escritura de los antiguos escandinavos\r\n44-Milicia Últimos cuerpos de tropas en marcha\r\n46-Las primeras vocales\r\n47-Especie de cactus\r\n49-\"… Jong-un\" dictador de Corea del Norte\r\n50-Comunidad de salvajes nómadas \r\n52-Parece que no es fácil esta fruta desecada\r\n53-Distribución de bienes y caudales\r\n55-Que no tiene equidad o es injusto\r\n57-Relaciona las ideas\r\n58-Antiguos romanos: Magistrado encargado de las obras públicas\r\n60-Edificio teatral en la antigua Grecia\r\n61-Colocar tres o más cosas en línea recta\r\n62-Obtengo de información mediante engaño",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,#,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n#,#,14,#,#,#,#,15,#,16,#,#,17,18,#\r\n19,20,#,#,#,#,#,#,21,#,22,#,#,#,#\r\n23,#,#,#,#,#,24,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,31,32,#,#,#,33,#,34,#,#,#,#\r\n#,#,35,#,#,#,#,#,#,36,#,#,#,#,#\r\n37,38,#,#,#,#,39,#,40,#,#,#,#,41,42\r\n43,#,#,#,#,44,#,45,#,#,#,#,46,#,#\r\n47,#,#,#,48,#,49,#,#,#,50,51,#,#,#\r\n52,#,#,#,#,#,53,#,#,54,#,#,#,#,#\r\n55,#,#,#,#,56,#,57,#,#,#,#,#,#,#\r\n#,#,#,58,#,#,59,#,60,#,#,#,#,#,#\r\n61,#,#,#,#,#,#,#,62,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

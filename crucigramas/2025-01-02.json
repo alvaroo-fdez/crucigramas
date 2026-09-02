@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 1484,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-31T11:52:56.583557Z",
+      "updatedAt": "2024-12-31T11:52:56.641927Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-02",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#SIEMBRA#TUPAC#\r\nMANDILON#ABACOS\r\nULS#ROBO#SESAMO\r\nTITA#CANSADO#PN\r\nITALA#RIERA#MOD\r\nSARIS##MR##TASE\r\n###FULGOR#FINTA\r\nACLAMAR#ALIENAR\r\nCAUTO#ACTUAS###\r\nELIO##ZR##CUASI\r\nLAS#SONIC#ARBOL\r\nEV#DEBATIR#AUPE\r\nREPARE#IÑAS#ELO\r\nORUGAS#CEPELLON\r\n#ACASO#ASALTAN#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La sala de estar de una casa de muñecas",
+              "answer": "SALITA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Insistir en una solicitud",
+              "answer": "INSTAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"… Wood\", película de Tim Burton (1994)",
+              "answer": "ED"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Médico Interno Residente (siglas)",
+              "answer": "MIR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cuadernillo de ilustrador",
+              "answer": "BLOC"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hurtar bienes ajenos",
+              "answer": "ROBAR"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Escrito que no lleva el nombre de su autor",
+              "answer": "ANONIMO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Fijar oficialmente el precio para una mercancía",
+              "answer": "TASAR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Ciudad natal de Joaquín Sabina",
+              "answer": "UBEDA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… a …\", poco a poco",
+              "answer": "PASO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "En principio, aquí con amor",
+              "answer": "ACA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Abono orgánico hecho de residuos",
+              "answer": "COMPOSTA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "'Hacer… por el foro', salir de una escena",
+              "answer": "MUTIS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Hacer las primeras averiguaciones sobre alguien o algo",
+              "answer": "SONDEAR"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Serie de las consonantes árabes, conforme a un orden tradicional",
+              "answer": "ALIFATO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "El cantautor del tema 'Mediterráneo'",
+              "answer": "SERRAT"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Me responsabilizo de algo, lo acepto",
+              "answer": "ASUMO"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "\"Thomas…\" Nobel en 1929 por la novela 'Los Buddenbrook'",
+              "answer": "MANN"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Dureza o rigidez",
+              "answer": "TIESURA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Jim Morrison cantando \"… woman\"",
+              "answer": "LA"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Emite sonidos el cuervo",
+              "answer": "GRAZNA"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Uruguay Hambre, gana y necesidad de comer",
+              "answer": "FIACA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Catalizó un proceso",
+              "answer": "ACELERO"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Símbolo de  muerte, de peligro o de sustancia tóxica",
+              "answer": "CALAVERA"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "\"… I de España\" con el reinado más corto de la historia española",
+              "answer": "LUIS"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Media luna",
+              "answer": "LU"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Análisis detallado de una obra artística",
+              "answer": "CRITICA"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "La mamá de mi mamá",
+              "answer": "ABUELA"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "Sapo, topo",
+              "answer": "SOPLON"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "3ª porción del intestino delgado",
+              "answer": "ILEON"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Estarás, existirás",
+              "answer": "SERAS"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Gordísimo",
+              "answer": "OBESO"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Rodeas con una banda o faja",
+              "answer": "CIÑES"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Arma blanca",
+              "answer": "DAGA"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Se corta el cabello completamente, se…",
+              "answer": "RAPA"
+            },
+            "59": {
+              "col": 2,
+              "row": 12,
+              "clue": "La CPU está desconfigurada",
+              "answer": "PUC"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Poco selectiva",
+              "answer": "SEL"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Iniciales del desarrollador del sistema operativo Linux",
+              "answer": "LT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Cada uno cosecha lo que…\"",
+              "answer": "SIEMBRA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Shakur\" importante rapero estadounidense",
+              "answer": "TUPAC"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Esposo dominado por su mujer",
+              "answer": "MANDILON"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Para hacer cálculos básicos, mejor los caobas",
+              "answer": "ABACOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Universidad de La Serena",
+              "answer": "ULS"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "¡Broo! esto es un atraco",
+              "answer": "ROBO"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "'Ábrete…' la frase mágica de Alí Babá",
+              "answer": "SESAMO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mi tía, mi…",
+              "answer": "TITA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "El perro sadomasoquista me tiene extenuado",
+              "answer": "CANSADO"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Lo que tienen en común Pablo Neruda y Pedro Navaja",
+              "answer": "PN"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "De procedencia italiana (fem)",
+              "answer": "ITALA"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "Gracioso el riachuelo",
+              "answer": "RIERA"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Modo incompleto",
+              "answer": "MOD"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vestidos típicos de las mujeres indias",
+              "answer": "SARIS"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Míster Marco Reus",
+              "answer": "MR"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Fijé oficialmente el precio para una mercancía",
+              "answer": "TASE"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Brillo intenso y resplandeciente",
+              "answer": "FULGOR"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Ademán o amago que se hace con intención de engañar",
+              "answer": "FINTA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Conferir, por voz común, algún cargo u honor",
+              "answer": "ACLAMAR"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Enajenar",
+              "answer": "ALIENAR"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sé precavido y no confundas la cuota",
+              "answer": "CAUTO"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Interpretas un papel en una obra",
+              "answer": "ACTUAS"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… González\", el hijo de los Guerra en 'Aquí no hay quien viva'",
+              "answer": "ELIO"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Símbolo químico del Zirconio",
+              "answer": "ZR"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Prefijo que significa casi",
+              "answer": "CUASI"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Un artículo para ellas",
+              "answer": "LAS"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "El erizo azul de Sega",
+              "answer": "SONIC"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "En albor caótico del mundo, este ya estaba presente",
+              "answer": "ARBOL"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Mira por el espejo",
+              "answer": "EV"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Discutir diferentes puntos de vista",
+              "answer": "DEBATIR"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Yo lo incité a tomar esa decisión, lo…",
+              "answer": "AUPE"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Enmendé, corregí o remedié",
+              "answer": "REPARE"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Piñas sin corona",
+              "answer": "IÑAS"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Sistema de puntuación del ajedrez",
+              "answer": "ELO"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Estructuras de propulsión de tanques de guerra",
+              "answer": "ORUGAS"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Tierra que rodea las raíces de una planta",
+              "answer": "CEPELLON"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Por si las moscas, por si…",
+              "answer": "ACASO"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Atacan repentinamente",
+              "answer": "ASALTAN"
+            }
+          }
+        },
+        "vertical_clues": "1-La sala de estar de una casa de muñecas\r\n2-Insistir en una solicitud\r\n3-\"… Wood\", película de Tim Burton (1994)\r\n4-Médico Interno Residente (siglas)\r\n5-Cuadernillo de ilustrador\r\n6-Hurtar bienes ajenos \r\n7-Escrito que no lleva el nombre de su autor\r\n8-Fijar oficialmente el precio para una mercancía\r\n9-Ciudad natal de Joaquín Sabina\r\n10-\"… a …\", poco a poco\r\n11-En principio, aquí con amor\r\n12-Abono orgánico hecho de residuos \r\n13-'Hacer… por el foro', salir de una escena\r\n15-Hacer las primeras averiguaciones sobre alguien o algo\r\n20-Serie de las consonantes árabes, conforme a un orden tradicional\r\n22-El cantautor del tema 'Mediterráneo'\r\n25-Me responsabilizo de algo, lo acepto\r\n27-\"Thomas…\" Nobel en 1929 por la novela 'Los Buddenbrook'\r\n30-Dureza o rigidez\r\n32-Jim Morrison cantando \"… woman\" \r\n33-Emite sonidos el cuervo \r\n34-Uruguay Hambre, gana y necesidad de comer\r\n35-Catalizó un proceso\r\n36-Símbolo de  muerte, de peligro o de sustancia tóxica\r\n37-\"… I de España\" con el reinado más corto de la historia española \r\n39-Media luna\r\n42-Análisis detallado de una obra artística \r\n46-La mamá de mi mamá\r\n47-Sapo, topo\r\n48-3ª porción del intestino delgado\r\n50-Estarás, existirás\r\n51-Gordísimo\r\n52-Rodeas con una banda o faja \r\n55-Arma blanca\r\n56-Se corta el cabello completamente, se…\r\n59-La CPU está desconfigurada\r\n61-Poco selectiva\r\n65-Iniciales del desarrollador del sistema operativo Linux\r\n",
+        "horizontal_clues": "1-\"Cada uno cosecha lo que…\"\r\n8-\"… Shakur\" importante rapero estadounidense\r\n13-Esposo dominado por su mujer \r\n14-Para hacer cálculos básicos, mejor los caobas\r\n16-Universidad de La Serena\r\n17-¡Broo! esto es un atraco\r\n18-'Ábrete…' la frase mágica de Alí Babá\r\n19-Mi tía, mi…\r\n21-El perro sadomasoquista me tiene extenuado\r\n23-Lo que tienen en común Pablo Neruda y Pedro Navaja\r\n24-De procedencia italiana (fem)\r\n26-Gracioso el riachuelo\r\n27-Modo incompleto\r\n28-Vestidos típicos de las mujeres indias\r\n29-Míster Marco Reus\r\n30-Fijé oficialmente el precio para una mercancía\r\n31-Brillo intenso y resplandeciente \r\n34-Ademán o amago que se hace con intención de engañar\r\n35-Conferir, por voz común, algún cargo u honor\r\n38-Enajenar \r\n40-Sé precavido y no confundas la cuota\r\n41-Interpretas un papel en una obra \r\n43-\"… González\", el hijo de los Guerra en 'Aquí no hay quien viva'\r\n44-Símbolo químico del Zirconio\r\n45-Prefijo que significa casi\r\n49-Un artículo para ellas\r\n50-El erizo azul de Sega\r\n53-En albor caótico del mundo, este ya estaba presente\r\n54-Mira por el espejo\r\n55-Discutir diferentes puntos de vista \r\n57-Yo lo incité a tomar esa decisión, lo…\r\n58-Enmendé, corregí o remedié\r\n60-Piñas sin corona \r\n62-Sistema de puntuación del ajedrez\r\n63-Estructuras de propulsión de tanques de guerra\r\n64-Tierra que rodea las raíces de una planta \r\n66-Por si las moscas, por si…\r\n67-Atacan repentinamente\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,#,14,#,#,#,#,15\r\n16,#,#,#,17,#,#,#,#,18,#,#,#,#,#\r\n19,#,#,20,#,21,#,#,22,#,#,#,#,23,#\r\n24,#,#,#,25,#,26,#,#,#,#,#,27,#,#\r\n28,#,#,#,#,#,#,29,#,#,#,30,#,#,#\r\n#,#,#,31,#,32,33,#,#,#,34,#,#,#,#\r\n35,36,37,#,#,#,#,#,38,39,#,#,#,#,#\r\n40,#,#,#,#,#,41,42,#,#,#,#,#,#,#\r\n43,#,#,#,#,#,44,#,#,#,45,#,46,47,48\r\n49,#,#,#,50,51,#,#,52,#,53,#,#,#,#\r\n54,#,#,55,#,#,#,#,#,56,#,57,#,#,#\r\n58,#,59,#,#,#,#,60,#,#,61,#,62,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,65,#,#,#\r\n#,66,#,#,#,#,#,67,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 260,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-22T09:30:01.718507Z",
+      "updatedAt": "2024-05-30T06:07:14.373503Z",
+      "level": null,
+      "creationDate": "2024-05-27",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-27",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACOGIDA###TAPIR\r\nHARAKIRI#FOGOSO\r\nIZARE#ANTIBALAS\r\nLACRA#GOOFY#IBA\r\nADIA#POPPA#JOEL\r\nROO#FONIO#CU#LE\r\n##NAUSEA#SEGUID\r\nVIERNES#GALAXIA\r\nURSIDO#FINADO##\r\nLR#DA#REMES#REC\r\nNIDO#PORNO#DIVA\r\nETE#MEDIA#BACAN\r\nRAPSODIAS#AVISO\r\nADORNO#SILBIDOS\r\nRANAS###ANISARA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ir uno tras otro formando hilera.",
+              "answer": "AHILAR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Atrapado el animal.",
+              "answer": "CAZADO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Conjunto de palabras con que se expresa un sentido gramatical completo (pl).",
+              "answer": "ORACIONES"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Zarpa, garfio, gancho.",
+              "answer": "GARRA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Marca sueca, experta en muebles desarmables.",
+              "answer": "IKEA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pronuncia 501 en romano antiguo.",
+              "answer": "DI"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "El Pirineo donde se ubica el pico Aneto.",
+              "answer": "ARAGONES"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Tod y...\", el zorro y el sabueso de Disney.",
+              "answer": "TOBY"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Amazon, Google y Apple.",
+              "answer": "AGA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vacuna desarrollada por Jonas Salk 1952.",
+              "answer": "POLIO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Actual reina del Reino Unido.",
+              "answer": "ISABELII"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Jardín o lugar donde se cultivan rosas.",
+              "answer": "ROSALEDA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Indigencia, pobreza, escasez.",
+              "answer": "INOPIA"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Institución con todas las federaciones de fútbol.",
+              "answer": "FIFA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Pobre animal, siempre lo acusan de espía.",
+              "answer": "TOPO"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Tengo, conservo.",
+              "answer": "POSEO"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Usad la Play.",
+              "answer": "JUGAD"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Saco que cubre la almohada.",
+              "answer": "FUNDA"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Desconfías de las relaciones interpersonales de tu pareja.",
+              "answer": "CELAS"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Muy seco.",
+              "answer": "ARIDO"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Libero de dificultades, limpio algo.",
+              "answer": "SANEO"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Persona que mata a su mujer.",
+              "answer": "UXORICIDA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Abrir grietas en la armadura del alma.",
+              "answer": "VULNERAR"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Colérica y con la piel excoriada.",
+              "answer": "IRRITADA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ejercicio que fortalece el cuerpo y la mente.",
+              "answer": "GIMNASIA"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "No hay que fiarse de la fieras que están en la exposición.",
+              "answer": "FERIAS"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Rodillos rotos.",
+              "answer": "RODI"
+            },
+            "42": {
+              "col": 13,
+              "row": 9,
+              "clue": "Evita pagar los impuestos, es un...",
+              "answer": "EVASOR"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "Mujer de cabello blanco.",
+              "answer": "CANOSA"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Baja las armas.",
+              "answer": "DEPON"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ventosidad que se expele del vientre por el ano.",
+              "answer": "PEDO"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "La Copa Mundial de Tenis.",
+              "answer": "DAVIS"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Ciudad belga que aloja al Cuartel General de la OTAN.",
+              "answer": "MONS"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Barbara Guillén, la cantante madrileña del tema 'Lo jodiste'.",
+              "answer": "BABI"
+            },
+            "52": {
+              "col": 3,
+              "row": 12,
+              "clue": "La señora de Israel.",
+              "answer": "SRA"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Leonard Nimoy (el primer Sr. Spock en Star Trek).",
+              "answer": "LN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hogares de resguardo, para niños temporalmente sin hogar.",
+              "answer": "ACOGIDA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Danta, pariente lejano del rinoceronte.",
+              "answer": "TAPIR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Antigua práctica japonesa de suicidio ritual.",
+              "answer": "HARAKIRI"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Ese tipo es ardiente, apasionado.",
+              "answer": "FOGOSO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Subiré la velas.",
+              "answer": "IZARE"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Se alistaban mejor con chaleco de los polis.",
+              "answer": "ANTIBALAS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Vicio físico o moral que marca a quien lo tiene.",
+              "answer": "LACRA"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "El amigo de Mickey que patina con el pie derecho adelante.",
+              "answer": "GOOFY"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "El número de cuenta, está incompleto.",
+              "answer": "IBA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Señala o fija día.",
+              "answer": "ADIA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"... de Bayeux\" madre de Guillermo I de Normandía.",
+              "answer": "POPPA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"Billy...\" cantautor estadounidense autor del tema 'Piano Man' (1973).",
+              "answer": "JOEL"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Quintana...\" estado mexicano donde está Cancún.",
+              "answer": "ROO"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Acústica. Unidad de medida de la sonoridad.",
+              "answer": "FONIO"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Símbolo químico del cobre.",
+              "answer": "CU"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Iniciales de la mexicana autora de 'Como agua para chocolate'.",
+              "answer": "LE"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "Repugnancia o aversión que causa algo.",
+              "answer": "NAUSEA"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Perseguid, hostigad.",
+              "answer": "SEGUID"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Día de la semana: \"día de Venus\", en honor de la Diosa romana.",
+              "answer": "VIERNES"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Comunidad sideral.",
+              "answer": "GALAXIA"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "El Oso parece urgido.",
+              "answer": "URSIDO"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Hombre muerto.",
+              "answer": "FINADO"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Inic. del fundador del grupo automovilístico Renault.",
+              "answer": "LR"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Sí, en ruso.",
+              "answer": "DA"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Impelas manualmente la embarcación en el agua.",
+              "answer": "REMES"
+            },
+            "41": {
+              "col": 12,
+              "row": 9,
+              "clue": "Acortamiento de Recording.",
+              "answer": "REC"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "El regreso del dios vikingo.",
+              "answer": "NIDO"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Película con alto contenido sexual.",
+              "answer": "PORNO"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Artista del mundo del espectáculo.",
+              "answer": "DIVA"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Siete negativos.",
+              "answer": "ETE"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Su estatura era...",
+              "answer": "MEDIA"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Colombia. Muy bueno, estupendo, excelente.",
+              "answer": "BACAN"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pasaje amplio de un poema épico (pl).",
+              "answer": "RAPSODIAS"
+            },
+            "53": {
+              "col": 10,
+              "row": 12,
+              "clue": "Advertencia, notificación.",
+              "answer": "AVISO"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Engalanó a Horkheimer, para ir a un concierto en Frankfurt.",
+              "answer": "ADORNO"
+            },
+            "55": {
+              "col": 7,
+              "row": 13,
+              "clue": "Sonidos agudos producidos al soplar aire a través de los labios.",
+              "answer": "SILBIDOS"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "Batracios, anuros.",
+              "answer": "RANAS"
+            },
+            "58": {
+              "col": 8,
+              "row": 14,
+              "clue": "Echará anís a algo.",
+              "answer": "ANISARA"
+            }
+          }
+        },
+        "vertical_clues": "1-Ir uno tras otro formando hilera.\r\n2-Atrapado el animal.\r\n3-Conjunto de palabras con que se expresa un sentido gramatical completo (pl).\r\n4-Zarpa, garfio, gancho.\r\n5-Marca sueca, experta en muebles desarmables.\r\n6-Pronuncia 501 en romano antiguo.\r\n7-El Pirineo donde se ubica el pico Aneto.\r\n8-\"Tod y...\", el zorro y el sabueso de Disney.\r\n9-Amazon, Google y Apple.\r\n10-Vacuna desarrollada por Jonas Salk 1952.\r\n11-Actual reina del Reino Unido.\r\n12-Jardín o lugar donde se cultivan rosas.\r\n14-Indigencia, pobreza, escasez.\r\n15-Institución con todas las federaciones de fútbol.\r\n18-Pobre animal, siempre lo acusan de espía.\r\n23-Tengo, conservo.\r\n24-Usad la Play.\r\n26-Saco que cubre la almohada.\r\n27-Desconfías de las relaciones interpersonales de tu pareja.\r\n30-Muy seco.\r\n31-Libero de dificultades, limpio algo.\r\n32-Persona que mata a su mujer.\r\n33-Abrir grietas en la armadura del alma.\r\n34-Colérica y con la piel excoriada.\r\n35-Ejercicio que fortalece el cuerpo y la mente.\r\n37-No hay que fiarse de la fieras que están en la exposición.\r\n40-Rodillos rotos.\r\n42-Evita pagar los impuestos, es un...\r\n43-Mujer de cabello blanco.\r\n45-Baja las armas.\r\n46-Ventosidad que se expele del vientre por el ano.\r\n47-La Copa Mundial de Tenis.\r\n49-Ciudad belga que aloja al Cuartel General de la OTAN.\r\n50-Barbara Guillén, la cantante madrileña del tema 'Lo jodiste'.\r\n52-La señora de Israel.\r\n56-Leonard Nimoy (el primer Sr. Spock en Star Trek).",
+        "horizontal_clues": "1-Hogares de resguardo, para niños temporalmente sin hogar.\r\n8-Danta, pariente lejano del rinoceronte.\r\n13-Antigua práctica japonesa de suicidio ritual.\r\n15-Ese tipo es ardiente, apasionado.\r\n16-Subiré la velas.\r\n17-Se alistaban mejor con chaleco de los polis.\r\n19-Vicio físico o moral que marca a quien lo tiene.\r\n20-El amigo de Mickey que patina con el pie derecho adelante.\r\n21-El número de cuenta, está incompleto.\r\n22-Señala o fija día.\r\n23-\"... de Bayeux\" madre de Guillermo I de Normandía.\r\n24-\"Billy...\" cantautor estadounidense autor del tema 'Piano Man' (1973).\r\n25-\"Quintana...\" estado mexicano donde está Cancún.\r\n26-Acústica. Unidad de medida de la sonoridad.\r\n27-Símbolo químico del cobre.\r\n28-Iniciales de la mexicana autora de 'Como agua para chocolate'. \r\n29-Repugnancia o aversión que causa algo.\r\n31-Perseguid, hostigad.\r\n33-Día de la semana: \"día de Venus\", en honor de la Diosa romana.\r\n35-Comunidad sideral.\r\n36-El Oso parece urgido.\r\n37-Hombre muerto.\r\n38-Inic. del fundador del grupo automovilístico Renault.\r\n39-Sí, en ruso.\r\n40-Impelas manualmente la embarcación en el agua.\r\n41-Acortamiento de Recording.\r\n44-El regreso del dios vikingo.\r\n46-Película con alto contenido sexual.\r\n47-Artista del mundo del espectáculo.\r\n48-Siete negativos.\r\n49-Su estatura era...\r\n50-Colombia. Muy bueno, estupendo, excelente.\r\n51-Pasaje amplio de un poema épico (pl).\r\n53-Advertencia, notificación.\r\n54-Engalanó a Horkheimer, para ir a un concierto en Frankfurt.\r\n55-Sonidos agudos producidos al soplar aire a través de los labios.\r\n57-Batracios, anuros.\r\n58-Echará anís a algo.",
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,#,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,15,#,#,#,#,#\r\n16,#,#,#,#,#,17,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,#,#,27,#,#,28,#\r\n#,#,29,30,#,#,#,#,#,31,#,#,32,#,#\r\n33,34,#,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,#,#,#,#,#,37,#,#,#,#,#,#,#\r\n38,#,#,39,#,#,40,#,#,#,#,#,41,42,43\r\n44,#,45,#,#,46,#,#,#,#,#,47,#,#,#\r\n48,#,#,#,49,#,#,#,#,#,50,#,#,#,#\r\n51,#,#,52,#,#,#,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,#,#,55,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1321,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-29T16:54:10.636897Z",
+      "updatedAt": "2024-11-29T16:54:10.652873Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-30",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#GOLFOS#CRUJIA#\r\nTIGER#EPI#GARUM\r\nUB#MICROFILM#GO\r\nMACAO#VER#YOGUR\r\nBOAS#BISAR#NERD\r\nE#R#MORIRAN#O#E\r\nTENTAR#A#BERGER\r\n#VIANDA#LIGERO#\r\nCICUTA#V#ORGANO\r\nA#E#ADVERSO#F#J\r\nMARK#AIREA#VISE\r\nIBOOK#SAD#LIANA\r\nOS#POLINOSIS#OD\r\nNIVEL#TOM#JERBO\r\n#TAKADA#ADONIS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Pie de…\", danza aristocrática española del siglo XVII",
+              "answer": "GIBAO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Par de ogros",
+              "answer": "OG"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Las entradas de un diccionario",
+              "answer": "LEMAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Indiferente como el hielo",
+              "answer": "FRIO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"El que no vive para…, no sirve para vivir\" Madre Teresa",
+              "answer": "SERVIR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Transcribir en guarismos, un mensaje para ocultarlo",
+              "answer": "CIFRAR"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Ser feo en Londres",
+              "answer": "UGLY"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Una pata para Navidad",
+              "answer": "JAMON"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Entrando en Irlanda",
+              "answer": "IR"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Sacerdote romano que adivinaba por el cantar de las aves",
+              "answer": "AUGUR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Plato típico de Mallorca muy similar a la sanfaina",
+              "answer": "TUMBET"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "El primer arte",
+              "answer": "POESIA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Apretar con los dientes al bocata",
+              "answer": "MORDER"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Profesional que vende carne",
+              "answer": "CARNICERO"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Ciencia que estudia la Tierra y sus características",
+              "answer": "GEOGRAFIA"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Una tela decorada con hilo y aguja",
+              "answer": "BORDADA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Irascible, colérica",
+              "answer": "RABIOSA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Cobija, cobertor",
+              "answer": "MANTA"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "El color del luto",
+              "answer": "NEGRO"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Escuela Virtual de Igualdad",
+              "answer": "EVI"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "La T griega",
+              "answer": "TAU"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Regular (abrev)",
+              "answer": "REG"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Muchísimos años, millones",
+              "answer": "EON"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Por el peor camino transita un vehículo pesado",
+              "answer": "CAMION"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "La estación que se transforma en un averno",
+              "answer": "VERANO"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Visto así, por encima",
+              "answer": "OJEADO"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Acto de ir a ver a alguien",
+              "answer": "VISITA"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Plaza donde desembocan varias calles",
+              "answer": "REDOMA"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Latinismo que manifiesta rechazo sobre lo que se habla",
+              "answer": "ABSIT"
+            },
+            "47": {
+              "col": 3,
+              "row": 10,
+              "clue": "Céntimo del rublo ruso",
+              "answer": "KOPEK"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Den validez a un pasaporte",
+              "answer": "VISEN"
+            },
+            "50": {
+              "col": 13,
+              "row": 10,
+              "clue": "Imitadores de los distinguidos (voz inglesa)",
+              "answer": "SNOBS"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Nuez de …\" fruto de algunos árboles africanos",
+              "answer": "KOLA"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Limpio o pulo la madera con este papel granulado",
+              "answer": "LIJO"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales del poeta español Nobel de Literatura, 1977",
+              "answer": "VA"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "¡Rivas, tú te quedas!",
+              "answer": "RI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Los sinvergüenzas de las ensenadas",
+              "answer": "GOLFOS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Pasillo largo en un hospital o convento",
+              "answer": "CRUJIA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"…Woods\" 2º golfista con más majors ganados en la historia",
+              "answer": "TIGER"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "Equipo de Protección Individual",
+              "answer": "EPI"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Salsa de vísceras fermentadas de pescado",
+              "answer": "GARUM"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic del hombre más rápido del mundo",
+              "answer": "UB"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Bobina fotográfica para archivar documentos",
+              "answer": "MICROFILM"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Juego de tablero chino, con alto nivel de estrategia",
+              "answer": "GO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ciudad china con el casino The Venetian, 2º más grande del mundo",
+              "answer": "MACAO"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "\"… para creer\" dicen los incrédulos",
+              "answer": "VER"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Variedad de la leche fermentada para consumo",
+              "answer": "YOGUR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Inmensas serpientes",
+              "answer": "BOAS"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Hacer un bis repitiendo un fragmento en un concierto",
+              "answer": "BISAR"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Este chico estudia mucho, es un…",
+              "answer": "NERD"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Fenecerán, fallecerán",
+              "answer": "MORIRAN"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Probar a alguien, haciendo examen de su constancia o fortaleza",
+              "answer": "TENTAR"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "\"Gouffre…\", conocida como la Cueva de la muerte, Francia",
+              "answer": "BERGER"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Comida, sustento, vitualla",
+              "answer": "VIANDA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Que pesa poco (masc)",
+              "answer": "LIGERO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Planta venenosa de la antigua Grecia",
+              "answer": "CICUTA"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Parte vital del cuerpo",
+              "answer": "ORGANO"
+            },
+            "42": {
+              "col": 4,
+              "row": 9,
+              "clue": "Un efecto cuando es contrario",
+              "answer": "ADVERSO"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Twain o Zuckerberg",
+              "answer": "MARK"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Pon al aire o ventila algo",
+              "answer": "AIREA"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Examiné una certificación y puse el visto bueno",
+              "answer": "VISE"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Computadora portátil desarrollada por Apple (1999)",
+              "answer": "IBOOK"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Triste\" en inglés",
+              "answer": "SAD"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Liliana usa el bejuco de Tarzán",
+              "answer": "LIANA"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del osmio",
+              "answer": "OS"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Alergia estacional al polen",
+              "answer": "POLINOSIS"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Escribe todo, sin límites",
+              "answer": "OD"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Categoría, rango",
+              "answer": "NIVEL"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "\"… Holland\" el Spiderman actual",
+              "answer": "TOM"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "Roedor saltador del desierto",
+              "answer": "JERBO"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"Kenzo…\" diseñador de moda japonés",
+              "answer": "TAKADA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Mit Griega  Personaje muy hermoso",
+              "answer": "ADONIS"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Pie de…\", danza aristocrática española del siglo XVII\r\n2-Par de ogros\r\n3-Las entradas de un diccionario\r\n4-Indiferente como el hielo\r\n5-\"El que no vive para…, no sirve para vivir\" Madre Teresa\r\n6-Transcribir en guarismos, un mensaje para ocultarlo\r\n7-Ser feo en Londres\r\n8-Una pata para Navidad\r\n9-Entrando en Irlanda\r\n10-Sacerdote romano que adivinaba por el cantar de las aves\r\n11-Plato típico de Mallorca muy similar a la sanfaina\r\n13-El primer arte\r\n15-Apretar con los dientes al bocata\r\n20-Profesional que vende carne\r\n23-Ciencia que estudia la Tierra y sus características \r\n25-Una tela decorada con hilo y aguja\r\n26-Irascible, colérica\r\n28-Cobija, cobertor\r\n29-El color del luto\r\n31-Escuela Virtual de Igualdad\r\n32-La T griega\r\n34-Regular (abrev)\r\n35-Muchísimos años, millones\r\n38-Por el peor camino transita un vehículo pesado\r\n39-La estación que se transforma en un averno\r\n41-Visto así, por encima\r\n43-Acto de ir a ver a alguien \r\n44-Plaza donde desembocan varias calles\r\n46-Latinismo que manifiesta rechazo sobre lo que se habla\r\n47-Céntimo del rublo ruso\r\n49-Den validez a un pasaporte\r\n50-Imitadores de los distinguidos (voz inglesa)\r\n52-\"Nuez de …\" fruto de algunos árboles africanos\r\n54-Limpio o pulo la madera con este papel granulado\r\n59-Iniciales del poeta español Nobel de Literatura, 1977\r\n62-¡Rivas, tú te quedas! \r\n",
+        "horizontal_clues": "1-Los sinvergüenzas de las ensenadas\r\n6-Pasillo largo en un hospital o convento \r\n11-\"…Woods\" 2º golfista con más majors ganados en la historia\r\n12-Equipo de Protección Individual\r\n14-Salsa de vísceras fermentadas de pescado\r\n16-Inic del hombre más rápido del mundo\r\n17-Bobina fotográfica para archivar documentos\r\n18-Juego de tablero chino, con alto nivel de estrategia\r\n19-Ciudad china con el casino The Venetian, 2º más grande del mundo\r\n21-\"… para creer\" dicen los incrédulos\r\n22-Variedad de la leche fermentada para consumo\r\n24-Inmensas serpientes\r\n25-Hacer un bis repitiendo un fragmento en un concierto\r\n27-Este chico estudia mucho, es un…\r\n28-Fenecerán, fallecerán\r\n30-Probar a alguien, haciendo examen de su constancia o fortaleza\r\n33-\"Gouffre…\", conocida como la Cueva de la muerte, Francia\r\n36-Comida, sustento, vitualla\r\n37-Que pesa poco (masc)\r\n38-Planta venenosa de la antigua Grecia \r\n40-Parte vital del cuerpo \r\n42-Un efecto cuando es contrario\r\n45-Twain o Zuckerberg\r\n48-Pon al aire o ventila algo\r\n49-Examiné una certificación y puse el visto bueno\r\n51-Computadora portátil desarrollada por Apple (1999) \r\n53-\"Triste\" en inglés\r\n54-Liliana usa el bejuco de Tarzán\r\n55-Símbolo químico del osmio\r\n56-Alergia estacional al polen \r\n57-Escribe todo, sin límites\r\n58-Categoría, rango\r\n60-\"… Holland\" el Spiderman actual\r\n61-Roedor saltador del desierto \r\n63-\"Kenzo…\" diseñador de moda japonés\r\n64-Mit Griega  Personaje muy hermoso\r\n",
+        "board_clues_positions": "#,1,2,3,4,#,5,#,6,#,7,8,9,10,#\r\n11,#,#,#,#,#,12,13,#,#,14,#,#,#,15\r\n16,#,#,17,#,#,#,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,22,#,23,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,27,#,#,#\r\n#,#,#,#,28,#,#,#,#,#,29,#,#,#,#\r\n30,31,#,32,#,#,#,#,#,33,#,34,#,35,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,#,#\r\n38,#,#,#,#,#,#,39,#,40,#,#,#,#,41\r\n#,#,#,#,42,#,43,#,44,#,#,#,#,#,#\r\n45,46,#,47,#,48,#,#,#,#,#,49,#,50,#\r\n51,#,#,#,52,#,53,#,#,#,54,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,#,#,#,#,57,#\r\n58,#,59,#,#,#,60,#,#,#,61,#,62,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

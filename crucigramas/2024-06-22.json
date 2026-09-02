@@ -1,0 +1,495 @@
+{
+  "data": {
+    "id": 411,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-21T13:03:32.482834Z",
+      "updatedAt": "2024-06-21T13:03:32.482851Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-22",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SARAMAGO#ROTULA\r\nASEPSIA#O#BUTAN\r\nRACE#SRAS#UNICO\r\nARTA#LAPA#SALEM\r\nPEON#AÑADE###RA\r\nE###UDO#INMORAL\r\n#LEBRON#ADIVINO\r\nO#SID#####LOM#S\r\nPEINADO#OYESES#\r\nALLANAD#NES###V\r\nCE###BIDEN#PITI\r\nIVANA#SIRI#INES\r\nDA#EU#EVOS#OVNI\r\nARPON#A#SELLADO\r\nDARNOS#BAILARIN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cobertor típico mexicano, de colores vivos.",
+              "answer": "SARAPE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tostaré, abrasaré.",
+              "answer": "ASARE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Derecho, erguido.",
+              "answer": "RECTO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Desmontan a alguien de una caballería.",
+              "answer": "APEAN"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Dominio web para Monserrat.",
+              "answer": "MS"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Solo y sin contacto, por estar contagiado.",
+              "answer": "AISLADO"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Asno, caballo o camello semental.",
+              "answer": "GARAÑON"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cañón de guerra.",
+              "answer": "OBUS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Fruto del cactus candelabro.",
+              "answer": "TUNA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Que produce provecho, comodidad, fruto o interés.",
+              "answer": "UTIL"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Lastiman, golpean, magullan.",
+              "answer": "LACERAN"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Irregulares, extraños.",
+              "answer": "ANOMALOS"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Audacia, resolución, intrepidez.",
+              "answer": "OSADIA"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Apocope de papá.",
+              "answer": "APA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "\"Fin\" en inglés.",
+              "answer": "END"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Preparen los hilos en la urdidera para pasarlos al telar.",
+              "answer": "URDAN"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"... Teller\" el prota de la peli 'Whiplash: Música & Obsesión'.",
+              "answer": "MILES"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Arq. Ornamentos en forma de huevos.",
+              "answer": "OVOS"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Hice un verso sin esfuerzo.",
+              "answer": "RIME"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"... Meitner\" subiendo por el Nobel que le negaron en 1944.",
+              "answer": "ESIL"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "La concubina de Sabina.",
+              "answer": "BINA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cualidad de opaco.",
+              "answer": "OPACIDAD"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Levantará.",
+              "answer": "ELEVARA"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Pose popularizada por Pogba al celebrar un gol con la Juve.",
+              "answer": "DAB"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Obra de Homero.",
+              "answer": "ODISEA"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Pesada, engorrosa.",
+              "answer": "ONEROSA"
+            },
+            "45": {
+              "col": 9,
+              "row": 8,
+              "clue": "Largo río de la Rusia asiática o Siberia.",
+              "answer": "YENISEI"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Acción y efecto de ver.",
+              "answer": "VISION"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Inform. HTML, elemento que permite crear divisiones.",
+              "answer": "DIV"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Chile. Coloq. Agradable.",
+              "answer": "PIOLA"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Aleación de hierro y níquel.",
+              "answer": "INVAR"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "Desdoblé lo que estaba encogido.",
+              "answer": "TENDI"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Tubo fluorescente que contiene luz brillante.",
+              "answer": "NEON"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Uno, confedero para algún fin.",
+              "answer": "AUNO"
+            },
+            "65": {
+              "col": 2,
+              "row": 13,
+              "clue": "Dominio web para Puerto Rico.",
+              "answer": "PR"
+            },
+            "67": {
+              "col": 10,
+              "row": 13,
+              "clue": "Exletra.",
+              "answer": "LL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Escritor portugués, Nobel de Literatura en 1998.",
+              "answer": "SARAMAGO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hueso de la rodilla.",
+              "answer": "ROTULA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ausencia de materia séptica.",
+              "answer": "ASEPSIA"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "País frontera con China e India, cuya capital es Timbu.",
+              "answer": "BUTAN"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Una carrera en EE.UU.",
+              "answer": "RACE"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Señoras sean breves.",
+              "answer": "SRAS"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "\"Un Anillo para gobernarlos a todos\" El Anillo...",
+              "answer": "UNICO"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Marta decapitada.",
+              "answer": "ARTA"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Barrio de Río de Janeiro donde se encuentra la Escalera de Selarón.",
+              "answer": "LAPA"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"Las brujas de...\" de Arthur Miller, basada en los juicios por brujería en EEUU.",
+              "answer": "SALEM"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pieza del ajedrez que corona.",
+              "answer": "PEON"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Agrega, incorpora algo a otra cosa.",
+              "answer": "AÑADE"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "El último fragmento de la obra.",
+              "answer": "RA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Saludo soso.",
+              "answer": "UDO"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Molinar se lio y ahora es un indecente.",
+              "answer": "INMORAL"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Jugador de Los Ángeles Lakers, apodado \"The King\".",
+              "answer": "LEBRON"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "El clarividente me invadió confusamente. .",
+              "answer": "ADIVINO"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "\"... Vicious\" bajista de los Sex Pistols.",
+              "answer": "SID"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "El cinturón de Salomón.",
+              "answer": "LOM"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Arreglo especial o corte de cabello.",
+              "answer": "PEINADO"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Percibieses el llanto del niño.",
+              "answer": "OYESES"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Aplanad, alisad.",
+              "answer": "ALLANAD"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "2.ª consola de sobremesa de Nintendo.",
+              "answer": "NES"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Símbolo químico del cerio.",
+              "answer": "CE"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Presidente de los Estados Unidos.",
+              "answer": "BIDEN"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Un cigarrito.",
+              "answer": "PITI"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Actriz protagonista de \"El laberinto del fauno\".",
+              "answer": "IVANA"
+            },
+            "58": {
+              "col": 6,
+              "row": 11,
+              "clue": "Asistente personal de Apple.",
+              "answer": "SIRI"
+            },
+            "59": {
+              "col": 11,
+              "row": 11,
+              "clue": "\"... del alma mía\" novela de Isabel Allende.",
+              "answer": "INES"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Al fondo a la izquierda.",
+              "answer": "DA"
+            },
+            "61": {
+              "col": 3,
+              "row": 12,
+              "clue": "Yo en Portugal.",
+              "answer": "EU"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Poética. Duración de tiempo sin término (pl).",
+              "answer": "EVOS"
+            },
+            "63": {
+              "col": 11,
+              "row": 12,
+              "clue": "Objeto Volador No Identificado.",
+              "answer": "OVNI"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Instrumento usado para capturar ballenas.",
+              "answer": "ARPON"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Cerrado herméticamente.",
+              "answer": "SELLADO"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "Entregarnos, otorgarnos.",
+              "answer": "DARNOS"
+            },
+            "69": {
+              "col": 7,
+              "row": 14,
+              "clue": "El oficio de Nacho Duato o  Ángel Corella.",
+              "answer": "BAILARIN"
+            }
+          }
+        },
+        "vertical_clues": "1-Cobertor típico mexicano, de colores vivos.\r\n2-Tostaré, abrasaré.\r\n3-Derecho, erguido.\r\n4-Desmontan a alguien de una caballería.\r\n5-Dominio web para Monserrat.\r\n6-Solo y sin contacto, por estar contagiado.\r\n7-Asno, caballo o camello semental. \r\n9-Cañón de guerra.\r\n10-Fruto del cactus candelabro.\r\n11-Que produce provecho, comodidad, fruto o interés.\r\n12-Lastiman, golpean, magullan.\r\n13-Irregulares, extraños.\r\n15-Audacia, resolución, intrepidez.\r\n19-Apocope de papá.\r\n26-\"Fin\" en inglés.\r\n28-Preparen los hilos en la urdidera para pasarlos al telar.\r\n30-\"... Teller\" el prota de la peli 'Whiplash: Música & Obsesión'.\r\n31-Arq. Ornamentos en forma de huevos.\r\n32-Hice un verso sin esfuerzo.\r\n34-\"... Meitner\" subiendo por el Nobel que le negaron en 1944.\r\n35-La concubina de Sabina.\r\n37-Cualidad de opaco.\r\n41-Levantará.\r\n42-Pose popularizada por Pogba al celebrar un gol con la Juve.\r\n43-Obra de Homero.\r\n44-Pesada, engorrosa.\r\n45-Largo río de la Rusia asiática o Siberia.\r\n48-Acción y efecto de ver.\r\n51-Inform. HTML, elemento que permite crear divisiones.\r\n52-Chile. Coloq. Agradable.\r\n53-Aleación de hierro y níquel.\r\n54-Desdoblé lo que estaba encogido.\r\n56-Tubo fluorescente que contiene luz brillante.\r\n57-Uno, confedero para algún fin.\r\n65-Dominio web para Puerto Rico.\r\n67-Exletra.",
+        "horizontal_clues": "1-Escritor portugués, Nobel de Literatura en 1998.\r\n8-Hueso de la rodilla.\r\n14-Ausencia de materia séptica.\r\n16-País frontera con China e India, cuya capital es Timbu.\r\n17-Una carrera en EE.UU.\r\n18-Señoras sean breves.\r\n20-\"Un Anillo para gobernarlos a todos\" El Anillo...\r\n21-Marta decapitada.\r\n22-Barrio de Río de Janeiro donde se encuentra la Escalera de Selarón.\r\n23-\"Las brujas de...\" de Arthur Miller, basada en los juicios por brujería en EEUU.\r\n24-Pieza del ajedrez que corona.\r\n25-Agrega, incorpora algo a otra cosa.\r\n27-El último fragmento de la obra.\r\n28-Saludo soso.\r\n29-Molinar se lio y ahora es un indecente.\r\n33-Jugador de Los Ángeles Lakers, apodado \"The King\".\r\n36-El clarividente me invadió confusamente. .\r\n38-\"... Vicious\" bajista de los Sex Pistols. \r\n39-El cinturón de Salomón.\r\n40-Arreglo especial o corte de cabello.\r\n44-Percibieses el llanto del niño.\r\n46-Aplanad, alisad.\r\n47-2.ª consola de sobremesa de Nintendo.\r\n49-Símbolo químico del cerio.\r\n50-Presidente de los Estados Unidos.\r\n52-Un cigarrito.\r\n55-Actriz protagonista de \"El laberinto del fauno\".\r\n58-Asistente personal de Apple.\r\n59-\"... del alma mía\" novela de Isabel Allende.\r\n60-Al fondo a la izquierda.\r\n61-Yo en Portugal.\r\n62-Poética. Duración de tiempo sin término (pl).\r\n63-Objeto Volador No Identificado.\r\n64-Instrumento usado para capturar ballenas.\r\n66-Cerrado herméticamente.\r\n68-Entregarnos, otorgarnos.\r\n69-El oficio de Nacho Duato o  Ángel Corella.",
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,15,#,16,#,#,#,#\r\n17,#,#,#,#,18,#,19,#,#,20,#,#,#,#\r\n21,#,#,#,#,22,#,#,#,#,23,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,#,#,27,#\r\n#,#,#,#,28,#,#,#,29,#,30,31,32,#,#\r\n#,33,34,35,#,#,#,#,36,#,#,#,#,#,#\r\n37,#,38,#,#,#,#,#,#,#,39,#,#,#,#\r\n40,41,#,#,#,42,43,#,44,45,#,#,#,#,#\r\n46,#,#,#,#,#,#,#,47,#,#,#,#,#,48\r\n49,#,#,#,#,50,#,51,#,#,#,52,53,54,#\r\n55,#,#,56,57,#,58,#,#,#,#,59,#,#,#\r\n60,#,#,61,#,#,62,#,#,#,#,63,#,#,#\r\n64,#,65,#,#,#,#,#,66,#,67,#,#,#,#\r\n68,#,#,#,#,#,#,69,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

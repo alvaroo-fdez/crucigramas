@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 693,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-03T12:04:37.204644Z",
+      "updatedAt": "2024-08-03T12:04:37.204663Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-04",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PREDADOR#YOGA#\r\nCRISOL#J#FATIMA\r\nREF#LACERAN#LAU\r\nIÑ#GIRATORIA#NT\r\nCAFU#GUESS#CASO\r\n#OLIVAS#CANAPES\r\nS#UTERO#ASILA#T\r\nAXIAL#####CORNO\r\nR#DRACO#ADORE#P\r\nAPERRAR#RELAJO#\r\nMOZA#LEWIS#DOMA\r\nAR#SALPICADO#II\r\nGOL#TEOLOGO#ATE\r\nOPINEN#D#URETER\r\n#OONA#DESEAMOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Bollo...\" relleno de chorizo o panceta.",
+              "answer": "PREÑAO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Rifle roto.",
+              "answer": "RIF"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dominio web para España.",
+              "answer": "ES"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Puncé, lastimé.",
+              "answer": "DOLI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Estirar.",
+              "answer": "ALARGAR"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Otra forma de llamar al ano.",
+              "answer": "OJETE"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "A Yanira con cariño.",
+              "answer": "YANI"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Dos dedos del merlot.",
+              "answer": "OT"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"José Luis...\" interpreta a Juan Cuesta en 'Aquí no hay quien viva'.",
+              "answer": "GIL"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Calmé a las bestias, las...",
+              "answer": "AMANSE"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Gato, máquina para levantar pesos.",
+              "answer": "CRIC"
+            },
+            "12": {
+              "col": 9,
+              "row": 1,
+              "clue": "Enredo, trama o tramoya para aparentar o engañar (pl).",
+              "answer": "FARSAS"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Método de transporte gratuito solicitando vehículos en la vía.",
+              "answer": "AUTOSTOP"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Ocasionó, Produjo.",
+              "answer": "CAUSO"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "El postre favorito del loco Óscar.",
+              "answer": "ROSCA"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Instrumento que ejecutan artistas virtuosos como Jimi Hendrix y Carlos Santana (pl).",
+              "answer": "GUITARRAS"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Ofuscado, agobiado por el sol.",
+              "answer": "ACALORADO"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Habla con soltura, con...",
+              "answer": "FLUIDEZ"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Conjunto de los elementos que se necesitan para realizar algo.",
+              "answer": "APAREJO"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Asistir de noche a un enfermo.",
+              "answer": "VELAR"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tipo de prisma óptico polarizador.",
+              "answer": "NICOL"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Escritor portugués, autor de 'Ensayo sobre la ceguera'.",
+              "answer": "SARAMAGO"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "No hablen, guarden silencio.",
+              "answer": "CALLEN"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Manejo la máquina en sentido contrario.",
+              "answer": "OREPO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Aro, escarbo superficialmente.",
+              "answer": "ARICO"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Por donde se van las aguas sucias.",
+              "answer": "DESAGUE"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"Porompom pón, ... , porompom pero, peró\" M. Escobar.",
+              "answer": "POROPO"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Ignoras, pasas por alto.",
+              "answer": "OMITES"
+            },
+            "48": {
+              "col": 7,
+              "row": 10,
+              "clue": "Autor de la novela \"El Retrato de Dorian Grey\".",
+              "answer": "WILDE"
+            },
+            "50": {
+              "col": 14,
+              "row": 10,
+              "clue": "Se carcajeaba (inv).",
+              "answer": "AIER"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "No creyente, ella.",
+              "answer": "ATEA"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"..., la exploradora\", Caricatura infantil.",
+              "answer": "DORA"
+            },
+            "57": {
+              "col": 2,
+              "row": 12,
+              "clue": "Embrollo, enredo, confusión.",
+              "answer": "LIO"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Enlazo, uno.",
+              "answer": "ATO"
+            },
+            "61": {
+              "col": 3,
+              "row": 13,
+              "clue": "Nora Navas.",
+              "answer": "NN"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Iniciales del dueño de Tesla.",
+              "answer": "EM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Animal que caza a otros de distinta especie.",
+              "answer": "PREDADOR"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Goya estresado practicando sus asanas.",
+              "answer": "YOGA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Cavidad en los hornos que recibe el metal fundido.",
+              "answer": "CRISOL"
+            },
+            "12": {
+              "col": 9,
+              "row": 1,
+              "clue": "Hija del profeta Mahoma.",
+              "answer": "FATIMA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aquí hay una pequeña referencia.",
+              "answer": "REF"
+            },
+            "15": {
+              "col": 4,
+              "row": 2,
+              "clue": "Lastiman, golpean, magullan.",
+              "answer": "LACERAN"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "A Lautaro le encanta este archipiélago de Fiyi.",
+              "answer": "LAU"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Piña pelada.",
+              "answer": "IÑ"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "La puerta cuando da vueltas.",
+              "answer": "GIRATORIA"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Nuevo Testamento.",
+              "answer": "NT"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Exjugador brasileño único en jugar 3 finales consecutivas de un Mundial.",
+              "answer": "CAFU"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Es una incógnita esta marca de ropa.",
+              "answer": "GUESS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Suceso, acontecimiento.",
+              "answer": "CASO"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Fruta base del llamado oro líquido de Italia (pl).",
+              "answer": "OLIVAS"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Hojaldre de un solo bocado.",
+              "answer": "CANAPES"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Matriz de la mujer y de las hembras de los mamíferos.",
+              "answer": "UTERO"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Alberga a alguien en un refugio.",
+              "answer": "ASILA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Esqueleto...\" cráneo, columna, costillas y esternón, el eje de cuerpo.",
+              "answer": "AXIAL"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Cornejo, arbusto cornáceo.",
+              "answer": "CORNO"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"... Malfoy\" el de Harry Potter.",
+              "answer": "DRACO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Reverencié en extremo a un ser.",
+              "answer": "ADORE"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Chile. Emprender con tenacidad una empresa difícil.",
+              "answer": "APERRAR"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Aflojo los músculos, los...",
+              "answer": "RELAJO"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Joven, guapa y soltera.",
+              "answer": "MOZA"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Corredor de F1 con más victorias.",
+              "answer": "LEWIS"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Sujeta, amansa y haz dócil al animal.",
+              "answer": "DOMA"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "De ordenar y de acatar.",
+              "answer": "AR"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "Técnica de dispersión de pintura sobre una superficie.",
+              "answer": "SALPICADO"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Pause.",
+              "answer": "II"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Unidad de puntaje del fútbol.",
+              "answer": "GOL"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Etólogo confundido decide estudiar a Dios.",
+              "answer": "TEOLOGO"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Lo que hice con los cabos cuando entendí todo.",
+              "answer": "ATE"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Expresen sus ideas.",
+              "answer": "OPINEN"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Conducto por donde desciende la orina.",
+              "answer": "URETER"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "La nieta de Chaplin.",
+              "answer": "OONA"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Queremos con fervor.",
+              "answer": "DESEAMOS"
+            }
+          }
+        },
+        "vertical_clues": "1-\"Bollo...\" relleno de chorizo o panceta.\r\n2-Rifle roto.\r\n3-Dominio web para España.\r\n4-Puncé, lastimé.\r\n5-Estirar.\r\n6-Otra forma de llamar al ano.\r\n7-A Yanira con cariño.\r\n8-Dos dedos del merlot.\r\n9-\"José Luis...\" interpreta a Juan Cuesta en 'Aquí no hay quien viva'. \r\n10-Calmé a las bestias, las...\r\n11-Gato, máquina para levantar pesos.\r\n12-Enredo, trama o tramoya para aparentar o engañar (pl).\r\n13-Método de transporte gratuito solicitando vehículos en la vía. \r\n16-Ocasionó, Produjo.\r\n17-El postre favorito del loco Óscar.\r\n20-Instrumento que ejecutan artistas virtuosos como Jimi Hendrix y Carlos Santana (pl).\r\n21-Ofuscado, agobiado por el sol.\r\n24-Habla con soltura, con...\r\n27-Conjunto de los elementos que se necesitan para realizar algo.\r\n29-Asistir de noche a un enfermo.\r\n31-Tipo de prisma óptico polarizador.\r\n32-Escritor portugués, autor de 'Ensayo sobre la ceguera'.\r\n38-No hablen, guarden silencio.\r\n39-Manejo la máquina en sentido contrario.\r\n40-Aro, escarbo superficialmente.\r\n41-Por donde se van las aguas sucias.\r\n43-\"Porompom pón, ... , porompom pero, peró\" M. Escobar.\r\n45-Ignoras, pasas por alto.\r\n48-Autor de la novela \"El Retrato de Dorian Grey\".\r\n50-Se carcajeaba (inv).\r\n53-No creyente, ella.\r\n54-\"..., la exploradora\", Caricatura infantil. \r\n57-Embrollo, enredo, confusión.\r\n59-Enlazo, uno.\r\n61-Nora Navas.\r\n63-Iniciales del dueño de Tesla.",
+        "horizontal_clues": "1-Animal que caza a otros de distinta especie.\r\n7-Goya estresado practicando sus asanas.\r\n11-Cavidad en los hornos que recibe el metal fundido.\r\n12-Hija del profeta Mahoma.\r\n14-Aquí hay una pequeña referencia.\r\n15-Lastiman, golpean, magullan.\r\n18-A Lautaro le encanta este archipiélago de Fiyi.\r\n19-Piña pelada.\r\n20-La puerta cuando da vueltas.\r\n22-Nuevo Testamento.\r\n23-Exjugador brasileño único en jugar 3 finales consecutivas de un Mundial.\r\n25-Es una incógnita esta marca de ropa.\r\n26-Suceso, acontecimiento.\r\n28-Fruta base del llamado oro líquido de Italia (pl).\r\n30-Hojaldre de un solo bocado.\r\n33-Matriz de la mujer y de las hembras de los mamíferos.\r\n34-Alberga a alguien en un refugio.\r\n35-\"Esqueleto...\" cráneo, columna, costillas y esternón, el eje de cuerpo.\r\n36-Cornejo, arbusto cornáceo.\r\n37-\"... Malfoy\" el de Harry Potter.\r\n40-Reverencié en extremo a un ser.\r\n42-Chile. Emprender con tenacidad una empresa difícil. \r\n44-Aflojo los músculos, los...\r\n46-Joven, guapa y soltera.\r\n47-Corredor de F1 con más victorias.\r\n49-Sujeta, amansa y haz dócil al animal.\r\n51-De ordenar y de acatar.\r\n52-Técnica de dispersión de pintura sobre una superficie. \r\n55-Pause.\r\n56-Unidad de puntaje del fútbol.\r\n58-Etólogo confundido decide estudiar a Dios.\r\n59-Lo que hice con los cabos cuando entendí todo.\r\n60-Expresen sus ideas.\r\n62-Conducto por donde desciende la orina.\r\n64-La nieta de Chaplin.\r\n65-Queremos con fervor.",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,#,7,8,9,10,#\r\n11,#,#,#,#,#,#,#,#,12,#,#,#,#,13\r\n14,#,#,#,15,#,16,#,17,#,#,#,18,#,#\r\n19,#,#,20,#,#,#,#,#,#,#,21,#,22,#\r\n23,#,24,#,#,25,#,#,#,#,#,26,27,#,#\r\n#,28,#,#,29,#,#,#,30,#,31,#,#,#,#\r\n32,#,33,#,#,#,#,#,34,#,#,#,#,#,#\r\n35,#,#,#,#,#,#,#,#,#,36,#,#,#,#\r\n#,#,37,#,#,38,39,#,40,41,#,#,#,#,#\r\n42,43,#,#,#,#,#,#,44,#,#,#,#,45,#\r\n46,#,#,#,#,47,#,48,#,#,#,49,#,#,50\r\n51,#,#,52,53,#,#,#,#,#,54,#,#,55,#\r\n56,#,57,#,58,#,#,#,#,#,#,#,59,#,#\r\n60,#,#,61,#,#,#,#,#,62,#,63,#,#,#\r\n#,64,#,#,#,#,65,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

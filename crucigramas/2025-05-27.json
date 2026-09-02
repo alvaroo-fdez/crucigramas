@@ -1,0 +1,466 @@
+{
+  "data": {
+    "id": 2334,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-05-14T16:39:24.113804Z",
+      "updatedAt": "2025-05-14T16:39:24.148086Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-27",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#AMOLAS#LAICAS#\r\nA#OJAL#PURGAR#P\r\nSALIVA#ANTONIMO\r\nILITERATA#REDOR\r\nMANO#MUERE#LAZO\r\nOTE#VAN#ESPOSAS\r\nVERSADO#SIEN##O\r\n#SOUL#####LEVA#\r\nL##JEFF#ACOSARA\r\nAPIERNO#ZEN#LIR\r\nCAST#BRYAN#PUAR\r\nELLAS#MARIGUANA\r\nREEDUCAR#ZONDAS\r\nA#TOMATE#ANTO#A\r\n#MARERO#ASGARD#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dueño del enemigo gigante de Don Quijote",
+              "answer": "MOLINERO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Alerta con el ojo pequeño",
+              "answer": "OJITO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "¡Vale! ya limpié la vela rara",
+              "answer": "LAVE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Preocupad, alertad",
+              "answer": "ALARMAD"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Manchas producidas por una acumulación de pigmento en la piel",
+              "answer": "LUNARES"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Attack\" programa infantil de manualidades",
+              "answer": "ART"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Burro de peluche amigo de Winnie The Pooh",
+              "answer": "IGOR"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Gastro Tubos de pasta rellenos",
+              "answer": "CANELONES"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tierras…, con muy poca humedad, suponen el 41% de la superficie terrestre",
+              "answer": "ARIDAS"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"Isaac…\" autor del libro 'Yo, Robot'",
+              "answer": "ASIMOV"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Pasta de hígado",
+              "answer": "PATE"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Tiene muchos huequitos",
+              "answer": "POROSO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Criado o mozo de un rufián en el antiguo Reino de Valencia",
+              "answer": "ALATES"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Joven, guapa y soltera",
+              "answer": "MOZA"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Uno, confedero para algún fin",
+              "answer": "AUNO"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Una tesis en poesía",
+              "answer": "ESI"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Servir para algo",
+              "answer": "VALER"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Un calvo o un rapado",
+              "answer": "PELON"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "El sostén",
+              "answer": "SUJETADOR"
+            },
+            "35": {
+              "col": 12,
+              "row": 7,
+              "clue": "Quien determina el precio de algo, en México",
+              "answer": "VALUADOR"
+            },
+            "36": {
+              "col": 13,
+              "row": 7,
+              "clue": "Nacida bajo el signo zodiacal de Aries",
+              "answer": "ARIANA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Daña su reputación, … su honra",
+              "answer": "LACERA"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Afinaba sin las vocales",
+              "answer": "FNB"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Estructura de un programa de televisión",
+              "answer": "FORMATO"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Caso fortuito, casualidad",
+              "answer": "AZAR"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Restos de madera quemada (pl)",
+              "answer": "CENIZAS"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Echa por tierra, destruye, acaba",
+              "answer": "ARRASA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Plataforma de tablas para transportar mercancías",
+              "answer": "PALE"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Arg Grupo de árboles aislados en medio de la llanura",
+              "answer": "ISLETA"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Jugo venenoso que se extrae de la yuca amarga",
+              "answer": "YARE"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Extremo de algo",
+              "answer": "PUNTA"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Añadí una cantidad a otra",
+              "answer": "SUME"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Instrumento de percusión asiático",
+              "answer": "GONG"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "\"Fast…\" famosa canción Tracy Chapman",
+              "answer": "CAR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sacas filo a los cuchillos, los…",
+              "answer": "AMOLAS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Libres de religiones (fem)",
+              "answer": "LAICAS"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Hendidura para abrochar un botón",
+              "answer": "OJAL"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Dar al enfermo la medicina conveniente para exonerar el vientre",
+              "answer": "PURGAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Fluido orgánico producido en la boca",
+              "answer": "SALIVA"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Lo que es \"bueno\" de \"malo\" y \"lindo\" de \"feo\"",
+              "answer": "ANTONIMO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ignorante y no versada en ciencias ni letras humanas (fem)",
+              "answer": "ILITERATA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Rededor, alrededor",
+              "answer": "REDOR"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Capa de pintura, la primera o la segunda",
+              "answer": "MANO"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Estira la pata",
+              "answer": "MUERE"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Nudo de cintas",
+              "answer": "LAZO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Sufijo usado para formar aumentativos en las palabras (masc)",
+              "answer": "OTE"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Emigran a Vancouver",
+              "answer": "VAN"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Manillas metálicas, que aprisionan las muñecas",
+              "answer": "ESPOSAS"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Instruido en el tópico",
+              "answer": "VERSADO"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Parte lateral de la cabeza",
+              "answer": "SIEN"
+            },
+            "33": {
+              "col": 1,
+              "row": 7,
+              "clue": "Ray Charles, músico afroamericano considerado \"El Padre del…\"",
+              "answer": "SOUL"
+            },
+            "34": {
+              "col": 10,
+              "row": 7,
+              "clue": "Mar de fondo, mar de…",
+              "answer": "LEVA"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"… The Killer\" uno de los creepypastas más famosos de internet",
+              "answer": "JEFF"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Perseguirá, hostigará sin tregua",
+              "answer": "ACOSARA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Agarro a la vaca por la pierna, la…",
+              "answer": "APIERNO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Una de las escuelas budistas",
+              "answer": "ZEN"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Salir por el oriente",
+              "answer": "LIR"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Chrome__, el botón para transmitir del móvil a la tele",
+              "answer": "CAST"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"… Cranston\" actor que le dio vida a Walter White en 'Breaking Bad'",
+              "answer": "BRYAN"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Pura y desordenada",
+              "answer": "PUAR"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tercera persona del plural, femenino",
+              "answer": "ELLAS"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Planta asociada a la subcultura hippie",
+              "answer": "MARIGUANA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Recuerda que de otra manera va a volver a enseñar",
+              "answer": "REEDUCAR"
+            },
+            "59": {
+              "col": 9,
+              "row": 12,
+              "clue": "Los superdeportivos de Pagani, anteriores a los Huayras",
+              "answer": "ZONDAS"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Fruto rojo muy usado en las ensaladas",
+              "answer": "TOMATE"
+            },
+            "61": {
+              "col": 9,
+              "row": 13,
+              "clue": "A Antonela con cariño",
+              "answer": "ANTO"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Miembro de una mara",
+              "answer": "MARERO"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "El mundo de los dioses nórdicos, gobernado por Odín",
+              "answer": "ASGARD"
+            }
+          }
+        },
+        "vertical_clues": "2-Dueño del enemigo gigante de Don Quijote\r\n3-Alerta con el ojo pequeño\r\n4-¡Vale! ya limpié la vela rara\r\n5-Preocupad, alertad\r\n6-Manchas producidas por una acumulación de pigmento en la piel\r\n7-\"… Attack\" programa infantil de manualidades\r\n8-Burro de peluche amigo de Winnie The Pooh\r\n9-Gastro Tubos de pasta rellenos\r\n10-Tierras…, con muy poca humedad, suponen el 41% de la superficie terrestre\r\n11-\"Isaac…\" autor del libro 'Yo, Robot'\r\n13-Pasta de hígado\r\n14-Tiene muchos huequitos\r\n16-Criado o mozo de un rufián en el antiguo Reino de Valencia\r\n18-Joven, guapa y soltera\r\n20-Uno, confedero para algún fin\r\n24-Una tesis en poesía\r\n27-Servir para algo\r\n29-Un calvo o un rapado\r\n31-El sostén\r\n35-Quien determina el precio de algo, en México\r\n36-Nacida bajo el signo zodiacal de Aries\r\n37-Daña su reputación, … su honra\r\n39-Afinaba sin las vocales\r\n40-Estructura de un programa de televisión\r\n41-Caso fortuito, casualidad\r\n42-Restos de madera quemada (pl)\r\n43-Echa por tierra, destruye, acaba\r\n45-Plataforma de tablas para transportar mercancías\r\n46-Arg Grupo de árboles aislados en medio de la llanura\r\n51-Jugo venenoso que se extrae de la yuca amarga\r\n52-Extremo de algo\r\n54-Añadí una cantidad a otra\r\n56-Instrumento de percusión asiático\r\n58-\"Fast…\" famosa canción Tracy Chapman\r\n",
+        "horizontal_clues": "1-Sacas filo a los cuchillos, los…\r\n6-Libres de religiones (fem)\r\n12-Hendidura para abrochar un botón\r\n13-Dar al enfermo la medicina conveniente para exonerar el vientre\r\n15-Fluido orgánico producido en la boca\r\n17-Lo que es \"bueno\" de \"malo\" y \"lindo\" de \"feo\"\r\n19-Ignorante y no versada en ciencias ni letras humanas (fem)\r\n21-Rededor, alrededor\r\n22-Capa de pintura, la primera o la segunda\r\n23-Estira la pata\r\n25-Nudo de cintas\r\n26-Sufijo usado para formar aumentativos en las palabras (masc)\r\n27-Emigran a Vancouver\r\n28-Manillas metálicas, que aprisionan las muñecas\r\n30-Instruido en el tópico\r\n32-Parte lateral de la cabeza\r\n33-Ray Charles, músico afroamericano considerado \"El Padre del…\"\r\n34-Mar de fondo, mar de…\r\n38-\"… The Killer\" uno de los creepypastas más famosos de internet\r\n41-Perseguirá, hostigará sin tregua\r\n44-Agarro a la vaca por la pierna, la…\r\n47-Una de las escuelas budistas\r\n48-Salir por el oriente\r\n49-Chrome__, el botón para transmitir del móvil a la tele\r\n50-\"… Cranston\" actor que le dio vida a Walter White en 'Breaking Bad'\r\n52-Pura y desordenada\r\n53-Tercera persona del plural, femenino\r\n55-Planta asociada a la subcultura hippie\r\n57-Recuerda que de otra manera va a volver a enseñar\r\n59-Los superdeportivos de Pagani, anteriores a los Huayras\r\n60-Fruto rojo muy usado en las ensaladas \r\n61-A Antonela con cariño\r\n62-Miembro de una mara\r\n63-El mundo de los dioses nórdicos, gobernado por Odín\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,16,#,#,#,#,#,17,#,#,#,#,#,18,#\r\n19,#,#,#,#,#,20,#,#,#,21,#,#,#,#\r\n22,#,#,#,#,23,#,#,#,24,#,25,#,#,#\r\n26,#,#,#,27,#,#,#,28,#,29,#,#,#,#\r\n30,#,#,31,#,#,#,#,32,#,#,#,#,#,#\r\n#,33,#,#,#,#,#,#,#,#,34,#,35,36,#\r\n37,#,#,38,#,39,40,#,41,42,#,#,#,#,43\r\n44,45,46,#,#,#,#,#,47,#,#,#,48,#,#\r\n49,#,#,#,#,50,#,51,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,#,56,#,#,#,#\r\n57,#,#,#,#,58,#,#,#,59,#,#,#,#,#\r\n#,#,60,#,#,#,#,#,#,61,#,#,#,#,#\r\n#,62,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

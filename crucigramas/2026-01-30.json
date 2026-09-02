@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4753,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-29T19:42:01.406304Z",
+      "updatedAt": "2026-01-29T19:43:24.631039Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#NASAL#ARMARIO#\r\nGENOVA#SARDO#IC\r\nR#ALICATES#SERE\r\nATRAVESAR#VENIR\r\nDR#SANES#FINCAR\r\nUAT#RAS#PROFESO\r\nABRA#SOCIALES##\r\nLEONA#RON#ALTER\r\n##NACHAPOP#DADA\r\nTRASTES#CLO#RDS\r\nRENTAR#CHAPA#IT\r\nOPTAS#PRETENDER\r\nLEES#CAUTERIO#E\r\nAL#IMPLE#RASGUE\r\n#EMANUEL#ODESA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Símbolo químico del neón",
+              "answer": "NE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ir en valenciano",
+              "answer": "ANAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ellas están sin compañía",
+              "answer": "SOLAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Hacer que arda más la llama del amor",
+              "answer": "AVIVAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Armarios empotrados para almacenar alimentos",
+              "answer": "LACENAS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Los cuernos del ciervo",
+              "answer": "ASTAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Pelar, rasurar",
+              "answer": "RAER"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Abreviatura de \"señora\" en inglés",
+              "answer": "MRS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Scott Ian …\" guitarrista de la banda de trash metal Anthrax",
+              "answer": "ROSENFELD"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "¿Escucharías la versión de un Asirio?",
+              "answer": "OIRIAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Poco a poco, progresivo",
+              "answer": "GRADUAL"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Corre como loco hasta la montaña",
+              "answer": "CERRO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Mujeres que orientan sobre un tema específico",
+              "answer": "ASESORAS"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Hacer lo que mejor se le daba a Michael Jordan",
+              "answer": "ENCESTAR"
+            },
+            "21": {
+              "col": 1,
+              "row": 3,
+              "clue": "Hice más difícil que puedan abrir el cajón",
+              "answer": "TRABE"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Entre el violín y violonchelo",
+              "answer": "VIOLA"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Lo que tienen en común Frank y el Fray",
+              "answer": "FRA"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Sonoro y retumbante como una tormenta",
+              "answer": "TRONANTE"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Militar chileno cuya junta derrocó a Salvador Allende",
+              "answer": "PINOCHET"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Hija del último zar de Rusia",
+              "answer": "ANASTASIA"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Policía en inglés",
+              "answer": "COP"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Relación escrita de lo sucedido en una junta (pl)",
+              "answer": "ACTAS"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "\"… Murphy\", El príncipe de Zamunda",
+              "answer": "EDDIE"
+            },
+            "39": {
+              "col": 14,
+              "row": 7,
+              "clue": "Siga su huella",
+              "answer": "RASTREE"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Suya, en inglés",
+              "answer": "HER"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "\"… y yo\", libro de Juan Ramón Jiménez, sobre un burrito",
+              "answer": "PLATERO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "España Engaño, falsedad, mentira",
+              "answer": "TROLA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Rechaza, ahuyenta los mosquitos",
+              "answer": "REPELE"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Intervenid quirúrgicamente",
+              "answer": "OPERAD"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Que se lucre del caos es muy inhumano",
+              "answer": "CRUEL"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Impregné con anís una comida",
+              "answer": "ANISE"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Plataforma de tablas para transportar mercancías",
+              "answer": "PALE"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"Reservoir…\" de Tarantino",
+              "answer": "DOGS"
+            },
+            "57": {
+              "col": 5,
+              "row": 12,
+              "clue": "Unidad de procesamiento central (siglas en inglés)",
+              "answer": "CPU"
+            },
+            "60": {
+              "col": 4,
+              "row": 13,
+              "clue": "Símbolo químico del Manganeso",
+              "answer": "MN"
+            },
+            "62": {
+              "col": 13,
+              "row": 13,
+              "clue": "Dominio web para Ucrania",
+              "answer": "UA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Bloqueo del paso del aire por la nariz, obstrucción…",
+              "answer": "NASAL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "El mueble de la ropa",
+              "answer": "ARMARIO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ciudad donde (en teoría) nació Cristóbal Colón",
+              "answer": "GENOVA"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Nacido en Cerdeña, isla de Italia",
+              "answer": "SARDO"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "Instituto Cervantes",
+              "answer": "IC"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Se dañó la elástica por poner las tenazas",
+              "answer": "ALICATES"
+            },
+            "18": {
+              "col": 11,
+              "row": 2,
+              "clue": "\"… tu amante bandido, bandido / corazón, corazón malherido\" MB",
+              "answer": "SERE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Poner algo de modo que pase de una parte a otra",
+              "answer": "ATRAVESAR"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Acudir, asistir aquí",
+              "answer": "VENIR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Iniciales del prota de '8 apellidos vascos'",
+              "answer": "DR"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Recuperes la salud",
+              "answer": "SANES"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Adquirir fincas",
+              "answer": "FINCAR"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Universidad Autónoma de Tamaulipas",
+              "answer": "UAT"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Altura, nivel",
+              "answer": "RAS"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"ex …\" del latín, a propósito, con intención",
+              "answer": "PROFESO"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Aperture",
+              "answer": "ABRA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "\"Clases…\"  peldaños en que se puede estratificar la sociedad",
+              "answer": "SOCIALES"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Felina cazadora",
+              "answer": "LEONA"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "\"… Weasley\" el mejor amigo de Harry Potter",
+              "answer": "RON"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Cada personalidad en el TDI",
+              "answer": "ALTER"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "La banda de pop",
+              "answer": "NACHAPOP"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Inclinada, que tiene tendencia a algo",
+              "answer": "DADA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Salientes de metal en el mástil de las guitarras",
+              "answer": "TRASTES"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Voz de la gallina clueca",
+              "answer": "CLO"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Siglas en inglés de sistema de radiodifusión de datos",
+              "answer": "RDS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Arrendar para producir",
+              "answer": "RENTAR"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Lámina metálica",
+              "answer": "CHAPA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "En las páginas web italianas",
+              "answer": "IT"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "¿Prefieres los patos aptos o el pasto con posta?",
+              "answer": "OPTAS"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Tener ambiciones de conseguir algo",
+              "answer": "PRETENDER"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Que patalees por perder a la oca",
+              "answer": "LEES"
+            },
+            "57": {
+              "col": 5,
+              "row": 12,
+              "clue": "Procedimiento médico para cerrar heridas mediante calor",
+              "answer": "CAUTERIO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… Capone\" Cara cortada",
+              "answer": "AL"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Inflé, hinché",
+              "answer": "IMPLE"
+            },
+            "61": {
+              "col": 9,
+              "row": 13,
+              "clue": "Rompí una tela o un papel",
+              "answer": "RASGUE"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"… Lasker\" el 2º campeón mundial de ajedrez",
+              "answer": "EMANUEL"
+            },
+            "64": {
+              "col": 9,
+              "row": 14,
+              "clue": "Principal ciudad portuaria de Ucrania",
+              "answer": "ODESA"
+            }
+          }
+        },
+        "vertical_clues": "1-Símbolo químico del neón\r\n2-Ir en valenciano \r\n3-Ellas están sin compañía\r\n4-Hacer que arda más la llama del amor\r\n5-Armarios empotrados para almacenar alimentos \r\n6-Los cuernos del ciervo\r\n7-Pelar, rasurar\r\n8-Abreviatura de \"señora\" en inglés\r\n9-Dominio web para Andorra\r\n10-\"Scott Ian …\" guitarrista de la banda de trash metal Anthrax\r\n11-¿Escucharías la versión de un Asirio? \r\n12-Poco a poco, progresivo\r\n15-Corre como loco hasta la montaña\r\n17-Mujeres que orientan sobre un tema específico\r\n19-Hacer lo que mejor se le daba a Michael Jordan\r\n21-Hice más difícil que puedan abrir el cajón\r\n22-Entre el violín y violonchelo\r\n25-Lo que tienen en común Frank y el Fray\r\n27-Sonoro y retumbante como una tormenta \r\n29-Militar chileno cuya junta derrocó a Salvador Allende \r\n31-Hija del último zar de Rusia\r\n33-Policía en inglés\r\n35-Relación escrita de lo sucedido en una junta (pl)\r\n38-\"… Murphy\", El príncipe de Zamunda\r\n39-Siga su huella\r\n41-Suya, en inglés \r\n42-\"… y yo\", libro de Juan Ramón Jiménez, sobre un burrito\r\n44-España Engaño, falsedad, mentira\r\n45-Rechaza, ahuyenta los mosquitos\r\n47-Intervenid quirúrgicamente\r\n50-Que se lucre del caos es muy inhumano\r\n51-Impregné con anís una comida\r\n54-Plataforma de tablas para transportar mercancías\r\n55-\"Reservoir…\" de Tarantino\r\n57-Unidad de procesamiento central (siglas en inglés)\r\n60-Símbolo químico del Manganeso\r\n62-Dominio web para Ucrania",
+        "horizontal_clues": "1-Bloqueo del paso del aire por la nariz, obstrucción…\r\n6-El mueble de la ropa\r\n12-Ciudad donde (en teoría) nació Cristóbal Colón\r\n13-Nacido en Cerdeña, isla de Italia\r\n14-Instituto Cervantes\r\n16-Se dañó la elástica por poner las tenazas\r\n18-\"… tu amante bandido, bandido / corazón, corazón malherido\" MB \r\n20-Poner algo de modo que pase de una parte a otra\r\n22-Acudir, asistir aquí\r\n23-Iniciales del prota de '8 apellidos vascos'\r\n24-Recuperes la salud\r\n25-Adquirir fincas\r\n26-Universidad Autónoma de Tamaulipas \r\n28-Altura, nivel\r\n29-\"ex …\" del latín, a propósito, con intención\r\n30-Aperture\r\n32-\"Clases…\"  peldaños en que se puede estratificar la sociedad\r\n34-Felina cazadora\r\n36-\"… Weasley\" el mejor amigo de Harry Potter\r\n37-Cada personalidad en el TDI\r\n40-La banda de pop-rock española, los de 'La chica de ayer' (2p)\r\n43-Inclinada, que tiene tendencia a algo\r\n44-Salientes de metal en el mástil de las guitarras\r\n46-Voz de la gallina clueca\r\n48-Siglas en inglés de sistema de radiodifusión de datos\r\n49-Arrendar para producir\r\n50-Lámina metálica\r\n52-En las páginas web italianas\r\n53-¿Prefieres los patos aptos o el pasto con posta? \r\n54-Tener ambiciones de conseguir algo\r\n56-Que patalees por perder a la oca\r\n57-Procedimiento médico para cerrar heridas mediante calor\r\n58-\"… Capone\" Cara cortada\r\n59-Inflé, hinché\r\n61-Rompí una tela o un papel\r\n63-\"… Lasker\" el 2º campeón mundial de ajedrez\r\n64-Principal ciudad portuaria de Ucrania",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,#,11,#\r\n12,#,#,#,#,#,#,13,#,#,#,#,#,14,15\r\n#,#,16,#,#,#,17,#,#,#,#,18,19,#,#\r\n20,21,#,#,#,#,#,#,#,#,22,#,#,#,#\r\n23,#,#,24,#,#,#,#,#,25,#,#,#,#,#\r\n26,#,27,#,28,#,#,#,29,#,#,#,#,#,#\r\n30,#,#,31,#,32,#,33,#,#,#,#,#,#,#\r\n34,#,#,#,35,#,36,#,#,#,37,#,#,38,39\r\n#,#,40,#,#,41,#,#,#,42,#,43,#,#,#\r\n44,45,#,#,#,#,#,#,46,#,47,#,48,#,#\r\n49,#,#,#,#,#,#,50,#,#,#,51,#,52,#\r\n53,#,#,#,#,#,54,#,#,#,#,#,55,#,#\r\n56,#,#,#,#,57,#,#,#,#,#,#,#,#,#\r\n58,#,#,59,60,#,#,#,#,61,#,#,#,62,#\r\n#,63,#,#,#,#,#,#,#,64,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

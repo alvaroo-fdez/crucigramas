@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 4477,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.830834Z",
+      "updatedAt": "2025-12-30T18:40:23.428015Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MARA#BULOS#OCON\r\nUNA#RELE#AZTECA\r\nLAICISTA#U##RUD\r\nAFLACAR##LAPEPA\r\nTO#MIRABA#REMAR\r\nARPON#MODERNOS#\r\n#ARRABAL#TIENEN\r\n##OR#ARIDA#TI##\r\nXAVIER#VALORAR#\r\n#MISMIDAD#JALEA\r\nDANTE#CRIMEN#ST\r\nESCASO##VIATICO\r\nCAI##P#PONDERAL\r\nIRANIO#USIA#ITO\r\nRALO#NETOS#RAEN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Nacida de negro y blanca, o de blanco y negra",
+              "answer": "MULATA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Retórica Empleo de palabras o conceptos repetidos",
+              "answer": "ANAFORA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Carril de las vías férreas",
+              "answer": "RAIL"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Porque al llamarte por teléfono: no te puedo…\" Hombres G",
+              "answer": "BESAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "País que está del otro lado del agua",
+              "answer": "ULTRAMAR"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Entienda el escrito",
+              "answer": "LEA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Better call…\" la precuela de 'Breaking Bad'",
+              "answer": "SAUL"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Otro en Ottawa",
+              "answer": "OT"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Protocolo (o también, relativo al protocolo)",
+              "answer": "CEREMONIAL"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Tomase posesión de un territorio invadiéndolo",
+              "answer": "OCUPASE"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Desplazarse en el agua",
+              "answer": "NADAR"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Toxina vegetal altamente peligrosa",
+              "answer": "RICINA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Peleón, provocador",
+              "answer": "CAMORRISTA"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Arriba no hay bario",
+              "answer": "ARRI"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Que se infiltra mucho en algo",
+              "answer": "PENETRANTE"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Moneda venezolana",
+              "answer": "BOLIVAR"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Entre lo municipal y lo nacional",
+              "answer": "PROVINCIAL"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Voz latina para indicar más autores (2p)",
+              "answer": "ETAL"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Que sobresale por sus óptimas cualidades",
+              "answer": "BARI"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Persona que comparte sus bienes con generosidad",
+              "answer": "DADIVOSO"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Reunirá y cuidará su fortuna",
+              "answer": "AMASARA"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "MMMM",
+              "answer": "EMES"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "Mirada pronta y ligera",
+              "answer": "OJEADA"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Dinero que se paga por un secuestrado",
+              "answer": "RESCATE"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "\"Después de Cristo\" (abrev)",
+              "answer": "DC"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Isla madrepórica de forma anular con laguna",
+              "answer": "ATOLON"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Manifestar con palabras el pensamiento",
+              "answer": "DECIR"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Muy cortitos",
+              "answer": "MINIS"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Enfrenta algo contra otra cosa para entorpecer o impedir su efecto",
+              "answer": "OPON"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Caminaría, andaría",
+              "answer": "IRIA"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "México Papaya, lechosa",
+              "answer": "PUT"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Denegado",
+              "answer": "NO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pandilla centroamericana",
+              "answer": "MARA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Los falsos rumores de internet",
+              "answer": "BULOS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Pedro… de Oro\" el creador de las sopas de letras",
+              "answer": "OCON"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Expresión \"Madre hay… sola\"",
+              "answer": "UNA"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Regulador de corriente",
+              "answer": "RELE"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Civilización imperial precolombina, ubicada en lo que hoy es México",
+              "answer": "AZTECA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Persona que apoya la separación del Estado de la iglesia",
+              "answer": "LAICISTA"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Le falta poco para ser rudo",
+              "answer": "RUD"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Antigua forma para decir: adelgazar",
+              "answer": "AFLACAR"
+            },
+            "19": {
+              "col": 9,
+              "row": 3,
+              "clue": "La Constitución Española de 1812, conocida como… (2p)",
+              "answer": "LAPEPA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Todo roto",
+              "answer": "TO"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Lo que hacía el voyerista",
+              "answer": "MIRABA"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Empujar la embarcación",
+              "answer": "REMAR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Instrumento usado para capturar ballenas",
+              "answer": "ARPON"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Tiempos…\" peli dirigida y protagonizada por Chaplin (1936)",
+              "answer": "MODERNOS"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Barrio fuera del recinto de la población a que pertenece",
+              "answer": "ARRABAL"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Poseen",
+              "answer": "TIENEN"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "El fin del mejor",
+              "answer": "OR"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Seca, estéril, de poco jugo y humedad",
+              "answer": "ARIDA"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"Hoy por… y mañana por mí\"",
+              "answer": "TI"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Charles…\" el Profesor X de los XMen",
+              "answer": "XAVIER"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Estimar lo que otros hacen por nosotros",
+              "answer": "VALORAR"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Lo que nos da identidad personal y nos separa de los otros",
+              "answer": "MISMIDAD"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Se aleja confundido de la mermelada",
+              "answer": "JALEA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Escritor italiano de la Divina comedia",
+              "answer": "DANTE"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "La escena acordonada con cinta amarilla",
+              "answer": "CRIMEN"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "En los autógrafos de Sharon Tate",
+              "answer": "ST"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Es caso perdido, hay muy poco de eso",
+              "answer": "ESCASO"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Observé en el cuarto de arriba que había provisión para el viaje",
+              "answer": "VIATICO"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Me… y me hice pupa",
+              "answer": "CAI"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Relativo al peso",
+              "answer": "PONDERAL"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Grupo de lenguas indoiranias de Oriente Medio",
+              "answer": "IRANIO"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Vuestra señoría",
+              "answer": "USIA"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Tito decapitado",
+              "answer": "ITO"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Disperso, espaciado, separado",
+              "answer": "RALO"
+            },
+            "63": {
+              "col": 5,
+              "row": 14,
+              "clue": "Notes que los pesos son sin taras",
+              "answer": "NETOS"
+            },
+            "64": {
+              "col": 11,
+              "row": 14,
+              "clue": "Eliminan completamente",
+              "answer": "RAEN"
+            }
+          }
+        },
+        "vertical_clues": "1-Nacida de negro y blanca, o de blanco y negra\r\n2-Retórica Empleo de palabras o conceptos repetidos\r\n3-Carril de las vías férreas\r\n4-\"Porque al llamarte por teléfono: no te puedo…\" Hombres G\r\n5-País que está del otro lado del agua\r\n6-Entienda el escrito\r\n7-\"Better call…\" la precuela de 'Breaking Bad'\r\n8-Otro en Ottawa\r\n9-Protocolo (o también, relativo al protocolo)\r\n10-Tomase posesión de un territorio invadiéndolo\r\n11-Desplazarse en el agua\r\n13-Toxina vegetal altamente peligrosa\r\n16-Peleón, provocador\r\n20-Arriba no hay bario\r\n21-Que se infiltra mucho en algo\r\n24-Moneda venezolana\r\n25-Dominio web para Andorra\r\n28-Entre lo municipal y lo nacional\r\n30-Voz latina para indicar más autores (2p)\r\n32-Que sobresale por sus óptimas cualidades\r\n36-Persona que comparte sus bienes con generosidad\r\n39-Reunirá y cuidará su fortuna\r\n40-MMMM\r\n42-Mirada pronta y ligera\r\n43-Dinero que se paga por un secuestrado\r\n45-\"Después de Cristo\" (abrev)\r\n47-Isla madrepórica de forma anular con laguna\r\n48-Manifestar con palabras el pensamiento\r\n50-Muy cortitos\r\n53-Enfrenta algo contra otra cosa para entorpecer o impedir su efecto\r\n55-Caminaría, andaría\r\n57-México Papaya, lechosa\r\n59-Denegado",
+        "horizontal_clues": "1-Pandilla centroamericana\r\n4-Los falsos rumores de internet\r\n8-\"Pedro… de Oro\" el creador de las sopas de letras\r\n12-Expresión \"Madre hay… sola\"\r\n13-Regulador de corriente\r\n14-Civilización imperial precolombina, ubicada en lo que hoy es México\r\n15-Persona que apoya la separación del Estado de la iglesia\r\n17-Le falta poco para ser rudo\r\n18-Antigua forma para decir: adelgazar\r\n19-La Constitución Española de 1812, conocida como… (2p)\r\n22-Todo roto\r\n23-Lo que hacía el voyerista\r\n26-Empujar la embarcación\r\n27-Instrumento usado para capturar ballenas\r\n29-\"Tiempos…\" peli dirigida y protagonizada por Chaplin (1936)\r\n31-Barrio fuera del recinto de la población a que pertenece\r\n33-Poseen\r\n34-El fin del mejor\r\n35-Seca, estéril, de poco jugo y humedad\r\n37-\"Hoy por… y mañana por mí\"\r\n38-\"Charles…\" el Profesor X de los XMen\r\n41-Estimar lo que otros hacen por nosotros\r\n44-Lo que nos da identidad personal y nos separa de los otros\r\n46-Se aleja confundido de la mermelada\r\n48-Escritor italiano de la Divina comedia\r\n49-La escena acordonada con cinta amarilla\r\n51-En los autógrafos de Sharon Tate\r\n52-Es caso perdido, hay muy poco de eso\r\n54-Observé en el cuarto de arriba que había provisión para el viaje\r\n56-Me… y me hice pupa\r\n57-Relativo al peso\r\n58-Grupo de lenguas indoiranias de Oriente Medio\r\n60-Vuestra señoría\r\n61-Tito decapitado\r\n62-Disperso, espaciado, separado\r\n63-Notes que los pesos son sin taras\r\n64-Eliminan completamente",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,#,4,5,6,#,7,#,8,9,10,11\r\n12,#,#,#,13,#,#,#,#,14,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,#,17,#,#\r\n18,#,#,#,#,#,#,#,#,19,20,21,#,#,#\r\n22,#,#,23,#,#,#,24,25,#,26,#,#,#,#\r\n27,#,28,#,#,#,29,#,#,30,#,#,#,#,#\r\n#,31,#,#,#,32,#,#,#,33,#,#,#,#,#\r\n#,#,34,#,#,35,#,#,36,#,#,37,#,#,#\r\n38,39,#,#,40,#,#,41,#,#,42,#,#,43,#\r\n#,44,#,#,#,#,45,#,#,#,46,#,#,#,47\r\n48,#,#,#,#,#,49,#,#,50,#,#,#,51,#\r\n52,#,#,#,#,53,#,#,54,#,#,#,55,#,#\r\n56,#,#,#,#,#,#,57,#,#,#,#,#,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,#,61,#,#\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

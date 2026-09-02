@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 2492,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-05-31T16:41:58.461820Z",
+      "updatedAt": "2025-05-31T16:41:58.492492Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-07",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EFES#BIGMAC#CHA\r\nPUBIS#BAOBAB#UT\r\nOM#LIAR#ESPASMO\r\nCARICIAS#TALLER\r\n#RICOS#OFENDIDO\r\nPAÑAL#IDEM#EPA#\r\nANOTO#SACIE###R\r\nJ#NOGAL#HONGO#I\r\nE###OSETA#CEBRA\r\n#LAB#IÑAS#ENTES\r\nLETARGOS#OREES#\r\nATORAN#ESCARNIO\r\nCOARTAR#HADO#DS\r\nAN#YODURO#OSMIO\r\nSAL#NONATO#ODAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Enfermedad pulmonar obstructiva crónica",
+              "answer": "EPOC"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Aspirarán y despedirán el humo del tabaco",
+              "answer": "FUMARAN"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Emilio Butragueño, \"El Buitre\"",
+              "answer": "EB"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Si lo cato, que me den esa sal",
+              "answer": "SILICATO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Con cariño a Ibrahimović",
+              "answer": "IBRA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Uno de Los tres chiflados",
+              "answer": "MOE"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Parece que Arsenio ya no bebe alcohol",
+              "answer": "ABSTEMIO"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Extirpan los órganos genitales",
+              "answer": "CAPAN"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ligeramente mojada",
+              "answer": "HUMEDA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Atasco, obstruyo",
+              "answer": "ATORO"
+            },
+            "15": {
+              "col": 4,
+              "row": 1,
+              "clue": "Profesional al que contarle tus problemas e inquietudes",
+              "answer": "SICOLOGO"
+            },
+            "17": {
+              "col": 11,
+              "row": 1,
+              "clue": "Recipiente útil para armar castillos de arena",
+              "answer": "BALDE"
+            },
+            "21": {
+              "col": 5,
+              "row": 2,
+              "clue": "Así está mal",
+              "answer": "AIS"
+            },
+            "23": {
+              "col": 12,
+              "row": 2,
+              "clue": "Calzoncillo ajustado",
+              "answer": "SLIP"
+            },
+            "25": {
+              "col": 2,
+              "row": 3,
+              "clue": "Cada una de las glándulas secretorias de la orina",
+              "answer": "RIÑON"
+            },
+            "26": {
+              "col": 7,
+              "row": 3,
+              "clue": "Bebida que contiene ácido carbónico",
+              "answer": "SODA"
+            },
+            "30": {
+              "col": 8,
+              "row": 4,
+              "clue": "Días determinados",
+              "answer": "FECHAS"
+            },
+            "31": {
+              "col": 0,
+              "row": 5,
+              "clue": "Criado joven que acompañaba a sus amos y servía en la casa",
+              "answer": "PAJE"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "En las Antillas, este sería un inmigrante de las islas Canarias",
+              "answer": "ISLEÑO"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Piso lustroso y resbaladizo",
+              "answer": "ENCERADO"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "Celebres con risa algo",
+              "answer": "RIAS"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Elegido un trabajo para alguien en particular",
+              "answer": "ASIGNADO"
+            },
+            "41": {
+              "col": 11,
+              "row": 7,
+              "clue": "Hombre que obra con magnanimidad y nobleza de ánimo",
+              "answer": "GENEROSO"
+            },
+            "42": {
+              "col": 12,
+              "row": 7,
+              "clue": "Ten, adquiere, consigue",
+              "answer": "OBTEN"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Fijé oficialmente el precio para una mercancía",
+              "answer": "TASE"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "Vivía en una casa",
+              "answer": "RESIDIA"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Mujer nacida en Letonia",
+              "answer": "LETONA"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Lleva a remolque un navío",
+              "answer": "ATOA"
+            },
+            "49": {
+              "col": 3,
+              "row": 9,
+              "clue": "Último sobreviviente de los Bee Gees",
+              "answer": "BARRY"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pintaúñas (pl)",
+              "answer": "LACAS"
+            },
+            "53": {
+              "col": 4,
+              "row": 10,
+              "clue": "Roedor",
+              "answer": "RATON"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "'De… a…, tiro porque me toca'",
+              "answer": "OCA"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Un chupito de un solo tiro",
+              "answer": "SHOT"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Úrsidos",
+              "answer": "OSOS"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "El DNI de los chilenos",
+              "answer": "RUN"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Poco razonable",
+              "answer": "RA"
+            },
+            "67": {
+              "col": 12,
+              "row": 13,
+              "clue": "Símbolo químico del Mendelevio",
+              "answer": "MD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "F f f f f",
+              "answer": "EFES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Una hamburguesa y un índice económico (2p)",
+              "answer": "BIGMAC"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Chalet en construcción",
+              "answer": "CHA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Monte de Venus",
+              "answer": "PUBIS"
+            },
+            "16": {
+              "col": 6,
+              "row": 1,
+              "clue": "Árbol importante en 'El Principito'",
+              "answer": "BAOBAB"
+            },
+            "18": {
+              "col": 13,
+              "row": 1,
+              "clue": "Inic de la prota de 'Kill Bill' de Tarantino",
+              "answer": "UT"
+            },
+            "19": {
+              "col": 0,
+              "row": 2,
+              "clue": "Mantra de exhalación",
+              "answer": "OM"
+            },
+            "20": {
+              "col": 3,
+              "row": 2,
+              "clue": "\"Mentiroso\" en inglés",
+              "answer": "LIAR"
+            },
+            "22": {
+              "col": 8,
+              "row": 2,
+              "clue": "Contracción muscular involuntaria (pl)",
+              "answer": "ESPASMO"
+            },
+            "24": {
+              "col": 0,
+              "row": 3,
+              "clue": "Demostraciones amorosas con el tacto",
+              "answer": "CARICIAS"
+            },
+            "27": {
+              "col": 9,
+              "row": 3,
+              "clue": "Lugar de trabajo del mecánico o el escultor",
+              "answer": "TALLER"
+            },
+            "28": {
+              "col": 1,
+              "row": 4,
+              "clue": "Los críos enloquecidos con tanto dinero",
+              "answer": "RICOS"
+            },
+            "29": {
+              "col": 7,
+              "row": 4,
+              "clue": "Atacado por algo que le afecta personalmente",
+              "answer": "OFENDIDO"
+            },
+            "31": {
+              "col": 0,
+              "row": 5,
+              "clue": "Mejor que sea de tela, aunque haya que lavarlo a mano",
+              "answer": "PAÑAL"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Lo calculé de vuelta y es lo mismo",
+              "answer": "IDEM"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Nepal sin fronteras",
+              "answer": "EPA"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Deporte Marcó tantos",
+              "answer": "ANOTO"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Calmé por completo el hambre",
+              "answer": "SACIE"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Árbol que da de fruto la nuez",
+              "answer": "NOGAL"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Lo es el Shitake o la trufa",
+              "answer": "HONGO"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "Lengua de la familia irania entre Rusia y Georgia",
+              "answer": "OSETA"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "Cazada por sus rayas, con amenaza de extinción",
+              "answer": "CEBRA"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Laboratorio desmantelado",
+              "answer": "LAB"
+            },
+            "50": {
+              "col": 5,
+              "row": 9,
+              "clue": "Piñas sin corona",
+              "answer": "IÑAS"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Me senté incómodamente a ver a los sujetos ridículos",
+              "answer": "ENTES"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Estado de somnolencia profunda y prolongada (pl)",
+              "answer": "LETARGOS"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Ventees, desapolilles",
+              "answer": "OREES"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Atragantan, ahogan",
+              "answer": "ATORAN"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Mezcla arsénico para hacerle burla",
+              "answer": "ESCARNIO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Limitar, impedir",
+              "answer": "COARTAR"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Encadenamiento fatal de los sucesos",
+              "answer": "HADO"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Símbolo químico del darmstatio",
+              "answer": "DS"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Entrando en Andorra",
+              "answer": "AN"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Química Sal resultante de la unión del yodo con un radical simple o compuesto",
+              "answer": "YODURO"
+            },
+            "66": {
+              "col": 10,
+              "row": 13,
+              "clue": "Os",
+              "answer": "OSMIO"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "Condimento por excelencia",
+              "answer": "SAL"
+            },
+            "69": {
+              "col": 4,
+              "row": 14,
+              "clue": "Nacido por cesárea",
+              "answer": "NONATO"
+            },
+            "70": {
+              "col": 11,
+              "row": 14,
+              "clue": "Poesías",
+              "answer": "ODAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Enfermedad pulmonar obstructiva crónica\r\n2-Aspirarán y despedirán el humo del tabaco\r\n3-Emilio Butragueño, \"El Buitre\"\r\n4-Si lo cato, que me den esa sal\r\n6-Con cariño a Ibrahimović\r\n7-Piel de gallina\r\n8-Uno de Los tres chiflados\r\n9-Parece que Arsenio ya no bebe alcohol\r\n10-Extirpan los órganos genitales\r\n12-Ligeramente mojada\r\n13-Atasco, obstruyo\r\n15-Profesional al que contarle tus problemas e inquietudes\r\n17-Recipiente útil para armar castillos de arena\r\n21-Así está mal\r\n23-Calzoncillo ajustado\r\n25-Cada una de las glándulas secretorias de la orina\r\n26-Bebida que contiene ácido carbónico\r\n30-Días determinados\r\n31-Criado joven que acompañaba a sus amos y servía en la casa\r\n32-En las Antillas, este sería un inmigrante de las islas Canarias\r\n36-Piso lustroso y resbaladizo\r\n37-Celebres con risa algo\r\n39-Elegido un trabajo para alguien en particular\r\n41-Hombre que obra con magnanimidad y nobleza de ánimo\r\n42-Ten, adquiere, consigue\r\n44-Fijé oficialmente el precio para una mercancía\r\n46-Vivía en una casa\r\n47-Mujer nacida en Letonia\r\n48-Lleva a remolque un navío\r\n49-Último sobreviviente de los Bee Gees\r\n52-Pintaúñas (pl)\r\n53-Roedor\r\n54-'De… a…, tiro porque me toca'\r\n57-Un chupito de un solo tiro\r\n58-Úrsidos\r\n60-El DNI de los chilenos\r\n65-Poco razonable\r\n67-Símbolo químico del Mendelevio\r\n",
+        "horizontal_clues": "1-F f f f f\r\n5-Una hamburguesa y un índice económico (2p)\r\n11-Chalet en construcción\r\n14-Monte de Venus\r\n16-Árbol importante en 'El Principito'\r\n18-Inic de la prota de 'Kill Bill' de Tarantino\r\n19-Mantra de exhalación\r\n20-\"Mentiroso\" en inglés\r\n22-Contracción muscular involuntaria (pl)\r\n24-Demostraciones amorosas con el tacto\r\n27-Lugar de trabajo del mecánico o el escultor\r\n28-Los críos enloquecidos con tanto dinero\r\n29-Atacado por algo que le afecta personalmente\r\n31-Mejor que sea de tela, aunque haya que lavarlo a mano\r\n32-Lo calculé de vuelta y es lo mismo\r\n33-Nepal sin fronteras\r\n34-Deporte Marcó tantos\r\n35-Calmé por completo el hambre\r\n38-Árbol que da de fruto la nuez\r\n40-Lo es el Shitake o la trufa\r\n43-Lengua de la familia irania entre Rusia y Georgia\r\n45-Cazada por sus rayas, con amenaza de extinción\r\n47-Laboratorio desmantelado\r\n50-Piñas sin corona\r\n51-Me senté incómodamente a ver a los sujetos ridículos\r\n52-Estado de somnolencia profunda y prolongada (pl)\r\n54-Ventees, desapolilles\r\n55-Atragantan, ahogan\r\n56-Mezcla arsénico para hacerle burla\r\n59-Limitar, impedir\r\n61-Encadenamiento fatal de los sucesos\r\n62-Símbolo químico del darmstatio\r\n63-Entrando en Andorra\r\n64-Química Sal resultante de la unión del yodo con un radical simple o compuesto\r\n66-Os\r\n68-Condimento por excelencia\r\n69-Nacido por cesárea\r\n70-Poesías\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,10,#,11,12,13\r\n14,#,#,#,15,#,16,#,#,#,#,17,#,18,#\r\n19,#,#,20,#,21,#,#,22,#,#,#,23,#,#\r\n24,#,25,#,#,#,#,26,#,27,#,#,#,#,#\r\n#,28,#,#,#,#,#,29,30,#,#,#,#,#,#\r\n31,#,#,#,#,#,32,#,#,#,#,33,#,#,#\r\n34,#,#,#,#,#,35,#,#,#,36,#,#,#,37\r\n#,#,38,#,#,39,#,#,40,#,#,41,42,#,#\r\n#,#,#,#,43,#,#,44,#,#,45,#,#,46,#\r\n#,47,48,49,#,50,#,#,#,#,51,#,#,#,#\r\n52,#,#,#,53,#,#,#,#,54,#,#,#,#,#\r\n55,#,#,#,#,#,#,56,57,#,#,#,#,#,58\r\n59,#,#,#,#,#,60,#,61,#,#,#,#,62,#\r\n63,#,#,64,#,#,#,65,#,#,66,#,67,#,#\r\n68,#,#,#,69,#,#,#,#,#,#,70,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

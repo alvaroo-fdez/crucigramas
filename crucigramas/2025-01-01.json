@@ -1,0 +1,484 @@
+{
+  "data": {
+    "id": 1483,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-30T16:43:42.326332Z",
+      "updatedAt": "2024-12-30T16:43:42.357473Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-01",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "BIGMAC###GLOBAL\r\nIRPF#ARNAU#MIEL\r\nSE##PRESTAS##RU\r\nT#TARAD#ATESE#V\r\nE#ELEVE#CERON#I\r\nCALIDAD#AMELABA\r\n#VECINO#MANIJA#\r\n#OPACAR#ALACET#\r\n#CATAS#B#ATINE#\r\nROTAR#LIU#ATASE\r\nA#AD#RELSB#UD#G\r\nC#SO#AMBAR#DO#I\r\nHA##USUARIO##SP\r\nESTE#CROAS#FUET\r\nLISBOA###ATENTO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lonja de carne de vaca",
+              "answer": "BISTEC"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "No me lo perderé, ahí estaré",
+              "answer": "IRE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Categoría del motociclismo donde compite Jorge Martín",
+              "answer": "GP"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lo que tienen en común Megan Fox y Michael Foucault",
+              "answer": "MF"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Vehículos aptos para hacer vida en ellos",
+              "answer": "CARAVANAS"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "País centroamericano donde está la ciudad maya Tikal",
+              "answer": "GUATEMALA"
+            },
+            "7": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Cálmate, respira profundo y repite este mantra conmigo…\"",
+              "answer": "OM"
+            },
+            "8": {
+              "col": 12,
+              "row": 0,
+              "clue": "En resumen, esta es bisexual",
+              "answer": "BI"
+            },
+            "9": {
+              "col": 13,
+              "row": 0,
+              "clue": "Esta era es un caos",
+              "answer": "AER"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Precipitación",
+              "answer": "LLUVIA"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Contorno, marco, periferia",
+              "answer": "REDEDOR"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Natalia Sánchez",
+              "answer": "NS"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Desierto más seco del mundo",
+              "answer": "ATACAMA"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Transmitir los principios de una religión a otros",
+              "answer": "PREDICAR"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Concierto al pie de la ventana",
+              "answer": "SERENATA"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Que practican la telepatía",
+              "answer": "TELEPATAS"
+            },
+            "22": {
+              "col": 3,
+              "row": 3,
+              "clue": "Obra de ladrillos azulejos",
+              "answer": "ALICATADO"
+            },
+            "24": {
+              "col": 11,
+              "row": 3,
+              "clue": "Petición formal por escrito",
+              "answer": "SOLICITUD"
+            },
+            "25": {
+              "col": 12,
+              "row": 3,
+              "clue": "Sujeto que ha perdido la razón de manera permanente o transitoria",
+              "answer": "ENAJENADO"
+            },
+            "29": {
+              "col": 1,
+              "row": 5,
+              "clue": "Pidió, solicitó, recabó",
+              "answer": "AVOCO"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Agitas con fuerza los palos del béisbol",
+              "answer": "BATES"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Ciudad donde está el Museo Guggenheim",
+              "answer": "BILBAO"
+            },
+            "39": {
+              "col": 0,
+              "row": 9,
+              "clue": "El personaje de Jennifer Aniston en Friends",
+              "answer": "RACHEL"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Primate propio de Madagascar",
+              "answer": "LEMUR"
+            },
+            "41": {
+              "col": 8,
+              "row": 9,
+              "clue": "Empleará, utilizará",
+              "answer": "USARA"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "País de desiertos, pirámides y momias",
+              "answer": "EGIPTO"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Se frota la piel por picazón, se…",
+              "answer": "RASCA"
+            },
+            "46": {
+              "col": 9,
+              "row": 10,
+              "clue": "Abrís y entra un viento suave",
+              "answer": "BRISA"
+            },
+            "52": {
+              "col": 1,
+              "row": 12,
+              "clue": "\"Yo soy … y … seguiré, nunca cambiaré\" Alaska",
+              "answer": "ASI"
+            },
+            "54": {
+              "col": 13,
+              "row": 12,
+              "clue": "Plató de grabación",
+              "answer": "SET"
+            },
+            "56": {
+              "col": 2,
+              "row": 13,
+              "clue": "Tribunal supremo",
+              "answer": "TS"
+            },
+            "57": {
+              "col": 3,
+              "row": 13,
+              "clue": "Emily Blunt",
+              "answer": "EB"
+            },
+            "59": {
+              "col": 11,
+              "row": 13,
+              "clue": "Convicción de hierro",
+              "answer": "FE"
+            },
+            "60": {
+              "col": 12,
+              "row": 13,
+              "clue": "Algún artículo",
+              "answer": "UN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Una hamburguesa y un índice económico (2p)",
+              "answer": "BIGMAC"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tomado en conjunto",
+              "answer": "GLOBAL"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "El impuesto sobre la renta de las personas físicas",
+              "answer": "IRPF"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "\"Juan…\" fundador del Monegros Desert Festival",
+              "answer": "ARNAU"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Sustancia dulce que producen las abejas",
+              "answer": "MIEL"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Estoy al tanto de que esta es una web sueca",
+              "answer": "SE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Concedes temporalmente",
+              "answer": "PRESTAS"
+            },
+            "20": {
+              "col": 13,
+              "row": 2,
+              "clue": "Cerámica china de la dinastía Song",
+              "answer": "RU"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Disminuid el valor de algo por defectuoso",
+              "answer": "TARAD"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Tensé las velas del barco, las…",
+              "answer": "ATESE"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "Subí, por ejemplo una plegaria",
+              "answer": "ELEVE"
+            },
+            "27": {
+              "col": 8,
+              "row": 4,
+              "clue": "Residuo o heces de los panales de la cera",
+              "answer": "CERON"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Característica de un producto que solemos relacionar con su precio",
+              "answer": "CALIDAD"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Fabricaba su miel",
+              "answer": "AMELABA"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Ve si no se ha puesto el de al lado",
+              "answer": "VECINO"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Sirve para abrir la puerta",
+              "answer": "MANIJA"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Ensombrecer el desempeño del otro",
+              "answer": "OPACAR"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Arquitectura Fundamento de un edificio",
+              "answer": "ALACET"
+            },
+            "36": {
+              "col": 1,
+              "row": 8,
+              "clue": "Examinas, evalúas el vino",
+              "answer": "CATAS"
+            },
+            "38": {
+              "col": 9,
+              "row": 8,
+              "clue": "Acerté algo por conjeturas",
+              "answer": "ATINE"
+            },
+            "39": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dar vueltas alrededor de un eje",
+              "answer": "ROTAR"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "\"… Kang\" personaje del videojuegos Mortal Kombat",
+              "answer": "LIU"
+            },
+            "42": {
+              "col": 10,
+              "row": 9,
+              "clue": "Sujetase con nudos la saeta",
+              "answer": "ATASE"
+            },
+            "44": {
+              "col": 2,
+              "row": 10,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Rapero mallorquín autor del álbum 'La Isla LP'",
+              "answer": "RELSB"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "¿Usted de pequeño?",
+              "answer": "UD"
+            },
+            "48": {
+              "col": 2,
+              "row": 11,
+              "clue": "¡Tranquilo! calma a la bestia",
+              "answer": "SO"
+            },
+            "49": {
+              "col": 5,
+              "row": 11,
+              "clue": "Resina fósil amarillenta que arde con buen olor",
+              "answer": "AMBAR"
+            },
+            "50": {
+              "col": 11,
+              "row": 11,
+              "clue": "Hay una nota de denominación de origen",
+              "answer": "DO"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo de hectárea",
+              "answer": "HA"
+            },
+            "53": {
+              "col": 4,
+              "row": 12,
+              "clue": "Un cliente",
+              "answer": "USUARIO"
+            },
+            "54": {
+              "col": 13,
+              "row": 12,
+              "clue": "El monograma de Scottie Pippen",
+              "answer": "SP"
+            },
+            "55": {
+              "col": 0,
+              "row": 13,
+              "clue": "Se encuentre en un punto naciente",
+              "answer": "ESTE"
+            },
+            "58": {
+              "col": 5,
+              "row": 13,
+              "clue": "Cantas como una rana",
+              "answer": "CROAS"
+            },
+            "59": {
+              "col": 11,
+              "row": 13,
+              "clue": "Embutido típico de Cataluña",
+              "answer": "FUET"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Capital de Portugal",
+              "answer": "LISBOA"
+            },
+            "62": {
+              "col": 9,
+              "row": 14,
+              "clue": "Cometido, cordial, servicial",
+              "answer": "ATENTO"
+            }
+          }
+        },
+        "vertical_clues": "1-Lonja de carne de vaca\r\n2-No me lo perderé, ahí estaré\r\n3-Categoría del motociclismo donde compite Jorge Martín\r\n4-Lo que tienen en común Megan Fox y Michael Foucault\r\n5-Vehículos aptos para hacer vida en ellos\r\n6-País centroamericano donde está la ciudad maya Tikal\r\n7-\"Cálmate, respira profundo y repite este mantra conmigo…\" \r\n8-En resumen, esta es bisexual\r\n9-Esta era es un caos\r\n10-Precipitación\r\n13-Contorno, marco, periferia\r\n14-Natalia Sánchez\r\n15-Desierto más seco del mundo\r\n18-Transmitir los principios de una religión a otros\r\n19-Concierto al pie de la ventana\r\n21-Que practican la telepatía\r\n22-Obra de ladrillos azulejos\r\n24-Petición formal por escrito \r\n25-Sujeto que ha perdido la razón de manera permanente o transitoria\r\n29-Pidió, solicitó, recabó\r\n31-Agitas con fuerza los palos del béisbol\r\n37-Ciudad donde está el Museo Guggenheim\r\n39-El personaje de Jennifer Aniston en Friends \r\n40-Primate propio de Madagascar\r\n41-Empleará, utilizará\r\n43-País de desiertos, pirámides y momias\r\n45-Se frota la piel por picazón, se…\r\n46-Abrís y entra un viento suave\r\n52-\"Yo soy … y … seguiré, nunca cambiaré\" Alaska\r\n54-Plató de grabación\r\n56-Tribunal supremo\r\n57-Emily Blunt\r\n59-Convicción de hierro\r\n60-Algún artículo\r\n",
+        "horizontal_clues": "1-Una hamburguesa y un índice económico (2p)\r\n6-Tomado en conjunto\r\n11-El impuesto sobre la renta de las personas físicas\r\n12-\"Juan…\" fundador del Monegros Desert Festival\r\n16-Sustancia dulce que producen las abejas\r\n17-Estoy al tanto de que esta es una web sueca\r\n18-Concedes temporalmente \r\n20-Cerámica china de la dinastía Song\r\n21-Disminuid el valor de algo por defectuoso\r\n23-Tensé las velas del barco, las…\r\n26-Subí, por ejemplo una plegaria\r\n27-Residuo o heces de los panales de la cera\r\n28-Característica de un producto que solemos relacionar con su precio\r\n30-Fabricaba su miel\r\n32-Ve si no se ha puesto el de al lado\r\n33-Sirve para abrir la puerta\r\n34-Ensombrecer el desempeño del otro\r\n35-Arquitectura Fundamento de un edificio\r\n36-Examinas, evalúas el vino\r\n38-Acerté algo por conjeturas\r\n39-Dar vueltas alrededor de un eje\r\n40-\"… Kang\" personaje del videojuegos Mortal Kombat \r\n42-Sujetase con nudos la saeta\r\n44-Dominio web para Andorra\r\n45-Rapero mallorquín autor del álbum 'La Isla LP'\r\n47-¿Usted de pequeño? \r\n48-¡Tranquilo! calma a la bestia\r\n49-Resina fósil amarillenta que arde con buen olor\r\n50-Hay una nota de denominación de origen\r\n51-Símbolo de hectárea\r\n53-Un cliente\r\n54-El monograma de Scottie Pippen\r\n55-Se encuentre en un punto naciente\r\n58-Cantas como una rana\r\n59-Embutido típico de Cataluña\r\n61-Capital de Portugal\r\n62-Cometido, cordial, servicial\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,#,#,#,6,#,7,8,9,10\r\n11,#,#,#,#,12,13,14,15,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,20,#\r\n#,#,21,22,#,#,#,#,23,#,#,24,25,#,#\r\n#,#,26,#,#,#,#,#,27,#,#,#,#,#,#\r\n28,29,#,#,#,#,#,#,30,#,#,#,#,31,#\r\n#,32,#,#,#,#,#,#,33,#,#,#,#,#,#\r\n#,34,#,#,#,#,#,#,35,#,#,#,#,#,#\r\n#,36,#,#,#,#,#,37,#,38,#,#,#,#,#\r\n39,#,#,#,#,#,40,#,41,#,42,#,#,#,43\r\n#,#,44,#,#,45,#,#,#,46,#,47,#,#,#\r\n#,#,48,#,#,49,#,#,#,#,#,50,#,#,#\r\n51,52,#,#,53,#,#,#,#,#,#,#,#,54,#\r\n55,#,56,57,#,58,#,#,#,#,#,59,60,#,#\r\n61,#,#,#,#,#,#,#,#,62,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

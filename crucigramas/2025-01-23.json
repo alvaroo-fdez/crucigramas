@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 1551,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-17T10:58:59.055198Z",
+      "updatedAt": "2025-01-17T10:58:59.067455Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-23",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BAIKAL#ADOREN#\r\nM#ELIGE#PARAR#C\r\nEDREDON#ANALOGA\r\nDUOS#RAD#DRAGON\r\nREBAJE#OPIO#EDO\r\nALISE##MA#NANOS\r\nROC#SUBIR##ROSO\r\n###DIVINIDAD###\r\nRETA##LIRAS#SEP\r\nEVITA#IC##ITERE\r\nNOT#MUSA#ADONIS\r\nACUDIR#LMN#TEJA\r\nCOLEGAS#AUTOGOL\r\nI#ABONA#GARRA#O\r\n#CRISOL#ALIOLI#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ejercicio al ritmo de música",
+              "answer": "AEROBIC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que no han recibido ningún daño (fem)",
+              "answer": "ILESAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Billy the…\" famoso pistolero forajido del Viejo Oeste",
+              "answer": "KID"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Prediga el futuro",
+              "answer": "AGORE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Aliento, vigor",
+              "answer": "LENA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "El fin de esta etapa",
+              "answer": "APA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hombre que se distingue por su extremada elegancia",
+              "answer": "DANDI"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Recitaron, declamaron",
+              "answer": "ORARON"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Aguada, rebajada con agua",
+              "answer": "RALA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Que produce excitación sexual",
+              "answer": "EROGENO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Crecer, aumentar,",
+              "answer": "MEDRAR"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Con el cabello casi blanco",
+              "answer": "CANOSO"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Combate entre dos, a consecuencia de un reto",
+              "answer": "DUELO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Individuos de un antiguo pueblo germánico, fundadores de reinos en España e Italia",
+              "answer": "GODOS"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Cada domingo",
+              "answer": "DOMINICAL"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "A Jésica con cariño",
+              "answer": "JESI"
+            },
+            "27": {
+              "col": 8,
+              "row": 4,
+              "clue": "No quiere cesárea, prefiere…",
+              "answer": "PARIR"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "La doctora va a regresar",
+              "answer": "ARD"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Ultra Violeta",
+              "answer": "UV"
+            },
+            "36": {
+              "col": 6,
+              "row": 6,
+              "clue": "Líquido amargo del hígado",
+              "answer": "BILIS"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "Digital Audio Tape",
+              "answer": "DAT"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Sí, en ruso",
+              "answer": "DA"
+            },
+            "40": {
+              "col": 10,
+              "row": 7,
+              "clue": "Tomad o coged con la mano",
+              "answer": "ASID"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Volví a la vida como el fénix",
+              "answer": "RENACI"
+            },
+            "42": {
+              "col": 1,
+              "row": 8,
+              "clue": "Traigo recuerdos a la mente",
+              "answer": "EVOCO"
+            },
+            "43": {
+              "col": 2,
+              "row": 8,
+              "clue": "Jugador convocado para salir con el once inicial de su equipo",
+              "answer": "TITULAR"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Los ángeles se camuflan en Dakar",
+              "answer": "SENEGAL"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "Fundo, instituyo o levanto",
+              "answer": "ERIJO"
+            },
+            "47": {
+              "col": 14,
+              "row": 8,
+              "clue": "Ponlo en la balanza",
+              "answer": "PESALO"
+            },
+            "49": {
+              "col": 4,
+              "row": 9,
+              "clue": "La familia que te permites elegir, tus…",
+              "answer": "AMIGOS"
+            },
+            "52": {
+              "col": 11,
+              "row": 9,
+              "clue": "\"Mi vecino…\" peli de animación japonesa de Hayao Miyazaki",
+              "answer": "TOTORO"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Dios primordial del cielo",
+              "answer": "URANO"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "Que se repite cada año",
+              "answer": "ANUAL"
+            },
+            "58": {
+              "col": 3,
+              "row": 11,
+              "clue": "Tuve una deuda",
+              "answer": "DEBI"
+            },
+            "60": {
+              "col": 8,
+              "row": 11,
+              "clue": "\"La…\" la chica de la 'Rayuela'",
+              "answer": "MAGA"
+            },
+            "63": {
+              "col": 6,
+              "row": 12,
+              "clue": "Condimento por excelencia",
+              "answer": "SAL"
+            },
+            "65": {
+              "col": 10,
+              "row": 12,
+              "clue": "Prefijo que significa tres",
+              "answer": "TRI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "El más profundo del mundo, el Ojo azul de Siberia",
+              "answer": "BAIKAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Rindan culto a un ser divino",
+              "answer": "ADOREN"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Toma una decisión entre opciones",
+              "answer": "ELIGE"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Bloquear un chute, para que no sea gol",
+              "answer": "PARAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Cobertor, cobija rellena de plumón",
+              "answer": "EDREDON"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Similar en características o función",
+              "answer": "ANALOGA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Parejas musicales en el escenario",
+              "answer": "DUOS"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Radián (abrev)",
+              "answer": "RAD"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Serpiente gigante con alas y garras legendaria",
+              "answer": "DRAGON"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Reduje el precio original",
+              "answer": "REBAJE"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "De esta sustancia extraen la morfina, la heroína y la codeína",
+              "answer": "OPIO"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Abreviatura de Estado",
+              "answer": "EDO"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Elisa liada busca quien le planche el cabello",
+              "answer": "ALISE"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Matilde no lleva acento",
+              "answer": "MA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Estos niños son valencianos",
+              "answer": "NANOS"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Pedazo de roca",
+              "answer": "ROC"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Ascender hacia las alturas",
+              "answer": "SUBIR"
+            },
+            "37": {
+              "col": 11,
+              "row": 6,
+              "clue": "Raído, sin pelo",
+              "answer": "ROSO"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "Ser supremo y celestial",
+              "answer": "DIVINIDAD"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "¿Te desafía el Régimen Especial de Trabajadores Autónomos?",
+              "answer": "RETA"
+            },
+            "44": {
+              "col": 6,
+              "row": 8,
+              "clue": "Salir a cambiar las monedas italianas",
+              "answer": "LIRAS"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "3 de septiembre",
+              "answer": "SEP"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "La Perón, la argentina",
+              "answer": "EVITA"
+            },
+            "50": {
+              "col": 6,
+              "row": 9,
+              "clue": "En la punta del iceberg",
+              "answer": "IC"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Repita",
+              "answer": "ITERE"
+            },
+            "53": {
+              "col": 0,
+              "row": 10,
+              "clue": "Nota inconclusa",
+              "answer": "NOT"
+            },
+            "54": {
+              "col": 4,
+              "row": 10,
+              "clue": "Esta suma inspiración",
+              "answer": "MUSA"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "Galán de belleza excepcional",
+              "answer": "ADONIS"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Presentarse en el lugar indicado",
+              "answer": "ACUDIR"
+            },
+            "59": {
+              "col": 7,
+              "row": 11,
+              "clue": "Tres seguidas",
+              "answer": "LMN"
+            },
+            "61": {
+              "col": 11,
+              "row": 11,
+              "clue": "Pieza del techo contra la lluvia",
+              "answer": "TEJA"
+            },
+            "62": {
+              "col": 0,
+              "row": 12,
+              "clue": "Así se llaman entre compañeros",
+              "answer": "COLEGAS"
+            },
+            "64": {
+              "col": 8,
+              "row": 12,
+              "clue": "Un tanto en la arquería propia",
+              "answer": "AUTOGOL"
+            },
+            "66": {
+              "col": 2,
+              "row": 13,
+              "clue": "Paga una parte por adelantado",
+              "answer": "ABONA"
+            },
+            "67": {
+              "col": 8,
+              "row": 13,
+              "clue": "Arma natural del felino",
+              "answer": "GARRA"
+            },
+            "68": {
+              "col": 1,
+              "row": 14,
+              "clue": "Cavidad en los hornos que recibe el metal fundido",
+              "answer": "CRISOL"
+            },
+            "69": {
+              "col": 8,
+              "row": 14,
+              "clue": "Salsa hecha de ajos machacados y aceite",
+              "answer": "ALIOLI"
+            }
+          }
+        },
+        "vertical_clues": "2-Ejercicio al ritmo de música \r\n3-Que no han recibido ningún daño (fem) \r\n4-\"Billy the…\" famoso pistolero forajido del Viejo Oeste\r\n5-Prediga el futuro\r\n6-Aliento, vigor\r\n7-El fin de esta etapa\r\n8-Hombre que se distingue por su extremada elegancia\r\n9-Recitaron, declamaron\r\n10-Aguada, rebajada con agua\r\n11-Que produce excitación sexual \r\n12-Crecer, aumentar, \r\n15-Con el cabello casi blanco\r\n17-Combate entre dos, a consecuencia de un reto\r\n19-Individuos de un antiguo pueblo germánico, fundadores de reinos en España e Italia\r\n22-Cada domingo\r\n25-A Jésica con cariño\r\n27-No quiere cesárea, prefiere…\r\n32-La doctora va a regresar\r\n35-Ultra Violeta\r\n36-Líquido amargo del hígado \r\n38-Digital Audio Tape\r\n39-Sí, en ruso\r\n40-Tomad o coged con la mano\r\n41-Volví a la vida como el fénix \r\n42-Traigo recuerdos a la mente \r\n43-Jugador convocado para salir con el once inicial de su equipo\r\n45-Los ángeles se camuflan en Dakar\r\n46-Fundo, instituyo o levanto\r\n47-Ponlo en la balanza\r\n49-La familia que te permites elegir, tus…\r\n52-\"Mi vecino…\" peli de animación japonesa de Hayao Miyazaki\r\n55-Dios primordial del cielo\r\n56-Que se repite cada año\r\n58-Tuve una deuda\r\n60-\"La…\" la chica de la 'Rayuela' \r\n63-Condimento por excelencia\r\n65-Prefijo que significa tres\r\n",
+        "horizontal_clues": "1-El más profundo del mundo, el Ojo azul de Siberia\r\n7-Rindan culto a un ser divino\r\n13-Toma una decisión entre opciones \r\n14-Bloquear un chute, para que no sea gol\r\n16-Cobertor, cobija rellena de plumón\r\n18-Similar en características o función \r\n20-Parejas musicales en el escenario \r\n21-Radián (abrev)\r\n23-Serpiente gigante con alas y garras legendaria \r\n24-Reduje el precio original \r\n26-De esta sustancia extraen la morfina, la heroína y la codeína\r\n28-Abreviatura de Estado\r\n29-Elisa liada busca quien le planche el cabello\r\n30-Matilde no lleva acento\r\n31-Estos niños son valencianos\r\n33-Pedazo de roca\r\n34-Ascender hacia las alturas \r\n37-Raído, sin pelo\r\n38-Ser supremo y celestial \r\n41-¿Te desafía el Régimen Especial de Trabajadores Autónomos? \r\n44-Salir a cambiar las monedas italianas\r\n45-3 de septiembre\r\n48-La Perón, la argentina\r\n50-En la punta del iceberg\r\n51-Repita\r\n53-Nota inconclusa\r\n54-Esta suma inspiración\r\n56-Galán de belleza excepcional \r\n57-Presentarse en el lugar indicado \r\n59-Tres seguidas\r\n61-Pieza del techo contra la lluvia \r\n62-Así se llaman entre compañeros \r\n64-Un tanto en la arquería propia\r\n66-Paga una parte por adelantado \r\n67-Arma natural del felino \r\n68-Cavidad en los hornos que recibe el metal fundido\r\n69-Salsa hecha de ajos machacados y aceite\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,#,18,#,#,#,#,19,#\r\n20,#,#,#,#,21,#,22,#,23,#,#,#,#,#\r\n24,#,#,#,25,#,#,26,27,#,#,#,28,#,#\r\n29,#,#,#,#,#,#,30,#,#,31,32,#,#,#\r\n33,#,#,#,34,35,36,#,#,#,#,37,#,#,#\r\n#,#,#,38,#,#,#,#,#,39,40,#,#,#,#\r\n41,42,43,#,#,#,44,#,#,#,#,#,45,46,47\r\n48,#,#,#,49,#,50,#,#,#,51,52,#,#,#\r\n53,#,#,#,54,55,#,#,#,56,#,#,#,#,#\r\n57,#,#,58,#,#,#,59,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,63,#,64,#,65,#,#,#,#\r\n#,#,66,#,#,#,#,#,67,#,#,#,#,#,#\r\n#,68,#,#,#,#,#,#,69,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

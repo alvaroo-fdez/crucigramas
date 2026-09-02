@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 413,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-22T20:05:18.514229Z",
+      "updatedAt": "2024-06-22T20:05:18.514250Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-23",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#VANGOGH#ECHES#\r\nT#L#ALEMANA#V#C\r\nALEARIA#ZODIACO\r\nH#G#YT#LUJO#D#N\r\nUGRE#ETOLA#MIES\r\nROIAS#UD##AMANO\r\n#NACA#SOPAS#SOL\r\nCD#ONDA#AQUE#JA\r\nRON#ERRAD#MUSA#\r\nOLAFO##BE#EREBO\r\nNAVE#APELA#ORAL\r\nI#E#DRIL#GB#R#M\r\nCAGUAMA#FURTADO\r\nA#U#MARCEAU#N#S\r\n#REYES#CONTROL#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Oda a la...\" la de Friedrich Schiller .",
+              "answer": "ALEGRIA"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "El caracol de Bob Esponja.",
+              "answer": "GARY"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Municipio español con el Palacio Real de los Reyes de Navarra.",
+              "answer": "OLITE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Diosa griega que personificaba la Tierra.",
+              "answer": "GEA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Símbolo del Hectómetro.",
+              "answer": "HM"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Se enfurece, se indigna, se...",
+              "answer": "ENOJA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Huronera, madriguera.",
+              "answer": "CADO"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Esquivabas, excusabas.",
+              "answer": "EVADIAS"
+            },
+            "10": {
+              "col": 0,
+              "row": 1,
+              "clue": "Jugador fullero.",
+              "answer": "TAHUR"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Color frío por excelencia.",
+              "answer": "AZUL"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Dispositivo con los controles de una máquina.",
+              "answer": "CONSOLA"
+            },
+            "17": {
+              "col": 7,
+              "row": 3,
+              "clue": "Mezcla de tierra y agua que resulta de las lluvias en el suelo.",
+              "answer": "LODO"
+            },
+            "19": {
+              "col": 1,
+              "row": 4,
+              "clue": "Embarcación veneciana.",
+              "answer": "GONDOLA"
+            },
+            "20": {
+              "col": 3,
+              "row": 4,
+              "clue": "Mit. Griega. Uno de los jueces del infierno.",
+              "answer": "EACO"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Uruguay. Cortar las crines del caballo.",
+              "answer": "TUSAR"
+            },
+            "23": {
+              "col": 11,
+              "row": 4,
+              "clue": "Símbolo del Milímetro.",
+              "answer": "MM"
+            },
+            "24": {
+              "col": 13,
+              "row": 4,
+              "clue": "Molestaba, incomodaba, enfurecía.",
+              "answer": "ENOJABA"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Libero de dificultades, limpio algo.",
+              "answer": "SANEO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Se hace cargo.",
+              "answer": "ASUME"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Deporte de paleta origen mexicano.",
+              "answer": "PADEL"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Dominio web para Antártida.",
+              "answer": "AQ"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"... de una muerte anunciada\" novela de García Márquez.",
+              "answer": "CRONICA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Doctor.",
+              "answer": "DR"
+            },
+            "38": {
+              "col": 11,
+              "row": 7,
+              "clue": "Moneda europea.",
+              "answer": "EURO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Me desplacé en la internet.",
+              "answer": "NAVEGUE"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "El primer occiso de la humanidad.",
+              "answer": "ABEL"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Tipo de jamón.",
+              "answer": "SERRANO"
+            },
+            "47": {
+              "col": 3,
+              "row": 9,
+              "clue": "Friedrich Engels tenía confianza absoluta.",
+              "answer": "FE"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "Tipo de árbol (pl).",
+              "answer": "OLMOS"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Ana de...\" interpreta a Marilyn Monroe en 'Blonde'.",
+              "answer": "ARMAS"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Dicho del pollo: emitir sonido.",
+              "answer": "PIAR"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Rebajan con agua.",
+              "answer": "AGUAN"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Entrégame.",
+              "answer": "DAME"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "Champaña con poca azúcar.",
+              "answer": "BRUT"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Hombre no acorde con los cánones de belleza.",
+              "answer": "FEO"
+            },
+            "62": {
+              "col": 7,
+              "row": 13,
+              "clue": "Centímetro cúbico (siglas).",
+              "answer": "CC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Vincent en la Silla con pipa, mirando Los girasoles.",
+              "answer": "VANGOGH"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Arrojes, lances, tires.",
+              "answer": "ECHES"
+            },
+            "11": {
+              "col": 4,
+              "row": 1,
+              "clue": "Nacida en el país de donde son oriundos los Hermanos Grimm.",
+              "answer": "ALEMANA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Movería las alas.",
+              "answer": "ALEARIA"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Astrología. Banda celeste, dividida en 12 partes o casas.",
+              "answer": "ZODIACO"
+            },
+            "16": {
+              "col": 4,
+              "row": 3,
+              "clue": "Dominio web para Mayotte.",
+              "answer": "YT"
+            },
+            "17": {
+              "col": 7,
+              "row": 3,
+              "clue": "Abundancia en el adorno o en comodidades.",
+              "answer": "LUJO"
+            },
+            "18": {
+              "col": 0,
+              "row": 4,
+              "clue": "C. Rica. Árbol de tronco blanquecino y frutos con aguijones.",
+              "answer": "UGRE"
+            },
+            "21": {
+              "col": 5,
+              "row": 4,
+              "clue": "Relativo a Etolia, Grecia (fem).",
+              "answer": "ETOLA"
+            },
+            "23": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cereal de cuya semilla se hace pan.",
+              "answer": "MIES"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Carcomías con los dientes.",
+              "answer": "ROIAS"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Usted.",
+              "answer": "UD"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Prevengo, preparo o pongo a la mano algo.",
+              "answer": "AMANO"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Andullo de tabaco (fem).",
+              "answer": "NACA"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Plato compuesto de un caldo (pl).",
+              "answer": "SOPAS"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "El que sale cada mañana.",
+              "answer": "SOL"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Símbolo químico del cadmio.",
+              "answer": "CD"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"... vital\" máxima técnica de combate en Dragon Ball (España).",
+              "answer": "ONDA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "México. Voz usada para indicar sorpresa o admiración.",
+              "answer": "AQUE"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Julián Álvarez me saca una risa.",
+              "answer": "JA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Bebida alcohólica a base de caña de azúcar.",
+              "answer": "RON"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Desacertad en algo.",
+              "answer": "ERRAD"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Inspiración de poetas y artistas.",
+              "answer": "MUSA"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… el vikingo\", tira cómica de prensa, publicada en USA en 1973.",
+              "answer": "OLAFO"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "La opinión del carnero.",
+              "answer": "BE"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Infierno, averno.",
+              "answer": "EREBO"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Esta va a ser espacial.",
+              "answer": "NAVE"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Recurre a un tribunal superior para revisar una resolución.",
+              "answer": "APELA"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "Primera fase del desarrollo psicosexual según Freud.",
+              "answer": "ORAL"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Tela fuerte de hilo o de algodón crudos.",
+              "answer": "DRIL"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Símbolo del gigabyte.",
+              "answer": "GB"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Méx. Cerveza de litro.",
+              "answer": "CAGUAMA"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"Nelly...\" cantante luso",
+              "answer": "FURTADO"
+            },
+            "61": {
+              "col": 4,
+              "row": 13,
+              "clue": "\"Marcel...\" mimo francés.",
+              "answer": "MARCEAU"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Monarcas soberanos.",
+              "answer": "REYES"
+            },
+            "64": {
+              "col": 7,
+              "row": 14,
+              "clue": "\"... de calidad\" procedimiento que busca desperfectos.",
+              "answer": "CONTROL"
+            }
+          }
+        },
+        "vertical_clues": "2-\"Oda a la...\" la de Friedrich Schiller .\r\n3-El caracol de Bob Esponja.\r\n4-Municipio español con el Palacio Real de los Reyes de Navarra.\r\n5-Diosa griega que personificaba la Tierra.\r\n6-Símbolo del Hectómetro.\r\n7-Se enfurece, se indigna, se...\r\n8-Huronera, madriguera.\r\n9-Esquivabas, excusabas.\r\n10-Jugador fullero.\r\n12-Color frío por excelencia.\r\n13-Dispositivo con los controles de una máquina.\r\n17-Mezcla de tierra y agua que resulta de las lluvias en el suelo.\r\n19-Embarcación veneciana.\r\n20-Mit. Griega. Uno de los jueces del infierno.\r\n22-Uruguay. Cortar las crines del caballo.\r\n23-Símbolo del Milímetro.\r\n24-Molestaba, incomodaba, enfurecía.\r\n26-Libero de dificultades, limpio algo.\r\n28-Se hace cargo.\r\n31-Deporte de paleta origen mexicano.\r\n32-Dominio web para Antártida.\r\n34-\"... de una muerte anunciada\" novela de García Márquez.\r\n36-Doctor.\r\n38-Moneda europea.\r\n41-Me desplacé en la internet.\r\n43-El primer occiso de la humanidad.\r\n45-Tipo de jamón.\r\n47-Friedrich Engels tenía confianza absoluta.\r\n50-Tipo de árbol (pl).\r\n52-\"Ana de...\" interpreta a Marilyn Monroe en 'Blonde'.\r\n53-Dicho del pollo: emitir sonido.\r\n54-Rebajan con agua.\r\n56-Entrégame.\r\n58-Champaña con poca azúcar.\r\n60-Hombre no acorde con los cánones de belleza.\r\n62-Centímetro cúbico (siglas).",
+        "horizontal_clues": "1-Vincent en la Silla con pipa, mirando Los girasoles.\r\n7-Arrojes, lances, tires.\r\n11-Nacida en el país de donde son oriundos los Hermanos Grimm.\r\n14-Movería las alas.\r\n15-Astrología. Banda celeste, dividida en 12 partes o casas.\r\n16-Dominio web para Mayotte.\r\n17-Abundancia en el adorno o en comodidades.\r\n18-C. Rica. Árbol de tronco blanquecino y frutos con aguijones.\r\n21-Relativo a Etolia, Grecia (fem).\r\n23-Cereal de cuya semilla se hace pan.\r\n25-Carcomías con los dientes.\r\n27-Usted.\r\n28-Prevengo, preparo o pongo a la mano algo.\r\n29-Andullo de tabaco (fem).\r\n30-Plato compuesto de un caldo (pl).\r\n33-El que sale cada mañana.\r\n34-Símbolo químico del cadmio.\r\n35-\"... vital\" máxima técnica de combate en Dragon Ball (España).\r\n37-México. Voz usada para indicar sorpresa o admiración.\r\n39-Julián Álvarez me saca una risa.\r\n40-Bebida alcohólica a base de caña de azúcar.\r\n42-Desacertad en algo.\r\n44-Inspiración de poetas y artistas.\r\n46-\"… el vikingo\", tira cómica de prensa, publicada en USA en 1973.\r\n48-La opinión del carnero.\r\n49-Infierno, averno.\r\n51-Esta va a ser espacial.\r\n52-Recurre a un tribunal superior para revisar una resolución.\r\n55-Primera fase del desarrollo psicosexual según Freud.\r\n56-Tela fuerte de hilo o de algodón crudos.\r\n57-Símbolo del gigabyte.\r\n59-Méx. Cerveza de litro. \r\n60-\"Nelly...\" cantante luso-canadiense.\r\n61-\"Marcel...\" mimo francés. \r\n63-Monarcas soberanos.\r\n64-\"... de calidad\" procedimiento que busca desperfectos.",
+        "board_clues_positions": "#,1,2,#,3,4,5,6,#,7,8,#,9,#,#\r\n10,#,#,#,11,#,#,#,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,#,#\r\n#,#,#,#,16,#,#,17,#,#,#,#,#,#,#\r\n18,19,#,20,#,21,22,#,#,#,#,23,#,24,#\r\n25,#,#,#,26,#,27,#,#,#,28,#,#,#,#\r\n#,29,#,#,#,#,30,#,31,32,#,#,33,#,#\r\n34,#,#,35,#,36,#,#,37,#,#,38,#,39,#\r\n40,#,41,#,42,#,#,43,#,#,44,#,45,#,#\r\n46,#,#,47,#,#,#,48,#,#,49,#,#,#,50\r\n51,#,#,#,#,52,53,#,#,54,#,55,#,#,#\r\n#,#,#,#,56,#,#,#,#,57,58,#,#,#,#\r\n59,#,#,#,#,#,#,#,60,#,#,#,#,#,#\r\n#,#,#,#,61,#,#,62,#,#,#,#,#,#,#\r\n#,63,#,#,#,#,#,64,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3145,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-17T16:11:04.600313Z",
+      "updatedAt": "2025-08-17T16:13:54.084886Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-20",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALCES#OPTA#CAPA\r\nLEONO#GRAM#OBUS\r\nCOMEDERO#ACLARE\r\nANOMALOS#LACTEO\r\n##DIRA#TAICHI##\r\nFRAGATA#COHORTE\r\nROTATORIO#EN#US\r\nOJO##SALSA##ETC\r\nTO#PM#GUARDERIA\r\nESCLAVO#SIERRAS\r\n##HARINA#APEA##\r\nOMITIR#SENECTUD\r\nGOLIAT#LLANTINA\r\nUSEN#UQAI#DICEN\r\nNESO#DUNE#ALONA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ave marina buceadora",
+              "answer": "ALCA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Rey de la sabana",
+              "answer": "LEON"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Contrato de préstamo de algo que puede usar y luego debe devolver",
+              "answer": "COMODATO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Adversaria, rival",
+              "answer": "ENEMIGA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "El ascenso de los tontos",
+              "answer": "SODARAT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hombre de mal carácter",
+              "answer": "OGRO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "El profesor del automovilismo francés",
+              "answer": "PROST"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Talento veloz",
+              "answer": "TA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Gimeno y Cabañas\" también conocido como Conde de Gimeno",
+              "answer": "AMALIO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "El que queremos abrazar después de todo un día trabajando",
+              "answer": "COLCHON"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Derribar, derrocar, echar por tierra",
+              "answer": "ABATIR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Papilla que se hace con patatas",
+              "answer": "PURE"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Limpieza",
+              "answer": "ASEO"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Altivos, presuntuosos, soberbios",
+              "answer": "ELATOS"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Distinción o elegancia",
+              "answer": "CACHE"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Persigues sin dar tregua",
+              "answer": "ACOSAS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Restriegue, friegue",
+              "answer": "FROTE"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Izquierdistas, especialmente comunistas",
+              "answer": "ROJOS"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "En Zaragoza hay un gato angora perdido",
+              "answer": "ARAGON"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "España Excusa, divagación",
+              "answer": "TUTIA"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Raya que corre a lo largo de las paredes o del suelo de una cancha deportiva",
+              "answer": "ESCAS"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Iluminación muy tenue",
+              "answer": "ILU"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Museo suizo de cerámica y cristal",
+              "answer": "ARIANA"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Inestable y sin rumbo fijo",
+              "answer": "ERRATICO"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Trofeo que otorga la PlayStation, al terminar un juego al 100%",
+              "answer": "PLATINO"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "La virgen",
+              "answer": "MARIA"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Viva, exista gracias a la protección de alguien",
+              "answer": "DEPENDA"
+            },
+            "45": {
+              "col": 11,
+              "row": 8,
+              "clue": "Que tiene la facultad de ponerse rígido",
+              "answer": "ERECTIL"
+            },
+            "47": {
+              "col": 2,
+              "row": 9,
+              "clue": "Guindillas, habaneros, los más picantes",
+              "answer": "CHILES"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Integridad de ánimo y bondad de vida",
+              "answer": "VIRTUD"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Creador de Narnia",
+              "answer": "ASLAN"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Una de las deidades de la religión yoruba",
+              "answer": "OGUN"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "El sistema que protege a la ciudad de Venecia de las mareas de otoño",
+              "answer": "MOSE"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "\"… Saab\" el diseñador de modas libanés",
+              "answer": "ELIE"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Acoplan, pegan, ensamblan",
+              "answer": "UNEN"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Fenómeno climático también conocido como gota fría",
+              "answer": "DANA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Lo que tienen en común los quechuas y los de Quito",
+              "answer": "QU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Los cérvidos más grandes del mundo",
+              "answer": "ALCES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Elige al pato loco",
+              "answer": "OPTA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "La de ozono, la del agujero",
+              "answer": "CAPA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Líder de los ThunderCats, portador de la Espada del Augurio",
+              "answer": "LEONO"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Abrev Gramática",
+              "answer": "GRAM"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Banda de heavy metal española de los 80",
+              "answer": "OBUS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Vasija para que una mascota no coma directamente del suelo",
+              "answer": "COMEDERO"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Disipé lo que ofuscaba la claridad de algo",
+              "answer": "ACLARE"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Irregulares, extraños",
+              "answer": "ANOMALOS"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Cualquier producto derivado de la leche",
+              "answer": "LACTEO"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Manifestará con palabras su pensamiento",
+              "answer": "DIRA"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Arte marcial chino con movimientos lentos y fluidos",
+              "answer": "TAICHI"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Buque de guerra de tamaño mediano",
+              "answer": "FRAGATA"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Conjunto, número, serie",
+              "answer": "COHORTE"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Giratorio, rotativo",
+              "answer": "ROTATORIO"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Preposición que denota lugar",
+              "answer": "EN"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "En páginas web estadounidense",
+              "answer": "US"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "El de Sauron, el que está en la punta de la Torre Oscura",
+              "answer": "OJO"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Se desordenan las salas con esta música",
+              "answer": "SALSA"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Etcétera (abrev)",
+              "answer": "ETC"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "A finales de agosto",
+              "answer": "TO"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Pablo Motos es en la noche",
+              "answer": "PM"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Lugar de atención y educación para la primera infancia",
+              "answer": "GUARDERIA"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "El Vasco se juntó y se mezcló con el sometido",
+              "answer": "ESCLAVO"
+            },
+            "49": {
+              "col": 8,
+              "row": 9,
+              "clue": "Si desaciertas pon las cortadoras",
+              "answer": "SIERRAS"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Polvo del trigo",
+              "answer": "HARINA"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Desmonta de una caballería",
+              "answer": "APEA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Abstenerse de hacer algo",
+              "answer": "OMITIR"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Ancianidad, vejez",
+              "answer": "SENECTUD"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Soldado gigante derrotado por David",
+              "answer": "GOLIAT"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Llanto fuerte y continuado",
+              "answer": "LLANTINA"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Utilicen",
+              "answer": "USEN"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Aquí está todo hecho un desastre",
+              "answer": "UQAI"
+            },
+            "64": {
+              "col": 10,
+              "row": 13,
+              "clue": "Comentan, hablan",
+              "answer": "DICEN"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Centauro, hijo de Ixión y Néfele",
+              "answer": "NESO"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "Película de Denis Villeneuve, ganadora de 6 Óscar en 2022",
+              "answer": "DUNE"
+            },
+            "67": {
+              "col": 10,
+              "row": 14,
+              "clue": "Ala entera sin plumas",
+              "answer": "ALONA"
+            }
+          }
+        },
+        "vertical_clues": "1-Ave marina buceadora\r\n2-Rey de la sabana\r\n3-Contrato de préstamo de algo que puede usar y luego debe devolver\r\n4-Adversaria, rival\r\n5-El ascenso de los tontos\r\n6-Hombre de mal carácter\r\n7-El profesor del automovilismo francés\r\n8-Talento veloz\r\n9-\"… Gimeno y Cabañas\" también conocido como Conde de Gimeno\r\n10-El que queremos abrazar después de todo un día trabajando\r\n11-Derribar, derrocar, echar por tierra\r\n12-Papilla que se hace con patatas\r\n13-Limpieza\r\n18-Altivos, presuntuosos, soberbios\r\n20-Distinción o elegancia\r\n25-Persigues sin dar tregua\r\n26-Restriegue, friegue\r\n27-Izquierdistas, especialmente comunistas\r\n28-En Zaragoza hay un gato angora perdido\r\n30-España Excusa, divagación\r\n31-Raya que corre a lo largo de las paredes o del suelo de una cancha deportiva\r\n33-Iluminación muy tenue\r\n38-Museo suizo de cerámica y cristal\r\n39-Inestable y sin rumbo fijo\r\n41-Trofeo que otorga la PlayStation, al terminar un juego al 100%\r\n42-La virgen\r\n44-Viva, exista gracias a la protección de alguien\r\n45-Que tiene la facultad de ponerse rígido\r\n47-Guindillas, habaneros, los más picantes\r\n48-Integridad de ánimo y bondad de vida\r\n51-Creador de Narnia\r\n53-Una de las deidades de la religión yoruba\r\n54-El sistema que protege a la ciudad de Venecia de las mareas de otoño\r\n56-\"… Saab\" el diseñador de modas libanés\r\n57-Acoplan, pegan, ensamblan\r\n58-Fenómeno climático también conocido como gota fría\r\n63-Lo que tienen en común los quechuas y los de Quito",
+        "horizontal_clues": "1-Los cérvidos más grandes del mundo\r\n6-Elige al pato loco\r\n10-La de ozono, la del agujero\r\n14-Líder de los ThunderCats, portador de la Espada del Augurio\r\n15-Abrev Gramática\r\n16-Banda de heavy metal española de los 80\r\n17-Vasija para que una mascota no coma directamente del suelo\r\n19-Disipé lo que ofuscaba la claridad de algo\r\n21-Irregulares, extraños\r\n22-Cualquier producto derivado de la leche\r\n23-Manifestará con palabras su pensamiento\r\n24-Arte marcial chino con movimientos lentos y fluidos\r\n26-Buque de guerra de tamaño mediano\r\n29-Conjunto, número, serie\r\n32-Giratorio, rotativo\r\n34-Preposición que denota lugar\r\n35-En páginas web estadounidense\r\n36-El de Sauron, el que está en la punta de la Torre Oscura\r\n37-Se desordenan las salas con esta música\r\n39-Etcétera (abrev)\r\n40-A finales de agosto\r\n41-Pablo Motos es en la noche\r\n43-Lugar de atención y educación para la primera infancia\r\n46-El Vasco se juntó y se mezcló con el sometido \r\n49-Si desaciertas pon las cortadoras \r\n50-Polvo del trigo\r\n52-Desmonta de una caballería\r\n53-Abstenerse de hacer algo\r\n55-Ancianidad, vejez\r\n59-Soldado gigante derrotado por David\r\n60-Llanto fuerte y continuado\r\n61-Utilicen\r\n62-Aquí está todo hecho un desastre\r\n64-Comentan, hablan\r\n65-Centauro, hijo de Ixión y Néfele\r\n66-Película de Denis Villeneuve, ganadora de 6 Óscar en 2022\r\n67-Ala entera sin plumas",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,19,20,#,#,#,#\r\n21,#,#,#,#,#,#,#,#,22,#,#,#,#,#\r\n#,#,23,#,#,#,#,24,25,#,#,#,#,#,#\r\n26,27,#,#,#,#,28,#,29,#,#,#,#,30,31\r\n32,#,#,#,#,#,#,33,#,#,34,#,#,35,#\r\n36,#,#,#,#,37,#,#,#,38,#,#,39,#,#\r\n40,#,#,41,42,#,43,#,#,#,44,45,#,#,#\r\n46,#,47,#,#,48,#,#,49,#,#,#,#,#,#\r\n#,#,50,#,#,#,#,51,#,52,#,#,#,#,#\r\n53,54,#,#,#,#,#,55,56,#,#,#,#,57,58\r\n59,#,#,#,#,#,#,60,#,#,#,#,#,#,#\r\n61,#,#,#,#,62,63,#,#,#,64,#,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,67,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

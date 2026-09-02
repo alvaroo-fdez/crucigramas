@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 403,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-17T11:27:22.939013Z",
+      "updatedAt": "2024-06-17T11:27:22.939038Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-19",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CANAPE#DECANO#\r\nM#CEBOS#UNAGI#B\r\nAR#FONTANERO#BL\r\nCASARIA#EMANARA\r\nAJUSTADA#AVIDEZ\r\nCASTO##BP#ACOGE\r\nORCO#OGRO#COPAR\r\n##R#CLOASMA#T##\r\nELIGE#CHAO#CAFU\r\nSABER#EA##SARIS\r\nTRINES#MATURANA\r\nARREBOL#CAMINAN\r\nDY#RESINOSOS#LZ\r\nA#GALOS#SALMO#A\r\n#CELOSO#ORLABA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "El superclásico 'Antes de Cristo'.",
+              "answer": "AC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Notas fe cuando ellas se juntan y eso es detestable.",
+              "answer": "NEFASTO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Abandonó la misión.",
+              "answer": "ABORTO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Esta pista decía que el piano está desafinado.",
+              "answer": "PONIA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Estado inacabado.",
+              "answer": "ESTAD"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Película de Denis Villeneuve, ganadora de 6 Premios Óscar en 2022.",
+              "answer": "DUNE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Medicamento líquido que se introduce por el ano.",
+              "answer": "ENEMA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Cruz de...\" fragmento de la verdadera cruz en la que Jesús fue crucificado.",
+              "answer": "CARAVACA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Propio de la agonía del moribundo.",
+              "answer": "AGONICO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dominio web de Nicaragua.",
+              "answer": "NI"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Un mono.",
+              "answer": "MACACO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Bléiser inglés.",
+              "answer": "BLAZER"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Partir por la mitad.",
+              "answer": "RAJAR"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Lidia, batalla con una situación.",
+              "answer": "BREGA"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Dar consentimiento para recibir contenido periódicamente.",
+              "answer": "SUSCRIBIR"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Acogerán a un animal como mascota.",
+              "answer": "ADOPTARAN"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "El primero de los tres Patriarcas del Judaísmo.",
+              "answer": "ABRAHAM"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Ponte para la foto.",
+              "answer": "POSA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Solo en Olimpia.",
+              "answer": "OL"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "La pasé súper bien, disfruté.",
+              "answer": "GOCE"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Parte más voluminosa del encéfalo.",
+              "answer": "CEREBELO"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Amor sin tabúes.",
+              "answer": "MO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Permanencia, detención o demora en un lugar.",
+              "answer": "ESTADA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"... Bird\", exjugador de baloncesto de los Boston Celtics.",
+              "answer": "LARRY"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Elevado rango militar.",
+              "answer": "GENERAL"
+            },
+            "41": {
+              "col": 11,
+              "row": 8,
+              "clue": "Cualidad de algunas personas de agradar, atraer o fascinar.",
+              "answer": "CARISMA"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Última competición en un campeonato.",
+              "answer": "FINAL"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Ejercicio o práctica de algo.",
+              "answer": "USANZA"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Uva tinta típica de Baleares y Cataluña, España.",
+              "answer": "SUMOLL"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Faltos de carácter.",
+              "answer": "SOSOS"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Hostigamiento, persecución.",
+              "answer": "ACOSO"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Fijar oficialmente el precio para una mercancía.",
+              "answer": "TASAR"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Sin asperezas o arrugas (masc).",
+              "answer": "LISO"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del Germanio.",
+              "answer": "GE"
+            },
+            "60": {
+              "col": 12,
+              "row": 13,
+              "clue": "Obligatorias las dos primeras.",
+              "answer": "OB"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Escaño con el asiento y el respaldo acolchado.",
+              "answer": "CANAPE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Nombrado para presidir una facultad universitaria.",
+              "answer": "DECANO"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Comida que se da a los animales para engordarlos (pl).",
+              "answer": "CEBOS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Palabra japonesa para las anguilas de agua dulce.",
+              "answer": "UNAGI"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Primer año de arquitectura.",
+              "answer": "AR"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "El oficio de Mario Bros.",
+              "answer": "FONTANERO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Inic. del artista marcial más influyente de todos los tiempos.",
+              "answer": "BL"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Contraería nupcias, me...",
+              "answer": "CASARIA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Emitirá, desprenderá de sí.",
+              "answer": "EMANARA"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Demasiado pegada la camiseta.",
+              "answer": "AJUSTADA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Ansia, codicia.",
+              "answer": "AVIDEZ"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hombre que se abstiene del goce sexual.",
+              "answer": "CASTO"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "La British Petroleum.",
+              "answer": "BP"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Refugia, recibe en su hogar.",
+              "answer": "ACOGE"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Tolkien. Monstruo de las hordas de Sauron y Saruman.",
+              "answer": "ORCO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Se enfadó y se puso como un..., que mal carácter.",
+              "answer": "OGRO"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Colmar, llenar.",
+              "answer": "COPAR"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Manchas que aparecen en la cara durante el embarazo.",
+              "answer": "CLOASMA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Escoge, prefiere.",
+              "answer": "ELIGE"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Adiós, hasta luego.",
+              "answer": "CHAO"
+            },
+            "41": {
+              "col": 11,
+              "row": 8,
+              "clue": "Exjugador brasileño único en jugar 3 finales consecutivas de un Mundial.",
+              "answer": "CAFU"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tener certeza de algo.",
+              "answer": "SABER"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Voz usada para animar.",
+              "answer": "EA"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Vestidos típicos de las mujeres indias.",
+              "answer": "SARIS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cantes como un pájaro.",
+              "answer": "TRINES"
+            },
+            "49": {
+              "col": 7,
+              "row": 10,
+              "clue": "\"Humberto...\" biólogo chileno, el del concepto de la autopoiesis.",
+              "answer": "MATURANA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Color rojo de las nubes iluminadas por los rayos del Sol.",
+              "answer": "ARREBOL"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Andan determinada distancia.",
+              "answer": "CAMINAN"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del Disprosio.",
+              "answer": "DY"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Que desprenden mucha resina.",
+              "answer": "RESINOSOS"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales del actor que interpreta a Xan Anta, en 'As Bestas'.",
+              "answer": "LZ"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Lo eran Astérix y Obélix.",
+              "answer": "GALOS"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Cántico de alabanzas a Dios.",
+              "answer": "SALMO"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "Él teme una infidelidad, está...",
+              "answer": "CELOSO"
+            },
+            "62": {
+              "col": 8,
+              "row": 14,
+              "clue": "Ornamentaba, adornaba un vestido.",
+              "answer": "ORLABA"
+            }
+          }
+        },
+        "vertical_clues": "2-El superclásico 'Antes de Cristo'.\r\n3-Notas fe cuando ellas se juntan y eso es detestable.\r\n4-Abandonó la misión.\r\n5-Esta pista decía que el piano está desafinado.\r\n6-Estado inacabado.\r\n7-Película de Denis Villeneuve, ganadora de 6 Premios Óscar en 2022.\r\n8-Medicamento líquido que se introduce por el ano.\r\n9-\"Cruz de...\" fragmento de la verdadera cruz en la que Jesús fue crucificado.\r\n10-Propio de la agonía del moribundo.\r\n11-Dominio web de Nicaragua.\r\n12-Un mono.\r\n15-Bléiser inglés.\r\n17-Partir por la mitad.\r\n19-Lidia, batalla con una situación. \r\n21-Dar consentimiento para recibir contenido periódicamente.\r\n23-Acogerán a un animal como mascota.\r\n25-El primero de los tres Patriarcas del Judaísmo. \r\n29-Ponte para la foto.\r\n32-Solo en Olimpia.\r\n33-La pasé súper bien, disfruté.\r\n35-Parte más voluminosa del encéfalo.\r\n36-Amor sin tabúes.\r\n37-Permanencia, detención o demora en un lugar.\r\n38-\"... Bird\", exjugador de baloncesto de los Boston Celtics.\r\n39-Elevado rango militar.\r\n41-Cualidad de algunas personas de agradar, atraer o fascinar.\r\n42-Última competición en un campeonato.\r\n43-Ejercicio o práctica de algo.\r\n46-Uva tinta típica de Baleares y Cataluña, España.\r\n48-Faltos de carácter.\r\n50-Hostigamiento, persecución.\r\n51-Fijar oficialmente el precio para una mercancía.\r\n53-Sin asperezas o arrugas (masc).\r\n58-Símbolo químico del Germanio.\r\n60-Obligatorias las dos primeras.",
+        "horizontal_clues": "1-Escaño con el asiento y el respaldo acolchado.\r\n7-Nombrado para presidir una facultad universitaria.\r\n13-Comida que se da a los animales para engordarlos (pl).\r\n14-Palabra japonesa para las anguilas de agua dulce.\r\n16-Primer año de arquitectura.\r\n18-El oficio de Mario Bros.\r\n19-Inic. del artista marcial más influyente de todos los tiempos.\r\n20-Contraería nupcias, me...\r\n22-Emitirá, desprenderá de sí.\r\n24-Demasiado pegada la camiseta.\r\n26-Ansia, codicia.\r\n27-Hombre que se abstiene del goce sexual.\r\n28-La British Petroleum.\r\n30-Refugia, recibe en su hogar.\r\n31-Tolkien. Monstruo de las hordas de Sauron y Saruman.\r\n32-Se enfadó y se puso como un..., que mal carácter.\r\n34-Colmar, llenar.\r\n35-Manchas que aparecen en la cara durante el embarazo.\r\n37-Escoge, prefiere.\r\n40-Adiós, hasta luego.\r\n41-Exjugador brasileño único en jugar 3 finales consecutivas de un Mundial.\r\n44-Tener certeza de algo.\r\n45-Voz usada para animar.\r\n46-Vestidos típicos de las mujeres indias.\r\n47-Cantes como un pájaro.\r\n49-\"Humberto...\" biólogo chileno, el del concepto de la autopoiesis.\r\n52-Color rojo de las nubes iluminadas por los rayos del Sol. \r\n54-Andan determinada distancia.\r\n55-Símbolo químico del Disprosio.\r\n56-Que desprenden mucha resina.\r\n57-Iniciales del actor que interpreta a Xan Anta, en 'As Bestas'. \r\n58-Lo eran Astérix y Obélix.\r\n59-Cántico de alabanzas a Dios.\r\n61-Él teme una infidelidad, está...\r\n62-Ornamentaba, adornaba un vestido.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,18,#,#,#,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,#,#,25,#,26,#,#,#,#,#\r\n27,#,#,#,#,#,#,28,29,#,30,#,#,#,#\r\n31,#,#,#,#,32,33,#,#,#,34,#,#,#,#\r\n#,#,#,#,35,#,#,#,#,36,#,#,#,#,#\r\n37,38,#,39,#,#,40,#,#,#,#,41,#,42,43\r\n44,#,#,#,#,#,45,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,#,49,50,51,#,#,#,#,#\r\n52,#,#,#,#,#,53,#,54,#,#,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,#,#,#,#,57,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,60,#,#\r\n#,61,#,#,#,#,#,#,62,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

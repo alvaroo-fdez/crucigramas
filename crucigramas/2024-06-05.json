@@ -1,0 +1,495 @@
+{
+  "data": {
+    "id": 361,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-04T12:10:12.280652Z",
+      "updatedAt": "2024-06-04T12:10:12.280674Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-05",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACUSTICA#OPERAD\r\nTOSTADA#A#ELEVE\r\nANTO#ILOS#ALZAS\r\nJAEN#OCIE#LEONA\r\nENDE#MUDAS###ZI\r\nN###QAL#DEPURAR\r\n#DIFUSO#ATESORA\r\nO#OLA#####REM#R\r\nLETANIA#ABONAS#\r\nIMANTAR#LRN###C\r\nMB###SACIA#PAJA\r\nPROIZ#FANS#UÑAS\r\nII#MO#ASEE#JEFE\r\nCOMAN#T#ARROJAR\r\nANEXAN#BROLLERO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Atrapen la pelota en el aire.",
+              "answer": "ATAJEN"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Personaje épico de Schwarzenegger en 1982.",
+              "answer": "CONAN"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ud.",
+              "answer": "USTED"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"Emma...\", actriz prota de 'Pobres criaturas' de Yorgos Lanthimos.",
+              "answer": "STONE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Media tasa.",
+              "answer": "TA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Crist. Se crearon en la Torre de Babel.",
+              "answer": "IDIOMAS"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Contabilizo mis piedras en los riñones.",
+              "answer": "CALCULO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Parte de la media que cubre el pie.",
+              "answer": "PEAL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Él le da nombre a este dígrafo.",
+              "answer": "ELLE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Oración tipo Padre Nuestro o Ave María.",
+              "answer": "REZO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Progresar, adelantar.",
+              "answer": "AVANZAR"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Humillar, desatender a alguien.",
+              "answer": "DESAIRAR"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Ella cuida su higiene, es muy...",
+              "answer": "ASEADA"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Escuchad.",
+              "answer": "OID"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Plató de grabación.",
+              "answer": "SET"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Mary...\", británica creadora de la minifalda (1960).",
+              "answer": "QUANT"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Expresidente argentino, marido de Evita.",
+              "answer": "PERON"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Utilicen.",
+              "answer": "USEN"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Capital europea donde está El Coliseo.",
+              "answer": "ROMA"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Novena letra del alfabeto griego, equivale a la \"i\" del latino.",
+              "answer": "IOTA"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "Postre casero.",
+              "answer": "FLAN"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "La vuelta que se da al campo luego de ganar la competición.",
+              "answer": "OLIMPICA"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Ser vivo en las primeras etapas de su desarrollo.",
+              "answer": "EMBRION"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Vías sin entrada.",
+              "answer": "IAS"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"Yasir...\" 1er presidente de la Autoridad Nacional Palestina.",
+              "answer": "ARAFAT"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Colocar tres o más cosas en línea recta.",
+              "answer": "ALINEAR"
+            },
+            "45": {
+              "col": 9,
+              "row": 8,
+              "clue": "Sitio que se destinaba para quemar a ciertos condenados.",
+              "answer": "BRASERO"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "El dueño del piso es muy hogareño.",
+              "answer": "CASERO"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Árbol familia de la guayaba, típico de Costa Rica.",
+              "answer": "CAS"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Joan...\" conocido como Garbo, el doble agente español del MI5.",
+              "answer": "PUJOL"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Guardé por años el ron para mejorar su sabor, lo...",
+              "answer": "AÑEJE"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "El brujo malvado de la película \"Aladdín\".",
+              "answer": "JAFAR"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Cúpula de proyección en 3D, como el Hemisfèric en Valencia.",
+              "answer": "IMAX"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Extensión grande de terreno con forma de banda o franja.",
+              "answer": "ZONA"
+            },
+            "65": {
+              "col": 2,
+              "row": 13,
+              "clue": "Mire cómo los extremos se juntan.",
+              "answer": "ME"
+            },
+            "67": {
+              "col": 10,
+              "row": 13,
+              "clue": "Iniciales del tenista con la marca del cocodrilo.",
+              "answer": "RL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Rama de la física que estudia el sonido.",
+              "answer": "ACUSTICA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Intervenid quirúrgicamente.",
+              "answer": "OPERAD"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Una rebanada de pan crujiente.",
+              "answer": "TOSTADA"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Aumente, suba.",
+              "answer": "ELEVE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "A Antonela con cariño.",
+              "answer": "ANTO"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Es filoso solo en el centro.",
+              "answer": "ILOS"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Subidas en la bolsa de valores.",
+              "answer": "ALZAS"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "La ciudad favorita de la loca de Jane, en España.",
+              "answer": "JAEN"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Descanse, disfrute de no hacer nada.",
+              "answer": "OCIE"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Felina cazadora.",
+              "answer": "LEONA"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Michael...\" escritor alemán de 'La historia interminable'.",
+              "answer": "ENDE"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Cambias de piel como una serpiente.",
+              "answer": "MUDAS"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Zipo roto.",
+              "answer": "ZI"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Dijo\" en árabe.",
+              "answer": "QAL"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Limpiar al agua para que sea potable.",
+              "answer": "DEPURAR"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Borroso, nada claro.",
+              "answer": "DIFUSO"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "Acumula dinero y joyas.",
+              "answer": "ATESORA"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Le devolví el saludo por teléfono.",
+              "answer": "OLA"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "Empecé a remar y se quedó dormido.",
+              "answer": "REM"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Procesión católica.",
+              "answer": "LETANIA"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Agregas fertilizante.",
+              "answer": "ABONAS"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Transferir a un cuerpo la propiedad magnética.",
+              "answer": "IMANTAR"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "\"Alearían\" sin vocales.",
+              "answer": "LRN"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Megabyte.",
+              "answer": "MB"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Se colma, queda satisfecho, se...",
+              "answer": "SACIA"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Caña de los cereales, seca y separada del grano.",
+              "answer": "PAJA"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Mar. Piedra en tierra, en que se amarra la embarcación.",
+              "answer": "PROIZ"
+            },
+            "58": {
+              "col": 6,
+              "row": 11,
+              "clue": "Estas son groupies.",
+              "answer": "FANS"
+            },
+            "59": {
+              "col": 11,
+              "row": 11,
+              "clue": "Ámbito de acción de una manicurista.",
+              "answer": "UÑAS"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pause.",
+              "answer": "II"
+            },
+            "61": {
+              "col": 3,
+              "row": 12,
+              "clue": "Amor sin tabúes.",
+              "answer": "MO"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Dejé todo limpio y pulcro.",
+              "answer": "ASEE"
+            },
+            "63": {
+              "col": 11,
+              "row": 12,
+              "clue": "El mandamás.",
+              "answer": "JEFE"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ingieran alimentos.",
+              "answer": "COMAN"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Impeler con violencia algo.",
+              "answer": "ARROJAR"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "Adjuntan, envían algo juntamente con un escrito.",
+              "answer": "ANEXAN"
+            },
+            "69": {
+              "col": 7,
+              "row": 14,
+              "clue": "Individuo que propicia problemas a través del chisme.",
+              "answer": "BROLLERO"
+            }
+          }
+        },
+        "vertical_clues": "1-Atrapen la pelota en el aire.\r\n2-Personaje épico de Schwarzenegger en 1982.\r\n3-Ud.\r\n4-\"Emma...\", actriz prota de 'Pobres criaturas' de Yorgos Lanthimos.\r\n5-Media tasa.\r\n6-Crist. Se crearon en la Torre de Babel.\r\n7-Contabilizo mis piedras en los riñones.\r\n9-Parte de la media que cubre el pie.\r\n10-Él le da nombre a este dígrafo.\r\n11-Oración tipo Padre Nuestro o Ave María.\r\n12-Progresar, adelantar.\r\n13-Humillar, desatender a alguien.\r\n15-Ella cuida su higiene, es muy...\r\n19-Escuchad.\r\n26-Plató de grabación.\r\n28-\"Mary...\", británica creadora de la minifalda (1960).\r\n30-Expresidente argentino, marido de Evita.\r\n31-Utilicen.\r\n32-Capital europea donde está El Coliseo.\r\n34-Novena letra del alfabeto griego, equivale a la \"i\" del latino.\r\n35-Postre casero.\r\n37-La vuelta que se da al campo luego de ganar la competición.\r\n41-Ser vivo en las primeras etapas de su desarrollo.\r\n42-Vías sin entrada.\r\n43-\"Yasir...\" 1er presidente de la Autoridad Nacional Palestina.\r\n44-Colocar tres o más cosas en línea recta.\r\n45-Sitio que se destinaba para quemar a ciertos condenados. \r\n48-El dueño del piso es muy hogareño.\r\n51-Árbol familia de la guayaba, típico de Costa Rica.\r\n52-\"Joan...\" conocido como Garbo, el doble agente español del MI5.\r\n53-Guardé por años el ron para mejorar su sabor, lo...\r\n54-El brujo malvado de la película \"Aladdín\".\r\n56-Cúpula de proyección en 3D, como el Hemisfèric en Valencia.\r\n57-Extensión grande de terreno con forma de banda o franja.\r\n65-Mire cómo los extremos se juntan.\r\n67-Iniciales del tenista con la marca del cocodrilo.",
+        "horizontal_clues": "1-Rama de la física que estudia el sonido.\r\n8-Intervenid quirúrgicamente.\r\n14-Una rebanada de pan crujiente.\r\n16-Aumente, suba.\r\n17-A Antonela con cariño.\r\n18-Es filoso solo en el centro.\r\n20-Subidas en la bolsa de valores.\r\n21-La ciudad favorita de la loca de Jane, en España. \r\n22-Descanse, disfrute de no hacer nada.\r\n23-Felina cazadora.\r\n24-\"Michael...\" escritor alemán de 'La historia interminable'.\r\n25-Cambias de piel como una serpiente.\r\n27-Zipo roto.\r\n28-\"Dijo\" en árabe.\r\n29-Limpiar al agua para que sea potable.\r\n33-Borroso, nada claro.\r\n36-Acumula dinero y joyas.\r\n38-Le devolví el saludo por teléfono.\r\n39-Empecé a remar y se quedó dormido.\r\n40-Procesión católica.\r\n44-Agregas fertilizante.\r\n46-Transferir a un cuerpo la propiedad magnética.\r\n47-\"Alearían\" sin vocales.\r\n49-Megabyte.\r\n50-Se colma, queda satisfecho, se...\r\n52-Caña de los cereales, seca y separada del grano.\r\n55-Mar. Piedra en tierra, en que se amarra la embarcación.\r\n58-Estas son groupies.\r\n59-Ámbito de acción de una manicurista.\r\n60-Pause.\r\n61-Amor sin tabúes.\r\n62-Dejé todo limpio y pulcro.\r\n63-El mandamás.\r\n64-Ingieran alimentos.\r\n66-Impeler con violencia algo.\r\n68-Adjuntan, envían algo juntamente con un escrito.\r\n69-Individuo que propicia problemas a través del chisme.",
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,15,#,16,#,#,#,#\r\n17,#,#,#,#,18,#,19,#,#,20,#,#,#,#\r\n21,#,#,#,#,22,#,#,#,#,23,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,#,#,27,#\r\n#,#,#,#,28,#,#,#,29,#,30,31,32,#,#\r\n#,33,34,35,#,#,#,#,36,#,#,#,#,#,#\r\n37,#,38,#,#,#,#,#,#,#,39,#,#,#,#\r\n40,41,#,#,#,42,43,#,44,45,#,#,#,#,#\r\n46,#,#,#,#,#,#,#,47,#,#,#,#,#,48\r\n49,#,#,#,#,50,#,51,#,#,#,52,53,54,#\r\n55,#,#,56,57,#,58,#,#,#,#,59,#,#,#\r\n60,#,#,61,#,#,62,#,#,#,#,63,#,#,#\r\n64,#,65,#,#,#,#,#,66,#,67,#,#,#,#\r\n68,#,#,#,#,#,#,69,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 5833,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-07T22:25:45.657736Z",
+      "updatedAt": "2026-05-07T22:26:50.527633Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-08",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ERRARAN#ACIERTA\r\nSOUL#NARCO#SEUR\r\nPELE#OPTES#PAVA\r\nANOTADA#PEDILON\r\nÑ##EGOLATRIA##T\r\nOPTAR#MDA#ARTAX\r\nLUIRAS#O#ALARGA\r\n#BN#DERRAME#IU#\r\nHITLER#N#ECHADA\r\nISAAC#HAL#TELAR\r\nL##DEPOSITAR##N\r\nATERRAN#SOLMENE\r\nCODA#URGIA#OVIL\r\nHUIR#SALAR#SEÑA\r\nASEARAS#REZARAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Tercera lengua con más usuarios de Internet, después del chino y el inglés",
+              "answer": "ESPAÑOL"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Mastican como ratas",
+              "answer": "ROEN"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Rizo del cabello",
+              "answer": "RULO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Mover las alas",
+              "answer": "ALETEAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Física Electrodo positivo",
+              "answer": "ANODO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"La niña del…\" icónica foto, símbolo del horror de la guerra de Vietnam",
+              "answer": "NAPALM"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tú di que sí y cambia esa petaca",
+              "answer": "ACEPTA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Zurcir, remendar",
+              "answer": "COSER"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Observará a otros sin que se den cuenta",
+              "answer": "ESPIARA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Que tiene existencia verdadera y efectiva",
+              "answer": "REAL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ya no lo tiene",
+              "answer": "TUVO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "\"… Echevarría\" directora española de la peli 'Carmen y Lola'",
+              "answer": "ARANTXA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Russia Today",
+              "answer": "RT"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Mostrar gratitud",
+              "answer": "AGRADECER"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Relativo a un dialecto",
+              "answer": "DIALECTAL"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Embelleces, acomodas algo",
+              "answer": "ADORNAS"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Monte de Venus",
+              "answer": "PUBIS"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Líquido coloreado que se emplea para escribir o dibujar",
+              "answer": "TINTA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Modalidad de superar obstáculos con la moto, sin caerse",
+              "answer": "TRIAL"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Palabra cuya última sílaba es la tónica",
+              "answer": "AGUDA"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Tu manera de comportarte, tu forma de…",
+              "answer": "SER"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Quiera, adore",
+              "answer": "AME"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hebra, Pedazo de hilo que se desprende de la tela",
+              "answer": "HILACHA"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Coloquial Amenazará sin acometer",
+              "answer": "LADRARA"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Mujer de notable belleza",
+              "answer": "HERMOSA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "\"Soraya …\", cantante española de música pop",
+              "answer": "ARNELAS"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Enalteces o premias su mérito",
+              "answer": "HONRAS"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Lesionar alguna parte del cuerpo",
+              "answer": "LISIAR"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Pasa con una herradura luego haz un descanso",
+              "answer": "PAUSA"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Remolcaré la nave",
+              "answer": "TOARE"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "Marca de joyería española cuyo ícono es un oso",
+              "answer": "TOUS"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "\"… Sedgwick\", musa de Andy Warhol",
+              "answer": "EDIE"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"Alguna vez\" en inglés",
+              "answer": "EVER"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Entre bebé y adolescente (fem)",
+              "answer": "NIÑA"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "El envase de gel está vacío",
+              "answer": "GL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Meterán la pata",
+              "answer": "ERRARAN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Da en el blanco con la respuesta correcta",
+              "answer": "ACIERTA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ray Charles, músico afroamericano considerado \"El Padre del…\"",
+              "answer": "SOUL"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Traficante de drogas",
+              "answer": "NARCO"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Empresa española de paquetería",
+              "answer": "SEUR"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "El Rey del Fútbol",
+              "answer": "PELE"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Elijas, escojas",
+              "answer": "OPTES"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Más grande que una gallina",
+              "answer": "PAVA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Está apuntada dentro de la nota dañada",
+              "answer": "ANOTADA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Pedigüeño, sacacuartos",
+              "answer": "PEDILON"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Agriétalo mal a tu amor excesivo por tí mismo",
+              "answer": "EGOLATRIA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Seleccionar algo entre varias cosas",
+              "answer": "OPTAR"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Droga sintética conocida como la píldora del amor",
+              "answer": "MDA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "El caballo de Atreyu, el de la 'Historia interminable'",
+              "answer": "ARTAX"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Redimirás censos",
+              "answer": "LUIRAS"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Da más longitud a algo",
+              "answer": "ALARGA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Bloquearon, la entrada y la salida",
+              "answer": "BN"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Rebosé, desbordé",
+              "answer": "DERRAME"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "El Führer",
+              "answer": "HITLER"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "'La suerte está…' ya lo dijo Julio César",
+              "answer": "ECHADA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Científico de la ley de la gravitación universal",
+              "answer": "ISAAC"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Acrónimo de \"Hermano Adriano Luis\", escritor y educador religioso",
+              "answer": "HAL"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Artefacto tradicional para tejer",
+              "answer": "TELAR"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "No me puedes transferir, debes ir al banco y…",
+              "answer": "DEPOSITAR"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Se mueren de miedo, se…",
+              "answer": "ATERRAN"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Asturias Sacuda, menee, agite algo con fuerza",
+              "answer": "SOLMENE"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Música Repetición final de una pieza bailable",
+              "answer": "CODA"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "La cirugía era urgente",
+              "answer": "URGIA"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Establo, corral",
+              "answer": "OVIL"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Escapar como sea",
+              "answer": "HUIR"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Curar con sal carnes",
+              "answer": "SALAR"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Gesto comunicativo",
+              "answer": "SEÑA"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Compondrás con limpieza",
+              "answer": "ASEARAS"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Orarás, suplicarás",
+              "answer": "REZARAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Tercera lengua con más usuarios de Internet, después del chino y el inglés\r\n2-Mastican como ratas\r\n3-Rizo del cabello\r\n4-Mover las alas\r\n5-Física Electrodo positivo\r\n6-\"La niña del…\" icónica foto, símbolo del horror de la guerra de Vietnam\r\n7-Tú di que sí y cambia esa petaca\r\n8-Zurcir, remendar\r\n9-Observará a otros sin que se den cuenta\r\n10-Que tiene existencia verdadera y efectiva\r\n11-Ya no lo tiene\r\n12-\"… Echevarría\" directora española de la peli 'Carmen y Lola'\r\n15-Russia Today\r\n21-Mostrar gratitud \r\n23-Relativo a un dialecto\r\n25-Embelleces, acomodas algo\r\n27-Monte de Venus\r\n28-Líquido coloreado que se emplea para escribir o dibujar\r\n31-Modalidad de superar obstáculos con la moto, sin caerse\r\n32-Palabra cuya última sílaba es la tónica\r\n34-Tu manera de comportarte, tu forma de…\r\n35-Quiera, adore\r\n39-Hebra, Pedazo de hilo que se desprende de la tela\r\n40-Coloquial Amenazará sin acometer\r\n42-Mujer de notable belleza\r\n43-\"Soraya …\", cantante española de música pop-dance\r\n45-Enalteces o premias su mérito\r\n46-Lesionar alguna parte del cuerpo\r\n49-Pasa con una herradura luego haz un descanso\r\n50-Remolcaré la nave \r\n52-Marca de joyería española cuyo ícono es un oso\r\n53-\"… Sedgwick\", musa de Andy Warhol\r\n55-\"Alguna vez\" en inglés\r\n56-Entre bebé y adolescente (fem)\r\n59-El envase de gel está vacío",
+        "horizontal_clues": "1-Meterán la pata\r\n7-Da en el blanco con la respuesta correcta \r\n13-Ray Charles, músico afroamericano considerado \"El Padre del…\" \r\n14-Traficante de drogas\r\n16-Empresa española de paquetería\r\n17-El Rey del Fútbol\r\n18-Elijas, escojas\r\n19-Más grande que una gallina\r\n20-Está apuntada dentro de la nota dañada\r\n22-Pedigüeño, sacacuartos\r\n24-Agriétalo mal a tu amor excesivo por tí mismo\r\n26-Seleccionar algo entre varias cosas\r\n29-Droga sintética conocida como la píldora del amor\r\n30-El caballo de Atreyu, el de la 'Historia interminable'\r\n33-Redimirás censos\r\n35-Da más longitud a algo\r\n36-Bloquearon, la entrada y la salida\r\n37-Rebosé, desbordé\r\n38-Las vocales débiles\r\n39-El Führer\r\n41-'La suerte está…' ya lo dijo Julio César\r\n44-Científico de la ley de la gravitación universal\r\n45-Acrónimo de \"Hermano Adriano Luis\", escritor y educador religioso\r\n47-Artefacto tradicional para tejer\r\n48-No me puedes transferir, debes ir al banco y…\r\n51-Se mueren de miedo, se…\r\n54-Asturias Sacuda, menee, agite algo con fuerza\r\n57-Música Repetición final de una pieza bailable\r\n58-La cirugía era urgente\r\n60-Establo, corral\r\n61-Escapar como sea\r\n62-Curar con sal carnes\r\n63-Gesto comunicativo\r\n64-Compondrás con limpieza\r\n65-Orarás, suplicarás",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,15,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,21,#,#,#,22,#,23,#,#,#,#\r\n#,#,#,24,#,#,#,25,#,#,#,#,#,#,#\r\n26,27,28,#,#,#,29,#,#,#,30,#,31,32,#\r\n33,#,#,#,#,34,#,#,#,35,#,#,#,#,#\r\n#,36,#,#,37,#,#,#,#,#,#,#,38,#,#\r\n39,#,#,40,#,#,#,#,#,41,#,42,#,#,43\r\n44,#,#,#,#,#,45,#,46,#,47,#,#,#,#\r\n#,#,#,48,#,49,#,#,#,50,#,#,#,#,#\r\n51,52,53,#,#,#,#,#,54,#,#,#,55,56,#\r\n57,#,#,#,#,58,#,59,#,#,#,60,#,#,#\r\n61,#,#,#,#,62,#,#,#,#,#,63,#,#,#\r\n64,#,#,#,#,#,#,#,65,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

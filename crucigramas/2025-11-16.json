@@ -1,0 +1,528 @@
+{
+  "data": {
+    "id": 3906,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.928807Z",
+      "updatedAt": "2025-11-06T12:57:44.911110Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-16",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MALCRIAR#OSAS#T\r\nECOLECTO#RESONO\r\nS#TAZON#VARICES\r\nEDECAN#RIDE#IUT\r\nTO##ROCOSO#GOMA\r\nARCE#SAS##BOLAS\r\nSARRO#MACRAME#E\r\n#NOMINE#EMPECE#\r\nP#NIDALES#ULTRA\r\nAGOTO##RAS##OGN\r\nTILA#CARRIC##UT\r\nAGE#MAYA#TARDIO\r\nLACTICO#RUBIO#Z\r\nESTOLA#DIALECTO\r\nO#OSLO#CARENERO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Planicie extensa situada a considerable altura sobre el nivel del mar (pl)",
+              "answer": "MESETAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Desde hace 454 mil millones de años, hasta hace 2025 años",
+              "answer": "AC"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Conjunto de objetos similares que se agrupan",
+              "answer": "LOTE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sombrero de copa alta",
+              "answer": "CLAC"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Dirigir a Dios una plegaria",
+              "answer": "REZAR"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Los logos de las redes en las pantallas del móvil",
+              "answer": "ICONOS"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "La Australian Technology Network",
+              "answer": "ATN"
+            },
+            "8": {
+              "col": 7,
+              "row": 0,
+              "clue": "Inicio de la robotización",
+              "answer": "RO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Dicho en un discurso, hablado en público",
+              "answer": "ORADO"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"… la gata bajo la lluvia\" Rocío Dúrcal",
+              "answer": "SERE"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "De esta manera",
+              "answer": "ASI"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "* Esta es cuando la variedad lingüística está asociada a un grupo social determinado",
+              "answer": "SOCIOLECTO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Asase, dorase",
+              "answer": "TOSTASE"
+            },
+            "16": {
+              "col": 13,
+              "row": 1,
+              "clue": "Notación antigua para escribir la música",
+              "answer": "NEUMA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "\"… a …\" visita privada de un reo",
+              "answer": "VIS"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Por donar una ronda se bañan de oro",
+              "answer": "DORAN"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "La flor de Sant Jordi",
+              "answer": "ROSA"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Los cigarros del camello",
+              "answer": "CAMEL"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Individuo de la tribu berberisca de Gomara",
+              "answer": "GOMEL"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "* Y esta variedad lingüística es la que es propia de una generación o edad específica",
+              "answer": "CRONOLECTO"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Capilla o santuario, ubicado en sitio despoblado",
+              "answer": "ERMITA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Apodo con el que Gandhi se sentía más a gusto",
+              "answer": "BAPU"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "He escuchado que el iodo está malo",
+              "answer": "OIDO"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Famosa ensalada de lechuga",
+              "answer": "CESAR"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Iniciales de la líder indígena guatemalteca, Nobel de la Paz en 1992",
+              "answer": "RM"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Símbolo químico del sodio",
+              "answer": "NA"
+            },
+            "40": {
+              "col": 13,
+              "row": 7,
+              "clue": "Enarbolé, elevé",
+              "answer": "ERGUI"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Queja acompañada de golpes con los pies",
+              "answer": "PATALEO"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Vaga sin rumbo ni destino",
+              "answer": "ERRA"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Clase de animal al que pertenecen los corales",
+              "answer": "ANTOZOO"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Informática 2000 megas = 2…",
+              "answer": "GIGAS"
+            },
+            "49": {
+              "col": 9,
+              "row": 9,
+              "clue": "Si tu arma está fragmentada la puedes poner en el sitio",
+              "answer": "SITUAR"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Fruto del que proviene el chocolate",
+              "answer": "CACAO"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Niñero",
+              "answer": "AYO"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "\"Las chicas del…\" serie de TV",
+              "answer": "CABLE"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Unidad monetaria de Chipre antes del euro",
+              "answer": "MILL"
+            },
+            "59": {
+              "col": 11,
+              "row": 11,
+              "clue": "Lo hacen de últimos y lo hacen mejor",
+              "answer": "RIEN"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "Número de campanadas que anuncian el año nuevo",
+              "answer": "DOCE"
+            },
+            "62": {
+              "col": 3,
+              "row": 12,
+              "clue": "Cuando te ahogas te da…",
+              "answer": "TOS"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "Celebre con risa algo",
+              "answer": "RIA"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Desde hace 2025 años",
+              "answer": "DC"
+            },
+            "66": {
+              "col": 13,
+              "row": 13,
+              "clue": "Dominio web para Turquía",
+              "answer": "TR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Criar con excesiva permisividad",
+              "answer": "MALCRIAR"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "¿Cómo te atreves a ser tan sosa?",
+              "answer": "OSAS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "* La forma de hablar, las expresiones propias, apodos o chistes internos de una familia",
+              "answer": "ECOLECTO"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Sonó por repercusión",
+              "answer": "RESONO"
+            },
+            "17": {
+              "col": 2,
+              "row": 2,
+              "clue": "Receptáculo donde cae el agua de las fuentes",
+              "answer": "TAZON"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Venas dilatadas por acumulación de sangre",
+              "answer": "VARICES"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Milicia Ayudante de campo",
+              "answer": "EDECAN"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"Sally…\", primera mujer estadounidense que llegó al espacio",
+              "answer": "RIDE"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Instituto Universitario Tecnológico",
+              "answer": "IUT"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Fin del proyecto",
+              "answer": "TO"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Sitio con muchas rocas",
+              "answer": "ROCOSO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Tira o banda elástica",
+              "answer": "GOMA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Árbol del que se extrae el jarabe de maple",
+              "answer": "ARCE"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Solución de Azúcar y Sal",
+              "answer": "SAS"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Las del árbol de Navidad",
+              "answer": "BOLAS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Son raros y desarreglados cuando tienen suciedad en los dientes",
+              "answer": "SARRO"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Tejido de nudos usada por artesanos para sus pulseras",
+              "answer": "MACRAME"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Presenté o propuse a alguien para el premio",
+              "answer": "NOMINE"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Inicié, comencé",
+              "answer": "EMPECE"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Lugar señalado donde la gallina va a poner sus huevos (pl)",
+              "answer": "NIDALES"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Súper, mega, híper",
+              "answer": "ULTRA"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Se terminó, en agosto no hay serpientes",
+              "answer": "AGOTO"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Altura, nivel",
+              "answer": "RAS"
+            },
+            "50": {
+              "col": 12,
+              "row": 9,
+              "clue": "Esta ONG es un desastre",
+              "answer": "OGN"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una infusión tranquilizante",
+              "answer": "TILA"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Tipo de gabán muy holgado",
+              "answer": "CARRIC"
+            },
+            "55": {
+              "col": 13,
+              "row": 10,
+              "clue": "Inic de la prota de 'Kill Bill' de Tarantino",
+              "answer": "UT"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Era en inglés",
+              "answer": "AGE"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Civilización precolombina centroamericana",
+              "answer": "MAYA"
+            },
+            "58": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"Capitalismo…\" su etapa madura, de monopolios y globalización",
+              "answer": "TARDIO"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"Ácido…\" principal responsable de las agujetas",
+              "answer": "LACTICO"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "El tabaco del cigarrillo, no del habano",
+              "answer": "RUBIO"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Prenda litúrgica que usan los sacerdotes",
+              "answer": "ESTOLA"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "* Aquí, la variedad lingüística de una lengua que se habla en una región determinada",
+              "answer": "DIALECTO"
+            },
+            "67": {
+              "col": 2,
+              "row": 14,
+              "clue": "Os lo digo solo en Noruega",
+              "answer": "OSLO"
+            },
+            "68": {
+              "col": 7,
+              "row": 14,
+              "clue": "Marina Sitio en que se reparan buques",
+              "answer": "CARENERO"
+            }
+          }
+        },
+        "vertical_clues": "1-Planicie extensa situada a considerable altura sobre el nivel del mar (pl)\r\n2-Desde hace 454 mil millones de años, hasta hace 2025 años\r\n3-Conjunto de objetos similares que se agrupan\r\n4-Sombrero de copa alta\r\n5-Dirigir a Dios una plegaria\r\n6-Los logos de las redes en las pantallas del móvil\r\n7-La Australian Technology Network\r\n8-Inicio de la robotización\r\n9-Dicho en un discurso, hablado en público\r\n10-\"… la gata bajo la lluvia\" Rocío Dúrcal\r\n11-De esta manera\r\n12-* Esta es cuando la variedad lingüística está asociada a un grupo social determinado\r\n13-Asase, dorase\r\n16-Notación antigua para escribir la música\r\n18-\"… a …\" visita privada de un reo\r\n20-Por donar una ronda se bañan de oro\r\n21-La flor de Sant Jordi\r\n25-Los cigarros del camello\r\n26-Individuo de la tribu berberisca de Gomara\r\n28-* Y esta variedad lingüística es la que es propia de una generación o edad específica \r\n29-Capilla o santuario, ubicado en sitio despoblado\r\n31-Apodo con el que Gandhi se sentía más a gusto\r\n33-He escuchado que el iodo está malo\r\n35-Famosa ensalada de lechuga\r\n36-Iniciales de la líder indígena guatemalteca, Nobel de la Paz en 1992\r\n38-Símbolo químico del sodio\r\n40-Enarbolé, elevé\r\n41-Queja acompañada de golpes con los pies \r\n43-Vaga sin rumbo ni destino\r\n45-Clase de animal al que pertenecen los corales\r\n47-Informática 2000 megas = 2…\r\n49-Si tu arma está fragmentada la puedes poner en el sitio\r\n52-Fruto del que proviene el chocolate\r\n53-Niñero\r\n54-\"Las chicas del…\" serie de TV\r\n57-Unidad monetaria de Chipre antes del euro \r\n59-Lo hacen de últimos y lo hacen mejor\r\n60-Número de campanadas que anuncian el año nuevo\r\n62-Cuando te ahogas te da…\r\n63-Celebre con risa algo\r\n65-Desde hace 2025 años \r\n66-Dominio web para Turquía",
+        "horizontal_clues": "1-Criar con excesiva permisividad \r\n9-¿Cómo te atreves a ser tan sosa? \r\n14-* La forma de hablar, las expresiones propias, apodos o chistes internos de una familia\r\n15-Sonó por repercusión\r\n17-Receptáculo donde cae el agua de las fuentes\r\n18-Venas dilatadas por acumulación de sangre\r\n19-Milicia Ayudante de campo\r\n21-\"Sally…\", primera mujer estadounidense que llegó al espacio\r\n22-Instituto Universitario Tecnológico\r\n23-Fin del proyecto\r\n24-Sitio con muchas rocas\r\n26-Tira o banda elástica\r\n27-Árbol del que se extrae el jarabe de maple\r\n30-Solución de Azúcar y Sal\r\n31-Las del árbol de Navidad\r\n32-Son raros y desarreglados cuando tienen suciedad en los dientes\r\n34-Tejido de nudos usada por artesanos para sus pulseras\r\n37-Presenté o propuse a alguien para el premio\r\n39-Inicié, comencé\r\n42-Lugar señalado donde la gallina va a poner sus huevos (pl)\r\n44-Súper, mega, híper\r\n46-Se terminó, en agosto no hay serpientes\r\n48-Altura, nivel\r\n50-Esta ONG es un desastre\r\n51-Una infusión tranquilizante\r\n52-Tipo de gabán muy holgado\r\n55-Inic de la prota de 'Kill Bill' de Tarantino\r\n56-Era en inglés\r\n57-Civilización precolombina centroamericana\r\n58-\"Capitalismo…\" su etapa madura, de monopolios y globalización\r\n61-\"Ácido…\" principal responsable de las agujetas\r\n63-El tabaco del cigarrillo, no del habano\r\n64-Prenda litúrgica que usan los sacerdotes \r\n65-* Aquí, la variedad lingüística de una lengua que se habla en una región determinada\r\n67-Os lo digo solo en Noruega\r\n68-Marina Sitio en que se reparan buques",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,8,#,9,10,11,12,#,13\r\n14,#,#,#,#,#,#,#,#,15,#,#,#,16,#\r\n#,#,17,#,#,#,#,#,18,#,#,#,#,#,#\r\n19,20,#,#,#,#,#,21,#,#,#,#,22,#,#\r\n23,#,#,#,24,#,25,#,#,#,#,26,#,#,#\r\n27,#,28,29,#,30,#,#,#,#,31,#,#,#,#\r\n32,#,#,#,33,#,34,#,35,36,#,#,#,#,#\r\n#,37,#,#,#,38,#,#,39,#,#,#,#,40,#\r\n41,#,42,#,#,#,#,43,#,#,44,#,#,#,45\r\n46,47,#,#,#,#,#,48,#,49,#,#,50,#,#\r\n51,#,#,#,#,52,53,#,#,#,54,#,#,55,#\r\n56,#,#,#,57,#,#,#,#,58,#,59,60,#,#\r\n61,#,#,62,#,#,#,#,63,#,#,#,#,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,66,#\r\n#,#,67,#,#,#,#,68,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

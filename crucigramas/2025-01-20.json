@@ -1,0 +1,526 @@
+{
+  "data": {
+    "id": 1548,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-17T10:58:58.941179Z",
+      "updatedAt": "2025-01-17T10:58:58.955944Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-20",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SPORT#PRESTO#FR\r\nVALER#RUMIA#CAI\r\n#PILA#ELIOT#RIV\r\nGIMEN#CORNAMUSA\r\nESPACIO####PEAL\r\nOTI#ANZUELO#LN#\r\nRACE#T#TRAIA##O\r\nG#OSMIO#INDRA#L\r\nE##RAMOS#U#URGI\r\n#VS#COLMADO#RID\r\nDOOM####CORBERO\r\nATROPELLO#DUMAS\r\nTAB#OPIOS#EFES#\r\nEDO#KOALA#NETOS\r\nEA#LACRAS#OTELO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Dominio web para El Salvador",
+              "answer": "SV"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "El que apoya la idea del Papa",
+              "answer": "PAPISTA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Estadio donde los atletas buscan la gloria cada cuatro años",
+              "answer": "OLIMPICO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lea de nuevo",
+              "answer": "RELEA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Obstruye el paso, cierra la puerta",
+              "answer": "TRANCA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Un embarazo cuando es de una menor de 18 años",
+              "answer": "PRECOZ"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Rizo del cabello",
+              "answer": "RULO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Príncipe árabe",
+              "answer": "EMIR"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Biblia La \"madre de todos los pueblos\" (Salmo 87, 2)",
+              "answer": "SION"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Coloquialmente, la hermana",
+              "answer": "TATA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ave de consumo",
+              "answer": "FAISAN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Su contrincante se hizo viral por error",
+              "answer": "RIVAL"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "Que se lucre del caos es muy inhumano",
+              "answer": "CRUEL"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Creador de la saga fílmica de Star Wars",
+              "answer": "GEORGE"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Lo que tienen en común Michelle Pfeiffer y Manny Pacquiao",
+              "answer": "MP"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Muy personal y privado",
+              "answer": "INTIMO"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Inic de la prota de 'Kill Bill' de Tarantino",
+              "answer": "UT"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Erizos en Eritrea",
+              "answer": "ERI"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Cubierto de pelo abundante",
+              "answer": "LANUDO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Escuchad",
+              "answer": "OID"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Vaca loca",
+              "answer": "ESR"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Grupo de 95 islas Indonesia",
+              "answer": "ARU"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Inhalados, esnifados, aspirados",
+              "answer": "OLIDOS"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Acortamiento de \"Macintosh\"",
+              "answer": "MAC"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "Oficina de Oceanografía y Limnología",
+              "answer": "OOL"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Embiste, ataca con fuerza",
+              "answer": "ARREMETE"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Sailor Moon",
+              "answer": "SM"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Planta de la cual se extrae aceite para cocinar",
+              "answer": "GIRASOL"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Elegida mediante sufragio popular",
+              "answer": "VOTADA"
+            },
+            "47": {
+              "col": 2,
+              "row": 9,
+              "clue": "Bebo muy poco, doy un…",
+              "answer": "SORBO"
+            },
+            "49": {
+              "col": 8,
+              "row": 9,
+              "clue": "Persigues sin dar tregua",
+              "answer": "ACOSAS"
+            },
+            "50": {
+              "col": 10,
+              "row": 9,
+              "clue": "Organizo, acomodo",
+              "answer": "ORDENO"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Proporcione información sobre alguien",
+              "answer": "DATEE"
+            },
+            "53": {
+              "col": 3,
+              "row": 10,
+              "clue": "Miro a ambos lados",
+              "answer": "MO"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "Mesa donde se ofrecen platos de comida",
+              "answer": "BUFET"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"…",
+              "answer": "POKA"
+            },
+            "58": {
+              "col": 5,
+              "row": 11,
+              "clue": "Enfermedad pulmonar obstructiva crónica",
+              "answer": "EPOC"
+            },
+            "59": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Mentiroso\" en inglés",
+              "answer": "LIAR"
+            },
+            "60": {
+              "col": 7,
+              "row": 11,
+              "clue": "Cantante y bailaora sevillana conocida por su canción 'A tu vera'",
+              "answer": "LOLA"
+            },
+            "68": {
+              "col": 14,
+              "row": 13,
+              "clue": "Saturnino Odalberio",
+              "answer": "SO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"EA…: It's in the game\" lema de estos videojuegos deportivos",
+              "answer": "SPORT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Veloz sin perder el ritmo",
+              "answer": "PRESTO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Lo que tienen en común Fernando Redondo y Franck Ribéry",
+              "answer": "FR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Servir para algo",
+              "answer": "VALER"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Rezongaba, refunfuñaba",
+              "answer": "RUMIA"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "\"… en la trampa de ser tu amigo / … en la trampa de en ti confiar\" Manu Chao",
+              "answer": "CAI"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Nombre de nacimiento",
+              "answer": "PILA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "El líder de Los Intocables",
+              "answer": "ELIOT"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Un poco de rivalidad en el River Plate",
+              "answer": "RIV"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Expresan el placer sexual",
+              "answer": "GIMEN"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Instrumento musical muy parecido a la gaita",
+              "answer": "CORNAMUSA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Extensión que contiene la materia existente",
+              "answer": "ESPACIO"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Parte de la media que cubre el pie",
+              "answer": "PEAL"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Antiguo festival musical iberoamericano",
+              "answer": "OTI"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Herramienta curva para pescar",
+              "answer": "ANZUELO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Cáscara del limón",
+              "answer": "LN"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Una carrera en EEUU",
+              "answer": "RACE"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Tenía puesta la tiara equivocada",
+              "answer": "TRAIA"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Os",
+              "answer": "OSMIO"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Dios principal de la cultura védica (previa al hinduismo) en la India",
+              "answer": "INDRA"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Sr amo con locura a Yolanda, la humorista",
+              "answer": "RAMOS"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Apremié, apuré, obligué,",
+              "answer": "URGI"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Verónica Sánchez versus Valentina Shevchenko",
+              "answer": "VS"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "Abundante hasta rebosar",
+              "answer": "COLMADO"
+            },
+            "51": {
+              "col": 12,
+              "row": 9,
+              "clue": "Un poco ridículos",
+              "answer": "RID"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Videojuego pionero de disparos en primera persona (1993)",
+              "answer": "DOOM"
+            },
+            "54": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"Xavier…\" escultor de La Casa Taller, en Esplugues de Llobregat",
+              "answer": "CORBERO"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Infracción violenta de las normas",
+              "answer": "ATROPELLO"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Apellido del escritor de \"El Conde de Montecristo\"",
+              "answer": "DUMAS"
+            },
+            "62": {
+              "col": 0,
+              "row": 12,
+              "clue": "Informática Tecla tabuladora",
+              "answer": "TAB"
+            },
+            "63": {
+              "col": 4,
+              "row": 12,
+              "clue": "Sustancia analgésica narcótica, derivada de la amapola (pl)",
+              "answer": "OPIOS"
+            },
+            "64": {
+              "col": 10,
+              "row": 12,
+              "clue": "F f f f f",
+              "answer": "EFES"
+            },
+            "65": {
+              "col": 0,
+              "row": 13,
+              "clue": "Saliendo de Toledo",
+              "answer": "EDO"
+            },
+            "66": {
+              "col": 4,
+              "row": 13,
+              "clue": "Animal emblema de Australia",
+              "answer": "KOALA"
+            },
+            "67": {
+              "col": 10,
+              "row": 13,
+              "clue": "Notes que los pesos son sin taras",
+              "answer": "NETOS"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Las dos letras más utilizadas en el idioma español",
+              "answer": "EA"
+            },
+            "70": {
+              "col": 3,
+              "row": 14,
+              "clue": "Personas muy maleadas, depravadas",
+              "answer": "LACRAS"
+            },
+            "71": {
+              "col": 10,
+              "row": 14,
+              "clue": "Protagonista de la obra de Shakespeare, centrada en la fatalidad de los celos",
+              "answer": "OTELO"
+            }
+          }
+        },
+        "vertical_clues": "1-Dominio web para El Salvador\r\n2-El que apoya la idea del Papa\r\n3-Estadio donde los atletas buscan la gloria cada cuatro años \r\n4-Lea de nuevo\r\n5-Obstruye el paso, cierra la puerta\r\n6-Un embarazo cuando es de una menor de 18 años\r\n7-Rizo del cabello\r\n8-Príncipe árabe\r\n9-Biblia La \"madre de todos los pueblos\" (Salmo 87, 2)\r\n10-Coloquialmente, la hermana\r\n11-Ave de consumo\r\n12-Su contrincante se hizo viral por error\r\n15-Que se lucre del caos es muy inhumano\r\n19-Creador de la saga fílmica de Star Wars\r\n21-Lo que tienen en común Michelle Pfeiffer y Manny Pacquiao\r\n23-Muy personal y privado \r\n27-Inic de la prota de 'Kill Bill' de Tarantino\r\n28-Erizos en Eritrea\r\n29-Cubierto de pelo abundante \r\n30-Escuchad\r\n33-Vaca loca\r\n35-Grupo de 95 islas Indonesia\r\n36-Inhalados, esnifados, aspirados\r\n38-Acortamiento de \"Macintosh\"\r\n39-Oficina de Oceanografía y Limnología\r\n41-Embiste, ataca con fuerza\r\n43-Sailor Moon\r\n45-Planta de la cual se extrae aceite para cocinar\r\n46-Elegida mediante sufragio popular \r\n47-Bebo muy poco, doy un…\r\n49-Persigues sin dar tregua\r\n50-Organizo, acomodo\r\n52-Proporcione información sobre alguien\r\n53-Miro a ambos lados\r\n55-Mesa donde se ofrecen platos de comida\r\n57-\"…-yoke\" diseño a prueba de errores\r\n58-Enfermedad pulmonar obstructiva crónica\r\n59-\"Mentiroso\" en inglés\r\n60-Cantante y bailaora sevillana conocida por su canción 'A tu vera'\r\n68-Saturnino Odalberio\r\n",
+        "horizontal_clues": "1-\"EA…: It's in the game\" lema de estos videojuegos deportivos\r\n6-Veloz sin perder el ritmo \r\n11-Lo que tienen en común Fernando Redondo y Franck Ribéry\r\n13-Servir para algo\r\n14-Rezongaba, refunfuñaba\r\n15-\"… en la trampa de ser tu amigo / … en la trampa de en ti confiar\" Manu Chao\r\n16-Nombre de nacimiento\r\n17-El líder de Los Intocables\r\n18-Un poco de rivalidad en el River Plate\r\n19-Expresan el placer sexual\r\n20-Instrumento musical muy parecido a la gaita\r\n22-Extensión que contiene la materia existente \r\n24-Parte de la media que cubre el pie\r\n25-Antiguo festival musical iberoamericano\r\n26-Herramienta curva para pescar \r\n31-Cáscara del limón\r\n32-Una carrera en EEUU\r\n34-Tenía puesta la tiara equivocada\r\n37-Os \r\n40-Dios principal de la cultura védica (previa al hinduismo) en la India\r\n42-Sr amo con locura a Yolanda, la humorista\r\n44-Apremié, apuré, obligué, \r\n46-Verónica Sánchez versus Valentina Shevchenko\r\n48-Abundante hasta rebosar \r\n51-Un poco ridículos\r\n52-Videojuego pionero de disparos en primera persona (1993)\r\n54-\"Xavier…\" escultor de La Casa Taller, en Esplugues de Llobregat\r\n56-Infracción violenta de las normas \r\n61-Apellido del escritor de \"El Conde de Montecristo\"\r\n62-Informática Tecla tabuladora\r\n63-Sustancia analgésica narcótica, derivada de la amapola (pl)\r\n64-F f f f f\r\n65-Saliendo de Toledo\r\n66-Animal emblema de Australia\r\n67-Notes que los pesos son sin taras\r\n69-Las dos letras más utilizadas en el idioma español\r\n70-Personas muy maleadas, depravadas\r\n71-Protagonista de la obra de Shakespeare, centrada en la fatalidad de los celos\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,10,#,#,11,12\r\n13,#,#,#,#,#,14,#,#,#,#,#,15,#,#\r\n#,16,#,#,#,#,17,#,#,#,#,#,18,#,#\r\n19,#,#,#,#,#,20,#,#,#,#,21,#,#,#\r\n22,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,27,28,29,30,#,31,#,#\r\n32,#,#,33,#,#,#,34,#,#,#,35,#,#,36\r\n#,#,37,#,38,#,39,#,40,#,#,#,41,#,#\r\n#,#,#,42,#,#,#,43,#,#,#,44,#,45,#\r\n#,46,47,#,48,#,#,#,49,#,50,#,51,#,#\r\n52,#,#,53,#,#,#,#,54,#,#,55,#,#,#\r\n56,#,#,#,57,58,59,60,#,#,61,#,#,#,#\r\n62,#,#,#,63,#,#,#,#,#,64,#,#,#,#\r\n65,#,#,#,66,#,#,#,#,#,67,#,#,#,68\r\n69,#,#,70,#,#,#,#,#,#,71,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

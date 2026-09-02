@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 3899,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.782700Z",
+      "updatedAt": "2025-11-10T06:34:15.223821Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-09",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FRACASO#PALACIO\r\nA#NOTO#MOVIDO#J\r\nBAILANDO#ORANGE\r\nRUMOREAN#CAPTAR\r\nINES#TRATA#TEGO\r\nCANOSOS#ADUANAS\r\nAR##ESE#RONDE#A\r\n#EDEN#####TORO#\r\nM#ENTER#AJA##RC\r\nABSCISA#PEDRADA\r\nSACO#TETES#UPEN\r\nACAMPA#AGUILEÑA\r\nCORION#MAICENAS\r\nR#TANTEO#TOTA#T\r\nEMERGER#NARANJA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ambientación de la película 'Tiempos modernos' de Chaplin",
+              "answer": "FABRICA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Alienten a la menina mala",
+              "answer": "ANIMEN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Gigante de Rodas",
+              "answer": "COLOSO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Siempre regresa el roedor",
+              "answer": "ATAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Poema con 14 versos endecasílabos y rima consonante (pl)",
+              "answer": "SONETOS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Río de Italia",
+              "answer": "PO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cada bocado de esta fruta, es increíble",
+              "answer": "AVOCADO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Moneda oficial de Turquía",
+              "answer": "LIRA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ajustado a su nueva realidad",
+              "answer": "ADAPTADO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Impedir que las lágrimas escapen, … el llanto",
+              "answer": "CONTENER"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Que tiene ojeras (fem)",
+              "answer": "OJEROSA"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Embriaguez, borrachera",
+              "answer": "MONA"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Sumaré algo",
+              "answer": "AUNARE"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Entregarse",
+              "answer": "DARSE"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Esta Lady, interpreta a Harley Queen, en el Joker 2",
+              "answer": "GAGA"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Instrumento de cuerda pulsada de mástil largo, de origen persa",
+              "answer": "TAR"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Experimenté sensaciones",
+              "answer": "SENTI"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Aplicad y extended superficialmente aceite sobre algo",
+              "answer": "UNTAD"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Naipes que se quedan sin repartir",
+              "answer": "DESCARTE"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Alabar al caminero del camerino",
+              "answer": "ENCOMIAR"
+            },
+            "36": {
+              "col": 13,
+              "row": 7,
+              "clue": "Extrae leche de una vaca",
+              "answer": "ORDEÑA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Matanza de grupo de personas",
+              "answer": "MASACRE"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Setenta ebrios rompen el anaquel",
+              "answer": "ESTANTE"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Institución cultural dedicada a la regularización lingüística",
+              "answer": "RAE"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Se encariña, está muy unida, se…",
+              "answer": "APEGA"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Integrante de la Compañía de Jesús, la de san Ignacio de Loyola",
+              "answer": "JESUITA"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "El juego de cartas está en la cesta",
+              "answer": "CANASTA"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Dios de los viñedos",
+              "answer": "BACO"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "En los casinos, juego de azar giratorio",
+              "answer": "RULETA"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Causan pena",
+              "answer": "APENAN"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "Pelusilla que se cría debajo de las camas por falta de aseo",
+              "answer": "TAMO"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "Icónico videojuego que recuerda al tenis de mesa",
+              "answer": "PONG"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "La sangre azul de los dioses griegos",
+              "answer": "ICOR"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Erbio",
+              "answer": "ER"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Resultado adverso de una empresa",
+              "answer": "FRACASO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lo es el de Buckingham o el de Versalles",
+              "answer": "PALACIO"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Reparó, observó o advirtió",
+              "answer": "NOTO"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Ajetreado y eso que no se ha trasladado",
+              "answer": "MOVIDO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ejecutando movimientos acompasados con el cuerpo",
+              "answer": "BAILANDO"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "\"Miami… Bowl\" antiguo estadio, actual 'Marlins Park'",
+              "answer": "ORANGE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Se difunden vagamente los chismes entre las gentes, se…",
+              "answer": "RUMOREAN"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Recoger imágenes",
+              "answer": "CAPTAR"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"… Rau\" famosa modelo francesa trans",
+              "answer": "INES"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "Tráfico de seres humanos",
+              "answer": "TRATA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"… Calderón\" cantante boricua considerado el 'El Papá del Reguetón'",
+              "answer": "TEGO"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Sonsaco al desorden, a los mayores",
+              "answer": "CANOSOS"
+            },
+            "27": {
+              "col": 8,
+              "row": 5,
+              "clue": "Oficina pública que controla la entrada de mercancías a un país (pl)",
+              "answer": "ADUANAS"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Voz militar para ordenar la ejecución de un movimiento",
+              "answer": "AR"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "El que está ahí",
+              "answer": "ESE"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "De vueltas alrededor de algo",
+              "answer": "RONDE"
+            },
+            "32": {
+              "col": 1,
+              "row": 7,
+              "clue": "Morada de Adán y Eva",
+              "answer": "EDEN"
+            },
+            "35": {
+              "col": 10,
+              "row": 7,
+              "clue": "\"Guillermo del…\", director mexicano de 'El laberinto del fauno'",
+              "answer": "TORO"
+            },
+            "38": {
+              "col": 2,
+              "row": 8,
+              "clue": "Tecla para buscar",
+              "answer": "ENTER"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Voz usada para denotar aprobación",
+              "answer": "AJA"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Raffaella Carrà",
+              "answer": "RC"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Coordenada cartesiana horizontal",
+              "answer": "ABSCISA"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Golpe que se da con una piedra tirada",
+              "answer": "PEDRADA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Receptáculo de tela, cuero, papel o fibras",
+              "answer": "SACO"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Los hermanos en Valencia",
+              "answer": "TETES"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Levanten, carguen",
+              "answer": "UPEN"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pasa la noche en la tienda de campaña",
+              "answer": "ACAMPA"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Planta ornamental favorita del ave rapaz de EEUU",
+              "answer": "AGUILEÑA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Capa embrionaria",
+              "answer": "CORION"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Harina fina de fécula de maíz (pl)",
+              "answer": "MAICENAS"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "\"Derecho de…\" la preferencia de compra que tiene un arrendatario sobre un piso",
+              "answer": "TANTEO"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Esta pista está toda en catalán",
+              "answer": "TOTA"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Brotar, salir a la superficie del agua u otro líquido",
+              "answer": "EMERGER"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "\"La … mecánica\" novela de Anthony Burgess (1962)",
+              "answer": "NARANJA"
+            }
+          }
+        },
+        "vertical_clues": "1-Ambientación de la película 'Tiempos modernos' de Chaplin\r\n2-Alienten a la menina mala\r\n3-Gigante de Rodas\r\n4-Siempre regresa el roedor\r\n5-Poema con 14 versos endecasílabos y rima consonante (pl)\r\n6-Río de Italia\r\n7-Cada bocado de esta fruta, es increíble\r\n8-Moneda oficial de Turquía\r\n9-Ajustado a su nueva realidad\r\n10-Impedir que las lágrimas escapen, … el llanto\r\n11-Que tiene ojeras (fem)\r\n13-Embriaguez, borrachera\r\n15-Sumaré algo\r\n16-Entregarse\r\n18-Esta Lady, interpreta a Harley Queen, en el Joker 2\r\n23-Instrumento de cuerda pulsada de mástil largo, de origen persa\r\n26-Experimenté sensaciones\r\n28-Aplicad y extended superficialmente aceite sobre algo\r\n33-Naipes que se quedan sin repartir\r\n34-Alabar al caminero del camerino\r\n36-Extrae leche de una vaca\r\n37-Matanza de grupo de personas\r\n39-Setenta ebrios rompen el anaquel\r\n40-Institución cultural dedicada a la regularización lingüística\r\n41-Se encariña, está muy unida, se…\r\n42-Integrante de la Compañía de Jesús, la de san Ignacio de Loyola\r\n44-El juego de cartas está en la cesta\r\n46-Dios de los viñedos\r\n48-En los casinos, juego de azar giratorio\r\n49-Causan pena\r\n52-Pelusilla que se cría debajo de las camas por falta de aseo\r\n55-Icónico videojuego que recuerda al tenis de mesa\r\n57-La sangre azul de los dioses griegos\r\n61-Erbio",
+        "horizontal_clues": "1-Resultado adverso de una empresa\r\n6-Lo es el de Buckingham o el de Versalles\r\n12-Reparó, observó o advirtió\r\n13-Ajetreado y eso que no se ha trasladado\r\n14-Ejecutando movimientos acompasados con el cuerpo\r\n17-\"Miami… Bowl\" antiguo estadio, actual 'Marlins Park'\r\n19-Se difunden vagamente los chismes entre las gentes, se… \r\n20-Recoger imágenes\r\n21-\"… Rau\" famosa modelo francesa trans\r\n22-Tráfico de seres humanos\r\n24-\"… Calderón\" cantante boricua considerado el 'El Papá del Reguetón'\r\n25-Sonsaco al desorden, a los mayores\r\n27-Oficina pública que controla la entrada de mercancías a un país (pl)\r\n29-Voz militar para ordenar la ejecución de un movimiento\r\n30-El que está ahí\r\n31-De vueltas alrededor de algo\r\n32-Morada de Adán y Eva\r\n35-\"Guillermo del…\", director mexicano de 'El laberinto del fauno'\r\n38-Tecla para buscar\r\n41-Voz usada para denotar aprobación\r\n43-Raffaella Carrà\r\n45-Coordenada cartesiana horizontal\r\n47-Golpe que se da con una piedra tirada\r\n50-Receptáculo de tela, cuero, papel o fibras\r\n51-Los hermanos en Valencia\r\n53-Levanten, carguen\r\n54-Pasa la noche en la tienda de campaña\r\n56-Planta ornamental favorita del ave rapaz de EEUU\r\n58-Capa embrionaria\r\n59-Harina fina de fécula de maíz (pl)\r\n60-\"Derecho de…\" la preferencia de compra que tiene un arrendatario sobre un piso\r\n62-Esta pista está toda en catalán\r\n63-Brotar, salir a la superficie del agua u otro líquido\r\n64-\"La … mecánica\" novela de Anthony Burgess (1962)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,#,#,6,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,13,#,#,#,#,#,#,#\r\n14,15,#,#,#,#,16,#,#,17,#,#,#,18,#\r\n19,#,#,#,#,#,#,#,#,20,#,#,#,#,#\r\n21,#,#,#,#,22,#,#,23,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,27,#,28,#,#,#,#\r\n29,#,#,#,30,#,#,#,31,#,#,#,#,#,#\r\n#,32,33,34,#,#,#,#,#,#,35,#,#,36,#\r\n37,#,38,#,#,39,40,#,41,42,#,#,#,43,44\r\n45,46,#,#,#,#,#,#,47,#,#,48,49,#,#\r\n50,#,#,#,#,51,#,52,#,#,#,53,#,#,#\r\n54,#,#,#,55,#,#,56,#,#,57,#,#,#,#\r\n58,#,#,#,#,#,#,59,#,#,#,#,#,#,#\r\n#,#,60,#,#,#,61,#,#,62,#,#,#,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

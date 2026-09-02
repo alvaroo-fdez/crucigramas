@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 932,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-20T05:19:47.401805Z",
+      "updatedAt": "2024-09-20T05:19:47.401845Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-24",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SALUDAN#CERCANA\r\nUSAN#VALOR#IBAS\r\nRIGE#ATALA#ARDA\r\nIRON#LAMER#RIAL\r\nN###POLICIA###T\r\nACATAR##TOSCANA\r\nMONOGAMIA#PUBIS\r\n#LUCA#O#R#ERRE#\r\nTALAR#TRASCRITO\r\nADEREZO##ATOLON\r\nB###SANDALO###C\r\nUROS#RIOJA#DATE\r\nLUPA#PEREZ#ASAN\r\nEDEN#AVARO#DATA\r\nSALOBRE#ANTARES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Único país de América cuyo idioma oficial es el neerlandés.",
+              "answer": "SURINAM"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tomar con la mano.",
+              "answer": "ASIR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "El más grande del mundo es el mar Caspio.",
+              "answer": "LAGO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Crean lazos afectivos.",
+              "answer": "UNEN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Aumenta el valor o la estimación de algo.",
+              "answer": "AVALORA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tierra en la que ha nacido una persona.",
+              "answer": "NATAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Recaudará, reunirá el dinero.",
+              "answer": "COLECTARA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hacienda, conjunto de rentas.",
+              "answer": "ERARIO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Andar hacia atrás, retroceder.",
+              "answer": "CIAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Destapé, por ejemplo un melón.",
+              "answer": "ABRI"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Según la física cuántica, esto no existe.",
+              "answer": "NADA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Acometes repentinamente y por sorpresa.",
+              "answer": "ASALTAS"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "La mía, ya la ensalivé.",
+              "answer": "LAMI"
+            },
+            "23": {
+              "col": 4,
+              "row": 4,
+              "clue": "Promesas de pago.",
+              "answer": "PAGARES"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Apariencia externa.",
+              "answer": "ASPECTO"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Pasad un líquido por una manga.",
+              "answer": "COLAD"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Invalidé, suspendí.",
+              "answer": "ANULE"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Ejecutar un instrumento musical.",
+              "answer": "TOCAR"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Un trabajo muy español.",
+              "answer": "CURRO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Mes en el que fallecieron, Cervantes, Shakespeare e Inca Garcilaso.",
+              "answer": "ABRIL"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "El ojito derecho de la abuela.",
+              "answer": "NIETO"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Vehículo para desplazarse sobre hielo.",
+              "answer": "MOTONIEVE"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Expreses los datos por medio de tablas.",
+              "answer": "TABULES"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Método de preservación de los alimentos con sal.",
+              "answer": "SALAZON"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Grupos de once.",
+              "answer": "ONCENAS"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Partir en un barco.",
+              "answer": "ZARPAR"
+            },
+            "46": {
+              "col": 7,
+              "row": 10,
+              "clue": "El primer caso directo de Freud como psicoanalista.",
+              "answer": "DORA"
+            },
+            "47": {
+              "col": 8,
+              "row": 10,
+              "clue": "Persona que vende ajos.",
+              "answer": "AJERA"
+            },
+            "49": {
+              "col": 1,
+              "row": 11,
+              "clue": "Una tipa fuerte, sin delicadeza.",
+              "answer": "RUDA"
+            },
+            "50": {
+              "col": 2,
+              "row": 11,
+              "clue": "Empresa alemana de automóviles fundada en 1862.",
+              "answer": "OPEL"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Con buena salud, el chico.",
+              "answer": "SANO"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Inclinada, que tiene tendencia a algo.",
+              "answer": "DADA"
+            },
+            "54": {
+              "col": 12,
+              "row": 11,
+              "clue": "Cocinar con Sara.",
+              "answer": "ASAR"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"... Modern\", museo londinense.",
+              "answer": "TATE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Chocan esos cinco\" se...",
+              "answer": "SALUDAN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Próxima.",
+              "answer": "CERCANA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Utilizan, emplean.",
+              "answer": "USAN"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "La V del IVA.",
+              "answer": "VALOR"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Te trasladabas.",
+              "answer": "IBAS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dirige, gobierna, manda.",
+              "answer": "RIGE"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Amárrala.",
+              "answer": "ATALA"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "\"... Turán\", excentrocampo del Galatasaray S.",
+              "answer": "ARDA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"... Man\" el hombre de hierro.",
+              "answer": "IRON"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Pasar la lengua por la superficie de algo.",
+              "answer": "LAMER"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Moneda de Arabia Saudí.",
+              "answer": "RIAL"
+            },
+            "23": {
+              "col": 4,
+              "row": 4,
+              "clue": "Lo es la Ertzaintza o los Mozos de Escuadra.",
+              "answer": "POLICIA"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Atacar no. Hay que aprender a seguir las normas.",
+              "answer": "ACATAR"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Región italiana donde se ubica Florencia.",
+              "answer": "TOSCANA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Práctica conyugal que admite una sola pareja.",
+              "answer": "MONOGAMIA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Monte de Venus.",
+              "answer": "PUBIS"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Personaje de Disney que se transforma en un monstruito marino.",
+              "answer": "LUCA"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Me equivoqué.",
+              "answer": "ERRE"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Devastar un bosque.",
+              "answer": "TALAR"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Copiado fielmente de un texto original.",
+              "answer": "TRASCRITO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Doy sabor a los alimentos.",
+              "answer": "ADEREZO"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Isla con una laguna interior que comunica con el mar.",
+              "answer": "ATOLON"
+            },
+            "45": {
+              "col": 4,
+              "row": 10,
+              "clue": "Típico aroma de incienso.",
+              "answer": "SANDALO"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Bóvidos salvajes muy parecidos a los toros.",
+              "answer": "UROS"
+            },
+            "52": {
+              "col": 5,
+              "row": 11,
+              "clue": "Vino español de fina calidad.",
+              "answer": "RIOJA"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Fecha en inglés.",
+              "answer": "DATE"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "La herramienta de Sherlock Holmes.",
+              "answer": "LUPA"
+            },
+            "57": {
+              "col": 5,
+              "row": 12,
+              "clue": "El ratoncito de los dientes.",
+              "answer": "PEREZ"
+            },
+            "58": {
+              "col": 11,
+              "row": 12,
+              "clue": "Cocinan algo de las ancas.",
+              "answer": "ASAN"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Que le den al Paraíso, dijo Eva.",
+              "answer": "EDEN"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "Álvaro sacó 50 porque es muy tacaño.",
+              "answer": "AVARO"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "\"Big ...\" inmenso conjunto de datos para analizar el comportamiento de usuarios.",
+              "answer": "DATA"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "El agua cuando tiene tanta sal que no se puede beber.",
+              "answer": "SALOBRE"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Estrella más brillante de la constelación de Escorpio.",
+              "answer": "ANTARES"
+            }
+          }
+        },
+        "vertical_clues": "1-Único país de América cuyo idioma oficial es el neerlandés.\r\n2-Tomar con la mano.\r\n3-El más grande del mundo es el mar Caspio.\r\n4-Crean lazos afectivos. \r\n5-Aumenta el valor o la estimación de algo.\r\n6-Tierra en la que ha nacido una persona.\r\n7-Recaudará, reunirá el dinero.\r\n8-Hacienda, conjunto de rentas.\r\n9-Andar hacia atrás, retroceder.\r\n10-Destapé, por ejemplo un melón.\r\n11-Según la física cuántica, esto no existe.\r\n12-Acometes repentinamente y por sorpresa.\r\n15-La mía, ya la ensalivé.\r\n23-Promesas de pago.\r\n24-Apariencia externa. \r\n26-Pasad un líquido por una manga.\r\n27-Invalidé, suspendí.\r\n28-Ejecutar un instrumento musical.\r\n30-Un trabajo muy español.\r\n31-Mes en el que fallecieron, Cervantes, Shakespeare e Inca Garcilaso.\r\n32-El ojito derecho de la abuela.\r\n34-Vehículo para desplazarse sobre hielo. \r\n38-Expreses los datos por medio de tablas.\r\n40-Método de preservación de los alimentos con sal.\r\n41-Grupos de once.\r\n43-Partir en un barco.\r\n46-El primer caso directo de Freud como psicoanalista.\r\n47-Persona que vende ajos.\r\n49-Una tipa fuerte, sin delicadeza.\r\n50-Empresa alemana de automóviles fundada en 1862.\r\n51-Con buena salud, el chico.\r\n53-Inclinada, que tiene tendencia a algo.\r\n54-Cocinar con Sara.\r\n55-\"... Modern\", museo londinense.",
+        "horizontal_clues": "1-\"Chocan esos cinco\" se...\r\n7-Próxima. \r\n13-Utilizan, emplean.\r\n14-La V del IVA.\r\n16-Te trasladabas.\r\n17-Dirige, gobierna, manda.\r\n18-Amárrala.\r\n19-\"... Turán\", excentrocampo del Galatasaray S.\r\n20-\"... Man\" el hombre de hierro.\r\n21-Pasar la lengua por la superficie de algo.\r\n22-Moneda de Arabia Saudí.\r\n23-Lo es la Ertzaintza o los Mozos de Escuadra.\r\n25-Atacar no. Hay que aprender a seguir las normas.\r\n29-Región italiana donde se ubica Florencia.\r\n33-Práctica conyugal que admite una sola pareja.\r\n35-Monte de Venus.\r\n36-Personaje de Disney que se transforma en un monstruito marino.\r\n37-Me equivoqué.\r\n38-Devastar un bosque.\r\n39-Copiado fielmente de un texto original. \r\n42-Doy sabor a los alimentos.\r\n44-Isla con una laguna interior que comunica con el mar.\r\n45-Típico aroma de incienso.\r\n48-Bóvidos salvajes muy parecidos a los toros.\r\n52-Vino español de fina calidad. \r\n53-Fecha en inglés.\r\n56-La herramienta de Sherlock Holmes.\r\n57-El ratoncito de los dientes.\r\n58-Cocinan algo de las ancas.\r\n59-Que le den al Paraíso, dijo Eva.\r\n60-Álvaro sacó 50 porque es muy tacaño.\r\n61-\"Big ...\" inmenso conjunto de datos para analizar el comportamiento de usuarios.\r\n62-El agua cuando tiene tanta sal que no se puede beber.\r\n63-Estrella más brillante de la constelación de Escorpio.",
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,15,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n#,#,#,#,23,#,#,#,#,#,24,#,#,#,#\r\n25,26,27,28,#,#,#,#,29,#,#,30,31,32,#\r\n33,#,#,#,#,#,34,#,#,#,35,#,#,#,#\r\n#,36,#,#,#,#,#,#,#,#,37,#,#,#,#\r\n38,#,#,#,#,#,39,#,#,40,#,#,#,#,41\r\n42,#,#,#,#,43,#,#,#,44,#,#,#,#,#\r\n#,#,#,#,45,#,#,46,47,#,#,#,#,#,#\r\n48,49,50,51,#,52,#,#,#,#,#,53,54,55,#\r\n56,#,#,#,#,57,#,#,#,#,#,58,#,#,#\r\n59,#,#,#,#,60,#,#,#,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

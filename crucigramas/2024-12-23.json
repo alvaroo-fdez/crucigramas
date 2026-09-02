@@ -1,0 +1,573 @@
+{
+  "data": {
+    "id": 1469,
+    "type": null,
+    "attributes": {
+      "author": "Elro / Ed. Naty Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-19T10:44:25.053042Z",
+      "updatedAt": "2024-12-19T16:41:09.834449Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Elro / Ed. Naty Sanoja",
+      "theme": "Amistad perdida",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-23",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/png;name=crucigrama-xmasV2%402x.png;base64,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"
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EXPRESIONFACIL#\r\nLE#OCAL##IREMOS\r\nANOCHE#OBSESIVO\r\nBOBAATOMICA#TEL\r\nO#R##AGITA#AERO\r\nRIADAS#T#LAS###\r\nARROZ#MAMIBEACH\r\nBIOLOGA#MAESTRO\r\nASNATURAL#TARAR\r\n###JOE#T#CONOCI\r\nRAVE#PAILA##N#Z\r\nICE#PARCARDIACO\r\nSENSORIO#EMANAN\r\nAROUND##OCAS#RT\r\n#AMIGOINVISIBLE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hacía, producía",
+              "answer": "ELABORABA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "La fobia cuando es con extranjeros",
+              "answer": "XENO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "No se entera de nada; vive bajo una…",
+              "answer": "ROCA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Lo pone de patitas en la calle, lo…",
+              "answer": "ECHA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Flechas que indican el norte en una brújula",
+              "answer": "SAETAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "De Chile se va un revolucionario",
+              "answer": "IL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Oficina de investigadores criminales públicos",
+              "answer": "FISCALIA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sitio, ámbito",
+              "answer": "AREA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Consonantes cuyos cuerpos cuentan con círculos casi cerrados",
+              "answer": "CES"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pretendí ser alguien más",
+              "answer": "IMITE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Álbum de Taylor Swift que se asocia con el rosa",
+              "answer": "LOVER"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Momento de lucirse para un músico",
+              "answer": "SOLO"
+            },
+            "17": {
+              "col": 2,
+              "row": 2,
+              "clue": "Procedieron, actuaron",
+              "answer": "OBRARON"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "No haga mención al respecto",
+              "answer": "OMITA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Unidad mínima de información digital",
+              "answer": "BIT"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Acrónimo usado por raperos para demostrar su \"legitimidad\"",
+              "answer": "OG"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Ayudan a alguien a adquirir cordura",
+              "answer": "ASESAN"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "¡Siri! Levántate y mira mi ojo",
+              "answer": "IRIS"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Vino absorbido por las duelas de una cuba",
+              "answer": "DOLAJE"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Lo que jamás hago a los renos, dice Santa",
+              "answer": "AZOTO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "El árbol de Navidad (si es que da el presupuesto)",
+              "answer": "ABETO"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Estaba serena, la fueron a Balear y todo quedó Rojo",
+              "answer": "MAR"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "2050 romanos en el Museo de la Mística Latina",
+              "answer": "MML"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Aturden cual trueno",
+              "answer": "ATRONAN"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Escucho cómo se parte la rama del arbolito",
+              "answer": "CRAC"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Frontera en la que coquetean el cielo y la tierra",
+              "answer": "HORIZONTE"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Fiera terrestre más veloz",
+              "answer": "GUEPARDO"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Hay un coatí revoltoso en el cuarto de arriba",
+              "answer": "ATICO"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Me faltó, no tuve",
+              "answer": "CARECI"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"¡Jo, jo, jo!\" es la de Santa",
+              "answer": "RISA"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Sitio común para pintar una rayuela",
+              "answer": "ACERA"
+            },
+            "47": {
+              "col": 2,
+              "row": 10,
+              "clue": "Simbionte de Marvel que se unió a Tom Hardy por una trilogía",
+              "answer": "VENOM"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Ariana Grande empezó como Ariel Rot",
+              "answer": "ARI"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Vecina del sol y del sí",
+              "answer": "LA"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Icónico videojuego que recuerda al tenis de mesa",
+              "answer": "PONG"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "La segunda salida de las damas",
+              "answer": "DMAS"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Ni así sacan la cabeza de la vieja capital de Moldavia",
+              "answer": "IASI"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"… Sagan\" Astrónomo estadounidense",
+              "answer": "CARL"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"… géneris\" único en su tipo",
+              "answer": "SUI"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Al agotarse el molotov",
+              "answer": "OV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Característica útil para un actor que improvisa (2p)·",
+              "answer": "EXPRESIONFACIL"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fin del baile",
+              "answer": "LE"
+            },
+            "13": {
+              "col": 3,
+              "row": 1,
+              "clue": "Muy gustosa, como una manzana o pera",
+              "answer": "OCAL"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Allí estaremos",
+              "answer": "IREMOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ayer, después de que se pusiese el sol",
+              "answer": "ANOCHE"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Experto en no dejar de darle vueltas al asunto",
+              "answer": "OBSESIVO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Señora tan tonta que se encogió a sí misma (2p)·",
+              "answer": "BOBAATOMICA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Teléfono compacto",
+              "answer": "TEL"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Zarandea de un lado a otro",
+              "answer": "AGITA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Al frente de la nave, al inicio del puerto",
+              "answer": "AERO"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Inundaciones, crecidas",
+              "answer": "RIADAS"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Artículo que tumbó la sal",
+              "answer": "LAS"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Granos que un adolescente no teme tener en la boca",
+              "answer": "ARROZ"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Destino turístico para las que acaban de parir (2p)·",
+              "answer": "MAMIBEACH"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Estudiosa de las cabras, cebras y cobras",
+              "answer": "BIOLOGA"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Mentor en un aula",
+              "answer": "MAESTRO"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Carta que uno se puede encontrar en el bosque (2p)·",
+              "answer": "ASNATURAL"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "Resetear el peso en una balanza",
+              "answer": "TARAR"
+            },
+            "43": {
+              "col": 3,
+              "row": 9,
+              "clue": "Presidente estadounidense entre Donald y Donald",
+              "answer": "JOE"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Vi cara a cara",
+              "answer": "CONOCI"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "¡Verá qué delirio de fiesta electrónica!",
+              "answer": "RAVE"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Gran vasija de metal",
+              "answer": "PAILA"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… … Baby\" cantaba el rapero Vanilla…",
+              "answer": "ICE"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Ventrículo derecho e izquierdo, por ejemplo (2p)·",
+              "answer": "PARCARDIACO"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Relativo al tacto, gusto, olfato y así",
+              "answer": "SENSORIO"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "Desprenden de sí mismos",
+              "answer": "EMANAN"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… the World\", frase repetida 144 veces en una canción de Daft Punk",
+              "answer": "AROUND"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Aves en un saco caótico",
+              "answer": "OCAS"
+            },
+            "61": {
+              "col": 13,
+              "row": 13,
+              "clue": "Botón para compartir reflexiones transcendentales en X",
+              "answer": "RT"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Juego navideño de adivinar… O lo que podría decirse de las letras removidas de las palabras azules·",
+              "answer": "AMIGOINVISIBLE"
+            }
+          }
+        },
+        "vertical_clues": "1-Hacía, producía \r\n2-La fobia cuando es con extranjeros \r\n3-No se entera de nada; vive bajo una…\r\n4-Lo pone de patitas en la calle, lo…\r\n5-Flechas que indican el norte en una brújula \r\n6-De Chile se va un revolucionario \r\n7-Oficina de investigadores criminales públicos \r\n8-Sitio, ámbito \r\n9-Consonantes cuyos cuerpos cuentan con círculos casi cerrados \r\n10-Pretendí ser alguien más \r\n11-Álbum de Taylor Swift que se asocia con el rosa \r\n15-Momento de lucirse para un músico \r\n17-Procedieron, actuaron \r\n18-No haga mención al respecto \r\n19-Unidad mínima de información digital \r\n21-Acrónimo usado por raperos para demostrar su \"legitimidad\" \r\n24-Ayudan a alguien a adquirir cordura \r\n26-¡Siri! Levántate y mira mi ojo \r\n27-Vino absorbido por las duelas de una cuba \r\n28-Lo que jamás hago a los renos, dice Santa \r\n30-El árbol de Navidad (si es que da el presupuesto) \r\n32-Estaba serena, la fueron a Balear y todo quedó Rojo \r\n33-2050 romanos en el Museo de la Mística Latina \r\n34-Aturden cual trueno \r\n35-Escucho cómo se parte la rama del arbolito \r\n36-Frontera en la que coquetean el cielo y la tierra \r\n38-Fiera terrestre más veloz \r\n41-Hay un coatí revoltoso en el cuarto de arriba \r\n44-Me faltó, no tuve \r\n45-\"¡Jo, jo, jo!\" es la de Santa \r\n46-Sitio común para pintar una rayuela \r\n47-Simbionte de Marvel que se unió a Tom Hardy por una trilogía \r\n49-Ariana Grande empezó como Ariel Rot \r\n50-Vecina del sol y del sí \r\n52-Icónico videojuego que recuerda al tenis de mesa \r\n53-La segunda salida de las damas \r\n54-Ni así sacan la cabeza de la vieja capital de Moldavia \r\n55-\"… Sagan\" Astrónomo estadounidense \r\n57-\"… géneris\" único en su tipo \r\n60-Al agotarse el molotov",
+        "horizontal_clues": "1-Característica útil para un actor que improvisa (2p)·\r\n12-Fin del baile \r\n13-Muy gustosa, como una manzana o pera \r\n14-Allí estaremos \r\n16-Ayer, después de que se pusiese el sol \r\n18-Experto en no dejar de darle vueltas al asunto \r\n20-Señora tan tonta que se encogió a sí misma (2p)·\r\n22-Teléfono compacto \r\n23-Zarandea de un lado a otro \r\n24-Al frente de la nave, al inicio del puerto \r\n25-Inundaciones, crecidas \r\n29-Artículo que tumbó la sal \r\n31-Granos que un adolescente no teme tener en la boca \r\n32-Destino turístico para las que acaban de parir (2p)·\r\n37-Estudiosa de las cabras, cebras y cobras \r\n39-Mentor en un aula \r\n40-Carta que uno se puede encontrar en el bosque (2p)·\r\n42-Resetear el peso en una balanza \r\n43-Presidente estadounidense entre Donald y Donald \r\n44-Vi cara a cara \r\n45-¡Verá qué delirio de fiesta electrónica! \r\n48-Gran vasija de metal \r\n51-\"… … Baby\" cantaba el rapero Vanilla…\r\n52-Ventrículo derecho e izquierdo, por ejemplo (2p)·\r\n56-Relativo al tacto, gusto, olfato y así \r\n58-Desprenden de sí mismos \r\n59-\"… the World\", frase repetida 144 veces en una canción de Daft Punk \r\n60-Aves en un saco caótico \r\n61-Botón para compartir reflexiones transcendentales en X \r\n62-Juego navideño de adivinar… O lo que podría decirse de las letras removidas de las palabras azules·",
+        "highlighted_cells": [
+          {
+            "col": "14",
+            "row": "1"
+          },
+          {
+            "col": "13",
+            "row": "1"
+          },
+          {
+            "col": "12",
+            "row": "1"
+          },
+          {
+            "col": "11",
+            "row": "1"
+          },
+          {
+            "col": "10",
+            "row": "1"
+          },
+          {
+            "col": "1",
+            "row": "4"
+          },
+          {
+            "col": "2",
+            "row": "4"
+          },
+          {
+            "col": "3",
+            "row": "4"
+          },
+          {
+            "col": "4",
+            "row": "4"
+          },
+          {
+            "col": "7",
+            "row": "7"
+          },
+          {
+            "col": "8",
+            "row": "7"
+          },
+          {
+            "col": "9",
+            "row": "7"
+          },
+          {
+            "col": "10",
+            "row": "7"
+          },
+          {
+            "col": "1",
+            "row": "9"
+          },
+          {
+            "col": "2",
+            "row": "9"
+          },
+          {
+            "col": "5",
+            "row": "12"
+          },
+          {
+            "col": "6",
+            "row": "12"
+          },
+          {
+            "col": "7",
+            "row": "12"
+          },
+          {
+            "col": "2",
+            "row": "15"
+          },
+          {
+            "col": "3",
+            "row": "15"
+          },
+          {
+            "col": "4",
+            "row": "15"
+          },
+          {
+            "col": "5",
+            "row": "15"
+          },
+          {
+            "col": "6",
+            "row": "15"
+          }
+        ],
+        "board_clues_positions": "1,2,#,3,4,5,6,#,#,7,8,9,10,11,#\r\n12,#,#,13,#,#,#,#,#,14,#,#,#,#,15\r\n16,#,17,#,#,#,#,18,19,#,#,#,#,#,#\r\n20,#,#,#,#,#,21,#,#,#,#,#,22,#,#\r\n#,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,26,#,27,28,#,#,#,#,29,30,#,#,#,#\r\n31,#,#,#,#,#,32,#,33,#,#,#,34,35,36\r\n37,#,#,#,#,38,#,#,39,#,#,#,#,#,#\r\n40,#,#,#,#,#,#,41,#,#,42,#,#,#,#\r\n#,#,#,43,#,#,#,#,#,44,#,#,#,#,#\r\n45,46,47,#,#,48,49,#,50,#,#,#,#,#,#\r\n51,#,#,#,52,#,#,#,#,#,53,54,#,55,#\r\n56,#,#,57,#,#,#,#,#,58,#,#,#,#,#\r\n59,#,#,#,#,#,#,#,60,#,#,#,#,61,#\r\n#,62,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

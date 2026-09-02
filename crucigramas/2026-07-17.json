@@ -1,0 +1,529 @@
+{
+  "data": {
+    "id": 6717,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-16T10:18:54.903649Z",
+      "updatedAt": "2026-07-16T10:19:52.243843Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CAZO#MANET#SEGA\r\nACABADO#MINIMUM\r\nSUPE#TRAPO#GILA\r\nAÑADA#TAL#PISAD\r\nCATEDRA#ETOLOGO\r\nA#ACHIS#AUNAR#S\r\n#N#IOS#Y#TGR#T#\r\nLAR#CAMAFEO#JOE\r\nITEM#SACRE#TECA\r\nBAZAR#LEU#ARTES\r\nE#ALEJA#FURIA#T\r\nRV#DIDYERIDU#MW\r\nTAPIR#ONU#IMPIO\r\nAGOTAD#Y#TOPICO\r\nDADO#STAFF#HEAD",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Colombia Frac",
+              "answer": "CASACA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Troquela una moneda",
+              "answer": "ACUÑA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Freno de una bicicleta",
+              "answer": "ZAPATA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Hice caso",
+              "answer": "OBEDECI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Música, Danza y Teatro",
+              "answer": "MDT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Principal arteria del cuerpo (pl)",
+              "answer": "AORTAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Contrata, ocupa a alguien en puesto de trabajo",
+              "answer": "EMPLEA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hermano de su padre o madre",
+              "answer": "TIO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Sellar, signar, timbrar",
+              "answer": "SIGILAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Persona que enuncia el mensaje en un acto de comunicación",
+              "answer": "EMISOR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Campo de concentración de la antigua Unión Soviética",
+              "answer": "GULAG"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Queridos, estimados",
+              "answer": "AMADOS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Voz latina que significa \"para este propósito\" o \"para esto\"",
+              "answer": "ADHOC"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Nombre del perro de 101 Dálmatas",
+              "answer": "PONGO"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo que sobra en un monólogo de Dani Rovira",
+              "answer": "RISAS"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Hable a alguien empleando el pronombre de segunda persona",
+              "answer": "TUTEE"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Montada, es deliciosa",
+              "answer": "NATA"
+            },
+            "31": {
+              "col": 7,
+              "row": 6,
+              "clue": "Se encuentra acostado",
+              "answer": "YACE"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Porfía neciamente",
+              "answer": "TOCE"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Estatua de la…\" regalo del pueblo francés al pueblo estadounidense en 1886",
+              "answer": "LIBERTAD"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Ora, ruega",
+              "answer": "REZA"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Pueblo austronesio de Borneo, Sumatra y Malaca",
+              "answer": "MALAYO"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "El sonido del roce de la tela",
+              "answer": "FRUFRU"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Coloquial: Boca, hocico",
+              "answer": "JETA"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "\"Clint…\" Óscar como Mejor Director por Million Dollar Baby (2004)",
+              "answer": "EASTWOOD"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Condenado por un hechizo",
+              "answer": "MALDITO"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Buenas motos, buenos sujetadores",
+              "answer": "TRIUMPH"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Celebrará con risa",
+              "answer": "REIRA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Se quemó en las pailas del infierno",
+              "answer": "ARDIO"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Iniciales de científico que descubrió el Daltonismo",
+              "answer": "JD"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Las débiles",
+              "answer": "UI"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Holgazana y perezosa",
+              "answer": "VAGA"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Irlandesa que compuso 'May It Be' la canción del Señor de los Anillos",
+              "answer": "ENYA"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Mineral compuesto de hojuelas brillantes",
+              "answer": "MICA"
+            },
+            "59": {
+              "col": 2,
+              "row": 12,
+              "clue": "Podría ponerlo sin gracia",
+              "answer": "POD"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"American…\" icónica canción estadounidense de Don McLean",
+              "answer": "PIE"
+            },
+            "64": {
+              "col": 5,
+              "row": 13,
+              "clue": "Consola más vendida de Nintendo",
+              "answer": "DS"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Travis Fimmel (Ragnar en Vikingos)",
+              "answer": "TF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Persigo, acecho, atrapo",
+              "answer": "CAZO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Teman la mezcla de este pintor francés",
+              "answer": "MANET"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "La casa de Sonic era una consola",
+              "answer": "SEGA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ha terminado destruido",
+              "answer": "ACABADO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Es lo mínimo de un inglés",
+              "answer": "MINIMUM"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Estuve al corriente, me enteré",
+              "answer": "SUPE"
+            },
+            "16": {
+              "col": 5,
+              "row": 2,
+              "clue": "Parto con la tropa que porta el pedazo de tela viejo",
+              "answer": "TRAPO"
+            },
+            "18": {
+              "col": 11,
+              "row": 2,
+              "clue": "Gran Desierto, también llamado Sonora, entre EEUU y México",
+              "answer": "GILA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Agregue para que no parezca dañada",
+              "answer": "AÑADA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Adj dem aplicado a las cosas indefinidamente",
+              "answer": "TAL"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Oprimid a los caídos",
+              "answer": "PISAD"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Redacta mal toda la asignatura",
+              "answer": "CATEDRA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Hombre que estudia el comportamiento de los animales",
+              "answer": "ETOLOGO"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "¿Escuché un estornudo?",
+              "answer": "ACHIS"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Poner juntas varias cosas",
+              "answer": "AUNAR"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Isla griega",
+              "answer": "IOS"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "La capital de Tailandia, Grecia y Rumanía",
+              "answer": "TGR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Grecia Antigua: Cada uno de los dioses del hogar",
+              "answer": "LAR"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Piedra preciosa con figura tallada en relieve",
+              "answer": "CAMAFEO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "\"GI…\", muñecos militares enfocados a los niños",
+              "answer": "JOE"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Parte de un test",
+              "answer": "ITEM"
+            },
+            "43": {
+              "col": 5,
+              "row": 8,
+              "clue": "El sagrado francés",
+              "answer": "SACRE"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Madera muy resistente, ideal para muebles de jardín",
+              "answer": "TECA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Mercado público o lugar destinado al comercio",
+              "answer": "BAZAR"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Moneda oficial de Rumania",
+              "answer": "LEU"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"La Ciudad de las… y las Ciencias\" complejo arquitectónico de Valencia",
+              "answer": "ARTES"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Distancia, aparta",
+              "answer": "ALEJA"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"… Nocturna\" raza de dragón a la que pertenece Desdentado (Chimuelo)",
+              "answer": "FURIA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "En cuadros de Remedios Varo",
+              "answer": "RV"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Aerófono ancestral australiano",
+              "answer": "DIDYERIDU"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Inic Actriz que interpreta a Arya Stark en GOT",
+              "answer": "MW"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Danta, pariente lejano del rinoceronte",
+              "answer": "TAPIR"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Organización a cargo de los ODS",
+              "answer": "ONU"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Falto de piedad",
+              "answer": "IMPIO"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Terminad con la existencia de un producto",
+              "answer": "AGOTAD"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "El punto a tratar es: El medicamento de uso externo y local",
+              "answer": "TOPICO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Cubo de la suerte",
+              "answer": "DADO"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Personal capacitado de una empresa (voz inglesa)",
+              "answer": "STAFF"
+            },
+            "68": {
+              "col": 11,
+              "row": 14,
+              "clue": "La cabeza de un inglés",
+              "answer": "HEAD"
+            }
+          }
+        },
+        "vertical_clues": "1-Colombia Frac\r\n2-Troquela una moneda\r\n3-Freno de una bicicleta\r\n4-Hice caso\r\n5-Música, Danza y Teatro\r\n6-Principal arteria del cuerpo (pl)\r\n7-Contrata, ocupa a alguien en puesto de trabajo\r\n8-Hermano de su padre o madre\r\n9-Sellar, signar, timbrar\r\n10-Persona que enuncia el mensaje en un acto de comunicación\r\n11-Campo de concentración de la antigua Unión Soviética\r\n12-Queridos, estimados\r\n17-Alcohólicos Anónimos\r\n20-Voz latina que significa \"para este propósito\" o \"para esto\"\r\n22-Nombre del perro de 101 Dálmatas\r\n24-Lo que sobra en un monólogo de Dani Rovira\r\n26-Hable a alguien empleando el pronombre de segunda persona\r\n29-Montada, es deliciosa\r\n31-Se encuentra acostado\r\n33-Porfía neciamente\r\n34-\"Estatua de la…\" regalo del pueblo francés al pueblo estadounidense en 1886\r\n35-Ora, ruega\r\n37-Pueblo austronesio de Borneo, Sumatra y Malaca\r\n38-El sonido del roce de la tela\r\n39-Coloquial: Boca, hocico\r\n40-\"Clint…\" Óscar como Mejor Director por Million Dollar Baby (2004) \r\n42-Condenado por un hechizo \r\n44-Buenas motos, buenos sujetadores\r\n46-Celebrará con risa\r\n48-Se quemó en las pailas del infierno\r\n50-Iniciales de científico que descubrió el Daltonismo\r\n52-Las débiles\r\n54-Holgazana y perezosa\r\n56-Irlandesa que compuso 'May It Be' la canción del Señor de los Anillos\r\n57-Mineral compuesto de hojuelas brillantes\r\n59-Podría ponerlo sin gracia\r\n62-\"American…\" icónica canción estadounidense de Don McLean\r\n64-Consola más vendida de Nintendo\r\n65-Travis Fimmel (Ragnar en Vikingos)",
+        "horizontal_clues": "1-Persigo, acecho, atrapo\r\n5-Teman la mezcla de este pintor francés\r\n9-La casa de Sonic era una consola\r\n13-Ha terminado destruido\r\n14-Es lo mínimo de un inglés\r\n15-Estuve al corriente, me enteré\r\n16-Parto con la tropa que porta el pedazo de tela viejo\r\n18-Gran Desierto, también llamado Sonora, entre EEUU y México\r\n19-Agregue para que no parezca dañada\r\n21-Adj dem aplicado a las cosas indefinidamente\r\n22-Oprimid a los caídos\r\n23-Redacta mal toda la asignatura\r\n25-Hombre que estudia el comportamiento de los animales\r\n27-¿Escuché un estornudo? \r\n28-Poner juntas varias cosas\r\n30-Isla griega\r\n32-La capital de Tailandia, Grecia y Rumanía\r\n34-Grecia Antigua: Cada uno de los dioses del hogar\r\n36-Piedra preciosa con figura tallada en relieve\r\n39-\"GI…\", muñecos militares enfocados a los niños\r\n41-Parte de un test\r\n43-El sagrado francés\r\n44-Madera muy resistente, ideal para muebles de jardín\r\n45-Mercado público o lugar destinado al comercio\r\n47-Moneda oficial de Rumania\r\n48-\"La Ciudad de las… y las Ciencias\" complejo arquitectónico de Valencia\r\n49-Distancia, aparta\r\n51-\"… Nocturna\" raza de dragón a la que pertenece Desdentado (Chimuelo)\r\n53-En cuadros de Remedios Varo\r\n55-Aerófono ancestral australiano\r\n57-Inic Actriz que interpreta a Arya Stark en GOT\r\n58-Danta, pariente lejano del rinoceronte\r\n60-Organización a cargo de los ODS\r\n61-Falto de piedad\r\n63-Terminad con la existencia de un producto\r\n65-El punto a tratar es: El medicamento de uso externo y local\r\n66-Cubo de la suerte\r\n67-Personal capacitado de una empresa (voz inglesa)\r\n68-La cabeza de un inglés",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,#\r\n15,#,#,#,#,16,#,17,#,#,#,18,#,#,#\r\n19,#,#,#,20,#,21,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,25,26,#,#,#,#,#\r\n#,#,27,#,#,#,#,#,28,#,#,#,#,#,#\r\n#,29,#,30,#,#,#,31,#,32,#,#,#,33,#\r\n34,#,35,#,36,#,37,#,38,#,#,#,39,#,40\r\n41,#,#,42,#,43,#,#,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,47,#,#,#,48,#,#,#,#\r\n#,#,49,#,#,50,#,#,51,52,#,#,#,#,#\r\n53,54,#,55,#,#,#,56,#,#,#,#,#,57,#\r\n58,#,59,#,#,#,60,#,#,#,61,#,62,#,#\r\n63,#,#,#,#,64,#,#,#,65,#,#,#,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,68,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

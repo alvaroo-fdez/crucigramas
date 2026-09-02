@@ -1,0 +1,455 @@
+{
+  "data": {
+    "id": 5086,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-21T22:24:59.364035Z",
+      "updatedAt": "2026-03-21T22:24:59.423626Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-24",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AGOTAN##CASCARA\r\nROTOS##GALEONES\r\nOTERO#DESENLACE\r\nLEEN#SOLITO#LES\r\nDONA#IRINA#PILI\r\nO##SONADO#PEZON\r\n##KOMODO#PAYASA\r\n#PALIDO#DECORO#\r\nREMATO#TOCARA##\r\nERADA#REPOSA##T\r\nPISA#JAMAS#TABO\r\nLAU#TUPIDO#IMAX\r\nINTRIGADO#EVADI\r\nCARENADO##TOSEN\r\nALABADO##INSANA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Parece que Arnoldo va a ver esta ópera de Verdi",
+              "answer": "AROLDO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sistema de riego por el cual el agua cae gota a gota",
+              "answer": "GOTEO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Observen desde un lugar alto",
+              "answer": "OTEEN"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que produce cambios, visos o reflejos luminosos (fem)",
+              "answer": "TORNASOLADA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cocino al fuego",
+              "answer": "ASO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Casi no juego en estos establecimientos de azar",
+              "answer": "CASINO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Palíndromo \"Ate la…\"",
+              "answer": "ALETA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Aquí debes sacar el pecho",
+              "answer": "SENO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Planta hortense, repollo",
+              "answer": "COL"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Indagará, profundizará",
+              "answer": "ANALIZARA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Incrédulo, escéptico",
+              "answer": "RECELOSO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "La tratase sin absolución, por homicida",
+              "answer": "ASESINA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Le Digo que se junten y se organicen, pero él es muy frío",
+              "answer": "GELIDO"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"Templo…\",  templo sij ubicado en la India",
+              "answer": "DORADO"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Concilio de los obispos",
+              "answer": "SINODO"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Que expresan desprecio o desdén",
+              "answer": "PEYORATIVOS"
+            },
+            "24": {
+              "col": 4,
+              "row": 5,
+              "clue": "Pase por alto, ignore",
+              "answer": "OMITA"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Fardo o lío (pl)",
+              "answer": "PACAS"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Antiguo libro hindú sobre el comportamiento sexual",
+              "answer": "KAMASUTRA"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Con pequeñas manchas en la piel (masc)",
+              "answer": "PECOSO"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "¿Pero Ana, aquí todo gira alrededor del ano?",
+              "answer": "PERIANAL"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Que ha consumido sustancias prohibidas",
+              "answer": "DOPADO"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Copia exacta",
+              "answer": "REPLICA"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "He tenido miedo, y me he metido en líos",
+              "answer": "TEMIDO"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Sin cabello y no por calvo",
+              "answer": "RAPADO"
+            },
+            "34": {
+              "col": 14,
+              "row": 9,
+              "clue": "Sustancia venenosa",
+              "answer": "TOXINA"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "Usad la Play",
+              "answer": "JUGAD"
+            },
+            "38": {
+              "col": 12,
+              "row": 10,
+              "clue": "Prepara la masa",
+              "answer": "AMASA"
+            },
+            "39": {
+              "col": 13,
+              "row": 10,
+              "clue": "Bache en una carretera",
+              "answer": "BADEN"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Pila que sirve para bañarse",
+              "answer": "TINA"
+            },
+            "44": {
+              "col": 3,
+              "row": 12,
+              "clue": "El 50% de la rebaja",
+              "answer": "REB"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Exchange Trade Note (siglas)",
+              "answer": "ETN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hago tantos partidos que ustedes se cansan",
+              "answer": "AGOTAN"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Empaque orgánico",
+              "answer": "CASCARA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "“Huevos…”, con puntilla, y las patatas se mojan en la yema",
+              "answer": "ROTOS"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Bajeles grandes de vela, parecidos a las galeras",
+              "answer": "GALEONES"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Cerro aislado que domina un llano",
+              "answer": "OTERO"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Des en la cena todo junto para el final",
+              "answer": "DESENLACE"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Procesan información escrita con la vista",
+              "answer": "LEEN"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Acostumbrado, que se suele hacer ordinariamente",
+              "answer": "SOLITO"
+            },
+            "19": {
+              "col": 12,
+              "row": 3,
+              "clue": "Pronombre personal dativo de 3ª persona plural",
+              "answer": "LES"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Una mujer catalana",
+              "answer": "DONA"
+            },
+            "21": {
+              "col": 5,
+              "row": 4,
+              "clue": "Shayk, la modelo rusa",
+              "answer": "IRINA"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Mi pequeña Pilar",
+              "answer": "PILI"
+            },
+            "23": {
+              "col": 3,
+              "row": 5,
+              "clue": "Ha hecho ruido, ha…",
+              "answer": "SONADO"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Parte central del seno",
+              "answer": "PEZON"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"Dragón de…\" el lagarto de mayor tamaño del mundo",
+              "answer": "KOMODO"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Artista de circo que hace de graciosa, con traje y gestos apropiados",
+              "answer": "PAYASA"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "Falto de definición, expresividad o viveza",
+              "answer": "PALIDO"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Honra, pundonor, estimación",
+              "answer": "DECORO"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Fút Volvió a chutar en el área",
+              "answer": "REMATO"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "Golpeará el tambor y lo hará repicar",
+              "answer": "TOCARA"
+            },
+            "32": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tierra dividida en eras",
+              "answer": "ERADA"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Descansa y haz un repaso a las óperas",
+              "answer": "REPOSA"
+            },
+            "35": {
+              "col": 0,
+              "row": 10,
+              "clue": "La torre inclinada de…",
+              "answer": "PISA"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"El País del Nunca…\" el de Peter Pan",
+              "answer": "JAMAS"
+            },
+            "37": {
+              "col": 11,
+              "row": 10,
+              "clue": "Vasija filipina hecha con la del coco",
+              "answer": "TABO"
+            },
+            "40": {
+              "col": 0,
+              "row": 11,
+              "clue": "A Lautaro le encanta este archipiélago de Fiyi",
+              "answer": "LAU"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Que tiene sus elementos muy juntos o apretados",
+              "answer": "TUPIDO"
+            },
+            "42": {
+              "col": 11,
+              "row": 11,
+              "clue": "Cúpula de proyección en 3D, como el Hemisfèric en Valencia",
+              "answer": "IMAX"
+            },
+            "43": {
+              "col": 0,
+              "row": 12,
+              "clue": "Curioso, interesado por el resultado",
+              "answer": "INTRIGADO"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "No quise hablar del tema",
+              "answer": "EVADI"
+            },
+            "46": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cubierta aerodinámica de una moto",
+              "answer": "CARENADO"
+            },
+            "47": {
+              "col": 10,
+              "row": 13,
+              "clue": "Se ahogan, se atragantan",
+              "answer": "TOSEN"
+            },
+            "48": {
+              "col": 0,
+              "row": 14,
+              "clue": "Adorado con alabanzas",
+              "answer": "ALABADO"
+            },
+            "49": {
+              "col": 9,
+              "row": 14,
+              "clue": "Anaís N tiene una relación confusa y tóxica",
+              "answer": "INSANA"
+            }
+          }
+        },
+        "vertical_clues": "1-Parece que Arnoldo va a ver esta ópera de Verdi\r\n2-Sistema de riego por el cual el agua cae gota a gota\r\n3-Observen desde un lugar alto\r\n4-Que produce cambios, visos o reflejos luminosos (fem)\r\n5-Cocino al fuego\r\n6-Casi no juego en estos establecimientos de azar\r\n7-Palíndromo \"Ate la…\" \r\n8-Aquí debes sacar el pecho\r\n9-Planta hortense, repollo\r\n10-Indagará, profundizará\r\n11-Incrédulo, escéptico\r\n12-La tratase sin absolución, por homicida\r\n14-Le Digo que se junten y se organicen, pero él es muy frío\r\n16-\"Templo…\",  templo sij ubicado en la India\r\n18-Concilio de los obispos\r\n22-Que expresan desprecio o desdén \r\n24-Pase por alto, ignore\r\n25-Fardo o lío (pl)\r\n26-Antiguo libro hindú sobre el comportamiento sexual\r\n27-Con pequeñas manchas en la piel (masc) \r\n28-¿Pero Ana, aquí todo gira alrededor del ano? \r\n29-Que ha consumido sustancias prohibidas \r\n30-Copia exacta\r\n31-He tenido miedo, y me he metido en líos\r\n33-Sin cabello y no por calvo\r\n34-Sustancia venenosa\r\n36-Usad la Play\r\n38-Prepara la masa\r\n39-Bache en una carretera\r\n41-Pila que sirve para bañarse\r\n44-El 50% de la rebaja\r\n45-Exchange Trade Note (siglas)\r\n",
+        "horizontal_clues": "1-Hago tantos partidos que ustedes se cansan\r\n6-Empaque orgánico\r\n13-“Huevos…”, con puntilla, y las patatas se mojan en la yema\r\n14-Bajeles grandes de vela, parecidos a las galeras\r\n15-Cerro aislado que domina un llano\r\n16-Des en la cena todo junto para el final\r\n17-Procesan información escrita con la vista \r\n18-Acostumbrado, que se suele hacer ordinariamente\r\n19-Pronombre personal dativo de 3ª persona plural\r\n20-Una mujer catalana\r\n21-Shayk, la modelo rusa\r\n22-Mi pequeña Pilar\r\n23-Ha hecho ruido, ha…\r\n25-Parte central del seno\r\n26-\"Dragón de…\" el lagarto de mayor tamaño del mundo\r\n27-Artista de circo que hace de graciosa, con traje y gestos apropiados\r\n28-Falto de definición, expresividad o viveza\r\n29-Honra, pundonor, estimación\r\n30-Fút Volvió a chutar en el área\r\n31-Golpeará el tambor y lo hará repicar\r\n32-Tierra dividida en eras\r\n33-Descansa y haz un repaso a las óperas\r\n35-La torre inclinada de…\r\n36-\"El País del Nunca…\" el de Peter Pan\r\n37-Vasija filipina hecha con la del coco\r\n40-A Lautaro le encanta este archipiélago de Fiyi\r\n41-Que tiene sus elementos muy juntos o apretados\r\n42-Cúpula de proyección en 3D, como el Hemisfèric en Valencia\r\n43-Curioso, interesado por el resultado\r\n45-No quise hablar del tema\r\n46-Cubierta aerodinámica de una moto \r\n47-Se ahogan, se atragantan\r\n48-Adorado con alabanzas\r\n49-Anaís N tiene una relación confusa y tóxica\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,#,6,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,16,#,#,#,#,#,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,#,19,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n#,#,#,23,24,#,#,#,#,#,25,#,#,#,#\r\n#,#,26,#,#,#,#,#,#,27,#,#,#,#,#\r\n#,28,#,#,#,#,#,#,29,#,#,#,#,#,#\r\n30,#,#,#,#,#,#,31,#,#,#,#,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,#,#,#,34\r\n35,#,#,#,#,36,#,#,#,#,#,37,38,39,#\r\n40,#,#,#,41,#,#,#,#,#,#,42,#,#,#\r\n43,#,#,44,#,#,#,#,#,#,45,#,#,#,#\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,#,#,#,#,49,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

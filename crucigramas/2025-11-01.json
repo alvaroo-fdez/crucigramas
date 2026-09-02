@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3922,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-31T14:24:21.556603Z",
+      "updatedAt": "2025-10-31T14:33:25.906526Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FELIZ#COCAS#CAC\r\n#MUROS#FRUFRU#O\r\nBASAN#PEES#AMAN\r\nANA#ASARME#RPGS\r\nSOSA#KITANO#LAT\r\nA##L#OSOET#HERA\r\nDESVELA#TABU#R#\r\nOSCAR#####TETES\r\n#P#RATI#AVIVASE\r\nSAPO#ENTRE#OK#C\r\nEÑE#ERMITA#SARA\r\nROLL#ROMINA#NED\r\nBLUE#ERIC#PLAYA\r\nI#CORTADO#SAKE#\r\nOLA#SALAS#ASASE",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Irradio, despido",
+              "answer": "EMANO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Estas son portuguesas",
+              "answer": "LUSAS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Acudirá con rabia",
+              "answer": "IRA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Extensión grande de terreno con forma de banda o franja",
+              "answer": "ZONA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Pongo a la venta el trofeo deteriorado",
+              "answer": "OFERTO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Café valenciano con ron, azúcar y corteza de limón",
+              "answer": "CREMAET"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Parece atenta, pero por momentos se abstrae",
+              "answer": "AUSENTA"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo que tienen en común Sigmund Freud y Swan Fyahbwoy",
+              "answer": "SF"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Hace honor a su promesa",
+              "answer": "CUMPLE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Está compuesto por cantos aleatorios",
+              "answer": "CONSTA"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Qué raro, si el archivo está comprimido",
+              "answer": "RAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un GenZ cuando es auténtico y sin miedo al juicio ajeno",
+              "answer": "BASADO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"Bandeja…\" el plato típico colombiano",
+              "answer": "PAISA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Sujetes las presas",
+              "answer": "AGARRES"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Salud a lo vikingo",
+              "answer": "SKOL"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Lo valora y volará junto a él",
+              "answer": "ALVARO"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Par de alimentos más completos y equilibrados",
+              "answer": "HUEVOS"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Tercera lengua con más usuarios de Internet, después del chino y el inglés",
+              "answer": "ESPAÑOL"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Escandio",
+              "answer": "SC"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Ya no es ese tiempo histórico",
+              "answer": "ERA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Seguidas en obtiene y en subtipo",
+              "answer": "BTI"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "\"Masayoshi…\" guitarrista japonés de jazz fusión y city pop",
+              "answer": "TAKANAKA"
+            },
+            "39": {
+              "col": 14,
+              "row": 7,
+              "clue": "Otro día más sin verte Jon…",
+              "answer": "SECADA"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "A Valencia, con todo el cariño y solidaridad",
+              "answer": "TERRETA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Molinar se lio y ahora es un indecente",
+              "answer": "INMORAL"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Zorros que viven en el polo norte",
+              "answer": "ARTICOS"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "Miren esa nave destartalada",
+              "answer": "VEAN"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Gentilicio del baloncestista Nikola Jokić",
+              "answer": "SERBIO"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Se la pone por payaso",
+              "answer": "PELUCA"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Admití que alguna forma era introvertida",
+              "answer": "TIMIDA"
+            },
+            "53": {
+              "col": 13,
+              "row": 10,
+              "clue": "\"Crónica del Asesino de…\" la saga inacabada de Patrick Rothfuss",
+              "answer": "REYES"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"… Fender\" el creador de la Stratocaster",
+              "answer": "LEO"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Está al revés el brazo del molino",
+              "answer": "APSA"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Artículo que tumbó la sal",
+              "answer": "LAS"
+            },
+            "64": {
+              "col": 4,
+              "row": 13,
+              "clue": "Inic del autor de \"El extraño caso del doctor Jekyll y el señor Hyde\"",
+              "answer": "RS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Viniste a ser…, no te distraigas\"",
+              "answer": "FELIZ"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Los bizcochos en Valencia son de llanda",
+              "answer": "COCAS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"… 40\" índice bursátil de Francia",
+              "answer": "CAC"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Paredes de escalada, rocódromos",
+              "answer": "MUROS"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "El sonido del roce de la tela",
+              "answer": "FRUFRU"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Fundamentan, sustentan",
+              "answer": "BASAN"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Sueltes ventosidades",
+              "answer": "PEES"
+            },
+            "18": {
+              "col": 11,
+              "row": 2,
+              "clue": "¿En la capital de Jordania adoran a Maná?",
+              "answer": "AMAN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "La que soñó por un momento que era aire",
+              "answer": "ANA"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Morirme de calor",
+              "answer": "ASARME"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Juegos de rol en mesa y en videojuegos",
+              "answer": "RPGS"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "¿Cómo osas decir que soy insípida?",
+              "answer": "SOSA"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"Takeshi…\" el de 'Humor Amarillo' o 'Zatoichi'",
+              "answer": "KITANO"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "'Living Apart Together' parejas que viven en casas separadas",
+              "answer": "LAT"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Resinoso (inv)",
+              "answer": "OSOET"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Era la madre de todos los dioses griegos",
+              "answer": "HERA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "No duerme y descubre un gran secreto",
+              "answer": "DESVELA"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Prejuicio moral",
+              "answer": "TABU"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "La estatuilla de Tarantino o de Coppola",
+              "answer": "OSCAR"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Mis hermanos del Valencia",
+              "answer": "TETES"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "La diosa hindú, equivalente a Venus o Afrodita",
+              "answer": "RATI"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Diese más intensidad a la llama del amor",
+              "answer": "AVIVASE"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Ojos de…, patas de rana, que tengas suerte el fin de semana\"",
+              "answer": "SAPO"
+            },
+            "47": {
+              "col": 5,
+              "row": 9,
+              "clue": "Pase adelante",
+              "answer": "ENTRE"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "La palabra más utilizada del mundo",
+              "answer": "OK"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una letra con personalidad española",
+              "answer": "EÑE"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Mi Arte se mezcla en la pequeña capilla",
+              "answer": "ERMITA"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Asar con la Montiel, la Carbonero o la Baras",
+              "answer": "SARA"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Este sushi es puro rock and…",
+              "answer": "ROLL"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Al Bano Carrisi y… Power",
+              "answer": "ROMINA"
+            },
+            "58": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"… Stark\" El Señor de Invernalia (GOT)",
+              "answer": "NED"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Un azul yankee",
+              "answer": "BLUE"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "\"… García\" defensor de FC Barcelona",
+              "answer": "ERIC"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Lo es la Malagueta, la Barceloneta o la Malvarrosa",
+              "answer": "PLAYA"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "¡Un…, por favor!, un espresso con un poco de leche",
+              "answer": "CORTADO"
+            },
+            "65": {
+              "col": 10,
+              "row": 13,
+              "clue": "La uva es al vino, lo que el arroz es al…",
+              "answer": "SAKE"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Tatami de un surfista",
+              "answer": "OLA"
+            },
+            "67": {
+              "col": 4,
+              "row": 14,
+              "clue": "\"Paquita…\" la serie española de Los Javis",
+              "answer": "SALAS"
+            },
+            "68": {
+              "col": 10,
+              "row": 14,
+              "clue": "Tostase, abrasase",
+              "answer": "ASASE"
+            }
+          }
+        },
+        "vertical_clues": "2-Irradio, despido\r\n3-Estas son portuguesas \r\n4-Acudirá con rabia\r\n5-Extensión grande de terreno con forma de banda o franja\r\n7-Pongo a la venta el trofeo deteriorado\r\n8-Café valenciano con ron, azúcar y corteza de limón \r\n9-Parece atenta, pero por momentos se abstrae\r\n10-Lo que tienen en común Sigmund Freud y Swan Fyahbwoy\r\n11-Hace honor a su promesa \r\n12-Está compuesto por cantos aleatorios\r\n15-Qué raro, si el archivo está comprimido\r\n16-Un GenZ cuando es auténtico y sin miedo al juicio ajeno\r\n17-\"Bandeja…\" el plato típico colombiano\r\n19-Sujetes las presas\r\n22-Salud a lo vikingo\r\n25-Lo valora y volará junto a él\r\n29-Par de alimentos más completos y equilibrados\r\n31-Tercera lengua con más usuarios de Internet, después del chino y el inglés\r\n32-Escandio\r\n33-Ya no es ese tiempo histórico\r\n35-Seguidas en obtiene y en subtipo\r\n38-\"Masayoshi…\" guitarrista japonés de jazz fusión y city pop\r\n39-Otro día más sin verte Jon…\r\n41-A Valencia, con todo el cariño y solidaridad\r\n42-Molinar se lio y ahora es un indecente\r\n43-Zorros que viven en el polo norte\r\n44-Miren esa nave destartalada \r\n45-Gentilicio del baloncestista Nikola Jokić\r\n46-Se la pone por payaso\r\n48-Admití que alguna forma era introvertida\r\n53-\"Crónica del Asesino de…\" la saga inacabada de Patrick Rothfuss \r\n55-\"… Fender\" el creador de la Stratocaster\r\n57-Está al revés el brazo del molino\r\n62-Artículo que tumbó la sal \r\n64-Inic del autor de \"El extraño caso del doctor Jekyll y el señor Hyde\"",
+        "horizontal_clues": "1-\"Viniste a ser…, no te distraigas\" \r\n6-Los bizcochos en Valencia son de llanda\r\n11-\"… 40\" índice bursátil de Francia\r\n13-Paredes de escalada, rocódromos\r\n14-El sonido del roce de la tela\r\n16-Fundamentan, sustentan\r\n17-Sueltes ventosidades\r\n18-¿En la capital de Jordania adoran a Maná? \r\n20-La que soñó por un momento que era aire\r\n21-Morirme de calor\r\n23-Juegos de rol en mesa y en videojuegos\r\n24-¿Cómo osas decir que soy insípida? \r\n26-\"Takeshi…\" el de 'Humor Amarillo' o 'Zatoichi' \r\n27-'Living Apart Together' parejas que viven en casas separadas\r\n28-Resinoso (inv) \r\n29-Era la madre de todos los dioses griegos\r\n30-No duerme y descubre un gran secreto\r\n34-Prejuicio moral\r\n36-La estatuilla de Tarantino o de Coppola\r\n37-Mis hermanos del Valencia\r\n40-La diosa hindú, equivalente a Venus o Afrodita\r\n43-Diese más intensidad a la llama del amor\r\n45-\"Ojos de…, patas de rana, que tengas suerte el fin de semana\"\r\n47-Pase adelante\r\n49-La palabra más utilizada del mundo\r\n50-Una letra con personalidad española\r\n51-Mi Arte se mezcla en la pequeña capilla \r\n52-Asar con la Montiel, la Carbonero o la Baras\r\n54-Este sushi es puro rock and…\r\n56-Al Bano Carrisi y… Power\r\n58-\"… Stark\" El Señor de Invernalia (GOT)\r\n59-Un azul yankee \r\n60-\"… García\" defensor de FC Barcelona\r\n61-Lo es la Malagueta, la Barceloneta o la Malvarrosa\r\n63-¡Un…, por favor!, un espresso con un poco de leche\r\n65-La uva es al vino, lo que el arroz es al…\r\n66-Tatami de un surfista\r\n67-\"Paquita…\" la serie española de Los Javis\r\n68-Tostase, abrasase",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,10,#,11,#,12\r\n#,13,#,#,#,#,#,14,#,#,#,15,#,#,#\r\n16,#,#,#,#,#,17,#,#,#,#,18,#,19,#\r\n20,#,#,#,21,22,#,#,#,#,#,23,#,#,#\r\n24,#,#,25,#,26,#,#,#,#,#,#,27,#,#\r\n#,#,#,#,#,28,#,#,#,#,#,29,#,#,#\r\n30,31,32,#,33,#,#,#,34,#,35,#,#,#,#\r\n36,#,#,#,#,#,#,#,#,#,37,#,38,#,39\r\n#,#,#,40,#,41,42,#,43,44,#,#,#,#,#\r\n45,#,46,#,#,47,#,48,#,#,#,49,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,#,52,#,53,#\r\n54,#,#,55,#,56,#,#,#,#,57,#,58,#,#\r\n59,#,#,#,#,60,#,#,#,#,61,62,#,#,#\r\n#,#,63,#,64,#,#,#,#,#,65,#,#,#,#\r\n66,#,#,#,67,#,#,#,#,#,68,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

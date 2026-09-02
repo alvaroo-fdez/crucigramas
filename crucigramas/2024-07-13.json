@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 552,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-11T11:09:16.693742Z",
+      "updatedAt": "2024-07-11T11:09:16.693767Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-13",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PECHAR#RASARA#\r\nCOBRADO#ACETICO\r\nHERIR#PAQ#RAVEL\r\nASISTIA#UKELELE\r\nKIOTO#JOE#SARGA\r\nRA#A#VERLA#Y#AJ\r\nASALTO#D#USARSE\r\n##B#OLA#ALE#A##\r\nMECATE#Z#LACTEO\r\nOF#M#ABCDE#H#TB\r\nJIREL#RAE#CABER\r\nEMERITO#HIELERA\r\nTETIS#LSE#RELEI\r\nERECTIL#SURTIAS\r\n#ONAECO#AÑOSOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Versos y rimas.",
+              "answer": "POESIAS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Bebido, borracho.",
+              "answer": "EBRIO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Material frágil y transparente.",
+              "answer": "CRISTAL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cansado de estar repleto de mala comida.",
+              "answer": "HARTO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Anno Domini.",
+              "answer": "AD"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Vestimenta.",
+              "answer": "ROPAJE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "La segunda esposa de Jacob.",
+              "answer": "RAQUEL"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Antes de Cristo.",
+              "answer": "AC"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sujetos palindrómicos.",
+              "answer": "SERES"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Amárrala inmediatamente a la torre de vigilancia aislada.",
+              "answer": "ATALAYA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Fút. \"... Plate vs. Boca Juniors\" el superclásico argentino.",
+              "answer": "RIVER"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Las primas hermanas de las espinacas.",
+              "answer": "ACELGAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Centro energético del cuerpo en filosofías orientales.",
+              "answer": "CHAKRA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Sucesión continuada de olas.",
+              "answer": "OLEAJE"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "¡Mi Lord, usted ha perdido la cabeza!.",
+              "answer": "ORD"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Golpe al aire en tenis antes de que bote la pelota.",
+              "answer": "VOLEA"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Hice como la loba.",
+              "answer": "AULLE"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "Las tres primeras.",
+              "answer": "ABC"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Dios egipcio de la sabiduría.",
+              "answer": "TOT"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "El mar de Inglaterra.",
+              "answer": "SEA"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Espero que esto sea por poco rato.",
+              "answer": "RAT"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Moje, plechana o ensalada murciana.",
+              "answer": "MOJETE"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Pasajero, de corta duración.",
+              "answer": "EFIMERO"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Desde Alaska hasta la Patagonia.",
+              "answer": "AMERICA"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Zee Cine Awards.",
+              "answer": "ZCA"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Viviendas unifamiliares con jardín.",
+              "answer": "CHALETS"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Vagas, sutiles, vaporosas.",
+              "answer": "ETEREAS"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Hacéis, trabajáis.",
+              "answer": "OBRAIS"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Embrollo, lío, jarana.",
+              "answer": "BROLLO"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Tierra para criar a los potros separados de las madres.",
+              "answer": "DEHESA"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Desafíen, luchen, compitan.",
+              "answer": "RETEN"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Se inscriba, se apunte, se...",
+              "answer": "LISTE"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Corre como loco hasta la montaña.",
+              "answer": "CERRO"
+            },
+            "55": {
+              "col": 12,
+              "row": 10,
+              "clue": "Unidad de intensidad acústica, cuyo símbolo en B.",
+              "answer": "BELIO"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "En la punta del iceberg.",
+              "answer": "IC"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Uña rota.",
+              "answer": "UÑ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cerrar con llave una puerta.",
+              "answer": "PECHAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Rozará ligeramente.",
+              "answer": "RASARA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Recibido como pago.",
+              "answer": "COBRADO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Relativo al vinagre.",
+              "answer": "ACETICO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ofender, agraviar.",
+              "answer": "HERIR"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Un pequeño paquete.",
+              "answer": "PAQ"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Famoso bolero.",
+              "answer": "RAVEL"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Concurría, acudía.",
+              "answer": "ASISTIA"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Instrumento musical emblemático de Hawái.",
+              "answer": "UKELELE"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Antigua capital de Japón.",
+              "answer": "KIOTO"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"G.I...\", muñecos militares enfocados a los niños.",
+              "answer": "JOE"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Tela cuyo tejido forma líneas diagonales.",
+              "answer": "SARGA"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Poco razonable.",
+              "answer": "RA"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Contemplarla con los ojos.",
+              "answer": "VERLA"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "En el centro de la caja.",
+              "answer": "AJ"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ataque repentino y violento.",
+              "answer": "ASALTO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Emplearse, utilizarse.",
+              "answer": "USARSE"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Cambio repentino de temperatura.",
+              "answer": "OLA"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ni lager ni pilsen.",
+              "answer": "ALE"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Cuerda gruesa de fibras naturales.",
+              "answer": "MECATE"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Cualquier producto derivado de la leche.",
+              "answer": "LACTEO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Símbolo de la escala de temperatura de Fahrenheit.",
+              "answer": "OF"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Las 5 primeras opciones.",
+              "answer": "ABCDE"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Tim Burton.",
+              "answer": "TB"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Gualdrapa rica de caballo.",
+              "answer": "JIREL"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Legitima al español.",
+              "answer": "RAE"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Entrar, ingresar.",
+              "answer": "CABER"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Profesor jubilado con honores.",
+              "answer": "EMERITO"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Recipiente para mantener bebidas frías.",
+              "answer": "HIELERA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Diosa de las aguas del mundo, esposa de Océano.",
+              "answer": "TETIS"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Lengua de signos española (siglas).",
+              "answer": "LSE"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Volví a leer.",
+              "answer": "RELEI"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Que tiene la facultad de ponerse rígido.",
+              "answer": "ERECTIL"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Proveías, dabas.",
+              "answer": "SURTIAS"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Grande y dilatado mar que cubre la mayor parte de la superficie terrestre.",
+              "answer": "ONAECO"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Que tienen muchos años.",
+              "answer": "AÑOSOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Versos y rimas.\r\n2-Bebido, borracho.\r\n3-Material frágil y transparente. \r\n4-Cansado de estar repleto de mala comida.\r\n5-Anno Domini.\r\n6-Vestimenta.\r\n7-La segunda esposa de Jacob.\r\n8-Antes de Cristo.\r\n9-Sujetos palindrómicos.\r\n10-Amárrala inmediatamente a la torre de vigilancia aislada.\r\n11-Fút. \"... Plate vs. Boca Juniors\" el superclásico argentino.\r\n12-Las primas hermanas de las espinacas.\r\n13-Centro energético del cuerpo en filosofías orientales. \r\n15-Sucesión continuada de olas.\r\n23-¡Mi Lord, usted ha perdido la cabeza!. \r\n26-Golpe al aire en tenis antes de que bote la pelota. \r\n27-Hice como la loba.\r\n30-Las tres primeras.\r\n31-Dios egipcio de la sabiduría.\r\n33-El mar de Inglaterra.\r\n34-Espero que esto sea por poco rato.\r\n37-Moje, plechana o ensalada murciana.\r\n38-Pasajero, de corta duración.\r\n39-Desde Alaska hasta la Patagonia.\r\n40-Zee Cine Awards.\r\n42-Viviendas unifamiliares con jardín. \r\n43-Vagas, sutiles, vaporosas.\r\n44-Hacéis, trabajáis.\r\n47-Embrollo, lío, jarana.\r\n48-Tierra para criar a los potros separados de las madres.\r\n51-Desafíen, luchen, compitan. \r\n52-Se inscriba, se apunte, se...\r\n54-Corre como loco hasta la montaña.\r\n55-Unidad de intensidad acústica, cuyo símbolo en B.\r\n62-En la punta del iceberg.\r\n64-Uña rota.",
+        "horizontal_clues": "1-Cerrar con llave una puerta. \r\n7-Rozará ligeramente.\r\n13-Recibido como pago. \r\n14-Relativo al vinagre.\r\n16-Ofender, agraviar.\r\n17-Un pequeño paquete.\r\n18-Famoso bolero.\r\n19-Concurría, acudía.\r\n20-Instrumento musical emblemático de Hawái.\r\n21-Antigua capital de Japón.\r\n22-\"G.I...\", muñecos militares enfocados a los niños.\r\n24-Tela cuyo tejido forma líneas diagonales.\r\n25-Poco razonable.\r\n26-Contemplarla con los ojos. \r\n28-En el centro de la caja.\r\n29-Ataque repentino y violento. \r\n32-Emplearse, utilizarse.\r\n35-Cambio repentino de temperatura.\r\n36-Ni lager ni pilsen.\r\n37-Cuerda gruesa de fibras naturales. \r\n41-Cualquier producto derivado de la leche.\r\n45-Símbolo de la escala de temperatura de Fahrenheit.\r\n46-Las 5 primeras opciones.\r\n49-Tim Burton. \r\n50-Gualdrapa rica de caballo.\r\n53-Legitima al español.\r\n54-Entrar, ingresar.\r\n56-Profesor jubilado con honores.\r\n57-Recipiente para mantener bebidas frías. \r\n58-Diosa de las aguas del mundo, esposa de Océano.\r\n59-Lengua de signos española (siglas).\r\n60-Volví a leer.\r\n61-Que tiene la facultad de ponerse rígido.\r\n63-Proveías, dabas.\r\n65-Grande y dilatado mar que cubre la mayor parte de la superficie terrestre.\r\n66-Que tienen muchos años.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,#,#,18,#,#,#,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,#,22,23,#,#,24,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,#,#,28,#\r\n29,#,30,#,31,#,#,#,#,32,33,#,34,#,#\r\n#,#,#,#,35,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,39,#,#,#,40,#,41,#,42,#,43,44\r\n45,#,#,#,#,46,47,#,48,#,#,#,#,49,#\r\n50,#,51,#,52,#,53,#,#,#,54,#,55,#,#\r\n56,#,#,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,62,#,#,63,64,#,#,#,#,#\r\n#,65,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

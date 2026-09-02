@@ -1,0 +1,474 @@
+{
+  "data": {
+    "id": 3383,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:25.184292Z",
+      "updatedAt": "2025-09-09T14:10:04.309454Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-15",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#KETCHUP#LLUCH#\r\nC#VIRA#EGRESO#D\r\nAPAGON#RENTABLE\r\nPADRASTRO#IDEAR\r\nTRIA##MORA#ARMO\r\nEOR#TF#SGTO#TES\r\n#L#BRONCEAR#O#S\r\nTARZAN#A#STORNI\r\nE#E#EDILICIO#E#\r\nOFC#SUSI#AZ#CCV\r\nRIOS#EMES##DOTA\r\nEFRON#ANTIBALAS\r\nMARGARET#TORERO\r\nA#ENCOLE#ZOLA#S\r\n#BROOM#SIAMESA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Deriva correctamente los gastos, para eludir el pago",
+              "answer": "EVADIR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Jaguar hembra",
+              "answer": "TIGRA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Canta como una rana",
+              "answer": "CROA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Christian Andersen\" autor de 'El patito feo' y 'La sirenita'",
+              "answer": "HANS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Comida callejera que pone en celo a las mascotas (2p)",
+              "answer": "PERROSCALIENTES"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Alearían\" sin vocales",
+              "answer": "LRN"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Con cariño a Leticia",
+              "answer": "LETI"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "De segunda mano, la ropa",
+              "answer": "USADA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Colcha, cobija, manta",
+              "answer": "COBERTOR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Recogí sonidos e imágenes",
+              "answer": "CAPTE"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Entre Clinton y Obama",
+              "answer": "GEORGE"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"Daniele …\" anterior entrenador de la A S Roma",
+              "answer": "DEROSSI"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Palabra en italiano",
+              "answer": "PAROLA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Chupa, pasa la lengua",
+              "answer": "LAME"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Thomas Müller",
+              "answer": "TM"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Se tapa con una mezcla ástato, arsénico y calcio",
+              "answer": "ATASCA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Conduces algo hacia ti",
+              "answer": "TRAES"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Plato suizo, que consiste en derretir el queso",
+              "answer": "FONDUE"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Apellido de la reina Letizia",
+              "answer": "ORTIZ"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Blas Zambrano (Pedagogo español)",
+              "answer": "BZ"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "El más famoso es el de Pitágoras",
+              "answer": "TEOREMA"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Transitar, atravesar",
+              "answer": "RECORRER"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Ojos bien abiertos",
+              "answer": "OO"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Jugo azucarado que chupan las abejas",
+              "answer": "NECTAR"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Hijo de Abraham y Agar",
+              "answer": "ISMAEL"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "Institución que gobierna todas las federaciones de fútbol",
+              "answer": "FIFA"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Sujetas al toro por la cola",
+              "answer": "COLEAS"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Conductos por el que circula la sangre",
+              "answer": "VASOS"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "El sueño italiano",
+              "answer": "SOGNO"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Iniciales de líder y vocalista de  Aerosmith",
+              "answer": "ST"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Suministrarle, proveerle",
+              "answer": "DARLE"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Uruguay Andullo de tabaco",
+              "answer": "NACO"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "“Chichén…\" ciudad arqueológica con el Templo de Kukulcán",
+              "answer": "ITZA"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "El auge de las explosiones",
+              "answer": "BOOM"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Almacenamiento en ordenadores",
+              "answer": "ROM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Salsa de tomate",
+              "answer": "KETCHUP"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Doctor valenciano que colaboró con las autoridades sanitarias durante 1885",
+              "answer": "LLUCH"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Gira, voltea",
+              "answer": "VIRA"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Salida, partida de descargo",
+              "answer": "EGRESO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Interrupción pasajera del suministro de energía eléctrica",
+              "answer": "APAGON"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Que termina siendo un beneficio económicamente",
+              "answer": "RENTABLE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "El segundo marido de tu madre",
+              "answer": "PADRASTRO"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Crear en el pensamiento",
+              "answer": "IDEAR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Escoge, separa, entresaca",
+              "answer": "TRIA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Fresa silvestre",
+              "answer": "MORA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Visto a alguien con sus armas",
+              "answer": "ARMO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Es peor sin capital",
+              "answer": "EOR"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Tamara Falcó",
+              "answer": "TF"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Pequeño sargento",
+              "answer": "SGTO"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Toma unas infusiones para cuando regreses del plató",
+              "answer": "TES"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Dar color moreno a la piel",
+              "answer": "BRONCEAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "El hombre de la selva",
+              "answer": "TARZAN"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "\"Alfonsina …\", autora de Poemas de Amor",
+              "answer": "STORNI"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Relativo a las obras arquitectónicas de una ciudad",
+              "answer": "EDILICIO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Confederación de Fútbol de Oceanía (siglas en inglés)",
+              "answer": "OFC"
+            },
+            "43": {
+              "col": 4,
+              "row": 9,
+              "clue": "Susana de pequeña",
+              "answer": "SUSI"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Primera y última",
+              "answer": "AZ"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Código de verificación de la tarjeta",
+              "answer": "CCV"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo son el Nilo y el Amazonas",
+              "answer": "RIOS"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "MMMM",
+              "answer": "EMES"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Provee, da",
+              "answer": "DOTA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Zac…\" interpretando a Kevin Von Erich",
+              "answer": "EFRON"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Se alistaban mejor con el chaleco de los polis",
+              "answer": "ANTIBALAS"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "'La Dama de Hierro'",
+              "answer": "MARGARET"
+            },
+            "59": {
+              "col": 9,
+              "row": 12,
+              "clue": "Hombre que por profesión ejerce el arte del toreo",
+              "answer": "TORERO"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Unté con pegamento, con cola",
+              "answer": "ENCOLE"
+            },
+            "61": {
+              "col": 9,
+              "row": 13,
+              "clue": "Escritor francés, considerado el padre del naturalismo",
+              "answer": "ZOLA"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Escoba en inglés",
+              "answer": "BROOM"
+            },
+            "63": {
+              "col": 7,
+              "row": 14,
+              "clue": "Ansía mesadas, la chica del gato asiático",
+              "answer": "SIAMESA"
+            }
+          }
+        },
+        "vertical_clues": "2-Deriva correctamente los gastos, para eludir el pago\r\n3-Jaguar hembra\r\n4-Canta como una rana\r\n5-\"… Christian Andersen\" autor de 'El patito feo' y 'La sirenita'\r\n6-Comida callejera que pone en celo a las mascotas (2p)\r\n7-\"Alearían\" sin vocales\r\n8-Con cariño a Leticia\r\n9-De segunda mano, la ropa\r\n10-Colcha, cobija, manta\r\n11-Recogí sonidos e imágenes\r\n14-Entre Clinton y Obama\r\n15-\"Daniele …\" anterior entrenador de la A S Roma\r\n17-Palabra en italiano\r\n19-Chupa, pasa la lengua\r\n21-Thomas Müller\r\n25-Se tapa con una mezcla ástato, arsénico y calcio\r\n28-Conduces algo hacia ti\r\n29-Plato suizo, que consiste en derretir el queso\r\n31-Apellido de la reina Letizia\r\n33-Blas Zambrano (Pedagogo español)\r\n34-El más famoso es el de Pitágoras\r\n35-Transitar, atravesar\r\n37-Ojos bien abiertos\r\n38-Jugo azucarado que chupan las abejas\r\n40-Hijo de Abraham y Agar\r\n42-Institución que gobierna todas las federaciones de fútbol\r\n45-Sujetas al toro por la cola\r\n46-Conductos por el que circula la sangre\r\n48-El sueño italiano\r\n50-Iniciales de líder y vocalista de  Aerosmith\r\n51-Suministrarle, proveerle\r\n53-Uruguay Andullo de tabaco\r\n55-“Chichén…\" ciudad arqueológica con el Templo de Kukulcán\r\n56-El auge de las explosiones\r\n58-Almacenamiento en ordenadores",
+        "horizontal_clues": "1-Salsa de tomate\r\n7-Doctor valenciano que colaboró con las autoridades sanitarias durante 1885\r\n12-Gira, voltea\r\n13-Salida, partida de descargo\r\n16-Interrupción pasajera del suministro de energía eléctrica\r\n18-Que termina siendo un beneficio económicamente\r\n20-El segundo marido de tu madre\r\n22-Crear en el pensamiento\r\n23-Escoge, separa, entresaca\r\n24-Fresa silvestre\r\n26-Visto a alguien con sus armas\r\n27-Es peor sin capital\r\n28-Tamara Falcó\r\n30-Pequeño sargento\r\n32-Toma unas infusiones para cuando regreses del plató\r\n33-Dar color moreno a la piel\r\n34-El hombre de la selva\r\n36-\"Alfonsina …\", autora de Poemas de Amor\r\n39-Relativo a las obras arquitectónicas de una ciudad\r\n41-Confederación de Fútbol de Oceanía (siglas en inglés)\r\n43-Susana de pequeña\r\n44-Primera y última\r\n45-Código de verificación de la tarjeta\r\n47-Lo son el Nilo y el Amazonas\r\n49-MMMM\r\n51-Provee, da\r\n52-\"Zac…\" interpretando a Kevin Von Erich\r\n54-Se alistaban mejor con el chaleco de los polis\r\n57-'La Dama de Hierro'\r\n59-Hombre que por profesión ejerce el arte del toreo\r\n60-Unté con pegamento, con cola\r\n61-Escritor francés, considerado el padre del naturalismo\r\n62-Escoba en inglés\r\n63-Ansía mesadas, la chica del gato asiático",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,13,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,#,#,#,#,21,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,#,24,#,#,25,#,26,#,#,#\r\n27,#,#,#,28,29,#,30,#,#,31,#,32,#,#\r\n#,#,#,33,#,#,#,#,#,#,#,#,#,#,#\r\n34,#,35,#,#,#,#,#,#,36,#,37,#,38,#\r\n#,#,#,#,39,#,40,#,#,#,#,#,#,#,#\r\n41,42,#,#,43,#,#,#,#,44,#,#,45,#,46\r\n47,#,#,48,#,49,#,#,50,#,#,51,#,#,#\r\n52,#,#,#,53,#,54,#,#,55,56,#,#,#,#\r\n57,#,#,#,#,58,#,#,#,59,#,#,#,#,#\r\n#,#,60,#,#,#,#,#,#,61,#,#,#,#,#\r\n#,62,#,#,#,#,#,63,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

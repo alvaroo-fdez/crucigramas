@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1038,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-13T18:39:47.319617Z",
+      "updatedAt": "2024-10-13T18:39:47.319638Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-14",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TWIGGY#VARICELA\r\nI#SALE#APURAS#F\r\nTANGAS#CEBA#CAT\r\nIM#ASOCIAR#PAYO\r\nCOP#N##ANOFELES\r\nALEPO#TD###RARA\r\nCARIS#YOLA#G###\r\nASUSTAR#ESPOSAS\r\n###T#MAMI#ELUDI\r\nINFO###AA#SABEN\r\nMIALGIAS##C#ENO\r\nPUMA#SPONSOR#DP\r\nAEO#CLON#IZABAS\r\nL#SALASE#MOLE#I\r\nALAVESES#ANOTAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lago navegable más alto del mundo, a 3.812 msnm.",
+              "answer": "TITICACA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Instituto de Seguridad Nacional (siglas).",
+              "answer": "ISN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Esta Lady, interpreta a Harley Queen, en el Joker 2.",
+              "answer": "GAGA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Política de transparencia en la URSS.",
+              "answer": "GLASNOST"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Material blanco, usado en construcción.",
+              "answer": "YESO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Procedimiento de verter un material derretido en un molde.",
+              "answer": "VACIADO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Desmontan a alguien de una caballería.",
+              "answer": "APEAN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Artículos de consumo de un mismo tipo.",
+              "answer": "RUBRO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pecado capital.",
+              "answer": "IRA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Símbolo químico del calcio.",
+              "answer": "CA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Sucesión de las notas ordenadas.",
+              "answer": "ESCALA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Med. Que padece úlceras blanquecinas en la boca.",
+              "answer": "AFTOSA"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Sacas filo a los cuchillos, los...",
+              "answer": "AMOLAS"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "El día que ya pasó.",
+              "answer": "AYER"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Estructura de jardín con enredaderas.",
+              "answer": "PERGOLA"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "País cuna de la cultura Inca.",
+              "answer": "PERU"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Arma de fuego.",
+              "answer": "PISTOLA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Supermodelo conductora del programa 'American Next Top Models'.",
+              "answer": "TYRA"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Pasaba la vista por lo escrito.",
+              "answer": "LEIA"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Carta de cada palo que lleva el número uno.",
+              "answer": "AS"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Durante las mañanas.",
+              "answer": "AM"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Golpe fuerte en la nuca.",
+              "answer": "PESCOZON"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Asciende, escala.",
+              "answer": "SUBE"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Apéndice, sobre todo de un libro.",
+              "answer": "ADENDA"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "Resumen breve de una obra literaria.",
+              "answer": "SINOPSIS"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Practicantes de la francmasonería.",
+              "answer": "MASONES"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Antílope africano.",
+              "answer": "IMPALA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "País insular del Pacífico, \"La Roca de Polinesia\".",
+              "answer": "NIUE"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Muy conocida y admirada.",
+              "answer": "FAMOSA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Las de Baleares o Las Canarias.",
+              "answer": "ISLAS"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Pose.",
+              "answer": "APOSE"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Cavidad grande y muy profunda en la tierra.",
+              "answer": "SIMA"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Aguado.",
+              "answer": "RALO"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Saliendo de una debacle.",
+              "answer": "CLE"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "2ª letra de la mayoría de los abecedarios semíticos.",
+              "answer": "BET"
+            },
+            "63": {
+              "col": 3,
+              "row": 13,
+              "clue": "Américo Vespucio.",
+              "answer": "AV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Británica icónica de los años 60, la primera supermodelo.",
+              "answer": "TWIGGY"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Parece que Marisela se contagió, tiene una erupción, tiene...",
+              "answer": "VARICELA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Cae la sal.",
+              "answer": "SALE"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Apremias, das prisa.",
+              "answer": "APURAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Bragas brasileras.",
+              "answer": "TANGAS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Hierba seca acopiada para el invierno.",
+              "answer": "CEBA"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Gato londinense.",
+              "answer": "CAT"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Importan, pero no llevan nada.",
+              "answer": "IM"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Relacionar un hecho con otro.",
+              "answer": "ASOCIAR"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Desde el punto de vista de un gitano, uno que no pertenece a los suyos.",
+              "answer": "PAYO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Policía en inglés.",
+              "answer": "COP"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Mosquito que transmite la malaria o paludismo.",
+              "answer": "ANOFELES"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ciudad de Siria, destruida por la guerra.",
+              "answer": "ALEPO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Regresa como Director Técnico.",
+              "answer": "TD"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Distinta, poco común.",
+              "answer": "RARA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Argentina. De color pardo o rojizo (pl).",
+              "answer": "CARIS"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Esta embarcación ligera, yo la manejo.",
+              "answer": "YOLA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Producir desagrado o escándalo.",
+              "answer": "ASUSTAR"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Manillas metálicas, que aprisionan las muñecas.",
+              "answer": "ESPOSAS"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "A mi madre con cariño.",
+              "answer": "MAMI"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Evité, sorteé.",
+              "answer": "ELUDI"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Apócope de \"información\".",
+              "answer": "INFO"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Alcohólicos Anónimos.",
+              "answer": "AA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Están al corriente.",
+              "answer": "SABEN"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Dolores musculares generalizados.",
+              "answer": "MIALGIAS"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Conocida sal de fruta.",
+              "answer": "ENO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "La hermana de Adidas.",
+              "answer": "PUMA"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Patrocinador en la Premier League.",
+              "answer": "SPONSOR"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Distrito Postal.",
+              "answer": "DP"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Aquí todas son fuertes.",
+              "answer": "AEO"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Copia idéntica de un organismo.",
+              "answer": "CLON"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Enarbolabas las banderas.",
+              "answer": "IZABAS"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Sazonase, condimentase.",
+              "answer": "SALASE"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Salsa mexicana espesada con maíz.",
+              "answer": "MOLE"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Lanzas cortas usadas antiguamente.",
+              "answer": "ALAVESES"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Apuntas, registras.",
+              "answer": "ANOTAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Lago navegable más alto del mundo, a 3.812 msnm.\r\n2-Instituto de Seguridad Nacional (siglas).\r\n3-Esta Lady, interpreta a Harley Queen, en el Joker 2.\r\n4-Política de transparencia en la URSS. \r\n5-Material blanco, usado en construcción.\r\n6-Procedimiento de verter un material derretido en un molde.\r\n7-Desmontan a alguien de una caballería.\r\n8-Artículos de consumo de un mismo tipo.\r\n9-Pecado capital.\r\n10-Símbolo químico del calcio.\r\n11-Sucesión de las notas ordenadas.\r\n12-Med. Que padece úlceras blanquecinas en la boca.\r\n16-Sacas filo a los cuchillos, los...\r\n19-El día que ya pasó.\r\n22-Estructura de jardín con enredaderas. \r\n24-País cuna de la cultura Inca.\r\n27-Arma de fuego.\r\n28-Supermodelo conductora del programa 'American Next Top Models'.\r\n32-Pasaba la vista por lo escrito.\r\n33-Carta de cada palo que lleva el número uno.\r\n35-Durante las mañanas.\r\n37-Golpe fuerte en la nuca. \r\n38-Asciende, escala.\r\n39-Apéndice, sobre todo de un libro.\r\n40-Resumen breve de una obra literaria. \r\n42-Practicantes de la francmasonería.\r\n44-Antílope africano.\r\n45-País insular del Pacífico, \"La Roca de Polinesia\".\r\n46-Muy conocida y admirada.\r\n50-Las de Baleares o Las Canarias.\r\n51-Pose.\r\n55-Cavidad grande y muy profunda en la tierra.\r\n56-Aguado.\r\n59-Saliendo de una debacle.\r\n61-2ª letra de la mayoría de los abecedarios semíticos.\r\n63-Américo Vespucio.",
+        "horizontal_clues": "1-Británica icónica de los años 60, la primera supermodelo.\r\n6-Parece que Marisela se contagió, tiene una erupción, tiene...\r\n13-Cae la sal.\r\n14-Apremias, das prisa.\r\n15-Bragas brasileras.\r\n17-Hierba seca acopiada para el invierno.\r\n18-Gato londinense.\r\n20-Importan, pero no llevan nada.\r\n21-Relacionar un hecho con otro.\r\n22-Desde el punto de vista de un gitano, uno que no pertenece a los suyos.\r\n23-Policía en inglés.\r\n25-Mosquito que transmite la malaria o paludismo.\r\n26-Ciudad de Siria, destruida por la guerra.\r\n28-Regresa como Director Técnico.\r\n29-Distinta, poco común.\r\n30-Argentina. De color pardo o rojizo (pl).\r\n31-Esta embarcación ligera, yo la manejo.\r\n34-Producir desagrado o escándalo.\r\n36-Manillas metálicas, que aprisionan las muñecas.\r\n41-A mi madre con cariño.\r\n43-Evité, sorteé.\r\n44-Apócope de \"información\".\r\n47-Alcohólicos Anónimos.\r\n48-Están al corriente.\r\n49-Dolores musculares generalizados. \r\n52-Conocida sal de fruta.\r\n53-La hermana de Adidas.\r\n54-Patrocinador en la Premier League.\r\n57-Distrito Postal.\r\n58-Aquí todas son fuertes.\r\n59-Copia idéntica de un organismo.\r\n60-Enarbolabas las banderas.\r\n62-Sazonase, condimentase.\r\n64-Salsa mexicana espesada con maíz.\r\n65-Lanzas cortas usadas antiguamente.\r\n66-Apuntas, registras.",
+        "board_clues_positions": "1,#,2,3,4,5,#,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,16,#,#,#,#,#,17,#,#,#,#,18,19,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,#,#\r\n23,#,24,#,#,#,#,25,#,#,#,#,#,#,#\r\n26,#,#,27,#,#,28,#,#,#,#,29,#,#,#\r\n30,#,#,#,#,#,31,#,32,33,#,#,#,#,#\r\n34,#,#,#,#,35,#,#,36,#,37,#,38,39,40\r\n#,#,#,#,#,41,#,42,#,#,43,#,#,#,#\r\n44,45,46,#,#,#,#,47,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,51,#,#,#,#,#,52,#,#\r\n53,#,#,#,#,54,#,#,#,55,#,56,#,57,#\r\n58,#,#,#,59,#,#,#,#,60,#,#,61,#,#\r\n#,#,62,63,#,#,#,#,#,64,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,#,66,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

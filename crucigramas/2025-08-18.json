@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 3143,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-17T16:11:04.469445Z",
+      "updatedAt": "2025-08-17T16:12:36.520010Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-18",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##TRUENO#TIBIO#\r\nTOCANDO#DUDOSA#\r\nRVA#CIGARRO#LKV\r\nAO#METATARSO#LE\r\nZIKA#ALEXA#PLAN\r\nADUNAR#L#RATING\r\n#EWAN#DOS#GORDA\r\nR#ANULE#MIAMI#R\r\nEDITE#TAO#TEST#\r\nMETILO#S#BATMAN\r\nOCIA#REIRA#ROCE\r\nTE#LOCALISMO#TR\r\nONL#VICENTE#NIE\r\n#TIRANO#DANIELA\r\n#ELISA#VERANO##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Trastorno de Conducta Alimentaria (siglas)",
+              "answer": "TCA"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Realidad aumentada",
+              "answer": "RA"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Amarra, enlaza a los bueyes, los…",
+              "answer": "UNCE"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Adaptar un texto a las normas de estilo de una publicación",
+              "answer": "EDITAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Árbol que da de fruto la nuez",
+              "answer": "NOGAL"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Asar en las brasas",
+              "answer": "TURRAR"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Dios loco por los locos",
+              "answer": "IDOS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Arma tradicional en el Bojutsu",
+              "answer": "BO"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Lis está completamente loca",
+              "answer": "ISL"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ciudad natal de Zendaya",
+              "answer": "OAKLAND"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Diseño que se hace para la fabricación de un edificio u otra obra",
+              "answer": "TRAZA"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Que tiene forma de huevo",
+              "answer": "OVOIDE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"… el Destructor\" uno de los Guardianes de la Galaxia",
+              "answer": "DRAX"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Amárrelo, para que se tome el atole",
+              "answer": "ATELO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Tomar satisfacción de un agravio o daño",
+              "answer": "VENGAR"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Fuente de agua pura",
+              "answer": "MANANTIAL"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Optó por el metro para llevar su instrumento que mide la visión",
+              "answer": "OPTOMETRO"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Vecino de un saudí y un iraquí",
+              "answer": "KUWAITI"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Cualidad de lírico",
+              "answer": "LIRISMO"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"… AA\" cantante de trap puertorriqueño",
+              "answer": "ANUEL"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cuarzo lapídeo",
+              "answer": "AGATA"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Detuve sin la V",
+              "answer": "DET"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Social Media Optimization (siglas)",
+              "answer": "SMO"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Distante, apartado, lejano",
+              "answer": "REMOTO"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Un docente cambiado, ahora es digno",
+              "answer": "DECENTE"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Albergue al perseguido",
+              "answer": "ASILE"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Pantalla que reacciona al tacto",
+              "answer": "TACTIL"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Materia colorante de ciertos líquenes",
+              "answer": "ORCINA"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Ser suficiente para algo",
+              "answer": "BASTAR"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "\"Maldita…\" cantando el 'Secreto de las tortugas'",
+              "answer": "NEREA"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Hijo de Zeus y Egina, juez de las sombras en el Érebo",
+              "answer": "EACO"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Alcanza para todos",
+              "answer": "RINDE"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Huevas",
+              "answer": "OVAS"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Mineral del que se extrae un metal",
+              "answer": "MENA"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Entrando en Lilliput",
+              "answer": "LIL"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Keanu Reeves en la Matrix",
+              "answer": "NEO"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Unidad de longitud japonesa",
+              "answer": "RI"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "De moda",
+              "answer": "IN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Alarma celestial que augura tormentas",
+              "answer": "TRUENO"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ni frío ni caliente",
+              "answer": "TIBIO"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Sintiendo con las manos",
+              "answer": "TOCANDO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "La procedencia, cuando es sospechosa",
+              "answer": "DUDOSA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Curvada en la parte central",
+              "answer": "RVA"
+            },
+            "15": {
+              "col": 4,
+              "row": 2,
+              "clue": "Bastón de nicotina",
+              "answer": "CIGARRO"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Siglas en inglés de la frase: \"Última víctima conocida\"",
+              "answer": "LKV"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Vocales abiertas",
+              "answer": "AO"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Huesos del pie antes de los dedos",
+              "answer": "METATARSO"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Él mirándose al espejo",
+              "answer": "LE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Virus similar al dengue, que atacó a América en el 2016",
+              "answer": "ZIKA"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Asistente virtual cuyo nombre se inspira en la Biblioteca de Alejandría",
+              "answer": "ALEXA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Programa de acción",
+              "answer": "PLAN"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Unir, juntar, congregar",
+              "answer": "ADUNAR"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Cantidad de personas que está viendo un programa de TV",
+              "answer": "RATING"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"… McGregor' actor prota en 'Big Fish' de Tim Burton",
+              "answer": "EWAN"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Las caras de una moneda",
+              "answer": "DOS"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "En cierto grado se va a armar una grande",
+              "answer": "GORDA"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Invalidé, suspendí",
+              "answer": "ANULE"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Mi amiga está escondida en esa ciudad",
+              "answer": "MIAMI"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Preparé la obra para enviarla a impresión",
+              "answer": "EDITE"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"… Te Ching\" texto clásico chino",
+              "answer": "TAO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Prueba psicológica",
+              "answer": "TEST"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Grupo químico presente en muchos compuestos orgánicos",
+              "answer": "METILO"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Superhéroe del murciélago",
+              "answer": "BATMAN"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Entrégate al ocio",
+              "answer": "OCIA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Celebrará con risas",
+              "answer": "REIRA"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Discusión o enfrentamiento leve",
+              "answer": "ROCE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Vocablo que solo se usa en una región específica",
+              "answer": "LOCALISMO"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Dominio web para Turquía",
+              "answer": "TR"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Organización no lucrativa",
+              "answer": "ONL"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "\"… Blasco Ibáñez\" y 'Los cuatro jinetes del Apocalipsis'",
+              "answer": "VICENTE"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Identificación de los no nacionales en España",
+              "answer": "NIE"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Gobernante cruel y malvado",
+              "answer": "TIRANO"
+            },
+            "65": {
+              "col": 8,
+              "row": 13,
+              "clue": "\"… Romo\" mexicana intérprete del tema 'Yo no te pido la luna' (1984)",
+              "answer": "DANIELA"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "De Beethoven para…",
+              "answer": "ELISA"
+            },
+            "68": {
+              "col": 7,
+              "row": 14,
+              "clue": "Tiempo de playa",
+              "answer": "VERANO"
+            }
+          }
+        },
+        "vertical_clues": "1-Trastorno de Conducta Alimentaria (siglas)\r\n2-Realidad aumentada\r\n3-Amarra, enlaza a los bueyes, los…\r\n4-Adaptar un texto a las normas de estilo de una publicación\r\n5-Árbol que da de fruto la nuez\r\n6-Asar en las brasas\r\n7-Dios loco por los locos\r\n8-Arma tradicional en el Bojutsu\r\n9-Lis está completamente loca\r\n10-Ciudad natal de Zendaya\r\n11-Diseño que se hace para la fabricación de un edificio u otra obra\r\n12-Que tiene forma de huevo\r\n13-\"… el Destructor\" uno de los Guardianes de la Galaxia\r\n16-Amárrelo, para que se tome el atole\r\n18-Tomar satisfacción de un agravio o daño\r\n20-Fuente de agua pura\r\n21-Optó por el metro para llevar su instrumento que mide la visión\r\n24-Vecino de un saudí y un iraquí\r\n27-Cualidad de lírico\r\n29-\"… AA\" cantante de trap puertorriqueño\r\n31-Cuarzo lapídeo\r\n33-Detuve sin la V\r\n34-Social Media Optimization (siglas)\r\n36-Distante, apartado, lejano\r\n40-Un docente cambiado, ahora es digno\r\n42-Albergue al perseguido\r\n44-Pantalla que reacciona al tacto\r\n46-Materia colorante de ciertos líquenes\r\n47-Ser suficiente para algo\r\n48-\"Maldita…\" cantando el 'Secreto de las tortugas'\r\n51-Hijo de Zeus y Egina, juez de las sombras en el Érebo\r\n52-Alcanza para todos\r\n56-Huevas\r\n57-Mineral del que se extrae un metal\r\n60-Entrando en Lilliput\r\n62-Keanu Reeves en la Matrix\r\n64-Unidad de longitud japonesa\r\n66-De moda",
+        "horizontal_clues": "1-Alarma celestial que augura tormentas \r\n6-Ni frío ni caliente\r\n11-Sintiendo con las manos\r\n13-La procedencia, cuando es sospechosa\r\n14-Curvada en la parte central\r\n15-Bastón de nicotina\r\n17-Siglas en inglés de la frase: \"Última víctima conocida\"\r\n19-Vocales abiertas\r\n20-Huesos del pie antes de los dedos\r\n22-Él mirándose al espejo\r\n23-Virus similar al dengue, que atacó a América en el 2016\r\n25-Asistente virtual cuyo nombre se inspira en la Biblioteca de Alejandría \r\n26-Programa de acción \r\n28-Unir, juntar, congregar\r\n30-Cantidad de personas que está viendo un programa de TV\r\n32-\"… McGregor' actor prota en 'Big Fish' de Tim Burton\r\n33-Las caras de una moneda\r\n35-En cierto grado se va a armar una grande\r\n37-Invalidé, suspendí\r\n38-Mi amiga está escondida en esa ciudad\r\n39-Preparé la obra para enviarla a impresión\r\n41-\"… Te Ching\" texto clásico chino\r\n43-Prueba psicológica\r\n45-Grupo químico presente en muchos compuestos orgánicos\r\n47-Superhéroe del murciélago\r\n49-Entrégate al ocio\r\n50-Celebrará con risas\r\n53-Discusión o enfrentamiento leve\r\n54-Teluro\r\n55-Vocablo que solo se usa en una región específica\r\n58-Dominio web para Turquía\r\n59-Organización no lucrativa\r\n61-\"… Blasco Ibáñez\" y 'Los cuatro jinetes del Apocalipsis'\r\n62-Identificación de los no nacionales en España\r\n63-Gobernante cruel y malvado\r\n65-\"… Romo\" mexicana intérprete del tema 'Yo no te pido la luna' (1984)\r\n67-De Beethoven para…\r\n68-Tiempo de playa",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,#,6,7,8,9,10,#\r\n11,12,#,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,#,#,#,15,#,#,16,#,#,#,#,17,#,18\r\n19,#,#,20,#,#,#,#,#,#,#,21,#,22,#\r\n23,#,24,#,#,25,#,#,#,#,#,26,27,#,#\r\n28,#,#,#,29,#,#,#,#,30,31,#,#,#,#\r\n#,32,#,#,#,#,33,#,34,#,35,#,#,#,#\r\n36,#,37,#,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,#,#,#,#,41,42,#,#,43,#,#,44,#\r\n45,#,#,#,#,46,#,#,#,47,#,#,#,#,48\r\n49,#,#,#,#,50,51,#,52,#,#,53,#,#,#\r\n54,#,#,55,56,#,#,#,#,#,57,#,#,58,#\r\n59,#,60,#,61,#,#,#,#,#,#,#,62,#,#\r\n#,63,#,64,#,#,#,#,65,#,#,66,#,#,#\r\n#,67,#,#,#,#,#,68,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

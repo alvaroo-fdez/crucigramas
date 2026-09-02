@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 1473,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-21T13:50:55.636541Z",
+      "updatedAt": "2024-12-21T13:50:55.704745Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-25",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FRAGANCIA#AZADA\r\nAUGURIO#NIDALES\r\nMIRADOR#DESFILE\r\nANISE#SA##LASAS\r\nSOLA#MELAS#NATI\r\n#SL#LATERAL#RON\r\nLOA#LN#ALGAZARA\r\nI##FEDATARIO##T\r\nTACONAZO#AC#ATO\r\nUDO#ALARIDO#NR#\r\nROMA#ARIDO#SIAV\r\nGRATA##AE#MULTA\r\nINDICAR#AMOBLAR\r\nCARNERO#SITIADO\r\nOSEAS#APERSONAN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Personajes de Cortázar que acompañan a los Cronopios",
+              "answer": "FAMAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Arruinado, empobrecido",
+              "answer": "RUINOSO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Echa tallos",
+              "answer": "AGRILLA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Bromear, estar de…",
+              "answer": "GUASA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Está en combustión",
+              "answer": "ARDE"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "A finales de junio",
+              "answer": "NIO"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Prenda femenina ícono del fetichismo (voz francesa)",
+              "answer": "CORSET"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Conjunción \"y\" en inglés",
+              "answer": "AND"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Internet que no es de fibra óptica",
+              "answer": "ADSL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Desembarazan, liberan",
+              "answer": "ZAFAN"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pondrá liso el cabello",
+              "answer": "ALISARA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Denunciador, acusador",
+              "answer": "DELATOR"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Homicidio",
+              "answer": "ASESINATO"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Siglas del primer navegador de Microsoft",
+              "answer": "IE"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Selección al azar",
+              "answer": "ALEATORIA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Envíala a pintar el dibujo circular budista",
+              "answer": "MANDALA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Pon las frutas en arlos",
+              "answer": "ARLA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Que es objeto de culto por su relación con fuerzas sobrenaturales",
+              "answer": "SAGRADO"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Saciada de comida",
+              "answer": "LLENA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Independiente de cualquier organización religiosa (masc)",
+              "answer": "LAICO"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Relativo a los ritos y ceremonias religiosas",
+              "answer": "LITURGICO"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Se cortó la reunión en el Zoom",
+              "answer": "ZO"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Voz para expresar repudio a un mal olor",
+              "answer": "FO"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Caso fortuito, casualidad",
+              "answer": "AZAR"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Embelleces, acomodas algo",
+              "answer": "ADORNAS"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "La madrina de mi hijo, mi…",
+              "answer": "COMADRE"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Sujetan algo con anillos",
+              "answer": "ANILLAN"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Recibiendo tratamiento (fem)",
+              "answer": "TRATADA"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Crease en el pensamiento",
+              "answer": "IDEASE"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Acierta algo por conjeturas",
+              "answer": "ATINA"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Aumentó de rango o nivel",
+              "answer": "SUBIO"
+            },
+            "52": {
+              "col": 14,
+              "row": 10,
+              "clue": "\"Simón, Simón, el gran…\" Willie Colón",
+              "answer": "VARON"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Tenis Saque directo que se convierte en punto (pl)",
+              "answer": "ACES"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Palabras en francés",
+              "answer": "MOTS"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Menos armas",
+              "answer": "AR"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Mordisquee un hueso",
+              "answer": "ROA"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Médico Interno Residente (siglas)",
+              "answer": "MIR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Este aroma tiene mucho de elegancia,",
+              "answer": "FRAGANCIA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Azadón, instrumento de pala cuadrangular",
+              "answer": "AZADA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "La espada de LeónO, el de los ThunderCats",
+              "answer": "AUGURIO"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Lugar señalado donde la gallina va a poner sus huevos (pl)",
+              "answer": "NIDALES"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Lugar bien situado para contemplar un paisaje",
+              "answer": "MIRADOR"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Muestra pública de tropas militares",
+              "answer": "DESFILE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Impregné con anís una comida",
+              "answer": "ANISE"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "La cáscara de la sandía",
+              "answer": "SA"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Flojas, macilentas",
+              "answer": "LASAS"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Más vale… que mal acompañada\"",
+              "answer": "SOLA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Endulzas",
+              "answer": "MELAS"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Diminutivo de Natalí",
+              "answer": "NATI"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "La corona del sol",
+              "answer": "SL"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Futbolista que juega por las bandas de la cancha",
+              "answer": "LATERAL"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "\"…Weasley\" el mejor amigo de Harry Potter",
+              "answer": "RON"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Realza, glorifica",
+              "answer": "LOA"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Cáscara del limón",
+              "answer": "LN"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Bullicio festivo en una reunión",
+              "answer": "ALGAZARA"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Persona que da fe de la autenticidad de documentos",
+              "answer": "FEDATARIO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Golpe dado con el tacón",
+              "answer": "TACONAZO"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Maletero del Cadillac",
+              "answer": "AC"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Enlazo, uno",
+              "answer": "ATO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Universidad de Oriente",
+              "answer": "UDO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Un grito fuerte de dolor",
+              "answer": "ALARIDO"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Nivelar las puntas",
+              "answer": "NR"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ciudad conocida como \"La Ciudad Eterna\"",
+              "answer": "ROMA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Muy seco",
+              "answer": "ARIDO"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Marcháis en dirección contraria",
+              "answer": "SIAV"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Gustosa, agradable",
+              "answer": "GRATA"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Piel de aguacate",
+              "answer": "AE"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Sanción económica",
+              "answer": "MULTA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Señalar con el dedo índice",
+              "answer": "INDICAR"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Equipar un piso con todo lo necesario",
+              "answer": "AMOBLAR"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Macho de la oveja",
+              "answer": "CARNERO"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Acorralado en un sitio",
+              "answer": "SITIADO"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Hechas de hueso",
+              "answer": "OSEAS"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Aparecen en persona",
+              "answer": "APERSONAN"
+            }
+          }
+        },
+        "vertical_clues": "1-Personajes de Cortázar que acompañan a los Cronopios\r\n2-Arruinado, empobrecido\r\n3-Echa tallos\r\n4-Bromear, estar de…\r\n5-Está en combustión\r\n6-A finales de junio\r\n7-Prenda femenina ícono del fetichismo (voz francesa)\r\n8-Conjunción \"y\" en inglés\r\n9-Internet que no es de fibra óptica\r\n10-Desembarazan, liberan\r\n11-Pondrá liso el cabello\r\n12-Denunciador, acusador\r\n13-Homicidio\r\n16-Siglas del primer navegador de Microsoft\r\n21-Selección al azar\r\n24-Envíala a pintar el dibujo circular budista\r\n25-Pon las frutas en arlos\r\n26-Que es objeto de culto por su relación con fuerzas sobrenaturales\r\n29-Saciada de comida\r\n30-Independiente de cualquier organización religiosa (masc)\r\n32-Relativo a los ritos y ceremonias religiosas \r\n35-Se cortó la reunión en el Zoom\r\n36-Voz para expresar repudio a un mal olor\r\n37-Caso fortuito, casualidad\r\n39-Embelleces, acomodas algo\r\n40-La madrina de mi hijo, mi…\r\n42-Sujetan algo con anillos\r\n43-Recibiendo tratamiento (fem)\r\n46-Crease en el pensamiento\r\n49-Acierta algo por conjeturas\r\n51-Aumentó de rango o nivel\r\n52-\"Simón, Simón, el gran…\" Willie Colón\r\n54-Tenis Saque directo que se convierte en punto (pl) \r\n56-Palabras en francés\r\n58-Menos armas\r\n59-Mordisquee un hueso\r\n61-Médico Interno Residente (siglas)\r\n",
+        "horizontal_clues": "1-Este aroma tiene mucho de elegancia, \r\n9-Azadón, instrumento de pala cuadrangular\r\n14-La espada de LeónO, el de los ThunderCats\r\n15-Lugar señalado donde la gallina va a poner sus huevos (pl)\r\n17-Lugar bien situado para contemplar un paisaje\r\n18-Muestra pública de tropas militares \r\n19-Impregné con anís una comida\r\n20-La cáscara de la sandía\r\n22-Flojas, macilentas\r\n23-\"Más vale… que mal acompañada\"\r\n24-Endulzas\r\n27-Diminutivo de Natalí\r\n28-La corona del sol \r\n29-Futbolista que juega por las bandas de la cancha\r\n31-\"…Weasley\" el mejor amigo de Harry Potter\r\n32-Realza, glorifica\r\n33-Cáscara del limón\r\n34-Bullicio festivo en una reunión \r\n36-Persona que da fe de la autenticidad de documentos \r\n38-Golpe dado con el tacón\r\n41-Maletero del Cadillac \r\n42-Enlazo, uno\r\n44-Universidad de Oriente\r\n45-Un grito fuerte de dolor\r\n47-Nivelar las puntas\r\n48-Ciudad conocida como \"La Ciudad Eterna\"\r\n50-Muy seco\r\n51-Marcháis en dirección contraria\r\n53-Gustosa, agradable\r\n55-Piel de aguacate \r\n56-Sanción económica\r\n57-Señalar con el dedo índice\r\n60-Equipar un piso con todo lo necesario\r\n62-Macho de la oveja\r\n63-Acorralado en un sitio\r\n64-Hechas de hueso\r\n65-Aparecen en persona\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,8,#,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,15,16,#,#,#,#,#\r\n17,#,#,#,#,#,#,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,21,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,25,26,#,27,#,#,#\r\n#,28,#,#,29,#,#,#,#,#,30,#,31,#,#\r\n32,#,#,#,33,#,#,34,#,#,#,35,#,#,#\r\n#,#,#,36,#,#,37,#,#,#,#,#,#,#,#\r\n38,39,40,#,#,#,#,#,#,41,#,#,42,43,#\r\n44,#,#,#,45,#,#,#,46,#,#,#,47,#,#\r\n48,#,#,49,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,55,#,#,56,#,#,#,#\r\n57,#,#,#,#,58,59,#,60,61,#,#,#,#,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

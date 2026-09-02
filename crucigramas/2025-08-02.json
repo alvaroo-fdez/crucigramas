@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3100,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-07-30T13:44:11.736470Z",
+      "updatedAt": "2025-07-30T13:48:35.463318Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-02",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AREH#ARPA#MARTE\r\nLUPA#RAEN#OSEAS\r\nISABELINA#RENTA\r\nSALIVAZO#MARCOS\r\nOSETA###LOTTO##\r\n###ODIAREN#IRAN\r\nLEV#INSECTIVORO\r\nIDEE#SECTA#OSEN\r\nTARJETAROJA#OSA\r\nEDIE#ADEREZA###\r\n##FRISO###NUNCA\r\nCHICLE#PIRATEAR\r\nROCIE#HONORARIO\r\nALADO#OSES#NOAM\r\nCERON#SOSO#ANNA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Arreglo el cabello",
+              "answer": "ALISO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Las ruletas de la muerte",
+              "answer": "RUSAS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Coloquial Voz usada para saludar",
+              "answer": "EPALE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Yo vivo donde está mi costumbre",
+              "answer": "HABITO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pon las frutas en arlos",
+              "answer": "ARLA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Botánica Órgano de las plantas que crece en dirección opuesta al tallo",
+              "answer": "RAIZ"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Agonizo mucho tiempo",
+              "answer": "PENO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"… de Armas\" actriz cubano",
+              "answer": "ANA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Banda colombiana de pop latino autores de 'Besos en guerra'",
+              "answer": "MORAT"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Firme y seguro en lo que dice",
+              "answer": "ASERTIVO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vengativo, malévolo",
+              "answer": "RENCOROSO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "España Hermano del mismo padre y madre",
+              "answer": "TATO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Estas no, las otras",
+              "answer": "ESAS"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "No pagué impuestos",
+              "answer": "EVADI"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Ajuste y acoplamiento de las diversas partes de una joya",
+              "answer": "MONTAJE"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Escáner de código de barras",
+              "answer": "LECTOR"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Solitase, suplicase",
+              "answer": "INSTASE"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Recién duchado",
+              "answer": "ASEADO"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Permiso a los prebendados para dejar de asistir al coro",
+              "answer": "RECRE"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Dios griego de la guerra",
+              "answer": "ARES"
+            },
+            "30": {
+              "col": 14,
+              "row": 5,
+              "clue": "Novena hora después de la salida del sol",
+              "answer": "NONA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Derecho Pleito, litigio judicial",
+              "answer": "LITE"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"La… de piedra no terminó por falta de piedras\" Anónimo",
+              "answer": "EDAD"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Comprobar si algo es verdad o fake news",
+              "answer": "VERIFICAR"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Puesto en práctica un poder, derecho o influencia",
+              "answer": "EJERCIDO"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "Presidente de España, 1996",
+              "answer": "AZNAR"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "El tepuy, al sur de Venezuela, con una cueva formada de cuarzo",
+              "answer": "AUTANA"
+            },
+            "46": {
+              "col": 4,
+              "row": 10,
+              "clue": "3ª porción del intestino delgado",
+              "answer": "ILEON"
+            },
+            "48": {
+              "col": 12,
+              "row": 10,
+              "clue": "Emperador romano, sucesor de Claudio",
+              "answer": "NERON"
+            },
+            "49": {
+              "col": 13,
+              "row": 10,
+              "clue": "Bajaban, descendían",
+              "answer": "CAIAN"
+            },
+            "50": {
+              "col": 14,
+              "row": 10,
+              "clue": "\"Café con… de mujer\" telenovela colombiana",
+              "answer": "AROMA"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Caída de un mercado financiero",
+              "answer": "CRAC"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "Un agujero en Inglaterra",
+              "answer": "HOLE"
+            },
+            "53": {
+              "col": 7,
+              "row": 11,
+              "clue": "Me coloco adecuadamente para la foto",
+              "answer": "POSO"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "\"… Rau\" modelo francesa, trans y novia de Mbappé",
+              "answer": "INES"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Raído, sin pelo",
+              "answer": "ROSO"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Fuerzas Croatas de Defensa",
+              "answer": "HOS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La madre de todos los dioses griegos (inv)",
+              "answer": "AREH"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Instrumento musical de cuerdas",
+              "answer": "ARPA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Planeta rojo",
+              "answer": "MARTE"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Lente de aumento",
+              "answer": "LUPA"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Eliminan completamente",
+              "answer": "RAEN"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Hechas de hueso",
+              "answer": "OSEAS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Estética renacentista de la Inglaterra de Isabel I",
+              "answer": "ISABELINA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Aquello que paga en dinero un arrendatario",
+              "answer": "RENTA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Otro nombre para un escupitajo",
+              "answer": "SALIVAZO"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Piezas fijas en donde se encajan las puertas",
+              "answer": "MARCOS"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lo que pertenece a la rufianesca",
+              "answer": "OSETA"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Marca deportiva italiana",
+              "answer": "LOTTO"
+            },
+            "24": {
+              "col": 3,
+              "row": 5,
+              "clue": "Detestaren",
+              "answer": "ODIAREN"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "País del Oriente Medio cuya lengua oficial es el persa",
+              "answer": "IRAN"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Espeque de que se sirven los artilleros",
+              "answer": "LEV"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Que tiene una dieta a base de bichos",
+              "answer": "INSECTIVORO"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "¡Edie, se me ocurrió algo!",
+              "answer": "IDEE"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Doctrina religiosa apartada de lo ortodoxo",
+              "answer": "SECTA"
+            },
+            "38": {
+              "col": 11,
+              "row": 7,
+              "clue": "Emprendan con audacia",
+              "answer": "OSEN"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Decisión perjudicial de un árbitro de fútbol (2p)",
+              "answer": "TARJETAROJA"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "Osados sin par",
+              "answer": "OSA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… Sedgwick\", musa de Andy Warhol",
+              "answer": "EDIE"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Sazona, adoba",
+              "answer": "ADEREZA"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Elemento decorativo horizontal en arquitectura",
+              "answer": "FRISO"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "El país del… jamás",
+              "answer": "NUNCA"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "La goma de mascar es un mal cliché",
+              "answer": "CHICLE"
+            },
+            "53": {
+              "col": 7,
+              "row": 11,
+              "clue": "Descargar películas haciendo clic con un garfio",
+              "answer": "PIRATEAR"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Esparcí en gotas menudas",
+              "answer": "ROCIE"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Tarifa por un servicio prestado",
+              "answer": "HONORARIO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Insecto volador",
+              "answer": "ALADO"
+            },
+            "59": {
+              "col": 6,
+              "row": 13,
+              "clue": "Tengas el atrevimiento de ponerme el cerebro al revés",
+              "answer": "OSES"
+            },
+            "60": {
+              "col": 11,
+              "row": 13,
+              "clue": "\"… Chomsky\" importante lingüista norteamericano",
+              "answer": "NOAM"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Residuo o heces de los panales de la cera",
+              "answer": "CERON"
+            },
+            "62": {
+              "col": 6,
+              "row": 14,
+              "clue": "Sin sabor",
+              "answer": "SOSO"
+            },
+            "63": {
+              "col": 11,
+              "row": 14,
+              "clue": "\"… Karenina\", novela de León Tolstoi",
+              "answer": "ANNA"
+            }
+          }
+        },
+        "vertical_clues": "1-Arreglo el cabello\r\n2-Las ruletas de la muerte\r\n3-Coloquial Voz usada para saludar\r\n4-Yo vivo donde está mi costumbre\r\n5-Pon las frutas en arlos\r\n6-Botánica Órgano de las plantas que crece en dirección opuesta al tallo\r\n7-Agonizo mucho tiempo\r\n8-\"… de Armas\" actriz cubano-española\r\n9-Banda colombiana de pop latino autores de 'Besos en guerra'\r\n10-Firme y seguro en lo que dice\r\n11-Vengativo, malévolo\r\n12-España Hermano del mismo padre y madre\r\n13-Estas no, las otras\r\n18-No pagué impuestos\r\n21-Ajuste y acoplamiento de las diversas partes de una joya\r\n23-Escáner de código de barras\r\n25-Solitase, suplicase\r\n26-Recién duchado\r\n27-Permiso a los prebendados para dejar de asistir al coro\r\n29-Dios griego de la guerra\r\n30-Novena hora después de la salida del sol\r\n31-Derecho Pleito, litigio judicial\r\n32-\"La… de piedra no terminó por falta de piedras\" Anónimo\r\n33-Comprobar si algo es verdad o fake news\r\n36-Puesto en práctica un poder, derecho o influencia\r\n40-Presidente de España, 1996 - 2004\r\n44-El tepuy, al sur de Venezuela, con una cueva formada de cuarzo\r\n46-3ª porción del intestino delgado\r\n48-Emperador romano, sucesor de Claudio\r\n49-Bajaban, descendían\r\n50-\"Café con… de mujer\" telenovela colombiana\r\n51-Caída de un mercado financiero\r\n52-Un agujero en Inglaterra\r\n53-Me coloco adecuadamente para la foto\r\n54-\"… Rau\" modelo francesa, trans y novia de Mbappé\r\n55-Raído, sin pelo\r\n57-Fuerzas Croatas de Defensa",
+        "horizontal_clues": "1-La madre de todos los dioses griegos (inv)\r\n5-Instrumento musical de cuerdas\r\n9-Planeta rojo\r\n14-Lente de aumento\r\n15-Eliminan completamente\r\n16-Hechas de hueso\r\n17-Estética renacentista de la Inglaterra de Isabel I\r\n19-Aquello que paga en dinero un arrendatario\r\n20-Otro nombre para un escupitajo\r\n21-Piezas fijas en donde se encajan las puertas\r\n22-Lo que pertenece a la rufianesca\r\n23-Marca deportiva italiana\r\n24-Detestaren\r\n28-País del Oriente Medio cuya lengua oficial es el persa\r\n31-Espeque de que se sirven los artilleros\r\n34-Que tiene una dieta a base de bichos\r\n35-¡Edie, se me ocurrió algo! \r\n37-Doctrina religiosa apartada de lo ortodoxo\r\n38-Emprendan con audacia\r\n39-Decisión perjudicial de un árbitro de fútbol (2p)\r\n41-Osados sin par\r\n42-\"… Sedgwick\", musa de Andy Warhol\r\n43-Sazona, adoba\r\n45-Elemento decorativo horizontal en arquitectura \r\n47-El país del… jamás\r\n51-La goma de mascar es un mal cliché\r\n53-Descargar películas haciendo clic con un garfio\r\n56-Esparcí en gotas menudas\r\n57-Tarifa por un servicio prestado\r\n58-Insecto volador\r\n59-Tengas el atrevimiento de ponerme el cerebro al revés\r\n60-\"… Chomsky\" importante lingüista norteamericano\r\n61-Residuo o heces de los panales de la cera\r\n62-Sin sabor\r\n63-\"… Karenina\", novela de León Tolstoi",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,#,#,#,21,#,#,#,#,#\r\n22,#,#,#,#,#,#,#,23,#,#,#,#,#,#\r\n#,#,#,24,#,25,26,27,#,#,#,28,#,29,30\r\n31,32,33,#,34,#,#,#,#,#,#,#,#,#,#\r\n35,#,#,36,#,37,#,#,#,#,#,38,#,#,#\r\n39,#,#,#,#,#,#,#,#,#,40,#,41,#,#\r\n42,#,#,#,#,43,#,#,#,#,#,44,#,#,#\r\n#,#,45,#,46,#,#,#,#,#,47,#,48,49,50\r\n51,52,#,#,#,#,#,53,54,55,#,#,#,#,#\r\n56,#,#,#,#,#,57,#,#,#,#,#,#,#,#\r\n58,#,#,#,#,#,59,#,#,#,#,60,#,#,#\r\n61,#,#,#,#,#,62,#,#,#,#,63,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

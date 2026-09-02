@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 2285,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T16:33:46.342682Z",
+      "updatedAt": "2025-04-29T18:04:04.471977Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#RUPERT#SACARE#\r\nBENIGNO#EVOCARA\r\nAPICE#MAS#COMIC\r\nMADONNA#ALEGATO\r\nBROTO#DAM#RESES\r\nUT#E#VALOR#R#MA\r\nSOCOLE#T#ELEVAR\r\n##T#ENMENDE#I##\r\nRAERIA#R#ESPERA\r\nES#E#SANES#L#EL\r\nCOCAS#FAX#SALTE\r\nINOCULO#CHUTARA\r\nPAUTE#REU#CITAR\r\nERRONEA#SAINETE\r\n#ATRAER#AMAINO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Lo distribuyo entre todo el elenco",
+              "answer": "REPARTO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Incorporado, fusionado",
+              "answer": "UNIDO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Pico por aquí, pico por allá",
+              "answer": "PICOTEO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Desuso Pobre, escaso, miserable",
+              "answer": "EGENO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Casada y borracha, participó en la conquista",
+              "answer": "TOMADA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Pasta de nueces, almendras o piñones con ajonjolí",
+              "answer": "SESAMO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Américo Vespucio",
+              "answer": "AV"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Hacer comestible un alimento",
+              "answer": "COCER"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Serviré de refugio a alguien, lo…",
+              "answer": "ACOGERE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Divisiones de una ciencia",
+              "answer": "RAMAS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Med Inflamación de la piel, caracterizada por manchas rojas",
+              "answer": "ERITEMA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Principal alimento del oso panda (pl)",
+              "answer": "BAMBUS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Perseguir, hostigar",
+              "answer": "ACOSAR"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "Se alteran como locos si es una opción diferente",
+              "answer": "ALTERNA"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Conductos por donde retorna la sangre al corazón",
+              "answer": "VENAS"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Continuación de Invisible, el libro de Eloy Moreno",
+              "answer": "REDES"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "Abreviatura de Comandante",
+              "answer": "CTE"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Comprendí lo escrito",
+              "answer": "LEI"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Pronombre personal dativo de 3ª persona plural",
+              "answer": "LES"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"La… en Rose\" en la voz de Édith Piaf",
+              "answer": "VIE"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Perecí confundida esperando la receta médica",
+              "answer": "RECIPE"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Convendrá un sonido con otro",
+              "answer": "ASONARA"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "El que estalló en Chernóbil",
+              "answer": "REACTOR"
+            },
+            "40": {
+              "col": 11,
+              "row": 8,
+              "clue": "El mejor futbolista francés del siglo XX",
+              "answer": "PLATINI"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Este va a ser el de Dorian Gray",
+              "answer": "RETRATO"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Mezclaré los metales",
+              "answer": "ALEARE"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Teatro Cubrir las partes del escenario que deben ocultarse al público",
+              "answer": "AFORAR"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Mentira para faltar o llegar tarde al trabajo",
+              "answer": "EXCUSA"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "El 'Royal… Theatre' en Londres",
+              "answer": "COURT"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Hace ruido",
+              "answer": "SUENA"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Una jugada tramposa",
+              "answer": "SUCIA"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Palpitan, pulsan",
+              "answer": "LATEN"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Ramón perdió el cubata",
+              "answer": "AM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… Grint\" interpreta a Ron Weasley en 'Harry Potter'",
+              "answer": "RUPERT"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Aturdida por la resaca, obtendré un 10",
+              "answer": "SACARE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Tumor irrelevante, incapaz de extenderse",
+              "answer": "BENIGNO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Recordará, añorará",
+              "answer": "EVOCARA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Parte pequeñísima, punto muy reducido",
+              "answer": "APICE"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Signo de la suma",
+              "answer": "MAS"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Revista de caricaturas",
+              "answer": "COMIC"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "La reina del pop, la de la isla bonita",
+              "answer": "MADONNA"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Declaración, explicación, ante un juez",
+              "answer": "ALEGATO"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Emergió como una flor",
+              "answer": "BROTO"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "He perdido el pudor en Damasco",
+              "answer": "DAM"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Animales vacunos",
+              "answer": "RESES"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Inic de la prota de 'Kill Bill' de Tarantino",
+              "answer": "UT"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"… pero se necesita aún más __ para enfrentarnos a nuestros amigos\" Dumbledore",
+              "answer": "VALOR"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Iniciales del emperador romano, autor de 'Meditaciones'",
+              "answer": "MA"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Desmonté árboles, podé ramas",
+              "answer": "SOCOLE"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Se revela la confusión y es mejor subir una plegaria",
+              "answer": "ELEVAR"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Puse en mejor estado",
+              "answer": "ENMENDE"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Desgastaría la ropa por el uso",
+              "answer": "RAERIA"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "Párese y repase mientras aguarda",
+              "answer": "ESPERA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Iniciales del escritor argentino de 'Sobre héroes y tumbas'",
+              "answer": "ES"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Recuperes la salud",
+              "answer": "SANES"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"¿Qué tiene … que no tenga yo?\"",
+              "answer": "EL"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Bizcochos En Valencia, son de llanda",
+              "answer": "COCAS"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Sistema que transmite por línea telefónica escritos o gráficos",
+              "answer": "FAX"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Ya brinqué, ahora vete para afuera",
+              "answer": "SALTE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Introduzco una idea como un virus",
+              "answer": "INOCULO"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Pateará fuerte al balón",
+              "answer": "CHUTARA"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Determiné el modo de ejecutar una acción",
+              "answer": "PAUTE"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Génesis Hijo de Peleg, padre de Serug",
+              "answer": "REU"
+            },
+            "58": {
+              "col": 10,
+              "row": 12,
+              "clue": "Señalar hora, día y lugar para encontrarse con alguien",
+              "answer": "CITAR"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Respuesta equivocada",
+              "answer": "ERRONEA"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Situación tragicómica",
+              "answer": "SAINETE"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Acercar, cautivar",
+              "answer": "ATRAER"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Aflojó su potencia el viento",
+              "answer": "AMAINO"
+            }
+          }
+        },
+        "vertical_clues": "1-Lo distribuyo entre todo el elenco\r\n2-Incorporado, fusionado\r\n3-Pico por aquí, pico por allá\r\n4-Desuso Pobre, escaso, miserable\r\n5-Símbolo químico del Radón\r\n6-Casada y borracha, participó en la conquista\r\n7-Pasta de nueces, almendras o piñones con ajonjolí\r\n8-Américo Vespucio\r\n9-Hacer comestible un alimento\r\n10-Serviré de refugio a alguien, lo…\r\n11-Divisiones de una ciencia\r\n12-Med Inflamación de la piel, caracterizada por manchas rojas\r\n13-Principal alimento del oso panda (pl)\r\n15-Perseguir, hostigar\r\n23-Se alteran como locos si es una opción diferente\r\n26-Conductos por donde retorna la sangre al corazón\r\n27-Continuación de Invisible, el libro de Eloy Moreno\r\n30-Abreviatura de Comandante\r\n31-Comprendí lo escrito\r\n33-Pronombre personal dativo de 3ª persona plural\r\n34-\"La… en Rose\" en la voz de Édith Piaf\r\n36-Perecí confundida esperando la receta médica\r\n37-Convendrá un sonido con otro\r\n38-El que estalló en Chernóbil\r\n40-El mejor futbolista francés del siglo XX\r\n41-Este va a ser el de Dorian Gray\r\n42-Mezclaré los metales\r\n45-Teatro Cubrir las partes del escenario que deben ocultarse al público\r\n46-Mentira para faltar o llegar tarde al trabajo\r\n49-El 'Royal… Theatre' en Londres\r\n50-Hace ruido\r\n52-Una jugada tramposa\r\n53-Palpitan, pulsan\r\n60-Piel de elefante\r\n62-Ramón perdió el cubata",
+        "horizontal_clues": "1-\"… Grint\" interpreta a Ron Weasley en 'Harry Potter'\r\n7-Aturdida por la resaca, obtendré un 10\r\n13-Tumor irrelevante, incapaz de extenderse\r\n14-Recordará, añorará\r\n16-Parte pequeñísima, punto muy reducido\r\n17-Signo de la suma\r\n18-Revista de caricaturas\r\n19-La reina del pop, la de la isla bonita\r\n20-Declaración, explicación, ante un juez\r\n21-Emergió como una flor\r\n22-He perdido el pudor en Damasco\r\n24-Animales vacunos\r\n25-Inic de la prota de 'Kill Bill' de Tarantino\r\n26-\"… pero se necesita aún más __ para enfrentarnos a nuestros amigos\" Dumbledore\r\n28-Iniciales del emperador romano, autor de 'Meditaciones'\r\n29-Desmonté árboles, podé ramas\r\n32-Se revela la confusión y es mejor subir una plegaria\r\n35-Puse en mejor estado\r\n36-Desgastaría la ropa por el uso\r\n39-Párese y repase mientras aguarda\r\n43-Iniciales del escritor argentino de 'Sobre héroes y tumbas' \r\n44-Recuperes la salud\r\n47-\"¿Qué tiene … que no tenga yo?\" \r\n48-Bizcochos En Valencia, son de llanda\r\n51-Sistema que transmite por línea telefónica escritos o gráficos\r\n52-Ya brinqué, ahora vete para afuera\r\n54-Introduzco una idea como un virus\r\n55-Pateará fuerte al balón\r\n56-Determiné el modo de ejecutar una acción\r\n57-Génesis Hijo de Peleg, padre de Serug\r\n58-Señalar hora, día y lugar para encontrarse con alguien\r\n59-Respuesta equivocada\r\n61-Situación tragicómica\r\n63-Acercar, cautivar\r\n64-Aflojó su potencia el viento",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,#,#,18,#,#,#,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,#,22,23,#,#,24,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,#,#,28,#\r\n29,#,30,#,31,#,#,#,#,32,33,#,34,#,#\r\n#,#,#,#,35,#,#,#,#,#,#,#,#,#,#\r\n36,37,#,38,#,#,#,#,#,39,#,40,#,41,42\r\n43,#,#,#,#,44,45,#,46,#,#,#,#,47,#\r\n48,#,49,#,50,#,51,#,#,#,52,#,53,#,#\r\n54,#,#,#,#,#,#,#,55,#,#,#,#,#,#\r\n56,#,#,#,#,#,57,#,#,#,58,#,#,#,#\r\n59,#,#,#,#,60,#,#,61,62,#,#,#,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

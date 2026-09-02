@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1023,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-04T12:39:35.463558Z",
+      "updatedAt": "2024-10-04T12:39:35.463578Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-07",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SOBREVENIDAS#GC\r\nTV#UDON#VELORIO\r\n#ACAECE#AMARO#L\r\nIRIS#AJENA#ASCO\r\nNIC##LAXAS##CAN\r\nTOLAS##P##BEORI\r\nOSABA#LOS#ANSIA\r\nX##UNAI#KANT##L\r\nILESA#SMA#DERBI\r\nCONOR##E##ARIES\r\nABC##ASNOS##GNM\r\nCOOK#MAUTE#PEGO\r\nI#NATAL#AGUILA#\r\nOLOROSA#KURT#LI\r\nNR#TRANQUILIDAD",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Iniciales de líder y vocalista de Aerosmith.",
+              "answer": "ST"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Gónadas femeninas productoras de óvulos.",
+              "answer": "OVARIOS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Paseas por la calle cortejando damas.",
+              "answer": "RUAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Evaluador de Defensa Electrónica.",
+              "answer": "EDE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "La A, la E, la I, la O o la U.",
+              "answer": "VOCAL"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Lo pone en su eje.",
+              "answer": "ENEJA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Actriz que interpreta a Eva Villanueva en la serie 'Alta Mar'.",
+              "answer": "IVANA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "El resto de personas, los...",
+              "answer": "DEMAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Malala expulsó la maldad.",
+              "answer": "ALA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Devuelve las argollas a mi amiga Soraida.",
+              "answer": "SORA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Dominio web para Gibraltar.",
+              "answer": "GI"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Régimen en el que un Estado controla y explota un territorio ajeno.",
+              "answer": "COLONIALISMO"
+            },
+            "16": {
+              "col": 12,
+              "row": 1,
+              "clue": "\"... de vino\" postre tradicional navideño.",
+              "answer": "ROSCOS"
+            },
+            "18": {
+              "col": 2,
+              "row": 2,
+              "clue": "Colombia. Bicicleta (coloquial).",
+              "answer": "CICLA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Envenenamiento por comida descompuesta.",
+              "answer": "INTOXICACION"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Abreviatura de \"exposición\".",
+              "answer": "EXPO"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "De color pardo o plomizo.",
+              "answer": "CARI"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Uso excesivo de una sustancia.",
+              "answer": "ABUSO"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Curar a los batracios que regresan.",
+              "answer": "SANAR"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Agrupación musical o delincuencial.",
+              "answer": "BANDA"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Tecla para indicar el fin de una cadena de caracteres de entrada.",
+              "answer": "ENTER"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Flor, símbolo de los Scouts.",
+              "answer": "LIS"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Género musical jamaiquino.",
+              "answer": "SKA"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"El hombre es un... para el hombre\", frase de Hobbes.",
+              "answer": "LOBO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Empeoró la herida, se...",
+              "answer": "ENCONO"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Carta del día de un restaurante.",
+              "answer": "MENU"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Estrella más brillante de la constelación de Orión.",
+              "answer": "RIGEL"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"Tigre de...\", natural de la India.",
+              "answer": "BENGALA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prepara la masa.",
+              "answer": "AMASA"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Conservan con sal.",
+              "answer": "SALAN"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Friki del ánime o manga japonesa.",
+              "answer": "OTAKU"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Continué, perseveré.",
+              "answer": "SEGUI"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"Mario...\" videojuego de carreras de Nintendo.",
+              "answer": "KART"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Un cigarrito.",
+              "answer": "PITI"
+            },
+            "60": {
+              "col": 4,
+              "row": 12,
+              "clue": "Son medio torpes.",
+              "answer": "TOR"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "La dirección de una página web.",
+              "answer": "URL"
+            },
+            "64": {
+              "col": 1,
+              "row": 13,
+              "clue": "Inic. del fundador del grupo automovilístico Renault.",
+              "answer": "LR"
+            },
+            "67": {
+              "col": 14,
+              "row": 13,
+              "clue": "Saliendo de Valladolid.",
+              "answer": "ID"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El 80% de las discapacidades, las que no son congénitas.",
+              "answer": "SOBREVENIDAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "La Guardia Civil en Gran Canarias.",
+              "answer": "GC"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "La caja mágica.",
+              "answer": "TV"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Fideo japonés grueso, de harina de trigo.",
+              "answer": "UDON"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Previo a un entierro o cremación.",
+              "answer": "VELORIO"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Sucede, acontece.",
+              "answer": "ACAECE"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Dicho de un avión: que se posó en el agua.",
+              "answer": "AMARO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Parte del ojo.",
+              "answer": "IRIS"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Que ridículo, me da vergüenza...",
+              "answer": "AJENA"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Repugnante esa cosa.",
+              "answer": "ASCO"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Hay que seguir las Normas Internacionales de Contabilidad.",
+              "answer": "NIC"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Aflojas, disminuyes la tensión intestinal.",
+              "answer": "LAXAS"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Perro, mamífero cánido.",
+              "answer": "CAN"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ecu. Tumbas monticulares de los antiguos aborígenes.",
+              "answer": "TOLAS"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tapir, danta.",
+              "answer": "BEORI"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Se arriesgaba, se aventuraba.",
+              "answer": "OSABA"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Dejarlos por la derecha.",
+              "answer": "LOS"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Angustia o aflicción del ánimo.",
+              "answer": "ANSIA"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"... Elorriaga\" escritor bilbaíno de la novela \"Un tranvía en SP\" (2002).",
+              "answer": "UNAI"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Filósofo alemán, autor de 'Crítica de la razón pura'.",
+              "answer": "KANT"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Que no ha recibido lesión (fem).",
+              "answer": "ILESA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"Su Majestad apostólica\", título del rey de Hungría.",
+              "answer": "SMA"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Encuentro futbolístico de la misma ciudad.",
+              "answer": "DERBI"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"... McGregor\" peleador de MMA con su caminar.",
+              "answer": "CONOR"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Signo del zodíaco con cuernos de carnero.",
+              "answer": "ARIES"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Las tres primeras.",
+              "answer": "ABC"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Lo son Platero y el burrito sabanero.",
+              "answer": "ASNOS"
+            },
+            "54": {
+              "col": 12,
+              "row": 10,
+              "clue": "El Germanisches NationalMuseum.",
+              "answer": "GNM"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'.",
+              "answer": "COOK"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "Res de los ocho meses al año y medio de edad.",
+              "answer": "MAUTE"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Golpeó.",
+              "answer": "PEGO"
+            },
+            "59": {
+              "col": 2,
+              "row": 12,
+              "clue": "Tierra en la que ha nacido una persona.",
+              "answer": "NATAL"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Emblemática ave de EEUU.",
+              "answer": "AGUILA"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Que exhala de sí fragancia (fem).",
+              "answer": "OLOROSA"
+            },
+            "65": {
+              "col": 8,
+              "row": 13,
+              "clue": "Vocalista de Nirvana (1967",
+              "answer": "KURT"
+            },
+            "66": {
+              "col": 13,
+              "row": 13,
+              "clue": "\"Cincuenta y uno\" en números romanos.",
+              "answer": "LI"
+            },
+            "68": {
+              "col": 0,
+              "row": 14,
+              "clue": "No respondas.",
+              "answer": "NR"
+            },
+            "69": {
+              "col": 3,
+              "row": 14,
+              "clue": "Estado de sosiego y calma.",
+              "answer": "TRANQUILIDAD"
+            }
+          }
+        },
+        "vertical_clues": "1-Iniciales de líder y vocalista de Aerosmith.\r\n2-Gónadas femeninas productoras de óvulos.\r\n3-Paseas por la calle cortejando damas.\r\n4-Evaluador de Defensa Electrónica.\r\n5-La A, la E, la I, la O o la U.\r\n6-Lo pone en su eje.\r\n7-Actriz que interpreta a Eva Villanueva en la serie 'Alta Mar'.\r\n8-El resto de personas, los...\r\n9-Malala expulsó la maldad.\r\n10-Devuelve las argollas a mi amiga Soraida.\r\n11-Dominio web para Gibraltar.\r\n12-Régimen en el que un Estado controla y explota un territorio ajeno.\r\n16-\"... de vino\" postre tradicional navideño.\r\n18-Colombia. Bicicleta (coloquial).\r\n20-Envenenamiento por comida descompuesta.\r\n22-Abreviatura de \"exposición\".\r\n24-De color pardo o plomizo.\r\n29-Uso excesivo de una sustancia.\r\n30-Curar a los batracios que regresan.\r\n31-Agrupación musical o delincuencial.\r\n32-Tecla para indicar el fin de una cadena de caracteres de entrada.\r\n34-Flor, símbolo de los Scouts.\r\n35-Género musical jamaiquino.\r\n40-\"El hombre es un... para el hombre\", frase de Hobbes.\r\n41-Empeoró la herida, se...\r\n43-Carta del día de un restaurante.\r\n45-Estrella más brillante de la constelación de Orión.\r\n46-\"Tigre de...\", natural de la India.\r\n50-Prepara la masa.\r\n51-Conservan con sal.\r\n52-Friki del ánime o manga japonesa.\r\n53-Continué, perseveré.\r\n56-\"Mario...\" videojuego de carreras de Nintendo. \r\n58-Un cigarrito.\r\n60-Son medio torpes.\r\n62-La dirección de una página web.\r\n64-Inic. del fundador del grupo automovilístico Renault.\r\n67-Saliendo de Valladolid.",
+        "horizontal_clues": "1-El 80% de las discapacidades, las que no son congénitas.\r\n11-La Guardia Civil en Gran Canarias.\r\n13-La caja mágica.\r\n14-Fideo japonés grueso, de harina de trigo.\r\n15-Previo a un entierro o cremación.\r\n17-Sucede, acontece.\r\n19-Dicho de un avión: que se posó en el agua.\r\n20-Parte del ojo.\r\n21-Que ridículo, me da vergüenza...\r\n23-Repugnante esa cosa.\r\n25-Hay que seguir las Normas Internacionales de Contabilidad.\r\n26-Aflojas, disminuyes la tensión intestinal.\r\n27-Perro, mamífero cánido.\r\n28-Ecu. Tumbas monticulares de los antiguos aborígenes.\r\n31-Tapir, danta.\r\n33-Se arriesgaba, se aventuraba.\r\n34-Dejarlos por la derecha.\r\n36-Angustia o aflicción del ánimo.\r\n37-\"... Elorriaga\" escritor bilbaíno de la novela \"Un tranvía en SP\" (2002).\r\n38-Filósofo alemán, autor de 'Crítica de la razón pura'.\r\n39-Que no ha recibido lesión (fem).\r\n42-\"Su Majestad apostólica\", título del rey de Hungría.\r\n44-Encuentro futbolístico de la misma ciudad.\r\n47-\"... McGregor\" peleador de MMA con su caminar.\r\n48-Signo del zodíaco con cuernos de carnero.\r\n49-Las tres primeras.\r\n50-Lo son Platero y el burrito sabanero.\r\n54-El Germanisches NationalMuseum.\r\n55-\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'.\r\n57-Res de los ocho meses al año y medio de edad.\r\n58-Golpeó.\r\n59-Tierra en la que ha nacido una persona.\r\n61-Emblemática ave de EEUU.\r\n63-Que exhala de sí fragancia (fem).\r\n65-Vocalista de Nirvana (1967-1994).\r\n66-\"Cincuenta y uno\" en números romanos.\r\n68-No respondas.\r\n69-Estado de sosiego y calma.",
+        "board_clues_positions": "1,2,#,3,4,5,6,#,7,8,9,10,#,11,12\r\n13,#,#,14,#,#,#,#,15,#,#,#,16,#,#\r\n#,17,18,#,#,#,#,#,19,#,#,#,#,#,#\r\n20,#,#,#,#,21,#,22,#,#,#,23,#,24,#\r\n25,#,#,#,#,26,#,#,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,#,#,#,#,31,32,#,#,#\r\n33,#,#,#,#,#,34,#,35,#,36,#,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,41,#,#,#,42,43,#,#,44,#,45,46,#\r\n47,#,#,#,#,#,#,#,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,51,#,52,53,#,#,54,#,#\r\n55,#,#,56,#,57,#,#,#,#,#,58,#,#,#\r\n#,#,59,#,60,#,#,#,61,#,62,#,#,#,#\r\n63,64,#,#,#,#,#,#,65,#,#,#,#,66,67\r\n68,#,#,69,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1204,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-21T13:11:19.445808Z",
+      "updatedAt": "2024-11-21T13:11:19.504275Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-23",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PLASTICO#ATRACO\r\nO#TOUS#BARRIL#V\r\nTEONIMO#CROMADA\r\nAPESTAR#MALABAR\r\n#IS##ECHES#ROBA\r\nIC#MELON#TM##A#\r\nMONOS##ERRATA#C\r\nASENTAR#NEGOCIO\r\nN#CAERTE##ICONO\r\n#R##SR#APICE#GL\r\nFORD#IOTAS##TE#\r\nEJERCER#LLENARE\r\nCOCAINE#MEJORIA\r\nH#AMADEO#TETA#C\r\nAPIADA#CLAMOREO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Calamar basto",
+              "answer": "POTA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Remolques un navío",
+              "answer": "ATOES"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Hijos de Inglaterra",
+              "answer": "SONS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Nota del pajarito",
+              "answer": "TUIT"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Miranda\", salsero apodado \"El Niño Bonito de la Salsa\"",
+              "answer": "ISMAEL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Iniciales del actor que interpreta a Legolas de El Señor de los Anillos",
+              "answer": "OB"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tipo de pesca, que habría que retrasar de alguna manera",
+              "answer": "ARRASTRE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mit nórdica Monstruo que habita en bosques",
+              "answer": "TROL"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Hacer una palabra consonante de otra",
+              "answer": "RIMAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Elogió, celebró con palabras",
+              "answer": "ALABO"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "¿Le pondrá huevos?",
+              "answer": "OVARA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Marca de productos del Correcaminos y el Coyote",
+              "answer": "ACME"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Legendarios, heroicos",
+              "answer": "EPICOS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Tolkien Monstruo de las hordas de Sauron y Saruman",
+              "answer": "ORCO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Proporcionaba, suministraba, entregaba",
+              "answer": "DABA"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Instrumento cónico de la familia del oboe usado en la música de Birmania",
+              "answer": "HNE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Me atrae esta mina explotada",
+              "answer": "IMAN"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Dulce de Pascua",
+              "answer": "MONA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Existas, seas",
+              "answer": "ESTES"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Juego de cartas donde batallan poderosos magos",
+              "answer": "MAGIC"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Necesito muy poco",
+              "answer": "NEC"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Porfía neciamente",
+              "answer": "TOCE"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "AntiConceptivos Orales",
+              "answer": "ACO"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "El frío de Inglaterra es guay",
+              "answer": "COOL"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Lo alquila a rienda suelta",
+              "answer": "ARRIENDA"
+            },
+            "40": {
+              "col": 6,
+              "row": 7,
+              "clue": "Russia Today",
+              "answer": "RT"
+            },
+            "42": {
+              "col": 13,
+              "row": 7,
+              "clue": "Tomé, comí, consumí",
+              "answer": "INGERI"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "En el Seat de Beatriz",
+              "answer": "EAT"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Color de advertencia",
+              "answer": "ROJO"
+            },
+            "49": {
+              "col": 8,
+              "row": 9,
+              "clue": "“… Beach”, Famosa playa de Aruba",
+              "answer": "PALM"
+            },
+            "50": {
+              "col": 9,
+              "row": 9,
+              "clue": "Arg Grupo de árboles aislados en medio de la llanura",
+              "answer": "ISLETA"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "DD/MM/AAAA",
+              "answer": "FECHA"
+            },
+            "53": {
+              "col": 2,
+              "row": 10,
+              "clue": "Reincidí, volví con la loca de Érica",
+              "answer": "RECAI"
+            },
+            "54": {
+              "col": 3,
+              "row": 10,
+              "clue": "Vaya película la que se ha montado Darma",
+              "answer": "DRAMA"
+            },
+            "56": {
+              "col": 6,
+              "row": 10,
+              "clue": "Airee, refresque, ventile",
+              "answer": "OREE"
+            },
+            "57": {
+              "col": 12,
+              "row": 10,
+              "clue": "Señalar la tara o peso de algo",
+              "answer": "TARAR"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "Echad para atrás",
+              "answer": "CIAD"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Voz usada para dejar en suspenso el discurso",
+              "answer": "EJEM"
+            },
+            "62": {
+              "col": 11,
+              "row": 11,
+              "clue": "Percibió un tono desafinado",
+              "answer": "NOTO"
+            },
+            "63": {
+              "col": 14,
+              "row": 11,
+              "clue": "Mit Griega Uno de los jueces del infierno",
+              "answer": "EACO"
+            },
+            "67": {
+              "col": 7,
+              "row": 13,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Material eterno para productos efímeros",
+              "answer": "PLASTICO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Acción de asaltar con propósito de robo",
+              "answer": "ATRACO"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Marca de joyería española cuyo ícono es un oso",
+              "answer": "TOUS"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Este puede ser de vino o de petróleo",
+              "answer": "BARRIL"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "En nombre propio de un dios",
+              "answer": "TEONIMO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Bañada con una sustancia metálica que la hace inoxidable",
+              "answer": "CROMADA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Si lo apretás mal va a empezar a heder",
+              "answer": "APESTAR"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "La ardilla originaria de la India, que llega a medir hasta un metro",
+              "answer": "MALABAR"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Principio del islam",
+              "answer": "IS"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Arrojes, lances, tires",
+              "answer": "ECHES"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Hurta la obra equivocada",
+              "answer": "ROBA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ícaro perdió el anillo",
+              "answer": "IC"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Abre esta fruta y tendremos una discusión muy seria",
+              "answer": "MELON"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Símbolo de trademark (marca registrada)",
+              "answer": "TM"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Nosotros no somos como los Orozco / yo los conozco, son ocho los…\" León Ciego",
+              "answer": "MONOS"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "\"Fe de…\" lista de errores detectados en un libro",
+              "answer": "ERRATA"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Fundar, establecer un pueblo",
+              "answer": "ASENTAR"
+            },
+            "41": {
+              "col": 8,
+              "row": 7,
+              "clue": "Me suena a que hoy cogen al contrario en su trabajo",
+              "answer": "NEGOCIO"
+            },
+            "43": {
+              "col": 2,
+              "row": 8,
+              "clue": "Darte de bruces con el suelo",
+              "answer": "CAERTE"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "Disimuladamente volví con otro símbolo",
+              "answer": "ICONO"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "El señor Salomón Rondón",
+              "answer": "SR"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Parte pequeñísima, punto muy reducido",
+              "answer": "APICE"
+            },
+            "51": {
+              "col": 13,
+              "row": 9,
+              "clue": "Glamour sin amor es como un gol sin balón",
+              "answer": "GL"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Henry…\", padre de las cadenas de producción",
+              "answer": "FORD"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Novena letra del alfabeto griego (pl)",
+              "answer": "IOTAS"
+            },
+            "57": {
+              "col": 12,
+              "row": 10,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "58": {
+              "col": 0,
+              "row": 11,
+              "clue": "Practicar los actos propios de un oficio, facultad o profesión",
+              "answer": "EJERCER"
+            },
+            "60": {
+              "col": 8,
+              "row": 11,
+              "clue": "Ocuparé por completo un espacio vacío",
+              "answer": "LLENARE"
+            },
+            "64": {
+              "col": 0,
+              "row": 12,
+              "clue": "Canción de Eric Clapton contra las drogas",
+              "answer": "COCAINE"
+            },
+            "65": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"… de la muerte\" extraño alivio que experimenta un paciente terminal antes de morir",
+              "answer": "MEJORIA"
+            },
+            "66": {
+              "col": 2,
+              "row": 13,
+              "clue": "Rey de España desde 1871 hasta el 1873",
+              "answer": "AMADEO"
+            },
+            "68": {
+              "col": 9,
+              "row": 13,
+              "clue": "Este tabú escondido en mi pecho",
+              "answer": "TETA"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Causa piedad",
+              "answer": "APIADA"
+            },
+            "70": {
+              "col": 7,
+              "row": 14,
+              "clue": "Clamor repetido o continuado",
+              "answer": "CLAMOREO"
+            }
+          }
+        },
+        "vertical_clues": "1-Calamar basto\r\n2-Remolques un navío\r\n3-Hijos de Inglaterra\r\n4-Nota del pajarito\r\n5-\"… Miranda\", salsero apodado \"El Niño Bonito de la Salsa\"\r\n6-Iniciales del actor que interpreta a Legolas de El Señor de los Anillos\r\n7-Tipo de pesca, que habría que retrasar de alguna manera\r\n8-Mit nórdica Monstruo que habita en bosques\r\n9-Hacer una palabra consonante de otra\r\n10-Elogió, celebró con palabras\r\n11-¿Le pondrá huevos? \r\n14-Marca de productos del Correcaminos y el Coyote\r\n16-Legendarios, heroicos\r\n17-Tolkien Monstruo de las hordas de Sauron y Saruman\r\n19-Proporcionaba, suministraba, entregaba\r\n24-Instrumento cónico de la familia del oboe usado en la música de Birmania\r\n26-Me atrae esta mina explotada\r\n27-Dulce de Pascua\r\n28-Existas, seas\r\n30-Juego de cartas donde batallan poderosos magos\r\n32-Necesito muy poco\r\n34-Símbolo químico del Radón\r\n35-Porfía neciamente\r\n36-AntiConceptivos Orales\r\n37-El frío de Inglaterra es guay\r\n39-Lo alquila a rienda suelta\r\n40-Russia Today\r\n42-Tomé, comí, consumí\r\n44-En el Seat de Beatriz\r\n46-Color de advertencia\r\n49-“… Beach”, Famosa playa de Aruba\r\n50-Arg Grupo de árboles aislados en medio de la llanura\r\n52-DD/MM/AAAA\r\n53-Reincidí, volví con la loca de Érica\r\n54-Vaya película la que se ha montado Darma\r\n56-Airee, refresque, ventile\r\n57-Señalar la tara o peso de algo\r\n59-Echad para atrás\r\n61-Voz usada para dejar en suspenso el discurso\r\n62-Percibió un tono desafinado\r\n63-Mit Griega Uno de los jueces del infierno\r\n67-Lengua provenzal \r\n",
+        "horizontal_clues": "1-Material eterno para productos efímeros\r\n7-Acción de asaltar con propósito de robo\r\n12-Marca de joyería española cuyo ícono es un oso\r\n13-Este puede ser de vino o de petróleo\r\n15-En nombre propio de un dios\r\n18-Bañada con una sustancia metálica que la hace inoxidable\r\n20-Si lo apretás mal va a empezar a heder \r\n21-La ardilla originaria de la India, que llega a medir hasta un metro\r\n22-Principio del islam\r\n23-Arrojes, lances, tires\r\n25-Hurta la obra equivocada\r\n26-Ícaro perdió el anillo\r\n27-Abre esta fruta y tendremos una discusión muy seria\r\n29-Símbolo de trademark (marca registrada)\r\n31-\"Nosotros no somos como los Orozco / yo los conozco, son ocho los…\" León Ciego\r\n33-\"Fe de…\" lista de errores detectados en un libro\r\n38-Fundar, establecer un pueblo\r\n41-Me suena a que hoy cogen al contrario en su trabajo\r\n43-Darte de bruces con el suelo\r\n45-Disimuladamente volví con otro símbolo\r\n47-El señor Salomón Rondón\r\n48-Parte pequeñísima, punto muy reducido\r\n51-Glamour sin amor es como un gol sin balón\r\n52-\"Henry…\", padre de las cadenas de producción\r\n55-Novena letra del alfabeto griego (pl)\r\n57-Teluro\r\n58-Practicar los actos propios de un oficio, facultad o profesión\r\n60-Ocuparé por completo un espacio vacío\r\n64-Canción de Eric Clapton contra las drogas\r\n65-\"… de la muerte\" extraño alivio que experimenta un paciente terminal antes de morir\r\n66-Rey de España desde 1871 hasta el 1873\r\n68-Este tabú escondido en mi pecho\r\n69-Causa piedad\r\n70-Clamor repetido o continuado\r\n",
+        "board_clues_positions": "1,#,2,3,4,5,#,6,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,13,14,#,#,#,#,#,#\r\n15,16,#,#,#,#,17,#,18,#,#,#,#,19,#\r\n20,#,#,#,#,#,#,#,21,#,#,#,#,#,#\r\n#,22,#,#,#,23,#,24,#,#,#,25,#,#,#\r\n26,#,#,27,28,#,#,#,#,29,30,#,#,#,#\r\n31,#,32,#,#,#,#,33,34,#,#,35,36,#,37\r\n38,#,#,#,#,39,40,#,41,#,#,#,#,42,#\r\n#,#,43,#,#,#,#,44,#,#,45,#,#,#,#\r\n#,46,#,#,47,#,#,48,49,50,#,#,#,51,#\r\n52,#,53,54,#,55,56,#,#,#,#,#,57,#,#\r\n58,#,#,#,59,#,#,#,60,#,61,62,#,#,63\r\n64,#,#,#,#,#,#,#,65,#,#,#,#,#,#\r\n#,#,66,#,#,#,#,67,#,68,#,#,#,#,#\r\n69,#,#,#,#,#,#,70,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

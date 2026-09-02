@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 6830,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-29T02:30:06.892803Z",
+      "updatedAt": "2026-07-29T02:30:53.221034Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#AKELA#FALACIA#\r\nCAYOS#FIREFOX#P\r\nRAIL#PELOTON#BE\r\nO#VIRIL#MANSION\r\nML#ATRIL#LIENZO\r\nAEA#NONAS#ARCAS\r\nTOSI#COCHE#VOLO\r\nONTAKU#REFCAM##\r\nGEOS#MOORE#DOMA\r\nRRR#RUPIA#PUDIN\r\nAA#FELIX#MORADA\r\nF#SOBON#RETIRAR\r\nIBIS#SECADOS#NC\r\nAURAS#NAZISMO#O\r\n#MOSTO#LARIOJA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Las pilas de mando de la Tv",
+              "answer": "AAA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Kiev escrito en ucraniano",
+              "answer": "KYIV"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Mujer griega que habitó en la Eólide",
+              "answer": "EOLIA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Feria Internacional del Libro (siglas)",
+              "answer": "FIL"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Baya silvestre color morado (inv)",
+              "answer": "AROM"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Dosis mortal, dosis…",
+              "answer": "LETAL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Falta de voz",
+              "answer": "AFONIA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Tendencia política que defiende lo tradicional",
+              "answer": "CONSERVADURISMO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Son las 9:00 en Roma",
+              "answer": "IX"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Técnica de laboratorio para separar componentes de una mezcla",
+              "answer": "CROMATOGRAFIA"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "Género del gato",
+              "answer": "FELINO"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Doloroso, lamentable",
+              "answer": "PENOSO"
+            },
+            "15": {
+              "col": 5,
+              "row": 2,
+              "clue": "Nubes que se forman por el calor de un incendio",
+              "answer": "PIROCUMULOS"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tapador que se pone a los perros en el hocico",
+              "answer": "BOZAL"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "Retro Televisión Network (siglas)",
+              "answer": "RTN"
+            },
+            "20": {
+              "col": 12,
+              "row": 3,
+              "clue": "Causar molestia o malestar a alguien",
+              "answer": "INCOMODAR"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Jaula de los leones",
+              "answer": "LEONERA"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"Jean…\" filósofo francés",
+              "answer": "LACROIX"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "\"… Piazzolla\", bandoneonista y representante del tango",
+              "answer": "ASTOR"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "La hermana de He-Man",
+              "answer": "SHERA"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Vías sin entrada",
+              "answer": "IAS"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "F",
+              "answer": "EFE"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Expresen sus ideas",
+              "answer": "OPINEN"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Recojan su talla, su altura",
+              "answer": "MIDAN"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Con tendencia anarquista",
+              "answer": "ANARCO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Significa \"Señor\" en yiddish, idioma propio de las comunidades judías asquenazíes",
+              "answer": "REB"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "De esta mina boliviana salió el 80% de toda la plata durante el periodo colonial",
+              "answer": "POTOSI"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Estas no deberían ser tan comunes",
+              "answer": "FOSAS"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Mesurar, contar",
+              "answer": "MEDIR"
+            },
+            "50": {
+              "col": 2,
+              "row": 11,
+              "clue": "Giuseppe Meazza o San… (el estadio del AC Milan o del Inter)",
+              "answer": "SIRO"
+            },
+            "51": {
+              "col": 8,
+              "row": 11,
+              "clue": "Nuestro origen étnico es una vuelta del azar",
+              "answer": "RAZA"
+            },
+            "53": {
+              "col": 1,
+              "row": 12,
+              "clue": "En las Fallas de Valencia se escucha fuerte el \"Primer aviso\"",
+              "answer": "BUM"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "Óxido de calcio",
+              "answer": "CAL"
+            },
+            "58": {
+              "col": 4,
+              "row": 13,
+              "clue": "En los autógrafos de Sharon Tate",
+              "answer": "ST"
+            },
+            "60": {
+              "col": 12,
+              "row": 13,
+              "clue": "Ojo sin cerrar",
+              "answer": "OJ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Nombre del papá lobo en \"El Libro de la selva\"",
+              "answer": "AKELA"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Argumento engañoso que parece válido",
+              "answer": "FALACIA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Los de Florida son unos 1700",
+              "answer": "CAYOS"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "\"Mozilla…\" navegador web",
+              "answer": "FIREFOX"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Carril de las vías férreas",
+              "answer": "RAIL"
+            },
+            "15": {
+              "col": 5,
+              "row": 2,
+              "clue": "Pequeña unidad de infantería",
+              "answer": "PELOTON"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dominio web para Bélgica",
+              "answer": "BE"
+            },
+            "17": {
+              "col": 2,
+              "row": 3,
+              "clue": "Aquel que posee características propias de un varón",
+              "answer": "VIRIL"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Lo es la casa de la Playboy",
+              "answer": "MANSION"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "1050 romanos",
+              "answer": "ML"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Mueble que sirve para sostener partituras",
+              "answer": "ATRIL"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Un cuadro sin pintar",
+              "answer": "LIENZO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Asociación Española de Anunciantes",
+              "answer": "AEA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Novenas",
+              "answer": "NONAS"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pieza donde se guarda el dinero en las tesorerías",
+              "answer": "ARCAS"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Hice fuerza y violencia con la respiración",
+              "answer": "TOSI"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Automóvil, carro",
+              "answer": "COCHE"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Se fue el pajarito",
+              "answer": "VOLO"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Bebida tradicional de Namibia hecha con mijo fermentado",
+              "answer": "ONTAKU"
+            },
+            "37": {
+              "col": 7,
+              "row": 7,
+              "clue": "Fút: Cámara que lleva el árbitro",
+              "answer": "REFCAM"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Miembros del grupo especial de operaciones",
+              "answer": "GEOS"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Cineasta y activista político, director de \"Fahrenheit 9/11\" y \"Sicko\"",
+              "answer": "MOORE"
+            },
+            "41": {
+              "col": 11,
+              "row": 8,
+              "clue": "Sujeta, amansa y haz dócil al animal",
+              "answer": "DOMA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Con estas tres, cuidas al planeta",
+              "answer": "RRR"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Moneda usada en la India",
+              "answer": "RUPIA"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Dulce de pan deshecho en leche con azúcar y frutas secas",
+              "answer": "PUDIN"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "El gato del cine mudo",
+              "answer": "FELIX"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Una residencia color púrpura",
+              "answer": "MORADA"
+            },
+            "50": {
+              "col": 2,
+              "row": 11,
+              "clue": "Empalagoso, fastidioso, pegajoso",
+              "answer": "SOBON"
+            },
+            "51": {
+              "col": 8,
+              "row": 11,
+              "clue": "Quitar la mercancía del mercado",
+              "answer": "RETIRAR"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ave representativa en la cabeza del dios egipcio Tot",
+              "answer": "IBIS"
+            },
+            "54": {
+              "col": 5,
+              "row": 12,
+              "clue": "Todos sin humedad",
+              "answer": "SECADOS"
+            },
+            "56": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales del creador del musical 'Malinche'",
+              "answer": "NC"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "Luz invisible que rodea a los seres vivos (pl)",
+              "answer": "AURAS"
+            },
+            "59": {
+              "col": 6,
+              "row": 13,
+              "clue": "Nacionalsocialismo",
+              "answer": "NAZISMO"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "El zumo de uva, antes de ser fermentado",
+              "answer": "MOSTO"
+            },
+            "62": {
+              "col": 7,
+              "row": 14,
+              "clue": "Comunidad autónoma cuya capital es Logroño (2p)",
+              "answer": "LARIOJA"
+            }
+          }
+        },
+        "vertical_clues": "1-Las pilas de mando de la Tv\r\n2-Kiev escrito en ucraniano\r\n3-Mujer griega que habitó en la Eólide\r\n4-Iniciales del creador de los jeans o vaqueros\r\n5-Feria Internacional del Libro (siglas)\r\n6-Baya silvestre color morado (inv)\r\n7-Dosis mortal, dosis…\r\n8-Falta de voz\r\n9-Tendencia política que defiende lo tradicional \r\n10-Son las 9:00 en Roma\r\n11-Técnica de laboratorio para separar componentes de una mezcla \r\n12-Género del gato\r\n13-Doloroso, lamentable\r\n15-Nubes que se forman por el calor de un incendio \r\n16-Tapador que se pone a los perros en el hocico\r\n18-Retro Televisión Network (siglas)\r\n20-Causar molestia o malestar a alguien \r\n22-Jaula de los leones \r\n24-\"Jean…\" filósofo francés\r\n27-\"… Piazzolla\", bandoneonista y representante del tango\r\n29-La hermana de He-Man\r\n32-Vías sin entrada\r\n34-F \r\n40-Expresen sus ideas\r\n42-Recojan su talla, su altura\r\n43-Con tendencia anarquista\r\n45-Significa \"Señor\" en yiddish, idioma propio de las comunidades judías asquenazíes\r\n46-De esta mina boliviana salió el 80% de toda la plata durante el periodo colonial\r\n48-Estas no deberían ser tan comunes\r\n49-Mesurar, contar\r\n50-Giuseppe Meazza o San… (el estadio del AC Milan o del Inter) \r\n51-Nuestro origen étnico es una vuelta del azar\r\n53-En las Fallas de Valencia se escucha fuerte el \"Primer aviso\"\r\n55-Óxido de calcio\r\n58-En los autógrafos de Sharon Tate\r\n60-Ojo sin cerrar",
+        "horizontal_clues": "1-Nombre del papá lobo en \"El Libro de la selva\"\r\n5-Argumento engañoso que parece válido \r\n11-Los de Florida son unos 1700\r\n12-\"Mozilla…\" navegador web \r\n14-Carril de las vías férreas\r\n15-Pequeña unidad de infantería\r\n16-Dominio web para Bélgica\r\n17-Aquel que posee características propias de un varón\r\n19-Lo es la casa de la Playboy\r\n21-1050 romanos\r\n23-Mueble que sirve para sostener partituras\r\n25-Un cuadro sin pintar\r\n26-Asociación Española de Anunciantes\r\n28-Novenas\r\n30-Pieza donde se guarda el dinero en las tesorerías\r\n31-Hice fuerza y violencia con la respiración\r\n33-Automóvil, carro\r\n35-Se fue el pajarito\r\n36-Bebida tradicional de Namibia hecha con mijo fermentado\r\n37-Fút: Cámara que lleva el árbitro \r\n38-Miembros del grupo especial de operaciones\r\n39-Cineasta y activista político, director de \"Fahrenheit 9/11\" y \"Sicko\"\r\n41-Sujeta, amansa y haz dócil al animal\r\n44-Con estas tres, cuidas al planeta\r\n45-Moneda usada en la India\r\n46-Dulce de pan deshecho en leche con azúcar y frutas secas\r\n47-Alcohólicos Anónimos\r\n48-El gato del cine mudo\r\n49-Una residencia color púrpura\r\n50-Empalagoso, fastidioso, pegajoso\r\n51-Quitar la mercancía del mercado\r\n52-Ave representativa en la cabeza del dios egipcio Tot\r\n54-Todos sin humedad \r\n56-Iniciales del creador del musical 'Malinche'\r\n57-Luz invisible que rodea a los seres vivos (pl)\r\n59-Nacionalsocialismo\r\n61-El zumo de uva, antes de ser fermentado\r\n62-Comunidad autónoma cuya capital es Logroño (2p)",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,#,5,6,7,8,9,10,#,#\r\n11,#,#,#,#,#,12,#,#,#,#,#,#,#,13\r\n14,#,#,#,#,15,#,#,#,#,#,#,#,16,#\r\n#,#,17,#,18,#,#,#,19,#,#,#,20,#,#\r\n21,22,#,23,#,#,#,24,#,25,#,#,#,#,#\r\n26,#,27,#,28,#,#,#,29,#,30,#,#,#,#\r\n31,#,#,32,#,33,#,#,#,34,#,35,#,#,#\r\n36,#,#,#,#,#,#,37,#,#,#,#,#,#,#\r\n38,#,#,#,#,39,40,#,#,#,#,41,#,42,43\r\n44,#,#,#,45,#,#,#,#,#,46,#,#,#,#\r\n47,#,#,48,#,#,#,#,#,49,#,#,#,#,#\r\n#,#,50,#,#,#,#,#,51,#,#,#,#,#,#\r\n52,53,#,#,#,54,#,55,#,#,#,#,#,56,#\r\n57,#,#,#,58,#,59,#,#,#,#,#,60,#,#\r\n#,61,#,#,#,#,#,62,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

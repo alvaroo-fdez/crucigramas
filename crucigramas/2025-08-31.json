@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 3186,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-21T08:04:20.115113Z",
+      "updatedAt": "2025-08-21T08:08:05.317359Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-31",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TEMERA###AFILAR\r\nISOBATA#MURIESE\r\nGPA#PERRADA#UTA\r\nGI#ZOOLOGICO#IC\r\nERGO#SOCIO#PELI\r\nRAROS#SEA#TOLLO\r\n#LITIO#S#MASIA#\r\n##SELFI#BORIS##\r\n#TECLA#R#SACIA#\r\nTIANA#DAD#DIOSA\r\nHERI#RELOJ#ONIX\r\nOS#ACABARIAN#EI\r\nMUI#ABISMAL#SNL\r\nARRABAL#INGRATA\r\nSANTOS###GONDOR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Amigo de Pooh que usa su cola como resorte",
+              "answer": "TIGGER"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Línea curva que se aleja de su punto central",
+              "answer": "ESPIRAL"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ave neozelandesa, extinta hace 500 años por causas humanas",
+              "answer": "MOA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo del exabyte",
+              "answer": "EB"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Afeito, trasquilo",
+              "answer": "RAPO"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Estos no le ruegan a Dios",
+              "answer": "ATEOS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Parte de la señal de televisión que corresponde al sonido",
+              "answer": "AUDIO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vestidura de hombre, que por detrás tiene dos faldones",
+              "answer": "FRAC"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Segundo capítulo",
+              "answer": "II"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Moneda oficial de Rumania",
+              "answer": "LEU"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Fragmento pequeño e irregular de un trozo de madera",
+              "answer": "ASTILLA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Que muestra resistencia a hacer algo",
+              "answer": "REACIO"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Carlos perdió su capital",
+              "answer": "ARLOS"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"… potagia\" famoso encantamiento",
+              "answer": "MAGIA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Toques ligeramente algo",
+              "answer": "ROCES"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Arte de la cría, multiplicación y mejora de los animales domésticos",
+              "answer": "ZOOTECNIA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Los partidos en contra de la política del Gobierno actual, la…",
+              "answer": "OPOSICION"
+            },
+            "25": {
+              "col": 2,
+              "row": 4,
+              "clue": "Ir tomando el color gris",
+              "answer": "GRISEAR"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Acción y efecto de elidir",
+              "answer": "ELISION"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Mueble para sentarse",
+              "answer": "SILLA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Disminuid el valor de algo por defectuoso",
+              "answer": "TARAD"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Parte interna del esófago",
+              "answer": "OFA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "España Mun de la prov de Pontevedra",
+              "answer": "MOS"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Gravedad afectada de una persona",
+              "answer": "TIESURA"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Dispersas, separadas",
+              "answer": "RALAS"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "Admito como cierto lo que han afirmado",
+              "answer": "ASIENTO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… Felton\" Draco Malfoy en 'Harry Potter'",
+              "answer": "THOMAS"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Endeble, canijo, frágil",
+              "answer": "DEBIL"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Reposé suspendiendo mis sentidos",
+              "answer": "DORMI"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Relativo a la axila",
+              "answer": "AXILAR"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Calamares fritos, a la romana",
+              "answer": "RABAS"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"… Qing\" también conocida como Madame Mao",
+              "answer": "JIANG"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Ciudad del …\" destino famoso por sus puestas de Sol, Sudáfrica",
+              "answer": "CABO"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Hay una cosa de Olga en el lago",
+              "answer": "ALGO"
+            },
+            "57": {
+              "col": 2,
+              "row": 12,
+              "clue": "\"… Bru\", refresco carbonatado de Escocia y Reino Unido",
+              "answer": "IRN"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Guiri triste",
+              "answer": "SAD"
+            },
+            "61": {
+              "col": 3,
+              "row": 13,
+              "clue": "Antiguo Testamento",
+              "answer": "AT"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pensará lo peor",
+              "answer": "TEMERA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Preparar el cuchillo para cortar el carpaccio",
+              "answer": "AFILAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Curva que se utiliza para la representación cartográfica",
+              "answer": "ISOBATA"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Feneciese",
+              "answer": "MURIESE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Símbolo del gigapascal",
+              "answer": "GPA"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Conjunto de perros",
+              "answer": "PERRADA"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Género de lagartos",
+              "answer": "UTA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"… Joe\", muñecos militares enfocados a los niños",
+              "answer": "GI"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Parque en el que se tiene animales cautivos",
+              "answer": "ZOOLOGICO"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "En la punta del iceberg",
+              "answer": "IC"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Por tanto, luego, pues",
+              "answer": "ERGO"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Uno de los dueños de la empresa",
+              "answer": "SOCIO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Una pequeña película",
+              "answer": "PELI"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Qué extraños",
+              "answer": "RAROS"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Lo que…\", cualquier cosa",
+              "answer": "SEA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Carne que tiene el ciervo junto a los lomos",
+              "answer": "TOLLO"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Metal ligero que estabiliza el ánimo",
+              "answer": "LITIO"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Casa de labor, típica del antiguo reino de Aragón",
+              "answer": "MASIA"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Autofoto con teléfono inteligente",
+              "answer": "SELFI"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"… Izaguirre\" escritor, periodista y presentador venezolano",
+              "answer": "BORIS"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Pieza que se pulsa para poner en acción un mecanismo",
+              "answer": "TECLA"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Se colma, queda satisfecho, se…",
+              "answer": "SACIA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Princesa afroamericana de Disney",
+              "answer": "TIANA"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Entregad al padre inglés",
+              "answer": "DAD"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Odias decir adiós a la sagrada divinidad",
+              "answer": "DIOSA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lastimé sus sentimientos, lo…",
+              "answer": "HERI"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Lo es un Vacheron Constantin o Patek Philippe",
+              "answer": "RELOJ"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Piedra semipreciosa negra",
+              "answer": "ONIX"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Caso dativo de vosotros",
+              "answer": "OS"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "Terminarían, finalizarían",
+              "answer": "ACABARIAN"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Educación Infantil",
+              "answer": "EI"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ordeñé a la vaca",
+              "answer": "MUI"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Hay una diferencia que es extremadamente grande",
+              "answer": "ABISMAL"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Saturday Night Live",
+              "answer": "SNL"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Población anexa a otra mayor",
+              "answer": "ARRABAL"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Desagradecida, que olvida los beneficios recibidos",
+              "answer": "INGRATA"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"Romeo…\" el rey de la bachata",
+              "answer": "SANTOS"
+            },
+            "65": {
+              "col": 9,
+              "row": 14,
+              "clue": "ESDLA El reino que fundó Isildur, del que Aragorn sería heredero",
+              "answer": "GONDOR"
+            }
+          }
+        },
+        "vertical_clues": "1-Amigo de Pooh que usa su cola como resorte\r\n2-Línea curva que se aleja de su punto central\r\n3-Ave neozelandesa, extinta hace 500 años por causas humanas\r\n4-Símbolo del exabyte\r\n5-Afeito, trasquilo\r\n6-Estos no le ruegan a Dios\r\n7-Parte de la señal de televisión que corresponde al sonido\r\n8-Vestidura de hombre, que por detrás tiene dos faldones\r\n9-Segundo capítulo\r\n10-Moneda oficial de Rumania\r\n11-Fragmento pequeño e irregular de un trozo de madera\r\n12-Que muestra resistencia a hacer algo\r\n14-Carlos perdió su capital\r\n15-\"… potagia\" famoso encantamiento\r\n18-Toques ligeramente algo\r\n21-Arte de la cría, multiplicación y mejora de los animales domésticos\r\n22-Los partidos en contra de la política del Gobierno actual, la…\r\n25-Ir tomando el color gris\r\n28-Acción y efecto de elidir\r\n30-Mueble para sentarse\r\n32-Disminuid el valor de algo por defectuoso\r\n34-Parte interna del esófago\r\n35-España Mun de la prov de Pontevedra\r\n38-Gravedad afectada de una persona\r\n39-Dispersas, separadas\r\n41-Admito como cierto lo que han afirmado\r\n42-\"… Felton\" Draco Malfoy en 'Harry Potter'\r\n43-Endeble, canijo, frágil\r\n44-Reposé suspendiendo mis sentidos\r\n46-Relativo a la axila\r\n48-Calamares fritos, a la romana\r\n49-\"… Qing\" también conocida como Madame Mao\r\n53-\"Ciudad del …\" destino famoso por sus puestas de Sol, Sudáfrica\r\n54-Hay una cosa de Olga en el lago\r\n57-\"… Bru\", refresco carbonatado de Escocia y Reino Unido\r\n59-Guiri triste\r\n61-Antiguo Testamento\r\n63-Símbolo químico del Radón",
+        "horizontal_clues": "1-Pensará lo peor\r\n7-Preparar el cuchillo para cortar el carpaccio\r\n13-Curva que se utiliza para la representación cartográfica\r\n15-Feneciese\r\n16-Símbolo del gigapascal\r\n17-Conjunto de perros\r\n19-Género de lagartos\r\n20-\"… Joe\", muñecos militares enfocados a los niños\r\n21-Parque en el que se tiene animales cautivos\r\n23-En la punta del iceberg\r\n24-Por tanto, luego, pues\r\n26-Uno de los dueños de la empresa\r\n27-Una pequeña película\r\n29-Qué extraños\r\n31-\"Lo que…\", cualquier cosa\r\n32-Carne que tiene el ciervo junto a los lomos\r\n33-Metal ligero que estabiliza el ánimo \r\n35-Casa de labor, típica del antiguo reino de Aragón\r\n36-Autofoto con teléfono inteligente\r\n37-\"… Izaguirre\" escritor, periodista y presentador venezolano\r\n38-Pieza que se pulsa para poner en acción un mecanismo\r\n40-Se colma, queda satisfecho, se…\r\n42-Princesa afroamericana de Disney\r\n43-Entregad al padre inglés\r\n45-Odias decir adiós a la sagrada divinidad \r\n47-Lastimé sus sentimientos, lo…\r\n48-Lo es un Vacheron Constantin o Patek Philippe\r\n50-Piedra semipreciosa negra\r\n51-Caso dativo de vosotros\r\n52-Terminarían, finalizarían\r\n55-Educación Infantil\r\n56-Ordeñé a la vaca\r\n58-Hay una diferencia que es extremadamente grande\r\n59-Saturday Night Live\r\n60-Población anexa a otra mayor\r\n62-Desagradecida, que olvida los beneficios recibidos\r\n64-\"Romeo…\" el rey de la bachata\r\n65-ESDLA El reino que fundó Isildur, del que Aragorn sería heredero",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,#,#,7,8,9,10,11,12\r\n13,#,#,#,#,#,14,#,15,#,#,#,#,#,#\r\n16,#,#,#,17,#,#,18,#,#,#,#,19,#,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,23,#\r\n24,#,25,#,#,26,#,#,#,#,#,27,28,#,#\r\n29,#,#,#,30,#,31,#,#,#,32,#,#,#,#\r\n#,33,#,#,#,34,#,#,#,35,#,#,#,#,#\r\n#,#,36,#,#,#,#,#,37,#,#,#,#,#,#\r\n#,38,#,#,#,#,#,39,#,40,#,#,#,41,#\r\n42,#,#,#,#,#,43,#,44,#,45,#,#,#,46\r\n47,#,#,#,#,48,#,#,#,49,#,50,#,#,#\r\n51,#,#,52,53,#,#,#,#,#,54,#,#,55,#\r\n56,#,57,#,58,#,#,#,#,#,#,#,59,#,#\r\n60,#,#,61,#,#,#,#,62,#,#,63,#,#,#\r\n64,#,#,#,#,#,#,#,#,65,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 190,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-04-18T10:08:47.871536Z",
+      "updatedAt": "2024-05-22T11:08:07.665053Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-04-19",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#COMARCA##CAPOS\r\nCANASTA#TRAFICO\r\nAFINE#CTE#MISIL\r\nSEXOS#ACATEN#AF\r\nA##LALO#NORIA#E\r\nCOMODATO#MODICO\r\nARI#A#E#GANARA#\r\nSIMA#ARCES#DATE\r\n#BOCETO#N#M#DEA\r\nMESURA#MEGAFONO\r\nE#ASOLE#ROEL###\r\nDF#AGASSI#SONIA\r\nIRISA#OFC#TRATO\r\nCENTRAS#OFRECER\r\nAIREE##ESPOSAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Canción. \"Ojalá que llueva... en el campo\".",
+              "answer": "CAFE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Piedra semipreciosa negra.",
+              "answer": "ONIX"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"... Escobar\" cantante de los 60 y 70, conocido por su canción 'Mi carro'.",
+              "answer": "MANOLO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Mujer prudente, de buen juicio.",
+              "answer": "ASESADA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Arte sin tabúes.",
+              "answer": "RT"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hombre que cultiva cacao o negocia con él.",
+              "answer": "CACAOTERO"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"... Diaz\", actriz que fue una de 'Los ángeles de Charlie'.",
+              "answer": "CAMERON"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Parentesco de una familia que no es por consanguinidad.",
+              "answer": "AFINIDAD"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Orina, orín.",
+              "answer": "PIS"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Entrégate al ocio.",
+              "answer": "OCIA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Adiestramiento para leer y entonar la notación musical.",
+              "answer": "SOLFEO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Prenda masculina ya en desuso, del estilo del frac, pero con cuello recto y fuerte (pl).",
+              "answer": "CASACAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Que la aten tan mal, no tiene sentido.",
+              "answer": "TEAN"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Símbolo químico del Tecnecio.",
+              "answer": "TC"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "De aquí no es este santo.",
+              "answer": "TOMAS"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "La ciudad de Hollywood.",
+              "answer": "LA"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Encolerizado, iracundo.",
+              "answer": "AIRADO"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Artífice que trabaja el oro.",
+              "answer": "ORIBE"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Cariñosa y consentidora.",
+              "answer": "MIMOSA"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Degusten el vino.",
+              "answer": "CATEN"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Los medicamentos que no son de marca.",
+              "answer": "GENERICOS"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Señalaste a alguien atribuyéndole la culpa.",
+              "answer": "ACUSASTE"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Amárrala.",
+              "answer": "ATALA"
+            },
+            "37": {
+              "col": 14,
+              "row": 7,
+              "clue": "Vocales abiertas.",
+              "answer": "EAO"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Distribuiré y repartiré el dinero.",
+              "answer": "EROGARE"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "El profe.",
+              "answer": "MAESTRO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Se toma sus ansiolíticos, se...",
+              "answer": "MEDICA"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Algo de algo.",
+              "answer": "GO"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Obsequio romántico (pl).",
+              "answer": "FLORES"
+            },
+            "47": {
+              "col": 6,
+              "row": 10,
+              "clue": "Los que están ahí.",
+              "answer": "ESOS"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Cociné un alimento en aceite.",
+              "answer": "FREI"
+            },
+            "52": {
+              "col": 7,
+              "row": 11,
+              "clue": "Iniciales del padre del psicoanálisis.",
+              "answer": "SF"
+            },
+            "54": {
+              "col": 12,
+              "row": 11,
+              "clue": "Andullo de tabaco (fem).",
+              "answer": "NACA"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Lo invites a la final.",
+              "answer": "ITES"
+            },
+            "56": {
+              "col": 14,
+              "row": 11,
+              "clue": "En el corazón de un maorí .",
+              "answer": "AOR"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "De cabeza en el Instituto Nacional de Rehabilitación.",
+              "answer": "INR"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Inic. Argentino autor de \"Mariposa Tecknicolor\".",
+              "answer": "FP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tolkien. \"La...\" la tierra que habitan los hobbits.",
+              "answer": "COMARCA"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Jefes de las mafias italianas.",
+              "answer": "CAPOS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "El juego de cartas está en la cesta.",
+              "answer": "CANASTA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Embotellamiento.",
+              "answer": "TRAFICO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Puse en tono justo los instrumentos musicales.",
+              "answer": "AFINE"
+            },
+            "15": {
+              "col": 6,
+              "row": 2,
+              "clue": "Abreviatura de Comandante.",
+              "answer": "CTE"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Proyectil autopropulsado, guiado electrónicamente.",
+              "answer": "MISIL"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Masculino y femenino, ambos.",
+              "answer": "SEXOS"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Respeten con sumisión una autoridad.",
+              "answer": "ACATEN"
+            },
+            "21": {
+              "col": 13,
+              "row": 3,
+              "clue": "Nota que va en sentido contrario.",
+              "answer": "AF"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Hipocorístico para Eduardo.",
+              "answer": "LALO"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Gran rueda de feria.",
+              "answer": "NORIA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Contrato de préstamo de algo que puede usar y luego debe devolver.",
+              "answer": "COMODATO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "A un precio limitado, moderado.",
+              "answer": "MODICO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cariñosamente, Ariana.",
+              "answer": "ARI"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Triunfará.",
+              "answer": "GANARA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cavidad grande y muy profunda en la tierra.",
+              "answer": "SIMA"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Árboles de los que se obtiene el jarabe de maple.",
+              "answer": "ARCES"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Fecha en inglés.",
+              "answer": "DATE"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Esquema o proyecto en que se bosqueja cualquier obra.",
+              "answer": "BOCETO"
+            },
+            "41": {
+              "col": 12,
+              "row": 8,
+              "clue": "Agencia estadounidense para el Control de Drogas.",
+              "answer": "DEA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Moderación, comedimiento.",
+              "answer": "MESURA"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Artefacto usado para reforzar la voz y hablar a gran distancia.",
+              "answer": "MEGAFONO"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "Demuela, saquee.",
+              "answer": "ASOLE"
+            },
+            "48": {
+              "col": 8,
+              "row": 10,
+              "clue": "Heráldica. Pieza redonda de los escudos de armas.",
+              "answer": "ROEL"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dakota Fanning (Voz de Lilo y Coraline).",
+              "answer": "DF"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Tenis. \"André...\" El niño de Las Vegas, el cometa.",
+              "answer": "AGASSI"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"... Braga\", actriz brasileño",
+              "answer": "SONIA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Presenta reflejos de luz con colores como el arcoíris.",
+              "answer": "IRISA"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Confederación de Fútbol de Oceanía (siglas en inglés).",
+              "answer": "OFC"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"Nos damos la mano y cerramos el...\".",
+              "answer": "TRATO"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Fút. Das un pase aéreo al área.",
+              "answer": "CENTRAS"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Comprometerse a dar, hacer o decir algo.",
+              "answer": "OFRECER"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Ponga al aire o ventile algo.",
+              "answer": "AIREE"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "Maniatas a las mujeres de tus amigos.",
+              "answer": "ESPOSAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Canción. \"Ojalá que llueva... en el campo\".\r\n2-Piedra semipreciosa negra.\r\n3-\"... Escobar\" cantante de los 60 y 70, conocido por su canción 'Mi carro'.\r\n4-Mujer prudente, de buen juicio.\r\n5-Arte sin tabúes.\r\n6-Hombre que cultiva cacao o negocia con él.\r\n7-\"... Diaz\", actriz que fue una de 'Los ángeles de Charlie'.\r\n8-Parentesco de una familia que no es por consanguinidad.\r\n9-Orina, orín.\r\n10-Entrégate al ocio.\r\n11-Adiestramiento para leer y entonar la notación musical.\r\n12-Prenda masculina ya en desuso, del estilo del frac, pero con cuello recto y fuerte (pl).\r\n13-Que la aten tan mal, no tiene sentido.\r\n16-Símbolo químico del Tecnecio.\r\n20-De aquí no es este santo.\r\n23-La ciudad de Hollywood.\r\n25-Encolerizado, iracundo.\r\n27-Artífice que trabaja el oro.\r\n28-Cariñosa y consentidora.\r\n30-Degusten el vino.\r\n32-Los medicamentos que no son de marca.\r\n34-Señalaste a alguien atribuyéndole la culpa.\r\n35-Amárrala.\r\n37-Vocales abiertas.\r\n39-Distribuiré y repartiré el dinero.\r\n40-El profe.\r\n42-Se toma sus ansiolíticos, se...\r\n44-Algo de algo.\r\n45-Obsequio romántico (pl).\r\n47-Los que están ahí.\r\n50-Cociné un alimento en aceite.\r\n52-Iniciales del padre del psicoanálisis.\r\n54-Andullo de tabaco (fem).\r\n55-Lo invites a la final.\r\n56-En el corazón de un maorí .\r\n58-De cabeza en el Instituto Nacional de Rehabilitación.\r\n63-Inic. Argentino autor de \"Mariposa Tecknicolor\".",
+        "horizontal_clues": "1-Tolkien. \"La...\" la tierra que habitan los hobbits. \r\n7-Jefes de las mafias italianas.\r\n12-El juego de cartas está en la cesta.\r\n13-Embotellamiento.\r\n14-Puse en tono justo los instrumentos musicales.\r\n15-Abreviatura de Comandante.\r\n17-Proyectil autopropulsado, guiado electrónicamente.\r\n18-Masculino y femenino, ambos.\r\n19-Respeten con sumisión una autoridad.\r\n21-Nota que va en sentido contrario.\r\n22-Hipocorístico para Eduardo.\r\n24-Gran rueda de feria.\r\n26-Contrato de préstamo de algo que puede usar y luego debe devolver.\r\n29-A un precio limitado, moderado.\r\n31-Cariñosamente, Ariana.\r\n32-Triunfará.\r\n33-Cavidad grande y muy profunda en la tierra.\r\n35-Árboles de los que se obtiene el jarabe de maple.\r\n36-Fecha en inglés.\r\n38-Esquema o proyecto en que se bosqueja cualquier obra.\r\n41-Agencia estadounidense para el Control de Drogas.\r\n42-Moderación, comedimiento.\r\n43-Artefacto usado para reforzar la voz y hablar a gran distancia.\r\n46-Demuela, saquee.\r\n48-Heráldica. Pieza redonda de los escudos de armas.\r\n49-Dakota Fanning (Voz de Lilo y Coraline). \r\n51-Tenis. \"André...\" El niño de Las Vegas, el cometa.\r\n53-\"... Braga\", actriz brasileño-estadounidense.\r\n57-Presenta reflejos de luz con colores como el arcoíris.\r\n59-Confederación de Fútbol de Oceanía (siglas en inglés).\r\n60-\"Nos damos la mano y cerramos el...\". \r\n61-Fút. Das un pase aéreo al área.\r\n62-Comprometerse a dar, hacer o decir algo.\r\n64-Ponga al aire o ventile algo.\r\n65-Maniatas a las mujeres de tus amigos.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,#,7,8,9,10,11\r\n12,#,#,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,#,#,#,#,#,15,16,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,19,#,#,20,#,#,#,21,#\r\n#,#,#,22,#,23,#,#,24,#,#,#,25,#,#\r\n26,27,28,#,#,#,#,#,#,29,#,#,#,30,#\r\n31,#,#,#,#,#,#,#,32,#,#,#,#,#,#\r\n33,#,#,34,#,35,#,#,#,#,#,36,#,#,37\r\n#,38,#,#,39,#,#,#,#,#,40,#,41,#,#\r\n42,#,#,#,#,#,#,43,#,44,#,45,#,#,#\r\n#,#,46,#,#,#,47,#,48,#,#,#,#,#,#\r\n49,50,#,51,#,#,#,52,#,#,53,#,54,55,56\r\n57,#,58,#,#,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,#,#,#,62,63,#,#,#,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

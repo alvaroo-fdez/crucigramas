@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 3376,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:24.896056Z",
+      "updatedAt": "2025-09-09T14:19:24.908337Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-22",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PLANTAR#TASAN#\r\nDOOM#REUTILIZAR\r\nINMEDIATO#PLACE\r\nREARME#HR#HABIL\r\nANSIO###RUABA#L\r\nS##T#HACES#ACME\r\n#GUASACACA##HAN\r\nMANN#LASER#PESO\r\nESI##APARATOSO#\r\nNACA#GALANES##O\r\nT#OSCAR###CIPOS\r\nABRIO#AB#MOTORA\r\nDINAR#DEBILIDAD\r\nORIGINARIO#VETA\r\n#DOONG#TOSTONES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Colocan, ubican",
+              "answer": "PONEN"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Molas si vives en las montañas",
+              "answer": "LOMAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Merecen, en América",
+              "answer": "AMERITAN"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Abeja: Entre y salga de una colmena",
+              "answer": "TRIE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Asociación Española de Anunciantes",
+              "answer": "AEA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"… Handler\" creadora de la muñeca Barbie en 1959",
+              "answer": "RUTH"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hoy por …, mañana por mí",
+              "answer": "TI"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "El macho dominante, el macho…",
+              "answer": "ALPHA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Unidad de la lengua compuesta por uno o más sonidos articulados",
+              "answer": "SILABA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Mineraloide de color negro brillante (pl)",
+              "answer": "AZABACHES"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Salí del vientre materno",
+              "answer": "NACI"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Manifestarás con palabras el pensamiento",
+              "answer": "DIRAS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Castillo del siglo XII localizado en Cádiz, Andalucía, España",
+              "answer": "TORRECERA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Un capítulo, cuando no afecta la historia principal de una serie",
+              "answer": "RELLENO"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Densidad mineral ósea (siglas)",
+              "answer": "DMO"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Harán servir para algo",
+              "answer": "USARAN"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Di palabras gratas en honor a alguien",
+              "answer": "HALAGA"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Aquí desempleada, viendo la mercancía guardada",
+              "answer": "ACAPARADA"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "\"Luz …\", cantante española de pop rock",
+              "answer": "CASAL"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Amaso, mezclo",
+              "answer": "MASO"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Malla muy fina para cubrir una herida",
+              "answer": "GASA"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Caballo fantástico con un cuerno recto en la frente",
+              "answer": "UNICORNIO"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "El hombre de la menta es muy famoso",
+              "answer": "MENTADO"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Tiene Covid, dio…",
+              "answer": "POSITIVO"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Gusano del tequila",
+              "answer": "TECOL"
+            },
+            "40": {
+              "col": 3,
+              "row": 9,
+              "clue": "Queso véneto (italiano)",
+              "answer": "ASIAGO"
+            },
+            "42": {
+              "col": 14,
+              "row": 9,
+              "clue": "Atrevidas, audaces",
+              "answer": "OSADAS"
+            },
+            "44": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"… Tellado\" escritora española romántica",
+              "answer": "CORIN"
+            },
+            "46": {
+              "col": 12,
+              "row": 10,
+              "clue": "Quiten las ramas superfluas de los árboles",
+              "answer": "PODEN"
+            },
+            "47": {
+              "col": 13,
+              "row": 10,
+              "clue": "Persona de poca moderación y prudencia",
+              "answer": "ORATE"
+            },
+            "49": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"Larry…\", exjugador de baloncesto de los Boston Celtics",
+              "answer": "BIRD"
+            },
+            "51": {
+              "col": 7,
+              "row": 11,
+              "clue": "De Albert y Robert",
+              "answer": "BERT"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Son de mi propiedad",
+              "answer": "MIOS"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "Descripción de un perfil de Instagram",
+              "answer": "BIO"
+            },
+            "57": {
+              "col": 5,
+              "row": 13,
+              "clue": "Símbolo del Nanogramo",
+              "answer": "NG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sembrar",
+              "answer": "PLANTAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Gradúan el precio",
+              "answer": "TASAN"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Videojuego de disparos en primera persona de 1993",
+              "answer": "DOOM"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Dar un nuevo propósito",
+              "answer": "REUTILIZAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un efecto cuando pasa enseguida",
+              "answer": "INMEDIATO"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "A mí me agrada estar contigo, me…",
+              "answer": "PLACE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Equipe nuevamente con armamento militar",
+              "answer": "REARME"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Iniciales de Hesnor Rivera, poeta venezolano",
+              "answer": "HR"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Capaz de realizar con éxito una tarea manual",
+              "answer": "HABIL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Deseo con vehemencia",
+              "answer": "ANSIO"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Andaba a pie entre las calles",
+              "answer": "RUABA"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Realizas",
+              "answer": "HACES"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Marca de productos del Correcaminos y el Coyote",
+              "answer": "ACME"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Salsa a base a aguacate, típica de Venezuela",
+              "answer": "GUASACACA"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"… Solo\", personaje de Star Wars",
+              "answer": "HAN"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Thomas…\" Nobel en 1929 por la novela 'Los Buddenbrook'",
+              "answer": "MANN"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Espada como las de Star Wars",
+              "answer": "LASER"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Moneda oficial en México",
+              "answer": "PESO"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Núcleo del Cesio",
+              "answer": "ESI"
+            },
+            "37": {
+              "col": 5,
+              "row": 8,
+              "clue": "Desmedido, exagerado",
+              "answer": "APARATOSO"
+            },
+            "39": {
+              "col": 0,
+              "row": 9,
+              "clue": "Andullo de tabaco (fem)",
+              "answer": "NACA"
+            },
+            "41": {
+              "col": 5,
+              "row": 9,
+              "clue": "Hombres de buen semblante",
+              "answer": "GALANES"
+            },
+            "43": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"… Isaac\" interpreta a Poe Dameron en Star Wars",
+              "answer": "OSCAR"
+            },
+            "45": {
+              "col": 10,
+              "row": 10,
+              "clue": "Pilastras erigidas en memoria de alguna persona difunta",
+              "answer": "CIPOS"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Destapó la olla",
+              "answer": "ABRIO"
+            },
+            "50": {
+              "col": 6,
+              "row": 11,
+              "clue": "Receptor universal sanguíneo",
+              "answer": "AB"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Máquina destinada a producir movimiento",
+              "answer": "MOTORA"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Comer en Valencia",
+              "answer": "DINAR"
+            },
+            "54": {
+              "col": 6,
+              "row": 12,
+              "clue": "Mi lado flaco, mi…",
+              "answer": "DEBILIDAD"
+            },
+            "56": {
+              "col": 0,
+              "row": 13,
+              "clue": "Natural de un lugar",
+              "answer": "ORIGINARIO"
+            },
+            "58": {
+              "col": 11,
+              "row": 13,
+              "clue": "Deniega una proposición, acuerdo o medida",
+              "answer": "VETA"
+            },
+            "59": {
+              "col": 1,
+              "row": 14,
+              "clue": "“Son…”, cueva más grande del mundo en Vietnam",
+              "answer": "DOONG"
+            },
+            "60": {
+              "col": 7,
+              "row": 14,
+              "clue": "Venezuela Rodajas de plátano verde machacadas y fritas",
+              "answer": "TOSTONES"
+            }
+          }
+        },
+        "vertical_clues": "1-Colocan, ubican\r\n2-Molas si vives en las montañas\r\n3-Merecen, en América\r\n4-Abeja: Entre y salga de una colmena\r\n5-Asociación Española de Anunciantes\r\n6-\"… Handler\" creadora de la muñeca Barbie en 1959\r\n7-Hoy por …, mañana por mí\r\n8-El macho dominante, el macho…\r\n9-Unidad de la lengua compuesta por uno o más sonidos articulados\r\n10-Mineraloide de color negro brillante (pl)\r\n11-Salí del vientre materno\r\n12-Manifestarás con palabras el pensamiento\r\n14-Castillo del siglo XII localizado en Cádiz, Andalucía, España\r\n15-Un capítulo, cuando no afecta la historia principal de una serie\r\n17-Densidad mineral ósea (siglas)\r\n24-Harán servir para algo\r\n25-Di palabras gratas en honor a alguien\r\n26-Aquí desempleada, viendo la mercancía guardada\r\n27-\"Luz …\", cantante española de pop rock\r\n29-Amaso, mezclo\r\n30-Malla muy fina para cubrir una herida\r\n31-Caballo fantástico con un cuerno recto en la frente\r\n33-El hombre de la menta es muy famoso\r\n35-Tiene Covid, dio…\r\n38-Gusano del tequila\r\n40-Queso véneto (italiano)\r\n42-Atrevidas, audaces\r\n44-\"… Tellado\" escritora española romántica\r\n46-Quiten las ramas superfluas de los árboles\r\n47-Persona de poca moderación y prudencia\r\n49-\"Larry…\", exjugador de baloncesto de los Boston Celtics\r\n51-De Albert y Robert\r\n52-Son de mi propiedad\r\n55-Descripción de un perfil de Instagram\r\n57-Símbolo del Nanogramo",
+        "horizontal_clues": "1-Sembrar\r\n7-Gradúan el precio\r\n12-Videojuego de disparos en primera persona de 1993\r\n13-Dar un nuevo propósito\r\n16-Un efecto cuando pasa enseguida\r\n18-A mí me agrada estar contigo, me…\r\n19-Equipe nuevamente con armamento militar\r\n20-Iniciales de Hesnor Rivera, poeta venezolano\r\n21-Capaz de realizar con éxito una tarea manual\r\n22-Deseo con vehemencia\r\n23-Andaba a pie entre las calles\r\n25-Realizas\r\n28-Marca de productos del Correcaminos y el Coyote\r\n30-Salsa a base a aguacate, típica de Venezuela\r\n32-\"… Solo\", personaje de Star Wars\r\n33-\"Thomas…\" Nobel en 1929 por la novela 'Los Buddenbrook'\r\n34-Espada como las de Star Wars\r\n35-Moneda oficial en México\r\n36-Núcleo del Cesio\r\n37-Desmedido, exagerado\r\n39-Andullo de tabaco (fem)\r\n41-Hombres de buen semblante\r\n43-\"… Isaac\" interpreta a Poe Dameron en Star Wars\r\n45-Pilastras erigidas en memoria de alguna persona difunta\r\n48-Destapó la olla\r\n50-Receptor universal sanguíneo\r\n52-Máquina destinada a producir movimiento\r\n53-Comer en Valencia\r\n54-Mi lado flaco, mi…\r\n56-Natural de un lugar\r\n58-Deniega una proposición, acuerdo o medida\r\n59-“Son…”, cueva más grande del mundo en Vietnam\r\n60-Venezuela Rodajas de plátano verde machacadas y fritas",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,#,4,5,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,13,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,17,#,#,#,#,#,18,#,#,#,#\r\n19,#,#,#,#,#,#,20,#,#,21,#,#,#,#\r\n22,#,#,#,#,#,#,#,23,24,#,#,#,#,#\r\n#,#,#,#,#,25,26,27,#,#,#,28,#,29,#\r\n#,30,31,#,#,#,#,#,#,#,#,#,32,#,#\r\n33,#,#,#,#,34,#,#,#,#,#,35,#,#,#\r\n36,#,#,#,#,37,#,#,#,#,38,#,#,#,#\r\n39,#,#,40,#,41,#,#,#,#,#,#,#,#,42\r\n#,#,43,#,44,#,#,#,#,#,45,#,46,47,#\r\n48,49,#,#,#,#,50,51,#,52,#,#,#,#,#\r\n53,#,#,#,#,#,54,#,55,#,#,#,#,#,#\r\n56,#,#,#,#,57,#,#,#,#,#,58,#,#,#\r\n#,59,#,#,#,#,#,60,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

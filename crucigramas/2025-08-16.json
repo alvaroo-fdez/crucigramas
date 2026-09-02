@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3115,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-04T12:24:19.404870Z",
+      "updatedAt": "2025-08-16T10:41:35.733080Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-16",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "THALIA#APENDICE\r\nRUNA#TELAR#UPAN\r\nAIS#MENTIRA#ETS\r\nSD#FURIOSO#P#EE\r\nL#A#CR#SANDRA#Ñ\r\nABRAHAM#JERINGA\r\nPERSONARIA#MAR#\r\nEMUES#Q#S#PECAR\r\n#BIS#QUEMARROPA\r\nMANIQUI#ODIARAS\r\nO#ENRIAR#UO#A#T\r\nDP#O#EVITARA#UR\r\nRUA#STEFANI#SSE\r\nIATA#ULALA#CHER\r\nCRUZADOS#LIGERA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo solapé tras la \"p\"",
+              "answer": "TRASLAPE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Alejad, escapad",
+              "answer": "HUID"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Estos jeans no dan risa",
+              "answer": "ANS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Laúd roto",
+              "answer": "LA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Se mueren de miedo, se…",
+              "answer": "ATERRAN"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Miden más de 1,80 m, ellos son…",
+              "answer": "ALTOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Modificación de la flora acorde al terreno para unas hermosas vistas",
+              "answer": "PAISAJISMO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Equivoca, incorrecta",
+              "answer": "ERRONEA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Al final del Didyeridú",
+              "answer": "DU"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Se ha torcido el pie",
+              "answer": "IPE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… Blanchett\" la elfa Galadriel en 'El Señor de los Anillos\"",
+              "answer": "CATE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Muestra cómo se educa",
+              "answer": "ENSEÑA"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "En medio de Kenia",
+              "answer": "ENI"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Montones de machos",
+              "answer": "MUCHOS"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Anterior a la segunda",
+              "answer": "PRIMERA"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Destruí, asolé",
+              "answer": "ARRUINE"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"… Dre\" catando 'Still DRE' en el Super Bowl",
+              "answer": "DR"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Cuerno de caza",
+              "answer": "ANACORA"
+            },
+            "30": {
+              "col": 1,
+              "row": 5,
+              "clue": "Coloquial Labios protuberantes, gruesos",
+              "answer": "BEMBA"
+            },
+            "31": {
+              "col": 3,
+              "row": 5,
+              "clue": "Asensio está loco, pero no es un criminal",
+              "answer": "ASESINO"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Padre de la Ciencia Política moderna, autor de \"El Príncipe\"",
+              "answer": "MAQUIAVELO"
+            },
+            "34": {
+              "col": 13,
+              "row": 5,
+              "clue": "Pieza metálica que se usa para sujetar papeles",
+              "answer": "GRAPA"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "\"A …\" voz latina usada para hablar de algo antes de ser revisado",
+              "answer": "PRIORI"
+            },
+            "39": {
+              "col": 14,
+              "row": 7,
+              "clue": "Hay que arrestar de otra manera a la miserable",
+              "answer": "RASTRERA"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Descanso de todo el ruido de la vida",
+              "answer": "QUIETUD"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Relativo a las Aduanas",
+              "answer": "ADUANAL"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Fút Ganador del Balón de Oro en 2018",
+              "answer": "MODRIC"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "Evolución del código de barras",
+              "answer": "QR"
+            },
+            "47": {
+              "col": 7,
+              "row": 10,
+              "clue": "Sorteas",
+              "answer": "RIFAS"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Hacer púas en un peine",
+              "answer": "PUAR"
+            },
+            "52": {
+              "col": 8,
+              "row": 11,
+              "clue": "Adj demost Se aplica a las cosas indefinidamente",
+              "answer": "TAL"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "Usuario gringo",
+              "answer": "USER"
+            },
+            "55": {
+              "col": 2,
+              "row": 12,
+              "clue": "¿Me das un atún sin cola?",
+              "answer": "ATU"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"… Ra\" la hermana melliza de He Man",
+              "answer": "SHE"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Primera y última",
+              "answer": "AZ"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Iniciales del máximo representante de la música tango a nivel mundial",
+              "answer": "CG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cantante y actriz mexicana",
+              "answer": "THALIA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Añadidura dependiente de algo más",
+              "answer": "APENDICE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Carácter vikingo",
+              "answer": "RUNA"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Fábrica de tejidos",
+              "answer": "TELAR"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Cargan al bebé",
+              "answer": "UPAN"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Así está mal",
+              "answer": "AIS"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Cosa que no es verdad",
+              "answer": "MENTIRA"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Lo son el VPH y VIH",
+              "answer": "ETS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Lo que tienen en común Snoop Dog y Salvador Dalí",
+              "answer": "SD"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Lo que es Dominic Toretto, además de rápido",
+              "answer": "FURIOSO"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "33 frente al espejo",
+              "answer": "EE"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "El 7 portugués del fútbol",
+              "answer": "CR"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"… Bullock\" famosa actriz",
+              "answer": "SANDRA"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "El primer judío",
+              "answer": "ABRAHAM"
+            },
+            "33": {
+              "col": 8,
+              "row": 5,
+              "clue": "Inyectadora",
+              "answer": "JERINGA"
+            },
+            "35": {
+              "col": 0,
+              "row": 6,
+              "clue": "Se presentaría en persona",
+              "answer": "PERSONARIA"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "\"… Muerto\", el hipersalino",
+              "answer": "MAR"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ñandúes, avestruces",
+              "answer": "EMUES"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Excederse en placer",
+              "answer": "PECAR"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Ejecución o declamación repetida",
+              "answer": "BIS"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Venezuela Disparar un arma de fuego desde muy cerca",
+              "answer": "QUEMARROPA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Uno muy quieto en un escaparate",
+              "answer": "MANIQUI"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "¿Adoráis el caos? Pues luego lo detestarás",
+              "answer": "ODIARAS"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "Macerar el lino, sumergiéndolo en agua",
+              "answer": "ENRIAR"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Urko Olazabal",
+              "answer": "UO"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dani Pedroza escuchando Daft Punk",
+              "answer": "DP"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "Impedirá que suceda",
+              "answer": "EVITARA"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "Saliendo de Singapur",
+              "answer": "UR"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Una calle gallega",
+              "answer": "RUA"
+            },
+            "56": {
+              "col": 4,
+              "row": 12,
+              "clue": "\"Gwen…\", conocida como 'Rich Girl'",
+              "answer": "STEFANI"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Sursureste",
+              "answer": "SSE"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Código que designa a cada aeropuerto",
+              "answer": "IATA"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "Especie de cactus",
+              "answer": "ULALA"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "La Diva que canta 'Do you believe in life after love?'",
+              "answer": "CHER"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Como los dedos cuando algo se desea fuertemente",
+              "answer": "CRUZADOS"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "No pesa mucho, ella es…",
+              "answer": "LIGERA"
+            }
+          }
+        },
+        "vertical_clues": "1-Lo solapé tras la \"p\"\r\n2-Alejad, escapad\r\n3-Estos jeans no dan risa\r\n4-Laúd roto\r\n5-Se mueren de miedo, se…\r\n6-Miden más de 1,80 m, ellos son…\r\n7-Modificación de la flora acorde al terreno para unas hermosas vistas\r\n8-Equivoca, incorrecta\r\n9-Al final del Didyeridú\r\n10-Se ha torcido el pie\r\n11-\"… Blanchett\" la elfa Galadriel en 'El Señor de los Anillos\"\r\n12-Muestra cómo se educa\r\n15-En medio de Kenia\r\n18-Montones de machos\r\n22-Anterior a la segunda\r\n24-Destruí, asolé\r\n27-\"… Dre\" catando 'Still DRE' en el Super Bowl\r\n28-Cuerno de caza\r\n30-Coloquial Labios protuberantes, gruesos\r\n31-Asensio está loco, pero no es un criminal\r\n32-Padre de la Ciencia Política moderna, autor de \"El Príncipe\"\r\n34-Pieza metálica que se usa para sujetar papeles\r\n38-\"A …\" voz latina usada para hablar de algo antes de ser revisado\r\n39-Hay que arrestar de otra manera a la miserable\r\n41-Descanso de todo el ruido de la vida\r\n42-Relativo a las Aduanas\r\n43-Fút Ganador del Balón de Oro en 2018\r\n44-Evolución del código de barras\r\n47-Sorteas\r\n50-Hacer púas en un peine\r\n52-Adj demost Se aplica a las cosas indefinidamente\r\n53-Usuario gringo\r\n55-¿Me das un atún sin cola?\r\n57-\"… Ra\" la hermana melliza de He Man\r\n59-Primera y última\r\n61-Iniciales del máximo representante de la música tango a nivel mundial",
+        "horizontal_clues": "1-Cantante y actriz mexicana\r\n6-Añadidura dependiente de algo más\r\n13-Carácter vikingo\r\n14-Fábrica de tejidos\r\n16-Cargan al bebé\r\n17-Así está mal\r\n18-Cosa que no es verdad\r\n19-Lo son el VPH y VIH\r\n20-Lo que tienen en común Snoop Dog y Salvador Dalí\r\n21-Lo que es Dominic Toretto, además de rápido\r\n23-33 frente al espejo\r\n25-El 7 portugués del fútbol\r\n26-\"… Bullock\" famosa actriz \r\n29-El primer judío\r\n33-Inyectadora\r\n35-Se presentaría en persona\r\n36-\"… Muerto\", el hipersalino\r\n37-Ñandúes, avestruces\r\n38-Excederse en placer\r\n40-Ejecución o declamación repetida\r\n41-Venezuela Disparar un arma de fuego desde muy cerca\r\n43-Uno muy quieto en un escaparate\r\n45-¿Adoráis el caos? Pues luego lo detestarás\r\n46-Macerar el lino, sumergiéndolo en agua\r\n48-Urko Olazabal\r\n49-Dani Pedroza escuchando Daft Punk\r\n51-Impedirá que suceda\r\n53-Saliendo de Singapur\r\n54-Una calle gallega\r\n56-\"Gwen…\", conocida como 'Rich Girl'\r\n57-Sursureste\r\n58-Código que designa a cada aeropuerto\r\n60-Especie de cactus\r\n61-La Diva que canta 'Do you believe in life after love?'\r\n62-Como los dedos cuando algo se desea fuertemente\r\n63-No pesa mucho, ella es…",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,#,6,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,#,#,19,#,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,23,#\r\n#,#,24,#,25,#,#,26,#,#,27,#,28,#,#\r\n29,30,#,31,#,#,32,#,33,#,#,#,#,34,#\r\n35,#,#,#,#,#,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,#,39\r\n#,40,#,#,#,41,#,#,#,42,#,#,#,#,#\r\n43,#,#,#,44,#,#,#,45,#,#,#,#,#,#\r\n#,#,46,#,#,#,#,47,#,48,#,#,#,#,#\r\n49,50,#,#,#,51,#,#,52,#,#,#,#,53,#\r\n54,#,55,#,56,#,#,#,#,#,#,#,57,#,#\r\n58,#,#,59,#,60,#,#,#,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

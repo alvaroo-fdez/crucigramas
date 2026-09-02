@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 678,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-27T13:10:42.009364Z",
+      "updatedAt": "2024-07-27T13:22:36.323318Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-28",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#ACATAS#MILORD#\r\nELIO#MECI#ADIUC\r\nRAPA#PRAN#SACRO\r\nADO#CARRERA#OAR\r\nTOSCA#ACCESO##R\r\nO##LL##ER##ROBO\r\nVENEZUELA#LIBRE\r\n#SARAOS#FILERA#\r\nPEDIR#PATRONADO\r\nFROG##AM##RT##B\r\nI##OPINAR#AEDAS\r\nZIP#RETRAER#RST\r\nENOJO#ARBA#TILA\r\nREZAS#DEIS#AZAR\r\n#SORTEA#AYUNAN#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Pegaso es un caballo...",
+              "answer": "ALADO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Columna erigida en memoria de alguna persona difunta (pl).",
+              "answer": "CIPOS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ahora escríbela sin consonantes.",
+              "answer": "AOA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Asociación de Madres y Padres de Alumnos.",
+              "answer": "AMPA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "La Calderona es una Sierra valenciana.",
+              "answer": "SERRA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Videojuego de construcción muy valorado por los niños.",
+              "answer": "MINECRAFT"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Flojas, macilentas.",
+              "answer": "LASAS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Composición poética de alabanza.",
+              "answer": "ODA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cori enloqueció por un hombre adinerado.",
+              "answer": "RICO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Subsiste, permanece.",
+              "answer": "DURA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ejerceré mi derecho al sufragio mirando al cielo.",
+              "answer": "ERATOV"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Donde deben estar los corruptos.",
+              "answer": "CARCEL"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Se carcome, por ejemplo el alma.",
+              "answer": "CORROE"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Ajustar el pie con un zapato.",
+              "answer": "CALZAR"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Iniciando la reconstrucción.",
+              "answer": "RE"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Sacerdote, cura.",
+              "answer": "CLERIGO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Este lo levante a la derecha.",
+              "answer": "ORIENTE"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Cualquier producto intelectual.",
+              "answer": "OBRA"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Actor que protagonizó \"Bastardos sin gloria\".",
+              "answer": "BRAD"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Eres un desastre.",
+              "answer": "ESER"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Me desplazo en el agua braceando.",
+              "answer": "NADO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Me sitúo en el levante.",
+              "answer": "UO"
+            },
+            "36": {
+              "col": 6,
+              "row": 6,
+              "clue": "Huida repentina por miedo.",
+              "answer": "ESPANTADA"
+            },
+            "37": {
+              "col": 10,
+              "row": 6,
+              "clue": "Lo que van a hacer en la llorería.",
+              "answer": "LLORAR"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Andar, marchar.",
+              "answer": "IR"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Laboratorio farmacéutico líder mundial, creador del Viagra.",
+              "answer": "PFIZER"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Nudo, atadura.",
+              "answer": "AMARRE"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Impedir o dificultar algo.",
+              "answer": "OBSTAR"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "F1.\"Alain...\" famoso rival de Ayrton Senna.",
+              "answer": "PROST"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Siglas del primer navegador de Microsoft.",
+              "answer": "IE"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"Muerto el perro, se acabó la...\".",
+              "answer": "RABIA"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Marina. Cuerda o cabo con que se izan y arrían las vergas.",
+              "answer": "DRIZA"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "El león de Narnia.",
+              "answer": "ASLAN"
+            },
+            "56": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"... del alma mía\" novela de Isabel Allende.",
+              "answer": "INES"
+            },
+            "57": {
+              "col": 2,
+              "row": 11,
+              "clue": "El petrolero, el más rentable.",
+              "answer": "POZO"
+            },
+            "59": {
+              "col": 9,
+              "row": 11,
+              "clue": "En inglés es fácil.",
+              "answer": "EASY"
+            },
+            "62": {
+              "col": 3,
+              "row": 12,
+              "clue": "Archivo para ejecutar aplicaciones en Java.",
+              "answer": "JAR"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Suena de la campana.",
+              "answer": "TAN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Obedeces, cumples las reglas.",
+              "answer": "ACATAS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Un tema de Édith Piaf para un noble inglés.",
+              "answer": "MILORD"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"... Berhanyer\", diseñador español de la alta costura.",
+              "answer": "ELIO"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "Moví la cunita del bebé, lo...",
+              "answer": "MECI"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Protege su regreso del oriente.",
+              "answer": "ADIUC"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"... Nui\" o Isla de Pascua en Chile, donde están los moáis.",
+              "answer": "RAPA"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Líder criminal de una cárcel.",
+              "answer": "PRAN"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Sagrado, religioso.",
+              "answer": "SACRO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "En la salida de Stalingrado.",
+              "answer": "ADO"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Se cerrará con dificultad la competición de velocidad.",
+              "answer": "CARRERA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Orden de Agustinos Recoletos.",
+              "answer": "OAR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Grosera, escasa de educación y delicadeza.",
+              "answer": "TOSCA"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Entrada o paso.",
+              "answer": "ACCESO"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "El monograma de Lindsay Lohan.",
+              "answer": "LL"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Iniciales del inventor del cubo de Rubik.",
+              "answer": "ER"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Se llevó el dinero ajeno.",
+              "answer": "ROBO"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "País con las mayores reservas de petróleo del mundo.",
+              "answer": "VENEZUELA"
+            },
+            "37": {
+              "col": 10,
+              "row": 6,
+              "clue": "Sin cadenas, sin opresión.",
+              "answer": "LIBRE"
+            },
+            "38": {
+              "col": 1,
+              "row": 7,
+              "clue": "Distinguida reunión nocturna con música y baile (pl).",
+              "answer": "SARAOS"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Arte de pesca en las albuferas.",
+              "answer": "FILERA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Solicitar.",
+              "answer": "PEDIR"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Sistema de protección eclesiástica.",
+              "answer": "PATRONADO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Rana en inglés.",
+              "answer": "FROG"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Temprano por la mañana.",
+              "answer": "AM"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Retweet.",
+              "answer": "RT"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Lo que puedes hacer cuando hay libertad de expresión.",
+              "answer": "OPINAR"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Cantores épicos de la antigua Grecia.",
+              "answer": "AEDAS"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Inform. Formato para comprimir archivos.",
+              "answer": "ZIP"
+            },
+            "58": {
+              "col": 4,
+              "row": 11,
+              "clue": "Retirar, retroceder.",
+              "answer": "RETRAER"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "Van seguidas.",
+              "answer": "RST"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Movimiento del ánimo que suscita ira.",
+              "answer": "ENOJO"
+            },
+            "63": {
+              "col": 6,
+              "row": 12,
+              "clue": "Personaje bíblico.",
+              "answer": "ARBA"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Una infusión tranquilizante.",
+              "answer": "TILA"
+            },
+            "65": {
+              "col": 0,
+              "row": 13,
+              "clue": "Le ruegas a Dios.",
+              "answer": "REZAS"
+            },
+            "66": {
+              "col": 6,
+              "row": 13,
+              "clue": "Entreguéis, otorguéis.",
+              "answer": "DEIS"
+            },
+            "67": {
+              "col": 11,
+              "row": 13,
+              "clue": "Caso fortuito, casualidad.",
+              "answer": "AZAR"
+            },
+            "68": {
+              "col": 1,
+              "row": 14,
+              "clue": "Rifa.",
+              "answer": "SORTEA"
+            },
+            "69": {
+              "col": 8,
+              "row": 14,
+              "clue": "Pasan hambre en la mañana.",
+              "answer": "AYUNAN"
+            }
+          }
+        },
+        "vertical_clues": "1-Pegaso es un caballo...\r\n2-Columna erigida en memoria de alguna persona difunta (pl).\r\n3-Ahora escríbela sin consonantes.\r\n4-Asociación de Madres y Padres de Alumnos.\r\n5-La Calderona es una Sierra valenciana.\r\n6-Videojuego de construcción muy valorado por los niños.\r\n7-Flojas, macilentas.\r\n8-Composición poética de alabanza.\r\n9-Cori enloqueció por un hombre adinerado.\r\n10-Subsiste, permanece.\r\n11-Ejerceré mi derecho al sufragio mirando al cielo. \r\n13-Donde deben estar los corruptos.\r\n15-Se carcome, por ejemplo el alma.\r\n20-Ajustar el pie con un zapato. \r\n21-Iniciando la reconstrucción.\r\n24-Sacerdote, cura.\r\n26-Este lo levante a la derecha.\r\n30-Cualquier producto intelectual.\r\n31-Actor que protagonizó \"Bastardos sin gloria\".\r\n33-Eres un desastre.\r\n34-Me desplazo en el agua braceando.\r\n35-Me sitúo en el levante.\r\n36-Huida repentina por miedo. \r\n37-Lo que van a hacer en la llorería.\r\n40-Andar, marchar.\r\n41-Laboratorio farmacéutico líder mundial, creador del Viagra.\r\n43-Nudo, atadura. \r\n44-Impedir o dificultar algo. \r\n49-F1.\"Alain...\" famoso rival de Ayrton Senna.\r\n50-Siglas del primer navegador de Microsoft.\r\n51-\"Muerto el perro, se acabó la...\". \r\n53-Marina. Cuerda o cabo con que se izan y arrían las vergas.\r\n54-El león de Narnia.\r\n56-\"... del alma mía\" novela de Isabel Allende.\r\n57-El petrolero, el más rentable.\r\n59-En inglés es fácil.\r\n62-Archivo para ejecutar aplicaciones en Java.\r\n64-Suena de la campana.",
+        "horizontal_clues": "1-Obedeces, cumples las reglas.\r\n6-Un tema de Édith Piaf para un noble inglés.\r\n11-\"... Berhanyer\", diseñador español de la alta costura.\r\n12-Moví la cunita del bebé, lo...\r\n14-Protege su regreso del oriente. \r\n16-\"... Nui\" o Isla de Pascua en Chile, donde están los moáis.\r\n17-Líder criminal de una cárcel.\r\n18-Sagrado, religioso.\r\n19-En la salida de Stalingrado.\r\n20-Se cerrará con dificultad la competición de velocidad.\r\n22-Orden de Agustinos Recoletos.\r\n23-Grosera, escasa de educación y delicadeza.\r\n25-Entrada o paso.\r\n27-El monograma de Lindsay Lohan.\r\n28-Iniciales del inventor del cubo de Rubik.\r\n29-Se llevó el dinero ajeno.\r\n32-País con las mayores reservas de petróleo del mundo. \r\n37-Sin cadenas, sin opresión. \r\n38-Distinguida reunión nocturna con música y baile (pl).\r\n39-Arte de pesca en las albuferas.\r\n41-Solicitar.\r\n42-Sistema de protección eclesiástica. \r\n45-Rana en inglés.\r\n46-Temprano por la mañana.\r\n47-Retweet.\r\n48-Lo que puedes hacer cuando hay libertad de expresión.\r\n52-Cantores épicos de la antigua Grecia.\r\n55-Inform. Formato para comprimir archivos.\r\n58-Retirar, retroceder.\r\n60-Van seguidas.\r\n61-Movimiento del ánimo que suscita ira.\r\n63-Personaje bíblico.\r\n64-Una infusión tranquilizante.\r\n65-Le ruegas a Dios.\r\n66-Entreguéis, otorguéis.\r\n67-Caso fortuito, casualidad.\r\n68-Rifa.\r\n69-Pasan hambre en la mañana.",
+        "board_clues_positions": "#,1,2,3,#,4,5,#,6,#,7,8,9,10,#\r\n11,#,#,#,#,12,#,13,#,#,14,#,#,#,15\r\n16,#,#,#,#,17,#,#,#,#,18,#,#,#,#\r\n19,#,#,#,20,#,#,#,#,21,#,#,22,#,#\r\n23,#,#,24,#,#,25,#,#,#,#,26,#,#,#\r\n#,#,#,27,#,#,#,28,#,#,#,29,30,31,#\r\n32,33,34,#,#,35,36,#,#,#,37,#,#,#,#\r\n#,38,#,#,#,#,#,#,39,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,#,#,#,#,#,#,44\r\n45,#,#,#,#,#,46,#,#,#,47,#,#,#,#\r\n#,#,#,48,49,50,#,#,51,#,52,#,53,54,#\r\n55,56,57,#,58,#,#,#,#,59,#,#,60,#,#\r\n61,#,#,62,#,#,63,#,#,#,#,64,#,#,#\r\n65,#,#,#,#,#,66,#,#,#,#,67,#,#,#\r\n#,68,#,#,#,#,#,#,69,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

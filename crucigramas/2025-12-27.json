@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4028,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.587182Z",
+      "updatedAt": "2025-12-16T12:21:59.443880Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ARCA#LEIA##SEGA\r\nPARO#OZARK#EVOS\r\nEDU#FRONDA#TATO\r\nLICAON##INCIDEN\r\nACERCABA##AMARA\r\nSARNA#OCASIONAR\r\n#ROA##NOVIA##SA\r\n##SUFRIMIENTO##\r\nLG##ARTES##ABC#\r\nILITERATA#MULAN\r\nBOTIN##ARTURICO\r\nABARATA##ACOGER\r\nNULA#ENCAJO#ART\r\nELON#LYCRA#ODIE\r\nSOSO##AGUR#LOAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Recurres, interpones",
+              "answer": "APELAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Echar raíces, arraigar",
+              "answer": "RADICAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tipo de barco de recreo (pl)",
+              "answer": "CRUCEROS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Iniciales de \"Alejandro Oliveros\", poeta venezolano",
+              "answer": "AO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Del festival Celsius 232, los Premios a los mejores comics",
+              "answer": "LORNA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Empiezo por la derecha",
+              "answer": "EZO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"… McKellen\" interpreta a Gandalf en ESDLA",
+              "answer": "IAN"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Estuve en combustión",
+              "answer": "ARDI"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Una forma menos culta de decir séptimo",
+              "answer": "SETIMO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Eviten, eludan",
+              "answer": "EVADAN"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Filtraciones de agua a través de un techo",
+              "answer": "GOTERAS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Convendrá un sonido con otro",
+              "answer": "ASONARA"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "\"Gengis …\" El conquistador mongol",
+              "answer": "KAN"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Mamífero acuático",
+              "answer": "FOCA"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "\"Juan…\" fundador del Monegros Desert Festival",
+              "answer": "ARNAU"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Bajaban, descendían",
+              "answer": "CAIAN"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"Playa …\", famosa en República Dominicana",
+              "answer": "BONITA"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Embista con ímpetu y ardimiento",
+              "answer": "ACOMETA"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Dar noticia de algún hecho",
+              "answer": "AVISAR"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Siete de siena",
+              "answer": "SIE"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Trabajo que se hace en horas extraordinarias",
+              "answer": "FAENA"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Reducir, Reciclar y Reutilizar",
+              "answer": "RRR"
+            },
+            "38": {
+              "col": 11,
+              "row": 7,
+              "clue": "Signo zodiacal",
+              "answer": "TAURO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Él no lo hace porque quiera, sino porque está…",
+              "answer": "OBLIGADO"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Nacionalidad del actor Keanu Reeves",
+              "answer": "LIBANES"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Lo es el blanco o el rojo, en la sangre",
+              "answer": "GLOBULO"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Conjunto de animales muertos en la caza",
+              "answer": "CACERIA"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Italianos",
+              "answer": "ITALOS"
+            },
+            "47": {
+              "col": 3,
+              "row": 9,
+              "clue": "Hombre que abusa de su poder en cualquier concepto o materia",
+              "answer": "TIRANO"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Elemento compositivo que significa 'mucosidad'",
+              "answer": "MUCO"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Septentrión, boreal (pl)",
+              "answer": "NORTES"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Cortar, sacar una tajada",
+              "answer": "TAJAR"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Teléfono compacto",
+              "answer": "TEL"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"… Taylor Joy\" la prota en 'Gambito de Dama'",
+              "answer": "ANYA"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Cambio climático global",
+              "answer": "CCG"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Islas de Indonesia",
+              "answer": "ARU"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Lo devolví",
+              "answer": "OL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La embarcación de Noé",
+              "answer": "ARCA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "La princesa de Star Wars",
+              "answer": "LEIA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "La casa de Sonic era una consola",
+              "answer": "SEGA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Se detuvo en seco",
+              "answer": "PARO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Serie de TV protagonizada por Jason Bateman",
+              "answer": "OZARK"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Tiempos eternos (pl)",
+              "answer": "EVOS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dominio web educativo",
+              "answer": "EDU"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Hoja de los helechos",
+              "answer": "FRONDA"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Hermano de cariño",
+              "answer": "TATO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cánido parecido al chacal, con manchas irregulares",
+              "answer": "LICAON"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Caen o incurren en una falta, un error, un extremo",
+              "answer": "INCIDEN"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ponía a menor distancia",
+              "answer": "ACERCABA"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "Apreciará, estimará profundamente",
+              "answer": "AMARA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Afección cutánea contagiosa",
+              "answer": "SARNA"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Ser causa o motivo para que suceda algo",
+              "answer": "OCASIONAR"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Mordisquee un hueso hasta quitar toda la carne pegada",
+              "answer": "ROA"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "En avión o en navío llega a la boda",
+              "answer": "NOVIA"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Su alteza",
+              "answer": "SA"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Pena que me destruye completamente",
+              "answer": "SUFRIMIENTO"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Empresa de electrodomésticos",
+              "answer": "LG"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Las hay plásticas y escénicas",
+              "answer": "ARTES"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Las primeras tres del abecedario",
+              "answer": "ABC"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Ignorante y no versada en ciencias ni letras humanas",
+              "answer": "ILITERATA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Princesa china de Disney",
+              "answer": "MULAN"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Calzado que cubre todo el pie y parte de la pierna",
+              "answer": "BOTIN"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Relacionado al rey de la Mesa Redonda",
+              "answer": "ARTURICO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Disminuye los costos y baja de precio el producto",
+              "answer": "ABARATA"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Servir de refugio o albergue a alguien",
+              "answer": "ACOGER"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Falto de valor o fuerza (fem)",
+              "answer": "NULA"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Uno ajustadamente una cosa con otra",
+              "answer": "ENCAJO"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"… Attack\" el programa que presentaba Jordi Cruz",
+              "answer": "ART"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… Musk\" y sus coches Tesla",
+              "answer": "ELON"
+            },
+            "63": {
+              "col": 5,
+              "row": 13,
+              "clue": "Tejido sintético elástico",
+              "answer": "LYCRA"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Perro amigo del gato Garfield",
+              "answer": "ODIE"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Que no tiene sal, o tiene poca (masc)",
+              "answer": "SOSO"
+            },
+            "66": {
+              "col": 6,
+              "row": 14,
+              "clue": "Voz usada para despedirse",
+              "answer": "AGUR"
+            },
+            "67": {
+              "col": 11,
+              "row": 14,
+              "clue": "Alabas, enalteces a otro",
+              "answer": "LOAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Recurres, interpones\r\n2-Echar raíces, arraigar\r\n3-Tipo de barco de recreo (pl)\r\n4-Iniciales de \"Alejandro Oliveros\", poeta venezolano\r\n5-Del festival Celsius 232, los Premios a los mejores comics\r\n6-Empiezo por la derecha\r\n7-\"… McKellen\" interpreta a Gandalf en ESDLA\r\n8-Estuve en combustión\r\n9-Una forma menos culta de decir séptimo\r\n10-Eviten, eludan\r\n11-Filtraciones de agua a través de un techo\r\n12-Convendrá un sonido con otro\r\n15-\"Gengis …\" El conquistador mongol\r\n18-Mamífero acuático\r\n21-\"Juan…\" fundador del Monegros Desert Festival\r\n23-Bajaban, descendían\r\n25-\"Playa …\", famosa en República Dominicana\r\n26-Embista con ímpetu y ardimiento\r\n30-Dar noticia de algún hecho\r\n31-Siete de siena\r\n36-Trabajo que se hace en horas extraordinarias\r\n37-Reducir, Reciclar y Reutilizar\r\n38-Signo zodiacal\r\n39-Él no lo hace porque quiera, sino porque está…\r\n40-Nacionalidad del actor Keanu Reeves\r\n41-Lo es el blanco o el rojo, en la sangre\r\n44-Conjunto de animales muertos en la caza\r\n46-Italianos\r\n47-Hombre que abusa de su poder en cualquier concepto o materia\r\n48-Elemento compositivo que significa 'mucosidad'\r\n49-Septentrión, boreal (pl)\r\n52-Cortar, sacar una tajada\r\n54-Teléfono compacto\r\n55-\"… Taylor Joy\" la prota en 'Gambito de Dama'\r\n59-Cambio climático global\r\n60-Islas de Indonesia\r\n64-Lo devolví",
+        "horizontal_clues": "1-La embarcación de Noé\r\n5-La princesa de Star Wars\r\n9-La casa de Sonic era una consola\r\n13-Se detuvo en seco\r\n14-Serie de TV protagonizada por Jason Bateman\r\n16-Tiempos eternos (pl)\r\n17-Dominio web educativo\r\n18-Hoja de los helechos\r\n19-Hermano de cariño\r\n20-Cánido parecido al chacal, con manchas irregulares\r\n22-Caen o incurren en una falta, un error, un extremo\r\n24-Ponía a menor distancia\r\n27-Apreciará, estimará profundamente\r\n28-Afección cutánea contagiosa\r\n29-Ser causa o motivo para que suceda algo\r\n32-Mordisquee un hueso hasta quitar toda la carne pegada\r\n33-En avión o en navío llega a la boda\r\n34-Su alteza\r\n35-Pena que me destruye completamente\r\n40-Empresa de electrodomésticos\r\n42-Las hay plásticas y escénicas\r\n43-Las primeras tres del abecedario\r\n45-Ignorante y no versada en ciencias ni letras humanas\r\n48-Princesa china de Disney\r\n50-Calzado que cubre todo el pie y parte de la pierna\r\n51-Relacionado al rey de la Mesa Redonda\r\n53-Disminuye los costos y baja de precio el producto\r\n56-Servir de refugio o albergue a alguien\r\n57-Falto de valor o fuerza (fem)\r\n58-Uno ajustadamente una cosa con otra\r\n61-\"… Attack\" el programa que presentaba Jordi Cruz\r\n62-\"… Musk\" y sus coches Tesla\r\n63-Tejido sintético elástico\r\n64-Perro amigo del gato Garfield\r\n65-Que no tiene sal, o tiene poca (masc)\r\n66-Voz usada para despedirse\r\n67-Alabas, enalteces a otro",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,15,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,#,19,#,#,#\r\n20,#,#,21,#,#,#,#,22,#,23,#,#,#,#\r\n24,#,#,#,#,#,25,26,#,#,27,#,#,#,#\r\n28,#,#,#,#,#,29,#,30,31,#,#,#,#,#\r\n#,32,#,#,#,#,33,#,#,#,#,#,#,34,#\r\n#,#,35,#,36,37,#,#,#,#,#,38,39,#,#\r\n40,41,#,#,42,#,#,#,#,#,#,43,#,44,#\r\n45,#,46,47,#,#,#,#,#,#,48,#,#,#,49\r\n50,#,#,#,#,#,#,51,#,52,#,#,#,#,#\r\n53,#,#,#,#,54,55,#,#,56,#,#,#,#,#\r\n57,#,#,#,#,58,#,59,60,#,#,#,61,#,#\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#\r\n65,#,#,#,#,#,66,#,#,#,#,67,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

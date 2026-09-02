@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 2292,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T16:33:46.577674Z",
+      "updatedAt": "2025-04-29T18:13:01.514940Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-19",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#APELADA#RUBEN#\r\nR#AJETE#GABON#M\r\nOBLITO#TUTELAJE\r\nNUMO#CHIA#RANUL\r\nCHAN#HUMUS##AGE\r\nEOR#PARA#AVISAN\r\n#SEDO#GRACIA#DD\r\nR#SUPRA#RASGO#I\r\nEI#DIERON#TOPO#\r\nEMMETS#POMO#CHA\r\nLPI##APILE#OIAN\r\nELEVA#ANDO#DONG\r\nGENERALA#LLENAR\r\nI#TALIO#BLUSA#Y\r\n#MASAS#GOODALL#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "La lista de los ganadores en reconstrucción de palmeras",
+              "answer": "PALMARES"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Cuña de madera que sujeta los pares de un armazón",
+              "answer": "EJION"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Boleto de Leticia",
+              "answer": "LET"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Puerta de…\" estación de tren madrileña con el nombre de un acceso histórico",
+              "answer": "ATOCHA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"… mí para ti\"",
+              "answer": "DE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Espero que esto sea por poco rato",
+              "answer": "RAT"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "App que ofrece servicios de transporte a particulares",
+              "answer": "UBER"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "La loba chalada no le da atención a la pelota",
+              "answer": "BOLA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"… blancas\", estrellas en su fase final",
+              "answer": "ENANAS"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Manifestación de cariño a alguien para conseguir un fin",
+              "answer": "RONCE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Suena sorprendido ese perro",
+              "answer": "GUAU"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Cantautor español del tema 'Destino o casualidad'",
+              "answer": "MELENDI"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "La ululofilia consiste en coleccionar estos animales",
+              "answer": "BUHOS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Quitar o hurtar con engaño",
+              "answer": "TIMAR"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tomad estos muñecos y divertíos con ellos",
+              "answer": "JUGAD"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Meter las manos donde no te llaman",
+              "answer": "HURGAR"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Reanuda el partido lanzando la pelota desde el arco",
+              "answer": "SACA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Juguete antiestrés popularizado en TikTok (2p)",
+              "answer": "POPIT"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Solo me pongo ropa que ya he observado",
+              "answer": "VISTO"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "El loro rojo de Jafar, villano de Aladdin",
+              "answer": "IAGO"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Desconfié de su palabra",
+              "answer": "DUDE"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Schwarzenegger",
+              "answer": "ARNOLD"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Volví a preferir",
+              "answer": "REELEGI"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Será, que está todo mal",
+              "answer": "RESA"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Voluntario, a elección",
+              "answer": "OPCIONAL"
+            },
+            "43": {
+              "col": 1,
+              "row": 8,
+              "clue": "Inflé, hinché",
+              "answer": "IMPLE"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Comparte su sabiduría",
+              "answer": "OPINA"
+            },
+            "47": {
+              "col": 13,
+              "row": 8,
+              "clue": "Palabra hawaiana para la familia, no solo biológica",
+              "answer": "OHANA"
+            },
+            "49": {
+              "col": 2,
+              "row": 9,
+              "clue": "No me venga con esos cuentos, no me…",
+              "answer": "MIENTA"
+            },
+            "51": {
+              "col": 9,
+              "row": 9,
+              "clue": "Me oyó y ese es el centro del asunto",
+              "answer": "MEOLLO"
+            },
+            "53": {
+              "col": 14,
+              "row": 9,
+              "clue": "\"… Birds\" los pajaritos enojados",
+              "answer": "ANGRY"
+            },
+            "56": {
+              "col": 6,
+              "row": 10,
+              "clue": "Serie en que se divide la baraja de cartas",
+              "answer": "PALO"
+            },
+            "57": {
+              "col": 11,
+              "row": 10,
+              "clue": "Principal ciudad portuaria de Ucrania",
+              "answer": "ODESA"
+            },
+            "59": {
+              "col": 3,
+              "row": 11,
+              "clue": "A las aves locas, es mejor que la mires",
+              "answer": "VEAS"
+            },
+            "60": {
+              "col": 4,
+              "row": 11,
+              "clue": "Pon las frutas en arlos",
+              "answer": "ARLA"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Así está mal",
+              "answer": "AIS"
+            },
+            "66": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"Vautrin…\" máximo galardón en el campo de la Geografía",
+              "answer": "LUD"
+            },
+            "68": {
+              "col": 8,
+              "row": 13,
+              "clue": "En las páginas web de Bolivia",
+              "answer": "BO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Recurrida, interpuesta ante una corte",
+              "answer": "APELADA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Blades\" cantautor del tema 'Pedro Navaja'",
+              "answer": "RUBEN"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Ajo tierno sin cepa",
+              "answer": "AJETE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "País africano cuya capital es Libreville",
+              "answer": "GABON"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Objeto de cirugía dejado accidentalmente en el interior de un paciente",
+              "answer": "OBLITO"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Cuidado legal de un menor de edad",
+              "answer": "TUTELAJE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Desuso Moneda o dinero",
+              "answer": "NUMO"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Semilla diminuta, superalimento",
+              "answer": "CHIA"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Se mira el nevus frente al espejo",
+              "answer": "RANUL"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Jackie…\" querido actor, comediante y acróbata chino",
+              "answer": "CHAN"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "La capa superior de los suelos, a una letra de ser crema de garbanzos",
+              "answer": "HUMUS"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "Edad en inglés",
+              "answer": "AGE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Es peor sin su líder",
+              "answer": "EOR"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Detén el movimiento",
+              "answer": "PARA"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Notifican, informan algún hecho",
+              "answer": "AVISAN"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Anestesio, narcotizo",
+              "answer": "SEDO"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Se meó de la risa, la pista le debió dar mucha…",
+              "answer": "GRACIA"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Iniciales del autor de 'Robinson Crusoe'",
+              "answer": "DD"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Si lo que está por abajo es \"infra\", lo que está por encima es…",
+              "answer": "SUPRA"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Hago pedazos con las manos un papel",
+              "answer": "RASGO"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Saliendo de Taipéi",
+              "answer": "EI"
+            },
+            "44": {
+              "col": 3,
+              "row": 8,
+              "clue": "Le pasaron el dinero riendo",
+              "answer": "DIERON"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "Pobre animal, siempre lo acusan de espía",
+              "answer": "TOPO"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Licor irlandés elaborado con whisky y crema de leche",
+              "answer": "EMMETS"
+            },
+            "50": {
+              "col": 7,
+              "row": 9,
+              "clue": "Agarrador o tirador de una puerta",
+              "answer": "POMO"
+            },
+            "52": {
+              "col": 12,
+              "row": 9,
+              "clue": "Chalet en construcción",
+              "answer": "CHA"
+            },
+            "54": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ley de Propiedad Intelectual (siglas)",
+              "answer": "LPI"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Amontoné",
+              "answer": "APILE"
+            },
+            "57": {
+              "col": 11,
+              "row": 10,
+              "clue": "Percibían los sonidos",
+              "answer": "OIAN"
+            },
+            "58": {
+              "col": 0,
+              "row": 11,
+              "clue": "La pequeña Elena se dirige hacia arriba",
+              "answer": "ELEVA"
+            },
+            "61": {
+              "col": 6,
+              "row": 11,
+              "clue": "Voy de un lugar a otro dando pasos",
+              "answer": "ANDO"
+            },
+            "62": {
+              "col": 11,
+              "row": 11,
+              "clue": "Moneda de Vietnam",
+              "answer": "DONG"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Jugada en la que los cinco dados dan el mismo número",
+              "answer": "GENERALA"
+            },
+            "65": {
+              "col": 9,
+              "row": 12,
+              "clue": "Ocupar todo el espacio disponible",
+              "answer": "LLENAR"
+            },
+            "67": {
+              "col": 2,
+              "row": 13,
+              "clue": "Elemento químico cuyo símbolo es TI (con mayúsculas)",
+              "answer": "TALIO"
+            },
+            "68": {
+              "col": 8,
+              "row": 13,
+              "clue": "Camiseta femenina",
+              "answer": "BLUSA"
+            },
+            "69": {
+              "col": 1,
+              "row": 14,
+              "clue": "Las grandes consumidoras",
+              "answer": "MASAS"
+            },
+            "70": {
+              "col": 7,
+              "row": 14,
+              "clue": "\"Jane …\" pionera en el estudio de los chimpancés salvajes",
+              "answer": "GOODALL"
+            }
+          }
+        },
+        "vertical_clues": "2-La lista de los ganadores en reconstrucción de palmeras\r\n3-Cuña de madera que sujeta los pares de un armazón\r\n4-Boleto de Leticia\r\n5-\"Puerta de…\" estación de tren madrileña con el nombre de un acceso histórico\r\n6-\"… mí para ti\"\r\n7-Espero que esto sea por poco rato\r\n8-App que ofrece servicios de transporte a particulares\r\n9-La loba chalada no le da atención a la pelota \r\n10-\"… blancas\", estrellas en su fase final\r\n11-Manifestación de cariño a alguien para conseguir un fin\r\n13-Suena sorprendido ese perro\r\n14-Cantautor español del tema 'Destino o casualidad'\r\n16-La ululofilia consiste en coleccionar estos animales\r\n17-Quitar o hurtar con engaño\r\n18-Tomad estos muñecos y divertíos con ellos\r\n21-Meter las manos donde no te llaman\r\n25-Reanuda el partido lanzando la pelota desde el arco\r\n28-Juguete antiestrés popularizado en TikTok (2p)\r\n30-Solo me pongo ropa que ya he observado\r\n31-El loro rojo de Jafar, villano de Aladdin\r\n33-Desconfié de su palabra\r\n35-Schwarzenegger\r\n37-Volví a preferir\r\n39-Será, que está todo mal\r\n41-Voluntario, a elección\r\n43-Inflé, hinché\r\n45-Comparte su sabiduría\r\n47-Palabra hawaiana para la familia, no solo biológica\r\n49-No me venga con esos cuentos, no me…\r\n51-Me oyó y ese es el centro del asunto\r\n53-\"… Birds\" los pajaritos enojados\r\n56-Serie en que se divide la baraja de cartas\r\n57-Principal ciudad portuaria de Ucrania\r\n59-A las aves locas, es mejor que la mires\r\n60-Pon las frutas en arlos\r\n64-Así está mal\r\n66-\"Vautrin…\" máximo galardón en el campo de la Geografía\r\n68-En las páginas web de Bolivia",
+        "horizontal_clues": "1-Recurrida, interpuesta ante una corte\r\n7-\"… Blades\" cantautor del tema 'Pedro Navaja'\r\n12-Ajo tierno sin cepa\r\n13-País africano cuya capital es Libreville\r\n15-Objeto de cirugía dejado accidentalmente en el interior de un paciente\r\n17-Cuidado legal de un menor de edad\r\n19-Desuso Moneda o dinero\r\n20-Semilla diminuta, superalimento\r\n22-Se mira el nevus frente al espejo\r\n23-\"Jackie…\" querido actor, comediante y acróbata chino\r\n24-La capa superior de los suelos, a una letra de ser crema de garbanzos\r\n26-Edad en inglés\r\n27-Es peor sin su líder\r\n28-Detén el movimiento\r\n29-Notifican, informan algún hecho\r\n32-Anestesio, narcotizo\r\n34-Se meó de la risa, la pista le debió dar mucha…\r\n36-Iniciales del autor de 'Robinson Crusoe'\r\n38-Si lo que está por abajo es \"infra\", lo que está por encima es…\r\n40-Hago pedazos con las manos un papel\r\n42-Saliendo de Taipéi\r\n44-Le pasaron el dinero riendo\r\n46-Pobre animal, siempre lo acusan de espía\r\n48-Licor irlandés elaborado con whisky y crema de leche\r\n50-Agarrador o tirador de una puerta\r\n52-Chalet en construcción\r\n54-Ley de Propiedad Intelectual (siglas)\r\n55-Amontoné\r\n57-Percibían los sonidos\r\n58-La pequeña Elena se dirige hacia arriba\r\n61-Voy de un lugar a otro dando pasos\r\n62-Moneda de Vietnam\r\n63-Jugada en la que los cinco dados dan el mismo número\r\n65-Ocupar todo el espacio disponible\r\n67-Elemento químico cuyo símbolo es TI (con mayúsculas)\r\n68-Camiseta femenina\r\n69-Las grandes consumidoras\r\n70-\"Jane …\" pionera en el estudio de los chimpancés salvajes",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,16,#,#,#,#,#,17,#,#,#,#,#,18,#\r\n19,#,#,#,#,20,21,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,#,26,#,#\r\n27,#,#,#,28,#,#,#,#,29,30,31,#,#,#\r\n#,32,#,33,#,#,34,#,35,#,#,#,#,36,#\r\n37,#,38,#,#,39,#,#,40,#,#,#,41,#,#\r\n42,43,#,44,#,#,#,45,#,#,46,#,#,47,#\r\n48,#,49,#,#,#,#,50,#,51,#,#,52,#,53\r\n54,#,#,#,#,55,56,#,#,#,#,57,#,#,#\r\n58,#,#,59,60,#,61,#,#,#,#,62,#,#,#\r\n63,#,#,#,#,64,#,#,#,65,66,#,#,#,#\r\n#,#,67,#,#,#,#,#,68,#,#,#,#,#,#\r\n#,69,#,#,#,#,#,70,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

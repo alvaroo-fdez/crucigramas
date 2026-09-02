@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3639,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-13T09:38:22.281680Z",
+      "updatedAt": "2025-10-13T10:14:11.809404Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##MARY#ACHICA##\r\n#SALMON#HONORE#\r\nPERFORADA#SLANG\r\nALZA#KIEV#TENDI\r\nLLORA#LLANO#COR\r\nPE##CASTLE#CESA\r\nASTROS#A#CTRLA#\r\nR#ROTOR#BOWIE#M\r\n#RAZON#B#RIESGO\r\nDUDO#AMALAS##UU\r\nTMU#PROSA#TACAS\r\nMICHA#NICK#PANS\r\nFATAL#RETICENTE\r\n#ROCOCO#ENVASE#\r\n##RESTES#GANA##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mes de Fallas",
+              "answer": "MARZO"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Obrador de alfarero",
+              "answer": "ALFAR"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Termo vacío",
+              "answer": "RMO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "El jamón cocido de Inglaterra",
+              "answer": "YORK"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Joven español",
+              "answer": "CHAVAL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Símbolo químico del Holmio",
+              "answer": "HO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pido, solicito",
+              "answer": "INSTO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "A mi colegio con cariño",
+              "answer": "COLE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tarifas oficiales",
+              "answer": "ARANCELES"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Cierres herméticamente",
+              "answer": "SELLES"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "'Nine Inch…' banda de rock industrial de USA",
+              "answer": "NAILS"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "Le adjudica a alguien una carga",
+              "answer": "ENDOSA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tocar un órgano",
+              "answer": "PALPAR"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Terreno entre los brazos de un río en su desembocadura",
+              "answer": "DELTA"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Tour artístico",
+              "answer": "GIRA"
+            },
+            "23": {
+              "col": 4,
+              "row": 4,
+              "clue": "Delimito el espacio",
+              "answer": "ACOTO"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Cangrejo de mar, de cuerpo liso y elíptico",
+              "answer": "NECORA"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Convenir un sonido con otro",
+              "answer": "ASONAR"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Cuidé y eduqué una niña",
+              "answer": "CRIE"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Persona que repite lo mismo que otra, en otro idioma",
+              "answer": "TRADUCTOR"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Limpió las tierras de las matas y hierbas",
+              "answer": "ROZO"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Oliver …\" novela de Charles Dickens",
+              "answer": "TWIST"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "Postre de origen francés y de consistencia esponjosa",
+              "answer": "MOUSSE"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Masticar repetidamente los alimentos",
+              "answer": "RUMIAR"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"Count…\" la leyenda del jazz",
+              "answer": "BASIE"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "De boxeador, el izquierdo o el derecho",
+              "answer": "GUANTE"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "¡Dios, que Temazo Más Formidable!",
+              "answer": "DTMF"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "\"Marilyn…\", ícono pop del siglo XX",
+              "answer": "MONROE"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Amamante, de leche de sus pechos al niño",
+              "answer": "LACTE"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Los son la soleá, el fandango y la bulería",
+              "answer": "PALOS"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Desmontan de una caballería",
+              "answer": "APEAN"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Le sacan canas, por eso se agota",
+              "answer": "CANSA"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "Lleva a cabo",
+              "answer": "HACE"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"… Kong\" Primate gigante ficticio",
+              "answer": "KING"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Curriculum Vitae Abreviado (siglas)",
+              "answer": "CVA"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Iniciales de futbolista argentino conocido como 'El Apache'",
+              "answer": "CT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "La Poppins",
+              "answer": "MARY"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Saca el agua de una bomba",
+              "answer": "ACHICA"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Pescado favorito del Rey Salomón",
+              "answer": "SALMON"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"… de Balzac\", autor de 'La Comedia Humana'",
+              "answer": "HONORE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Como una oreja con varios aros",
+              "answer": "PERFORADA"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "\"Argot\" en inglés",
+              "answer": "SLANG"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Aumento de valor de algo",
+              "answer": "ALZA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Capital de Ucrania",
+              "answer": "KIEV"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Puse al sol la ropa para secarla",
+              "answer": "TENDI"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Derrama lágrimas",
+              "answer": "LLORA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Igual y extendido, sin altos ni bajos",
+              "answer": "LLANO"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "Acortamiento Corintios",
+              "answer": "COR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Inic de narcotraficante colombiano",
+              "answer": "PE"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Un castillo inglés",
+              "answer": "CASTLE"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Finaliza, termina",
+              "answer": "CESA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cuerpos celestes",
+              "answer": "ASTROS"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Comando para seleccionar todo el contenido de una ventana (2 teclas)",
+              "answer": "CTRLA"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Parte giratoria del helicóptero",
+              "answer": "ROTOR"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"David …\" músico y compositor británico de rock (1947 a 2016)",
+              "answer": "BOWIE"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Argumento que se aduce en apoyo de algo",
+              "answer": "RAZON"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Posibilidad peligrosa",
+              "answer": "RIESGO"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pongo en tela de juicio",
+              "answer": "DUDO"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Quiérelas",
+              "answer": "AMALAS"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "Universidad de Utrecht",
+              "answer": "UU"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "La Toronto Metropolitan University",
+              "answer": "TMU"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Estructura gramatical no sujeta a medida",
+              "answer": "PROSA"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Desuso Señalas algo con una marca",
+              "answer": "TACAS"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Gata, minina",
+              "answer": "MICHA"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Alias, nombre de usuario en una plataforma (voz inglesa)",
+              "answer": "NICK"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Sartenes de Inglaterra",
+              "answer": "PANS"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Inevitable, indefectible",
+              "answer": "FATAL"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Desconfiado, que muestra dudas antes de actuar",
+              "answer": "RETICENTE"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Estilo artístico del siglo XVIII",
+              "answer": "ROCOCO"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Un táper, un…",
+              "answer": "ENVASE"
+            },
+            "64": {
+              "col": 2,
+              "row": 14,
+              "clue": "Que quites a los tres testigos juntos",
+              "answer": "RESTES"
+            },
+            "65": {
+              "col": 9,
+              "row": 14,
+              "clue": "Vence, derrota, sale victorioso",
+              "answer": "GANA"
+            }
+          }
+        },
+        "vertical_clues": "1-Mes de Fallas\r\n2-Obrador de alfarero\r\n3-Termo vacío\r\n4-El jamón cocido de Inglaterra\r\n6-Joven español\r\n7-Símbolo químico del Holmio\r\n8-Pido, solicito\r\n9-A mi colegio con cariño\r\n10-Tarifas oficiales\r\n11-Cierres herméticamente\r\n12-'Nine Inch…' banda de rock industrial de USA\r\n14-Le adjudica a alguien una carga\r\n15-Tocar un órgano\r\n16-Terreno entre los brazos de un río en su desembocadura\r\n18-Tour artístico\r\n23-Delimito el espacio\r\n25-Cangrejo de mar, de cuerpo liso y elíptico\r\n29-Convenir un sonido con otro\r\n30-Cuidé y eduqué una niña\r\n32-Persona que repite lo mismo que otra, en otro idioma\r\n33-Limpió las tierras de las matas y hierbas\r\n35-\"Oliver …\" novela de Charles Dickens\r\n38-Postre de origen francés y de consistencia esponjosa\r\n39-Masticar repetidamente los alimentos\r\n40-\"Count…\" la leyenda del jazz\r\n42-De boxeador, el izquierdo o el derecho\r\n43-¡Dios, que Temazo Más Formidable!\r\n45-\"Marilyn…\", ícono pop del siglo XX\r\n46-Amamante, de leche de sus pechos al niño\r\n49-Los son la soleá, el fandango y la bulería\r\n51-Desmontan de una caballería\r\n52-Le sacan canas, por eso se agota\r\n54-Lleva a cabo\r\n56-\"… Kong\" Primate gigante ficticio\r\n60-Curriculum Vitae Abreviado (siglas)\r\n62-Iniciales de futbolista argentino conocido como 'El Apache'",
+        "horizontal_clues": "1-La Poppins\r\n5-Saca el agua de una bomba\r\n11-Pescado favorito del Rey Salomón\r\n13-\"… de Balzac\", autor de 'La Comedia Humana'\r\n15-Como una oreja con varios aros\r\n17-\"Argot\" en inglés\r\n19-Aumento de valor de algo\r\n20-Capital de Ucrania\r\n21-Puse al sol la ropa para secarla\r\n22-Derrama lágrimas\r\n24-Igual y extendido, sin altos ni bajos\r\n26-Acortamiento Corintios\r\n27-Inic de narcotraficante colombiano\r\n28-Un castillo inglés\r\n30-Finaliza, termina\r\n31-Cuerpos celestes\r\n34-Comando para seleccionar todo el contenido de una ventana (2 teclas)\r\n36-Parte giratoria del helicóptero\r\n37-\"David …\" músico y compositor británico de rock (1947 a 2016)\r\n39-Argumento que se aduce en apoyo de algo\r\n41-Posibilidad peligrosa\r\n43-Pongo en tela de juicio\r\n44-Quiérelas\r\n47-Universidad de Utrecht\r\n48-La Toronto Metropolitan University\r\n49-Estructura gramatical no sujeta a medida\r\n50-Desuso Señalas algo con una marca\r\n53-Gata, minina\r\n55-Alias, nombre de usuario en una plataforma (voz inglesa)\r\n57-Sartenes de Inglaterra\r\n58-Inevitable, indefectible\r\n59-Desconfiado, que muestra dudas antes de actuar\r\n61-Estilo artístico del siglo XVIII\r\n63-Un táper, un…\r\n64-Que quites a los tres testigos juntos\r\n65-Vence, derrota, sale victorioso",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,#,5,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,12,#,13,#,#,#,#,14,#\r\n15,#,#,#,#,#,#,16,#,#,17,#,#,#,18\r\n19,#,#,#,#,20,#,#,#,#,21,#,#,#,#\r\n22,#,#,#,23,#,24,#,#,25,#,#,26,#,#\r\n27,#,#,#,28,29,#,#,#,#,#,30,#,#,#\r\n31,#,32,33,#,#,#,#,#,34,35,#,#,#,#\r\n#,#,36,#,#,#,#,#,37,#,#,#,#,#,38\r\n#,39,#,#,#,#,#,40,#,41,#,#,#,42,#\r\n43,#,#,#,#,44,45,#,46,#,#,#,#,47,#\r\n48,#,#,#,49,#,#,#,#,#,50,51,52,#,#\r\n53,#,#,54,#,#,55,#,#,56,#,57,#,#,#\r\n58,#,#,#,#,#,59,#,#,#,60,#,#,#,#\r\n#,61,#,#,#,62,#,#,63,#,#,#,#,#,#\r\n#,#,64,#,#,#,#,#,#,65,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

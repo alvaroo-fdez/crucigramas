@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3896,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.700101Z",
+      "updatedAt": "2025-11-06T06:41:06.673316Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "JANEGOODALL#BDO\r\nARENA#GIGI#RAER\r\nDOCENA#CRETENSE\r\nASTRAL#TONELADA\r\n##AGRUPA#DRENAR\r\nCARIADA#CREIA##\r\nERIC#ATRAES##OR\r\nBLOOM#ROL#AMENO\r\nOO##AHINCO#ENDE\r\n##VALUO#ATENTAR\r\nOPINEN#PRIMOR##\r\nBORDADOR#CUNETA\r\nABURRIDO#OLIVOS\r\nMOTE#DITA#ATESE\r\nASA#NONAGENARIA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Nombre real de Niobe, de la película 'The Matrix Reloaded'",
+              "answer": "JADA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Anillos, alianzas",
+              "answer": "AROS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Órgano de las plantas que produce néctar",
+              "answer": "NECTARIO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lleno de poder y virtud para obrar",
+              "answer": "ENERGICO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Triunfará",
+              "answer": "GANARA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "La cola del bulldog",
+              "answer": "OG"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lee en voz alta, para que el otro anote",
+              "answer": "DICTA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Prefijo que refiere al campo",
+              "answer": "AGRO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Piojo bebé",
+              "answer": "LIENDRE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Plátano, cambur",
+              "answer": "BANANA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Da vueltas, en sentido inverso, a un manubrio",
+              "answer": "DESDA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Costa Rica Buscar oro en los ríos de forma artesanal",
+              "answer": "OREAR"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Volví a leer",
+              "answer": "RELEI"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Haga mención de alguien",
+              "answer": "ALUDA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "La Madre de Calcuta",
+              "answer": "TERESA"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "Tipo de símbolo que es el escudo o la bandera",
+              "answer": "PATRIO"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Comida que se da a los animales para atraerlos",
+              "answer": "CEBO"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Dinosaurio de Pixar, que viaja junto al cavernícola Spot",
+              "answer": "ARLO"
+            },
+            "27": {
+              "col": 8,
+              "row": 5,
+              "clue": "Copiar un dibujo reproduciendo su contorno sobre un papel",
+              "answer": "CALCAR"
+            },
+            "30": {
+              "col": 7,
+              "row": 6,
+              "clue": "Chupito de Negrita, por favor",
+              "answer": "RON"
+            },
+            "31": {
+              "col": 13,
+              "row": 6,
+              "clue": "Ando todo loco, que mala vibra",
+              "answer": "ONDA"
+            },
+            "32": {
+              "col": 14,
+              "row": 6,
+              "clue": "Cortar con los dientes",
+              "answer": "ROER"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Pervertir a alguien con la mala compañía",
+              "answer": "MALEAR"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Disidente de los anabaptistas seguidor de Mennón Simons",
+              "answer": "MENONITA"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Percibir algo de manera vaga, incompleta o poco clara",
+              "answer": "ENTREVER"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "\"Quitarse los muebles de quijotera / soñar que despiertas en un barco…\"",
+              "answer": "HUNDIDO"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Cuando un medicamento es para el oído",
+              "answer": "OTICO"
+            },
+            "44": {
+              "col": 2,
+              "row": 9,
+              "clue": "Hoja delgada que se saca con el cepillo al labrar la madera",
+              "answer": "VIRUTA"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "\"… Agassi\", exjugador de tenis estadounidense",
+              "answer": "ANDRE"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Reproducen, imitan las acciones de los demás",
+              "answer": "EMULAN"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Expresidente estadounidense",
+              "answer": "OBAMA"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Álamos blancos",
+              "answer": "POBOS"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Acortamiento de un protagonista",
+              "answer": "PROTA"
+            },
+            "52": {
+              "col": 6,
+              "row": 11,
+              "clue": "El rey del Valhalla",
+              "answer": "ODIN"
+            },
+            "54": {
+              "col": 13,
+              "row": 11,
+              "clue": "Hice fuerza y violencia con la respiración",
+              "answer": "TOSI"
+            },
+            "55": {
+              "col": 14,
+              "row": 11,
+              "clue": "Se lava",
+              "answer": "ASEA"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Aquí, se necesita plata",
+              "answer": "AG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Primatóloga que revolucionó el estudio de los chimpancés (2p)",
+              "answer": "JANEGOODALL"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Bebe, Duerme, Olvida",
+              "answer": "BDO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Armenia sin mí sería un desierto",
+              "answer": "ARENA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "El apodo de Gianluigi Buffon",
+              "answer": "GIGI"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Pelar, rasurar",
+              "answer": "RAER"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ponme dos six pack, por favor",
+              "answer": "DOCENA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Hombre nacido en Creta",
+              "answer": "CRETENSE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Un viaje a las estrellas.",
+              "answer": "ASTRAL"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Te doy un mal adelanto, esto pesa muchísimo, unos 1000 kg",
+              "answer": "TONELADA"
+            },
+            "22": {
+              "col": 2,
+              "row": 4,
+              "clue": "Congrega, convoca, reúne",
+              "answer": "AGRUPA"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Dar salida y corriente a las aguas muertas",
+              "answer": "DRENAR"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Dicho de una muela con caries",
+              "answer": "CARIADA"
+            },
+            "27": {
+              "col": 8,
+              "row": 5,
+              "clue": "Ya no creo",
+              "answer": "CREIA"
+            },
+            "28": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… Clapton\" cantante y compositor de rock y blues británico",
+              "answer": "ERIC"
+            },
+            "29": {
+              "col": 5,
+              "row": 6,
+              "clue": "Llamas a ti",
+              "answer": "ATRAES"
+            },
+            "31": {
+              "col": 13,
+              "row": 6,
+              "clue": "Río que pasa por Rusia y Kazajistán",
+              "answer": "OR"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Will Turner en \"Piratas del Caribe\"",
+              "answer": "BLOOM"
+            },
+            "35": {
+              "col": 6,
+              "row": 7,
+              "clue": "Función que alguien o algo desempeña",
+              "answer": "ROL"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Grato, placentero",
+              "answer": "AMENO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Las bolas de pool",
+              "answer": "OO"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Empeño grande con que se hace o solicita algo",
+              "answer": "AHINCO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Por tanto, este escribió 'La historia interminable'",
+              "answer": "ENDE"
+            },
+            "44": {
+              "col": 2,
+              "row": 9,
+              "clue": "Pongo el precio",
+              "answer": "VALUO"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Actuar en contra de algo, hasta el punto de exterminarlo",
+              "answer": "ATENTAR"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Digan lo que piensan",
+              "answer": "OPINEN"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Persona de buenas cualidades",
+              "answer": "PRIMOR"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "El que realiza labores de costura decorativa sobre telas",
+              "answer": "BORDADOR"
+            },
+            "53": {
+              "col": 9,
+              "row": 11,
+              "clue": "Zanja al borde de una carretera",
+              "answer": "CUNETA"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Monótono y sin chispa",
+              "answer": "ABURRIDO"
+            },
+            "57": {
+              "col": 9,
+              "row": 12,
+              "clue": "Árboles aceituneros",
+              "answer": "OLIVOS"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Apodo, sobrenombre",
+              "answer": "MOTE"
+            },
+            "59": {
+              "col": 5,
+              "row": 13,
+              "clue": "Andalucía Pago a plazos, en pequeñas cantidades",
+              "answer": "DITA"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "Tensé las velas del barco, las…",
+              "answer": "ATESE"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "En el centro de las casas",
+              "answer": "ASA"
+            },
+            "63": {
+              "col": 4,
+              "row": 14,
+              "clue": "Mujer de 90 años",
+              "answer": "NONAGENARIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Nombre real de Niobe, de la película 'The Matrix Reloaded'\r\n2-Anillos, alianzas\r\n3-Órgano de las plantas que produce néctar \r\n4-Lleno de poder y virtud para obrar\r\n5-Triunfará\r\n6-La cola del bulldog\r\n7-Lee en voz alta, para que el otro anote\r\n8-Prefijo que refiere al campo\r\n9-Piojo bebé\r\n10-Plátano, cambur\r\n11-Da vueltas, en sentido inverso, a un manubrio\r\n12-Costa Rica Buscar oro en los ríos de forma artesanal\r\n15-Volví a leer\r\n17-Haga mención de alguien\r\n19-La Madre de Calcuta\r\n23-Tipo de símbolo que es el escudo o la bandera\r\n25-Comida que se da a los animales para atraerlos\r\n26-Dinosaurio de Pixar, que viaja junto al cavernícola Spot\r\n27-Copiar un dibujo reproduciendo su contorno sobre un papel\r\n30-Chupito de Negrita, por favor\r\n31-Ando todo loco, que mala vibra\r\n32-Cortar con los dientes\r\n34-Pervertir a alguien con la mala compañía\r\n37-Disidente de los anabaptistas seguidor de Mennón Simons\r\n38-Percibir algo de manera vaga, incompleta o poco clara \r\n41-\"Quitarse los muebles de quijotera / soñar que despiertas en un barco…\" \r\n42-Cuando un medicamento es para el oído\r\n44-Hoja delgada que se saca con el cepillo al labrar la madera\r\n45-\"… Agassi\", exjugador de tenis estadounidense\r\n47-Reproducen, imitan las acciones de los demás\r\n48-Expresidente estadounidense\r\n49-Álamos blancos\r\n50-Acortamiento de un protagonista\r\n52-El rey del Valhalla\r\n54-Hice fuerza y violencia con la respiración\r\n55-Se lava\r\n60-Aquí, se necesita plata",
+        "horizontal_clues": "1-Primatóloga que revolucionó el estudio de los chimpancés (2p) \r\n10-Bebe, Duerme, Olvida\r\n13-Armenia sin mí sería un desierto\r\n14-El apodo de Gianluigi Buffon\r\n15-Pelar, rasurar\r\n16-Ponme dos six pack, por favor\r\n18-Hombre nacido en Creta \r\n20-Un viaje a las estrellas.\r\n21-Te doy un mal adelanto, esto pesa muchísimo, unos 1000 kg\r\n22-Congrega, convoca, reúne\r\n24-Dar salida y corriente a las aguas muertas\r\n25-Dicho de una muela con caries\r\n27-Ya no creo\r\n28-\"… Clapton\" cantante y compositor de rock y blues británico\r\n29-Llamas a ti\r\n31-Río que pasa por Rusia y Kazajistán\r\n33-Will Turner en \"Piratas del Caribe\"\r\n35-Función que alguien o algo desempeña\r\n36-Grato, placentero\r\n39-Las bolas de pool\r\n40-Empeño grande con que se hace o solicita algo\r\n43-Por tanto, este escribió 'La historia interminable' \r\n44-Pongo el precio\r\n46-Actuar en contra de algo, hasta el punto de exterminarlo\r\n48-Digan lo que piensan\r\n50-Persona de buenas cualidades\r\n51-El que realiza labores de costura decorativa sobre telas \r\n53-Zanja al borde de una carretera \r\n56-Monótono y sin chispa \r\n57-Árboles aceituneros\r\n58-Apodo, sobrenombre\r\n59-Andalucía Pago a plazos, en pequeñas cantidades\r\n61-Tensé las velas del barco, las…\r\n62-En el centro de las casas\r\n63-Mujer de 90 años",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,#,10,11,12\r\n13,#,#,#,#,#,14,#,#,#,#,15,#,#,#\r\n16,#,#,#,#,17,#,18,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,#,21,#,#,#,#,#,#,#\r\n#,#,22,#,#,#,23,#,#,24,#,#,#,#,#\r\n25,26,#,#,#,#,#,#,27,#,#,#,#,#,#\r\n28,#,#,#,#,29,#,30,#,#,#,#,#,31,32\r\n33,#,#,#,34,#,35,#,#,#,36,37,38,#,#\r\n39,#,#,#,40,41,#,#,#,42,#,43,#,#,#\r\n#,#,44,45,#,#,#,#,46,#,47,#,#,#,#\r\n48,49,#,#,#,#,#,50,#,#,#,#,#,#,#\r\n51,#,#,#,#,#,52,#,#,53,#,#,#,54,55\r\n56,#,#,#,#,#,#,#,#,57,#,#,#,#,#\r\n58,#,#,#,#,59,#,#,60,#,61,#,#,#,#\r\n62,#,#,#,63,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

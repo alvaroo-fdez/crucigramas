@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 452,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-24T21:40:17.088787Z",
+      "updatedAt": "2024-06-24T21:40:17.088807Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-25",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BANGKOK#TRAEN#\r\nPELOTON#DOUGLAS\r\nATENAS#CAMARERA\r\nRAMA#ORAL#DAVID\r\nIBAS#VENID#DANI\r\nREN#PONE#RUANAS\r\n#LIMA#TYCOBB#SM\r\nJ#AINSA#APELA#O\r\nAW#TERRON#DEMI#\r\nMATOSA#RICA#AMI\r\nALIM#SAINA#INIC\r\nIDEAN#BOOM#TETA\r\nCORNATEL#ATACAR\r\nARROCES#CRUCERO\r\n#FASES#TRONARA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Méx. Remolacha.",
+              "answer": "BETABEL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "País europeo donde se encuentra la Escuela de la Bauhaus.",
+              "answer": "ALEMANIA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Novenas.",
+              "answer": "NONAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Grand Theft Auto.",
+              "answer": "GTA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "País cuya capital es Pristina.",
+              "answer": "KOSOVO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Encendido en inglés.",
+              "answer": "ON"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Forrest Gump.",
+              "answer": "TOM"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Andad las calles.",
+              "answer": "RUAD"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Albergada de forma placentera.",
+              "answer": "AGRADABLE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Mat. Multiplican una cantidad por sí misma un determinado número de veces.",
+              "answer": "ELEVAN"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Orificios nasales externos.",
+              "answer": "NARINAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Dar a luz.",
+              "answer": "PARIR"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"Salvador …\", pintor español exponente del Surrealismo.",
+              "answer": "DALI"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "El placer por hacer daño.",
+              "answer": "SADISMO"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Cobertizo con techo de palma, sin paredes.",
+              "answer": "CANEY"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Arrendar para producir.",
+              "answer": "RENTAR"
+            },
+            "23": {
+              "col": 9,
+              "row": 4,
+              "clue": "Gol que se logra en rugby, pateando el balón en el aire.",
+              "answer": "DROP"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Lo son el de barra, de molde y hasta el de pita.",
+              "answer": "PANES"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Ciudad natal de Zahara, la cantante.",
+              "answer": "UBEDA"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Hombres con tendencia a desfigurar la realidad engrandeciéndola.",
+              "answer": "MITOMANOS"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "El colmillo.",
+              "answer": "CANINO"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "País natal de Bob Marley.",
+              "answer": "JAMAICA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Señoras.",
+              "answer": "SRAS"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Me encaramé como loco, para ver a Alba.",
+              "answer": "AMANECER"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Pedagogía de Rudolf Steiner.",
+              "answer": "WALDORF"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Ave también conocida como oropéndola.",
+              "answer": "ORIOL"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Copiará su estilo.",
+              "answer": "IMITARA"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Donde siempre debes tener los pies.",
+              "answer": "TIERRA"
+            },
+            "48": {
+              "col": 9,
+              "row": 9,
+              "clue": "Automóvil deportivo emblemático, creado en 1967.",
+              "answer": "CAMARO"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "Un tipo de Ala Delta para el vuelo libre.",
+              "answer": "ICARO"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Cabes, si pierdes cien kilos.",
+              "answer": "ABES"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Lugar de nacimiento de Odiseo.",
+              "answer": "ITACA"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Viene al mundo.",
+              "answer": "NACE"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "Toma unas infusiones para cuando regreses del plató.",
+              "answer": "TES"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Tallo de petunia.",
+              "answer": "TUN"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Iniciales del 7 portugués del fútbol.",
+              "answer": "CR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Capital de Tailandia.",
+              "answer": "BANGKOK"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Vienen con el vino, ellos lo...",
+              "answer": "TRAEN"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Pequeña unidad de infantería.",
+              "answer": "PELOTON"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Capital de la Isla de Man.",
+              "answer": "DOUGLAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ciudad donde está el Partenón.",
+              "answer": "ATENAS"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Algo en la mera cara de la mesera.",
+              "answer": "CAMARERA"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Descendencia del tallo.",
+              "answer": "RAMA"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Que se toma por la boca.",
+              "answer": "ORAL"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Escultura de mármol realizada por Miguel Ángel.",
+              "answer": "DAVID"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ya no vas.",
+              "answer": "IBAS"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "Acudid porque en la revuelta lo negocié.",
+              "answer": "VENID"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "A Daniel con cariño.",
+              "answer": "DANI"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"... y Stimpy\", caricatura para adultos.",
+              "answer": "REN"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Coloca, sitúa.",
+              "answer": "PONE"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Ponchos de lana.",
+              "answer": "RUANAS"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Pule sus piezas en Perú.",
+              "answer": "LIMA"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Beisbol. Jardinero central, récord del mayor promedio de bateo en las Grandes Ligas.",
+              "answer": "TYCOBB"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "El epicentro de los sismos.",
+              "answer": "SM"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Castillo ubicado en la provincia de Huesca, Aragón, España.",
+              "answer": "AINSA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Recurre a alguien para favorecer una resolución.",
+              "answer": "APELA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Iniciales de importante artista plástico de Pop Art.",
+              "answer": "AW"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Dado de azúcar.",
+              "answer": "TERRON"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"... Moore\" la actriz.",
+              "answer": "DEMI"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Llena y cubierta de matas.",
+              "answer": "MATOSA"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Divina, deliciosa.",
+              "answer": "RICA"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Principios de amigdalitis.",
+              "answer": "AMI"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "El árbol filipino, favorito de la loca Mila.",
+              "answer": "ALIM"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Engorda a los animales.",
+              "answer": "SAINA"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Abreviatura de \"Iniciales\".",
+              "answer": "INIC"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Traman un plan.",
+              "answer": "IDEAN"
+            },
+            "57": {
+              "col": 6,
+              "row": 11,
+              "clue": "Programa de Tv con preguntas explosivas.",
+              "answer": "BOOM"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Órgano que secreta la leche.",
+              "answer": "TETA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Castillo ubicado en El Bierzo, Castilla y León, España.",
+              "answer": "CORNATEL"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Agredir, arremeter.",
+              "answer": "ATACAR"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Lo son el negro y el del senyoret.",
+              "answer": "ARROCES"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Velocidad constante y uniforme.",
+              "answer": "CRUCERO"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Estados sucesivos de un fenómeno.",
+              "answer": "FASES"
+            },
+            "66": {
+              "col": 7,
+              "row": 14,
+              "clue": "Sonará estruendosamente.",
+              "answer": "TRONARA"
+            }
+          }
+        },
+        "vertical_clues": "1-Méx. Remolacha.\r\n2-País europeo donde se encuentra la Escuela de la Bauhaus.\r\n3-Novenas.\r\n4-Grand Theft Auto.\r\n5-País cuya capital es Pristina.\r\n6-Encendido en inglés.\r\n7-Forrest Gump.\r\n8-Andad las calles.\r\n9-Albergada de forma placentera.\r\n10-Mat. Multiplican una cantidad por sí misma un determinado número de veces.\r\n11-Orificios nasales externos.\r\n12-Dar a luz.\r\n13-\"Salvador …\", pintor español exponente del Surrealismo.\r\n14-El placer por hacer daño.\r\n16-Cobertizo con techo de palma, sin paredes.\r\n19-Arrendar para producir.\r\n23-Gol que se logra en rugby, pateando el balón en el aire.\r\n26-Lo son el de barra, de molde y hasta el de pita.\r\n28-Ciudad natal de Zahara, la cantante.\r\n30-Hombres con tendencia a desfigurar la realidad engrandeciéndola.\r\n32-El colmillo.\r\n34-País natal de Bob Marley. \r\n36-Señoras.\r\n38-Me encaramé como loco, para ver a Alba.\r\n40-Pedagogía de Rudolf Steiner.\r\n42-Ave también conocida como oropéndola.\r\n44-Copiará su estilo.\r\n46-Donde siempre debes tener los pies.\r\n48-Automóvil deportivo emblemático, creado en 1967.\r\n50-Un tipo de Ala Delta para el vuelo libre.\r\n53-Cabes, si pierdes cien kilos.\r\n54-Lugar de nacimiento de Odiseo.\r\n56-Viene al mundo.\r\n60-Toma unas infusiones para cuando regreses del plató.\r\n62-Tallo de petunia.\r\n64-Iniciales del 7 portugués del fútbol.",
+        "horizontal_clues": "1-Capital de Tailandia.\r\n7-Vienen con el vino, ellos lo...\r\n12-Pequeña unidad de infantería.\r\n13-Capital de la Isla de Man. \r\n15-Ciudad donde está el Partenón.\r\n16-Algo en la mera cara de la mesera.\r\n17-Descendencia del tallo.\r\n18-Que se toma por la boca.\r\n20-Escultura de mármol realizada por Miguel Ángel.\r\n21-Ya no vas.\r\n22-Acudid porque en la revuelta lo negocié.\r\n24-A Daniel con cariño.\r\n25-\"... y Stimpy\", caricatura para adultos.\r\n26-Coloca, sitúa.\r\n27-Ponchos de lana.\r\n29-Pule sus piezas en Perú.\r\n31-Beisbol. Jardinero central, récord del mayor promedio de bateo en las Grandes Ligas. \r\n33-El epicentro de los sismos.\r\n35-Castillo ubicado en la provincia de Huesca, Aragón, España.\r\n37-Recurre a alguien para favorecer una resolución.\r\n39-Iniciales de importante artista plástico de Pop Art.\r\n41-Dado de azúcar.\r\n43-\"... Moore\" la actriz.\r\n45-Llena y cubierta de matas.\r\n47-Divina, deliciosa.\r\n49-Principios de amigdalitis.\r\n51-El árbol filipino, favorito de la loca Mila.\r\n52-Engorda a los animales.\r\n54-Abreviatura de \"Iniciales\". \r\n55-Traman un plan.\r\n57-Programa de Tv con preguntas explosivas. \r\n58-Órgano que secreta la leche.\r\n59-Castillo ubicado en El Bierzo, Castilla y León, España.\r\n61-Agredir, arremeter.\r\n63-Lo son el negro y el del senyoret.\r\n64-Velocidad constante y uniforme.\r\n65-Estados sucesivos de un fenómeno.\r\n66-Sonará estruendosamente.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,#,#,#,#,#,#,16,#,#,#,#,#,#,#\r\n17,#,#,#,#,18,19,#,#,#,20,#,#,#,#\r\n21,#,#,#,#,22,#,#,#,23,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,#,27,28,#,#,#,#\r\n#,29,#,30,#,#,31,#,32,#,#,#,#,33,#\r\n34,#,35,#,#,36,#,#,37,#,#,#,38,#,#\r\n39,40,#,41,#,#,#,42,#,#,43,#,#,44,#\r\n45,#,46,#,#,#,#,47,#,48,#,#,49,#,50\r\n51,#,#,#,#,52,53,#,#,#,#,54,#,#,#\r\n55,#,#,#,56,#,57,#,#,#,#,58,#,#,#\r\n59,#,#,#,#,60,#,#,#,61,62,#,#,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#\r\n#,65,#,#,#,#,#,66,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

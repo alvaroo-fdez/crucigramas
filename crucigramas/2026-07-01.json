@@ -1,0 +1,529 @@
+{
+  "data": {
+    "id": 6545,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-30T22:28:07.556054Z",
+      "updatedAt": "2026-06-30T22:31:05.771100Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CURSI#ALOCADA#R\r\n#BONN#BIRO#AGUE\r\nHRP#ISRAEL#DART\r\nAEA#CHINEAR##JA\r\nR##NIELA#DEIDAD\r\nATRAER##COSME##\r\nPAEZ#AFTA#EPICA\r\nORLAR#ISE#SUMES\r\nSAURA#AUNA#GOBI\r\n##CENAR##NANSUS\r\nSKETCH#KESHA##T\r\nIV##EUGENIO#MOI\r\nGARY#MENTOR#AYA\r\nUSIA#ERIE#MIKE#\r\nE#BLANDAS#AFOSA",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cada una de las tetas de la vaca",
+              "answer": "UBRE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "La venden los de Inditex",
+              "answer": "ROPA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico del estaño",
+              "answer": "SN"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Comencé, arranqué",
+              "answer": "INICIE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Mes en el que fallecieron, Cervantes, Shakespeare e Inca Garcilaso",
+              "answer": "ABRIL"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Liliana usa el bejuco de Tarzán",
+              "answer": "LIANA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Airee, refresque, ventile",
+              "answer": "OREE"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Está enamorado, derretido por ella",
+              "answer": "COLADO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Entregad, otorgad",
+              "answer": "DAD"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Amazon, Google y Apple",
+              "answer": "AGA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Desafiad a duelo",
+              "answer": "RETAD"
+            },
+            "16": {
+              "col": 13,
+              "row": 1,
+              "clue": "Apremie, apure, apresure",
+              "answer": "URJA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Andrajos, ropas viejas",
+              "answer": "HARAPOS"
+            },
+            "19": {
+              "col": 5,
+              "row": 2,
+              "clue": "La melliza de HeMan",
+              "answer": "SHERA"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Animales vacunos",
+              "answer": "RESES"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "La aldea donde creció Jesús",
+              "answer": "NAZARET"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Rebate o cuestiona la validez de algo",
+              "answer": "IMPUGNA"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Hijo de Ares y Afrodita, la personificación del terror",
+              "answer": "DEIMOS"
+            },
+            "30": {
+              "col": 1,
+              "row": 5,
+              "clue": "Defecto que disminuye el valor de algo",
+              "answer": "TARA"
+            },
+            "31": {
+              "col": 2,
+              "row": 5,
+              "clue": "Resplandece, brilla, relumbra",
+              "answer": "RELUCE"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"… en la cuenta\", se percatan",
+              "answer": "CAEN"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Dar crédito",
+              "answer": "FIAR"
+            },
+            "36": {
+              "col": 7,
+              "row": 6,
+              "clue": "Técnico Superior Universitario",
+              "answer": "TSU"
+            },
+            "38": {
+              "col": 13,
+              "row": 6,
+              "clue": "Bóvido que destaca por su joroba o giba",
+              "answer": "CEBU"
+            },
+            "39": {
+              "col": 14,
+              "row": 6,
+              "clue": "Concurría, acudía",
+              "answer": "ASISTIA"
+            },
+            "41": {
+              "col": 4,
+              "row": 7,
+              "clue": "Río de Bretaña, en el noroeste de Francia",
+              "answer": "RANCE"
+            },
+            "46": {
+              "col": 9,
+              "row": 8,
+              "clue": "Deseo con vehemencia",
+              "answer": "ANSIO"
+            },
+            "49": {
+              "col": 5,
+              "row": 9,
+              "clue": "Conserven con humo",
+              "answer": "AHUMEN"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ajusta algo a su horma o molde",
+              "answer": "AHORMA"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "No te guíes por esta pista, tú mejor continúa",
+              "answer": "SIGUE"
+            },
+            "53": {
+              "col": 1,
+              "row": 10,
+              "clue": "Bebida tradicional eslava y báltica a base de harina y malta",
+              "answer": "KVAS"
+            },
+            "54": {
+              "col": 7,
+              "row": 10,
+              "clue": "País cuya capital es Nairobi",
+              "answer": "KENIA"
+            },
+            "55": {
+              "col": 8,
+              "row": 10,
+              "clue": "Me senté incómodamente a ver a los sujetos ridículos",
+              "answer": "ENTES"
+            },
+            "58": {
+              "col": 6,
+              "row": 11,
+              "clue": "Fut \"… Müller\" el torpedo alemán (1945-2021)",
+              "answer": "GERD"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "Tiburón también llamado \"de aleta corta\"",
+              "answer": "MAKO"
+            },
+            "60": {
+              "col": 13,
+              "row": 11,
+              "clue": "Escuchas",
+              "answer": "OYES"
+            },
+            "62": {
+              "col": 2,
+              "row": 12,
+              "clue": "Media ribera",
+              "answer": "RIB"
+            },
+            "63": {
+              "col": 3,
+              "row": 12,
+              "clue": "Puerto Rico: Chica que le gusta y vive el reguetón",
+              "answer": "YAL"
+            },
+            "69": {
+              "col": 11,
+              "row": 13,
+              "clue": "Hay un tifón en la FIFA",
+              "answer": "IF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "De romántica a ridícula",
+              "answer": "CURSI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Un poco loca",
+              "answer": "ALOCADA"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "En esta ciudad alemana está La Beethoven Haus",
+              "answer": "BONN"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "\"Ladislao…\" periodista húngaro argentino, inventor del bolígrafo",
+              "answer": "BIRO"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Rebaje con agua una bebida",
+              "answer": "AGUE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "'Haute Route des Pyrénées' (sendero de alta montaña)",
+              "answer": "HRP"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Está mal liarse en Jerusalén",
+              "answer": "ISRAEL"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Misión de la NASA para la seguridad planetaria",
+              "answer": "DART"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Asociación Española de Anunciantes",
+              "answer": "AEA"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Mimar o consentir a alguien en América Latina",
+              "answer": "CHINEAR"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Iniciales de la actriz que interpreta a Rachel en 'Friends'",
+              "answer": "JA"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Adorna con nieles",
+              "answer": "NIELA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Dios, ser supremo",
+              "answer": "DEIDAD"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Acercar, cautivar",
+              "answer": "ATRAER"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "Fundador de la familia Médici de Florencia, mecenas del Renacimiento",
+              "answer": "COSME"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Fito…\" cantautor argentino",
+              "answer": "PAEZ"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Úlcera pequeña que se forma en las mucosas",
+              "answer": "AFTA"
+            },
+            "37": {
+              "col": 10,
+              "row": 6,
+              "clue": "Narración legendaria, histórica",
+              "answer": "EPICA"
+            },
+            "40": {
+              "col": 0,
+              "row": 7,
+              "clue": "Bordear, ribetear",
+              "answer": "ORLAR"
+            },
+            "42": {
+              "col": 6,
+              "row": 7,
+              "clue": "Último trago de un tequila sunrise",
+              "answer": "ISE"
+            },
+            "43": {
+              "col": 10,
+              "row": 7,
+              "clue": "Añadas, agregues",
+              "answer": "SUMES"
+            },
+            "44": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Carlos…\" director español de ¡Ay, Carmela! y Cría cuervos",
+              "answer": "SAURA"
+            },
+            "45": {
+              "col": 6,
+              "row": 8,
+              "clue": "Agrega, junta, une",
+              "answer": "AUNA"
+            },
+            "47": {
+              "col": 11,
+              "row": 8,
+              "clue": "Desierto situado al norte de China y sur de Mongolia",
+              "answer": "GOBI"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Ingerir la última comida del día",
+              "answer": "CENAR"
+            },
+            "50": {
+              "col": 9,
+              "row": 9,
+              "clue": "Tela fina de algodón para hacer pañuelos (pl)",
+              "answer": "NANSUS"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Escena corta de comedia subida a internet",
+              "answer": "SKETCH"
+            },
+            "54": {
+              "col": 7,
+              "row": 10,
+              "clue": "Cantante que compuso \"Till the Word Ends\" para Britney Spears",
+              "answer": "KESHA"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Cuatro en números romanos",
+              "answer": "IV"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Nombre masculino de origen griego",
+              "answer": "EUGENIO"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "A Moisés de cariño",
+              "answer": "MOI"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Entrenador rival de Ash, en Pokémon",
+              "answer": "GARY"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Maestro, guía",
+              "answer": "MENTOR"
+            },
+            "65": {
+              "col": 12,
+              "row": 12,
+              "clue": "Niñera",
+              "answer": "AYA"
+            },
+            "66": {
+              "col": 0,
+              "row": 13,
+              "clue": "Vuestra señoría",
+              "answer": "USIA"
+            },
+            "67": {
+              "col": 5,
+              "row": 13,
+              "clue": "Lago de USA",
+              "answer": "ERIE"
+            },
+            "68": {
+              "col": 10,
+              "row": 13,
+              "clue": "\"… Wheeler\" el novio de Once, en 'Stranger Things'",
+              "answer": "MIKE"
+            },
+            "70": {
+              "col": 2,
+              "row": 14,
+              "clue": "Suaves",
+              "answer": "BLANDAS"
+            },
+            "71": {
+              "col": 10,
+              "row": 14,
+              "clue": "Se esconde en una fosa, se…",
+              "answer": "AFOSA"
+            }
+          }
+        },
+        "vertical_clues": "2-Cada una de las tetas de la vaca\r\n3-La venden los de Inditex\r\n4-Símbolo químico del estaño\r\n5-Comencé, arranqué\r\n6-Mes en el que fallecieron, Cervantes, Shakespeare e Inca Garcilaso\r\n7-Liliana usa el bejuco de Tarzán\r\n8-Airee, refresque, ventile\r\n9-Está enamorado, derretido por ella\r\n10-Entregad, otorgad\r\n11-Amazon, Google y Apple\r\n12-Desafiad a duelo\r\n16-Apremie, apure, apresure\r\n17-Andrajos, ropas viejas\r\n19-La melliza de HeMan\r\n23-Animales vacunos\r\n25-La aldea donde creció Jesús\r\n27-Rebate o cuestiona la validez de algo \r\n28-Hijo de Ares y Afrodita, la personificación del terror\r\n30-Defecto que disminuye el valor de algo\r\n31-Resplandece, brilla, relumbra\r\n32-\"… en la cuenta\", se percatan\r\n35-Dar crédito\r\n36-Técnico Superior Universitario\r\n38-Bóvido que destaca por su joroba o giba\r\n39-Concurría, acudía\r\n41-Río de Bretaña, en el noroeste de Francia\r\n46-Deseo con vehemencia\r\n49-Conserven con humo\r\n51-Ajusta algo a su horma o molde\r\n52-No te guíes por esta pista, tú mejor continúa\r\n53-Bebida tradicional eslava y báltica a base de harina y malta\r\n54-País cuya capital es Nairobi\r\n55-Me senté incómodamente a ver a los sujetos ridículos\r\n58-Fut \"… Müller\" el torpedo alemán (1945-2021)\r\n59-Tiburón también llamado \"de aleta corta\"\r\n60-Escuchas\r\n62-Media ribera\r\n63-Puerto Rico: Chica que le gusta y vive el reguetón\r\n69-Hay un tifón en la FIFA",
+        "horizontal_clues": "1-De romántica a ridícula\r\n6-Un poco loca\r\n13-En esta ciudad alemana está La Beethoven Haus\r\n14-\"Ladislao…\" periodista húngaro argentino, inventor del bolígrafo \r\n15-Rebaje con agua una bebida\r\n17-'Haute Route des Pyrénées' (sendero de alta montaña)\r\n18-Está mal liarse en Jerusalén\r\n20-Misión de la NASA para la seguridad planetaria\r\n21-Asociación Española de Anunciantes\r\n22-Mimar o consentir a alguien en América Latina \r\n24-Iniciales de la actriz que interpreta a Rachel en 'Friends'\r\n25-Adorna con nieles\r\n26-Dios, ser supremo\r\n29-Acercar, cautivar\r\n32-Fundador de la familia Médici de Florencia, mecenas del Renacimiento\r\n33-\"Fito…\" cantautor argentino\r\n34-Úlcera pequeña que se forma en las mucosas\r\n37-Narración legendaria, histórica\r\n40-Bordear, ribetear\r\n42-Último trago de un tequila sunrise\r\n43-Añadas, agregues\r\n44-\"Carlos…\" director español de ¡Ay, Carmela! y Cría cuervos\r\n45-Agrega, junta, une\r\n47-Desierto situado al norte de China y sur de Mongolia\r\n48-Ingerir la última comida del día\r\n50-Tela fina de algodón para hacer pañuelos (pl)\r\n52-Escena corta de comedia subida a internet\r\n54-Cantante que compuso \"Till the Word Ends\" para Britney Spears\r\n56-Cuatro en números romanos\r\n57-Nombre masculino de origen griego \r\n59-A Moisés de cariño\r\n61-Entrenador rival de Ash, en Pokémon\r\n64-Maestro, guía\r\n65-Niñera\r\n66-Vuestra señoría\r\n67-Lago de USA\r\n68-\"… Wheeler\" el novio de Once, en 'Stranger Things' \r\n70-Suaves\r\n71-Se esconde en una fosa, se…",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,#,12\r\n#,13,#,#,#,#,14,#,#,#,#,15,#,16,#\r\n17,#,#,#,18,19,#,#,#,#,#,20,#,#,#\r\n21,#,#,#,22,#,#,#,#,#,23,#,#,24,#\r\n#,#,#,25,#,#,#,#,#,26,#,27,28,#,#\r\n29,30,31,#,#,#,#,#,32,#,#,#,#,#,#\r\n33,#,#,#,#,34,35,36,#,#,37,#,#,38,39\r\n40,#,#,#,41,#,42,#,#,#,43,#,#,#,#\r\n44,#,#,#,#,#,45,#,#,46,#,47,#,#,#\r\n#,#,48,#,#,49,#,#,#,50,51,#,#,#,#\r\n52,53,#,#,#,#,#,54,55,#,#,#,#,#,#\r\n56,#,#,#,57,#,58,#,#,#,#,#,59,60,#\r\n61,#,62,63,#,64,#,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,68,69,#,#,#\r\n#,#,70,#,#,#,#,#,#,#,71,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

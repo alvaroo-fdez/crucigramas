@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1414,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-12T15:28:38.294855Z",
+      "updatedAt": "2024-12-12T15:28:38.332849Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-13",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#H#DARAS#ASOCIO\r\nMIMETICO#TERRON\r\nAN#LUCERNARIO#I\r\nCCC#CODO#PALMAR\r\nHART#SILLA#LAMI\r\nOREIS#ALA#SASAC\r\n##APU##ANDO##SO\r\nPENSADO#COPULES\r\nAB##VILA##ARA##\r\nJOLIE#IBS#RENCA\r\nALAN#TAJAN#AZUL\r\nRAISTE#UPAN#OEA\r\nE#CAUTERIZAR#RD\r\nAMANSE#ADICTIVO\r\nRASAIS#RASEN#O#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Clavar o introducir con fuerza",
+              "answer": "HINCAR"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Contracción masculina",
+              "answer": "DEL"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Asociación de Tontos Unidos por Conveniencia",
+              "answer": "ATUC"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Los críos enloquecidos con tanto dinero",
+              "answer": "RICOS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Amarillez que toman las plantas cuando se acedan",
+              "answer": "ACEDIA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"Joaquín …\", pintor valenciano",
+              "answer": "SOROLLA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tapa, tranca",
+              "answer": "ATAPA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cesta grande sin asas",
+              "answer": "SERA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Límite de la tierra que la separa del mar",
+              "answer": "ORILLA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Haces inoxidables los objetos, bañándolos con cierto metal blanco plateado y brillante",
+              "answer": "CROMAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Luna de júpiter",
+              "answer": "IO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Relacionados con los sueños",
+              "answer": "ONIRICOS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bestia masculina",
+              "answer": "MACHO"
+            },
+            "18": {
+              "col": 2,
+              "row": 3,
+              "clue": "Tengan fe en que van a cenar carne",
+              "answer": "CREAN"
+            },
+            "21": {
+              "col": 13,
+              "row": 3,
+              "clue": "Acumulé riquezas, fortuna",
+              "answer": "AMASE"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Consejitos",
+              "answer": "TIPS"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Grupo unido por fuertes vínculos (inv)",
+              "answer": "LANC"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Delicado al tacto",
+              "answer": "SUAVE"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Estas ropas son inadecuadas para cenar en Valencia",
+              "answer": "SOPAR"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Denominación de origen",
+              "answer": "DO"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cazar aves pequeñas",
+              "answer": "PAJAREAR"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Epidemia del 2014",
+              "answer": "EBOLA"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Inhalaba, esnifaba, percibía",
+              "answer": "OLIA"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Compuesto químico en la orina",
+              "answer": "UREA"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Se arrojó, a la piscina por ejemplo",
+              "answer": "LANZO"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Retractarse, renegar, a veces públicamente, de una creencia",
+              "answer": "ABJURAR"
+            },
+            "47": {
+              "col": 2,
+              "row": 9,
+              "clue": "Libres de religiones (fem)",
+              "answer": "LAICAS"
+            },
+            "48": {
+              "col": 3,
+              "row": 9,
+              "clue": "Perjudicial para la salud (fem)",
+              "answer": "INSANA"
+            },
+            "50": {
+              "col": 8,
+              "row": 9,
+              "clue": "Dicho de una sustancia: que tiene algún sabor (fem)",
+              "answer": "SAPIDA"
+            },
+            "52": {
+              "col": 13,
+              "row": 9,
+              "clue": "Mensajero de Juego de Tronos",
+              "answer": "CUERVO"
+            },
+            "53": {
+              "col": 14,
+              "row": 9,
+              "clue": "Insecto volador",
+              "answer": "ALADO"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Así le dicen a los hermanos en Valencia",
+              "answer": "TETES"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "Los hinchas de Hitler",
+              "answer": "NAZIS"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "Cocaína rosa",
+              "answer": "TUSI"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Viene al mundo",
+              "answer": "NACE"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Retro Televisión Network (siglas)",
+              "answer": "RTN"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "Manga corta",
+              "answer": "MA"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dotarás, surtirás",
+              "answer": "DARAS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Relaciono que cuando cocino, retrocedo",
+              "answer": "ASOCIO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Que imita o se camufla en el entorno",
+              "answer": "MIMETICO"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Cubito de azúcar",
+              "answer": "TERRON"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "De Álvaro Negredo y de Ángel Nieto",
+              "answer": "AN"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Lucerna, claraboya, tragaluz",
+              "answer": "LUCERNARIO"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Código Cuenta Cliente",
+              "answer": "CCC"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "El que empinas cuando bebes",
+              "answer": "CODO"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Zona con abundancia de palmeras",
+              "answer": "PALMAR"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Ciervo\" en inglés",
+              "answer": "HART"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Prefiero la de montar que la eléctrica",
+              "answer": "SILLA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "La mía, ya le pasé la lengua",
+              "answer": "LAMI"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hagáis oración a Dios",
+              "answer": "OREIS"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Malala expulsó la maldad",
+              "answer": "ALA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Vivienda, morada (inv)",
+              "answer": "SASAC"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "El gerente indio de la tienda de Springfield",
+              "answer": "APU"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Voy de un lugar a otro dando pasos",
+              "answer": "ANDO"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Piel de sapo",
+              "answer": "SO"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Reflexionado detenidamente",
+              "answer": "PENSADO"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Forniques, yazcas",
+              "answer": "COPULES"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Los lados de un elepé",
+              "answer": "AB"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "El apellido de La Rosalía",
+              "answer": "VILA"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "Trabaja la tierra",
+              "answer": "ARA"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Angelina…\" LA actriz",
+              "answer": "JOLIE"
+            },
+            "49": {
+              "col": 6,
+              "row": 9,
+              "clue": "Instituto Británico de Sevilla",
+              "answer": "IBS"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Renga, coja",
+              "answer": "RENCA"
+            },
+            "54": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"… Rickman\", Severus Snape en 'Harry Potter'",
+              "answer": "ALAN"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Cortan, sacan su tajada",
+              "answer": "TAJAN"
+            },
+            "57": {
+              "col": 11,
+              "row": 10,
+              "clue": "Periodo de Picasso",
+              "answer": "AZUL"
+            },
+            "58": {
+              "col": 0,
+              "row": 11,
+              "clue": "Desgastaste el vestido",
+              "answer": "RAISTE"
+            },
+            "60": {
+              "col": 7,
+              "row": 11,
+              "clue": "Cargan al bebé",
+              "answer": "UPAN"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "Organización de Estados Americanos (siglas)",
+              "answer": "OEA"
+            },
+            "63": {
+              "col": 2,
+              "row": 12,
+              "clue": "Quemar tejido para detener hemorragias",
+              "answer": "CAUTERIZAR"
+            },
+            "65": {
+              "col": 13,
+              "row": 12,
+              "clue": "República Dominicana (siglas)",
+              "answer": "RD"
+            },
+            "66": {
+              "col": 0,
+              "row": 13,
+              "clue": "Calmé a las bestias, las…",
+              "answer": "AMANSE"
+            },
+            "68": {
+              "col": 7,
+              "row": 13,
+              "clue": "Que genera dependencia",
+              "answer": "ADICTIVO"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Rozáis suave y ligeramente",
+              "answer": "RASAIS"
+            },
+            "70": {
+              "col": 7,
+              "row": 14,
+              "clue": "Igualen con el rasero",
+              "answer": "RASEN"
+            }
+          }
+        },
+        "vertical_clues": "1-Clavar o introducir con fuerza \r\n2-Contracción masculina\r\n3-Asociación de Tontos Unidos por Conveniencia\r\n4-Los críos enloquecidos con tanto dinero\r\n5-Amarillez que toman las plantas cuando se acedan\r\n6-\"Joaquín …\", pintor valenciano\r\n7-Tapa, tranca\r\n8-Cesta grande sin asas\r\n9-Límite de la tierra que la separa del mar\r\n10-Haces inoxidables los objetos, bañándolos con cierto metal blanco plateado y brillante\r\n11-Luna de júpiter\r\n12-Relacionados con los sueños \r\n13-Bestia masculina \r\n18-Tengan fe en que van a cenar carne\r\n21-Acumulé riquezas, fortuna \r\n23-Consejitos\r\n25-Grupo unido por fuertes vínculos (inv)\r\n28-Delicado al tacto \r\n30-Estas ropas son inadecuadas para cenar en Valencia\r\n33-Denominación de origen\r\n35-Cazar aves pequeñas \r\n36-Epidemia del 2014-16, en África\r\n37-Pronuncia 501 en romano antiguo\r\n38-Inhalaba, esnifaba, percibía\r\n40-Compuesto químico en la orina \r\n41-Se arrojó, a la piscina por ejemplo\r\n44-Retractarse, renegar, a veces públicamente, de una creencia\r\n47-Libres de religiones (fem)\r\n48-Perjudicial para la salud (fem)\r\n50-Dicho de una sustancia: que tiene algún sabor (fem)\r\n52-Mensajero de Juego de Tronos\r\n53-Insecto volador\r\n55-Así le dicen a los hermanos en Valencia\r\n56-Los hinchas de Hitler\r\n59-Cocaína rosa\r\n61-Viene al mundo\r\n64-Retro Televisión Network (siglas)\r\n67-Manga corta\r\n",
+        "horizontal_clues": "2-Dotarás, surtirás\r\n7-Relaciono que cuando cocino, retrocedo\r\n13-Que imita o se camufla en el entorno \r\n14-Cubito de azúcar\r\n15-De Álvaro Negredo y de Ángel Nieto \r\n16-Lucerna, claraboya, tragaluz\r\n17-Código Cuenta Cliente\r\n19-El que empinas cuando bebes\r\n20-Zona con abundancia de palmeras \r\n22-\"Ciervo\" en inglés\r\n24-Prefiero la de montar que la eléctrica\r\n26-La mía, ya le pasé la lengua\r\n27-Hagáis oración a Dios\r\n29-Malala expulsó la maldad\r\n30-Vivienda, morada (inv)\r\n31-El gerente indio de la tienda de Springfield\r\n32-Voy de un lugar a otro dando pasos\r\n34-Piel de sapo\r\n35-Reflexionado detenidamente \r\n39-Forniques, yazcas\r\n42-Los lados de un elepé \r\n43-El apellido de La Rosalía\r\n45-Trabaja la tierra\r\n46-\"Angelina…\" LA actriz\r\n49-Instituto Británico de Sevilla\r\n51-Renga, coja \r\n54-\"… Rickman\", Severus Snape en 'Harry Potter'\r\n55-Cortan, sacan su tajada\r\n57-Periodo de Picasso\r\n58-Desgastaste el vestido\r\n60-Cargan al bebé\r\n62-Organización de Estados Americanos (siglas)\r\n63-Quemar tejido para detener hemorragias \r\n65-República Dominicana (siglas)\r\n66-Calmé a las bestias, las…\r\n68-Que genera dependencia \r\n69-Rozáis suave y ligeramente\r\n70-Igualen con el rasero\r\n",
+        "board_clues_positions": "#,1,#,2,3,4,5,6,#,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,#,#,14,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,#,#,#,#\r\n17,#,18,#,19,#,#,#,#,20,#,#,#,21,#\r\n22,#,#,23,#,24,#,#,25,#,#,26,#,#,#\r\n27,#,#,#,28,#,29,#,#,#,30,#,#,#,#\r\n#,#,31,#,#,#,#,32,#,33,#,#,#,34,#\r\n35,36,#,#,#,37,38,#,39,#,#,40,41,#,#\r\n42,#,#,#,43,#,#,44,#,#,45,#,#,#,#\r\n46,#,47,48,#,#,49,#,50,#,51,#,#,52,53\r\n54,#,#,#,#,55,#,#,#,56,#,57,#,#,#\r\n58,#,#,#,59,#,#,60,#,#,61,#,62,#,#\r\n#,#,63,#,#,#,#,#,#,#,#,64,#,65,#\r\n66,67,#,#,#,#,#,68,#,#,#,#,#,#,#\r\n69,#,#,#,#,#,#,70,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

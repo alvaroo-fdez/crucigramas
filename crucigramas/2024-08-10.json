@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 706,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-09T12:24:22.577814Z",
+      "updatedAt": "2024-08-09T12:24:22.577835Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-10",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DABAMOS#PERICIA\r\nE#AGUDA#EVADA#V\r\nTIGRE#BAR#SELFI\r\nAGRAVAR#DOTADOS\r\nLLEVE#III#ABOCA\r\nLU#I#PANZA#A#AD\r\nESTOLA#S#FUSILO\r\n##E#INGESTA#A##\r\nEDADES#R#ACAMPA\r\nSI#E#APTAS#B#IB\r\nCORSE#LOG#BUSES\r\nASEPSIA#HORNAZO\r\nMALOS#NBA#ADRAR\r\nA#STEVE#TUCAN#T\r\nSABANAS#ATORADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Información minuciosa o específica.",
+              "answer": "DETALLE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pez con bigote, el limpiador de los acuarios.",
+              "answer": "BAGRE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Al principio era agradable luego vio que era una ofensa.",
+              "answer": "AGRAVIO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Se menea, se...",
+              "answer": "MUEVE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Un poco de odio.",
+              "answer": "OD"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Conocería, estaría al tanto.",
+              "answer": "SABRIA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Ave de caza muy apreciada en la gastronomía.",
+              "answer": "PERDIZ"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "La mira de abajo a arriba.",
+              "answer": "EV"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Peinado característico de los rastafaris.",
+              "answer": "RASTA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Creabas un plan.",
+              "answer": "IDEABAS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "El agua del cocido, sin verdura.",
+              "answer": "CALDO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Notificado, informado, comunicado.",
+              "answer": "AVISADO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Viviendas de los esquimales.",
+              "answer": "IGLUS"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Relativo al foco.",
+              "answer": "FOCAL"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Elemento incluido dentro de otro mayor.",
+              "answer": "INSERTO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Una uva pasa en Argentina.",
+              "answer": "PANSA"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Medicina. Úlceras pequeñas que se forman en la mucosa de la boca.",
+              "answer": "AFTAS"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Una astilla resinosa en mi té inglés.",
+              "answer": "TEA"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Me enredé con Eli.",
+              "answer": "LIE"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Universidad Autónoma del Caribe (siglas).",
+              "answer": "UAC"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Yo soy gringo.",
+              "answer": "IAM"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Láminas dérmicas del pez.",
+              "answer": "ESCAMAS"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Lo es Freyja, Párvati, Pacha Mama, Isis o Afrodita.",
+              "answer": "DIOSA"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Destapo el embrollo de ese tirano.",
+              "answer": "DESPOTA"
+            },
+            "41": {
+              "col": 11,
+              "row": 8,
+              "clue": "Sobrar, predominar, haber demasiado.",
+              "answer": "ABUNDAR"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Para armar o para bailar.",
+              "answer": "PIEZA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Concentrado, abstraído en un pensamiento.",
+              "answer": "ABSORTO"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Modos de actuar, elaborados para realizar una tarea.",
+              "answer": "PLANES"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Escritora y dramaturga británica especializada en el género policial.",
+              "answer": "AGHATA"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Rapero mallorquín autor del álbum 'La Isla LP'.",
+              "answer": "RELSB"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "La primera ciudad que decoró sus calles en Navidad (Alemania).",
+              "answer": "ESSEN"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "El perro Weimaraner.",
+              "answer": "BRACO"
+            },
+            "54": {
+              "col": 12,
+              "row": 10,
+              "clue": "La que con gusto, no pica.",
+              "answer": "SARNA"
+            },
+            "61": {
+              "col": 5,
+              "row": 13,
+              "clue": "Nos deja, se marcha, se...",
+              "answer": "VA"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Inic. de la prota de 'Kill Bill' de Tarantino.",
+              "answer": "UT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo entregábamos cuando lo domabas por error.",
+              "answer": "DABAMOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sabiduría, práctica y habilidad en una actividad.",
+              "answer": "PERICIA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Palabra cuya última sílaba es la tónica.",
+              "answer": "AGUDA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "No pague impuestos.",
+              "answer": "EVADA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Le grité desesperadamente al felino.",
+              "answer": "TIGRE"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Donde la barra es fija.",
+              "answer": "BAR"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Autofoto.",
+              "answer": "SELFI"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Parece que en Ágrabah la situación va a empeorar.",
+              "answer": "AGRAVAR"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Equipados, provistos.",
+              "answer": "DOTADOS"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lo conduje, lo guie, lo...",
+              "answer": "LLEVE"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "Tres varitas.",
+              "answer": "III"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Dirige hacia un lugar armas de fuego.",
+              "answer": "ABOCA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lucía se ha quedado sin su compañía.",
+              "answer": "LU"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "La barriga de Sancho.",
+              "answer": "PANZA"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Anno Domini.",
+              "answer": "AD"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Prenda litúrgica que usan los sacerdotes.",
+              "answer": "ESTOLA"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Ejecuto a alguien con una descarga de fusilería.",
+              "answer": "FUSILO"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Acción de introducir alimentos en el cuerpo.",
+              "answer": "INGESTA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Períodos de la prehistoria.",
+              "answer": "EDADES"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Pernocta en tiendas de campaña.",
+              "answer": "ACAMPA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "La última de la escala musical.",
+              "answer": "SI"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Idóneas, hábiles, a propósito para hacer algo.",
+              "answer": "APTAS"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "En la tribu de Aníbal.",
+              "answer": "IB"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Prenda interior que te corta el aliento.",
+              "answer": "CORSE"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Casi lo logro.",
+              "answer": "LOG"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Autobuses, colectivos.",
+              "answer": "BUSES"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ausencia de materia séptica.",
+              "answer": "ASEPSIA"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Especie de empanada rellena de productos de carnicería.",
+              "answer": "HORNAZO"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Los villanos, los...",
+              "answer": "MALOS"
+            },
+            "58": {
+              "col": 6,
+              "row": 12,
+              "clue": "Liga de baloncesto estadounidense.",
+              "answer": "NBA"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "Repartir las aguas para el riego.",
+              "answer": "ADRAR"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "\"... Jobs\" cofundador de Apple.",
+              "answer": "STEVE"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Ave de pico muy grande y de vistosos colores.",
+              "answer": "TUCAN"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Hábitat de los leones (pl).",
+              "answer": "SABANAS"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Atascado el tarado.",
+              "answer": "ATORADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Información minuciosa o específica. \r\n2-Pez con bigote, el limpiador de los acuarios.\r\n3-Al principio era agradable luego vio que era una ofensa.\r\n4-Se menea, se...\r\n5-Un poco de odio.\r\n6-Conocería, estaría al tanto.\r\n7-Ave de caza muy apreciada en la gastronomía. \r\n8-La mira de abajo a arriba.\r\n9-Peinado característico de los rastafaris.\r\n10-Creabas un plan.\r\n11-El agua del cocido, sin verdura.\r\n12-Notificado, informado, comunicado.\r\n16-Viviendas de los esquimales.\r\n19-Relativo al foco.\r\n24-Elemento incluido dentro de otro mayor. \r\n27-Una uva pasa en Argentina.\r\n28-Medicina. Úlceras pequeñas que se forman en la mucosa de la boca.\r\n31-Una astilla resinosa en mi té inglés.\r\n32-Me enredé con Eli.\r\n34-Universidad Autónoma del Caribe (siglas).\r\n35-Yo soy gringo.\r\n37-Láminas dérmicas del pez.\r\n38-Lo es Freyja, Párvati, Pacha Mama, Isis o Afrodita.\r\n39-Destapo el embrollo de ese tirano.\r\n41-Sobrar, predominar, haber demasiado.\r\n42-Para armar o para bailar.\r\n43-Concentrado, abstraído en un pensamiento.\r\n46-Modos de actuar, elaborados para realizar una tarea.\r\n47-Escritora y dramaturga británica especializada en el género policial.\r\n50-Rapero mallorquín autor del álbum 'La Isla LP'.\r\n51-La primera ciudad que decoró sus calles en Navidad (Alemania).\r\n53-El perro Weimaraner.\r\n54-La que con gusto, no pica.\r\n61-Nos deja, se marcha, se...\r\n63-Inic. de la prota de 'Kill Bill' de Tarantino.",
+        "horizontal_clues": "1-Lo entregábamos cuando lo domabas por error.\r\n7-Sabiduría, práctica y habilidad en una actividad.\r\n13-Palabra cuya última sílaba es la tónica.\r\n14-No pague impuestos.\r\n15-Le grité desesperadamente al felino.\r\n17-Donde la barra es fija.\r\n18-Autofoto.\r\n20-Parece que en Ágrabah la situación va a empeorar.\r\n21-Equipados, provistos.\r\n22-Lo conduje, lo guie, lo...\r\n23-Tres varitas.\r\n25-Dirige hacia un lugar armas de fuego.\r\n26-Lucía se ha quedado sin su compañía.\r\n27-La barriga de Sancho.\r\n29-Anno Domini.\r\n30-Prenda litúrgica que usan los sacerdotes. \r\n33-Ejecuto a alguien con una descarga de fusilería.\r\n36-Acción de introducir alimentos en el cuerpo. \r\n37-Períodos de la prehistoria.\r\n40-Pernocta en tiendas de campaña.\r\n44-La última de la escala musical.\r\n45-Idóneas, hábiles, a propósito para hacer algo.\r\n48-En la tribu de Aníbal.\r\n49-Prenda interior que te corta el aliento.\r\n52-Casi lo logro.\r\n53-Autobuses, colectivos.\r\n55-Ausencia de materia séptica.\r\n56-Especie de empanada rellena de productos de carnicería.\r\n57-Los villanos, los...\r\n58-Liga de baloncesto estadounidense.\r\n59-Repartir las aguas para el riego.\r\n60-\"... Jobs\" cofundador de Apple.\r\n62-Ave de pico muy grande y de vistosos colores.\r\n64-Hábitat de los leones (pl).\r\n65-Atascado el tarado.",
+        "board_clues_positions": "1,#,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,#,14,#,#,#,#,#,#\r\n15,16,#,#,#,#,17,#,#,#,18,#,#,19,#\r\n20,#,#,#,#,#,#,#,21,#,#,#,#,#,#\r\n22,#,#,#,#,#,23,24,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,#,#,#,29,#\r\n30,#,31,#,32,#,#,#,#,33,34,#,35,#,#\r\n#,#,#,#,36,#,#,#,#,#,#,#,#,#,#\r\n37,38,#,39,#,#,#,#,#,40,#,41,#,42,43\r\n44,#,#,#,#,45,46,#,47,#,#,#,#,48,#\r\n49,#,50,#,51,#,52,#,#,#,53,#,54,#,#\r\n55,#,#,#,#,#,#,#,56,#,#,#,#,#,#\r\n57,#,#,#,#,#,58,#,#,#,59,#,#,#,#\r\n#,#,60,#,#,61,#,#,62,63,#,#,#,#,#\r\n64,#,#,#,#,#,#,#,65,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

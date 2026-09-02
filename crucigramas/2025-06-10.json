@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 2527,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-09T15:28:57.011238Z",
+      "updatedAt": "2025-06-09T15:30:16.784786Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PATENTE#BECAS#\r\nPECADOR#MULATOS\r\nAÑEJAR#LOGOTIPO\r\nJALA#MAIZ#NANOS\r\nAREN#ALBOR#MARI\r\nSOR#CREI#APARTE\r\n#LARO#JAVIER#EG\r\nP#SIMBA#ALSAS#O\r\nOC#BARRER#ANIL#\r\nMADONA#LIAR#NAD\r\nARES#DEMOS#JOTA\r\nDAVOS#CESO#UNIR\r\nACOMETER#MEDIDA\r\nSATANAS#LAVAMOS\r\n#SOSOS#CEROSOS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "El superclásico del fútbol uruguayo: Nacional vs…",
+              "answer": "PEÑAROL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Aumentas la velocidad",
+              "answer": "ACELERAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Cortan, sacan su tajada",
+              "answer": "TAJAN"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Aún no llega a la edad",
+              "answer": "EDA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Para evitar un marrón es mejor poner reglas",
+              "answer": "NORMAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tito Rojas (El Gallo de la Salsa)",
+              "answer": "TR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Fallo o error de software (voz inglesa)",
+              "answer": "BUG"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "El dueño de Twitter",
+              "answer": "ELON"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Embarcación de vela, de dos cascos unidos",
+              "answer": "CATAMARAN"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Acertar",
+              "answer": "ATINAR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Pasó por tener dividida la base",
+              "answer": "SOPORTE"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Cañas de trigo después de secas y separadas del grano",
+              "answer": "PAJAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "De escuadra en Cataluña",
+              "answer": "MOZO"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Tener calma, controlar el ímpetu, encontrar…",
+              "answer": "SOSIEGO"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "País africano cuya capital es Trípoli",
+              "answer": "LIBIA"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Distanciar, espaciar",
+              "answer": "ALEJAR"
+            },
+            "23": {
+              "col": 9,
+              "row": 4,
+              "clue": "Carril de las vías férreas",
+              "answer": "RAIL"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Ingieran alimentos",
+              "answer": "COMAN"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Determinar la masa de un cuerpo",
+              "answer": "PESAR"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Pequeñas partículas de ARN, que sintetizan las proteínas en las células",
+              "answer": "RIBOSOMAS"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Muchos",
+              "answer": "VARIOS"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cremitas para la piel",
+              "answer": "POMADAS"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "El prota de 'Bullet Train'",
+              "answer": "BRAD"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Palabra con el mismo significado que otra",
+              "answer": "SINONIMO"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Capital de Venezuela",
+              "answer": "CARACAS"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Cazador de los Looney Tunes",
+              "answer": "ELMER"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Golpes producidos por los movimientos alternativos del corazón",
+              "answer": "LATIDOS"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Fervoroso de votos",
+              "answer": "DEVOTO"
+            },
+            "48": {
+              "col": 9,
+              "row": 9,
+              "clue": "Sacar la cabeza",
+              "answer": "ASOMAR"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "Dotarás, surtirás",
+              "answer": "DARAS"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Los jueces han perdido la risa",
+              "answer": "ECES"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "A este no le aceptes ni un beso",
+              "answer": "JUDAS"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Aquí debes sacar el pecho",
+              "answer": "SENO"
+            },
+            "60": {
+              "col": 5,
+              "row": 12,
+              "clue": "Yunque de platero",
+              "answer": "TAS"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Duración de tiempo sin término",
+              "answer": "EVO"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Fin del baile",
+              "answer": "LE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Derechos sobre un invento",
+              "answer": "PATENTE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Concesión de estipendio para estudios",
+              "answer": "BECAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Pescador sin lombriz, se convierte en hereje",
+              "answer": "PECADOR"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Hombres nacidos de la mezcla entre blancos y negros",
+              "answer": "MULATOS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dejar envejecer un vino o licor",
+              "answer": "AÑEJAR"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "La manzana de Apple o el Swoosh de Nike",
+              "answer": "LOGOTIPO"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Coloquial Tira de algo",
+              "answer": "JALA"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Cereal originario de México internacionalizado a partir de la conquista de América",
+              "answer": "MAIZ"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Valencia Niños pequeños",
+              "answer": "NANOS"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "McLaren sin los 1150 hp en Roma",
+              "answer": "AREN"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "Comienzo o principio de algo",
+              "answer": "ALBOR"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "A María con cariño",
+              "answer": "MARI"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Hermana religiosa",
+              "answer": "SOR"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Confié, tuve fe",
+              "answer": "CREI"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Separe, retire algo del montón donde estaba",
+              "answer": "APARTE"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Relativo a la palabra hablada (inv)",
+              "answer": "LARO"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Del Amor, hizo un viraje extraño en su moto",
+              "answer": "JAVIER"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Las iniciales del \"Che\"",
+              "answer": "EG"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Personaje protagonista de 'El Rey León'",
+              "answer": "SIMBA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Las salsas están sin tapa",
+              "answer": "ALSAS"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Ya no lo hago porque lo hace el Roomba",
+              "answer": "BARRER"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Azul profundo, índigo",
+              "answer": "ANIL"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "La Virgen María",
+              "answer": "MADONA"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "\"Mentiroso\" en inglés",
+              "answer": "LIAR"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Casi nada",
+              "answer": "NAD"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Dios olímpico de la guerra",
+              "answer": "ARES"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "El pueblo griego de la democracia",
+              "answer": "DEMOS"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "La primera de Julio",
+              "answer": "JOTA"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ciudad suiza, sede del Foro Económico Mundial",
+              "answer": "DAVOS"
+            },
+            "57": {
+              "col": 6,
+              "row": 11,
+              "clue": "Terminó, se detuvo",
+              "answer": "CESO"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "¿Desunir? No, al contrario",
+              "answer": "UNIR"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Atacar con ímpetu",
+              "answer": "ACOMETER"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Magnitud, tamaño",
+              "answer": "MEDIDA"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Isa tan asustada se dispersa, por este personaje maligno",
+              "answer": "SATANAS"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "\"… la ropa\", hacemos la colada",
+              "answer": "LAVAMOS"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Son unos huevos sin sal",
+              "answer": "SOSOS"
+            },
+            "66": {
+              "col": 7,
+              "row": 14,
+              "clue": "Que tienen cera, o se parecen a ella",
+              "answer": "CEROSOS"
+            }
+          }
+        },
+        "vertical_clues": "1-El superclásico del fútbol uruguayo: Nacional vs…\r\n2-Aumentas la velocidad\r\n3-Cortan, sacan su tajada\r\n4-Aún no llega a la edad\r\n5-Para evitar un marrón es mejor poner reglas\r\n6-Tito Rojas (El Gallo de la Salsa)\r\n7-Fallo o error de software (voz inglesa)\r\n8-El dueño de Twitter\r\n9-Embarcación de vela, de dos cascos unidos\r\n10-Acertar\r\n11-Pasó por tener dividida la base\r\n12-Cañas de trigo después de secas y separadas del grano\r\n13-De escuadra en Cataluña\r\n14-Tener calma, controlar el ímpetu, encontrar…\r\n16-País africano cuya capital es Trípoli\r\n19-Distanciar, espaciar\r\n23-Carril de las vías férreas\r\n26-Ingieran alimentos\r\n28-Determinar la masa de un cuerpo\r\n30-Pequeñas partículas de ARN, que sintetizan las proteínas en las células\r\n32-Muchos\r\n34-Cremitas para la piel\r\n36-El prota de 'Bullet Train'\r\n38-Palabra con el mismo significado que otra\r\n40-Capital de Venezuela\r\n42-Cazador de los Looney Tunes\r\n44-Golpes producidos por los movimientos alternativos del corazón\r\n46-Fervoroso de votos\r\n48-Sacar la cabeza\r\n50-Dotarás, surtirás\r\n53-Los jueces han perdido la risa\r\n54-A este no le aceptes ni un beso\r\n56-Aquí debes sacar el pecho\r\n60-Yunque de platero\r\n62-Duración de tiempo sin término\r\n64-Fin del baile",
+        "horizontal_clues": "1-Derechos sobre un invento\r\n7-Concesión de estipendio para estudios\r\n12-Pescador sin lombriz, se convierte en hereje\r\n13-Hombres nacidos de la mezcla entre blancos y negros\r\n15-Dejar envejecer un vino o licor\r\n16-La manzana de Apple o el Swoosh de Nike\r\n17-Coloquial Tira de algo\r\n18-Cereal originario de México internacionalizado a partir de la conquista de América\r\n20-Valencia Niños pequeños\r\n21-McLaren sin los 1150 hp en Roma\r\n22-Comienzo o principio de algo\r\n24-A María con cariño\r\n25-Hermana religiosa\r\n26-Confié, tuve fe\r\n27-Separe, retire algo del montón donde estaba\r\n29-Relativo a la palabra hablada (inv)\r\n31-Del Amor, hizo un viraje extraño en su moto\r\n33-Las iniciales del \"Che\"\r\n35-Personaje protagonista de 'El Rey León'\r\n37-Las salsas están sin tapa\r\n39-Lengua provenzal\r\n41-Ya no lo hago porque lo hace el Roomba\r\n43-Azul profundo, índigo\r\n45-La Virgen María\r\n47-\"Mentiroso\" en inglés\r\n49-Casi nada\r\n51-Dios olímpico de la guerra\r\n52-El pueblo griego de la democracia\r\n54-La primera de Julio\r\n55-Ciudad suiza, sede del Foro Económico Mundial\r\n57-Terminó, se detuvo\r\n58-¿Desunir? No, al contrario\r\n59-Atacar con ímpetu\r\n61-Magnitud, tamaño\r\n63-Isa tan asustada se dispersa, por este personaje maligno\r\n64-\"… la ropa\", hacemos la colada\r\n65-Son unos huevos sin sal\r\n66-Que tienen cera, o se parecen a ella",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,#,#,#,#,#,#,16,#,#,#,#,#,#,#\r\n17,#,#,#,#,18,19,#,#,#,20,#,#,#,#\r\n21,#,#,#,#,22,#,#,#,23,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,#,27,28,#,#,#,#\r\n#,29,#,30,#,#,31,#,32,#,#,#,#,33,#\r\n34,#,35,#,#,36,#,#,37,#,#,#,38,#,#\r\n39,40,#,41,#,#,#,42,#,#,43,#,#,44,#\r\n45,#,46,#,#,#,#,47,#,48,#,#,49,#,50\r\n51,#,#,#,#,52,53,#,#,#,#,54,#,#,#\r\n55,#,#,#,56,#,57,#,#,#,#,58,#,#,#\r\n59,#,#,#,#,60,#,#,#,61,62,#,#,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#\r\n#,65,#,#,#,#,#,66,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

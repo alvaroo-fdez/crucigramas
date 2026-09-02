@@ -1,0 +1,484 @@
+{
+  "data": {
+    "id": 1993,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-28T17:15:06.545829Z",
+      "updatedAt": "2025-03-28T17:15:06.563494Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-31",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "###PESO#HOLA###\r\nP#ERROR#ALUDA#K\r\nRETORNO#BISONTE\r\nEVITAR#B#GONDOR\r\nCACO#OCUPA#DOLO\r\nUDON#JODER#ERES\r\nEI##BALANCE##RE\r\nLAMPARA#NADABAN\r\nASEAR#####UFANO\r\n##TRAMA#TECOL##\r\n#JETSET#AVARAS#\r\nPODA#SOPLA#OCIA\r\nONU#OER#UDU#EMU\r\nGERENTE#DIDEROT\r\nOSADIA###REBANE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 3,
+              "row": 0,
+              "clue": "Partícula subatómica con una carga eléctrica",
+              "answer": "PROTON"
+            },
+            "2": {
+              "col": 4,
+              "row": 0,
+              "clue": "Vaga sin rumbo ni destino",
+              "answer": "ERRA"
+            },
+            "3": {
+              "col": 5,
+              "row": 0,
+              "clue": "Mostrar en la cara que se está pasando vergüenza",
+              "answer": "SONROJAR"
+            },
+            "4": {
+              "col": 6,
+              "row": 0,
+              "clue": "No todo lo que brilla es…",
+              "answer": "ORO"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Recortar los hábitos",
+              "answer": "HAB"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Poderoso y rico que controla desmedidamente la política o economía de una región",
+              "answer": "OLIGARCA"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pierde la cabeza el iluso al ver este pueblo portugués",
+              "answer": "LUSO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "¿Dónde?",
+              "answer": "ADONDE"
+            },
+            "9": {
+              "col": 0,
+              "row": 1,
+              "clue": "Película que explica el origen de los personajes en la franquicia",
+              "answer": "PRECUELA"
+            },
+            "10": {
+              "col": 2,
+              "row": 1,
+              "clue": "Tipo de dilema que pone en conflicto las normas morales",
+              "answer": "ETICO"
+            },
+            "12": {
+              "col": 12,
+              "row": 1,
+              "clue": "Esta serie de Star Wars pudo donar una ronda de radón",
+              "answer": "ANDOR"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Combustible de aviones de reacción",
+              "answer": "KEROSENO"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Esquivabas, excusabas",
+              "answer": "EVADIAS"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tienen paciencia",
+              "answer": "TOLERAN"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"… Gautama\" persona que ha alcanzado la máxima sabiduría",
+              "answer": "BUDA"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "Sabor de refrescos",
+              "answer": "COLA"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"Sean…\" Óscar por 'Mystic River' y 'Milk'",
+              "answer": "PENN"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "\"Sara …\", bailadora flamenca española",
+              "answer": "BARAS"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Enseña, prepara",
+              "answer": "EDUCA"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "\"… de pata\" equivocación humana",
+              "answer": "METEDURA"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Salga de aquí y rompa algo",
+              "answer": "PARTA"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Cantidad máxima de personas que caben en un recinto",
+              "answer": "AFORO"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Tiroteo, disparos",
+              "answer": "BALACERA"
+            },
+            "42": {
+              "col": 5,
+              "row": 9,
+              "clue": "Planicie extensa situada a considerable altura sobre el nivel del mar",
+              "answer": "MESETA"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lo atasqué, ahora no pasa, lo…",
+              "answer": "ATORE"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Inclinación del paramento de un muro o de un terreno",
+              "answer": "TALUD"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Eludir, por ejemplo al fisco",
+              "answer": "EVADIR"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "\"Dow…\" índice bursátil",
+              "answer": "JONES"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "El Libertador de América",
+              "answer": "SIMON"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "El chimpancé de la serie 'The Umbrella Academy'",
+              "answer": "POGO"
+            },
+            "52": {
+              "col": 14,
+              "row": 11,
+              "clue": "\"Luis Eduardo …\", en un Mano a Mano con Silvio Rodríguez",
+              "answer": "AUTE"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "El demonio japonés es un poni decapitado",
+              "answer": "ONI"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "¿Cómo terminó el fraude?",
+              "answer": "UDE"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Émile Durkheim, el padre positivista de la sociología",
+              "answer": "ED"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Emilio Butragueño, \"El Buitre\"",
+              "answer": "EB"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 3,
+              "row": 0,
+              "clue": "Midió qué tan gordo estaba y le causó dolor",
+              "answer": "PESO"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Haló como loco entre olas para verme y decirme…",
+              "answer": "HOLA"
+            },
+            "10": {
+              "col": 2,
+              "row": 1,
+              "clue": "Los es el 404, en las páginas web",
+              "answer": "ERROR"
+            },
+            "11": {
+              "col": 8,
+              "row": 1,
+              "clue": "Haga referencia a algo",
+              "answer": "ALUDA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "El del Jedi, en el Episodio VI de Star Wars",
+              "answer": "RETORNO"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "El primo americano del búfalo",
+              "answer": "BISONTE"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Me atreví tarde y no lo pude evadir",
+              "answer": "EVITAR"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "ESDLA El reino que fundó Isildur, del que Aragorn sería heredero",
+              "answer": "GONDOR"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ladrón",
+              "answer": "CACO"
+            },
+            "22": {
+              "col": 5,
+              "row": 4,
+              "clue": "Llena un espacio o lugar",
+              "answer": "OCUPA"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Engaño, estafa, timo",
+              "answer": "DOLO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Fideo japonés grueso, de harina de trigo",
+              "answer": "UDON"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Molestar o fastidiar a alguien",
+              "answer": "JODER"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"… para Mí\" canción de Julieta Venegas con Anita Tejoux",
+              "answer": "ERES"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Saliendo de Taipéi",
+              "answer": "EI"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Movimiento de un cuerpo de un lado a otro",
+              "answer": "BALANCE"
+            },
+            "32": {
+              "col": 13,
+              "row": 6,
+              "clue": "Iniciales en el asunto del email, al ser una respuesta",
+              "answer": "RE"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "La de Aladino es la más famosa",
+              "answer": "LAMPARA"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Estos no se ahogaban",
+              "answer": "NADABAN"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Mantener limpio algo",
+              "answer": "ASEAR"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "Arrogante, presuntuoso, engreído",
+              "answer": "UFANO"
+            },
+            "41": {
+              "col": 2,
+              "row": 9,
+              "clue": "El argumento, la historia en una narrativa",
+              "answer": "TRAMA"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Gusano del tequila",
+              "answer": "TECOL"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Clase social internacional, rica y ostentosa (2p)",
+              "answer": "JETSET"
+            },
+            "47": {
+              "col": 8,
+              "row": 10,
+              "clue": "Mujeres que escatiman algo",
+              "answer": "AVARAS"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Acción y efecto de podar",
+              "answer": "PODA"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Apaga las velitas de la tarta",
+              "answer": "SOPLA"
+            },
+            "51": {
+              "col": 11,
+              "row": 11,
+              "clue": "Entrégate al ocio",
+              "answer": "OCIA"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Organización a cargo de los ODS",
+              "answer": "ONU"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Lo regresan a la cárcel",
+              "answer": "OER"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "Lo que tiene el vudú de fraudulento",
+              "answer": "UDU"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Ave casi tan grande como el avestruz",
+              "answer": "EMU"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Que regente Negrete, porque es un buen encargado",
+              "answer": "GERENTE"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Filósofo francés que junto a D’Alembert, hicieron la 'Encyclopédie'",
+              "answer": "DIDEROT"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Audacia, resolución, intrepidez",
+              "answer": "OSADIA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Dividí el pan correctamente en Brea",
+              "answer": "REBANE"
+            }
+          }
+        },
+        "vertical_clues": "1-Partícula subatómica con una carga eléctrica\r\n2-Vaga sin rumbo ni destino\r\n3-Mostrar en la cara que se está pasando vergüenza\r\n4-No todo lo que brilla es…\r\n5-Recortar los hábitos\r\n6-Poderoso y rico que controla desmedidamente la política o economía de una región\r\n7-Pierde la cabeza el iluso al ver este pueblo portugués\r\n8-¿Dónde? \r\n9-Película que explica el origen de los personajes en la franquicia\r\n10-Tipo de dilema que pone en conflicto las normas morales\r\n12-Esta serie de Star Wars pudo donar una ronda de radón\r\n13-Combustible de aviones de reacción\r\n15-Esquivabas, excusabas\r\n17-Tienen paciencia\r\n19-\"… Gautama\" persona que ha alcanzado la máxima sabiduría\r\n23-Sabor de refrescos\r\n24-\"Sean…\" Óscar por 'Mystic River' y 'Milk'\r\n30-\"Sara …\", bailadora flamenca española \r\n31-Enseña, prepara\r\n34-\"… de pata\" equivocación humana\r\n35-Salga de aquí y rompa algo\r\n37-Cantidad máxima de personas que caben en un recinto\r\n38-Tiroteo, disparos\r\n42-Planicie extensa situada a considerable altura sobre el nivel del mar\r\n43-Lo atasqué, ahora no pasa, lo…\r\n44-Inclinación del paramento de un muro o de un terreno\r\n45-Eludir, por ejemplo al fisco\r\n46-\"Dow…\" índice bursátil\r\n48-El Libertador de América\r\n49-El chimpancé de la serie 'The Umbrella Academy'\r\n52-\"Luis Eduardo …\", en un Mano a Mano con Silvio Rodríguez\r\n54-El demonio japonés es un poni decapitado\r\n56-¿Cómo terminó el fraude? \r\n59-Émile Durkheim, el padre positivista de la sociología\r\n61-Emilio Butragueño, \"El Buitre\"\r\n",
+        "horizontal_clues": "1-Midió qué tan gordo estaba y le causó dolor\r\n5-Haló como loco entre olas para verme y decirme…\r\n10-Los es el 404, en las páginas web\r\n11-Haga referencia a algo\r\n14-El del Jedi, en el Episodio VI de Star Wars\r\n16-El primo americano del búfalo\r\n18-Me atreví tarde y no lo pude evadir\r\n20-ESDLA El reino que fundó Isildur, del que Aragorn sería heredero\r\n21-Ladrón\r\n22-Llena un espacio o lugar\r\n25-Engaño, estafa, timo\r\n26-Fideo japonés grueso, de harina de trigo\r\n27-Molestar o fastidiar a alguien\r\n28-\"… para Mí\" canción de Julieta Venegas con Anita Tejoux\r\n29-Saliendo de Taipéi\r\n30-Movimiento de un cuerpo de un lado a otro\r\n32-Iniciales en el asunto del email, al ser una respuesta\r\n33-La de Aladino es la más famosa\r\n36-Estos no se ahogaban\r\n39-Mantener limpio algo\r\n40-Arrogante, presuntuoso, engreído\r\n41-El argumento, la historia en una narrativa\r\n44-Gusano del tequila\r\n46-Clase social internacional, rica y ostentosa (2p)\r\n47-Mujeres que escatiman algo\r\n49-Acción y efecto de podar\r\n50-Apaga las velitas de la tarta\r\n51-Entrégate al ocio\r\n53-Organización a cargo de los ODS\r\n54-Lo regresan a la cárcel\r\n55-Lo que tiene el vudú de fraudulento\r\n57-Ave casi tan grande como el avestruz\r\n58-Que regente Negrete, porque es un buen encargado\r\n60-Filósofo francés que junto a D’Alembert, hicieron la 'Encyclopédie'\r\n62-Audacia, resolución, intrepidez\r\n63-Dividí el pan correctamente en Brea\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,#,1,2,3,4,#,5,6,7,8,#,#,#\r\n9,#,10,#,#,#,#,#,11,#,#,#,12,#,13\r\n14,15,#,#,#,#,#,#,16,#,#,#,#,17,#\r\n18,#,#,#,#,#,#,19,#,20,#,#,#,#,#\r\n21,#,#,#,#,22,23,#,24,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,#,#,31,#,#,32,#\r\n33,#,34,35,#,#,#,#,36,#,#,37,38,#,#\r\n39,#,#,#,#,#,#,#,#,#,40,#,#,#,#\r\n#,#,41,#,#,42,43,#,44,45,#,#,#,#,#\r\n#,46,#,#,#,#,#,#,47,#,#,#,#,48,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,#,55,#,56,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

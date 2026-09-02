@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 1898,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-11T12:43:05.029020Z",
+      "updatedAt": "2025-03-11T12:46:00.755857Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-13",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MOTTA#TABU#SADE\r\nANALITICO#DOLER\r\nRDC#RAMON#ALUNA\r\nCAOBO#ADAPTADOR\r\nASNOS#ROCIA##MI\r\nD##NAVE#HORACIO\r\nOCCISO#ROSETON#\r\nRARA##EON##ERAH\r\n#FITNESS#IGNORA\r\nBENOIST#LOAD##M\r\nAT##CAERA#SELFI\r\nTEMPESTAD#TROLL\r\nOREEN#IBICE#NET\r\nLISTA#CANDIDATO\r\nAAAA#VOLO#SESEN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Tablero que muestra los puntos de un partido",
+              "answer": "MARCADOR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Premios…\" los primeros galardones de radio y TV de España",
+              "answer": "ONDAS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pieza de mayor altura en la suela del calzado",
+              "answer": "TACON"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "El TimeLine de Twitter",
+              "answer": "TL"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Saldrán victoriosas, triunfantes",
+              "answer": "AIROSAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Quitaré con engaño",
+              "answer": "TIMARE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Técnica para sacar raíces a un tallo sin separarlo de la planta madre",
+              "answer": "ACODO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"El gran gigante…\" libro de Roahl Dahl",
+              "answer": "BONACHON"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "No está…, está consigo misma",
+              "answer": "SOLA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Gran masa de nieve que se derrumba",
+              "answer": "ALUD"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Nombrar con un título particular a alguien",
+              "answer": "DENOMINAR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Hacienda, conjunto de rentas",
+              "answer": "ERARIO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Tantalio",
+              "answer": "TA"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Determinaré la fecha de un documento",
+              "answer": "DATARE"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Batata, camote",
+              "answer": "BONIATO"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Devotos, inclinados a la piedad",
+              "answer": "PIOS"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Poco volumen",
+              "answer": "VO"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Satisfacer un deseo, ruego o mandato",
+              "answer": "ATENDER"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Conjunto de voces",
+              "answer": "CORO"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Lo es el Café Gijón en Madrid o el Café Iruña en Pamplona",
+              "answer": "CAFETERIA"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Cabello del caballo",
+              "answer": "CRIN"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Chacó pequeño, más alto por delante que por detrás",
+              "answer": "ROS"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "Me parece que es tétrico, el sentido de la belleza",
+              "answer": "ESTETICO"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "\"Linda…\" es Sarah Connor, la de Terminator",
+              "answer": "HAMILTON"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Una mujer nacida en el Imperio de Nicea",
+              "answer": "NICENA"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Estas no, las otras",
+              "answer": "ESAS"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Una pareja de 10",
+              "answer": "IO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Uséis todo tu dinero",
+              "answer": "GASTEIS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tipo de bata muy larga y ancha",
+              "answer": "BATOLA"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Judeoespañol, el idioma de los judíos sefardíes",
+              "answer": "LADINO"
+            },
+            "48": {
+              "col": 7,
+              "row": 10,
+              "clue": "\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)",
+              "answer": "RABAL"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Busca las telas en el salón",
+              "answer": "LONAS"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Precio del alquiler de un medio de transporte",
+              "answer": "FLETE"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Mueble para jugar pimpón",
+              "answer": "MESA"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "Organización que defiende los derechos animales",
+              "answer": "PETA"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "Símbolo químico del cadmio",
+              "answer": "CD"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "\"... mí, para ti\"",
+              "answer": "DE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Thiago…\" el actual entrenador de la Juventus FC",
+              "answer": "MOTTA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Conducta moralmente inaceptable por una sociedad",
+              "answer": "TABU"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "El divino marqués",
+              "answer": "SADE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Metódico, que examina con detalle cada parte de un todo",
+              "answer": "ANALITICO"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Te van a lastimar, te va a…",
+              "answer": "DOLER"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "República Democrática del Congo",
+              "answer": "RDC"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Román y Norma, moran con este chico",
+              "answer": "RAMON"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Dicho de un alimento: Se estropea, se daña",
+              "answer": "ALUNA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Árbol de madera marrón rojiza hasta vino tinto",
+              "answer": "CAOBO"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Dispositivo que ajusta a un objeto a otro espacio",
+              "answer": "ADAPTADOR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lo son Platero y el burrito sabanero",
+              "answer": "ASNOS"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Esparce menudas gotas de agua sobre algo",
+              "answer": "ROCIA"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Símbolo de la milla, unidad de longitud",
+              "answer": "MI"
+            },
+            "26": {
+              "col": 3,
+              "row": 5,
+              "clue": "Vean bien que aquí hay una espacial",
+              "answer": "NAVE"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"… Elizondo\" árbitro que expulsó a Zidane por el cabezazo a Materazzi (2006)",
+              "answer": "HORACIO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Muerto violentamente",
+              "answer": "OCCISO"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Arq Ventana circular calada, con adornos",
+              "answer": "ROSETON"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Distinta, poco común",
+              "answer": "RARA"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "Mil millones de años",
+              "answer": "EON"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Lo realizaré de espaldas",
+              "answer": "ERAH"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Práctica deportiva para estar en buena forma, similar al culturismo",
+              "answer": "FITNESS"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "No sabe algo, no tiene noticia de ello",
+              "answer": "IGNORA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Melissa…\" actriz protagonista de la serie 'Supergirl'",
+              "answer": "BENOIST"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Glorificad, enalteced",
+              "answer": "LOAD"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Antiguo Testamento",
+              "answer": "AT"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Dará al suelo",
+              "answer": "CAERA"
+            },
+            "49": {
+              "col": 10,
+              "row": 10,
+              "clue": "Autofoto",
+              "answer": "SELFI"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Después de esta, viene la calma",
+              "answer": "TEMPESTAD"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Pequeño ser fantástico de cabello erguido",
+              "answer": "TROLL"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Sequen algo poniéndolo al aire",
+              "answer": "OREEN"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Especie de cabra montés",
+              "answer": "IBICE"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Dominio genérico de Internet",
+              "answer": "NET"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Una chica inteligente está preparada",
+              "answer": "LISTA"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "El que se presenta a unas elecciones",
+              "answer": "CANDIDATO"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "¡Ese póker de ases!",
+              "answer": "AAAA"
+            },
+            "64": {
+              "col": 5,
+              "row": 14,
+              "clue": "Dejó el nido",
+              "answer": "VOLO"
+            },
+            "65": {
+              "col": 10,
+              "row": 14,
+              "clue": "España Antigua moneda de Aragón",
+              "answer": "SESEN"
+            }
+          }
+        },
+        "vertical_clues": "1-Tablero que muestra los puntos de un partido\r\n2-\"Premios…\" los primeros galardones de radio y TV de España\r\n3-Pieza de mayor altura en la suela del calzado\r\n4-El TimeLine de Twitter\r\n5-Saldrán victoriosas, triunfantes\r\n6-Quitaré con engaño\r\n7-Técnica para sacar raíces a un tallo sin separarlo de la planta madre\r\n8-\"El gran gigante…\" libro de Roahl Dahl\r\n9-No está…, está consigo misma\r\n10-Gran masa de nieve que se derrumba\r\n11-Nombrar con un título particular a alguien\r\n12-Hacienda, conjunto de rentas\r\n14-Tantalio\r\n15-Determinaré la fecha de un documento\r\n20-Batata, camote\r\n22-Devotos, inclinados a la piedad\r\n27-Poco volumen\r\n29-Satisfacer un deseo, ruego o mandato\r\n30-Conjunto de voces\r\n32-Lo es el Café Gijón en Madrid o el Café Iruña en Pamplona\r\n33-Cabello del caballo\r\n34-Chacó pequeño, más alto por delante que por detrás\r\n36-Me parece que es tétrico, el sentido de la belleza\r\n38-\"Linda…\" es Sarah Connor, la de Terminator \r\n40-Una mujer nacida en el Imperio de Nicea\r\n41-Estas no, las otras\r\n42-Una pareja de 10\r\n43-Uséis todo tu dinero\r\n44-Tipo de bata muy larga y ancha\r\n45-Judeoespañol, el idioma de los judíos sefardíes\r\n48-\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)\r\n50-Busca las telas en el salón\r\n51-Precio del alquiler de un medio de transporte\r\n53-Mueble para jugar pimpón \r\n54-Organización que defiende los derechos animales \r\n58-Símbolo químico del cadmio\r\n62-\"... mí, para ti\"",
+        "horizontal_clues": "1-\"Thiago…\" el actual entrenador de la Juventus FC\r\n6-Conducta moralmente inaceptable por una sociedad \r\n9-El divino marqués\r\n13-Metódico, que examina con detalle cada parte de un todo\r\n15-Te van a lastimar, te va a…\r\n16-República Democrática del Congo\r\n17-Román y Norma, moran con este chico\r\n18-Dicho de un alimento: Se estropea, se daña\r\n19-Árbol de madera marrón rojiza hasta vino tinto\r\n21-Dispositivo que ajusta a un objeto a otro espacio\r\n23-Lo son Platero y el burrito sabanero\r\n24-Esparce menudas gotas de agua sobre algo\r\n25-Símbolo de la milla, unidad de longitud\r\n26-Vean bien que aquí hay una espacial\r\n28-\"… Elizondo\" árbitro que expulsó a Zidane por el cabezazo a Materazzi (2006) \r\n31-Muerto violentamente\r\n34-Arq Ventana circular calada, con adornos\r\n35-Distinta, poco común\r\n36-Mil millones de años\r\n37-Lo realizaré de espaldas\r\n39-Práctica deportiva para estar en buena forma, similar al culturismo\r\n42-No sabe algo, no tiene noticia de ello\r\n44-\"Melissa…\" actriz protagonista de la serie 'Supergirl'\r\n45-Glorificad, enalteced\r\n46-Antiguo Testamento \r\n47-Dará al suelo\r\n49-Autofoto\r\n52-Después de esta, viene la calma\r\n55-Pequeño ser fantástico de cabello erguido\r\n56-Sequen algo poniéndolo al aire\r\n57-Especie de cabra montés\r\n59-Dominio genérico de Internet\r\n60-Una chica inteligente está preparada\r\n61-El que se presenta a unas elecciones \r\n63-¡Ese póker de ases! \r\n64-Dejó el nido\r\n65-España Antigua moneda de Aragón",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,#,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,#,15,#,#,#,#\r\n16,#,#,#,17,#,#,#,#,#,18,#,#,#,#\r\n19,#,#,20,#,#,21,#,#,22,#,#,#,#,#\r\n23,#,#,#,#,#,24,#,#,#,#,#,#,25,#\r\n#,#,#,26,#,27,#,#,28,#,#,29,30,#,#\r\n31,32,33,#,#,#,#,34,#,#,#,#,#,#,#\r\n35,#,#,#,#,#,36,#,#,#,#,37,#,#,38\r\n#,39,#,#,40,41,#,#,#,42,43,#,#,#,#\r\n44,#,#,#,#,#,#,#,45,#,#,#,#,#,#\r\n46,#,#,#,47,#,#,48,#,#,49,#,50,51,#\r\n52,#,53,54,#,#,#,#,#,#,55,#,#,#,#\r\n56,#,#,#,#,#,57,#,#,58,#,#,59,#,#\r\n60,#,#,#,#,#,61,#,#,#,#,62,#,#,#\r\n63,#,#,#,#,64,#,#,#,#,65,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

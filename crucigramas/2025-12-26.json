@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4027,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.570595Z",
+      "updatedAt": "2025-12-16T12:21:38.765228Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-26",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PROVECHOSO##NR\r\nCRUCIGRAMA#IDEE\r\nAOD##PAG##GUAPA\r\nLLAME#COMPRADOR\r\nDESOVE##URA##TM\r\nE##DERMATOFAGIA\r\nRETIRE#MASONES#\r\nOSES#CRENA#TOMA\r\n#PATACON#PRESOS\r\nPENALIZACION##E\r\nAC##VOA##ATADOS\r\nSUSPENDER#ASISI\r\nALIAS##DUA##VAN\r\nLATI#PRESENTADO\r\nOR##CAPSAICINA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Linaje, descendencia de alguien",
+              "answer": "PROLE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "A esas chicas duras les gusta sudar",
+              "answer": "RUDAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Dentro de poco",
+              "answer": "OC"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Observé, miré",
+              "answer": "VI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Símbolo de la libra egipcia",
+              "answer": "EGP"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Sonido de algo que se quiebra",
+              "answer": "CRAC"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Yo me encargo, yo lo…",
+              "answer": "HAGO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mantra antiestrés",
+              "answer": "OM"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Jeroglífico egipcio que significa \"Protección\"",
+              "answer": "SA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Tendencia de asignar en cargos públicos a familiares no preparados",
+              "answer": "NEPOTISMO"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Equipa nuevamente con armamento militar",
+              "answer": "REARMA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Olla de brujas",
+              "answer": "CALDERO"
+            },
+            "13": {
+              "col": 11,
+              "row": 1,
+              "clue": "Instituto Universitario Aeronáutico",
+              "answer": "IUA"
+            },
+            "14": {
+              "col": 12,
+              "row": 1,
+              "clue": "Entregad al padre inglés",
+              "answer": "DAD"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Matemática Vértices o nodos unidos por aristas o arcos",
+              "answer": "GRAFO"
+            },
+            "19": {
+              "col": 3,
+              "row": 3,
+              "clue": "Profesional del diseño y confección de ropa",
+              "answer": "MODISTA"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "\"Alguna vez\" en inglés",
+              "answer": "EVER"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Se modifican, se adaptan",
+              "answer": "MUTAN"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Ascendencia, linaje o generación de una persona",
+              "answer": "PROSAPIA"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Endurecimiento del pene",
+              "answer": "ERECCION"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Grata y agradable",
+              "answer": "AMENA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Apéndice sensorial de las hormigas (pl)",
+              "answer": "ANTENAS"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Gramática Prefijo que refiere a la tierra (pl)",
+              "answer": "GEOS"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "¿Se va a espelucar si se pone a conjeturar?",
+              "answer": "ESPECULAR"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Que la aten muy mal",
+              "answer": "TEAN"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Tocad levemente",
+              "answer": "ROZAD"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "Homicida, matón",
+              "answer": "ASESINO"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Futbolista activo con más títulos ganados en la historia",
+              "answer": "ALVES"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Partida, quebrada",
+              "answer": "ROTA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dáselo al de al lado",
+              "answer": "PASALO"
+            },
+            "49": {
+              "col": 12,
+              "row": 10,
+              "clue": "Asiento alargado, generalmente sin respaldo",
+              "answer": "DIVAN"
+            },
+            "50": {
+              "col": 13,
+              "row": 10,
+              "clue": "Atrevida, temeraria",
+              "answer": "OSADA"
+            },
+            "52": {
+              "col": 2,
+              "row": 11,
+              "clue": "\"Sentarse\" en inglés",
+              "answer": "SIT"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Países del norte",
+              "answer": "PAI"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "He puesto la sede de cabeza",
+              "answer": "EDES"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Nacida en Rusia",
+              "answer": "RUSA"
+            },
+            "59": {
+              "col": 9,
+              "row": 12,
+              "clue": "Las tres primeras",
+              "answer": "AEI"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Medio palo",
+              "answer": "PA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Iniciales de Residente, vocalista de Calle 13",
+              "answer": "RP"
+            },
+            "64": {
+              "col": 10,
+              "row": 13,
+              "clue": "No contesta Nacho Cano",
+              "answer": "NC"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "\"Hoy por… y mañana por mí\"",
+              "answer": "TI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Útil, fructífero y rentable",
+              "answer": "PROVECHOSO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Nick Rivera, alias Nicky Jam",
+              "answer": "NR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Este juego",
+              "answer": "CRUCIGRAMA"
+            },
+            "13": {
+              "col": 11,
+              "row": 1,
+              "clue": "¡Edie, se me ocurrió algo!",
+              "answer": "IDEE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Asistencia oficial para el desarrollo (siglas)",
+              "answer": "AOD"
+            },
+            "16": {
+              "col": 5,
+              "row": 2,
+              "clue": "Abreviatura de página",
+              "answer": "PAG"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Atractiva, bonita",
+              "answer": "GUAPA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ya me parece que es mejor que telefonee",
+              "answer": "LLAME"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Quien paga para llevarse una o más cosas",
+              "answer": "COMPRADOR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Época en la cual las hembras de los peces depositan sus huevos",
+              "answer": "DESOVE"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "En pura y dura",
+              "answer": "URA"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Símbolo químico del Tulio",
+              "answer": "TM"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Trastorno donde una persona muerde compulsivamente su propia piel",
+              "answer": "DERMATOFAGIA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Me salí de un curso antes de terminarlo",
+              "answer": "RETIRE"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "Practicantes de la francmasonería",
+              "answer": "MASONES"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tengas el atrevimiento",
+              "answer": "OSES"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Carne mala, muy mala",
+              "answer": "CRENA"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Ocupación por la fuerza de una ciudad",
+              "answer": "TOMA"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Rodaja de plátano macho, machado y frito",
+              "answer": "PATACON"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Reclusos, cautivos",
+              "answer": "PRESOS"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Imposición de una sanción o castigo",
+              "answer": "PENALIZACION"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Iniciales Director de cine, ganador de Óscar por \"Gravity\"",
+              "answer": "AC"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Emisora internacional norteamericana",
+              "answer": "VOA"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Unidos, juntados o sujetados con ligaduras o nudos",
+              "answer": "ATADOS"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "No aprobar el examen",
+              "answer": "SUSPENDER"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "De esta manera, acepto (2p)",
+              "answer": "ASISI"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Apodo, sobrenombre",
+              "answer": "ALIAS"
+            },
+            "58": {
+              "col": 7,
+              "row": 12,
+              "clue": "\"… Lipa\" cantante británica de 'No Lie' y 'New Rules'",
+              "answer": "DUA"
+            },
+            "60": {
+              "col": 12,
+              "row": 12,
+              "clue": "Emigran a Vancouver",
+              "answer": "VAN"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Bombeé como el corazón",
+              "answer": "LATI"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Expuesto, manifestado",
+              "answer": "PRESENTADO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "El fin del mejor",
+              "answer": "OR"
+            },
+            "67": {
+              "col": 4,
+              "row": 14,
+              "clue": "Alcaloide responsable del sabor característico de la guindilla",
+              "answer": "CAPSAICINA"
+            }
+          }
+        },
+        "vertical_clues": "1-Linaje, descendencia de alguien\r\n2-A esas chicas duras les gusta sudar\r\n3-Dentro de poco\r\n4-Observé, miré\r\n5-Símbolo de la libra egipcia\r\n6-Sonido de algo que se quiebra\r\n7-Yo me encargo, yo lo…\r\n8-Mantra antiestrés\r\n9-Jeroglífico egipcio que significa \"Protección\"\r\n10-Tendencia de asignar en cargos públicos a familiares no preparados\r\n11-Equipa nuevamente con armamento militar\r\n12-Olla de brujas\r\n13-Instituto Universitario Aeronáutico\r\n14-Entregad al padre inglés\r\n17-Matemática Vértices o nodos unidos por aristas o arcos\r\n19-Profesional del diseño y confección de ropa\r\n20-\"Alguna vez\" en inglés\r\n22-Se modifican, se adaptan\r\n23-Ascendencia, linaje o generación de una persona\r\n25-Endurecimiento del pene\r\n29-Grata y agradable\r\n30-Apéndice sensorial de las hormigas (pl)\r\n31-Gramática Prefijo que refiere a la tierra (pl)\r\n33-¿Se va a espelucar si se pone a conjeturar?\r\n34-Que la aten muy mal\r\n38-Tocad levemente\r\n40-Homicida, matón\r\n42-Futbolista activo con más títulos ganados en la historia\r\n44-Partida, quebrada\r\n45-Dáselo al de al lado\r\n49-Asiento alargado, generalmente sin respaldo\r\n50-Atrevida, temeraria\r\n52-\"Sentarse\" en inglés\r\n53-Países del norte\r\n54-He puesto la sede de cabeza\r\n55-Nacida en Rusia\r\n59-Las tres primeras\r\n62-Medio palo\r\n63-Iniciales de Residente, vocalista de Calle 13\r\n64-No contesta Nacho Cano\r\n65-\"Hoy por… y mañana por mí\"",
+        "horizontal_clues": "1-Útil, fructífero y rentable\r\n10-Nick Rivera, alias Nicky Jam\r\n12-Este juego\r\n13-¡Edie, se me ocurrió algo!\r\n15-Asistencia oficial para el desarrollo (siglas)\r\n16-Abreviatura de página\r\n17-Atractiva, bonita\r\n18-Ya me parece que es mejor que telefonee\r\n21-Quien paga para llevarse una o más cosas\r\n24-Época en la cual las hembras de los peces depositan sus huevos\r\n26-En pura y dura\r\n27-Símbolo químico del Tulio\r\n28-Trastorno donde una persona muerde compulsivamente su propia piel\r\n32-Me salí de un curso antes de terminarlo\r\n35-Practicantes de la francmasonería\r\n36-Tengas el atrevimiento\r\n37-Carne mala, muy mala\r\n39-Ocupación por la fuerza de una ciudad\r\n41-Rodaja de plátano macho, machado y frito\r\n43-Reclusos, cautivos\r\n45-Imposición de una sanción o castigo\r\n46-Iniciales Director de cine, ganador de Óscar por \"Gravity\"\r\n47-Emisora internacional norteamericana\r\n48-Unidos, juntados o sujetados con ligaduras o nudos\r\n51-No aprobar el examen\r\n56-De esta manera, acepto (2p)\r\n57-Apodo, sobrenombre\r\n58-\"… Lipa\" cantante británica de 'No Lie' y 'New Rules'\r\n60-Emigran a Vancouver\r\n61-Bombeé como el corazón\r\n62-Expuesto, manifestado\r\n66-El fin del mejor\r\n67-Alcaloide responsable del sabor característico de la guindilla",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,8,9,#,#,#,10,11\r\n12,#,#,#,#,#,#,#,#,#,#,13,14,#,#\r\n15,#,#,#,#,16,#,#,#,#,17,#,#,#,#\r\n18,#,#,19,20,#,21,#,22,23,#,#,#,#,#\r\n24,#,#,#,#,25,#,#,26,#,#,#,#,27,#\r\n#,#,#,28,#,#,#,29,#,#,#,30,31,#,#\r\n32,33,34,#,#,#,#,35,#,#,#,#,#,#,#\r\n36,#,#,#,#,37,38,#,#,#,#,39,#,#,40\r\n#,41,#,#,42,#,#,#,#,43,44,#,#,#,#\r\n45,#,#,#,#,#,#,#,#,#,#,#,#,#,#\r\n46,#,#,#,47,#,#,#,#,48,#,#,49,50,#\r\n51,#,52,53,#,#,#,54,55,#,56,#,#,#,#\r\n57,#,#,#,#,#,#,58,#,59,#,#,60,#,#\r\n61,#,#,#,#,62,63,#,#,#,64,65,#,#,#\r\n66,#,#,#,67,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

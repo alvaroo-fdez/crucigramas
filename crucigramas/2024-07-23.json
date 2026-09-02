@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 636,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-22T12:50:53.870030Z",
+      "updatedAt": "2024-07-22T12:50:53.870051Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-23",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#ADHOC#ATRACA##\r\n#CROMAS#RETRASA\r\nPE#NET#VALUA#UN\r\nALARMAD#JACQUES\r\nREMO#RELOJ#URGI\r\nCRISTINA#AFEARE\r\nHODOR#TENDIA#O#\r\nA#A#OAR#EOR#C#T\r\n#B#CYBORG#MARTA\r\nPOCHAS#CANOTIER\r\nUNCE#OSADA#LAND\r\nDESVELA#ORGANDI\r\nIT#EDUCO#RUN#EO\r\nNEGRITA#PARTIR#\r\n##CELOSA#DUEÑO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Catalizó un proceso.",
+              "answer": "ACELERO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Iniciales del actor que interpreta a Harry Potter.",
+              "answer": "DR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que merece respeto y admiración.",
+              "answer": "HONROSO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "El tonto viene subiendo.",
+              "answer": "OMEM"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Natural de Catar.",
+              "answer": "CATARI"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Trasladó algo hacia acá.",
+              "answer": "TRAJO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tranquilo y sin tensiones.",
+              "answer": "RELAJADO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Asociación de Tontos Unidos por Conveniencia.",
+              "answer": "ATUC"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Rompe las moléculas de un hidrocarburo, calentándolo.",
+              "answer": "CRAQUEA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Las fronteras de Argelia.",
+              "answer": "AA"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "Padre del cónyuge.",
+              "answer": "SUEGRO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Apetezca, desee, anhele.",
+              "answer": "ANSIE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Fruta tropical también llamada maracuyá.",
+              "answer": "PARCHA"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Compuesto que resulta de sustituir un átomo de hidrógeno del amoniaco.",
+              "answer": "AMIDA"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "En la parte interna.",
+              "answer": "DENTRO"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "Figura de cultura.",
+              "answer": "URA"
+            },
+            "27": {
+              "col": 7,
+              "row": 4,
+              "clue": "Loterías y Apuestas del Estado.",
+              "answer": "LAE"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Famoso caballo.",
+              "answer": "TROYA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Estampo mi rúbrica en un documento.",
+              "answer": "FIRMO"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Sin aptitud para cierta actividad.",
+              "answer": "NEGADO"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Total y completo.",
+              "answer": "ABSOLUTO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Alimentan y cuidan a sus animales, los...",
+              "answer": "CRIAN"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "Que sucede después de lo esperado.",
+              "answer": "TARDIO"
+            },
+            "41": {
+              "col": 1,
+              "row": 8,
+              "clue": "Gorro usado por eclesiásticos.",
+              "answer": "BONETE"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Col. y Vzla. Coloquial. Bueno, agradable, simpático.",
+              "answer": "CHEVERE"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Un cable con 3 puntas no es inteligente.",
+              "answer": "RCA"
+            },
+            "45": {
+              "col": 11,
+              "row": 8,
+              "clue": "Figura masculina que sostiene una estructura.",
+              "answer": "ATLANTE"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "Dueño de una tienda de comestibles.",
+              "answer": "TENDERO"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dulce de pan deshecho en leche con azúcar y frutas secas.",
+              "answer": "PUDIN"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Abreviatura de Caracas.",
+              "answer": "CCS"
+            },
+            "50": {
+              "col": 9,
+              "row": 9,
+              "clue": "Contad lo sucedido.",
+              "answer": "NARRAD"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Obtienes, logras.",
+              "answer": "SACAS"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Antiguos romanos. Magistrado encargado de las obras públicas.",
+              "answer": "EDIL"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "Maestro espiritual o jefe religioso del hinduismo.",
+              "answer": "GURU"
+            },
+            "64": {
+              "col": 2,
+              "row": 13,
+              "clue": "Gonzalo Conde (alias Bizarrap).",
+              "answer": "GC"
+            },
+            "66": {
+              "col": 12,
+              "row": 13,
+              "clue": "Piña pelada.",
+              "answer": "IÑ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Voz latina que significa \"para este propósito\" o \"para esto\".",
+              "answer": "ADHOC"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Llega al puerto, un barco.",
+              "answer": "ATRACA"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Haces inoxidables los objetos, bañándolos con cierto metal blanco plateado y brillante.",
+              "answer": "CROMAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Se demora y eso le restará erratas.",
+              "answer": "RETRASA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Pelo quebradizo.",
+              "answer": "PE"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Dominio genérico de Internet.",
+              "answer": "NET"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Valora, señala el precio.",
+              "answer": "VALUA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Algún artículo.",
+              "answer": "UN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Preocupad, alertad.",
+              "answer": "ALARMAD"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "\"... Cousteau\" el oceanógrafo más famoso del mundo (1910",
+              "answer": "JACQUES"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Brazo de canoa.",
+              "answer": "REMO"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo es un Omega o un Patek Philippe.",
+              "answer": "RELOJ"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Apremié, apuré, obligué,.",
+              "answer": "URGI"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "La Pedroche.",
+              "answer": "CRISTINA"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Era fea, pero yo la pondré peor.",
+              "answer": "AFEARE"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "GOT. Personaje que cargó y protegió, a Bran Stark.",
+              "answer": "HODOR"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Colgaba la ropa al sol.",
+              "answer": "TENDIA"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Orden de Agustinos Recoletos.",
+              "answer": "OAR"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Es peor sin capital.",
+              "answer": "EOR"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Ser mitad humano, mitad máquina.",
+              "answer": "CYBORG"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"... Etura\" actriz española, Goya por la peli 'Celda 211'.",
+              "answer": "MARTA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Están enfermas por unas frutas dañadas.",
+              "answer": "POCHAS"
+            },
+            "49": {
+              "col": 7,
+              "row": 9,
+              "clue": "Sombrero de paja con ala recta.",
+              "answer": "CANOTIER"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Amarra, enlaza a los bueyes, los...",
+              "answer": "UNCE"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Temeraria, atrevida.",
+              "answer": "OSADA"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Lugar, país, región en inglés.",
+              "answer": "LAND"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Revela un secreto.",
+              "answer": "DESVELA"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Tela fina y transparente.",
+              "answer": "ORGANDI"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Novela de Stephen King, sobre un payaso aterrador.",
+              "answer": "IT"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Instruyo a mi hija, la formo.",
+              "answer": "EDUCO"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Correr en inglés.",
+              "answer": "RUN"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Las fronteras de Egipto.",
+              "answer": "EO"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Estilo tipográfico.",
+              "answer": "NEGRITA"
+            },
+            "65": {
+              "col": 8,
+              "row": 13,
+              "clue": "Dividir en mitades.",
+              "answer": "PARTIR"
+            },
+            "67": {
+              "col": 2,
+              "row": 14,
+              "clue": "Desconfiada, insegura.",
+              "answer": "CELOSA"
+            },
+            "68": {
+              "col": 9,
+              "row": 14,
+              "clue": "Propietario de un bien.",
+              "answer": "DUEÑO"
+            }
+          }
+        },
+        "vertical_clues": "1-Catalizó un proceso.\r\n2-Iniciales del actor que interpreta a Harry Potter.\r\n3-Que merece respeto y admiración. \r\n4-El tonto viene subiendo.\r\n5-Natural de Catar.\r\n7-Trasladó algo hacia acá.\r\n8-Tranquilo y sin tensiones. \r\n9-Asociación de Tontos Unidos por Conveniencia.\r\n10-Rompe las moléculas de un hidrocarburo, calentándolo.\r\n11-Las fronteras de Argelia.\r\n14-Padre del cónyuge. \r\n15-Apetezca, desee, anhele.\r\n16-Fruta tropical también llamada maracuyá. \r\n21-Compuesto que resulta de sustituir un átomo de hidrógeno del amoniaco.\r\n22-En la parte interna.\r\n24-Figura de cultura.\r\n27-Loterías y Apuestas del Estado.\r\n30-Famoso caballo.\r\n32-Estampo mi rúbrica en un documento. \r\n35-Sin aptitud para cierta actividad. \r\n37-Total y completo. \r\n39-Alimentan y cuidan a sus animales, los...\r\n40-Que sucede después de lo esperado. \r\n41-Gorro usado por eclesiásticos. \r\n42-Col. y Vzla. Coloquial. Bueno, agradable, simpático.\r\n43-Un cable con 3 puntas no es inteligente.\r\n45-Figura masculina que sostiene una estructura. \r\n46-Dueño de una tienda de comestibles.\r\n47-Dulce de pan deshecho en leche con azúcar y frutas secas.\r\n48-Abreviatura de Caracas.\r\n50-Contad lo sucedido.\r\n53-Obtienes, logras.\r\n56-Antiguos romanos. Magistrado encargado de las obras públicas.\r\n58-Maestro espiritual o jefe religioso del hinduismo.\r\n64-Gonzalo Conde (alias Bizarrap).\r\n66-Piña pelada.",
+        "horizontal_clues": "1-Voz latina que significa \"para este propósito\" o \"para esto\".\r\n6-Llega al puerto, un barco.\r\n12-Haces inoxidables los objetos, bañándolos con cierto metal blanco plateado y brillante.\r\n13-Se demora y eso le restará erratas.\r\n16-Pelo quebradizo.\r\n17-Dominio genérico de Internet.\r\n18-Valora, señala el precio.\r\n19-Algún artículo.\r\n20-Preocupad, alertad.\r\n23-\"... Cousteau\" el oceanógrafo más famoso del mundo (1910-97).\r\n25-Brazo de canoa.\r\n26-Lo es un Omega o un Patek Philippe.\r\n28-Apremié, apuré, obligué,. \r\n29-La Pedroche.\r\n31-Era fea, pero yo la pondré peor.\r\n33-GOT. Personaje que cargó y protegió, a Bran Stark.\r\n34-Colgaba la ropa al sol.\r\n36-Orden de Agustinos Recoletos.\r\n38-Es peor sin capital.\r\n42-Ser mitad humano, mitad máquina. \r\n44-\"... Etura\" actriz española, Goya por la peli 'Celda 211'. \r\n47-Están enfermas por unas frutas dañadas.\r\n49-Sombrero de paja con ala recta. \r\n51-Amarra, enlaza a los bueyes, los...\r\n52-Temeraria, atrevida.\r\n54-Lugar, país, región en inglés. \r\n55-Revela un secreto. \r\n57-Tela fina y transparente. \r\n59-Novela de Stephen King, sobre un payaso aterrador.\r\n60-Instruyo a mi hija, la formo.\r\n61-Correr en inglés.\r\n62-Las fronteras de Egipto.\r\n63-Estilo tipográfico.\r\n65-Dividir en mitades.\r\n67-Desconfiada, insegura.\r\n68-Propietario de un bien.",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,11,#,#\r\n#,12,#,#,#,#,#,#,13,#,#,#,#,14,15\r\n16,#,#,17,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,22,#,23,#,#,#,24,#,#\r\n25,#,#,#,#,26,#,27,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,#,31,32,#,#,#,#\r\n33,#,#,#,#,#,34,#,35,#,#,#,#,#,#\r\n#,#,#,#,36,37,#,#,38,#,#,#,39,#,40\r\n#,41,#,42,#,#,#,43,#,#,44,45,#,46,#\r\n47,#,48,#,#,#,#,49,#,50,#,#,#,#,#\r\n51,#,#,#,#,52,53,#,#,#,#,54,#,#,#\r\n55,#,#,#,56,#,#,#,57,#,58,#,#,#,#\r\n59,#,#,60,#,#,#,#,#,61,#,#,#,62,#\r\n63,#,64,#,#,#,#,#,65,#,#,#,66,#,#\r\n#,#,67,#,#,#,#,#,#,68,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 933,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-20T05:19:53.918671Z",
+      "updatedAt": "2024-09-20T05:19:53.918691Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-25",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AMPOLLAS#REPTAN\r\nCARRIOLA#EQUINO\r\nANE#DIBU#TURRON\r\nMDMA#SUDARIO#MA\r\nPAINT#MITOS#BAG\r\nORATE##ER##HALO\r\n###ESCUSA#AURON\r\nSOCOLOR#INMENSO\r\nOREJA#EVADAS###\r\nCEDO##TE##OPACA\r\nINI#TORGA#SECAD\r\nAS#MICAELA#DUNA\r\nLAPEPA#TONO#DAN\r\nENEMAS#ANDROIDE\r\nSOPESO#LEYENDAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pernoctó en una tienda de campaña al aire libre.",
+              "answer": "ACAMPO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Ejercer autoridad o dar órdenes.",
+              "answer": "MANDAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Otorga un galardón o recompensa.",
+              "answer": "PREMIA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Río que pasa por Rusia y Kazajistán.",
+              "answer": "OR"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Combate, pelea, pugna.",
+              "answer": "LID"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "La novia de Clark Kent.",
+              "answer": "LOIS"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Libro que guarda fotografías.",
+              "answer": "ALBUM"
+            },
+            "8": {
+              "col": 7,
+              "row": 0,
+              "clue": "Nacidos en el país donde se encuentra La Meca.",
+              "answer": "SAUDIES"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Modas pasadas.",
+              "answer": "RETRO"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "En Roma, esta es una letra de diez.",
+              "answer": "EQUIS"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Casto, ajeno a la sensualidad.",
+              "answer": "PURO"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "En Tirana y en Tirol.",
+              "answer": "TIR"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Irregulares, extraños.",
+              "answer": "ANOMALOS"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Polígono de nueve lados.",
+              "answer": "NONAGONO"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Lente, lupa.",
+              "answer": "ANTEOJO"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Ganaba el afecto, gusto o atención de otro.",
+              "answer": "ATRAIA"
+            },
+            "26": {
+              "col": 4,
+              "row": 4,
+              "clue": "Apellido de científico serbio que inventó la base de conexión inalámbrica de electricidad.",
+              "answer": "TESLA"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Física. Área de la sección transversal del núcleo de un átomo de uranio.",
+              "answer": "BARN"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Vegetal o animal en cuyo cuerpo se aloja un parásito.",
+              "answer": "HUESPED"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Símbolo químico del cobalto.",
+              "answer": "CO"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Conducto por el que pasa la orina.",
+              "answer": "URETRA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"... los unos a los otros\".",
+              "answer": "AMAOS"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Clases...\"  peldaños en que se puede estratificar la sociedad.",
+              "answer": "SOCIALES"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Un tipo de Orense.",
+              "answer": "ORENSANO"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Le di mi derecho sin cobro alguno, le...",
+              "answer": "CEDI"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Ando sin límites.",
+              "answer": "ND"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "El reino de las plantas.",
+              "answer": "VEGETAL"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Id, asistid.",
+              "answer": "ACUDID"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "País más septentrional del mundo.",
+              "answer": "CANADA"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Muchos que se creen Adán.",
+              "answer": "ADANES"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Agitada pista sobre mujeres adultas.",
+              "answer": "TIPAS"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Puesta del Sol.",
+              "answer": "OCASO"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"Paul...\" cantautor navarro del sencillo '¿Te acuerdas?'.",
+              "answer": "ALONE"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Imagen viral y graciosa que se publica en las redes.",
+              "answer": "MEME"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"... García\" en Ocean's Eleven y en el Padrino III.",
+              "answer": "ANDY"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Actual DT del Manchester City.",
+              "answer": "PEP"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Diríjase a una divinidad.",
+              "answer": "ORE"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Cola de camaleón.",
+              "answer": "ON"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lesiones en la piel llenas de líquido.",
+              "answer": "AMPOLLAS"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Se arrastran como reptiles.",
+              "answer": "REPTAN"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Vehículo pequeño para transportar bebés.",
+              "answer": "CARRIOLA"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Relativo a los caballos.",
+              "answer": "EQUINO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Antes de Nuestra Era (siglas).",
+              "answer": "ANE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "\"El... Martínez\" portero de la selección argentina.",
+              "answer": "DIBU"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "El postre navideño más popular.",
+              "answer": "TURRON"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Nomenclatura de la droga conocida como éxtasis.",
+              "answer": "MDMA"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "\"... de Turín\" supuesta tela que cubrió a Jesucristo.",
+              "answer": "SUDARIO"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Iniciales del emperador romano autor de 'Meditaciones'.",
+              "answer": "MA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"",
+              "answer": "PAINT"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "Es común que acompañen a la leyendas.",
+              "answer": "MITOS"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Bolso en inglés.",
+              "answer": "BAG"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Persona demente.",
+              "answer": "ORATE"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Símbolo químico de Erbio.",
+              "answer": "ER"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Videojuego tipo shooter cuyo personaje es Master Chief.",
+              "answer": "HALO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Parece una excusa, pero esta ventaja es por mi condición de especial.",
+              "answer": "ESCUSA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"__play\" el streamer español.",
+              "answer": "AURON"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Pretexto para disimular el motivo de una acción.",
+              "answer": "SOCOLOR"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "De tamaño extraordinariamente grande.",
+              "answer": "INMENSO"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Se la quitó Van Gogh.",
+              "answer": "OREJA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Esquives, evites un daño o peligro.",
+              "answer": "EVADAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Doy mi brazo a torcer.",
+              "answer": "CEDO"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Teluro.",
+              "answer": "TE"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ella ha perdido su brillo, está...",
+              "answer": "OPACA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Iniesta se ausenta.",
+              "answer": "INI"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Horca que se pone al cuello de los perros para que no salten las cercas.",
+              "answer": "TORGA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Extraed la humedad.",
+              "answer": "SECAD"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Carta de cada palo que lleva el número uno.",
+              "answer": "AS"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Canción con nombre de mujer de la Sonora Carruseles de Colombia.",
+              "answer": "MICAELA"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Colina de arena.",
+              "answer": "DUNA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "La Constitución Española de 1812, conocida como... (2p).",
+              "answer": "LAPEPA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Cualidad de los sonidos, que permite ordenarlos.",
+              "answer": "TONO"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"... Stevens\" Emma fue La Bella y él, La Bestia.",
+              "answer": "DAN"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Medicamento líquido que se introduce por el ano (pl).",
+              "answer": "ENEMAS"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Robot con apariencia humana.",
+              "answer": "ANDROIDE"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Examino con atención los pro y los contra de un asunto.",
+              "answer": "SOPESO"
+            },
+            "68": {
+              "col": 7,
+              "row": 14,
+              "clue": "Narraciones tradicionales de sucesos fantásticos.",
+              "answer": "LEYENDAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Pernoctó en una tienda de campaña al aire libre.\r\n2-Ejercer autoridad o dar órdenes. \r\n3-Otorga un galardón o recompensa. \r\n4-Río que pasa por Rusia y Kazajistán.\r\n5-Combate, pelea, pugna.\r\n6-La novia de Clark Kent.\r\n7-Libro que guarda fotografías.\r\n8-Nacidos en el país donde se encuentra La Meca.\r\n9-Modas pasadas.\r\n10-En Roma, esta es una letra de diez.\r\n11-Casto, ajeno a la sensualidad.\r\n12-En Tirana y en Tirol.\r\n13-Irregulares, extraños.\r\n14-Polígono de nueve lados.\r\n21-Lente, lupa.\r\n23-Ganaba el afecto, gusto o atención de otro.\r\n26-Apellido de científico serbio que inventó la base de conexión inalámbrica de electricidad.\r\n28-Física. Área de la sección transversal del núcleo de un átomo de uranio.\r\n31-Vegetal o animal en cuyo cuerpo se aloja un parásito. \r\n33-Símbolo químico del cobalto.\r\n34-Conducto por el que pasa la orina.\r\n35-\"... los unos a los otros\".\r\n36-\"Clases...\"  peldaños en que se puede estratificar la sociedad.\r\n37-Un tipo de Orense.\r\n38-Le di mi derecho sin cobro alguno, le...\r\n40-Ando sin límites.\r\n43-El reino de las plantas.\r\n47-Id, asistid.\r\n48-País más septentrional del mundo.\r\n49-Muchos que se creen Adán.\r\n51-Agitada pista sobre mujeres adultas.\r\n52-Puesta del Sol.\r\n53-\"Paul...\" cantautor navarro del sencillo '¿Te acuerdas?'. \r\n56-Imagen viral y graciosa que se publica en las redes.\r\n57-\"... García\" en Ocean's Eleven y en el Padrino III.\r\n60-Actual DT del Manchester City.\r\n62-Diríjase a una divinidad.\r\n66-Cola de camaleón.",
+        "horizontal_clues": "1-Lesiones en la piel llenas de líquido. \r\n9-Se arrastran como reptiles.\r\n15-Vehículo pequeño para transportar bebés. \r\n16-Relativo a los caballos. \r\n17-Antes de Nuestra Era (siglas).\r\n18-\"El... Martínez\" portero de la selección argentina.\r\n19-El postre navideño más popular.\r\n20-Nomenclatura de la droga conocida como éxtasis.\r\n22-\"... de Turín\" supuesta tela que cubrió a Jesucristo.\r\n24-Iniciales del emperador romano autor de 'Meditaciones'.\r\n25-\"-ball\" juego de estrategia. Se disparan bolas de pintura.\r\n27-Es común que acompañen a la leyendas.\r\n28-Bolso en inglés.\r\n29-Persona demente.\r\n30-Símbolo químico de Erbio.\r\n31-Videojuego tipo shooter cuyo personaje es Master Chief.\r\n32-Parece una excusa, pero esta ventaja es por mi condición de especial.\r\n35-\"__play\" el streamer español.\r\n36-Pretexto para disimular el motivo de una acción.\r\n39-De tamaño extraordinariamente grande. \r\n41-Se la quitó Van Gogh.\r\n42-Esquives, evites un daño o peligro.\r\n44-Doy mi brazo a torcer. \r\n45-Teluro.\r\n46-Ella ha perdido su brillo, está...\r\n50-Iniesta se ausenta.\r\n51-Horca que se pone al cuello de los perros para que no salten las cercas.\r\n54-Extraed la humedad.\r\n55-Carta de cada palo que lleva el número uno.\r\n56-Canción con nombre de mujer de la Sonora Carruseles de Colombia.\r\n58-Colina de arena.\r\n59-La Constitución Española de 1812, conocida como... (2p).\r\n61-Cualidad de los sonidos, que permite ordenarlos.\r\n63-\"... Stevens\" Emma fue La Bella y él, La Bestia.\r\n64-Medicamento líquido que se introduce por el ano (pl).\r\n65-Robot con apariencia humana. \r\n67-Examino con atención los pro y los contra de un asunto.\r\n68-Narraciones tradicionales de sucesos fantásticos.",
+        "board_clues_positions": "1,2,3,4,5,6,7,8,#,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,#,#,16,#,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,19,#,#,#,#,#\r\n20,#,#,21,#,22,#,#,23,#,#,#,#,24,#\r\n25,#,#,#,26,#,27,#,#,#,#,#,28,#,#\r\n29,#,#,#,#,#,#,30,#,#,#,31,#,#,#\r\n#,#,#,32,#,33,34,#,#,#,35,#,#,#,#\r\n36,37,38,#,#,#,#,#,39,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,#,#,#,#,#,#,#\r\n44,#,#,#,#,#,45,#,#,#,46,#,47,48,49\r\n50,#,#,#,51,52,#,#,53,#,54,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,57,#,58,#,#,#\r\n59,#,60,#,#,#,#,61,#,#,62,#,63,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,66,#,#,#\r\n67,#,#,#,#,#,#,68,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

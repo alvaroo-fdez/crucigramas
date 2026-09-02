@@ -1,0 +1,487 @@
+{
+  "data": {
+    "id": 6213,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-10T20:37:16.623053Z",
+      "updatedAt": "2026-06-10T20:41:59.096632Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-11",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#OHYONO#SACADA#\r\nAPLACAR#ILOGICO\r\nPE#LUCIR#HRA#EP\r\nORT#REGALAR#ATI\r\nRECORRER#REFRAN\r\nITALIANA#ADOPTE\r\nAA#I###S#CORION\r\n##AMBOS#MAREA##\r\nPALPAR#M###N#OT\r\nACEITA#APAISADO\r\nMIJAIL#MALDECIR\r\nEEE#DIVAGUE#TAP\r\nLR#TOD#SUMAS#RE\r\nATERRAR#ENSAYAS\r\n#OJEADO#SAETAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Ópera cómica",
+              "answer": "OPERETA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo del hectolitro",
+              "answer": "HL"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Puerto Rico Chica que le gusta y vive el reguetón",
+              "answer": "YAL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Acontecí, sucedí",
+              "answer": "OCURRI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Vendrá al mundo",
+              "answer": "NACERA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Película protagonizada por DiCaprio que hace referencia a los sueños",
+              "answer": "ORIGEN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "La última de la escala musical",
+              "answer": "SI"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Mucho ruido y poca sustancia",
+              "answer": "ALHARACA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Maratonista de pasillo",
+              "answer": "CORREDOR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Amazon, Google y Apple",
+              "answer": "AGA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Este disco se graba en vivo y luego la copia es en vinilo",
+              "answer": "ACETATO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fil Razonamiento irresoluble, inviable",
+              "answer": "APORIA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Expresen sus ideas",
+              "answer": "OPINEN"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "\"Tierras…\" conjunto de 17 elementos químicos, hoy indispensables",
+              "answer": "RARAS"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Trastorno de Conducta Alimentaria (siglas)",
+              "answer": "TCA"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "Ave fabulosa, con rostro de mujer y cuerpo de águila",
+              "answer": "ARPIA"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "Ciudad griega sede de los primeros Juegos Olímpicos de la historia",
+              "answer": "OLIMPIA"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Medicina legal, medicina…",
+              "answer": "FORENSE"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Distancié, ahuyenté",
+              "answer": "ALEJE"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "¿Con qué hace licuados Batman?",
+              "answer": "BATIDORA"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Tradición hablada, la…",
+              "answer": "ORALIDAD"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "En la cabeza de una dama elegante, tapa el sol pero no la gracia",
+              "answer": "PAMELA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Doy en el blanco",
+              "answer": "ACIERTO"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Las más operadas",
+              "answer": "MAMAS"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Repelerás, rechazarás",
+              "answer": "ODIARAS"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "No se desenvuelven con destreza, son muy…",
+              "answer": "TORPES"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Extingas la deuda",
+              "answer": "PAGUES"
+            },
+            "45": {
+              "col": 9,
+              "row": 9,
+              "clue": "Una estudiante",
+              "answer": "ALUMNA"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Crease en el pensamiento",
+              "answer": "IDEASE"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Acto interrumpido",
+              "answer": "ACT"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Trepar, pero de uno en uno",
+              "answer": "TRE"
+            },
+            "56": {
+              "col": 11,
+              "row": 12,
+              "clue": "¿Un satélite para todos?",
+              "answer": "SAT"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Ernst Jünger es un pequeño ejemplo",
+              "answer": "EJ"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "¡Corta el rollo!",
+              "answer": "RO"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Enseguida",
+              "answer": "YA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Yo ya estoy deseando tener niños, ¿Y tú Quique? … \" Manu Chao (3p)",
+              "answer": "OHYONO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Puesta fuera del lugar donde estaba",
+              "answer": "SACADA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Calmar, mitigar, por ejemplo el frío",
+              "answer": "APLACAR"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Absurdo, incoherente",
+              "answer": "ILOGICO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic de narco colombiano apodado \"El Patrón\"",
+              "answer": "PE"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Se va a destacar tanto, que va a brillar",
+              "answer": "LUCIR"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "\"… Pharma\" farmacéutica francesa",
+              "answer": "HRA"
+            },
+            "20": {
+              "col": 13,
+              "row": 2,
+              "clue": "Elsa Pito",
+              "answer": "EP"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Dejé un poco de queso Roquefort",
+              "answer": "ORT"
+            },
+            "23": {
+              "col": 4,
+              "row": 3,
+              "clue": "Obsequiar",
+              "answer": "REGALAR"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "Una tía loquísima",
+              "answer": "ATI"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Transitar, atravesar",
+              "answer": "RECORRER"
+            },
+            "27": {
+              "col": 9,
+              "row": 4,
+              "clue": "Dicho agudo y sentencioso de uso común",
+              "answer": "REFRAN"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo es Sofía Loren o Chiara Ferragni",
+              "answer": "ITALIANA"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "En cierta forma lo he petado porque asumí esa actitud",
+              "answer": "ADOPTE"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Capa embrionaria",
+              "answer": "CORION"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "El uno y el otro, los dos",
+              "answer": "AMBOS"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Cambio producido por la luna y el sol en el mar",
+              "answer": "MAREA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Tocar un órgano",
+              "answer": "PALPAR"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Un complot por el oriente",
+              "answer": "OT"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Unta con aceite",
+              "answer": "ACEITA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Bakunin o Gorbachov",
+              "answer": "MIJAIL"
+            },
+            "49": {
+              "col": 7,
+              "row": 10,
+              "clue": "¡Maldita sea! el verbo de esa bruja",
+              "answer": "MALDECIR"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Se repiten de septiembre",
+              "answer": "EEE"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Hablé sin concierto ni propósito fijo",
+              "answer": "DIVAGUE"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "Lo tapa, casi todo",
+              "answer": "TAP"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Inic del fundador del grupo automovilístico Renault",
+              "answer": "LR"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "Casi todo",
+              "answer": "TOD"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "Reúnes en una sola varias cantidades homogéneas",
+              "answer": "SUMAS"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales en el asunto del email, al ser una respuesta",
+              "answer": "RE"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Se va a horrorizar al poner los pies en la tierra",
+              "answer": "ATERRAR"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Te preparas para una obra teatral",
+              "answer": "ENSAYAS"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Visto así, por encima",
+              "answer": "OJEADO"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Agujas del reloj",
+              "answer": "SAETAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Ópera cómica\r\n2-Símbolo del hectolitro\r\n3-Puerto Rico: Chica que le gusta y vive el reguetón\r\n4-Acontecí, sucedí\r\n5-Vendrá al mundo\r\n6-Película protagonizada por DiCaprio que hace referencia a los sueños\r\n7-La última de la escala musical\r\n8-Mucho ruido y poca sustancia\r\n9-Maratonista de pasillo\r\n10-Amazon, Google y Apple\r\n11-Pronuncia 501 en romano antiguo\r\n12-Este disco se graba en vivo y luego la copia es en vinilo\r\n13-Fil Razonamiento irresoluble, inviable\r\n15-Expresen sus ideas\r\n18-\"Tierras…\" conjunto de 17 elementos químicos, hoy indispensables\r\n22-Trastorno de Conducta Alimentaria (siglas)\r\n24-Ave fabulosa, con rostro de mujer y cuerpo de águila\r\n26-Ciudad griega sede de los primeros Juegos Olímpicos de la historia\r\n28-Medicina legal, medicina…\r\n33-Distancié, ahuyenté\r\n34-¿Con qué hace licuados Batman?\r\n35-Tradición hablada, la…\r\n37-En la cabeza de una dama elegante, tapa el sol, pero no la gracia\r\n38-Doy en el blanco\r\n39-Las más operadas \r\n40-Repelerás, rechazarás\r\n41-No se desenvuelven con destreza, son muy…\r\n44-Extingas la deuda\r\n45-Una estudiante\r\n46-Créase en el pensamiento\r\n47-Acto interrumpido \r\n54-Trepar, pero de uno en uno\r\n56-¿Un satélite para todos? \r\n59-Ernst Jünger es un pequeño ejemplo\r\n60-¡Corta el rollo! \r\n62-Enseguida",
+        "horizontal_clues": "1-\"Yo ya estoy deseando tener niños, ¿y tú, Quique? … \" Manu Chao (3p) \r\n7-Puesta fuera del lugar donde estaba\r\n13-Calmar, mitigar, por ejemplo, el frío\r\n14-Absurdo, incoherente\r\n16-Inic de narco colombiano apodado \"El Patrón\"\r\n17-Se va a destacar tanto, que va a brillar\r\n19-\"… Pharma\" farmacéutica francesa\r\n20-Elsa Pito\r\n21-Dejé un poco de queso Roquefort\r\n23-Obsequiar\r\n24-Una tía loquísima\r\n25-Transitar, atravesar\r\n27-Dicho agudo y sentencioso de uso común\r\n29-Lo es Sofía Loren o Chiara Ferragni \r\n30-En cierta forma lo he petado porque asumí esa actitud\r\n31-Alcohólicos Anónimos\r\n32-Capa embrionaria\r\n33-El uno y el otro, los dos\r\n36-Cambio producido por la luna y el sol en el mar\r\n37-Tocar un órgano\r\n40-Un complot por el oriente\r\n42-Unta con aceite\r\n48-Bakunin o Gorbachov\r\n49-¡Maldita sea! el verbo de esa bruja \r\n50-Se repiten de septiembre\r\n51-Hablé sin concierto ni propósito fijo\r\n52-Lo tapa, casi todo\r\n53-Inic del fundador del grupo automovilístico Renault\r\n54-Casi todo\r\n55-Reúnes en una sola varias cantidades homogéneas\r\n57-Iniciales en el asunto del email, al ser una respuesta\r\n58-Se va a horrorizar al poner los pies en la tierra\r\n61-Te preparas para una obra teatral\r\n63-Visto así, por encima\r\n64-Agujas del reloj",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,17,#,#,#,18,#,19,#,#,#,20,#\r\n21,#,22,#,23,#,#,#,#,#,#,#,24,#,#\r\n25,#,#,26,#,#,#,#,#,27,#,28,#,#,#\r\n29,#,#,#,#,#,#,#,#,30,#,#,#,#,#\r\n31,#,#,#,#,#,#,#,#,32,#,#,#,#,#\r\n#,#,33,#,34,35,#,#,36,#,#,#,#,#,#\r\n37,38,#,#,#,#,#,39,#,#,#,#,#,40,41\r\n42,#,#,#,#,#,#,#,44,45,46,#,47,#,#\r\n48,#,#,#,#,#,#,49,#,#,#,#,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,#,#,52,#,#\r\n53,#,#,54,#,#,#,55,#,#,#,56,#,57,#\r\n58,#,59,#,#,#,60,#,61,#,#,#,62,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

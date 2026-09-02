@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 5053,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-07T09:16:15.025716Z",
+      "updatedAt": "2026-03-07T09:20:27.050636Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-08",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ESTILETE#CALMAR\r\nSORBERE#DESFILE\r\nCLAMOR#HORNEROS\r\nUTI#NOTORIO#AJO\r\nPENE#RIPIO#VIAL\r\nIRISA#OEA#DESDA\r\n#ANCLAS#NOIR#ON\r\nT#GOGO###LGTB#A\r\nIM#BUAH#SENIOR#\r\nTOMAN#EMU#ACNES\r\nITES#KLIMT#EITO\r\nCID#ORARAIS#FEM\r\nAVISPADO#MATINE\r\nCACATUA#PADECER\r\nAROMAS#ORDENADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Espeté saliva por la boca",
+              "answer": "ESCUPI"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sin novio, la chica",
+              "answer": "SOLTERA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "El entrenamiento es con el inglés",
+              "answer": "TRAINING"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Empresa creadora del primer procesador cuántico de uso comercial",
+              "answer": "IBM"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Rey de la sabana",
+              "answer": "LEON"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Los es el 404, en las páginas web",
+              "answer": "ERROR"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Elemento químico con símbolo Ce",
+              "answer": "CERIO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "¿Un burro sano?",
+              "answer": "ASNO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Low Frequency Effects",
+              "answer": "LFE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Observáis si rima todo junto",
+              "answer": "MIRAIS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Hospedado temporalmente en un lugar",
+              "answer": "ALOJADO"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Resol",
+              "answer": "RESOLANA"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"El retrato de… Gray\", de Oscar Wilde",
+              "answer": "DORIAN"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "La esperanza de un inglés",
+              "answer": "HOPE"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Hermanos de su padre o madre",
+              "answer": "TIOS"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Instrumentos para barrer",
+              "answer": "ESCOBAS"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Punto donde se unen dos lados de un ángulo",
+              "answer": "VERTICE"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Apócope de alguno",
+              "answer": "ALGUN"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Digan lo que digan, es merecedora",
+              "answer": "DIGNA"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Ahora va sin consonantes",
+              "answer": "AOA"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Voz usada para animar las corridas de toros",
+              "answer": "OLE"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lago entre Bolivia y Perú",
+              "answer": "TITICACA"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Toma en cuenta y asienta una partida en el haber",
+              "answer": "BONIFICA"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Impulsar el desempeño mediante estímulos",
+              "answer": "MOTIVAR"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Muy fría",
+              "answer": "HELADA"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Matemática: Resultado de añadir a una cantidad otra",
+              "answer": "SUMA"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Guardad sus documentos, aunque ellos se nieguen",
+              "answer": "RETENED"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Persona legalmente autorizada para ejercer la medicina",
+              "answer": "MEDICO"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Romi rimó y yo morí cuando me vio",
+              "answer": "MIRO"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "Ligero, superficial",
+              "answer": "SOMERO"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Alfredo …\" fue un tenor lírico de Las Palmas de Gran Canaria",
+              "answer": "KRAUS"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Dejad sin un euro mediante un engaño",
+              "answer": "TIMAD"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Elige al pato loco",
+              "answer": "OPTA"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "El divino marqués",
+              "answer": "SADE"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"… Bigotes\" pistolero malhumorado de los Looney Tunes",
+              "answer": "SAM"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "Toma 10 dólares",
+              "answer": "TEN"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Dominio web para Puerto Rico",
+              "answer": "PR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cuchilla pequeña para cortar con estilo",
+              "answer": "ESTILETE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Sosegar, adormecer",
+              "answer": "CALMAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Beberé con pajita",
+              "answer": "SORBERE"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Procesión sobre la pasarela",
+              "answer": "DESFILE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Toque de campanas por los difuntos",
+              "answer": "CLAMOR"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Hombres que tienen por oficio cocer pan y templar para ello el horno",
+              "answer": "HORNEROS"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Unidad de Terapia Intensiva",
+              "answer": "UTI"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Aquí hay un Ión Roto y es muy evidente",
+              "answer": "NOTORIO"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Este diente espanta vampiros",
+              "answer": "AJO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Órgano copulador del hombre",
+              "answer": "PENE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Residuo que queda de algo",
+              "answer": "RIPIO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Calle formada por dos filas paralelas de árboles",
+              "answer": "VIAL"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Presenta reflejos de luz con colores como el arcoíris",
+              "answer": "IRISA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Organización de Estados Americanos (siglas)",
+              "answer": "OEA"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Da vueltas, en sentido inverso, a un manubrio",
+              "answer": "DESDA"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Instrumento fuerte de hierro forjado para aferrarse al fondo del mar (pl)",
+              "answer": "ANCLAS"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Negro en francés",
+              "answer": "NOIR"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Cola de camaleón",
+              "answer": "ON"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Bailarina profesional de una discoteca",
+              "answer": "GOGO"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Movimiento social de las Lesbianas, Gais, Trans y Bisexuales",
+              "answer": "LGTB"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "De Íñigo Martínez y de Iker Muniain",
+              "answer": "IM"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"… chaval\" expresión coloquial",
+              "answer": "BUAH"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Deportista de categoría y edad superiores",
+              "answer": "SENIOR"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cogen el manto arrugado",
+              "answer": "TOMAN"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Ave casi tan grande como el avestruz",
+              "answer": "EMU"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Enfermedad de la piel (pl)",
+              "answer": "ACNES"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo invites a la final",
+              "answer": "ITES"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Pintor austríaco, autor de \"El Beso\"",
+              "answer": "KLIMT"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Se termina el pleito",
+              "answer": "EITO"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "El Campeador",
+              "answer": "CID"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Suplicarais a los dioses",
+              "answer": "ORARAIS"
+            },
+            "58": {
+              "col": 12,
+              "row": 11,
+              "clue": "Acortamiento de femenino",
+              "answer": "FEM"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Que aprende rápido y se da cuenta enseguida de lo que ocurre",
+              "answer": "AVISPADO"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Fiesta celebrada en las primeras horas de la tarde",
+              "answer": "MATINE"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ave blanca de penacho eréctil, parecida al loro",
+              "answer": "CACATUA"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Tener una enfermedad, sufrir de algo",
+              "answer": "PADECER"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Olores agradables, perfumes",
+              "answer": "AROMAS"
+            },
+            "66": {
+              "col": 7,
+              "row": 14,
+              "clue": "Le han impuesto que sea metódico",
+              "answer": "ORDENADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Espeté saliva por la boca\r\n2-Sin novio, la chica\r\n3-El entrenamiento es con el inglés \r\n4-Empresa creadora del primer procesador cuántico de uso comercial\r\n5-Rey de la sabana\r\n6-Los es el 404, en las páginas web\r\n7-Teluro\r\n8-Elemento químico con símbolo Ce\r\n9-¿Un burro sano? \r\n10-Low Frequency Effects\r\n11-Observáis si rima todo junto\r\n12-Hospedado temporalmente en un lugar\r\n13-Resol\r\n15-\"El retrato de… Gray\", de Oscar Wilde\r\n17-La esperanza de un inglés\r\n20-Hermanos de su padre o madre\r\n23-Instrumentos para barrer\r\n25-Punto donde se unen dos lados de un ángulo \r\n27-Apócope de alguno\r\n29-Digan lo que digan, es merecedora\r\n31-Ahora va sin consonantes\r\n33-Voz usada para animar las corridas de toros\r\n35-Lago entre Bolivia y Perú\r\n38-Toma en cuenta y asienta una partida en el haber\r\n40-Impulsar el desempeño mediante estímulos \r\n42-Muy fría\r\n43-Matemática: Resultado de añadir a una cantidad otra\r\n44-Guardad sus documentos, aunque ellos se nieguen\r\n46-Persona legalmente autorizada para ejercer la medicina\r\n48-Romi rimó y yo morí cuando me vio\r\n50-Ligero, superficial\r\n52-\"Alfredo …\" fue un tenor lírico de Las Palmas de Gran Canaria\r\n53-Dejad sin un euro mediante un engaño\r\n56-Elige al pato loco\r\n57-El divino marqués\r\n60-\"… Bigotes\" pistolero malhumorado de los Looney Tunes\r\n62-Toma 10 dólares\r\n64-Dominio web para Puerto Rico",
+        "horizontal_clues": "1-Cuchilla pequeña para cortar con estilo \r\n8-Sosegar, adormecer\r\n14-Beberé con pajita\r\n15-Procesión sobre la pasarela\r\n16-Toque de campanas por los difuntos\r\n17-Hombres que tienen por oficio cocer pan y templar para ello el horno\r\n18-Unidad de Terapia Intensiva\r\n19-Aquí hay un Ión Roto y es muy evidente\r\n21-Este diente espanta vampiros\r\n22-Órgano copulador del hombre\r\n24-Residuo que queda de algo\r\n25-Calle formada por dos filas paralelas de árboles\r\n26-Presenta reflejos de luz con colores como el arcoíris\r\n28-Organización de Estados Americanos (siglas)\r\n29-Da vueltas, en sentido inverso, a un manubrio\r\n30-Instrumento fuerte de hierro forjado para aferrarse al fondo del mar (pl)\r\n32-Negro en francés\r\n34-Cola de camaleón\r\n36-Bailarina profesional de una discoteca\r\n37-Movimiento social de las Lesbianas, Gais, Trans y Bisexuales\r\n39-De Íñigo Martínez y de Iker Muniain\r\n41-\"… chaval\" expresión coloquial\r\n43-Deportista de categoría y edad superiores\r\n45-Cogen el manto arrugado \r\n47-Ave casi tan grande como el avestruz\r\n49-Enfermedad de la piel (pl)\r\n51-Lo invites a la final\r\n52-Pintor austríaco, autor de \"El Beso\"\r\n54-Se termina el pleito\r\n55-El Campeador\r\n56-Suplicarais a los dioses \r\n58-Acortamiento de femenino\r\n59-Que aprende rápido y se da cuenta enseguida de lo que ocurre \r\n61-Fiesta celebrada en las primeras horas de la tarde\r\n63-Ave blanca de penacho eréctil, parecida al loro\r\n64-Tener una enfermedad, sufrir de algo\r\n65-Olores agradables, perfumes\r\n66-Le han impuesto que sea metódico",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,17,#,#,#,#,#,#,#\r\n18,#,#,#,19,#,20,#,#,#,#,#,21,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,28,#,#,#,29,#,#,#,#\r\n#,30,#,#,#,31,#,#,32,33,#,#,#,34,#\r\n35,#,36,#,#,#,#,#,#,37,#,#,38,#,#\r\n39,40,#,41,#,#,42,#,43,#,#,#,#,44,#\r\n45,#,46,#,#,#,47,48,#,#,49,#,#,#,50\r\n51,#,#,#,#,52,#,#,#,53,#,54,#,#,#\r\n55,#,#,#,56,#,#,#,#,#,57,#,58,#,#\r\n59,#,#,60,#,#,#,#,#,61,#,62,#,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#\r\n65,#,#,#,#,#,#,66,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

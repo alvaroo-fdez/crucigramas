@@ -1,0 +1,441 @@
+{
+  "data": {
+    "id": 1101,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-28T21:01:59.702506Z",
+      "updatedAt": "2024-10-28T21:01:59.702528Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-29",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CHAPOTEO##LEVAR\r\nO#MARINO#DIME#I\r\nALARGADO#ESPIAN\r\nCOBRASE#ESTANCO\r\nHALON##ESPALTER\r\n#RECIPROCO#MEIR\r\n###OCEANOS#ENTE\r\nMAC#ONS#LEP#AAA\r\nESAS#ACELERE###\r\nTINA#LABORISMO#\r\nRATICIDA##OPERA\r\nAGONIZO#GORILAS\r\nLONETA#SACARINA\r\nL#ATAR#AZOTAS#B\r\nALLEN##PANORAMA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Persona que asesora a otra para desarrollarse (voz inglesa).",
+              "answer": "COACH"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Agradable, con buenos modales.",
+              "answer": "AMABLE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Cura que tiene una feligresía.",
+              "answer": "PARROCO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Residuo que se descompone.",
+              "answer": "ORGANICO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Las hermanas de mamá.",
+              "answer": "TIAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"Michael...\" escritor alemán de 'La historia interminable'.",
+              "answer": "ENDE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Las luces de un semáforo.",
+              "answer": "OOO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Enumeración de regalos.",
+              "answer": "LISTA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Unión de dos elementos o piezas.",
+              "answer": "EMPALME"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Conjunto de veinte unidades.",
+              "answer": "VEINTENA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Emisión abundante de líquido por la nariz.",
+              "answer": "RINORREA"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Privar a alguien de lo que posee.",
+              "answer": "DESPOSEER"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Adular, alabar, enaltecer.",
+              "answer": "LOAR"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Unta con aceite.",
+              "answer": "ACEITA"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Obstáculo o dificultad en un proceso.",
+              "answer": "ESCOLLO"
+            },
+            "21": {
+              "col": 7,
+              "row": 4,
+              "clue": "Muchísimos años, millones.",
+              "answer": "EON"
+            },
+            "23": {
+              "col": 5,
+              "row": 5,
+              "clue": "Castigar, penar, sancionar.",
+              "answer": "PENALIZAR"
+            },
+            "24": {
+              "col": 6,
+              "row": 5,
+              "clue": "Frotado con las uñas.",
+              "answer": "RASCADO"
+            },
+            "28": {
+              "col": 0,
+              "row": 7,
+              "clue": "Fragmentos mortales de una explosión.",
+              "answer": "METRALLA"
+            },
+            "29": {
+              "col": 1,
+              "row": 7,
+              "clue": "Queso véneto (italiano).",
+              "answer": "ASIAGO"
+            },
+            "30": {
+              "col": 2,
+              "row": 7,
+              "clue": "Relativo a los cantones.",
+              "answer": "CANTONAL"
+            },
+            "33": {
+              "col": 10,
+              "row": 7,
+              "clue": "Territorio bajo la jurisdicción de un prior.",
+              "answer": "PRIORATO"
+            },
+            "36": {
+              "col": 3,
+              "row": 8,
+              "clue": "Situación tragicómica.",
+              "answer": "SAINETE"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "Aprendiendo ebanistería.",
+              "answer": "EBA"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "Exhalar, echar de sí un cuerpo de buen o mal olor.",
+              "answer": "ESPIRAR"
+            },
+            "42": {
+              "col": 12,
+              "row": 9,
+              "clue": "Sacerdotisa de Deméter.",
+              "answer": "MELISA"
+            },
+            "43": {
+              "col": 13,
+              "row": 9,
+              "clue": "Rezan a Dios.",
+              "answer": "ORAN"
+            },
+            "45": {
+              "col": 4,
+              "row": 10,
+              "clue": "Convocan con día y hora.",
+              "answer": "CITAN"
+            },
+            "47": {
+              "col": 14,
+              "row": 10,
+              "clue": "Hacía comestible un alimento por la acción directa del fuego.",
+              "answer": "ASABA"
+            },
+            "49": {
+              "col": 8,
+              "row": 11,
+              "clue": "La franja palestina.",
+              "answer": "GAZA"
+            },
+            "50": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"Pedro... de Oro\" el creador de las sopas de letras.",
+              "answer": "OCON"
+            },
+            "52": {
+              "col": 7,
+              "row": 12,
+              "clue": "Con poca sapiencia.",
+              "answer": "SAP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sonido o acción de mover el agua con fuerza y salpicadura.",
+              "answer": "CHAPOTEO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Recoger el ancla que está fondeada.",
+              "answer": "LEVAR"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Oficio de Simbad.",
+              "answer": "MARINO"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Háblame, coméntame.",
+              "answer": "DIME"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Se ha largado porque el período ha sido extendido.",
+              "answer": "ALARGADO"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "Piensa mal porque lo observan a escondidas.",
+              "answer": "ESPIAN"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pidiese el dinero.",
+              "answer": "COBRASE"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Es tan cómoda la tienda de tabaco.",
+              "answer": "ESTANCO"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tirón, movimiento rápido y fuerte.",
+              "answer": "HALON"
+            },
+            "21": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"Joaquín... y Rull\" pintor de 'La era cristiana'.",
+              "answer": "ESPALTER"
+            },
+            "22": {
+              "col": 1,
+              "row": 5,
+              "clue": "El sentimiento se corresponde, es...",
+              "answer": "RECIPROCO"
+            },
+            "25": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"Golda...\" primera y única mujer en ser primera ministra de Israel (1969",
+              "answer": "MEIR"
+            },
+            "26": {
+              "col": 3,
+              "row": 6,
+              "clue": "Masa de agua que cubre la mayor parte de la tierra (pl).",
+              "answer": "OCEANOS"
+            },
+            "27": {
+              "col": 11,
+              "row": 6,
+              "clue": "Entidad del ser.",
+              "answer": "ENTE"
+            },
+            "28": {
+              "col": 0,
+              "row": 7,
+              "clue": "Acortamiento de \"Macintosh\".",
+              "answer": "MAC"
+            },
+            "31": {
+              "col": 4,
+              "row": 7,
+              "clue": "Isla española situada en el municipio de Bueu, Galicia.",
+              "answer": "ONS"
+            },
+            "32": {
+              "col": 8,
+              "row": 7,
+              "clue": "Límites de Exposición Profesional.",
+              "answer": "LEP"
+            },
+            "34": {
+              "col": 12,
+              "row": 7,
+              "clue": "Las pilas de mando de la Tv.",
+              "answer": "AAA"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Éstas no, las otras.",
+              "answer": "ESAS"
+            },
+            "37": {
+              "col": 5,
+              "row": 8,
+              "clue": "Pisé el pedal hasta el fondo.",
+              "answer": "ACELERE"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Anita lava la...\" famoso palíndromo.",
+              "answer": "TINA"
+            },
+            "41": {
+              "col": 5,
+              "row": 9,
+              "clue": "Doctrina política enfocada en los derechos laborales.",
+              "answer": "LABORISMO"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Matarratas.",
+              "answer": "RATICIDA"
+            },
+            "46": {
+              "col": 10,
+              "row": 10,
+              "clue": "Ícono arquitectónico de Sídney.",
+              "answer": "OPERA"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Muero lenta y agobiantemente.",
+              "answer": "AGONIZO"
+            },
+            "49": {
+              "col": 8,
+              "row": 11,
+              "clue": "Los más grandes de los primates vivos.",
+              "answer": "GORILAS"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lona delgada.",
+              "answer": "LONETA"
+            },
+            "52": {
+              "col": 7,
+              "row": 12,
+              "clue": "Edulcorante artificial muy utilizado.",
+              "answer": "SACARINA"
+            },
+            "53": {
+              "col": 2,
+              "row": 13,
+              "clue": "Amarrar a la rata que sube.",
+              "answer": "ATAR"
+            },
+            "54": {
+              "col": 7,
+              "row": 13,
+              "clue": "Golpeas la espalda con una cuerda.",
+              "answer": "AZOTAS"
+            },
+            "55": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"Woody...\" dirigiendo 'Medianoche en París'.",
+              "answer": "ALLEN"
+            },
+            "56": {
+              "col": 7,
+              "row": 14,
+              "clue": "Paisaje muy dilatado.",
+              "answer": "PANORAMA"
+            }
+          }
+        },
+        "vertical_clues": "1-Persona que asesora a otra para desarrollarse (voz inglesa). \r\n2-Agradable, con buenos modales.\r\n3-Cura que tiene una feligresía.\r\n4-Residuo que se descompone.\r\n5-Las hermanas de mamá.\r\n6-\"Michael...\" escritor alemán de 'La historia interminable'.\r\n7-Las luces de un semáforo.\r\n8-Enumeración de regalos.\r\n9-Unión de dos elementos o piezas. \r\n10-Conjunto de veinte unidades. \r\n11-Emisión abundante de líquido por la nariz.\r\n13-Privar a alguien de lo que posee.\r\n15-Adular, alabar, enaltecer.\r\n17-Unta con aceite.\r\n19-Obstáculo o dificultad en un proceso. \r\n21-Muchísimos años, millones.\r\n23-Castigar, penar, sancionar.\r\n24-Frotado con las uñas.\r\n28-Fragmentos mortales de una explosión. \r\n29-Queso véneto (italiano).\r\n30-Relativo a los cantones.\r\n33-Territorio bajo la jurisdicción de un prior. \r\n36-Situación tragicómica.\r\n38-Aprendiendo ebanistería.\r\n39-Exhalar, echar de sí un cuerpo de buen o mal olor.\r\n42-Sacerdotisa de Deméter.\r\n43-Rezan a Dios.\r\n45-Convocan con día y hora.\r\n47-Hacía comestible un alimento por la acción directa del fuego.\r\n49-La franja palestina.\r\n50-\"Pedro... de Oro\" el creador de las sopas de letras.\r\n52-Con poca sapiencia.",
+        "horizontal_clues": "1-Sonido o acción de mover el agua con fuerza y salpicadura.\r\n8-Recoger el ancla que está fondeada.\r\n12-Oficio de Simbad.\r\n13-Háblame, coméntame.\r\n14-Se ha largado porque el período ha sido extendido.\r\n16-Piensa mal porque lo observan a escondidas.\r\n18-Pidiese el dinero.\r\n19-Es tan cómoda la tienda de tabaco. \r\n20-Tirón, movimiento rápido y fuerte.\r\n21-\"Joaquín... y Rull\" pintor de 'La era cristiana'.\r\n22-El sentimiento se corresponde, es...\r\n25-\"Golda...\" primera y única mujer en ser primera ministra de Israel (1969-74).\r\n26-Masa de agua que cubre la mayor parte de la tierra (pl).\r\n27-Entidad del ser.\r\n28-Acortamiento de \"Macintosh\".\r\n31-Isla española situada en el municipio de Bueu, Galicia.\r\n32-Límites de Exposición Profesional.\r\n34-Las pilas de mando de la Tv.\r\n35-Éstas no, las otras.\r\n37-Pisé el pedal hasta el fondo.\r\n40-\"Anita lava la...\" famoso palíndromo.\r\n41-Doctrina política enfocada en los derechos laborales. \r\n44-Matarratas.\r\n46-Ícono arquitectónico de Sídney.\r\n48-Muero lenta y agobiantemente.\r\n49-Los más grandes de los primates vivos.\r\n51-Lona delgada.\r\n52-Edulcorante artificial muy utilizado. \r\n53-Amarrar a la rata que sube.\r\n54-Golpeas la espalda con una cuerda.\r\n55-\"Woody...\" dirigiendo 'Medianoche en París'. \r\n56-Paisaje muy dilatado.",
+        "board_clues_positions": "1,#,2,3,4,5,6,7,#,#,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,#,13,#,#,#,#,#\r\n14,15,#,#,#,#,#,#,#,16,#,#,#,17,#\r\n18,#,#,#,#,#,#,#,19,#,#,#,#,#,#\r\n20,#,#,#,#,#,#,21,#,#,#,#,#,#,#\r\n#,22,#,#,#,23,24,#,#,#,#,25,#,#,#\r\n#,#,#,26,#,#,#,#,#,#,#,27,#,#,#\r\n28,29,30,#,31,#,#,#,32,#,33,#,34,#,#\r\n35,#,#,36,#,37,#,38,#,#,#,39,#,#,#\r\n40,#,#,#,#,41,#,#,#,#,#,#,42,43,#\r\n44,#,#,#,45,#,#,#,#,#,46,#,#,#,47\r\n48,#,#,#,#,#,#,#,49,50,#,#,#,#,#\r\n51,#,#,#,#,#,#,52,#,#,#,#,#,#,#\r\n#,#,53,#,#,#,#,54,#,#,#,#,#,#,#\r\n55,#,#,#,#,#,#,56,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

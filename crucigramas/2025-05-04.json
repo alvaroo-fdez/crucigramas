@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2172,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-17T11:38:45.210740Z",
+      "updatedAt": "2025-04-17T11:52:31.404263Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-04",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#DENAHI#ACCESO#\r\nBESARON#MALVADO\r\nEF#COMISARIA#IS\r\nROS#SICARIO#RAC\r\nGRES#LITRO#PERU\r\nEMPATIA#ACERCAR\r\nNEUTRAL#RABIOSA\r\n##LUA#####AMR##\r\nPOTRERO#CARETAS\r\nINUNDAR#ENTRADO\r\nVERO#ZAFRA#ADAM\r\nORA#TOCANTE#OPI\r\nTO#MINUCIOSO#TE\r\nESPINAL#ALENTAR\r\n#ACLARO#SERIAR#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tan desfigurado que no se sabe qué asemeja",
+              "answer": "DEFORME"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Iniciales del escritor argentino de 'Sobre héroes y tumbas'",
+              "answer": "ES"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "El reflejo del perro",
+              "answer": "NAC"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Anillos, alianzas",
+              "answer": "AROS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Razonamiento que se hace para explicar al pueblo las materias de religión",
+              "answer": "HOMILIA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Da la primera letra para la primera cuota del crédito",
+              "answer": "INICIAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Asegurar el barco al muelle",
+              "answer": "AMARRAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Este nació en Río de Janeiro, es un…",
+              "answer": "CARIOCA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Automóvil segmento B producido por Renault, sucesor del Renault Supercinco",
+              "answer": "CLIO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Normal que ella haya comido del Árbol del conocimiento",
+              "answer": "EVA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Su alteza",
+              "answer": "SA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Repelerás, rechazarás",
+              "answer": "ODIARAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Segunda ciudad más grande de Noruega",
+              "answer": "BERGEN"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Anochecida, opaca, umbrosa",
+              "answer": "OSCURA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "¿Un satélite para todos?",
+              "answer": "SAT"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Legendaria banda brasileña de trash metal, formada en 1984",
+              "answer": "SEPULTURA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Quitaron parte del presupuesto, ha sido…",
+              "answer": "RECORTADO"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "El planeta de los anillos",
+              "answer": "SATURNO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Anterior a la segunda",
+              "answer": "PRIMERA"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Trasladad algo hacia acá",
+              "answer": "TRAED"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "No funciona el mecanismo, lo tranqué cuando venía subiendo",
+              "answer": "EBART"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Quinta posición en básquet, céntrica y con importancia estratégica",
+              "answer": "PIVOTE"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Pesada, engorrosa",
+              "answer": "ONEROSA"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "Establecer relación entre conceptos distintos para formar un juicio",
+              "answer": "RAZONAR"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Vaticinio, profecía",
+              "answer": "ORACULO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Separabas con el cedazo la harina del salvado",
+              "answer": "CERNIAS"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "\"… France\", escritor, cuya obra se incluyó en el Índice de Libros Prohibidos de la Iglesia católica",
+              "answer": "ANATOLE"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Modificar una obra científica, literaria o musical",
+              "answer": "ADAPTAR"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Nos reímos por error debajo del colchón",
+              "answer": "SOMIER"
+            },
+            "48": {
+              "col": 7,
+              "row": 10,
+              "clue": "Fuerzas Aéreas Colombianas (siglas)",
+              "answer": "FAC"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Anita lava la…\" famoso palíndromo",
+              "answer": "TINA"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Eres un desastre",
+              "answer": "ESER"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Diez veces cien",
+              "answer": "MIL"
+            },
+            "56": {
+              "col": 11,
+              "row": 12,
+              "clue": "El demonio japonés es un poni decapitado",
+              "answer": "ONI"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "En el ordenador de Penélope Cruz",
+              "answer": "PC"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Tantalio",
+              "answer": "TA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "El hermano problemático en la peli 'Hermano oso' de Disney",
+              "answer": "DENAHI"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Entrada o paso",
+              "answer": "ACCESO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Rozaron los labios",
+              "answer": "BESARON"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Dispuesto a destruir todo a su paso para conquistar el mundo",
+              "answer": "MALVADO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic de químico que descubrió el barbital (primer somnífero)",
+              "answer": "EF"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Dependencia policial donde se pueden presentar denuncias",
+              "answer": "COMISARIA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dominio web para Islandia",
+              "answer": "IS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Chacó pequeño, más alto por delante que por detrás",
+              "answer": "ROS"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Asesino a sueldo",
+              "answer": "SICARIO"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Viene subiendo en un coche americano",
+              "answer": "RAC"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tipo de pasta cerámica",
+              "answer": "GRES"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Unidad de volumen",
+              "answer": "LITRO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "País cuna de la cultura Inca",
+              "answer": "PERU"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Sentimiento de ponerse en la piel de los demás",
+              "answer": "EMPATIA"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Aproximar, arrimar",
+              "answer": "ACERCAR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Imparcial o equilibrado",
+              "answer": "NEUTRAL"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Canción de Shakira",
+              "answer": "RABIOSA"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "El guante de los cetreros",
+              "answer": "LUA"
+            },
+            "35": {
+              "col": 10,
+              "row": 7,
+              "clue": "Mar revuelto",
+              "answer": "AMR"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "El niñero de un caballo bebé",
+              "answer": "POTRERO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Máscaras o mascarillas de cartón u otra materia, para cubrir las caras",
+              "answer": "CARETAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Colmar hasta desbordar de agua",
+              "answer": "INUNDAR"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Debo denotar que lo ha rentado adentro y que por ello he ingresado",
+              "answer": "ENTRADO"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Mi amiga Verónica",
+              "answer": "VERO"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Castillo famoso en Guadalajara, Castilla",
+              "answer": "ZAFRA"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"… Sandler\" comediante estadounidense",
+              "answer": "ADAM"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ruega a Dios que me devuelvan el anillo",
+              "answer": "ORA"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Correspondiente, relativo a algo",
+              "answer": "TOCANTE"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Organismos Públicos de Investigación",
+              "answer": "OPI"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Al final del parto",
+              "answer": "TO"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Un trabajo, cuando se dedica a los pequeños detalles",
+              "answer": "MINUCIOSO"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Esta médula no es ósea",
+              "answer": "ESPINAL"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Infundir ánimos",
+              "answer": "ALENTAR"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Hago más claro un color",
+              "answer": "ACLARO"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Formar una serie",
+              "answer": "SERIAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Tan desfigurado que no se sabe qué asemeja\r\n2-Iniciales del escritor argentino de 'Sobre héroes y tumbas'\r\n3-El reflejo del perro\r\n4-Anillos, alianzas\r\n5-Razonamiento que se hace para explicar al pueblo las materias de religión\r\n6-Da la primera letra para la primera cuota del crédito\r\n7-Asegurar el barco al muelle\r\n8-Este nació en Río de Janeiro, es un…\r\n9-Automóvil segmento B producido por Renault, sucesor del Renault Supercinco\r\n10-Normal que ella haya comido del Árbol del conocimiento\r\n11-Su alteza\r\n12-Repelerás, rechazarás\r\n13-Segunda ciudad más grande de Noruega\r\n15-Anochecida, opaca, umbrosa\r\n18-¿Un satélite para todos? \r\n21-Legendaria banda brasileña de trash metal, formada en 1984\r\n23-Quitaron parte del presupuesto, ha sido…\r\n25-El planeta de los anillos\r\n27-Anterior a la segunda\r\n29-Trasladad algo hacia acá\r\n31-No funciona el mecanismo, lo tranqué cuando venía subiendo\r\n36-Quinta posición en básquet, céntrica y con importancia estratégica\r\n37-Pesada, engorrosa\r\n38-Establecer relación entre conceptos distintos para formar un juicio\r\n39-Vaticinio, profecía\r\n40-Separabas con el cedazo la harina del salvado\r\n41-\"… France\", escritor, cuya obra se incluyó en el Índice de Libros Prohibidos de la Iglesia católica\r\n42-Modificar una obra científica, literaria o musical\r\n43-Nos reímos por error debajo del colchón\r\n48-Fuerzas Aéreas Colombianas (siglas)\r\n51-\"Anita lava la…\" famoso palíndromo\r\n52-Eres un desastre\r\n55-Diez veces cien\r\n56-El demonio japonés es un poni decapitado\r\n59-En el ordenador de Penélope Cruz\r\n61-Tantalio",
+        "horizontal_clues": "1-El hermano problemático en la peli 'Hermano oso' de Disney\r\n7-Entrada o paso\r\n13-Rozaron los labios\r\n14-Dispuesto a destruir todo a su paso para conquistar el mundo\r\n16-Inic de químico que descubrió el barbital (primer somnífero)\r\n17-Dependencia policial donde se pueden presentar denuncias\r\n19-Dominio web para Islandia\r\n20-Chacó pequeño, más alto por delante que por detrás\r\n22-Asesino a sueldo\r\n23-Viene subiendo en un coche americano\r\n24-Tipo de pasta cerámica\r\n26-Unidad de volumen\r\n27-País cuna de la cultura Inca\r\n28-Sentimiento de ponerse en la piel de los demás\r\n30-Aproximar, arrimar\r\n32-Imparcial o equilibrado \r\n33-Canción de Shakira\r\n34-El guante de los cetreros\r\n35-Mar revuelto\r\n36-El niñero de un caballo bebé\r\n40-Máscaras o mascarillas de cartón u otra materia, para cubrir las caras\r\n44-Colmar hasta desbordar de agua\r\n45-Debo denotar que lo ha rentado adentro y que por ello he ingresado\r\n46-Mi amiga Verónica\r\n47-Castillo famoso en Guadalajara, Castilla-La Mancha, España\r\n49-\"… Sandler\" comediante estadounidense\r\n50-Ruega a Dios que me devuelvan el anillo\r\n51-Correspondiente, relativo a algo\r\n53-Organismos Públicos de Investigación\r\n54-Al final del parto\r\n55-Un trabajo, cuando se dedica a los pequeños detalles\r\n57-Teluro\r\n58-Esta médula no es ósea\r\n60-Infundir ánimos\r\n62-Hago más claro un color\r\n63-Formar una serie",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,17,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,21,#,22,#,#,#,#,#,#,#,23,#,#\r\n24,#,#,25,#,26,#,#,#,#,#,27,#,#,#\r\n28,#,#,#,29,#,#,#,30,#,31,#,#,#,#\r\n32,#,#,#,#,#,#,#,33,#,#,#,#,#,#\r\n#,#,34,#,#,#,#,#,#,#,35,#,#,#,#\r\n36,37,#,#,#,38,39,#,40,41,#,#,#,42,43\r\n44,#,#,#,#,#,#,#,45,#,#,#,#,#,#\r\n46,#,#,#,#,47,#,48,#,#,#,49,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,52,#,53,#,#\r\n54,#,#,55,#,#,#,#,#,#,#,56,#,57,#\r\n58,#,59,#,#,#,#,#,60,#,#,#,61,#,#\r\n#,62,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

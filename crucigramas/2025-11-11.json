@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 3901,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.816917Z",
+      "updatedAt": "2025-11-06T12:54:53.639942Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-11",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#MAILLOT#C#TIPO\r\nAAC#AUPE#ALISAD\r\nMADRUGON#R##LSE\r\nESCENAS#LLAMAIS\r\nID#LIRICA#SIMBA\r\nSAPEO#TOPLES#L#\r\n#MYANMAR#ANABEL\r\n##M##ARTAX##O##\r\nBIENAL#ENOJADA#\r\n#N#IGUAZU#ATALA\r\nMURAR#RANCHO#LY\r\nANULADA#COARTAR\r\nNDS##I#VIRREINA\r\nCAOBOS#IASI#CAN\r\nADSL#C#PRESTAR#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Queso de huequitos",
+              "answer": "MAASDAM"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Banda australiana de heavy metal",
+              "answer": "ACDC"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Banda española autores del tema 'Lobo hombre en París' (2p)",
+              "answer": "LAUNION"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Porción de espacio",
+              "answer": "LUGAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Lo que haces para conseguir un empleo público",
+              "answer": "OPOSITAR"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Diez en inglés",
+              "answer": "TEN"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Jung\" padre de la psicología analítica (psicología profunda)",
+              "answer": "CARL"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Hoy por… y mañana por mí\"",
+              "answer": "TI"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Religión cuyo dogma se basa en el Corán",
+              "answer": "ISLAM"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Que puede o es capaz de padecer",
+              "answer": "PASIBLE"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Principal ciudad portuaria de Ucrania",
+              "answer": "ODESA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Queráis",
+              "answer": "AMEIS"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Lea, otra vez",
+              "answer": "RELEA"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Una vuelta en el circuito de Silverstone",
+              "answer": "LAP"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Horneen, quemen",
+              "answer": "ASEN"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Los domingos en la iglesia",
+              "answer": "MISA"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Parte exterior y dura de ciertos frutos",
+              "answer": "CORTEZA"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Empresa formada por un grupo pequeño de trabajadores",
+              "answer": "PYME"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Flojo, que no tiene la tensión que naturalmente debe tener",
+              "answer": "LAXO"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Cantautora española de los temas 'Invisible' y 'Blanco y negro'",
+              "answer": "MALU"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "Casamiento y fiesta",
+              "answer": "BODA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Hacer saber que algo va a pasar",
+              "answer": "ANUNCIAR"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Saturad, llenad con algo cosas, situaciones, etc",
+              "answer": "INUNDAD"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Almiar, balaguero",
+              "answer": "NIAL"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Ciudad india que aloja al Taj Mahal",
+              "answer": "AGRA"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Higos andaluces",
+              "answer": "JAHARIS"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Atasque, obstruya",
+              "answer": "ATORE"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Aplanar el camino",
+              "answer": "ALLANAR"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Altar, mesa consagrada",
+              "answer": "ARA"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Bebida popular en Turquía, a base de yogur y agua",
+              "answer": "AYRAN"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Mujer que le falta un brazo",
+              "answer": "MANCA"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Los son Dostoyevski y Chéjov",
+              "answer": "RUSOS"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Prenda utilizada para estilizar y moldear el cuerpo",
+              "answer": "CORSE"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "El 'compact…' lo tiene el '… jockey'",
+              "answer": "DISC"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Chica de Costa Rica",
+              "answer": "TICA"
+            },
+            "58": {
+              "col": 7,
+              "row": 12,
+              "clue": "Salas de espera muy confortables y lujosas",
+              "answer": "VIP"
+            },
+            "60": {
+              "col": 3,
+              "row": 13,
+              "clue": "Brock Lesnar, luchador libre",
+              "answer": "BL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La camiseta deportiva de los ciclistas",
+              "answer": "MAILLOT"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ejemplo característico de una especie",
+              "answer": "TIPO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Academia de Artes Culinarias",
+              "answer": "AAC"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Subí a alguien",
+              "answer": "AUPE"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Poned liso algo",
+              "answer": "ALISAD"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Hombre que se levanta temprano",
+              "answer": "MADRUGON"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Lengua de Signos Española",
+              "answer": "LSE"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "En una película, partes dotadas de unidad en sí mismas",
+              "answer": "ESCENAS"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Lo citáis porque la masilla está dañada",
+              "answer": "LLAMAIS"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Documento norteamericano",
+              "answer": "ID"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Poesía que expresa emociones profundas",
+              "answer": "LIRICA"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "El rey león",
+              "answer": "SIMBA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vigilo disimuladamente en Chile",
+              "answer": "SAPEO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Desnudo femenino de verano",
+              "answer": "TOPLES"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "País asiático también conocido como Birmania",
+              "answer": "MYANMAR"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Ella es una mezcla de anaconda con cascabel",
+              "answer": "ANABEL"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "El caballo de Atreyu, el de la 'Historia interminable'",
+              "answer": "ARTAX"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Manifestación cultural que se repite cada dos años",
+              "answer": "BIENAL"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Brava, enfadada",
+              "answer": "ENOJADA"
+            },
+            "44": {
+              "col": 3,
+              "row": 9,
+              "clue": "Río del sur de Brasil y del nordeste de la Argentina",
+              "answer": "IGUAZU"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Amárrala",
+              "answer": "ATALA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cercar con muros",
+              "answer": "MURAR"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Choza o casa pobre",
+              "answer": "RANCHO"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Dominio de nivel superior geográfico para Libia",
+              "answer": "LY"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Contrato que ha perdido vigencia (fem)",
+              "answer": "ANULADA"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Limitar, impedir",
+              "answer": "COARTAR"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Nintendo DS",
+              "answer": "NDS"
+            },
+            "58": {
+              "col": 7,
+              "row": 12,
+              "clue": "Gobernadora de un territorio de la corona en nombre del rey",
+              "answer": "VIRREINA"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Árboles de madera roja",
+              "answer": "CAOBOS"
+            },
+            "61": {
+              "col": 7,
+              "row": 13,
+              "clue": "Ni así sacan la cabeza de la vieja capital de Moldavia",
+              "answer": "IASI"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Perro doméstico",
+              "answer": "CAN"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Internet que no es de fibra óptica",
+              "answer": "ADSL"
+            },
+            "64": {
+              "col": 7,
+              "row": 14,
+              "clue": "Dar motivo u ocasión para algo",
+              "answer": "PRESTAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Queso de huequitos\r\n2-Banda australiana de heavy metal\r\n3-Banda española autores del tema 'Lobo hombre en París' (2p)\r\n4-Porción de espacio\r\n5-Lo que haces para conseguir un empleo público\r\n6-Diez en inglés\r\n7-\"… Jung\" padre de la psicología analítica (psicología profunda)\r\n8-\"Hoy por… y mañana por mí\"\r\n9-Religión cuyo dogma se basa en el Corán\r\n10-Que puede o es capaz de padecer\r\n11-Principal ciudad portuaria de Ucrania\r\n12-Queráis\r\n16-Lea, otra vez\r\n19-Una vuelta en el circuito de Silverstone\r\n20-Horneen, quemen\r\n21-Los domingos en la iglesia\r\n24-Parte exterior y dura de ciertos frutos\r\n27-Empresa formada por un grupo pequeño de trabajadores\r\n29-Flojo, que no tiene la tensión que naturalmente debe tener\r\n31-Cantautora española de los temas 'Invisible' y 'Blanco y negro'\r\n33-Casamiento y fiesta\r\n35-Hacer saber que algo va a pasar\r\n37-Saturad, llenad con algo cosas, situaciones, etc\r\n38-Almiar, balaguero\r\n39-Ciudad india que aloja al Taj Mahal\r\n41-Higos andaluces\r\n42-Atasque, obstruya\r\n43-Aplanar el camino\r\n45-Altar, mesa consagrada\r\n47-Bebida popular en Turquía, a base de yogur y agua\r\n48-Mujer que le falta un brazo\r\n49-Los son Dostoyevski y Chéjov\r\n51-Prenda utilizada para estilizar y moldear el cuerpo\r\n54-El 'compact…' lo tiene el '… jockey'\r\n56-Chica de Costa Rica\r\n58-Salas de espera muy confortables y lujosas\r\n60-Brock Lesnar, luchador libre",
+        "horizontal_clues": "1-La camiseta deportiva de los ciclistas\r\n8-Ejemplo característico de una especie\r\n12-Academia de Artes Culinarias\r\n13-Subí a alguien\r\n14-Poned liso algo\r\n15-Hombre que se levanta temprano\r\n17-Lengua de Signos Española\r\n18-En una película, partes dotadas de unidad en sí mismas\r\n19-Lo citáis porque la masilla está dañada\r\n22-Documento norteamericano\r\n23-Poesía que expresa emociones profundas\r\n25-El rey león\r\n26-Vigilo disimuladamente en Chile\r\n28-Desnudo femenino de verano\r\n30-País asiático también conocido como Birmania\r\n32-Ella es una mezcla de anaconda con cascabel\r\n34-El caballo de Atreyu, el de la 'Historia interminable'\r\n36-Manifestación cultural que se repite cada dos años\r\n40-Brava, enfadada\r\n44-Río del sur de Brasil y del nordeste de la Argentina\r\n46-Amárrala\r\n48-Cercar con muros\r\n50-Choza o casa pobre\r\n52-Dominio de nivel superior geográfico para Libia\r\n53-Contrato que ha perdido vigencia (fem)\r\n55-Limitar, impedir\r\n57-Nintendo DS\r\n58-Gobernadora de un territorio de la corona en nombre del rey\r\n59-Árboles de madera roja\r\n61-Ni así sacan la cabeza de la vieja capital de Moldavia \r\n62-Perro doméstico\r\n63-Internet que no es de fibra óptica\r\n64-Dar motivo u ocasión para algo",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,#,3,4,5,6,#,7,#,8,9,10,11\r\n12,#,#,#,13,#,#,#,#,14,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,#,17,#,#\r\n18,#,#,#,#,#,#,#,19,#,20,21,#,#,#\r\n22,#,#,23,#,#,#,24,#,#,25,#,#,#,#\r\n26,#,27,#,#,#,28,#,#,29,#,#,#,#,#\r\n#,30,#,#,#,31,#,#,#,32,#,#,33,#,#\r\n#,#,#,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,38,39,#,#,40,#,#,41,42,#,43,#\r\n#,#,#,44,#,#,45,#,#,#,46,#,#,#,47\r\n48,#,49,#,#,#,50,#,#,51,#,#,#,52,#\r\n53,#,#,#,#,54,#,#,55,#,#,#,56,#,#\r\n57,#,#,#,#,#,#,58,#,#,#,#,#,#,#\r\n59,#,#,60,#,#,#,61,#,#,#,#,62,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

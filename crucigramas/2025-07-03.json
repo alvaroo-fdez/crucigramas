@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2733,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-30T19:59:56.736270Z",
+      "updatedAt": "2025-06-30T20:04:56.953738Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-07-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ATEAS#MIL##MACO\r\nSORDOMUDO#CATAS\r\nEUTANASIA#AQUEL\r\nASESORE#ROTUNDO\r\n###TROL#IBAI###\r\nATARI#INAE#LAMA\r\nPALADINO#SEAMOS\r\nIHE#ANARCOS#ANI\r\nPULIDO#TOSTADOR\r\nARON#PIEN#AFOSA\r\n###CAIN#TOTE###\r\nCAÑADAS#ADICTOS\r\nAMOUR#TURISTICO\r\nSARTA#ASINTAMOS\r\nARAO##ROO#ARENA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Se baña, se…",
+              "answer": "ASEA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "La marca del oso",
+              "answer": "TOUS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Despedido temporal",
+              "answer": "ERTE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Frase latina que apunta hacia las estrellas",
+              "answer": "ADASTRA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cualidad acústica de un espacio o instrumento",
+              "answer": "SONORIDAD"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tejido fino y ligero de algodón",
+              "answer": "MUSELINA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Investigación, desarrollo e innovación",
+              "answer": "IDI"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Alabaría demasiado",
+              "answer": "LOARIA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Producción en cadena con salarios bajos",
+              "answer": "MAQUILA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Esconde a tu novia ese pescado",
+              "answer": "ATUN"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Dad al piso",
+              "answer": "CAED"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "En esta ciudad nórdica, sólo quiero estar solo",
+              "answer": "OSLO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Pedanía del municipio de Nerja, en Málaga",
+              "answer": "MARO"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Catalina prueba el vino de Catar",
+              "answer": "CATA"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Con muchos kilos de más (masc, pl)",
+              "answer": "OBESOS"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Coloq Se llena con exceso de comida",
+              "answer": "APIPA"
+            },
+            "24": {
+              "col": 1,
+              "row": 5,
+              "clue": "Jugador fullero",
+              "answer": "TAHUR"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Cada uno de los genes del par de cromosomas",
+              "answer": "ALELO"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Punto cardinal",
+              "answer": "NORTE"
+            },
+            "29": {
+              "col": 12,
+              "row": 5,
+              "clue": "Querido, adorado",
+              "answer": "AMADO"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Hermosos primates",
+              "answer": "MONOS"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Cogerá con la mano",
+              "answer": "ASIRA"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Indigencia, pobreza, escasez",
+              "answer": "INOPIA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Político experto en asuntos de gobierno",
+              "answer": "ESTATISTA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Collar de cuentas pequeñas y redondas",
+              "answer": "CONTARIO"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Persona ingenua que se deja engañar fácilmente",
+              "answer": "INCAUTO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Dañar, perjudicar",
+              "answer": "AFECTAR"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Repetir la petición, insistir en ella con ahínco",
+              "answer": "INSTAR"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Porción o división del vecindario de un pueblo",
+              "answer": "ADRA"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "El Padre Supremo de la mitología nórdica",
+              "answer": "ODIN"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "La hay de cambio, de beneficencia, de campo",
+              "answer": "CASA"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Querer a Mara Armas",
+              "answer": "AMAR"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "Variedad de pimiento rojo secado al sol",
+              "answer": "ÑORA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"It's…\" la frase de Bruce Buffer, antes de una pelea de MMA",
+              "answer": "TIME"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"Pedro… de Oro\" el creador de las sopas de letras",
+              "answer": "OCON"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Esta va a ser cáustica",
+              "answer": "SOSA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Utilizo, empleo",
+              "answer": "USO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Mujeres que no se casan en iglesias",
+              "answer": "ATEAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"…anuncios\" sitio web español de anuncios y clasificados",
+              "answer": "MIL"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Malo, pícaro, bellaco",
+              "answer": "MACO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Individuo con discapacidad auditiva y vocal",
+              "answer": "SORDOMUDO"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Sacas la casta en la tasca y pruebas el vino",
+              "answer": "CATAS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Muerte asistida para aliviar el sufrimiento",
+              "answer": "EUTANASIA"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Parece que Raquel está con ese de allá",
+              "answer": "AQUEL"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Brinde consejo profesional a alguien",
+              "answer": "ASESORE"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Completo y absoluto en su categoría",
+              "answer": "ROTUNDO"
+            },
+            "21": {
+              "col": 3,
+              "row": 4,
+              "clue": "Monstruo de los bosques nórdicos",
+              "answer": "TROL"
+            },
+            "22": {
+              "col": 8,
+              "row": 4,
+              "clue": "Premio Esland Mejor streamer del 2022 y tal vez del 2023",
+              "answer": "IBAI"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Consola de videojuegos de 1977",
+              "answer": "ATARI"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Instituto Nacional de Artes Escénicas",
+              "answer": "INAE"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Es mala idea que le pase la lengua",
+              "answer": "LAMA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Claro y manifiesto, sin ambigüedades",
+              "answer": "PALADINO"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Existamos, estemos",
+              "answer": "SEAMOS"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Índice Histórico Español",
+              "answer": "IHE"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Coloquial Personas anarquistas",
+              "answer": "ANARCOS"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Ciudad medieval armenia en ruinas",
+              "answer": "ANI"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Refinado y perfeccionado con esmero",
+              "answer": "PULIDO"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Electrodoméstico para dorar el pan",
+              "answer": "TOSTADOR"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo ubicaron por la derecha",
+              "answer": "ARON"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Hagan como los pollitos",
+              "answer": "PIEN"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Se defiende haciendo algún foso",
+              "answer": "AFOSA"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "El primer fratricida",
+              "answer": "CAIN"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"… King\" rapero español",
+              "answer": "TOTE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Vías tradicionales para el ganado trashumante",
+              "answer": "CAÑADAS"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Los dependientes están citados por error",
+              "answer": "ADICTOS"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Amor francés",
+              "answer": "AMOUR"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Relacionado con visitantes que viajan por placer",
+              "answer": "TURISTICO"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Serie de sucesos iguales o análogos",
+              "answer": "SARTA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Admitamos como cierto lo que otra persona ha afirmado",
+              "answer": "ASINTAMOS"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Ave caradriforme de la familia Alcidae nativa de Europa",
+              "answer": "ARAO"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Corto menuda y superficialmente, con los dientes",
+              "answer": "ROO"
+            },
+            "66": {
+              "col": 10,
+              "row": 14,
+              "clue": "Área de combate en un anfiteatro",
+              "answer": "ARENA"
+            }
+          }
+        },
+        "vertical_clues": "1-Se baña, se…\r\n2-La marca del oso\r\n3-Despedido temporal\r\n4-Frase latina que apunta hacia las estrellas \r\n5-Cualidad acústica de un espacio o instrumento \r\n6-Tejido fino y ligero de algodón \r\n7-Investigación, desarrollo e innovación\r\n8-Alabaría demasiado\r\n9-Producción en cadena con salarios bajos \r\n10-Esconde a tu novia ese pescado\r\n11-Dad al piso\r\n12-En esta ciudad nórdica, sólo quiero estar solo\r\n14-Pedanía del municipio de Nerja, en Málaga\r\n15-Catalina prueba el vino de Catar \r\n20-Con muchos kilos de más (masc, pl) \r\n23-Coloq Se llena con exceso de comida\r\n24-Jugador fullero\r\n25-Cada uno de los genes del par de cromosomas\r\n27-Punto cardinal\r\n29-Querido, adorado\r\n30-Hermosos primates\r\n31-Cogerá con la mano\r\n33-Indigencia, pobreza, escasez\r\n35-Político experto en asuntos de gobierno \r\n38-Collar de cuentas pequeñas y redondas \r\n41-Persona ingenua que se deja engañar fácilmente \r\n43-Dañar, perjudicar\r\n46-Repetir la petición, insistir en ella con ahínco\r\n49-Porción o división del vecindario de un pueblo\r\n51-El Padre Supremo de la mitología nórdica\r\n52-La hay de cambio, de beneficencia, de campo\r\n53-Querer a Mara Armas \r\n54-Variedad de pimiento rojo secado al sol\r\n56-\"It's…\" la frase de Bruce Buffer, antes de una pelea de MMA\r\n57-\"Pedro… de Oro\" el creador de las sopas de letras\r\n58-Esta va a ser cáustica\r\n61-Utilizo, empleo",
+        "horizontal_clues": "1-Mujeres que no se casan en iglesias\r\n6-\"…anuncios\" sitio web español de anuncios y clasificados\r\n9-Malo, pícaro, bellaco\r\n13-Individuo con discapacidad auditiva y vocal \r\n15-Sacas la casta en la tasca y pruebas el vino\r\n16-Muerte asistida para aliviar el sufrimiento \r\n17-Parece que Raquel está con ese de allá\r\n18-Brinde consejo profesional a alguien \r\n19-Completo y absoluto en su categoría \r\n21-Monstruo de los bosques nórdicos\r\n22-Premio Esland Mejor streamer del 2022 y tal vez del 2023\r\n23-Consola de videojuegos de 1977\r\n26-Instituto Nacional de Artes Escénicas\r\n28-Es mala idea que le pase la lengua\r\n32-Claro y manifiesto, sin ambigüedades \r\n34-Existamos, estemos\r\n36-Índice Histórico Español\r\n37-Coloquial Personas anarquistas\r\n39-Ciudad medieval armenia en ruinas \r\n40-Refinado y perfeccionado con esmero \r\n42-Electrodoméstico para dorar el pan \r\n44-Lo ubicaron por la derecha\r\n45-Hagan como los pollitos\r\n47-Se defiende haciendo algún foso\r\n48-El primer fratricida\r\n50-\"… King\" rapero español\r\n52-Vías tradicionales para el ganado trashumante \r\n55-Los dependientes están citados por error\r\n59-Amor francés\r\n60-Relacionado con visitantes que viajan por placer \r\n62-Serie de sucesos iguales o análogos\r\n63-Admitamos como cierto lo que otra persona ha afirmado\r\n64-Ave caradriforme de la familia Alcidae nativa de Europa\r\n65-Corto menuda y superficialmente, con los dientes\r\n66-Área de combate en un anfiteatro",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,#,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,#,15,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,#,#,19,20,#,#,#,#,#\r\n#,#,#,21,#,#,#,#,22,#,#,#,#,#,#\r\n23,24,25,#,#,#,26,27,#,#,#,28,29,30,31\r\n32,#,#,#,#,33,#,#,#,34,35,#,#,#,#\r\n36,#,#,#,37,#,#,#,38,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,42,#,#,#,43,#,#,#\r\n44,#,#,#,#,45,46,#,#,#,47,#,#,#,#\r\n#,#,#,48,49,#,#,#,50,51,#,#,#,#,#\r\n52,53,54,#,#,#,#,#,55,#,#,#,56,57,58\r\n59,#,#,#,#,#,60,61,#,#,#,#,#,#,#\r\n62,#,#,#,#,#,63,#,#,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,66,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 6746,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-23T10:12:18.346746Z",
+      "updatedAt": "2026-07-23T10:13:25.988850Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-25",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#AGRABAH#POSES#\r\nCLAUSULA#AISLAR\r\nPERCUDIR#VASIJA\r\nEXA#MACACOS#GOB\r\n##NPI#ILA##HENO\r\nCATO##ADICTA###\r\nAFIRMO#VAHARADA\r\nVIATICO#SEBACEA\r\nENSALADA#FOGOSA\r\n###DISIPA##ATTE\r\nOCTO##AEL#CNA##\r\nCHE#PERLADO#CLE\r\nHAMMAM#ACEPCION\r\nOCEANO#DESALOJO\r\n#ORLAS#ASESINA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… Ubago\", cantautor español",
+              "answer": "ALEX"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Derechos que la Constitución reconoce a los ciudadanos",
+              "answer": "GARANTIAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Foco de destrucción",
+              "answer": "RUC"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Me hice cargo, acepté",
+              "answer": "ASUMI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Gautama\" persona que ha alcanzado la máxima sabiduría",
+              "answer": "BUDA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Personaje de Lewis Carroll, que vive en un país de maravillas",
+              "answer": "ALICIA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "El Rey de Noruega",
+              "answer": "HARALDV"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Relleno, suele ser la cena de Navidad en muchos países",
+              "answer": "PAVO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Percibías con el oído",
+              "answer": "OIAS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "¡Deja que se exprese la serpiente!",
+              "answer": "SSS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Escoge, prefiere",
+              "answer": "ELIGE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Individuo nacido en Sajonia",
+              "answer": "SAJON"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Comité Paralímpico Español",
+              "answer": "CPE"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Cola de los animales",
+              "answer": "RABO"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Perdías el equilibrio y dabas de bruces con el suelo",
+              "answer": "CAIAS"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Lo ha llevado consigo, lo ha…",
+              "answer": "PORTADO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Vago y holgazán",
+              "answer": "HARAGAN"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Excavé sin mi ex",
+              "answer": "CAVE"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Fani es fina y similar a mí",
+              "answer": "AFIN"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Oficio de Jordi Cruz",
+              "answer": "CHEF"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Vasija filipina hecha con la cáscara del coco",
+              "answer": "TABO"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Prefijo significa mil",
+              "answer": "MILI"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Da vuelta al saco y caerán los gansos",
+              "answer": "OCAS"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Cota, glosa, apunte",
+              "answer": "ACOTACION"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Destino truncado",
+              "answer": "DEST"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "Pon la pila del mando sobre este",
+              "answer": "AAAE"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "Detestar",
+              "answer": "ODIAR"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Recurrida, interpuesta ante una corte",
+              "answer": "APELADA"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Escúrrela, ponla al sol, volteada",
+              "answer": "ALACES"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Número de planetas de nuestro sistema solar",
+              "answer": "OCHO"
+            },
+            "48": {
+              "col": 1,
+              "row": 10,
+              "clue": "Provincia ubicada al nordeste de Argentina",
+              "answer": "CHACO"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Tener miedo",
+              "answer": "TEMER"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "'Fue una noche de…, una noche loca'",
+              "answer": "COPAS"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Tela gruesa con pequeños canales verticales",
+              "answer": "PANA"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Seguidores del género musical y subcultura Emotive hardcore",
+              "answer": "EMOS"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Entréguese, obséquiese",
+              "answer": "DESE"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Conocida como la ciudad del agua, en Granada",
+              "answer": "LOJA"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Viene subiendo un inglés",
+              "answer": "ENO"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"… acostumbrado tu amor me dejó / … acostumbrado, solo, sin amor\" J Iglesias",
+              "answer": "MAL"
+            },
+            "62": {
+              "col": 11,
+              "row": 12,
+              "clue": "151 en números romanos",
+              "answer": "CLI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Reino ficticio donde vivía Aladdin",
+              "answer": "AGRABAH"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Posturas que adoptan las modelos de revistas",
+              "answer": "POSES"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Disposición específica en un contrato",
+              "answer": "CLAUSULA"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Dejar algo solo y separado",
+              "answer": "AISLAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ensuciar y manchar, por ejemplo, los calcetines",
+              "answer": "PERCUDIR"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "Pieza cóncava y pequeña de barro",
+              "answer": "VASIJA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Prefijo del que indica un trillón",
+              "answer": "EXA"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Monos pequeños con el hocico aplastado",
+              "answer": "MACACOS"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Un gobierno incipiente",
+              "answer": "GOB"
+            },
+            "22": {
+              "col": 2,
+              "row": 4,
+              "clue": "No Poseo Información (siglas)",
+              "answer": "NPI"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Al fondo de la mochila",
+              "answer": "ILA"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Hierba segada, seca, para alimento del ganado",
+              "answer": "HENO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Probó el taco que estaba malo",
+              "answer": "CATO"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Dependiente de una sustancia o actividad nociva",
+              "answer": "ADICTA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Aseguro o doy por cierto algo",
+              "answer": "AFIRMO"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Aliento, bocanada, vaho",
+              "answer": "VAHARADA"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Observé en el cuarto de arriba que había provisión para el viaje",
+              "answer": "VIATICO"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Glándula de la piel que secreta el sebo",
+              "answer": "SEBACEA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Típico acompañamiento verde",
+              "answer": "ENSALADA"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Mujer ardiente, demasiado viva",
+              "answer": "FOGOSA"
+            },
+            "44": {
+              "col": 3,
+              "row": 9,
+              "clue": "Esparce y desvanece las partes que forman por aglomeración un cuerpo",
+              "answer": "DISIPA"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "Abreviatura de \"Atentamente\"",
+              "answer": "ATTE"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"__genaria\" mujer que tiene entre 80 y 89 años",
+              "answer": "OCTO"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Al expandido (2p)",
+              "answer": "AEL"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Centro Nacional de Aceleradores (siglas)",
+              "answer": "CNA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dígrafo excluido del abecedario en el 2010",
+              "answer": "CHE"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Adornado con nácar",
+              "answer": "PERLADO"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Saliendo de una debacle",
+              "answer": "CLE"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Baño turco",
+              "answer": "HAMMAM"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Cada una de las definiciones de una misma palabra",
+              "answer": "ACEPCION"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Lo es el Pacífico o el Índico",
+              "answer": "OCEANO"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Echó a alguien de su casa",
+              "answer": "DESALOJO"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Bordes decorados de paños, telas y vestidos",
+              "answer": "ORLAS"
+            },
+            "66": {
+              "col": 7,
+              "row": 14,
+              "clue": "La tratase sin absolución, por homicida",
+              "answer": "ASESINA"
+            }
+          }
+        },
+        "vertical_clues": "1-\"… Ubago\", cantautor español\r\n2-Derechos que la Constitución reconoce a los ciudadanos\r\n3-Foco de destrucción\r\n4-Me hice cargo, acepté\r\n5-\"… Gautama\" persona que ha alcanzado la máxima sabiduría\r\n6-Personaje de Lewis Carroll, que vive en un país de maravillas\r\n7-El Rey de Noruega\r\n8-Relleno, suele ser la cena de Navidad en muchos países\r\n9-Percibías con el oído\r\n10-¡Deja que se exprese la serpiente! \r\n11-Escoge, prefiere\r\n12-Individuo nacido en Sajonia\r\n13-Comité Paralímpico Español \r\n15-Cola de los animales\r\n20-Perdías el equilibrio y dabas de bruces con el suelo\r\n23-Lo ha llevado consigo, lo ha…\r\n25-Vago y holgazán\r\n26-Excavé sin mi ex\r\n27-Fani es fina y similar a mí\r\n29-Oficio de Jordi Cruz\r\n30-Vasija filipina hecha con la cáscara del coco\r\n32-Prefijo significa mil\r\n33-Da vuelta al saco y caerán los gansos\r\n35-Cota, glosa, apunte\r\n36-Destino truncado\r\n37-Pon la pila del mando sobre este\r\n39-Detestar\r\n42-Recurrida, interpuesta ante una corte\r\n45-Escúrrela, ponla al sol, volteada\r\n47-Número de planetas de nuestro sistema solar\r\n48-Provincia ubicada al nordeste de Argentina\r\n49-Tener miedo\r\n51-'Fue una noche de…, una noche loca'\r\n53-Tela gruesa con pequeños canales verticales\r\n54-Seguidores del género musical y subcultura Emotive hardcore \r\n55-Entréguese, obséquiese\r\n57-Conocida como la ciudad del agua, en Granada\r\n58-Viene subiendo un inglés\r\n60-\"… acostumbrado tu amor me dejó / … acostumbrado, solo, sin amor\" J Iglesias \r\n62-151 en números romanos",
+        "horizontal_clues": "1-Reino ficticio donde vivía Aladdin\r\n8-Posturas que adoptan las modelos de revistas\r\n13-Disposición específica en un contrato \r\n14-Dejar algo solo y separado\r\n16-Ensuciar y manchar, por ejemplo, los calcetines \r\n17-Pieza cóncava y pequeña de barro\r\n18-Prefijo del que indica un trillón\r\n19-Monos pequeños con el hocico aplastado\r\n21-Un gobierno incipiente\r\n22-No Poseo Información (siglas)\r\n24-Al fondo de la mochila\r\n25-Hierba segada, seca, para alimento del ganado\r\n26-Probó el taco que estaba malo\r\n28-Dependiente de una sustancia o actividad nociva\r\n31-Aseguro o doy por cierto algo\r\n34-Aliento, bocanada, vaho\r\n38-Observé en el cuarto de arriba que había provisión para el viaje\r\n40-Glándula de la piel que secreta el sebo\r\n41-Típico acompañamiento verde\r\n43-Mujer ardiente, demasiado viva\r\n44-Esparce y desvanece las partes que forman por aglomeración un cuerpo\r\n46-Abreviatura de \"Atentamente\"\r\n47-\"__genaria\" mujer que tiene entre 80 y 89 años\r\n50-Al expandido (2p) \r\n51-Centro Nacional de Aceleradores (siglas) \r\n52-Dígrafo excluido del abecedario en el 2010\r\n53-Adornado con nácar \r\n56-Saliendo de una debacle\r\n59-Baño turco\r\n61-Cada una de las definiciones de una misma palabra\r\n63-Lo es el Pacífico o el Índico\r\n64-Echó a alguien de su casa \r\n65-Bordes decorados de paños, telas y vestidos\r\n66-La tratase sin absolución, por homicida",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,#,14,#,#,#,#,15\r\n16,#,#,#,#,#,#,#,#,17,#,#,#,#,#\r\n18,#,#,#,19,#,#,#,20,#,#,#,21,#,#\r\n#,#,22,23,#,#,24,#,#,#,#,25,#,#,#\r\n26,27,#,#,#,#,28,#,#,29,30,#,#,#,#\r\n31,#,#,#,32,33,#,34,#,#,#,#,35,36,37\r\n38,#,#,#,#,#,39,#,40,#,#,#,#,#,#\r\n41,#,#,#,#,#,#,42,#,43,#,#,#,#,#\r\n#,#,#,44,#,#,#,#,45,#,#,46,#,#,#\r\n47,48,49,#,#,#,50,#,#,#,51,#,#,#,#\r\n52,#,#,#,53,54,#,#,#,55,#,#,56,57,58\r\n59,#,#,60,#,#,#,61,#,#,#,62,#,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,#,#,#,#\r\n#,65,#,#,#,#,#,66,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

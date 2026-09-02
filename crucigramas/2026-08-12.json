@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 6892,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-12T00:58:01.249143Z",
+      "updatedAt": "2026-08-12T01:02:15.690507Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "FANDANGO#CALCAD\r\nO#SOPOR#VICIO#E\r\nLS#COLAGENOS#SR\r\nKABUL#SANCTORUM\r\n#COMO#ALT#ASADA\r\nCAFE#L#OIC##GOT\r\nASENTIR#SUSPIRO\r\nR##TEJE#CANA##S\r\nLABORAL#ATRIBUI\r\nOJO##DAS#E#SONS\r\nMELCA#MEG#OVNI#\r\nANTARTIDA#NADAS\r\nGA#EPIDERMIS#NK\r\nN#BRACO#RICCI#Y\r\nOJEADO#GAMEOVER",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Música folclórica, música…",
+              "answer": "FOLK"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Natalia Sánchez",
+              "answer": "NS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Papel oficial con información importante",
+              "answer": "DOCUMENTO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Mit Griega Hermano gemelo de Artemisa",
+              "answer": "APOLO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Una magnolia deshojada",
+              "answer": "NOL"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Si es saturada, es buena",
+              "answer": "GRASA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Elemento químico cuyo símbolo es Zn",
+              "answer": "CINC"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Delimita el ámbito o espacio de algo",
+              "answer": "ACOTA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lacios, sin crespos",
+              "answer": "LISOS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Símbolo químico del cobalto",
+              "answer": "CO"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Enfermedad de la piel, que se manifiesta con forma de erupción",
+              "answer": "DERMATOSIS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Tormenta de nieve con viento fuerte",
+              "answer": "VENTISCA"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Obtienes, logras",
+              "answer": "SACAS"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Gentilicio de Astérix",
+              "answer": "GALO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Rudos confundidos y con mucha transpiración",
+              "answer": "SUDOR"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Pulmón de las reses",
+              "answer": "BOFE"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Cereal de grano pequeño también conocido como \"mijo de dedo\"",
+              "answer": "RAGI"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Rey de los francos, fundador del Imperio carolingio",
+              "answer": "CARLOMAGNO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Alisad, pulid",
+              "answer": "LIJAD"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "México Camarada, amigo íntimo",
+              "answer": "CUATE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Arquitecta e influencer española",
+              "answer": "TER"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Amanerado y presumido en el trato o el habla",
+              "answer": "RELAMIDO"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Superintendencia de Notariado y Registro (siglas)",
+              "answer": "SNR"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Euskadi en dos palabras",
+              "answer": "PAISVASCO"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Qué ridículo, me da vergüenza…",
+              "answer": "AJENA"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Película de Disney, sobre un perro que cree ser superhéroe",
+              "answer": "BOLT"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "\"Mi nombre es …, James…\"",
+              "answer": "BOND"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Se juntaban",
+              "answer": "UNIAN"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "\"… central\" la oficina principal",
+              "answer": "SEDE"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Dará al suelo",
+              "answer": "CAERA"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Dinastía medieval húngara",
+              "answer": "ARPAD"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Zarpa, garfio, gancho",
+              "answer": "GARRA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Las uñas de Venus convertidas en piedra",
+              "answer": "ONICE"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Así le dicen a un costarricense",
+              "answer": "TICO"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Producto lácteo parecido al yogur típico de Islandia",
+              "answer": "SKYR"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "\"Madam…\" en un duelo mágico con Merlín, en 'La espada en la piedra'",
+              "answer": "MIM"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Dominio web para Bélgica",
+              "answer": "BE"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Cuatro en números romanos",
+              "answer": "IV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Un \"fan de tango\" que pierde su corazón por este otro baile",
+              "answer": "FANDANGO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Copiad un dibujo, utilizando la transparencia del papel",
+              "answer": "CALCAD"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Adormecimiento, somnolencia",
+              "answer": "SOPOR"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Una adicción, un…",
+              "answer": "VICIO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Componente más abundante de la piel y de los huesos (pl)",
+              "answer": "COLAGENOS"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Inic del cubano que, junto a Luis Eduardo Aute, grabaron el álbum 'Mano a mano'",
+              "answer": "SR"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Capital de Afganistán",
+              "answer": "KABUL"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "\"Sancta__\" lo más sagrado del Templo de Jerusalén",
+              "answer": "SANCTORUM"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Ingiero alimentos",
+              "answer": "COMO"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "En el corazón de Malta",
+              "answer": "ALT"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Ni frita ni horneada, la carne",
+              "answer": "ASADA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Agua, té y…\" las tres bebidas más consumidas del mundo",
+              "answer": "CAFE"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Retrocedo si lo devuelvo",
+              "answer": "OIC"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Game Of Thrones",
+              "answer": "GOT"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Admitir moviendo la cabeza",
+              "answer": "ASENTIR"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Inhalación profunda causada por emociones",
+              "answer": "SUSPIRO"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Entrelaza hilos para formar telas",
+              "answer": "TEJE"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Víctima de los tintes de cabello",
+              "answer": "CANA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lloraba descontrolada por su ambiente de trabajo",
+              "answer": "LABORAL"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Asigné algo a alguien como de su competencia",
+              "answer": "ATRIBUI"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Órgano de la vista",
+              "answer": "OJO"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Entregas, otorgas, donas",
+              "answer": "DAS"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Hijos de Inglaterra",
+              "answer": "SONS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Sorgo",
+              "answer": "MELCA"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"… Ryan\" icónica actriz de los 90'",
+              "answer": "MEG"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Objeto Volador No Identificado",
+              "answer": "OVNI"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Continente donde se encuentra el Polo Sur",
+              "answer": "ANTARTIDA"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Te trasladas con el cuerpo, en el agua",
+              "answer": "NADAS"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Tejido celular que envuelve el cuerpo de los animales",
+              "answer": "EPIDERMIS"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Iniciales de la autora de 'La doctrina del shock'",
+              "answer": "NK"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "El perro Weimaraner",
+              "answer": "BRACO"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "\"Nina…\", famosa diseñadora de modas francesa",
+              "answer": "RICCI"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Visto así, por encima",
+              "answer": "OJEADO"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Juego terminado para Mario Bros (voz inglesa)",
+              "answer": "GAMEOVER"
+            }
+          }
+        },
+        "vertical_clues": "1-Música folclórica, música…\r\n2-Natalia Sánchez\r\n3-Papel oficial con información importante \r\n4-Mit Griega Hermano gemelo de Artemisa\r\n5-Una magnolia deshojada\r\n6-Si es saturada, es buena\r\n7-Elemento químico cuyo símbolo es Zn\r\n8-Delimita el ámbito o espacio de algo\r\n9-Lacios, sin crespos\r\n10-Símbolo químico del cobalto\r\n11-Enfermedad de la piel, que se manifiesta con forma de erupción\r\n13-Tormenta de nieve con viento fuerte\r\n15-Obtienes, logras\r\n17-Gentilicio de Astérix\r\n18-Rudos confundidos y con mucha transpiración\r\n20-Pulmón de las reses\r\n22-Cereal de grano pequeño también conocido como \"mijo de dedo\"\r\n26-Rey de los francos, fundador del Imperio carolingio\r\n27-Alisad, pulid\r\n29-México Camarada, amigo íntimo\r\n32-Arquitecta e influencer española\r\n33-Amanerado y presumido en el trato o el habla \r\n35-Superintendencia de Notariado y Registro (siglas)\r\n36-Euskadi en dos palabras\r\n40-Qué ridículo, me da vergüenza…\r\n41-Película de Disney, sobre un perro que cree ser superhéroe\r\n43-\"Mi nombre es …, James…\" \r\n44-Se juntaban\r\n47-\"… central\" la oficina principal\r\n50-Dará al suelo\r\n51-Dinastía medieval húngara \r\n53-Zarpa, garfio, gancho\r\n54-Las uñas de Venus convertidas en piedra\r\n56-Así le dicen a un costarricense\r\n58-Producto lácteo parecido al yogur típico de Islandia\r\n61-\"Madam…\" en un duelo mágico con Merlín, en 'La espada en la piedra'\r\n63-Dominio web para Bélgica\r\n65-Cuatro en números romanos",
+        "horizontal_clues": "1-Un \"fan de tango\" que pierde su corazón por este otro baile\r\n7-Copiad un dibujo, utilizando la transparencia del papel\r\n12-Adormecimiento, somnolencia\r\n13-Una adicción, un…\r\n14-Iniciales del creador de los jeans o vaqueros\r\n16-Componente más abundante de la piel y de los huesos (pl)\r\n18-Inic del cubano que, junto a Luis Eduardo Aute, grabaron el álbum 'Mano a mano'\r\n19-Capital de Afganistán\r\n21-\"Sancta__\" lo más sagrado del Templo de Jerusalén \r\n23-Ingiero alimentos\r\n24-En el corazón de Malta\r\n25-Ni frita ni horneada, la carne\r\n26-\"Agua, té y…\" las tres bebidas más consumidas del mundo\r\n28-Retrocedo si lo devuelvo\r\n30-Game Of Thrones\r\n31-Admitir moviendo la cabeza\r\n34-Inhalación profunda causada por emociones\r\n37-Entrelaza hilos para formar telas\r\n38-Víctima de los tintes de cabello\r\n39-Lloraba descontrolada por su ambiente de trabajo\r\n42-Asigné algo a alguien como de su competencia\r\n45-Órgano de la vista\r\n46-Entregas, otorgas, donas\r\n48-Hijos de Inglaterra\r\n49-Sorgo\r\n52-\"… Ryan\" icónica actriz de los 90'\r\n54-Objeto Volador No Identificado\r\n55-Continente donde se encuentra el Polo Sur\r\n57-Te trasladas con el cuerpo, en el agua \r\n59-Piel de gallina\r\n60-Tejido celular que envuelve el cuerpo de los animales\r\n62-Iniciales de la autora de 'La doctrina del shock'\r\n63-El perro Weimaraner\r\n64-\"Nina…\", famosa diseñadora de modas francesa\r\n66-Visto así, por encima\r\n67-Juego terminado para Mario Bros (voz inglesa)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,16,#,#,#,17,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,#,#,22,#,#\r\n#,23,#,#,#,#,24,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,28,#,29,#,#,30,#,#\r\n31,#,#,#,32,#,33,#,34,#,35,36,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,41,#,#,#,#,#,42,#,#,#,43,44,#\r\n45,#,#,#,#,46,#,47,#,#,#,48,#,#,#\r\n49,#,#,50,51,#,52,#,53,#,54,#,#,#,#\r\n55,#,#,#,#,56,#,#,#,#,57,#,#,#,58\r\n59,#,#,60,#,#,#,#,#,61,#,#,#,62,#\r\n#,#,63,#,#,#,#,#,64,#,#,#,65,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

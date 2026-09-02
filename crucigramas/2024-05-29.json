@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 303,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-28T13:02:03.338691Z",
+      "updatedAt": "2024-05-30T06:06:27.180421Z",
+      "level": null,
+      "creationDate": "2024-05-29",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-29",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#ARMADO#EXCAVAR\r\nR#SATIVEX#OMEGA\r\nEC#SESUDO#RALOS\r\nCARASOL#GROSERO\r\nACOJONA#AUTORAS\r\nLA#ER#RAMBO#OR#\r\nCOPEAR#TIESO##D\r\nASE##ODIAN##TAR\r\nR##SEMEN#SEDUCE\r\n#RI#PASEO#VARON\r\nCAMPING#PREMISA\r\nHIPATIA#TIRANAS\r\nADULE#RAICES#RT\r\nMANAT#ROMESCO#E\r\nASESORE#ESTOPA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic. de pintor de \"Las Estancias de Rafael\" en el Palacio Apostólico.",
+              "answer": "RS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Amase terapéuticamente un músculo.",
+              "answer": "MASAJEE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Acumula dinero y joyas.",
+              "answer": "ATESORA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Música. Disonancia.",
+              "answer": "DISON"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Producirse la ovulación en una mujer.",
+              "answer": "OVULAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Práctica de contraer matrimonio con personas de distinta ascendencia.",
+              "answer": "EXOGAMIA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Trastos, cosas, objetos de una persona venezolana.",
+              "answer": "COROTOS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Uno, amalgamo.",
+              "answer": "AMASO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Embarcación que avanza mediante la acción del viento.",
+              "answer": "VELERO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Predecir, anunciar, generalmente desdichas.",
+              "answer": "AGORAR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Rosas raras para los soldados sin rango.",
+              "answer": "RASOS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Quiero resaltar que con disimulo, usaré cal cara.",
+              "answer": "RECALCAR"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Emily Dickinson (Célebre poetisa).",
+              "answer": "ED"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Ingrediente principal del chocolate (pl).",
+              "answer": "CACAOS"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "A finales de febrero.",
+              "answer": "RO"
+            },
+            "24": {
+              "col": 9,
+              "row": 3,
+              "clue": "Pintor alemán, autor de Las Tres Gracias.",
+              "answer": "RUBENS"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Acerté algo por conjeturas.",
+              "answer": "ATINE"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Pelo quebradizo.",
+              "answer": "PE"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Relativo a los gitanos o a su lengua.",
+              "answer": "ROMANI"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Diste salida a emociones destructivas.",
+              "answer": "DRENASTE"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "Rasgué, rajé, por ejemplo una tela.",
+              "answer": "DESGARRE"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "La ciudad de la Juventus FC.",
+              "answer": "TURIN"
+            },
+            "41": {
+              "col": 13,
+              "row": 7,
+              "clue": "Perseguir, hostigar.",
+              "answer": "ACOSAR"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "Un apodo, un adjetivo para Epicteto.",
+              "answer": "EPITETO"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "El techo del mundo, el...",
+              "answer": "EVEREST"
+            },
+            "46": {
+              "col": 11,
+              "row": 8,
+              "clue": "Capital de Siria.",
+              "answer": "DAMASCO"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Usadas, viejas.",
+              "answer": "RAIDAS"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Que queda sin castigo.",
+              "answer": "IMPUNE"
+            },
+            "50": {
+              "col": 8,
+              "row": 9,
+              "clue": "En tiempo de caos perfeccioné mi tope.",
+              "answer": "OPTIME"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una chica venezolana.",
+              "answer": "CHAMA"
+            },
+            "53": {
+              "col": 3,
+              "row": 10,
+              "clue": "Dientes frontales.",
+              "answer": "PALAS"
+            },
+            "55": {
+              "col": 9,
+              "row": 10,
+              "clue": "Te ensortijes el cabello, te lo...",
+              "answer": "RICES"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Vocales abiertas.",
+              "answer": "AO"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Opus.",
+              "answer": "OP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Provisto de armas.",
+              "answer": "ARMADO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hacer en el terreno hoyos, zanjas, desmontes, pozos o galerías subterráneas.",
+              "answer": "EXCAVAR"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Medicamento derivado del cannabis, para la esclerosis múltiple.",
+              "answer": "SATIVEX"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Marca suiza de relojes con 30 años de patrocinio en los JJOO.",
+              "answer": "OMEGA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inic. Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'.",
+              "answer": "EC"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Dicho de un hombre: Sabio, inteligente.",
+              "answer": "SESUDO"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Separados, espaciados, dispersos.",
+              "answer": "RALOS"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Solana, sitio donde da el sol.",
+              "answer": "CARASOL"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Vulgar, soez.",
+              "answer": "GROSERO"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Da miedo, acobarda a cualquiera.",
+              "answer": "ACOJONA"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Las que escribieron la obra.",
+              "answer": "AUTORAS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Dominio web para Laos.",
+              "answer": "LA"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Se puede caer por falta de calcio.",
+              "answer": "ER"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "El personaje emblemático de Sylvester Stallone.",
+              "answer": "RAMBO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Río que pasa por Rusia y Kazajistán.",
+              "answer": "OR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Tomar copas.",
+              "answer": "COPEAR"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "Rígido, duro.",
+              "answer": "TIESO"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cocine un alimento.",
+              "answer": "ASE"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Lo repugnan, lo aborrecen.",
+              "answer": "ODIAN"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "Instrumento de cuerda de mástil largo, de origen persa.",
+              "answer": "TAR"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "El fluido de la vida.",
+              "answer": "SEMEN"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "Enamora, cautiva sexualmente.",
+              "answer": "SEDUCE"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Ir de cabeza.",
+              "answer": "RI"
+            },
+            "49": {
+              "col": 4,
+              "row": 9,
+              "clue": "Rambla, alameda, calle bonita.",
+              "answer": "PASEO"
+            },
+            "51": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ser humano de género masculino.",
+              "answer": "VARON"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lugar al aire libre para albergar viajeros.",
+              "answer": "CAMPING"
+            },
+            "54": {
+              "col": 8,
+              "row": 10,
+              "clue": "Fil. Primera o segunda proposición de un silogismo.",
+              "answer": "PREMISA"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Una de las primeras mujeres matemáticas de la historia era de Alejandría.",
+              "answer": "HIPATIA"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "Mujeres que abusan de su poder.",
+              "answer": "TIRANAS"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Exalte, loe.",
+              "answer": "ADULE"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Las que aparecen con los meses después de teñirse el cabello.",
+              "answer": "RAICES"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Russia Today.",
+              "answer": "RT"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Moneda empleada actualmente en Azerbaiyán y Turkmenistán.",
+              "answer": "MANAT"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Salsa típica de Tarragona.",
+              "answer": "ROMESCO"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Me informé y cociné con la hermana del este.",
+              "answer": "ASESORE"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "El dúo que canta 'Por la raja de tu falda'.",
+              "answer": "ESTOPA"
+            }
+          }
+        },
+        "vertical_clues": "2-Inic. de pintor de \"Las Estancias de Rafael\" en el Palacio Apostólico.\r\n3-Amase terapéuticamente un músculo.\r\n4-Acumula dinero y joyas.\r\n5-Música. Disonancia.\r\n6-Producirse la ovulación en una mujer.\r\n7-Práctica de contraer matrimonio con personas de distinta ascendencia.\r\n8-Trastos, cosas, objetos de una persona venezolana.\r\n9-Uno, amalgamo.\r\n10-Embarcación que avanza mediante la acción del viento.\r\n11-Predecir, anunciar, generalmente desdichas.\r\n12-Rosas raras para los soldados sin rango.\r\n13-Quiero resaltar que con disimulo, usaré cal cara.\r\n15-Emily Dickinson (Célebre poetisa). \r\n18-Ingrediente principal del chocolate (pl).\r\n22-A finales de febrero.\r\n24-Pintor alemán, autor de Las Tres Gracias.\r\n30-Acerté algo por conjeturas.\r\n33-Pelo quebradizo.\r\n34-Relativo a los gitanos o a su lengua.\r\n36-Diste salida a emociones destructivas.\r\n39-Rasgué, rajé, por ejemplo una tela.\r\n40-La ciudad de la Juventus FC.\r\n41-Perseguir, hostigar.\r\n43-Un apodo, un adjetivo para Epicteto.\r\n45-El techo del mundo, el...\r\n46-Capital de Siria.\r\n47-Usadas, viejas.\r\n48-Que queda sin castigo.\r\n50-En tiempo de caos perfeccioné mi tope.\r\n52-Una chica venezolana.\r\n53-Dientes frontales.\r\n55-Te ensortijes el cabello, te lo...\r\n60-Vocales abiertas.\r\n64-Opus.",
+        "horizontal_clues": "1-Provisto de armas.\r\n7-Hacer en el terreno hoyos, zanjas, desmontes, pozos o galerías subterráneas.\r\n14-Medicamento derivado del cannabis, para la esclerosis múltiple.\r\n16-Marca suiza de relojes con 30 años de patrocinio en los JJOO.\r\n17-Inic. Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'.\r\n19-Dicho de un hombre: Sabio, inteligente.\r\n20-Separados, espaciados, dispersos.\r\n21-Solana, sitio donde da el sol.\r\n23-Vulgar, soez.\r\n25-Da miedo, acobarda a cualquiera.\r\n26-Las que escribieron la obra.\r\n27-Dominio web para Laos.\r\n28-Se puede caer por falta de calcio. \r\n29-El personaje emblemático de Sylvester Stallone.\r\n31-Río que pasa por Rusia y Kazajistán.\r\n32-Tomar copas.\r\n35-Rígido, duro.\r\n37-Cocine un alimento.\r\n38-Lo repugnan, lo aborrecen.\r\n40-Instrumento de cuerda de mástil largo, de origen persa.\r\n42-El fluido de la vida.\r\n44-Enamora, cautiva sexualmente.\r\n47-Ir de cabeza.\r\n49-Rambla, alameda, calle bonita.\r\n51-Ser humano de género masculino.\r\n52-Lugar al aire libre para albergar viajeros.\r\n54-Fil. Primera o segunda proposición de un silogismo.\r\n56-Una de las primeras mujeres matemáticas de la historia era de Alejandría.\r\n57-Mujeres que abusan de su poder.\r\n58-Exalte, loe.\r\n59-Las que aparecen con los meses después de teñirse el cabello.\r\n61-Russia Today.\r\n62-Moneda empleada actualmente en Azerbaiyán y Turkmenistán.\r\n63-Salsa típica de Tarragona.\r\n65-Me informé y cociné con la hermana del este.\r\n66-El dúo que canta 'Por la raja de tu falda'.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,#,8,9,10,11,12\r\n13,#,14,#,#,#,#,15,#,#,16,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,#,20,#,#,#,#\r\n21,#,22,#,#,#,#,#,23,24,#,#,#,#,#\r\n25,#,#,#,#,#,#,#,26,#,#,#,#,#,#\r\n27,#,#,28,#,#,29,30,#,#,#,#,31,#,#\r\n32,#,33,#,#,34,#,35,#,#,#,#,#,#,36\r\n37,#,#,#,#,38,39,#,#,#,#,#,40,41,#\r\n#,#,#,42,43,#,#,#,#,44,45,46,#,#,#\r\n#,47,48,#,49,#,#,#,50,#,51,#,#,#,#\r\n52,#,#,53,#,#,#,#,54,55,#,#,#,#,#\r\n56,#,#,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,59,60,#,#,#,#,#,61,#\r\n62,#,#,#,#,#,63,#,#,#,#,#,64,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

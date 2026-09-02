@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 2063,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-02T21:29:22.464200Z",
+      "updatedAt": "2025-04-02T21:29:22.480181Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-05",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#RAPEN#PEDID#AC\r\nREBASO##VANRIJN\r\nAPORTAR#INFAMIA\r\nCARCAMAL#TOMA##\r\nESTEN#KANE#AGUR\r\nLEO#CAIDA#OTICO\r\n###PICAYOS#INIC\r\nNARRAD###ESCASO\r\nATEO#CACATUA###\r\nCUBRE#RIRAP#TSM\r\nANAR#UNAI#ETILO\r\n##SONS#DEPRIMIR\r\nGRAGEAS#LLAMADA\r\nTIRANIA##ADORES\r\nAN#RENDI#NANAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Volví a interpretar los apuntes",
+              "answer": "REPASE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Abandonó la misión",
+              "answer": "ABORTO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Acortamiento de Parcero",
+              "answer": "PARCE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Tiempo que uno se queda en la alcoba del cineasta loco",
+              "answer": "ESTANCIA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Chomsky\" importante lingüista norteamericano",
+              "answer": "NOAM"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Muy pocas evidencias",
+              "answer": "EVI"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Te dan traspapelado el de Alighieri",
+              "answer": "DANTE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Apócope de \"información\"",
+              "answer": "INFO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Trágica, calamitosa, conmovedora y teatral",
+              "answer": "DRAMATICA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Pequeño pimiento, bien picante",
+              "answer": "AJI"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Centro Nacional de Aceleradores (siglas)",
+              "answer": "CNA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Partes de popa y proa donde se estrecha el pantoque",
+              "answer": "RACEL"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "\"…a todo el mundo viviendo en paz\" JL",
+              "answer": "IMAGINA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Licor de frutas fermentadas de región de los Balcanes y otras",
+              "answer": "RAKIA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Dama de la primera nobleza británica",
+              "answer": "LADY"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Nave, embarcación antigua",
+              "answer": "NAO"
+            },
+            "26": {
+              "col": 13,
+              "row": 4,
+              "clue": "Acrónimo de Unidad de Cuidados Intensivos (pl)",
+              "answer": "UCIS"
+            },
+            "27": {
+              "col": 14,
+              "row": 4,
+              "clue": "\"… Pachukote\" vocalista la banda mexicana 'La Maldita Vecindad'",
+              "answer": "ROCO"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Banda australiana de heavy metal",
+              "answer": "ACDC"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Suspender, aplazar",
+              "answer": "PRORROGAR"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Hongo con forma de sombrilla",
+              "answer": "SETA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Una cana rebelde",
+              "answer": "NACA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Conserva este pescado",
+              "answer": "ATUN"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Pasar el límite, superar",
+              "answer": "REBASAR"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "Completada al 100%",
+              "answer": "SUPERADA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Molécula mensajera de información genética",
+              "answer": "ARN"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Echad para atrás",
+              "answer": "CIAD"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "La Sirenita más popular",
+              "answer": "ARIEL"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Quitará o hurtará con engaño",
+              "answer": "TIMARA"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"Google…\" programa para hacer diapositivas",
+              "answer": "SLIDES"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Morsa enloquecida por las bayas",
+              "answer": "MORAS"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Atleta más rápido del mundo",
+              "answer": "USAIN"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Pumba no lleva el volante del barco",
+              "answer": "TIMON"
+            },
+            "55": {
+              "col": 4,
+              "row": 11,
+              "clue": "Bebé, niño",
+              "answer": "NENE"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Modelo sistemático de una actuación",
+              "answer": "PLAN"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Grand Theft Auto",
+              "answer": "GTA"
+            },
+            "59": {
+              "col": 1,
+              "row": 12,
+              "clue": "Pieza metálica central de la rueda de un vehículo",
+              "answer": "RIN"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "\"Triste\" en inglés",
+              "answer": "SAD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Rasuren o afeiten las barbas",
+              "answer": "RAPEN"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Rogad o demandad",
+              "answer": "PEDID"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Antes de Cristo",
+              "answer": "AC"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Pasó o excedió cierto límite",
+              "answer": "REBASO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"Rembrandt Harmenszoon…\" pintor neerlandés (2p)",
+              "answer": "VANRIJN"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Contribuir, sumar",
+              "answer": "APORTAR"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "La ninfa mía esconde mucha deshonra",
+              "answer": "INFAMIA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Persona decrépita y achacosa",
+              "answer": "CARCAMAL"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Bebe tu dosis",
+              "answer": "TOMA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Permanezcan, aguarden",
+              "answer": "ESTEN"
+            },
+            "23": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"Ciudadano…\" entre las mejores películas de la historia (1941)",
+              "answer": "KANE"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Voz usada para despedirse (vasquismo)",
+              "answer": "AGUR"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Con cariño a Messi",
+              "answer": "LEO"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Fís Es libre, cuando la única fuerza que interviene es la gravedad",
+              "answer": "CAIDA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cuando un medicamento es para el oído",
+              "answer": "OTICO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Grupos de danza folclórica de Cantabria",
+              "answer": "PICAYOS"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Abreviatura de \"Iniciales\"",
+              "answer": "INIC"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Contad lo sucedido",
+              "answer": "NARRAD"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Cuando algo es limitado o insuficiente",
+              "answer": "ESCASO"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hombre al que no le interesa ninguna religión",
+              "answer": "ATEO"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Ave blanca de penacho eréctil, parecida al loro",
+              "answer": "CACATUA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dispara al enemigo para que el compañero pueda avanzar, lo…",
+              "answer": "CUBRE"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Parir y que todo se dé vuelta",
+              "answer": "RIRAP"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Territorio Santos Modelo",
+              "answer": "TSM"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ir en valenciano",
+              "answer": "ANAR"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"… Elorriaga\" escritor bilbaíno de la novela \"Un tranvía en SP\" (2002)",
+              "answer": "UNAI"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Química Radical del etano",
+              "answer": "ETILO"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "Hijos de Inglaterra",
+              "answer": "SONS"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Poner en un estado de ánimo pésimo",
+              "answer": "DEPRIMIR"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pastillas, cápsulas",
+              "answer": "GRAGEAS"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Nombrada en la convocatoria",
+              "answer": "LLAMADA"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Régimen cruel, abusivo, ilegítimo y que reprime la oposición",
+              "answer": "TIRANIA"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Lo idolatres",
+              "answer": "ADORES"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Poco ansiosos",
+              "answer": "AN"
+            },
+            "65": {
+              "col": 3,
+              "row": 14,
+              "clue": "Bajé los brazos, me di por vencida, me…",
+              "answer": "RENDI"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Niñeras, ayas",
+              "answer": "NANAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Volví a interpretar los apuntes\r\n2-Abandonó la misión\r\n3-Acortamiento de Parcero\r\n4-Tiempo que uno se queda en la alcoba del cineasta loco\r\n5-\"… Chomsky\" importante lingüista norteamericano\r\n7-Muy pocas evidencias\r\n8-Te dan traspapelado el de Alighieri\r\n9-Apócope de \"información\"\r\n10-Trágica, calamitosa, conmovedora y teatral\r\n11-Pequeño pimiento, bien picante\r\n12-Centro Nacional de Aceleradores (siglas) \r\n13-Partes de popa y proa donde se estrecha el pantoque\r\n15-\"…a todo el mundo viviendo en paz\" JL\r\n17-Licor de frutas fermentadas de región de los Balcanes y otras\r\n20-Dama de la primera nobleza británica\r\n24-Nave, embarcación antigua\r\n26-Acrónimo de Unidad de Cuidados Intensivos (pl)\r\n27-\"… Pachukote\" vocalista la banda mexicana 'La Maldita Vecindad'\r\n30-Banda australiana de heavy metal\r\n32-Suspender, aplazar\r\n33-Hongo con forma de sombrilla\r\n35-Una cana rebelde\r\n36-Conserva este pescado\r\n37-Pasar el límite, superar\r\n39-Completada al 100%\r\n42-Molécula mensajera de información genética\r\n43-Echad para atrás\r\n44-La Sirenita más popular\r\n47-Quitará o hurtará con engaño\r\n48-\"Google…\" programa para hacer diapositivas\r\n49-Morsa enloquecida por las bayas\r\n51-Atleta más rápido del mundo\r\n53-Pumba no lleva el volante del barco\r\n55-Bebé, niño\r\n57-Modelo sistemático de una actuación\r\n58-Grand Theft Auto\r\n59-Pieza metálica central de la rueda de un vehículo\r\n60-\"Triste\" en inglés\r\n",
+        "horizontal_clues": "1-Rasuren o afeiten las barbas\r\n6-Rogad o demandad\r\n11-Antes de Cristo\r\n13-Pasó o excedió cierto límite\r\n14-\"Rembrandt Harmenszoon…\" pintor neerlandés (2p)\r\n16-Contribuir, sumar\r\n18-La ninfa mía esconde mucha deshonra\r\n19-Persona decrépita y achacosa\r\n21-Bebe tu dosis\r\n22-Permanezcan, aguarden\r\n23-\"Ciudadano…\" entre las mejores películas de la historia (1941)\r\n25-Voz usada para despedirse (vasquismo)\r\n28-Con cariño a Messi\r\n29-Fís Es libre, cuando la única fuerza que interviene es la gravedad\r\n31-Cuando un medicamento es para el oído\r\n32-Grupos de danza folclórica de Cantabria\r\n34-Abreviatura de \"Iniciales\" \r\n35-Contad lo sucedido\r\n38-Cuando algo es limitado o insuficiente\r\n40-Hombre al que no le interesa ninguna religión\r\n41-Ave blanca de penacho eréctil, parecida al loro\r\n45-Dispara al enemigo para que el compañero pueda avanzar, lo…\r\n46-Parir y que todo se dé vuelta\r\n47-Territorio Santos Modelo\r\n50-Ir en valenciano \r\n51-\"… Elorriaga\" escritor bilbaíno de la novela \"Un tranvía en SP\" (2002)\r\n52-Química Radical del etano\r\n54-Hijos de Inglaterra\r\n56-Poner en un estado de ánimo pésimo\r\n58-Pastillas, cápsulas\r\n61-Nombrada en la convocatoria\r\n62-Régimen cruel, abusivo, ilegítimo y que reprime la oposición\r\n63-Lo idolatres\r\n64-Poco ansiosos\r\n65-Bajé los brazos, me di por vencida, me…\r\n66-Niñeras, ayas\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,#,11,12\r\n13,#,#,#,#,#,#,#,14,#,#,#,15,#,#\r\n16,#,#,#,#,#,17,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,#,20,#,21,#,#,#,#,#\r\n22,#,#,#,#,#,23,#,24,#,#,25,#,26,27\r\n28,#,#,#,29,30,#,#,#,#,31,#,#,#,#\r\n#,#,#,32,#,#,#,#,#,33,#,34,#,#,#\r\n35,36,37,#,#,#,#,#,#,38,39,#,#,#,#\r\n40,#,#,#,#,41,42,43,44,#,#,#,#,#,#\r\n45,#,#,#,#,#,46,#,#,#,#,#,47,48,49\r\n50,#,#,#,#,51,#,#,#,#,52,53,#,#,#\r\n#,#,54,#,55,#,#,56,#,57,#,#,#,#,#\r\n58,59,#,#,#,#,60,#,61,#,#,#,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#\r\n64,#,#,65,#,#,#,#,#,66,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

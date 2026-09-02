@@ -1,0 +1,499 @@
+{
+  "data": {
+    "id": 5832,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-06T20:11:12.547233Z",
+      "updatedAt": "2026-05-06T20:13:09.868495Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-07",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DIGAS#GOMAS#CAT\r\nEMISORA#OBOLO#E\r\nMILITE#AZUL#MES\r\nATOLON#MARE#URL\r\nGATA#AMARRA#N#A\r\nOD##CUARTA#PEU#\r\nGOODALL###BARRE\r\nI#TINTINOLOGO#X\r\nADOBO###CANASTO\r\n#TSU#BOEING##IN\r\nL#C#SANDEZ#CESE\r\nOJO#ANDE#ATORAR\r\nCAP#UNES#DURINA\r\nO#IGNEA#HAMACAR\r\nSTO#ARNES#ILESA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Práctica política que gana, con halagos el favor popular",
+              "answer": "DEMAGOGIA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Emulado, parodiado",
+              "answer": "IMITADO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Françoise…\" pintora francesa, autora del libro 'Vida con Picasso'",
+              "answer": "GILOT"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Alberga a alguien en un refugio",
+              "answer": "ASILA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Jesús …\", artista plástico venezolano precursor del cinetismo",
+              "answer": "SOTO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Músico clásico, autor de 'La flauta mágica'",
+              "answer": "MOZART"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "No sea burra y no fastidie",
+              "answer": "ABURRA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Palo del flamenco de carácter melancólico",
+              "answer": "SOLEA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Los …\", castillo situado en Torrelobatón, Castilla y León, España",
+              "answer": "COMUNEROS"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Apellido de científico serbio que inventó la base de conexión inalámbrica de electricidad",
+              "answer": "TESLA"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Coche francés",
+              "answer": "RENAULT"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Querer a Mara Armas",
+              "answer": "AMAR"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Símbolo químico de Erbio",
+              "answer": "ER"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "País africano cuya capital es Bamako",
+              "answer": "MALI"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Que tiene blanco todo o gran parte del pelo",
+              "answer": "CANO"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "El salario, la…",
+              "answer": "PAGA"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Antigua ciudad del sur de Mesopotamia",
+              "answer": "UR"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "Instrumento ótico",
+              "answer": "OTOSCOPIO"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"El… Martínez\" portero de la selección argentina",
+              "answer": "DIBU"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "Pipa de agua",
+              "answer": "BONG"
+            },
+            "33": {
+              "col": 14,
+              "row": 6,
+              "clue": "Liberará de una obligación a alguien",
+              "answer": "EXONERARA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Descanse, disfrute de no hacer nada",
+              "answer": "OCIE"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Arrojada en una playa de Pontevedra",
+              "answer": "LANZADA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Director Técnico (siglas)",
+              "answer": "DT"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Bebida medicinal de muchas hierbas cocidas (pl)",
+              "answer": "TISANAS"
+            },
+            "42": {
+              "col": 5,
+              "row": 9,
+              "clue": "Imagen a modo de anuncio en una página web (voz inglesa)",
+              "answer": "BANNER"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Flamean la bandera",
+              "answer": "ONDEAN"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "He puesto la sede de cabeza",
+              "answer": "EDES"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Esos… bajitos\" de Serrat",
+              "answer": "LOCOS"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Baño de vapor",
+              "answer": "SAUNA"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "El 25 % de la vida marina depende de sus arrecifes",
+              "answer": "CORAL"
+            },
+            "49": {
+              "col": 12,
+              "row": 10,
+              "clue": "Ponga rígido el pelo de la piel",
+              "answer": "ERICE"
+            },
+            "51": {
+              "col": 1,
+              "row": 11,
+              "clue": "Risa franca",
+              "answer": "JA"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cuchillo ceremonial de los incas",
+              "answer": "TUMI"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Herbert Spencer",
+              "answer": "HS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Todo lo que… será usado en tu contra\"",
+              "answer": "DIGAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "¿Hay algo más escondido que sirva para borrar?",
+              "answer": "GOMAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "En el logo de una Caterpillar",
+              "answer": "CAT"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Nos reíamos con los locos de la estación de radio",
+              "answer": "EMISORA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Lo que cobraba Caronte para cruzar el Aqueronte",
+              "answer": "OBOLO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Serví, por ejemplo, en las filas de un partido político",
+              "answer": "MILITE"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Color cielo",
+              "answer": "AZUL"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Abril o Julio",
+              "answer": "MES"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Isla con una laguna interior que comunica con el mar",
+              "answer": "ATOLON"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"… Nostrum\" el Mediterráneo de los romanos",
+              "answer": "MARE"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "La dirección de una página web",
+              "answer": "URL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lo es la Hello Kitty",
+              "answer": "GATA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sujeta el buque al puerto",
+              "answer": "AMARRA"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Un poco de odio",
+              "answer": "OD"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Cada una de las cuatro partes iguales en que se divide un todo",
+              "answer": "CUARTA"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Un pie en Barcelona y un pie en Valencia",
+              "answer": "PEU"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Jane …\" pionera en el estudio de los chimpancés salvajes",
+              "answer": "GOODALL"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "Arrasa, acaba con toda la mugre",
+              "answer": "BARRE"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Investigador experto en \"Las Aventuras de Tintín\", la obra de Hergé",
+              "answer": "TINTINOLOGO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Caldo o salsa con que se sazona un manjar",
+              "answer": "ADOBO"
+            },
+            "39": {
+              "col": 8,
+              "row": 8,
+              "clue": "Una cesta de la Toscana",
+              "answer": "CANASTO"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Técnico Superior Universitario",
+              "answer": "TSU"
+            },
+            "42": {
+              "col": 5,
+              "row": 9,
+              "clue": "\"… 747\" Avión comercial de fuselaje ancho",
+              "answer": "BOEING"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Símbolo químico del Indio",
+              "answer": "IN"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Despropósito, simpleza, necedad",
+              "answer": "SANDEZ"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"… al fuego\" suspensión temporal del conflicto",
+              "answer": "CESE"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "El de Horus, el Udyat",
+              "answer": "OJO"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "No nade, camine",
+              "answer": "ANDE"
+            },
+            "53": {
+              "col": 9,
+              "row": 11,
+              "clue": "Atascar, obstruir",
+              "answer": "ATORAR"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Capitán, sea breve",
+              "answer": "CAP"
+            },
+            "56": {
+              "col": 4,
+              "row": 12,
+              "clue": "Juntas",
+              "answer": "UNES"
+            },
+            "57": {
+              "col": 9,
+              "row": 12,
+              "clue": "Enfermedad contagiosa de las caballerías",
+              "answer": "DURINA"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Roca volcánica",
+              "answer": "IGNEA"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Mecer en una red colgante",
+              "answer": "HAMACAR"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Pequeño santo",
+              "answer": "STO"
+            },
+            "61": {
+              "col": 4,
+              "row": 14,
+              "clue": "Siempre lo usa el escalador",
+              "answer": "ARNES"
+            },
+            "62": {
+              "col": 10,
+              "row": 14,
+              "clue": "Sin ningún rasguño tras un accidente",
+              "answer": "ILESA"
+            }
+          }
+        },
+        "vertical_clues": "1-Práctica política que gana, con halagos el favor popular\r\n2-Emulado, parodiado\r\n3-\"Françoise…\" pintora francesa, autora del libro 'Vida con Picasso' \r\n4-Alberga a alguien en un refugio\r\n5-\"Jesús …\", artista plástico venezolano precursor del cinetismo\r\n6-Piel de gallina\r\n7-Músico clásico, autor de 'La flauta mágica' \r\n8-No sea burra y no fastidie \r\n9-Palo del flamenco de carácter melancólico \r\n10-\"Los …\", castillo situado en Torrelobatón, Castilla y León, España\r\n11-Apellido de científico serbio que inventó la base de conexión inalámbrica de electricidad\r\n13-Coche francés\r\n16-Querer a Mara Armas \r\n18-Símbolo químico de Erbio\r\n24-País africano cuya capital es Bamako\r\n26-Que tiene blanco todo o gran parte del pelo\r\n27-El salario, la…\r\n28-Antigua ciudad del sur de Mesopotamia\r\n30-Instrumento ótico\r\n31-\"El… Martínez\" portero de la selección argentina\r\n32-Pipa de agua\r\n33-Liberará de una obligación a alguien \r\n35-Descanse, disfrute de no hacer nada\r\n36-Arrojada en una playa de Pontevedra \r\n38-Director Técnico (siglas)\r\n40-Bebida medicinal de muchas hierbas cocidas (pl)\r\n42-Imagen a modo de anuncio en una página web (voz inglesa)\r\n43-Flamean la bandera\r\n44-He puesto la sede de cabeza\r\n46-\"Esos… bajitos\" de Serrat\r\n47-Baño de vapor\r\n48-El 25 % de la vida marina depende de sus arrecifes\r\n49-Ponga rígido el pelo de la piel\r\n51-Risa franca\r\n54-Cuchillo ceremonial de los incas \r\n59-Herbert Spencer",
+        "horizontal_clues": "1-\"Todo lo que… será usado en tu contra\" \r\n6-¿Hay algo más escondido que sirva para borrar? \r\n10-En el logo de una Caterpillar \r\n12-Nos reíamos con los locos de la estación de radio \r\n14-Lo que cobraba Caronte para cruzar el Aqueronte\r\n15-Serví, por ejemplo, en las filas de un partido político \r\n16-Color cielo \r\n17-Abril o Julio\r\n19-Isla con una laguna interior que comunica con el mar\r\n20-\"… Nostrum\" el Mediterráneo de los romanos \r\n21-La dirección de una página web\r\n22-Lo es la Hello Kitty\r\n23-Sujeta el buque al puerto\r\n25-Un poco de odio\r\n26-Cada una de las cuatro partes iguales en que se divide un todo\r\n27-Un pie en Barcelona y un pie en Valencia\r\n29-\"Jane …\" pionera en el estudio de los chimpancés salvajes\r\n32-Arrasa, acaba con toda la mugre\r\n34-Investigador experto en \"Las Aventuras de Tintín\", la obra de Hergé \r\n37-Caldo o salsa con que se sazona un manjar\r\n39-Una cesta de la Toscana \r\n41-Técnico Superior Universitario\r\n42-\"… 747\" Avión comercial de fuselaje ancho\r\n45-Símbolo químico del Indio\r\n47-Despropósito, simpleza, necedad\r\n48-\"… al fuego\" suspensión temporal del conflicto\r\n50-El de Horus, el Udyat\r\n52-No nade, camine\r\n53-Atascar, obstruir\r\n55-Capitán, sea breve\r\n56-Juntas\r\n57-Enfermedad contagiosa de las caballerías\r\n58-Roca volcánica\r\n59-Mecer en una red colgante \r\n60-Pequeño santo\r\n61-Siempre lo usa el escalador\r\n62-Sin ningún rasguño tras un accidente",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,#,7,8,9,#,10,#,11\r\n12,#,#,#,#,13,#,#,14,#,#,#,#,#,#\r\n15,#,#,#,#,#,#,16,#,#,#,#,17,18,#\r\n19,#,#,#,#,#,#,20,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,24,#,#,#,#,#,#,#,#\r\n25,#,#,#,26,#,#,#,#,#,#,27,#,28,#\r\n29,#,30,31,#,#,#,#,#,#,32,#,#,#,33\r\n#,#,34,#,#,#,#,#,35,36,#,#,#,#,#\r\n37,38,#,#,#,#,#,#,39,#,#,#,#,40,#\r\n#,41,#,#,#,42,43,44,#,#,#,#,#,45,#\r\n46,#,#,#,47,#,#,#,#,#,#,48,49,#,#\r\n50,51,#,#,52,#,#,#,#,53,54,#,#,#,#\r\n55,#,#,#,56,#,#,#,#,57,#,#,#,#,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,#,#,#\r\n60,#,#,#,61,#,#,#,#,#,62,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

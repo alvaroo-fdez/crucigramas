@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4340,
+    "type": null,
+    "attributes": {
+      "author": "Autor: Elro / Edit. Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-18T09:11:59.286917Z",
+      "updatedAt": "2025-12-18T11:38:38.649565Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Autor: Elro / Edit. Nataly Sanoja",
+      "theme": "Instrucciones de ensamblaje",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-22",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#ESTRECHARLAZOS\r\n#BOA##AUREAS#JE\r\nIRSEPORLASRAMAS\r\nROO#INCA##ABOLI\r\nO##YACE#VU#ASEO\r\nHACERELPINO#CSN\r\n#RRR###EVALUA##\r\n#TENERPRESENTE#\r\n##POSEES###TED#\r\nASI#SACARALALUZ\r\nLETS#LA#IGOR##E\r\nISAAC##OSAS#ECU\r\nVERLASESTRELLAS\r\nIA#DRENAR##ESE#\r\nARBOLDENAVIDAD#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Río que nace en Cantabria y desemboca en Tarragona",
+              "answer": "EBRO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Insulso, como que no tiene sal",
+              "answer": "SOSO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Inic del némesis de Nikola Tesla",
+              "answer": "TAE"
+            },
+            "4": {
+              "col": 6,
+              "row": 0,
+              "clue": "Establecimiento donde uno se enfrenta a duras penas",
+              "answer": "CARCEL"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Danza isleña acompañada por un ukelele",
+              "answer": "HULA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Rotura la tierra para cultivar",
+              "answer": "ARA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ganado vacuno",
+              "answer": "RES"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "La protagonista de la saga Tomb Raider",
+              "answer": "LARA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Se encargaba de la carne en la parrilla",
+              "answer": "ASABA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Hendiduras por donde se pasan los botones en una camisa",
+              "answer": "OJALES"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Colaboración con Bizarrap",
+              "answer": "SESION"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tío de Zuko en 'Avatar: La Leyenda de Aang'",
+              "answer": "IROH"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Hacer valer su voz, el pollito",
+              "answer": "PIAR"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Amiga de Will, Mike, Lucas, Dustin y Max en 'Stranger Things'",
+              "answer": "ONCE"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Uva principal en la producción del Asti, un vino espumoso italiano",
+              "answer": "MOSCATEL"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Al casarse con mi hija, él se volvió mi…",
+              "answer": "YERNO"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Ha sido resucitado",
+              "answer": "VIVE"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Juntes, pero no a todas",
+              "answer": "UNAS"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "\"… decó\", movimiento de diseño entre 1920 y 1939",
+              "answer": "ART"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Llamar la atención de tu oído, el fuego",
+              "answer": "CREPITAR"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Imperio asociado con Irán",
+              "answer": "PERSA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Sonido para el flamenco o para el toro",
+              "answer": "OLE"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Expandir superficialmente un aceite sobre algo",
+              "answer": "UNTAR"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Un centro de Messi",
+              "answer": "ESS"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Este pavo es auténtico",
+              "answer": "REAL"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Es iracundo, guloso, soberbio, lujurioso, perezoso, envidioso y avaro",
+              "answer": "PECA"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Dominio web de escuelas y universidades",
+              "answer": "EDU"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Le saca un peso de encima, lo…",
+              "answer": "ALIVIA"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Pronunciar /cabesaso/ en lugar de /cabezazo/, por ejemplo",
+              "answer": "SESEAR"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Trenza hecha de los tallos de ajos o cebollas",
+              "answer": "RISTRA"
+            },
+            "46": {
+              "col": 9,
+              "row": 9,
+              "clue": "Sustancia carragenina también llamada \"gelatina vegetal\" o \"gelatina japonesa\"",
+              "answer": "AGAR"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"Esto no es información nueva para mí\" (2p)",
+              "answer": "LOSE"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Dios cuyo equivalente romano es Júpiter",
+              "answer": "ZEUS"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Cantidad positiva o negativa que resulta de una cuenta",
+              "answer": "SALDO"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "El hijo de Rick en 'The Walking Dead'",
+              "answer": "CARL"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Tienen el descaro de",
+              "answer": "OSAN"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Personaje que \"libre es\", según su canción",
+              "answer": "ELSA"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Perded el equilibrio",
+              "answer": "CAED"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Ganas de una bebida… o de venganza",
+              "answer": "SED"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "La firma del Zorro, cuando la hace acostado",
+              "answer": "ENE"
+            },
+            "61": {
+              "col": 11,
+              "row": 12,
+              "clue": "Fuente de luz más eficiente que las bombillas tradicionales",
+              "answer": "LED"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "·PASO 3: Fortalecer la relación con alguien (2p)·",
+              "answer": "ESTRECHARLAZOS"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Serpiente americana",
+              "answer": "BOA"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Hechas de oro",
+              "answer": "AUREAS"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "Inic del intérprete del monstruo de Frankenstein para Del Toro",
+              "answer": "JE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "·PASO 2: Desviarse de la conversación original (4p)·",
+              "answer": "IRSEPORLASRAMAS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Como como el ratón",
+              "answer": "ROO"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Imperio asociado con Perú",
+              "answer": "INCA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Dejé sin vigencia una ley",
+              "answer": "ABOLI"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Se encuentra acostado",
+              "answer": "YACE"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"Déjà …\", experiencia que se siente revivida",
+              "answer": "VU"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Pulcritud, higiene",
+              "answer": "ASEO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "·PASO 1: Pararse de manos (3p)·",
+              "answer": "HACERELPINO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "El Consejo de Seguridad Nuclear",
+              "answer": "CSN"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Trío letrado sobre el cuidado del medio ambiente",
+              "answer": "RRR"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Somete a un test",
+              "answer": "EVALUA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "·PASO 6: Conservar en la memoria (2p)·",
+              "answer": "TENERPRESENTE"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Dispones, gozas",
+              "answer": "POSEES"
+            },
+            "41": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"Charlas …\", esas conferencias que motivan",
+              "answer": "TED"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tal cual lo ves",
+              "answer": "ASI"
+            },
+            "44": {
+              "col": 4,
+              "row": 9,
+              "clue": "·PASO 4: Revelar al público lo que estaba oculto (4p)·",
+              "answer": "SACARALALUZ"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"… Get It Started\", nos pidieron The Black Eyed Peas",
+              "answer": "LETS"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "¿Artículo que se opone al que hay en este periódico?",
+              "answer": "LA"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Asistente de Frankenstein que no existe en la novela original",
+              "answer": "IGOR"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Óscar …\", intérprete de Frankenstein para Del Toro",
+              "answer": "ISAAC"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Paridoras de oseznos",
+              "answer": "OSAS"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Moneda anterior al euro",
+              "answer": "ECU"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "·PASO 5: Avistar \"destellos\" después de un golpe en la cabeza (3p)·",
+              "answer": "VERLASESTRELLAS"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Inteligencia Artesanal",
+              "answer": "IA"
+            },
+            "63": {
+              "col": 3,
+              "row": 13,
+              "clue": "Despejar de agua a través de una cañería",
+              "answer": "DRENAR"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Aquel señor de allá",
+              "answer": "ESE"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "·Lo que uno consigue armar si sigue los 6 pasos de esta grilla (3p)·",
+              "answer": "ARBOLDENAVIDAD"
+            }
+          }
+        },
+        "vertical_clues": "1-Río que nace en Cantabria y desemboca en Tarragona\r\n2-Insulso, como que no tiene sal\r\n3-Inic del némesis de Nikola Tesla\r\n4-Establecimiento donde uno se enfrenta a duras penas\r\n5-Danza isleña acompañada por un ukelele\r\n6-Rotura la tierra para cultivar\r\n7-Ganado vacuno\r\n8-La protagonista de la saga Tomb Raider\r\n9-Se encargaba de la carne en la parrilla\r\n10-Hendiduras por donde se pasan los botones en una camisa\r\n11-Colaboración con Bizarrap\r\n15-Tío de Zuko en 'Avatar: La Leyenda de Aang'\r\n16-Hacer valer su voz, el pollito\r\n17-Amiga de Will, Mike, Lucas, Dustin y Max en 'Stranger Things'\r\n18-Uva principal en la producción del Asti, un vino espumoso italiano\r\n22-Al casarse con mi hija, él se volvió mi…\r\n23-Ha sido resucitado\r\n24-Juntes, pero no a todas\r\n27-\"… decó\", movimiento de diseño entre 1920 y 1939\r\n28-Llamar la atención de tu oído, el fuego\r\n29-Imperio asociado con Irán\r\n30-Sonido para el flamenco o para el toro\r\n34-Expandir superficialmente un aceite sobre algo\r\n36-Un centro de Messi\r\n37-Este pavo es auténtico\r\n38-Es iracundo, guloso, soberbio, lujurioso, perezoso, envidioso y avaro\r\n39-Dominio web de escuelas y universidades\r\n42-Le saca un peso de encima, lo…\r\n43-Pronunciar /cabesaso/ en lugar de /cabezazo/, por ejemplo\r\n45-Trenza hecha de los tallos de ajos o cebollas\r\n46-Sustancia carragenina también llamada \"gelatina vegetal\" o \"gelatina japonesa\"\r\n47-\"Esto no es información nueva para mí\" (2p)\r\n48-Dios cuyo equivalente romano es Júpiter\r\n50-Cantidad positiva o negativa que resulta de una cuenta\r\n54-El hijo de Rick en 'The Walking Dead'\r\n55-Tienen el descaro de\r\n56-Personaje que \"libre es\", según su canción\r\n57-Perded el equilibrio\r\n59-Ganas de una bebida… o de venganza\r\n60-La firma del Zorro, cuando la hace acostado\r\n61-Fuente de luz más eficiente que las bombillas tradicionales",
+        "horizontal_clues": "1-·PASO 3: Fortalecer la relación con alguien (2p)·\r\n12-Serpiente americana\r\n13-Hechas de oro\r\n14-Inic del intérprete del monstruo de Frankenstein para Del Toro\r\n15-·PASO 2: Desviarse de la conversación original (4p)·\r\n19-Como como el ratón\r\n20-Imperio asociado con Perú\r\n21-Dejé sin vigencia una ley\r\n22-Se encuentra acostado\r\n23-\"Déjà …\", experiencia que se siente revivida\r\n25-Pulcritud, higiene\r\n26-·PASO 1: Pararse de manos (3p)·\r\n31-El Consejo de Seguridad Nuclear\r\n32-Trío letrado sobre el cuidado del medio ambiente\r\n33-Somete a un test\r\n35-·PASO 6: Conservar en la memoria (2p)·\r\n40-Dispones, gozas\r\n41-\"Charlas …\", esas conferencias que motivan\r\n42-Tal cual lo ves\r\n44-·PASO 4: Revelar al público lo que estaba oculto (4p)·\r\n49-\"… Get It Started\", nos pidieron The Black Eyed Peas\r\n51-¿Artículo que se opone al que hay en este periódico? \r\n52-Asistente de Frankenstein que no existe en la novela original\r\n53-\"Óscar …\", intérprete de Frankenstein para Del Toro\r\n55-Paridoras de oseznos\r\n56-Moneda anterior al euro\r\n58-·PASO 5: Avistar \"destellos\" después de un golpe en la cabeza (3p)·\r\n62-Inteligencia Artesanal\r\n63-Despejar de agua a través de una cañería\r\n64-Aquel señor de allá\r\n65-·Lo que uno consigue armar si sigue los 6 pasos de esta grilla (3p)·",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,#,#,4,5,6,7,8,9,#,10,11\r\n#,12,#,#,#,#,13,#,#,#,#,#,#,14,#\r\n15,#,#,#,16,17,#,#,#,#,#,#,18,#,#\r\n19,#,#,#,20,#,#,#,#,#,21,#,#,#,#\r\n#,#,#,22,#,#,#,#,23,24,#,25,#,#,#\r\n26,27,28,#,#,#,#,29,#,#,30,#,31,#,#\r\n#,32,#,#,#,#,#,33,#,#,#,34,#,#,#\r\n#,35,#,#,36,37,38,#,#,#,#,#,#,39,#\r\n#,#,40,#,#,#,#,#,#,#,#,41,#,#,#\r\n42,43,#,#,44,#,#,#,45,46,47,#,#,#,48\r\n49,#,#,50,#,51,#,#,52,#,#,#,#,#,#\r\n53,#,#,#,54,#,#,55,#,#,#,#,56,57,#\r\n58,#,#,#,#,59,60,#,#,#,#,61,#,#,#\r\n62,#,#,63,#,#,#,#,#,#,#,64,#,#,#\r\n65,#,#,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

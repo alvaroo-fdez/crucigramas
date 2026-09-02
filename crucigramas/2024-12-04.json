@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1328,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-02T13:36:47.656087Z",
+      "updatedAt": "2024-12-02T13:36:47.676150Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-04",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BISBAL#HOPPER#\r\nT#BERNA#USARE#E\r\nEP#SINNUMERO#PR\r\nMILENIO#OTICILI\r\nPRINCESA#ASUMAN\r\nLACTA##EB#IRINA\r\nADIA#MASO#NATOS\r\n##T#VAR#ZOO#A##\r\nCHAMA#COOK#ATAS\r\nHONOR#OF##IMITA\r\nENTRAR#CARNAVAL\r\nCREADOR#SONROJA\r\nAO#DESALOJAR#AB\r\nS#VORAZ#MATAN#A\r\n#AURORA#OSARIO#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ingmar Bergman (director sueco, referente del cine del siglo XX)",
+              "answer": "IB"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "LX",
+              "answer": "SESENTA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Salta, bota",
+              "answer": "BRINCA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Leibovitz\" la fotógrafa de los reyes de España",
+              "answer": "ANNIE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Conocido como el Castillo de Ocio en la frontera navarra",
+              "answer": "LANOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Cortina que distrae de la verdad",
+              "answer": "HUMO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lengua de la familia irania entre Rusia y Georgia",
+              "answer": "OSETA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Habitante de la ciudad del Sena",
+              "answer": "PARISINO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Intenta conseguir algo",
+              "answer": "PROCURA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ajusta la tensión de un instrumento musical",
+              "answer": "TEMPLA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Instrumento médico quirúrgico (pl)",
+              "answer": "ERINAS"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Huid, escapad",
+              "answer": "PIRAD"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Esquema en 2D y a determinada escala, de un terreno",
+              "answer": "PLANO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Participante en una subasta",
+              "answer": "LICITANTE"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Relativo a la imitación",
+              "answer": "IMITATIVO"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Aaaa",
+              "answer": "AES"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "El vello que aún no es bigote",
+              "answer": "BOZO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Matilde no tiene acento",
+              "answer": "MA"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "El arma de Atreus, el del videojuego 'God of War'",
+              "answer": "ARCO"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Famosa playa de Cuba",
+              "answer": "VARADERO"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "De acuerdo con Óliver Kahn",
+              "answer": "OK"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Unas chicas del país que antes era el reino de Bohemia",
+              "answer": "CHECAS"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Mostró respeto, admiró, ensalzó",
+              "answer": "HONRO"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Habitante, el que vive en una casa",
+              "answer": "MORADOR"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "La Confederación de Fútbol de Oceanía, pero en inglés",
+              "answer": "OFC"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Asegurar el barco al muelle",
+              "answer": "AMARRAR"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Atrapa el balón en el aire",
+              "answer": "ATAJA"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Adobaba las carnes con sal",
+              "answer": "SALABA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Connatural (fem)",
+              "answer": "INNATA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Rociar, salpicar",
+              "answer": "ROSAR"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "De ningún modo, ni por…",
+              "answer": "ASOMO"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Yulimar…\" récord mundial por el salto triple más lejano (2021)",
+              "answer": "ROJAS"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Nuestro origen étnico es una vuelta del azar",
+              "answer": "RAZA"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Dominio web para Vanuatu",
+              "answer": "VU"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "\"… tan calvo, … con dos pelucas\"",
+              "answer": "NI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"David …\", cantante español",
+              "answer": "BISBAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"Edward…\" Pintor de EEUU del realismo urbano, autor del cuadro Noctámbulos",
+              "answer": "HOPPER"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Capital de facto de Suiza",
+              "answer": "BERNA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Le daré utilidad",
+              "answer": "USARE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "En esta época no hay gansos",
+              "answer": "EP"
+            },
+            "18": {
+              "col": 3,
+              "row": 2,
+              "clue": "Cantidad incalculable",
+              "answer": "SINNUMERO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dominio web para Puerto Rico",
+              "answer": "PR"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Período de mil años",
+              "answer": "MILENIO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Ilegal, indebido, prohibido (inv)",
+              "answer": "OTICILI"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Precisan el caos de la hija del rey",
+              "answer": "PRINCESA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Den por hecho",
+              "answer": "ASUMAN"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Da de mamar, amamanta",
+              "answer": "LACTA"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Emilio Butragueño, \"El Buitre\"",
+              "answer": "EB"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Shayk, la modelo rusa",
+              "answer": "IRINA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Señala o fija día",
+              "answer": "ADIA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Amaso, mezclo",
+              "answer": "MASO"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Se dice de los defectos connaturales",
+              "answer": "NATOS"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Videoarbitraje, el…",
+              "answer": "VAR"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Un pequeño zoológico",
+              "answer": "ZOO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Una chica venezolana",
+              "answer": "CHAMA"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'",
+              "answer": "COOK"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Unes, juntas",
+              "answer": "ATAS"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Gloria o buena reputación",
+              "answer": "HONOR"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Símbolo de la escala de temperatura de Fahrenheit",
+              "answer": "OF"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ejecuta a ejemplo",
+              "answer": "IMITA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pasar de fuera hacia adentro",
+              "answer": "ENTRAR"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Fiesta popular que precede al comienzo de la Cuaresma",
+              "answer": "CARNAVAL"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… de contenidos\" el que hace productos de valor para internet",
+              "answer": "CREADOR"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Se ruboriza, se…",
+              "answer": "SONROJA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Vocales abiertas",
+              "answer": "AO"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Sacar de su zona de confort a los inquilinos",
+              "answer": "DESALOJAR"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dos de absenta, por favor",
+              "answer": "AB"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Que consume o destruye rápidamente",
+              "answer": "VORAZ"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Extinguen la vida de alguien",
+              "answer": "MATAN"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "La bella durmiente",
+              "answer": "AURORA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Calavernario, huesera",
+              "answer": "OSARIO"
+            }
+          }
+        },
+        "vertical_clues": "2-Ingmar Bergman (director sueco, referente del cine del siglo XX) \r\n3-LX\r\n4-Salta, bota\r\n5-\"… Leibovitz\" la fotógrafa de los reyes de España\r\n6-Conocido como el Castillo de Ocio en la frontera navarra\r\n7-Cortina que distrae de la verdad\r\n8-Lengua de la familia irania entre Rusia y Georgia\r\n9-Habitante de la ciudad del Sena \r\n10-Intenta conseguir algo \r\n11-Piel de elefante\r\n12-Ajusta la tensión de un instrumento musical \r\n15-Instrumento médico quirúrgico (pl)\r\n17-Huid, escapad\r\n19-Esquema en 2D y a determinada escala, de un terreno\r\n21-Participante en una subasta \r\n23-Relativo a la imitación\r\n25-Aaaa\r\n29-El vello que aún no es bigote\r\n32-Matilde no tiene acento\r\n33-El arma de Atreus, el del videojuego 'God of War'\r\n35-Famosa playa de Cuba\r\n37-De acuerdo con Óliver Kahn\r\n38-Unas chicas del país que antes era el reino de Bohemia\r\n39-Mostró respeto, admiró, ensalzó\r\n40-Habitante, el que vive en una casa\r\n42-La Confederación de Fútbol de Oceanía, pero en inglés\r\n43-Asegurar el barco al muelle\r\n44-Atrapa el balón en el aire\r\n45-Adobaba las carnes con sal\r\n48-Connatural (fem)\r\n50-Rociar, salpicar\r\n52-De ningún modo, ni por…\r\n53-\"Yulimar…\" récord mundial por el salto triple más lejano (2021) \r\n55-Nuestro origen étnico es una vuelta del azar\r\n60-Dominio web para Vanuatu\r\n62-\"… tan calvo, … con dos pelucas\" \r\n",
+        "horizontal_clues": "1-\"David …\", cantante español\r\n7-\"Edward…\" Pintor de EEUU del realismo urbano, autor del cuadro Noctámbulos \r\n13-Capital de facto de Suiza\r\n14-Le daré utilidad\r\n16-En esta época no hay gansos\r\n18-Cantidad incalculable \r\n19-Dominio web para Puerto Rico\r\n20-Período de mil años \r\n22-Ilegal, indebido, prohibido (inv)\r\n24-Precisan el caos de la hija del rey\r\n26-Den por hecho\r\n27-Da de mamar, amamanta\r\n28-Emilio Butragueño, \"El Buitre\"\r\n30-Shayk, la modelo rusa\r\n31-Señala o fija día\r\n32-Amaso, mezclo\r\n34-Se dice de los defectos connaturales\r\n35-Videoarbitraje, el…\r\n36-Un pequeño zoológico\r\n38-Una chica venezolana\r\n41-\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'\r\n43-Unes, juntas\r\n46-Gloria o buena reputación\r\n47-Símbolo de la escala de temperatura de Fahrenheit\r\n48-Ejecuta a ejemplo\r\n49-Pasar de fuera hacia adentro\r\n51-Fiesta popular que precede al comienzo de la Cuaresma \r\n54-\"… de contenidos\" el que hace productos de valor para internet\r\n56-Se ruboriza, se…\r\n57-Vocales abiertas\r\n58-Sacar de su zona de confort a los inquilinos\r\n59-Dos de absenta, por favor\r\n60-Que consume o destruye rápidamente\r\n61-Extinguen la vida de alguien\r\n63-La bella durmiente\r\n64-Calavernario, huesera\r\n",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,18,#,#,#,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,#,#,25,#,26,#,#,#,#,#\r\n27,#,#,#,#,#,#,28,29,#,30,#,#,#,#\r\n31,#,#,#,#,32,33,#,#,#,34,#,#,#,#\r\n#,#,#,#,35,#,#,#,36,37,#,#,#,#,#\r\n38,39,#,40,#,#,41,42,#,#,#,43,#,44,45\r\n46,#,#,#,#,#,47,#,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,#,51,52,53,#,#,#,#,#\r\n54,#,#,#,#,#,55,#,56,#,#,#,#,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,#,#,59,#\r\n#,#,60,#,#,#,#,#,61,#,#,#,62,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

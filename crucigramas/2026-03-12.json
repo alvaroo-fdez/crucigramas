@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 5063,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-11T20:49:32.124031Z",
+      "updatedAt": "2026-03-11T20:51:53.921515Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-12",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CATODOS##BALADA\r\nL#REICH#BAGEL#P\r\nATESORE#ENTIBIA\r\nROM#SERVIDA#ONL\r\nOPUS##PIJO#ARDE\r\nSALEM#AÑIL#CAIA\r\n#ROCIE#ANEMONAS\r\n###CANO#GREG###\r\nAPAISADA#OREAS#\r\nNASO#LIRA#ERRAN\r\nUSEN#TACS##ECUA\r\nNES#HEROINA#ICR\r\nCAOTICA#GALILEI\r\nI#RAJES#NICOL#N\r\nOPERAR##AFANARA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sean honestos, precisos",
+              "answer": "CLAROS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tembloroso",
+              "answer": "TREMULO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ooooo",
+              "answer": "OES"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Por este ser supremo están idos y locos",
+              "answer": "DIOS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Creo que es amarillo terroso",
+              "answer": "OCRE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Oficio del Kami Rita, el nepalí que ha subido al Everest 31 veces (récord mundial)",
+              "answer": "SHERPA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Forajido, ladrón",
+              "answer": "BANDOLERO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Indígenas de las montañas de Luzón en Filipinas",
+              "answer": "AGTA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Comprendí lo escrito",
+              "answer": "LEI"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Pablo …\", cantautor español del tema 'Solamente tú'",
+              "answer": "ALBORAN"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Le caes a palos, lo…",
+              "answer": "APALEAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Otro nombre con que se le conoce a Pekín",
+              "answer": "BEIJING"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Chocar las cabezas",
+              "answer": "TOPAR"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "País cuya capital es Nueva Delhi",
+              "answer": "INDIA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Proverbio: 'De todo hay en la… del Señor'",
+              "answer": "VIÑA"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "En esta área es probable que cocines mal",
+              "answer": "SECCION"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Serviré de refugio a alguien, lo…",
+              "answer": "ACOGERE"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "De mi propiedad (fem, pl)",
+              "answer": "MIAS"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Ensalzar, alabar",
+              "answer": "ENALTECER"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Mezclé el vino con agua",
+              "answer": "MERE"
+            },
+            "35": {
+              "col": 6,
+              "row": 7,
+              "clue": "Repelerás, rechazarás",
+              "answer": "ODIARAS"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Te comunico que aquí hay un mensaje persuasivo promocional",
+              "answer": "ANUNCIO"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Camina por distracción",
+              "answer": "PASEA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Me informé y cociné con la hermana del este",
+              "answer": "ASESORE"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Geometría: Porción continua de una curva",
+              "answer": "ARCO"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Tierra para moldear",
+              "answer": "ARCILLA"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Árbol Nacional de Ucrania",
+              "answer": "SAUCE"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Nombra, designa",
+              "answer": "ASIGNA"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Cada uno de los orificios nasales externos",
+              "answer": "NARINA"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Mi niña, mi…",
+              "answer": "HIJA"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "No dan crédito al retorno de los artistas ingenuos",
+              "answer": "NAIF"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Ave marina buceadora",
+              "answer": "ALCA"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Instrumento de cuerda de mástil largo, de origen persa",
+              "answer": "TAR"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "De adicción y de opresión",
+              "answer": "ION"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Electricidad Electrodo negativo (pl)",
+              "answer": "CATODOS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Canción popular, de ritmo lento y tema amoroso",
+              "answer": "BALADA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "La Alemania Nazi, el Tercer…",
+              "answer": "REICH"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Rosquilla polaca cubierta de semillas",
+              "answer": "BAGEL"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Reuní y guardé cosas de valor",
+              "answer": "ATESORE"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Se ablanda, disminuye su fervor, se…",
+              "answer": "ENTIBIA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Medio de almacenamiento utilizado en ordenadores",
+              "answer": "ROM"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Comida puesta en el plato",
+              "answer": "SERVIDA"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Organización no lucrativa (siglas)",
+              "answer": "ONL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Palabra en latín que significa \"Obra\"",
+              "answer": "OPUS"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "De clase social adinerada",
+              "answer": "PIJO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Está en combustión",
+              "answer": "ARDE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Las brujas de…\" de Arthur Miller",
+              "answer": "SALEM"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Azul profundo, índigo",
+              "answer": "AÑIL"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Se venía en picada",
+              "answer": "CAIA"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Esparcí mi caos recio",
+              "answer": "ROCIE"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Hogares en los arrecifes para peces payasos",
+              "answer": "ANEMONAS"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Que tiene blanco todo o gran parte del pelo",
+              "answer": "CANO"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"… Norman\", famoso golfista australiano",
+              "answer": "GREG"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Horizontal, la foto del paisaje",
+              "answer": "APAISADA"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Aireas para que seque",
+              "answer": "OREAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Grupo indígena localizado al noroeste de Panamá",
+              "answer": "NASO"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Instrumento con el que Orfeo durmió al can Cerbero",
+              "answer": "LIRA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Desaciertan, se equivocan",
+              "answer": "ERRAN"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Utilicen",
+              "answer": "USEN"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Onomatopeya que simula el sonido del corazón (pl)",
+              "answer": "TACS"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Lengua itálica que hablaban los ecuos",
+              "answer": "ECUA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Nintendo Entertainment System",
+              "answer": "NES"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Droga opioide, altamente adictiva",
+              "answer": "HEROINA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "El mango del micro",
+              "answer": "ICR"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Confusa, incoherente, anárquica",
+              "answer": "CAOTICA"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Dijo: 'Y, sin embargo, se mueve'",
+              "answer": "GALILEI"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Partas algo, creando una fisura",
+              "answer": "RAJES"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Tipo de prisma óptico polarizador",
+              "answer": "NICOL"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Maniobrar una maquinaria",
+              "answer": "OPERAR"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Se lo robará a Ana Fara",
+              "answer": "AFANARA"
+            }
+          }
+        },
+        "vertical_clues": "1-Sean honestos, precisos\r\n2-Tembloroso\r\n3-Ooooo\r\n4-Por este ser supremo están idos y locos\r\n5-Creo que es amarillo terroso\r\n6-Oficio del Kami Rita, el nepalí que ha subido al Everest 31 veces (récord mundial)\r\n7-Forajido, ladrón\r\n8-Indígenas de las montañas de Luzón en Filipinas\r\n9-Comprendí lo escrito\r\n10-\"Pablo …\", cantautor español del tema 'Solamente tú'\r\n11-Le caes a palos, lo…\r\n13-Otro nombre con que se le conoce a Pekín\r\n15-Chocar las cabezas\r\n17-País cuya capital es Nueva Delhi\r\n20-Proverbio: 'De todo hay en la… del Señor'\r\n23-En esta área es probable que cocines mal\r\n25-Serviré de refugio a alguien, lo…\r\n27-De mi propiedad (fem, pl)\r\n31-Ensalzar, alabar\r\n33-Mezclé el vino con agua\r\n35-Repelerás, rechazarás\r\n37-Te comunico que aquí hay un mensaje persuasivo promocional\r\n38-Camina por distracción\r\n39-Me informé y cociné con la hermana del este\r\n40-Geometría: Porción continua de una curva\r\n42-Tierra para moldear\r\n43-Árbol Nacional de Ucrania\r\n46-Nombra, designa\r\n48-Cada uno de los orificios nasales externos\r\n53-Mi niña, mi…\r\n54-No dan crédito al retorno de los artistas ingenuos\r\n55-Ave marina buceadora\r\n58-Instrumento de cuerda de mástil largo, de origen persa\r\n60-De adicción y de opresión",
+        "horizontal_clues": "1-Electricidad Electrodo negativo (pl)\r\n7-Canción popular, de ritmo lento y tema amoroso\r\n12-La Alemania Nazi, el Tercer…\r\n13-Rosquilla polaca cubierta de semillas\r\n14-Reuní y guardé cosas de valor\r\n16-Se ablanda, disminuye su fervor, se…\r\n18-Medio de almacenamiento utilizado en ordenadores\r\n19-Comida puesta en el plato\r\n21-Organización no lucrativa (siglas)\r\n22-Palabra en latín que significa \"Obra\"\r\n24-De clase social adinerada\r\n25-Está en combustión\r\n26-\"Las brujas de…\" de Arthur Miller \r\n28-Azul profundo, índigo\r\n29-Se venía en picada\r\n30-Esparcí mi caos recio\r\n32-Hogares en los arrecifes para peces payasos\r\n34-Que tiene blanco todo o gran parte del pelo\r\n36-\"… Norman\", famoso golfista australiano\r\n37-Horizontal, la foto del paisaje\r\n41-Aireas para que seque\r\n44-Grupo indígena localizado al noroeste de Panamá\r\n45-Instrumento con el que Orfeo durmió al can Cerbero\r\n47-Desaciertan, se equivocan\r\n49-Utilicen\r\n50-Onomatopeya que simula el sonido del corazón (pl)\r\n51-Lengua itálica que hablaban los ecuos\r\n52-Nintendo Entertainment System\r\n53-Droga opioide, altamente adictiva\r\n56-El mango del micro\r\n57-Confusa, incoherente, anárquica\r\n59-Dijo: 'Y, sin embargo, se mueve'\r\n61-Partas algo, creando una fisura\r\n62-Tipo de prisma óptico polarizador\r\n63-Maniobrar una maquinaria\r\n64-Se lo robará a Ana Fara",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,#,#,#,#,#,16,#,#,#,#,17,#\r\n18,#,#,#,19,#,#,20,#,#,#,#,21,#,#\r\n22,#,#,23,#,#,24,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,28,#,#,#,#,29,#,#,#\r\n#,30,#,#,#,31,#,32,#,#,33,#,#,#,#\r\n#,#,#,34,#,#,35,#,36,#,#,#,#,#,#\r\n37,38,39,#,#,#,#,40,#,41,#,#,42,43,#\r\n44,#,#,#,#,45,#,#,46,#,47,#,#,#,48\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,#\r\n52,#,#,#,53,#,#,#,#,54,55,#,56,#,#\r\n57,#,#,58,#,#,#,#,59,#,#,60,#,#,#\r\n#,#,61,#,#,#,#,#,62,#,#,#,#,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

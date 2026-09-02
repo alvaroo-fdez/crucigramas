@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4475,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.732789Z",
+      "updatedAt": "2025-12-30T18:39:41.204640Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DONACION#TWITCH\r\nEPALE#DECO#TORI\r\nREPENTINO#PARED\r\nEL#MAREEN#ALEAR\r\nC#PARES#JULIANO\r\nHERNAN#PUNTA##D\r\nOREIS#AIREA#TRE\r\nSISA#ANCAS#LIAS\r\nHAO#SUGAR#SENIL\r\nU##MENUS#CAVANI\r\nMATINAL#MUTIS#Z\r\nAPOLO#OTILAS#TA\r\nNOTAS#SALINIDAD\r\nOYEN#LOVE#AMARO\r\nSEMOLA#ASESORAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Normas morales para comportarnos como especie (2p)",
+              "answer": "DERECHOSHUMANOS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Empresa alemana de automóviles fundada en 1862",
+              "answer": "OPEL"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Devuélveme la baguette",
+              "answer": "NAP"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "País campeón de la Copa Mundial de Fútbol de 2014",
+              "answer": "ALEMANIA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Saldrás tipo 22:00 al restaurante",
+              "answer": "CENARAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Le tengas animadversión, lo…",
+              "answer": "ODIES"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Bebé, niño, chico",
+              "answer": "NENE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "A finales de agosto",
+              "answer": "TO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "País de origen del autor de \"La Divina Comedia\"",
+              "answer": "ITALIA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Lidia con los toros en una plaza",
+              "answer": "TOREA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Fundan, instauran, erigen",
+              "answer": "CREAN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Embarcación también llamada 'aerobote'",
+              "answer": "HIDRODESLIZADOR"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Decir exorcismos para expulsar el mal",
+              "answer": "CONJURAR"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Medio de transporte que circula sobre rieles",
+              "answer": "TREN"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Lengua jíbara que hablaban los paltas",
+              "answer": "PALTA"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Encarcelado, arrestado",
+              "answer": "PRESO"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Juntas dos o más cosas, haciendo de ellas un todo",
+              "answer": "UNES"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "España Terreno grande perteneciente a varios dueños",
+              "answer": "ERIA"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Cortas, tajas",
+              "answer": "PICAS"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Huesudo como un rostro o aristado como un muro",
+              "answer": "ANGULOSO"
+            },
+            "31": {
+              "col": 12,
+              "row": 6,
+              "clue": "Pilas que sirven para bañarse todo el cuerpo",
+              "answer": "TINAS"
+            },
+            "32": {
+              "col": 13,
+              "row": 6,
+              "clue": "La lluvia de Londres",
+              "answer": "RAIN"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "A una junta se asocia",
+              "answer": "AUNA"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Extremadamente ligero",
+              "answer": "LEVISIMO"
+            },
+            "37": {
+              "col": 4,
+              "row": 8,
+              "clue": "Pechos, mamas de la mujer",
+              "answer": "SENOS"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "El más maligno, peor que Lucifer",
+              "answer": "SATANAS"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Capital de la moda en Italia",
+              "answer": "MILANO"
+            },
+            "40": {
+              "col": 9,
+              "row": 9,
+              "clue": "Criado indígena",
+              "answer": "CULI"
+            },
+            "42": {
+              "col": 1,
+              "row": 10,
+              "clue": "Patrocine, respalde",
+              "answer": "APOYE"
+            },
+            "43": {
+              "col": 2,
+              "row": 10,
+              "clue": "Objeto emblema protector",
+              "answer": "TOTEM"
+            },
+            "44": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"… Teller\" el prota de la peli 'Whiplash: Música & Obsesión'",
+              "answer": "MILES"
+            },
+            "47": {
+              "col": 7,
+              "row": 11,
+              "clue": "Plancha usada en la cocina india y paquistaní",
+              "answer": "TAVA"
+            },
+            "48": {
+              "col": 13,
+              "row": 11,
+              "clue": "Defecto que disminuye el valor de algo",
+              "answer": "TARA"
+            },
+            "51": {
+              "col": 12,
+              "row": 12,
+              "clue": "Conceder, otorgar",
+              "answer": "DAR"
+            },
+            "53": {
+              "col": 5,
+              "row": 13,
+              "clue": "Sexta nota musical",
+              "answer": "LA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ofrenda de la rosquilla",
+              "answer": "DONACION"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Plataforma de Amazon, Inc, para transmisiones en vivo",
+              "answer": "TWITCH"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Saludo coloquial",
+              "answer": "EPALE"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Me encanta mi decodificador porque es pequeño",
+              "answer": "DECO"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "\"… Spelling\" Donna en 'Beverly Hills, 90210' (serie de los 90)",
+              "answer": "TORI"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Imprevisto, brusco",
+              "answer": "REPENTINO"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Obra de albañilería vertical, que cierra un espacio",
+              "answer": "PARED"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ni yo, ni tú",
+              "answer": "EL"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Embriaguen ligeramente",
+              "answer": "MAREEN"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Mover los brazos a modo de alas",
+              "answer": "ALEAR"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "No te detengas, no te…",
+              "answer": "PARES"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Relativo al dictador romano César",
+              "answer": "JULIANO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Español que lideró la expedición que inició la conquista de México",
+              "answer": "HERNAN"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Extremo de algo",
+              "answer": "PUNTA"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Hagáis oración a Dios",
+              "answer": "OREIS"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Pone al aire, ventila",
+              "answer": "AIREA"
+            },
+            "31": {
+              "col": 12,
+              "row": 6,
+              "clue": "Terapia Racional Emotiva (siglas)",
+              "answer": "TRE"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Sustrae, acorta, rebaja",
+              "answer": "SISA"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Grupa de las caballerías (pl)",
+              "answer": "ANCAS"
+            },
+            "35": {
+              "col": 11,
+              "row": 7,
+              "clue": "Armas un alboroto, la…",
+              "answer": "LIAS"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Saludo apache",
+              "answer": "HAO"
+            },
+            "37": {
+              "col": 4,
+              "row": 8,
+              "clue": "\"… daddy\" hombre que invierte en una relación con una chica más joven",
+              "answer": "SUGAR"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Persona de avanzada edad",
+              "answer": "SENIL"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Relación de los platos en un restaurante (pl)",
+              "answer": "MENUS"
+            },
+            "40": {
+              "col": 9,
+              "row": 9,
+              "clue": "El Matador uruguayo del Manchester United",
+              "answer": "CAVANI"
+            },
+            "41": {
+              "col": 0,
+              "row": 10,
+              "clue": "Que sucede por la mañana",
+              "answer": "MATINAL"
+            },
+            "44": {
+              "col": 8,
+              "row": 10,
+              "clue": "'Hacer… por el foro', salir de una escena",
+              "answer": "MUTIS"
+            },
+            "45": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… 11\", primera misión tripulada que aterrizó en la luna",
+              "answer": "APOLO"
+            },
+            "46": {
+              "col": 6,
+              "row": 11,
+              "clue": "¿Aúllas solita?",
+              "answer": "OTILAS"
+            },
+            "48": {
+              "col": 13,
+              "row": 11,
+              "clue": "Media tasa",
+              "answer": "TA"
+            },
+            "49": {
+              "col": 0,
+              "row": 12,
+              "clue": "Anotaciones, escritos breves",
+              "answer": "NOTAS"
+            },
+            "50": {
+              "col": 6,
+              "row": 12,
+              "clue": "Cantidad proporcional de sales que tiene el agua de mar",
+              "answer": "SALINIDAD"
+            },
+            "52": {
+              "col": 0,
+              "row": 13,
+              "clue": "Captan el sonido, escuchan",
+              "answer": "OYEN"
+            },
+            "53": {
+              "col": 5,
+              "row": 13,
+              "clue": "\"Jomari …\", segmento en el que el presentador realiza cambios de imagen",
+              "answer": "LOVE"
+            },
+            "54": {
+              "col": 10,
+              "row": 13,
+              "clue": "Dicho de un avión que se posó en el agua",
+              "answer": "AMARO"
+            },
+            "55": {
+              "col": 0,
+              "row": 14,
+              "clue": "Trigo candeal desnudo de su corteza",
+              "answer": "SEMOLA"
+            },
+            "56": {
+              "col": 7,
+              "row": 14,
+              "clue": "Dar consejo o dictamen",
+              "answer": "ASESORAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Normas morales para comportarnos como especie (2p)\r\n2-Empresa alemana de automóviles fundada en 1862\r\n3-Devuélveme la baguette\r\n4-País campeón de la Copa Mundial de Fútbol de 2014\r\n5-Saldrás tipo 22:00 al restaurante\r\n6-Le tengas animadversión, lo…\r\n7-Bebé, niño, chico\r\n8-A finales de agosto\r\n9-País de origen del autor de \"La Divina Comedia\"\r\n10-Lidia con los toros en una plaza\r\n11-Fundan, instauran, erigen\r\n12-Embarcación también llamada 'aerobote'\r\n15-Decir exorcismos para expulsar el mal\r\n18-Medio de transporte que circula sobre rieles\r\n19-Lengua jíbara que hablaban los paltas\r\n23-Encarcelado, arrestado\r\n25-Juntas dos o más cosas, haciendo de ellas un todo\r\n27-España Terreno grande perteneciente a varios dueños\r\n28-Cortas, tajas\r\n30-Huesudo como un rostro o aristado como un muro\r\n31-Pilas que sirven para bañarse todo el cuerpo\r\n32-La lluvia de Londres\r\n34-A una junta se asocia\r\n35-Extremadamente ligero\r\n37-Pechos, mamas de la mujer\r\n38-El más maligno, peor que Lucifer\r\n39-Capital de la moda en Italia\r\n40-Criado indígena\r\n42-Patrocine, respalde\r\n43-Objeto emblema protector\r\n44-\"… Teller\" el prota de la peli 'Whiplash: Música & Obsesión'\r\n47-Plancha usada en la cocina india y paquistaní\r\n48-Defecto que disminuye el valor de algo\r\n51-Conceder, otorgar\r\n53-Sexta nota musical",
+        "horizontal_clues": "1-Ofrenda de la rosquilla\r\n8-Plataforma de Amazon, Inc, para transmisiones en vivo\r\n13-Saludo coloquial\r\n14-Me encanta mi decodificador porque es pequeño\r\n16-\"… Spelling\" Donna en 'Beverly Hills, 90210' (serie de los 90)\r\n17-Imprevisto, brusco\r\n19-Obra de albañilería vertical, que cierra un espacio\r\n20-Ni yo, ni tú\r\n21-Embriaguen ligeramente\r\n22-Mover los brazos a modo de alas\r\n23-No te detengas, no te…\r\n24-Relativo al dictador romano César\r\n26-Español que lideró la expedición que inició la conquista de México\r\n28-Extremo de algo\r\n29-Hagáis oración a Dios\r\n30-Pone al aire, ventila\r\n31-Terapia Racional Emotiva (siglas)\r\n33-Sustrae, acorta, rebaja\r\n34-Grupa de las caballerías (pl)\r\n35-Armas un alboroto, la…\r\n36-Saludo apache\r\n37-\"… daddy\" hombre que invierte en una relación con una chica más joven\r\n38-Persona de avanzada edad\r\n39-Relación de los platos en un restaurante (pl)\r\n40-El Matador uruguayo del Manchester United\r\n41-Que sucede por la mañana\r\n44-'Hacer… por el foro', salir de una escena\r\n45-\"… 11\", primera misión tripulada que aterrizó en la luna\r\n46-¿Aúllas solita? \r\n48-Media tasa\r\n49-Anotaciones, escritos breves\r\n50-Cantidad proporcional de sales que tiene el agua de mar\r\n52-Captan el sonido, escuchan\r\n53-\"Jomari …\", segmento en el que el presentador realiza cambios de imagen\r\n54-Dicho de un avión que se posó en el agua\r\n55-Trigo candeal desnudo de su corteza\r\n56-Dar consejo o dictamen",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,#,8,#,9,10,11,12\r\n13,#,#,#,#,#,14,#,15,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,19,#,#,#,#\r\n20,#,#,21,#,#,#,#,#,#,22,#,#,#,#\r\n#,#,23,#,#,#,#,#,24,25,#,#,#,#,#\r\n26,27,#,#,#,#,#,28,#,#,#,#,#,#,#\r\n29,#,#,#,#,#,30,#,#,#,#,#,31,32,#\r\n33,#,#,#,#,34,#,#,#,#,#,35,#,#,#\r\n36,#,#,#,37,#,#,#,#,#,38,#,#,#,#\r\n#,#,#,39,#,#,#,#,#,40,#,#,#,#,#\r\n41,42,43,#,#,#,#,#,44,#,#,#,#,#,#\r\n45,#,#,#,#,#,46,47,#,#,#,#,#,48,#\r\n49,#,#,#,#,#,50,#,#,#,#,#,51,#,#\r\n52,#,#,#,#,53,#,#,#,#,54,#,#,#,#\r\n55,#,#,#,#,#,#,56,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "data": {
+    "id": 5085,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-20T20:09:40.949650Z",
+      "updatedAt": "2026-03-20T20:11:51.729526Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#TOSCOS#CANAPES\r\nS#PUAS#MAÑA#ESU\r\nABURRAS#RODANTE\r\nCASTIDAD#RAUDAL\r\nI#EOLICO#ALTERO\r\nEK##LAUD#N#OJ##\r\nDILDO#DIAZ#BANG\r\nALIENTO#SACUDIR\r\nDONG#INDO#OSAKA\r\n##FU#R#ECHE##IC\r\nACOSTO#PIEDAD#I\r\nDICTAN#PELICANO\r\nOPIACEO#NATALES\r\nBOT#HALE#DOBA#O\r\nASOMARA#TOROSO#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Enfrenté, resistí, contrarié",
+              "answer": "OPUSE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Proveo, suministro",
+              "answer": "SURTO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Juego de planchas de acero que producen un sonido musical",
+              "answer": "CARILLON"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Audacia, resolución, intrepidez",
+              "answer": "OSADIA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"Fast…\" famosa canción de Tracy Chapman",
+              "answer": "CAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Evocación nostálgica",
+              "answer": "AÑORANZA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Rafa prefiere una Navidad valenciana",
+              "answer": "NADAL"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tontería propia de alguien inmaduro",
+              "answer": "PENDEJADA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Esta está sin conjugar",
+              "answer": "ESTAR"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Su puntuación de Ajedrez está por el piso",
+              "answer": "SUELO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estado de quien ya no tiene hambre",
+              "answer": "SACIEDAD"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Símbolo químico del bario",
+              "answer": "BA"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Sacudida rápida y brusca",
+              "answer": "SACUDON"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Vehículo automóvil de transporte público",
+              "answer": "AUTOBUS"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"…Al",
+              "answer": "DODI"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Acortamiento coloquial de kilogramo",
+              "answer": "KILO"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Célula de defensa",
+              "answer": "LINFOCITO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Evalúa sensorialmente un producto gastronómico",
+              "answer": "DEGUSTA"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Relacionen las ideas",
+              "answer": "ASOCIEN"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "F1 \"… Lauda\" después del accidente, ganó 2 títulos más",
+              "answer": "NIKI"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "Chistoso, agudo, lleno de donaire",
+              "answer": "GRACIOSO"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Dar estirones repetidos para arrastrar a alguien",
+              "answer": "TIRONEAR"
+            },
+            "41": {
+              "col": 10,
+              "row": 7,
+              "clue": "Colaborador en una publicación",
+              "answer": "COEDITOR"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Actor que interpreta al Capitán Jack Sparrow",
+              "answer": "DEPP"
+            },
+            "48": {
+              "col": 9,
+              "row": 9,
+              "clue": "El clima está demasiado frío para comerse un polo",
+              "answer": "HELADO"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Sazona",
+              "answer": "ADOBA"
+            },
+            "51": {
+              "col": 1,
+              "row": 10,
+              "clue": "Columna erigida en memoria de alguna persona difunta (pl)",
+              "answer": "CIPOS"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Lo elimina de la lista, lo…",
+              "answer": "TACHA"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Finalizó con el ábaco caoba",
+              "answer": "ACABO"
+            },
+            "55": {
+              "col": 12,
+              "row": 10,
+              "clue": "Canal por donde salía al mar el agua achicada (pl)",
+              "answer": "DALAS"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Símbolo químico del neón",
+              "answer": "NE"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Saludo marino",
+              "answer": "OLA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Poco refinados o de modales bastos",
+              "answer": "TOSCOS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hojaldre de un solo bocado",
+              "answer": "CANAPES"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Puntas, espinas",
+              "answer": "PUAS"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Por un mañana sin sodio",
+              "answer": "MAÑA"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "La utilicé al revés",
+              "answer": "ESU"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Usa tu imaginación, no te fastidies, no te…",
+              "answer": "ABURRAS"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "\"Casa…\" caravana, vehículo acondicionado para vivir en él",
+              "answer": "RODANTE"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Abstinencia de todo goce carnal",
+              "answer": "CASTIDAD"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Caudal de agua que corre violentamente",
+              "answer": "RAUDAL"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Un parque, cuando es de aerogeneradores",
+              "answer": "EOLICO"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Modificó, cambió los resultados",
+              "answer": "ALTERO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "El monograma de Emir Kusturica",
+              "answer": "EK"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Instrumento de cuerda parecido a la bandurria",
+              "answer": "LAUD"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Ojo de tuerto",
+              "answer": "OJ"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Consolador sexual",
+              "answer": "DILDO"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "\"Rodrigo…\", El Cid",
+              "answer": "DIAZ"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "El \"Big…\", la gran explosión",
+              "answer": "BANG"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lo motivo, lo inspiro",
+              "answer": "ALIENTO"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Zarandear, agitar",
+              "answer": "SACUDIR"
+            },
+            "42": {
+              "col": 0,
+              "row": 8,
+              "clue": "Moneda de Vietnam",
+              "answer": "DONG"
+            },
+            "43": {
+              "col": 5,
+              "row": 8,
+              "clue": "Prefijo que refiere a la India",
+              "answer": "INDO"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "Castillo japonés popular durante la floración de los cerezos",
+              "answer": "OSAKA"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Fuego humilde",
+              "answer": "FU"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "\"Te… de menos\", te extrañé",
+              "answer": "ECHE"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "En la punta del iceberg",
+              "answer": "IC"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Se echó en la cama",
+              "answer": "ACOSTO"
+            },
+            "53": {
+              "col": 7,
+              "row": 10,
+              "clue": "Misericordia, clemencia, humanidad",
+              "answer": "PIEDAD"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pronuncian leyes, las…",
+              "answer": "DICTAN"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "Ave de largo pico con un gran saco gular para pescar",
+              "answer": "PELICANO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Compuesto obtenido a partir del opio",
+              "answer": "OPIACEO"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Cartas astrales, cartas…",
+              "answer": "NATALES"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Una cuenta de redes sociales que no es real",
+              "answer": "BOT"
+            },
+            "63": {
+              "col": 4,
+              "row": 13,
+              "clue": "Tire la puerta",
+              "answer": "HALE"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Ciudad del sur de Chad",
+              "answer": "DOBA"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Saldrá el Papa a su balcón, se…",
+              "answer": "ASOMARA"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Fuerte y robusto como un toro",
+              "answer": "TOROSO"
+            }
+          }
+        },
+        "vertical_clues": "2-Enfrenté, resistí, contrarié\r\n3-Proveo, suministro\r\n4-Juego de planchas de acero que producen un sonido musical\r\n5-Audacia, resolución, intrepidez\r\n6-\"Fast…\" famosa canción de Tracy Chapman\r\n7-Evocación nostálgica\r\n8-Rafa prefiere una Navidad valenciana\r\n9-Tontería propia de alguien inmaduro \r\n10-Esta está sin conjugar\r\n11-Su puntuación de Ajedrez está por el piso\r\n12-Estado de quien ya no tiene hambre \r\n17-Símbolo químico del bario\r\n18-Sacudida rápida y brusca\r\n20-Vehículo automóvil de transporte público\r\n22-\"…Al-Fayed\" productor egipcio de cine, amigo de Diana\r\n27-Acortamiento coloquial de kilogramo\r\n31-Célula de defensa\r\n32-Evalúa sensorialmente un producto gastronómico \r\n34-Relacionen las ideas\r\n36-F1 \"… Lauda\" después del accidente, ganó 2 títulos más\r\n37-Chistoso, agudo, lleno de donaire\r\n39-Dar estirones repetidos para arrastrar a alguien \r\n41-Colaborador en una publicación \r\n44-Actor que interpreta al Capitán Jack Sparrow\r\n48-El clima está demasiado frío para comerse un polo\r\n50-Sazona\r\n51-Columna erigida en memoria de alguna persona difunta (pl)\r\n52-Lo elimina de la lista, lo…\r\n54-Finalizó con el ábaco caoba\r\n55-Canal por donde salía al mar el agua achicada (pl)\r\n58-Símbolo químico del neón\r\n60-Saludo marino",
+        "horizontal_clues": "1-Poco refinados o de modales bastos \r\n6-Hojaldre de un solo bocado\r\n13-Puntas, espinas\r\n14-Por un mañana sin sodio\r\n15-La utilicé al revés\r\n16-Usa tu imaginación, no te fastidies, no te…\r\n19-\"Casa…\" caravana, vehículo acondicionado para vivir en él\r\n21-Abstinencia de todo goce carnal\r\n23-Caudal de agua que corre violentamente\r\n24-Un parque, cuando es de aerogeneradores\r\n25-Modificó, cambió los resultados\r\n26-El monograma de Emir Kusturica\r\n28-Instrumento de cuerda parecido a la bandurria\r\n29-Ojo de tuerto\r\n30-Consolador sexual\r\n33-\"Rodrigo…\", El Cid\r\n35-El \"Big…\", la gran explosión\r\n38-Lo motivo, lo inspiro\r\n40-Zarandear, agitar\r\n42-Moneda de Vietnam \r\n43-Prefijo que refiere a la India\r\n45-Castillo japonés popular durante la floración de los cerezos\r\n46-Fuego humilde\r\n47-\"Te… de menos\", te extrañé\r\n49-En la punta del iceberg\r\n50-Se echó en la cama\r\n53-Misericordia, clemencia, humanidad\r\n56-Pronuncian leyes, las…\r\n57-Ave de largo pico con un gran saco gular para pescar\r\n59-Compuesto obtenido a partir del opio\r\n61-Cartas astrales, cartas…\r\n62-Una cuenta de redes sociales que no es real\r\n63-Tire la puerta\r\n64-Ciudad del sur de Chad\r\n65-Saldrá el Papa a su balcón, se…\r\n66-Fuerte y robusto como un toro",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,#,9,10,11\r\n12,#,13,#,#,#,#,14,#,#,#,#,15,#,#\r\n16,17,#,#,#,#,18,#,19,#,#,20,#,#,#\r\n21,#,#,#,#,#,#,22,#,23,#,#,#,#,#\r\n#,#,24,#,#,#,#,#,#,25,#,#,#,#,#\r\n26,27,#,#,28,#,#,#,#,#,#,29,#,#,#\r\n30,#,31,32,#,#,33,#,34,#,#,35,#,36,37\r\n38,#,#,#,#,39,#,#,40,#,41,#,#,#,#\r\n42,#,#,#,#,43,#,44,#,#,45,#,#,#,#\r\n#,#,46,#,#,#,#,47,#,48,#,#,#,49,#\r\n50,51,#,#,52,#,#,53,#,#,#,54,55,#,#\r\n56,#,#,#,#,#,#,57,#,#,#,#,#,58,#\r\n59,#,#,#,#,#,60,#,61,#,#,#,#,#,#\r\n62,#,#,#,63,#,#,#,#,64,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,66,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

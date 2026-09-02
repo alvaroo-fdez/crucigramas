@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 1015,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-30T09:54:13.094143Z",
+      "updatedAt": "2024-09-30T09:54:13.094169Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-03",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALEGORIA#CALIFA\r\nDESUNION#APODAR\r\nHTP#CENA#PARABA\r\nERIA#LETARGO#RN\r\nRANGO#SOCIO#RED\r\nISAAC##LA##LIGA\r\n###SUQUET#OIGAN\r\nMAZAPAN#EXPRESO\r\nALEJO#IGNOTO###\r\nNETO##CO##ANUDA\r\nIRA#PLENA#RESES\r\nAT#PROFANO#SACA\r\nCALLAN#DIJE#RID\r\nADEUDA#ATAVISMO\r\nSONSOS#SABOTEAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Me uní o me pegué a algo.",
+              "answer": "ADHERI"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Los grafemas de un lastre.",
+              "answer": "LETRAS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Clavada como una mala sensación.",
+              "answer": "ESPINA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Guía incompleta.",
+              "answer": "GU"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Fút. Casi todos los jugadores, expulsaron a uno.",
+              "answer": "ONC"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Carril de una vía férrea.",
+              "answer": "RIEL"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Átomos que adquieren carga eléctrica.",
+              "answer": "IONES"
+            },
+            "8": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"... France\", escritor, cuya obra se incluyó en el Índice de Libros Prohibidos de la Iglesia católica.",
+              "answer": "ANATOLE"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Que cómico era Joan cuando iba a la Isla del mar Tirreno.",
+              "answer": "CAPRI"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Extingo, sofoco.",
+              "answer": "APAGO"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Al...\" atento, pendiente como perico.",
+              "answer": "LORO"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Una salida sosa la dejó perdida.",
+              "answer": "IDA"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Futbolista español, ex del Arsenal y Barcelona.",
+              "answer": "FABREGAS"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Baya pequeña de color azul.",
+              "answer": "ARANDANO"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Obsequio como homenaje.",
+              "answer": "AGASAJO"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Respeten con sumisión una autoridad.",
+              "answer": "ACATEN"
+            },
+            "26": {
+              "col": 4,
+              "row": 4,
+              "clue": "Lleno un espacio o lugar.",
+              "answer": "OCUPO"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Dirige, gobierna, manda.",
+              "answer": "RIGE"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Pequeños roedores con largos periodos de hibernación.",
+              "answer": "LIRONES"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dominio web para Catar.",
+              "answer": "QA"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Organización internacional para la infancia.",
+              "answer": "UNICEF"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Seleccionar algo entre varias cosas.",
+              "answer": "OPTAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Padecen manía patológica.",
+              "answer": "MANIACAS"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Puesto en estado de vigilancia.",
+              "answer": "ALERTADO"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Ultima letra del alfabeto latino.",
+              "answer": "ZETA"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "En el chat: un beso y un abrazo.",
+              "answer": "XO"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Órganos generadores de células sexuales.",
+              "answer": "GONADAS"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Emplearse, utilizarse.",
+              "answer": "USARSE"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Diezmo.",
+              "answer": "DECIMA"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Hombre que se dedica a cuidar la parrilla.",
+              "answer": "ASADOR"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Museo español que expone 'El Jardín de las delicias' del Bosco.",
+              "answer": "PRADO"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Busca las telas en el salón.",
+              "answer": "LONAS"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"... Ekberg\", protagonista de 'La Dolce Vita' de Fellini.",
+              "answer": "ANITA"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Un extra, una ganancia.",
+              "answer": "PLUS"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Reduzco al contrario.",
+              "answer": "OJAB"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Hilo de mala punta.",
+              "answer": "LEN"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Duración de tiempo sin término.",
+              "answer": "EVO"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Dominio web para Italia.",
+              "answer": "IT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Figura retórica que representa ideas abstractas.",
+              "answer": "ALEGORIA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lo fue Abderramán III o Alhakam II en Córdoba.",
+              "answer": "CALIFA"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ruptura de la armonía en un grupo.",
+              "answer": "DESUNION"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Poner un sobrenombre, un alias.",
+              "answer": "APODAR"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "HiperTensión Pulmonar.",
+              "answer": "HTP"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "\"Desayuna como rey, come como príncipe y... como mendigo\".",
+              "answer": "CENA"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Detenía el movimiento o la acción.",
+              "answer": "PARABA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Terreno grande perteneciente a varios dueños.",
+              "answer": "ERIA"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Estado de somnolencia e inactividad.",
+              "answer": "LETARGO"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Símbolo químico del Radón.",
+              "answer": "RN"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Nivel militar.",
+              "answer": "RANGO"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "El amigo con el que monté mi negocio.",
+              "answer": "SOCIO"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Facebook o Instagram.",
+              "answer": "RED"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Científico de la ley de la gravitación universal.",
+              "answer": "ISAAC"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Nota musical.",
+              "answer": "LA"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Enlace, link.",
+              "answer": "LIGA"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Plato típico catalán de pescado.",
+              "answer": "SUQUET"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Escuchen, presten atención.",
+              "answer": "OIGAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Figuritas de...\" postre navideño.",
+              "answer": "MAZAPAN"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Tren rápido sin paradas intermedias.",
+              "answer": "EXPRESO"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"... Cuervo\" editor español y dueño de Gigamesh, la librería fantástica.",
+              "answer": "ALEJO"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Completamente desconocido o misterioso.",
+              "answer": "IGNOTO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Limpio, puro, claro y bien definido.",
+              "answer": "NETO"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Símbolo químico del cobalto.",
+              "answer": "CO"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ata, por ejemplo los cordones.",
+              "answer": "ANUDA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "La rabia de Shakira.",
+              "answer": "IRA"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Completa, llena.",
+              "answer": "PLENA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Animales vacunos.",
+              "answer": "RESES"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Antiguo Testamento.",
+              "answer": "AT"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Ajeno a lo sagrado o religioso.",
+              "answer": "PROFANO"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "La casa es un desastre, pon todo fuera.",
+              "answer": "SACA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "No hablan, guardan silencio.",
+              "answer": "CALLAN"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "La alhaja que te comenté (Pista de Mambrino 2018).",
+              "answer": "DIJE"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "Un poco ridículos.",
+              "answer": "RID"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Debe, contrae una deuda.",
+              "answer": "ADEUDA"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Reaparición de rasgos ancestrales.",
+              "answer": "ATAVISMO"
+            },
+            "67": {
+              "col": 0,
+              "row": 14,
+              "clue": "Tontos, lerdos.",
+              "answer": "SONSOS"
+            },
+            "68": {
+              "col": 7,
+              "row": 14,
+              "clue": "Entorpecer deliberadamente una actividad.",
+              "answer": "SABOTEAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Me uní o me pegué a algo. \r\n2-Los grafemas de un lastre.\r\n3-Clavada como una mala sensación.\r\n4-Guía incompleta.\r\n5-Fút. Casi todos los jugadores, expulsaron a uno.\r\n6-Carril de una vía férrea.\r\n7-Átomos que adquieren carga eléctrica.\r\n8-\"... France\", escritor, cuya obra se incluyó en el Índice de Libros Prohibidos de la Iglesia católica.\r\n9-Que cómico era Joan cuando iba a la Isla del mar Tirreno.\r\n10-Extingo, sofoco.\r\n11-\"Al...\" atento, pendiente como perico.\r\n12-Una salida sosa la dejó perdida.\r\n13-Futbolista español, ex del Arsenal y Barcelona. \r\n14-Baya pequeña de color azul.\r\n21-Obsequio como homenaje.\r\n23-Respeten con sumisión una autoridad.\r\n26-Lleno un espacio o lugar.\r\n28-Dirige, gobierna, manda.\r\n31-Pequeños roedores con largos periodos de hibernación.\r\n33-Dominio web para Catar.\r\n34-Organización internacional para la infancia. \r\n35-Seleccionar algo entre varias cosas.\r\n36-Padecen manía patológica.\r\n37-Puesto en estado de vigilancia. \r\n38-Ultima letra del alfabeto latino.\r\n40-En el chat: un beso y un abrazo.\r\n43-Órganos generadores de células sexuales.\r\n47-Emplearse, utilizarse.\r\n48-Diezmo.\r\n49-Hombre que se dedica a cuidar la parrilla.\r\n51-Museo español que expone 'El Jardín de las delicias' del Bosco.\r\n52-Busca las telas en el salón.\r\n53-\"... Ekberg\", protagonista de 'La Dolce Vita' de Fellini.\r\n56-Un extra, una ganancia.\r\n57-Reduzco al contrario.\r\n60-Hilo de mala punta.\r\n62-Duración de tiempo sin término.\r\n66-Dominio web para Italia.",
+        "horizontal_clues": "1-Figura retórica que representa ideas abstractas. \r\n9-Lo fue Abderramán III o Alhakam II en Córdoba.\r\n15-Ruptura de la armonía en un grupo. \r\n16-Poner un sobrenombre, un alias.\r\n17-HiperTensión Pulmonar.\r\n18-\"Desayuna como rey, come como príncipe y... como mendigo\". \r\n19-Detenía el movimiento o la acción. \r\n20-Terreno grande perteneciente a varios dueños.\r\n22-Estado de somnolencia e inactividad.\r\n24-Símbolo químico del Radón.\r\n25-Nivel militar.\r\n27-El amigo con el que monté mi negocio.\r\n28-Facebook o Instagram.\r\n29-Científico de la ley de la gravitación universal.\r\n30-Nota musical.\r\n31-Enlace, link.\r\n32-Plato típico catalán de pescado. \r\n35-Escuchen, presten atención.\r\n36-\"Figuritas de...\" postre navideño.\r\n39-Tren rápido sin paradas intermedias. \r\n41-\"... Cuervo\" editor español y dueño de Gigamesh, la librería fantástica.\r\n42-Completamente desconocido o misterioso. \r\n44-Limpio, puro, claro y bien definido.\r\n45-Símbolo químico del cobalto.\r\n46-Ata, por ejemplo los cordones.\r\n50-La rabia de Shakira.\r\n51-Completa, llena.\r\n54-Animales vacunos.\r\n55-Antiguo Testamento. \r\n56-Ajeno a lo sagrado o religioso. \r\n58-La casa es un desastre, pon todo fuera.\r\n59-No hablan, guardan silencio.\r\n61-La alhaja que te comenté (Pista de Mambrino 2018).\r\n63-Un poco ridículos.\r\n64-Debe, contrae una deuda.\r\n65-Reaparición de rasgos ancestrales. \r\n67-Tontos, lerdos.\r\n68-Entorpecer deliberadamente una actividad.",
+        "board_clues_positions": "1,2,3,4,5,6,7,8,#,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,#,#,16,#,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,19,#,#,#,#,#\r\n20,#,#,21,#,22,#,#,23,#,#,#,#,24,#\r\n25,#,#,#,26,#,27,#,#,#,#,#,28,#,#\r\n29,#,#,#,#,#,#,30,#,#,#,31,#,#,#\r\n#,#,#,32,#,33,34,#,#,#,35,#,#,#,#\r\n36,37,38,#,#,#,#,#,39,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,#,#,#,#,#,#,#\r\n44,#,#,#,#,#,45,#,#,#,46,#,47,48,49\r\n50,#,#,#,51,52,#,#,53,#,54,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,57,#,58,#,#,#\r\n59,#,60,#,#,#,#,61,#,#,62,#,63,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,66,#,#,#\r\n67,#,#,#,#,#,#,68,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

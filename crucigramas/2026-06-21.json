@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 6360,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-20T21:54:45.821308Z",
+      "updatedAt": "2026-06-20T21:57:30.477800Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PELUCA#INMOLA#\r\nALCOBA###AIRBUS\r\nVA#SEMBLANTE#TI\r\nINSTRUI#COMEDOR\r\nSTO##SOSAS##IRI\r\nPELAR#PIR#CASIO\r\nALIÑO#ODA#INCAS\r\n##COMPLEMENTO##\r\nPAIRA#ICE#CORTE\r\nESTES#TAL#ONDAS\r\nGPA##TIRAS##ICP\r\nAEROBIC#DALMATA\r\nDC#PATAGONIA#ID\r\nATLETA###SENECA\r\n#OSPINA#MANIJA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Criadero de plantas",
+              "answer": "PLANTEL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'",
+              "answer": "EC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Perdidos por esta serie",
+              "answer": "LOST"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "App que ofrece servicios de transporte a particulares",
+              "answer": "UBER"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Albert…\" argelino, Nobel de Literatura en 1957",
+              "answer": "CAMUS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Valencia Niños pequeños",
+              "answer": "NANOS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cibeataque: Man In The Middle",
+              "answer": "MITM"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Airee, refresque, ventile",
+              "answer": "OREE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Un lobo sin ojos",
+              "answer": "LB"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Este crucigrama lo hice yo, es de mi…",
+              "answer": "AUTORIA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Insecto himenóptero",
+              "answer": "AVISPA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Hombres nacidos en el país cuya capital es Damasco",
+              "answer": "SIRIOS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Gestión estatal del cuerpo y la vida según Foucault",
+              "answer": "BIOPOLITICA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "De color como el caramelo",
+              "answer": "ACARAMELADO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Pretender, pedir o buscar algo con diligencia y cuidado",
+              "answer": "SOLICITAR"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Falta de armonía entre personas o grupos",
+              "answer": "DISCORDIA"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "El asiento de Robin en la moto de Batman",
+              "answer": "SIDECAR"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Recordé con nostalgia",
+              "answer": "AÑORE"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Tijeras con puntas redondeadas",
+              "answer": "ROMAS"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Número de estrellas que tienen los hoteles de alta calidad",
+              "answer": "CINCO"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "Autor del libro El Jardín de los Cerezos (1904)",
+              "answer": "ANTON"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Peg está muy unida a Ada",
+              "answer": "PEGADA"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "¿Tu apariencia? Haz más pectorales al respecto",
+              "answer": "ASPECTO"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Método para ejecutar un plan",
+              "answer": "TACTICA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Arma blanca larga",
+              "answer": "ESPADA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Lo es Océano o Crono",
+              "answer": "TITAN"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Personaje de Sophie Turner en 'Juego de tronos'",
+              "answer": "SANSA"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "La Organización que controla la producción de petróleo",
+              "answer": "OPEP"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Moví con ímpetu",
+              "answer": "BATI"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Hagan un piti",
+              "answer": "LIEN"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Cacahuete, fruto seco originario de Perú",
+              "answer": "MANI"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            },
+            "63": {
+              "col": 12,
+              "row": 13,
+              "clue": "Un pequeño ejemplo",
+              "answer": "EJ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Se la puso el muy payaso",
+              "answer": "PELUCA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sacrifica su vida",
+              "answer": "INMOLA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Una habitación con aluminio, cobalto y bario",
+              "answer": "ALCOBA"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Avión de pasajeros más grande del mundo",
+              "answer": "AIRBUS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Se traslada hacia la avenida que viene",
+              "answer": "VA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Expresión del rostro que revela el estado de ánimo",
+              "answer": "SEMBLANTE"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Ni contigo ni sin…",
+              "answer": "TI"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Formé, adiestré",
+              "answer": "INSTRUI"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Un lugar público para comer",
+              "answer": "COMEDOR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pequeño santo",
+              "answer": "STO"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Les falta salero (fem)",
+              "answer": "SOSAS"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Índice de regularidad internacional (siglas)",
+              "answer": "IRI"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Quitar la piel o la cáscara a una fruta",
+              "answer": "PELAR"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Núcleo de esta espiral",
+              "answer": "PIR"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Casi obsequio un Rolex",
+              "answer": "CASIO"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Adobó, sazonó",
+              "answer": "ALIÑO"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "\"… a la Alegría\" himno europeo",
+              "answer": "ODA"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Soberanos del Cuzco, su último líder fue Atahualpa",
+              "answer": "INCAS"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Aquello que completa o perfecciona algo",
+              "answer": "COMPLEMENTO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Mantén el barco, con las velas quietas y tendidas",
+              "answer": "PAIRA"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"Hielo\" en inglés",
+              "answer": "ICE"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Voz del director para finalizar una grabación",
+              "answer": "CORTE"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Existas, seas",
+              "answer": "ESTES"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Adj dem aplicado a las cosas indefinidamente",
+              "answer": "TAL"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"Premios…\" los primeros galardones de radio y TV de España",
+              "answer": "ONDAS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Símbolo del gigapascal",
+              "answer": "GPA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Arrojas las cintas",
+              "answer": "TIRAS"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Ingeniando Chistes Perfectos",
+              "answer": "ICP"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Técnica gimnástica acompañada de música",
+              "answer": "AEROBIC"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Perro blanco con manchas negras",
+              "answer": "DALMATA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"Después de Cristo\" (abrev)",
+              "answer": "DC"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Región ubicada al sur del Cono Sur de América",
+              "answer": "PATAGONIA"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Saliendo de Valladolid",
+              "answer": "ID"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Deportista de competencia",
+              "answer": "ATLETA"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Filósofo romano, tutor, ministro y consejero de Nerón",
+              "answer": "SENECA"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Guardametas colombiano del Napoli",
+              "answer": "OSPINA"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Sirve para abrir la puerta",
+              "answer": "MANIJA"
+            }
+          }
+        },
+        "vertical_clues": "1-Criadero de plantas\r\n2-Inic Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'\r\n3-Perdidos por esta serie \r\n4-App que ofrece servicios de transporte a particulares\r\n5-\"Albert…\" argelino, Nobel de Literatura en 1957\r\n7-Valencia Niños pequeños\r\n8-Cibeataque: Man In The Middle \r\n9-Airee, refresque, ventile\r\n10-Un lobo sin ojos\r\n11-Este crucigrama lo hice yo, es de mi…\r\n12-Insecto himenóptero\r\n14-Hombres nacidos en el país cuya capital es Damasco\r\n17-Gestión estatal del cuerpo y la vida según Foucault \r\n18-De color como el caramelo\r\n21-Pretender, pedir o buscar algo con diligencia y cuidado\r\n23-Falta de armonía entre personas o grupos \r\n26-El asiento de Robin en la moto de Batman\r\n29-Recordé con nostalgia\r\n30-Tijeras con puntas redondeadas\r\n32-Número de estrellas que tienen los hoteles de alta calidad\r\n33-Autor del libro El Jardín de los Cerezos (1904)\r\n38-Peg está muy unida a Ada\r\n39-¿Tu apariencia? Haz más pectorales al respecto\r\n42-Método para ejecutar un plan\r\n43-Arma blanca larga\r\n48-Lo es Océano o Crono\r\n49-Personaje de Sophie Turner en 'Juego de tronos' \r\n52-La organización que controla la producción de petróleo\r\n53-Moví con ímpetu\r\n55-Hagan un piti\r\n56-Cacahuete, fruto seco originario de Perú\r\n61-Iniciales del creador de los jeans o vaqueros\r\n63-Un pequeño ejemplo",
+        "horizontal_clues": "1-Se la puso el muy payaso \r\n6-Sacrifica su vida\r\n12-Una habitación con aluminio, cobalto y bario \r\n13-Avión de pasajeros más grande del mundo\r\n15-Se traslada hacia la avenida que viene\r\n16-Expresión del rostro que revela el estado de ánimo \r\n19-Ni contigo ni sin…\r\n20-Formé, adiestré\r\n22-Un lugar público para comer\r\n24-Pequeño santo\r\n25-Les falta salero (fem)\r\n27-Índice de regularidad internacional (siglas)\r\n28-Quitar la piel o la cáscara a una fruta\r\n31-Núcleo de esta espiral\r\n32-Casi obsequio un Rolex\r\n34-Adobó, sazonó\r\n35-\"… a la Alegría\" himno europeo\r\n36-Soberanos del Cuzco, su último líder fue Atahualpa\r\n37-Aquello que completa o perfecciona algo \r\n38-Mantén el barco, con las velas quietas y tendidas\r\n40-\"Hielo\" en inglés\r\n41-Voz del director para finalizar una grabación\r\n44-Existas, seas\r\n45-Adj dem: aplicado a las cosas indefinidamente\r\n46-\"Premios…\" los primeros galardones de radio y TV de España\r\n47-Símbolo del gigapascal\r\n48-Arrojas las cintas\r\n50-Ingeniando Chistes Perfectos\r\n51-Técnica gimnástica acompañada de música\r\n54-Perro blanco con manchas negras\r\n57-\"Después de Cristo\" (abrev)\r\n58-Región ubicada al sur del Cono Sur de América\r\n59-Saliendo de Valladolid\r\n60-Deportista de competencia\r\n62-Filósofo romano, tutor, ministro y consejero de Nerón\r\n64-Guardametas colombiano del Napoli\r\n65-Sirve para abrir la puerta",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,18,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,25,#,26,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,31,#,#,#,32,33,#,#,#\r\n34,#,#,#,#,#,35,#,#,#,36,#,#,#,#\r\n#,#,37,#,#,#,#,#,#,#,#,#,#,#,#\r\n38,39,#,#,#,#,40,#,#,#,41,#,#,42,43\r\n44,#,#,#,#,#,45,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,#,#,#,49,#,#,50,#,#\r\n51,#,#,52,53,#,#,#,54,#,55,56,#,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,#,#,59,#\r\n60,#,61,#,#,#,#,#,#,62,#,#,63,#,#\r\n#,64,#,#,#,#,#,#,65,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

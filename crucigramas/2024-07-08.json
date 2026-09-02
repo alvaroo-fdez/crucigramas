@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 545,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-05T08:43:55.205693Z",
+      "updatedAt": "2024-07-05T08:52:24.941616Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-08",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PETREO#BASCAP#\r\nSALMISTA#PLAGAD\r\nULI#OTON#TIRANO\r\nREPASA#NAIPE#CL\r\nCAST#DRAFT#CARO\r\nALERGIA#LUCIFER\r\nR##ARACNIDA#AAA\r\n#CREI#I#G#VANS#\r\nCAI#PROXIMAL##A\r\nAPAREAN#DIDEROT\r\nMISO#BABOR#JURE\r\nAR#GUIRO#AVALAN\r\nROMANO#BODA#EDE\r\nATORES#OPOSITOR\r\n#EMANAR#EROGAR#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Zoo. Relativo al manto de los moluscos.",
+              "answer": "PALEAL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Circunferencia cónica, óvalo.",
+              "answer": "ELIPSE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Thomas Morgan (demostró de que los cromosomas portan los genes).",
+              "answer": "TM"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Miguel...\" cantando 'Santa Lucía'.",
+              "answer": "RIOS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "El tiempo que una persona se queda en un lugar.",
+              "answer": "ESTADIA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Especie de lechuza.",
+              "answer": "OTO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Le sobra actitud, pero le falta... capacidad.",
+              "answer": "APTITUD"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Calzoncillo ajustado.",
+              "answer": "SLIP"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Me faltó, no lo tuve.",
+              "answer": "CARECI"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Azul, Gris y Amarillo.",
+              "answer": "AGA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Órgano que produce la insulina.",
+              "answer": "PANCREAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Atravesar, por ejemplo los mares.",
+              "answer": "SURCAR"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "\"... Karenina\" novela de Tolstoi.",
+              "answer": "ANNA"
+            },
+            "16": {
+              "col": 14,
+              "row": 1,
+              "clue": "Breve composición poética de espíritu dramático que envuelve un pensamiento filosófico.",
+              "answer": "DOLORA"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Seduce, cautiva.",
+              "answer": "ATRAE"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Apesadumbrado por una desgracia.",
+              "answer": "AFLIGIDO"
+            },
+            "27": {
+              "col": 6,
+              "row": 4,
+              "clue": "Administrar con medida.",
+              "answer": "RACIONAR"
+            },
+            "29": {
+              "col": 12,
+              "row": 4,
+              "clue": "Prisa, diligencia, premura.",
+              "answer": "AFAN"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Medicina. Enfermedad epidémica común.",
+              "answer": "GRIPE"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Ahondad, penetrad.",
+              "answer": "CAVAD"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Capucha puntiaguda usada en procesiones.",
+              "answer": "CAPIROTE"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Celebres con risa algo.",
+              "answer": "RIAS"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Distancia, aparta.",
+              "answer": "ALEJA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aparato óptico de vigilancia.",
+              "answer": "CAMARA"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Canción de Shakira en la que está muy odiosa.",
+              "answer": "RABIOSA"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Lugar bien situado para contemplar un paisaje.",
+              "answer": "MIRADOR"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Mantener, guardar u observar algo.",
+              "answer": "ATENER"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Suplicara con insistencia.",
+              "answer": "ROGARA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "En los casinos, juego de azar giratorio.",
+              "answer": "RULETA"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "El que habla en el podio.",
+              "answer": "ORADOR"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "¿Qué mirás, ...? Andá p’allá. Messi.",
+              "answer": "BOBO"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Acoplan, pegan, ensamblan.",
+              "answer": "UNEN"
+            },
+            "58": {
+              "col": 10,
+              "row": 11,
+              "clue": "Recipiente cilíndrico que sirve para beber.",
+              "answer": "VASO"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Mamá en inglés.",
+              "answer": "MOM"
+            },
+            "62": {
+              "col": 8,
+              "row": 12,
+              "clue": "En la ópera de López.",
+              "answer": "OPE"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Siga por el centro.",
+              "answer": "IG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "De consistencia dura como la roca.",
+              "answer": "PETREO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Org. internacional contra la falsificación y la piratería.",
+              "answer": "BASCAP"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Compositor de cánticos religiosos.",
+              "answer": "SALMISTA"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Llenad, cubrid, cargad, invadid.",
+              "answer": "PLAGAD"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "El pequeño Ulises.",
+              "answer": "ULI"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Se percató que venía desde el oriente.",
+              "answer": "OTON"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Gobernante cruel y malvado.",
+              "answer": "TIRANO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Vuelve a examinar los apuntes de clase.",
+              "answer": "REPASA"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Cada una de las barajas españolas.",
+              "answer": "NAIPE"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "150 centilitros de cloro italiano.",
+              "answer": "CL"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Chrome__, el botón para transmitir del móvil a la tele.",
+              "answer": "CAST"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sistema mecánico para dispensar cerveza de barril.",
+              "answer": "DRAFT"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Muy costoso.",
+              "answer": "CARO"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Respuesta inmunitaria excesiva por sustancias .",
+              "answer": "ALERGIA"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "Nombre del ángel más bello y rebelde.",
+              "answer": "LUCIFER"
+            },
+            "34": {
+              "col": 3,
+              "row": 6,
+              "clue": "Clase de artrópodos que incluye arañas y escorpiones (fem).",
+              "answer": "ARACNIDA"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Las pilas de mando del pantalla plana.",
+              "answer": "AAA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Confié, tuve fe.",
+              "answer": "CREI"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Clásica zapatilla de cuadros blancos y negros.",
+              "answer": "VANS"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"... en la tentación\".",
+              "answer": "CAI"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Med. Lo contrario a distal.",
+              "answer": "PROXIMAL"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Procrean, copulan, se...",
+              "answer": "APAREAN"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Filósofo francés que junto a D’Alembert, hicieron la 'Encyclopédie'.",
+              "answer": "DIDEROT"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Condimento japonés que acompaña a este tipo de ramen.",
+              "answer": "MISO"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Costado izquierdo del barco, mirando de popa a proa.",
+              "answer": "BABOR"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Prometí, ofrendé.",
+              "answer": "JURE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Menos armas.",
+              "answer": "AR"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Instrumento de percusión hecho de calabaza.",
+              "answer": "GUIRO"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Dan garantías.",
+              "answer": "AVALAN"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "El italiano, se dispersó en cuatro manos.",
+              "answer": "ROMANO"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Casamiento y fiesta.",
+              "answer": "BODA"
+            },
+            "63": {
+              "col": 12,
+              "row": 12,
+              "clue": "Evaluador de defensa electrónica (siglas).",
+              "answer": "EDE"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Atasques, obstruyas.",
+              "answer": "ATORES"
+            },
+            "65": {
+              "col": 7,
+              "row": 13,
+              "clue": "Está en otro piso porque él no es oficialista.",
+              "answer": "OPOSITOR"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "Nacer de mí, desprender de sí.",
+              "answer": "EMANAR"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Distribuir, repartir bienes o caudales.",
+              "answer": "EROGAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Zoo. Relativo al manto de los moluscos.\r\n2-Circunferencia cónica, óvalo.\r\n3-Thomas Morgan (demostró de que los cromosomas portan los genes). \r\n4-\"Miguel...\" cantando 'Santa Lucía'.\r\n5-El tiempo que una persona se queda en un lugar.\r\n6-Especie de lechuza.\r\n8-Le sobra actitud, pero le falta... capacidad.\r\n9-Calzoncillo ajustado.\r\n10-Me faltó, no lo tuve.\r\n11-Azul, Gris y Amarillo.\r\n12-Órgano que produce la insulina.\r\n13-Atravesar, por ejemplo los mares.\r\n14-\"... Karenina\" novela de Tolstoi.\r\n16-Breve composición poética de espíritu dramático que envuelve un pensamiento filosófico.\r\n21-Seduce, cautiva.\r\n23-Apesadumbrado por una desgracia. \r\n27-Administrar con medida.\r\n29-Prisa, diligencia, premura.\r\n31-Medicina. Enfermedad epidémica común.\r\n33-Ahondad, penetrad.\r\n36-Capucha puntiaguda usada en procesiones. \r\n37-Celebres con risa algo.\r\n39-Distancia, aparta.\r\n40-Aparato óptico de vigilancia.\r\n42-Canción de Shakira en la que está muy odiosa.\r\n43-Lugar bien situado para contemplar un paisaje.\r\n44-Mantener, guardar u observar algo.\r\n46-Suplicara con insistencia. \r\n48-En los casinos, juego de azar giratorio.\r\n49-El que habla en el podio.\r\n52-¿Qué mirás, ...? Andá p’allá. Messi.\r\n56-Acoplan, pegan, ensamblan.\r\n58-Recipiente cilíndrico que sirve para beber.\r\n60-Mamá en inglés.\r\n62-En la ópera de López.\r\n66-Siga por el centro.",
+        "horizontal_clues": "1-De consistencia dura como la roca. \r\n7-Org. internacional contra la falsificación y la piratería.\r\n13-Compositor de cánticos religiosos. \r\n15-Llenad, cubrid, cargad, invadid.\r\n17-El pequeño Ulises.\r\n18-Se percató que venía desde el oriente.\r\n19-Gobernante cruel y malvado.\r\n20-Vuelve a examinar los apuntes de clase.\r\n22-Cada una de las barajas españolas.\r\n24-150 centilitros de cloro italiano.\r\n25-Chrome__, el botón para transmitir del móvil a la tele.\r\n26-Sistema mecánico para dispensar cerveza de barril.\r\n28-Muy costoso.\r\n30-Respuesta inmunitaria excesiva por sustancias .\r\n32-Nombre del ángel más bello y rebelde.\r\n34-Clase de artrópodos que incluye arañas y escorpiones (fem).\r\n35-Las pilas de mando del pantalla plana.\r\n36-Confié, tuve fe.\r\n38-Clásica zapatilla de cuadros blancos y negros.\r\n40-\"... en la tentación\".\r\n41-Med. Lo contrario a distal.\r\n45-Procrean, copulan, se...\r\n47-Filósofo francés que junto a D’Alembert, hicieron la 'Encyclopédie'.\r\n50-Condimento japonés que acompaña a este tipo de ramen.\r\n51-Costado izquierdo del barco, mirando de popa a proa.\r\n53-Prometí, ofrendé.\r\n54-Menos armas.\r\n55-Instrumento de percusión hecho de calabaza.\r\n57-Dan garantías.\r\n59-El italiano, se dispersó en cuatro manos.\r\n61-Casamiento y fiesta.\r\n63-Evaluador de defensa electrónica (siglas).\r\n64-Atasques, obstruyas.\r\n65-Está en otro piso porque él no es oficialista.\r\n67-Nacer de mí, desprender de sí.\r\n68-Distribuir, repartir bienes o caudales.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,14,#,15,#,#,#,#,16\r\n17,#,#,#,18,#,#,#,#,19,#,#,#,#,#\r\n20,#,#,21,#,#,#,22,23,#,#,#,#,24,#\r\n25,#,#,#,#,26,27,#,#,#,#,28,29,#,#\r\n30,#,#,#,31,#,#,#,32,#,33,#,#,#,#\r\n#,#,#,34,#,#,#,#,#,#,#,#,35,#,#\r\n#,36,37,#,#,#,#,#,#,#,38,39,#,#,#\r\n40,#,#,#,41,42,#,#,#,43,#,#,#,#,44\r\n45,#,#,46,#,#,#,#,47,#,#,#,48,49,#\r\n50,#,#,#,#,51,#,52,#,#,#,53,#,#,#\r\n54,#,#,55,56,#,#,#,#,57,58,#,#,#,#\r\n59,#,60,#,#,#,#,61,62,#,#,#,63,#,#\r\n64,#,#,#,#,#,#,65,#,#,#,66,#,#,#\r\n#,67,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

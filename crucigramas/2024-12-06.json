@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 1394,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-06T09:57:10.827070Z",
+      "updatedAt": "2024-12-06T09:57:10.876199Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-06",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#LISTOS#HAMACAS\r\nP#FERRARI#ATAJO\r\nOT#RUECAS#NONES\r\nLAMEDOR#TAURINA\r\nIRUNESA#ELEANOR\r\nAEREA#SARAL#OS#\r\nMAGNUM#LIMAN##C\r\nOSA##AGUAI##SMO\r\nR##CEDAN#NAGUAL\r\n#AB#FENOL#MOSTO\r\nASUMIRA#IMANTAR\r\nDIFAMAN#CORDOBA\r\nARENE#CHURRO#AD\r\nMATAR#ISABELI#O\r\nONEROSA#DONABA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Si\", condicional en inglés",
+              "answer": "IF"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sosieguen, tranquilicen",
+              "answer": "SERENEN"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Primer ministro canadiense",
+              "answer": "TRUDEAU"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Soplo del aire que da suavemente en algo (pl)",
+              "answer": "OREOS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Sagradas, dignas de veneración",
+              "answer": "SACRAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Afección psicológica, antiguamente asociada al útero",
+              "answer": "HISTERIA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"… Sáenz\" compañera de Simón Bolívar, prócer latinoamericana",
+              "answer": "MANUELA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Atasca, obstruye",
+              "answer": "ATORA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "El colmillo",
+              "answer": "CANINO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Pertenecientes a otra persona (masc)",
+              "answer": "AJENOS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Terreno en que abunda la sosa",
+              "answer": "SOSAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Relación amorosa simultánea y consensuada, de tres o más personas",
+              "answer": "POLIAMOR"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Realidad aumentada",
+              "answer": "RA"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Estará confundido con sus deberes",
+              "answer": "TAREAS"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Género músico",
+              "answer": "MURGA"
+            },
+            "24": {
+              "col": 9,
+              "row": 3,
+              "clue": "Oficial que tasaba los víveres en la España musulmana",
+              "answer": "ALAMIN"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Un alimento se dañó, se estropeó, se…",
+              "answer": "ALUNO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Parte sólida de los árboles cubierta por la corteza",
+              "answer": "MADERA"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Gran desierto de EEUU",
+              "answer": "COLORADO"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Beneficio obtenido de cierto trámite comercial",
+              "answer": "GANANCIA"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Impresión causada por el miedo",
+              "answer": "SUSTO"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Sacrificaba, inmolaba",
+              "answer": "MATABA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Pasajero, de corta duración",
+              "answer": "EFIMERO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Aten y aseguren algo por medio de cuerdas",
+              "answer": "AMARREN"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Embarcación pequeña, usada en Venecia",
+              "answer": "GONDOLA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Cogerán, prenderán",
+              "answer": "ASIRAN"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Despacho de un abogado",
+              "answer": "BUFETE"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Haced líquida una cosa sólida",
+              "answer": "LICUAD"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cortejo, requiebro",
+              "answer": "ADAMO"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Brotar, fluir un líquido",
+              "answer": "MANAR"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Sentir interés malsano por alguna situación o persona",
+              "answer": "MORBO"
+            },
+            "58": {
+              "col": 7,
+              "row": 12,
+              "clue": "Herbert Spencer y Harry Styles",
+              "answer": "HS"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "En el Ibook de Ibai",
+              "answer": "IB"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Los astutos ya están preparados",
+              "answer": "LISTOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tumbonas, sillas de playa",
+              "answer": "HAMACAS"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Compañía de autos cuyo símbolo es un caballo negro",
+              "answer": "FERRARI"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Senda por donde se abrevia el camino",
+              "answer": "ATAJO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Otra que no tiene radio",
+              "answer": "OT"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Husos, ruedas",
+              "answer": "RUECAS"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Juego de manos: “Pares o…”",
+              "answer": "NONES"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Agua espesada con azúcar",
+              "answer": "LAMEDOR"
+            },
+            "23": {
+              "col": 8,
+              "row": 3,
+              "clue": "Ingrediente presente en bebidas energizantes",
+              "answer": "TAURINA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Mujer de Irún",
+              "answer": "IRUNESA"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"… Roosevelt\", impulsora de la Declaración Universal de Derechos Humanos",
+              "answer": "ELEANOR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Que pertenece al aire (fem)",
+              "answer": "AEREA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Hilal…\" directora de la telenovela turca 'Fatmagül'",
+              "answer": "SARAL"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "De los dos",
+              "answer": "OS"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Botella para vino o champán de 1,5 L",
+              "answer": "MAGNUM"
+            },
+            "33": {
+              "col": 7,
+              "row": 6,
+              "clue": "Desorientados en Milán, rebajan las asperezas",
+              "answer": "LIMAN"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"… menor\" la constelación que tiene a la estrella polar",
+              "answer": "OSA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Nombre de varias especies de plantas del Chaco, del Paraguay",
+              "answer": "AGUAI"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Fin del comunismo y del capitalismo",
+              "answer": "SMO"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Den, transfieran, traspasen a alguien una cosa",
+              "answer": "CEDAN"
+            },
+            "42": {
+              "col": 9,
+              "row": 8,
+              "clue": "Hechicero mexicano",
+              "answer": "NAGUAL"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Receptor sanguíneo universal",
+              "answer": "AB"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Química Alcohol derivado del benceno",
+              "answer": "FENOL"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "El zumo de uva, antes de ser fermentado",
+              "answer": "MOSTO"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "En modo indicativo, 3ª persona del singular, del futuro simple, del verbo asumir",
+              "answer": "ASUMIRA"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Transferir a un cuerpo la propiedad magnética",
+              "answer": "IMANTAR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Desacreditan a alguien",
+              "answer": "DIFAMAN"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Ciudad natal (correspondencia actual) de Séneca el Joven",
+              "answer": "CORDOBA"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Refregué con arena",
+              "answer": "ARENE"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Tira de harina frita, con azúcar",
+              "answer": "CHURRO"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Quitar la vida con violencia",
+              "answer": "MATAR"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Reina española, que apoyó a Cristóbal Colón (2p)",
+              "answer": "ISABELI"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Pesada, engorrosa",
+              "answer": "ONEROSA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Concedía, contribuía",
+              "answer": "DONABA"
+            }
+          }
+        },
+        "vertical_clues": "2-\"Si\", condicional en inglés\r\n3-Sosieguen, tranquilicen\r\n4-Primer ministro canadiense\r\n5-Soplo del aire que da suavemente en algo (pl)\r\n6-Sagradas, dignas de veneración\r\n7-Afección psicológica, antiguamente asociada al útero\r\n8-\"… Sáenz\" compañera de Simón Bolívar, prócer latinoamericana\r\n9-Atasca, obstruye\r\n10-El colmillo\r\n11-Pertenecientes a otra persona (masc)\r\n12-Terreno en que abunda la sosa\r\n13-Relación amorosa simultánea y consensuada, de tres o más personas\r\n15-Realidad aumentada\r\n18-Estará confundido con sus deberes\r\n22-Género músico-teatral, típico en carnaval\r\n24-Oficial que tasaba los víveres en la España musulmana\r\n29-Un alimento se dañó, se estropeó, se…\r\n32-Parte sólida de los árboles cubierta por la corteza\r\n34-Gran desierto de EEUU\r\n37-Beneficio obtenido de cierto trámite comercial\r\n38-Impresión causada por el miedo\r\n39-Sacrificaba, inmolaba\r\n41-Pasajero, de corta duración\r\n43-Aten y aseguren algo por medio de cuerdas\r\n44-Embarcación pequeña, usada en Venecia\r\n45-Cogerán, prenderán\r\n46-Despacho de un abogado\r\n48-Haced líquida una cosa sólida\r\n50-Cortejo, requiebro\r\n51-Brotar, fluir un líquido\r\n53-Sentir interés malsano por alguna situación o persona\r\n58-Herbert Spencer y Harry Styles\r\n62-En el Ibook de Ibai\r\n",
+        "horizontal_clues": "1-Los astutos ya están preparados\r\n7-Tumbonas, sillas de playa\r\n14-Compañía de autos cuyo símbolo es un caballo negro\r\n16-Senda por donde se abrevia el camino\r\n17-Otra que no tiene radio\r\n19-Husos, ruedas\r\n20-Juego de manos: “Pares o…” \r\n21-Agua espesada con azúcar\r\n23-Ingrediente presente en bebidas energizantes\r\n25-Mujer de Irún\r\n26-\"… Roosevelt\", impulsora de la Declaración Universal de Derechos Humanos\r\n27-Que pertenece al aire (fem)\r\n28-\"Hilal…\" directora de la telenovela turca 'Fatmagül'\r\n30-De los dos\r\n31-Botella para vino o champán de 1,5 L\r\n33-Desorientados en Milán, rebajan las asperezas\r\n35-\"… menor\" la constelación que tiene a la estrella polar\r\n36-Nombre de varias especies de plantas del Chaco, del Paraguay\r\n38-Fin del comunismo y del capitalismo\r\n40-Den, transfieran, traspasen a alguien una cosa\r\n42-Hechicero mexicano\r\n45-Receptor sanguíneo universal\r\n47-Química Alcohol derivado del benceno\r\n49-El zumo de uva, antes de ser fermentado\r\n50-En modo indicativo, 3ª persona del singular, del futuro simple, del verbo asumir\r\n52-Transferir a un cuerpo la propiedad magnética\r\n54-Desacreditan a alguien\r\n55-Ciudad natal (correspondencia actual) de Séneca el Joven\r\n56-Refregué con arena\r\n57-Tira de harina frita, con azúcar\r\n59-Dominio web para Andorra\r\n60-Quitar la vida con violencia\r\n61-Reina española, que apoyó a Cristóbal Colón (2p)\r\n63-Pesada, engorrosa\r\n64-Concedía, contribuía\r\n",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,#,8,9,10,11,12\r\n13,#,14,#,#,#,#,15,#,#,16,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,#,20,#,#,#,#\r\n21,#,22,#,#,#,#,#,23,24,#,#,#,#,#\r\n25,#,#,#,#,#,#,#,26,#,#,#,#,#,#\r\n27,#,#,#,#,#,28,29,#,#,#,#,30,#,#\r\n31,#,#,#,#,32,#,33,#,#,#,#,#,#,34\r\n35,#,#,#,#,36,37,#,#,#,#,#,38,39,#\r\n#,#,#,40,41,#,#,#,#,42,43,44,#,#,#\r\n#,45,46,#,47,#,#,#,48,#,49,#,#,#,#\r\n50,#,#,51,#,#,#,#,52,53,#,#,#,#,#\r\n54,#,#,#,#,#,#,#,55,#,#,#,#,#,#\r\n56,#,#,#,#,#,57,58,#,#,#,#,#,59,#\r\n60,#,#,#,#,#,61,#,#,#,#,#,62,#,#\r\n63,#,#,#,#,#,#,#,64,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

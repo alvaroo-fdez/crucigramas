@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 549,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-10T21:09:41.199691Z",
+      "updatedAt": "2024-07-10T21:09:41.199713Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-11",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TREPE#ETC##LAOS\r\nROMANISMO#PANTI\r\nEPISCOPAL#ASTRO\r\nSARMATA#EDICION\r\n###OJAL#TUSI###\r\nACASO#DUAS#VALS\r\nLETANIAS#THALIA\r\nIRA#AGRARIO#FAL\r\nFRUFRU#LANCHERO\r\nAEDO#ANOS#HENAL\r\n###ROZO#UNIR###\r\nQUANTUM#RAMALES\r\nURDIR#BRASILERA\r\nANADE#REDONDEAR\r\nDANA##EMO#HONRA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "¿Cuántas Gracias tiene Rubens?.",
+              "answer": "TRES"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "La venden los de Inditex.",
+              "answer": "ROPA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Príncipe o caudillo árabe.",
+              "answer": "EMIR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que causa gran asombro o admiración.",
+              "answer": "PASMOSA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Guardar un documento, sin intención de revisar.",
+              "answer": "ENCAJONAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Parte de un asiento donde se apoya la espalda.",
+              "answer": "ESPALDAR"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Toma Mucha Agua.",
+              "answer": "TMA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Peinado con el cabello recogido atrás.",
+              "answer": "COLETA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Que expresa o provoca deseo sexual.",
+              "answer": "LASCIVA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Prefijo contrario.",
+              "answer": "ANTI"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Está roto, dame...",
+              "answer": "OTRO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Biblia. La \"madre de todos los pueblos\" (Salmo 87, 2).",
+              "answer": "SION"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Novena letra del alfabeto griego, equivale a la \"i\" del latino.",
+              "answer": "IOTA"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Territorio de una unidad geográfica, política y cultural.",
+              "answer": "PAIS"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Personaje de Stranger Things que no tiene dientes.",
+              "answer": "DUSTIN"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "México. Caña de azúcar de dos años.",
+              "answer": "ALIFA"
+            },
+            "24": {
+              "col": 1,
+              "row": 5,
+              "clue": "Tranqué, tapé.",
+              "answer": "CERRE"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Dormitorio de vampiros.",
+              "answer": "ATAUD"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Empléalo, utilízalo.",
+              "answer": "USALO"
+            },
+            "29": {
+              "col": 12,
+              "row": 5,
+              "clue": "Que los caballos levanten demasiado los cuartos delanteros en los galopes.",
+              "answer": "ALFEN"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Formará un alboroto, la...",
+              "answer": "LIARA"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Química. Salicilato de fenilo.",
+              "answer": "SALOL"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Famosas cataratas en la frontera argentino",
+              "answer": "IGUAZU"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Ciudad más poblada de Vietnam, conocida como Saigón (3p).",
+              "answer": "HOCHIMINH"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Sin vello facial.",
+              "answer": "RASURADO"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Una mujer de huesos y músculos grandes.",
+              "answer": "FORNIDA"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Mensajero oficial en la Edad Media.",
+              "answer": "HERALDO"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Palabra que identifica a una persona o cosa.",
+              "answer": "NOMBRE"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Otro que usa lenguaje inclusivo.",
+              "answer": "OTRE"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Grupo indígena localizado al noroeste de Panamá.",
+              "answer": "NASO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Cuatrimotos, vehículos de cuatro ruedas sin carrocería.",
+              "answer": "QUAD"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Donde se colocan los votos.",
+              "answer": "URNA"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "El primer nudista.",
+              "answer": "ADAN"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Consumen libros con la vista.",
+              "answer": "LEEN"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Disponer eras para poner plantas en ellas.",
+              "answer": "ERAR"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "\"... Baras\", bailadora flamenca española.",
+              "answer": "SARA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Empecé a remar y se quedó dormido.",
+              "answer": "REM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Subí a un lugar alto, con las manos y los pies.",
+              "answer": "TREPE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Etcétera (abrev).",
+              "answer": "ETC"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "País asiático cuya capital es Vientián.",
+              "answer": "LAOS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Influencia cultural del antiguo Imperio Romano.",
+              "answer": "ROMANISMO"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Parecida al leotardo, pero la tela es muy delgada y elástica.",
+              "answer": "PANTI"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Relacionado con la autoridad de un obispo.",
+              "answer": "EPISCOPAL"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "¡Ostra! esto es una estrella.",
+              "answer": "ASTRO"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pueblo de donde se cree que viene el mito de las Amazonas.",
+              "answer": "SARMATA"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Proceso de preparar un texto para su publicación.",
+              "answer": "EDICION"
+            },
+            "21": {
+              "col": 3,
+              "row": 4,
+              "clue": "Hendidura para abrochar un botón.",
+              "answer": "OJAL"
+            },
+            "22": {
+              "col": 8,
+              "row": 4,
+              "clue": "Cocaína rosa.",
+              "answer": "TUSI"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Por si las moscas, por si...",
+              "answer": "ACASO"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Número que sigue al uno.",
+              "answer": "DUAS"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "El baile de la boda.",
+              "answer": "VALS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Oraciones repetitivas en forma de súplica.",
+              "answer": "LETANIAS"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Cantante y actriz mexicana.",
+              "answer": "THALIA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Pecado capital.",
+              "answer": "IRA"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Sindicato que representa los intereses de los agricultores.",
+              "answer": "AGRARIO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Fusil Automático Liviano.",
+              "answer": "FAL"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Onomatopeya para imitar el ruido que produce el roce de la seda.",
+              "answer": "FRUFRU"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Persona que maneja una embarcación pequeña.",
+              "answer": "LANCHERO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cantor épico de la antigua Grecia.",
+              "answer": "AEDO"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Orificio final del intestino (pl).",
+              "answer": "ANOS"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Lugar donde se almacena el heno.",
+              "answer": "HENAL"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Limpió las tierras de las matas y hierbas.",
+              "answer": "ROZO"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "¿Desunir? No, al contrario.",
+              "answer": "UNIR"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Cantidad mínima de energía en física.",
+              "answer": "QUANTUM"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Divisiones secundarias de un sistema.",
+              "answer": "RAMALES"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Tramar, por ejemplo un plan o una estrategia.",
+              "answer": "URDIR"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Gentilicio de Gisele Bündchen.",
+              "answer": "BRASILERA"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Parecido al pato.",
+              "answer": "ANADE"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Ajustar una cifra eliminando decimales.",
+              "answer": "REDONDEAR"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Nada mal esta lluvia torrencial.",
+              "answer": "DANA"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Subcultura urbana, hipersensible y emocional.",
+              "answer": "EMO"
+            },
+            "66": {
+              "col": 10,
+              "row": 14,
+              "clue": "Estima y respeto de la dignidad propia.",
+              "answer": "HONRA"
+            }
+          }
+        },
+        "vertical_clues": "1-¿Cuántas Gracias tiene Rubens?. \r\n2-La venden los de Inditex.\r\n3-Príncipe o caudillo árabe.\r\n4-Que causa gran asombro o admiración. \r\n5-Guardar un documento, sin intención de revisar.\r\n6-Parte de un asiento donde se apoya la espalda. \r\n7-Toma Mucha Agua.\r\n8-Peinado con el cabello recogido atrás. \r\n9-Que expresa o provoca deseo sexual. \r\n10-Prefijo contrario.\r\n11-Está roto, dame...\r\n12-Biblia. La \"madre de todos los pueblos\" (Salmo 87, 2).\r\n14-Novena letra del alfabeto griego, equivale a la \"i\" del latino.\r\n15-Territorio de una unidad geográfica, política y cultural.\r\n20-Personaje de Stranger Things que no tiene dientes.\r\n23-México. Caña de azúcar de dos años.\r\n24-Tranqué, tapé.\r\n25-Dormitorio de vampiros.\r\n27-Empléalo, utilízalo.\r\n29-Que los caballos levanten demasiado los cuartos delanteros en los galopes.\r\n30-Formará un alboroto, la...\r\n31-Química. Salicilato de fenilo.\r\n33-Famosas cataratas en la frontera argentino-brasileña. \r\n35-Ciudad más poblada de Vietnam, conocida como Saigón (3p).\r\n38-Sin vello facial. \r\n41-Una mujer de huesos y músculos grandes.\r\n43-Mensajero oficial en la Edad Media. \r\n46-Palabra que identifica a una persona o cosa. \r\n49-Otro que usa lenguaje inclusivo.\r\n51-Grupo indígena localizado al noroeste de Panamá.\r\n52-Cuatrimotos, vehículos de cuatro ruedas sin carrocería. \r\n53-Donde se colocan los votos.\r\n54-El primer nudista.\r\n56-Consumen libros con la vista. \r\n57-Disponer eras para poner plantas en ellas.\r\n58-\"... Baras\", bailadora flamenca española.\r\n61-Empecé a remar y se quedó dormido.",
+        "horizontal_clues": "1-Subí a un lugar alto, con las manos y los pies.\r\n6-Etcétera (abrev).\r\n9-País asiático cuya capital es Vientián.\r\n13-Influencia cultural del antiguo Imperio Romano. \r\n15-Parecida al leotardo, pero la tela es muy delgada y elástica.\r\n16-Relacionado con la autoridad de un obispo. \r\n17-¡Ostra! esto es una estrella.\r\n18-Pueblo de donde se cree que viene el mito de las Amazonas.\r\n19-Proceso de preparar un texto para su publicación. \r\n21-Hendidura para abrochar un botón.\r\n22-Cocaína rosa.\r\n23-Por si las moscas, por si...\r\n26-Número que sigue al uno. \r\n28-El baile de la boda.\r\n32-Oraciones repetitivas en forma de súplica. \r\n34-Cantante y actriz mexicana.\r\n36-Pecado capital.\r\n37-Sindicato que representa los intereses de los agricultores.\r\n39-Fusil Automático Liviano.\r\n40-Onomatopeya para imitar el ruido que produce el roce de la seda.\r\n42-Persona que maneja una embarcación pequeña. \r\n44-Cantor épico de la antigua Grecia.\r\n45-Orificio final del intestino (pl).\r\n47-Lugar donde se almacena el heno. \r\n48-Limpió las tierras de las matas y hierbas.\r\n50-¿Desunir? No, al contrario.\r\n52-Cantidad mínima de energía en física. \r\n55-Divisiones secundarias de un sistema. \r\n59-Tramar, por ejemplo un plan o una estrategia.\r\n60-Gentilicio de Gisele Bündchen.\r\n62-Parecido al pato.\r\n63-Ajustar una cifra eliminando decimales. \r\n64-Nada mal esta lluvia torrencial.\r\n65-Subcultura urbana, hipersensible y emocional.\r\n66-Estima y respeto de la dignidad propia.",
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,#,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,#,15,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,#,#,19,20,#,#,#,#,#\r\n#,#,#,21,#,#,#,#,22,#,#,#,#,#,#\r\n23,24,25,#,#,#,26,27,#,#,#,28,29,30,31\r\n32,#,#,#,#,33,#,#,#,34,35,#,#,#,#\r\n36,#,#,#,37,#,#,#,38,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,42,#,#,#,43,#,#,#\r\n44,#,#,#,#,45,46,#,#,#,47,#,#,#,#\r\n#,#,#,48,49,#,#,#,50,51,#,#,#,#,#\r\n52,53,54,#,#,#,#,#,55,#,#,#,56,57,58\r\n59,#,#,#,#,#,60,61,#,#,#,#,#,#,#\r\n62,#,#,#,#,#,63,#,#,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,66,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

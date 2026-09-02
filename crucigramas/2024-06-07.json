@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 365,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-06T20:01:08.710857Z",
+      "updatedAt": "2024-06-07T15:28:34.094605Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-07",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PAVOROSO#TUERCA\r\nABACOS##LINCOLN\r\nJARABE##AMISTAD\r\nITO#ATERRAR#URA\r\nZINC#ATEOS#FLAN\r\nODIAS##CU#BRASA\r\n#ALBATROS#RE##D\r\nE##INMERSION##A\r\nX##LT#GRETTELL#\r\nACIDO#RI##OSAIS\r\nLODO#CEDER#ISCO\r\nTRI#PASARAN#TIC\r\nATONITA##BONITO\r\nDEMOLER##ANIMAL\r\nOSARIO#METAFASE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Que parece paja, por ejemplo el cabello.",
+              "answer": "PAJIZO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Derrumbada, caída.",
+              "answer": "ABATIDA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Masculino, andro.",
+              "answer": "VARONIL"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "'De... a..., tiro porque me toca'.",
+              "answer": "OCA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Toma del mazo una carta.",
+              "answer": "ROBA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Lengua de la familia irania entre Rusia y Georgia.",
+              "answer": "OSETA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Quitas o hurtas con engaño.",
+              "answer": "TIMAS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "¿Desunir? No, al contrario.",
+              "answer": "UNIR"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Educación, Cultura y Sociedad.",
+              "answer": "ECS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Hueso de la rodilla.",
+              "answer": "ROTULA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Materia líquida y transparente que rodea la yema del huevo (pl).",
+              "answer": "CLARAS"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Aluvión de palabras o gritos de reprobación.",
+              "answer": "ANDANADA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Un diccionario, pequeño e ilustrado.",
+              "answer": "LAROUSSE"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Edward Thorndike (padre de la psicología educativa moderna).",
+              "answer": "ET"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Andada, transitada.",
+              "answer": "RECORRIDA"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Entidad administrativa exclusiva de la C.A. de Canarias.",
+              "answer": "CABILDO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Frene si siente un éxtasis desenfrenado.",
+              "answer": "FRENESI"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Perfecto y libre de toda culpa.",
+              "answer": "SANTO"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Emergió como una flor.",
+              "answer": "BROTO"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Lo que tienen en común Takashi Murakami y Thomas Müller.",
+              "answer": "TM"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Volver.",
+              "answer": "REGRESAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Apasionado, ardiente, entusiasta.",
+              "answer": "EXALTADO"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "“Just do...” el eslogan de Nike.",
+              "answer": "IT"
+            },
+            "39": {
+              "col": 12,
+              "row": 8,
+              "clue": "Me hace daño tu compasión.",
+              "answer": "LASTIMA"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "¿Participas en subastas legales?.",
+              "answer": "LICITAS"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"Hernán...\" español que lideró la conquista del Imperio azteca.",
+              "answer": "CORTES"
+            },
+            "43": {
+              "col": 2,
+              "row": 9,
+              "clue": "Lengua de una nación.",
+              "answer": "IDIOMA"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Desmonté árboles, podé ramas.",
+              "answer": "SOCOLE"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Reviso, allano un lugar en busca de evidencias.",
+              "answer": "CATEO"
+            },
+            "49": {
+              "col": 8,
+              "row": 10,
+              "clue": "Erbio.",
+              "answer": "ER"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Capital del Reino de Marruecos.",
+              "answer": "RABAT"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Mi pequeña Pilar.",
+              "answer": "PILI"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Novena hora después de la salida del sol.",
+              "answer": "NONA"
+            },
+            "57": {
+              "col": 3,
+              "row": 12,
+              "clue": "En este punto, no quiero manzanilla ni tila.",
+              "answer": "NOR"
+            },
+            "59": {
+              "col": 11,
+              "row": 12,
+              "clue": "Número de contribuyente.",
+              "answer": "NIF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Terrorífico es que se parezca a un pavo rojo.",
+              "answer": "PAVOROSO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Compañera del tornillo.",
+              "answer": "TUERCA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Para hacer cálculos básicos, mejor los caobas.",
+              "answer": "ABACOS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Presidente estadounidense que abolió la esclavitud.",
+              "answer": "LINCOLN"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Almíbar, poción medicamentosa.",
+              "answer": "JARABE"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Que admitas mejor nuestra camaradería.",
+              "answer": "AMISTAD"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tito decapitado.",
+              "answer": "ITO"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "Poner los pies en la tierra.",
+              "answer": "ATERRAR"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Figura de cultura.",
+              "answer": "URA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Elemento químico cuyo símbolo es Zn.",
+              "answer": "ZINC"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Éstos no necesitan el perdón de ningún Dios.",
+              "answer": "ATEOS"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Postre casero.",
+              "answer": "FLAN"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Desdeñas, antipatizas.",
+              "answer": "ODIAS"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Símbolo químico del cobre.",
+              "answer": "CU"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Carbón encendido.",
+              "answer": "BRASA"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "El ave voladora más grande del mundo.",
+              "answer": "ALBATROS"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "En el centro de la Estrella.",
+              "answer": "RE"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Buceo, sumersión.",
+              "answer": "INMERSION"
+            },
+            "37": {
+              "col": 3,
+              "row": 8,
+              "clue": "Iniciales del desarrollador del sistema operativo Linux.",
+              "answer": "LT"
+            },
+            "38": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"... Valdez\" interpretó a Renata en la telenovela juvenil mexicana 'Rebelde' (2004).",
+              "answer": "GRETTELL"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Uno de los cinco sabores básicos.",
+              "answer": "ACIDO"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Menos rimas.",
+              "answer": "RI"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Atrevéis.",
+              "answer": "OSAIS"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pantano, barro.",
+              "answer": "LODO"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Das su brazo a torcer.",
+              "answer": "CEDER"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Futbolista de Benalmádena, 'Golden Boy' en 2012.",
+              "answer": "ISCO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Prefijo que significa tres.",
+              "answer": "TRI"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Los vaqueros jamás... de moda.",
+              "answer": "PASARAN"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Síntoma de estrés.",
+              "answer": "TIC"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pasmada, sorprendida por un suceso raro.",
+              "answer": "ATONITA"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "Precioso pescado.",
+              "answer": "BONITO"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Deshacer, derribar.",
+              "answer": "DEMOLER"
+            },
+            "61": {
+              "col": 9,
+              "row": 13,
+              "clue": "Hay un ser vivo en la lámina que está volteada.",
+              "answer": "ANIMAL"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Calavernario, huesera.",
+              "answer": "OSARIO"
+            },
+            "63": {
+              "col": 7,
+              "row": 14,
+              "clue": "Segunda etapa de la mitosis.",
+              "answer": "METAFASE"
+            }
+          }
+        },
+        "vertical_clues": "1-Que parece paja, por ejemplo el cabello.\r\n2-Derrumbada, caída.\r\n3-Masculino, andro.\r\n4-'De... a..., tiro porque me toca'.\r\n5-Toma del mazo una carta.\r\n6-Lengua de la familia irania entre Rusia y Georgia.\r\n7-Quitas o hurtas con engaño.\r\n8-¿Desunir? No, al contrario.\r\n9-Educación, Cultura y Sociedad.\r\n10-Hueso de la rodilla.\r\n11-Materia líquida y transparente que rodea la yema del huevo (pl).\r\n12-Aluvión de palabras o gritos de reprobación.\r\n14-Un diccionario, pequeño e ilustrado.\r\n19-Edward Thorndike (padre de la psicología educativa moderna).\r\n20-Andada, transitada.\r\n23-Entidad administrativa exclusiva de la C.A. de Canarias. \r\n25-Frene si siente un éxtasis desenfrenado.\r\n27-Perfecto y libre de toda culpa.\r\n29-Emergió como una flor.\r\n31-Lo que tienen en común Takashi Murakami y Thomas Müller. \r\n32-Volver.\r\n34-Apasionado, ardiente, entusiasta.\r\n36-“Just do...” el eslogan de Nike. \r\n39-Me hace daño tu compasión.\r\n40-¿Participas en subastas legales?. \r\n42-\"Hernán...\" español que lideró la conquista del Imperio azteca.\r\n43-Lengua de una nación.\r\n46-Desmonté árboles, podé ramas.\r\n48-Reviso, allano un lugar en busca de evidencias.\r\n49-Erbio.\r\n50-Capital del Reino de Marruecos.\r\n53-Mi pequeña Pilar.\r\n54-Novena hora después de la salida del sol.\r\n57-En este punto, no quiero manzanilla ni tila.\r\n59-Número de contribuyente.",
+        "horizontal_clues": "1-Terrorífico es que se parezca a un pavo rojo. \r\n7-Compañera del tornillo.\r\n13-Para hacer cálculos básicos, mejor los caobas.\r\n14-Presidente estadounidense que abolió la esclavitud.\r\n15-Almíbar, poción medicamentosa.\r\n16-Que admitas mejor nuestra camaradería.\r\n17-Tito decapitado.\r\n18-Poner los pies en la tierra.\r\n21-Figura de cultura.\r\n22-Elemento químico cuyo símbolo es Zn.\r\n24-Éstos no necesitan el perdón de ningún Dios.\r\n25-Postre casero.\r\n26-Desdeñas, antipatizas.\r\n28-Símbolo químico del cobre.\r\n29-Carbón encendido.\r\n30-El ave voladora más grande del mundo.\r\n33-En el centro de la Estrella.\r\n35-Buceo, sumersión.\r\n37-Iniciales del desarrollador del sistema operativo Linux.\r\n38-\"... Valdez\" interpretó a Renata en la telenovela juvenil mexicana 'Rebelde' (2004).\r\n41-Uno de los cinco sabores básicos.\r\n44-Menos rimas.\r\n45-Atrevéis.\r\n47-Pantano, barro.\r\n48-Das su brazo a torcer.\r\n51-Futbolista de Benalmádena, 'Golden Boy' en 2012.\r\n52-Prefijo que significa tres.\r\n53-Los vaqueros jamás... de moda.\r\n55-Síntoma de estrés.\r\n56-Pasmada, sorprendida por un suceso raro.\r\n58-Precioso pescado.\r\n60-Deshacer, derribar.\r\n61-Hay un ser vivo en la lámina que está volteada.\r\n62-Calavernario, huesera.\r\n63-Segunda etapa de la mitosis.",
+        "board_clues_positions": "1,2,3,4,5,6,#,#,#,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,#\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,18,#,19,20,#,#,#,#,21,#,#\r\n22,#,#,23,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,27,#,#,28,#,#,29,#,#,#,#\r\n#,30,#,#,#,31,32,#,#,#,33,#,#,#,#\r\n34,#,#,35,#,#,#,#,#,36,#,#,#,#,#\r\n#,#,#,37,#,#,38,#,#,#,#,#,39,40,#\r\n41,42,43,#,#,#,44,#,#,#,45,#,#,#,46\r\n47,#,#,#,#,48,#,#,49,50,#,51,#,#,#\r\n52,#,#,#,53,#,#,#,#,#,54,#,55,#,#\r\n56,#,#,57,#,#,#,#,#,58,#,59,#,#,#\r\n60,#,#,#,#,#,#,#,#,61,#,#,#,#,#\r\n62,#,#,#,#,#,#,63,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

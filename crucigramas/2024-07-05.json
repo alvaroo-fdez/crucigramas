@@ -1,0 +1,435 @@
+{
+  "data": {
+    "id": 542,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-04T12:31:02.924016Z",
+      "updatedAt": "2024-07-04T12:31:02.924037Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-05",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CUADERNO#FISCAL\r\nH#HELIO#MANTO#I\r\nINICIAR#ASFALTO\r\nCOJOS#T#CERNIAS\r\n#TARAREAR#ADSL#\r\nCADA#E##ARC#EOS\r\nADORNAR#MATRONA\r\nC###ECUMENO###J\r\nESPECIA#SURCADO\r\nSOR#TON##R#ALAN\r\n#BEBA#ESCAMPAR#\r\nCOLORES#E#OSCAR\r\nANALICE#SATURNO\r\nE#DONES#AXILA#T\r\nDIOSAS#TRONANTE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "De lujo.",
+              "answer": "CHIC"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Hijo por elección, no por obligación.",
+              "answer": "AHIJADO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Hacer que un lugar se vea más bonito.",
+              "answer": "DECORAR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Para...\", bagatela de Beethoven.",
+              "answer": "ELISA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Celebre con risa algo.",
+              "answer": "RIA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "El que no hay que perder.",
+              "answer": "NORTE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Período, etapa de un suceso.",
+              "answer": "FASE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Artista que pinta fuera de las líneas de la ley.",
+              "answer": "INFRACTOR"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Instalación de feria, para venta de productos.",
+              "answer": "STAND"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "El Anfiteatro Flavio, del Imperio romano.",
+              "answer": "COLISEO"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Problemas, rollos.",
+              "answer": "LIOS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Tejidos decorativos a base de nudos.",
+              "answer": "MACRAMES"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Percatad, percibid.",
+              "answer": "NOTAD"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Se considera vulnerable a esta parte del cuerpo por culpa de Aquiles.",
+              "answer": "TALON"
+            },
+            "21": {
+              "col": 5,
+              "row": 4,
+              "clue": "Burro humano en situaciones de cambio.",
+              "answer": "REACIO"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Busques o sigas a un animal.",
+              "answer": "CACES"
+            },
+            "25": {
+              "col": 9,
+              "row": 5,
+              "clue": "Abertura, hendidura.",
+              "answer": "RANURA"
+            },
+            "27": {
+              "col": 14,
+              "row": 5,
+              "clue": "Individuo nacido en Sajonia.",
+              "answer": "SAJON"
+            },
+            "29": {
+              "col": 4,
+              "row": 6,
+              "clue": "Melocotón que decidió afeitarse.",
+              "answer": "NECTARINA"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Nacidos en Ruan, Francia.",
+              "answer": "RUANESES"
+            },
+            "34": {
+              "col": 1,
+              "row": 8,
+              "clue": "Empalagoso, fastidioso, pegajoso.",
+              "answer": "SOBON"
+            },
+            "35": {
+              "col": 2,
+              "row": 8,
+              "clue": "Superior de una comunidad eclesiástica.",
+              "answer": "PRELADO"
+            },
+            "37": {
+              "col": 11,
+              "row": 8,
+              "clue": "Pascual se ha confundido de pastilla.",
+              "answer": "CAPSULA"
+            },
+            "38": {
+              "col": 12,
+              "row": 8,
+              "clue": "Escorpión, arácnido.",
+              "answer": "ALACRAN"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "Otorgarán.",
+              "answer": "DARAN"
+            },
+            "44": {
+              "col": 3,
+              "row": 10,
+              "clue": "Soldados de madera en guerra contra bolas.",
+              "answer": "BOLOS"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Famosa ensalada de lechuga.",
+              "answer": "CESAR"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "Hay una vuelta de timón por rebelión multitudinaria.",
+              "answer": "MOTIN"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Llegad al suelo estrepitosamente.",
+              "answer": "CAED"
+            },
+            "49": {
+              "col": 5,
+              "row": 11,
+              "clue": "Los jueces han perdido la risa.",
+              "answer": "ECES"
+            },
+            "51": {
+              "col": 14,
+              "row": 11,
+              "clue": "Un camarote sin amueblar.",
+              "answer": "ROTE"
+            },
+            "54": {
+              "col": 9,
+              "row": 12,
+              "clue": "Saxo sin boquilla.",
+              "answer": "AXO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Amigo íntimo del lápiz en la escuela.",
+              "answer": "CUADERNO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Persona que representa y ejerce el ministerio público en los tribunales.",
+              "answer": "FISCAL"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Segundo elemento más abundante del universo tras el hidrógeno.",
+              "answer": "HELIO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "\"… Negro\" uva autóctona de las islas Baleares.",
+              "answer": "MANTO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Dar principio a algo.",
+              "answer": "INICIAR"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Material para asfaltar.",
+              "answer": "ASFALTO"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Bailarines con ritmo peculiar.",
+              "answer": "COJOS"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Separabas con el cedazo la harina del salvado.",
+              "answer": "CERNIAS"
+            },
+            "20": {
+              "col": 1,
+              "row": 4,
+              "clue": "Cantar para los que no tienen oído.",
+              "answer": "TARAREAR"
+            },
+            "22": {
+              "col": 10,
+              "row": 4,
+              "clue": "Internet que no es de fibra óptica.",
+              "answer": "ADSL"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Conforme a.",
+              "answer": "CADA"
+            },
+            "24": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"Arco\" en inglés.",
+              "answer": "ARC"
+            },
+            "26": {
+              "col": 12,
+              "row": 5,
+              "clue": "Diosa griega de la aurora o del amanecer.",
+              "answer": "EOS"
+            },
+            "28": {
+              "col": 0,
+              "row": 6,
+              "clue": "Engalanar, embellecer con objetos externos.",
+              "answer": "ADORNAR"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Hay una partera en la maratón ¡qué locura!.",
+              "answer": "MATRONA"
+            },
+            "32": {
+              "col": 4,
+              "row": 7,
+              "clue": "Porción de la Tierra apta para la vida humana.",
+              "answer": "ECUMENO"
+            },
+            "33": {
+              "col": 0,
+              "row": 8,
+              "clue": "Los es el azafrán o la pimienta.",
+              "answer": "ESPECIA"
+            },
+            "36": {
+              "col": 8,
+              "row": 8,
+              "clue": "Rostro con historia escrita.",
+              "answer": "SURCADO"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tratamiento para Juana Inés de la Cruz.",
+              "answer": "SOR"
+            },
+            "41": {
+              "col": 4,
+              "row": 9,
+              "clue": "Unidad de peso equivalente a mil kilos.",
+              "answer": "TON"
+            },
+            "42": {
+              "col": 11,
+              "row": 9,
+              "clue": "\"... Rickman\", Severus Snape en 'Harry Potter'.",
+              "answer": "ALAN"
+            },
+            "43": {
+              "col": 1,
+              "row": 10,
+              "clue": "Ingiera líquidos, la pequeña.",
+              "answer": "BEBA"
+            },
+            "45": {
+              "col": 6,
+              "row": 10,
+              "clue": "Cuando el cielo decide dejar de llorar.",
+              "answer": "ESCAMPAR"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Los creo mezclados y de diferentes tonos.",
+              "answer": "COLORES"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Autor de la novela \"El Retrato de Dorian Grey\".",
+              "answer": "OSCAR"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Estudié bien el asunto, lo...",
+              "answer": "ANALICE"
+            },
+            "53": {
+              "col": 8,
+              "row": 12,
+              "clue": "El planeta de los anillos.",
+              "answer": "SATURNO"
+            },
+            "55": {
+              "col": 2,
+              "row": 13,
+              "clue": "\"Pau …\" con su Jarabe de Palo.",
+              "answer": "DONES"
+            },
+            "56": {
+              "col": 8,
+              "row": 13,
+              "clue": "Sobaco.",
+              "answer": "AXILA"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "Divinidades femeninas.",
+              "answer": "DIOSAS"
+            },
+            "58": {
+              "col": 7,
+              "row": 14,
+              "clue": "Voz del cielo en día de furia.",
+              "answer": "TRONANTE"
+            }
+          }
+        },
+        "vertical_clues": "1-De lujo.\r\n2-Hijo por elección, no por obligación. \r\n3-Hacer que un lugar se vea más bonito.\r\n4-\"Para...\", bagatela de Beethoven.\r\n5-Celebre con risa algo.\r\n6-El que no hay que perder.\r\n7-Período, etapa de un suceso.\r\n8-Artista que pinta fuera de las líneas de la ley. \r\n9-Instalación de feria, para venta de productos.\r\n10-El Anfiteatro Flavio, del Imperio romano.\r\n11-Problemas, rollos.\r\n13-Tejidos decorativos a base de nudos.\r\n15-Percatad, percibid.\r\n17-Se considera vulnerable a esta parte del cuerpo por culpa de Aquiles.\r\n21-Burro humano en situaciones de cambio. \r\n23-Busques o sigas a un animal.\r\n25-Abertura, hendidura.\r\n27-Individuo nacido en Sajonia.\r\n29-Melocotón que decidió afeitarse. \r\n30-Nacidos en Ruan, Francia.\r\n34-Empalagoso, fastidioso, pegajoso.\r\n35-Superior de una comunidad eclesiástica.\r\n37-Pascual se ha confundido de pastilla.\r\n38-Escorpión, arácnido.\r\n39-Otorgarán.\r\n44-Soldados de madera en guerra contra bolas. \r\n46-Famosa ensalada de lechuga.\r\n47-Hay una vuelta de timón por rebelión multitudinaria.\r\n48-Llegad al suelo estrepitosamente.\r\n49-Los jueces han perdido la risa.\r\n51-Un camarote sin amueblar.\r\n54-Saxo sin boquilla.",
+        "horizontal_clues": "1-Amigo íntimo del lápiz en la escuela. \r\n7-Persona que representa y ejerce el ministerio público en los tribunales.\r\n12-Segundo elemento más abundante del universo tras el hidrógeno.\r\n13-\"… Negro\" uva autóctona de las islas Baleares.\r\n14-Dar principio a algo.\r\n16-Material para asfaltar.\r\n18-Bailarines con ritmo peculiar. \r\n19-Separabas con el cedazo la harina del salvado.\r\n20-Cantar para los que no tienen oído. \r\n22-Internet que no es de fibra óptica.\r\n23-Conforme a.\r\n24-\"Arco\" en inglés.\r\n26-Diosa griega de la aurora o del amanecer.\r\n28-Engalanar, embellecer con objetos externos.\r\n31-Hay una partera en la maratón ¡qué locura!. \r\n32-Porción de la Tierra apta para la vida humana.\r\n33-Los es el azafrán o la pimienta.\r\n36-Rostro con historia escrita. \r\n40-Tratamiento para Juana Inés de la Cruz.\r\n41-Unidad de peso equivalente a mil kilos. \r\n42-\"... Rickman\", Severus Snape en 'Harry Potter'.\r\n43-Ingiera líquidos, la pequeña.\r\n45-Cuando el cielo decide dejar de llorar. \r\n48-Los creo mezclados y de diferentes tonos.\r\n50-Autor de la novela \"El Retrato de Dorian Grey\".\r\n52-Estudié bien el asunto, lo...\r\n53-El planeta de los anillos.\r\n55-\"Pau …\" con su Jarabe de Palo.\r\n56-Sobaco.\r\n57-Divinidades femeninas.\r\n58-Voz del cielo en día de furia.",
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,#,#,#,#,#,16,#,#,#,#,17,#\r\n18,#,#,#,#,#,#,#,19,#,#,#,#,#,#\r\n#,20,#,#,#,21,#,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,#,#,#,24,25,#,#,26,#,27\r\n28,#,#,#,29,#,30,#,31,#,#,#,#,#,#\r\n#,#,#,#,32,#,#,#,#,#,#,#,#,#,#\r\n33,34,35,#,#,#,#,#,36,#,#,37,38,39,#\r\n40,#,#,#,41,#,#,#,#,#,#,42,#,#,#\r\n#,43,#,44,#,#,45,#,46,#,47,#,#,#,#\r\n48,#,#,#,#,49,#,#,#,#,50,#,#,#,51\r\n52,#,#,#,#,#,#,#,53,54,#,#,#,#,#\r\n#,#,55,#,#,#,#,#,56,#,#,#,#,#,#\r\n57,#,#,#,#,#,#,58,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

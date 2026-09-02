@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 2487,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-05-31T16:41:58.277398Z",
+      "updatedAt": "2025-05-31T16:41:58.293761Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-02",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#VISOR##DEBAIS#\r\nPETATE#CULEBRON\r\nRN#BRIGADIER#FE\r\nOTERO#UTA#FENIX\r\nVISE#VERBO#VOTO\r\nEST#MAYEABA#TOS\r\nACATAR#S#CULI##\r\n#AMORIO#CENEFA#\r\n##POTA#V#CEDIDA\r\nAGA#IDEARAN#CUP\r\nBUDA#OSCAR#MALE\r\nRIOJA#PUF#SURTA\r\nIN#EMPANADAS#ER\r\nDECAPADO#MEGARA\r\n#ABRAZA##OZONO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tormenta de nieve con viento fuerte",
+              "answer": "VENTISCA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Fito y Fitipaldis en el Ritz",
+              "answer": "IT"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Conoceré, tendré el conocimiento",
+              "answer": "SABRE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Está roto, dame…",
+              "answer": "OTRO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Me carcajeé con la reina",
+              "answer": "REI"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Alzaba la ceja con escepticismo",
+              "answer": "DUDABA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Biblia Maestro del profeta Samuel",
+              "answer": "ELI"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Anglicismo usado en redes que denota conflicto y pelea",
+              "answer": "BEEF"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Pequeña abreviatura",
+              "answer": "ABREV"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Arq Plano inferior del saliente de una cornisa",
+              "answer": "SOFITO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Suministre o proporcione algo necesario",
+              "answer": "PROVEA"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Cama ligera para una sola persona (pl)",
+              "answer": "CATRES"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Lazos, vínculos que nos unen",
+              "answer": "NEXOS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Tío es a España como … es a México",
+              "answer": "GUEY"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Técnica para imprimir diseños en tejidos",
+              "answer": "ESTAMPADO"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Comunicar formalmente una resolución administrativa",
+              "answer": "NOTIFICAR"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Diverso en su composición",
+              "answer": "VARIADO"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Persistir irracionalmente en una idea o propósito",
+              "answer": "OBCECAR"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Casa…\" edificio barcelonés donde está la taberna 'Els Quatre Gats'",
+              "answer": "MARTI"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Hermanen, incorporen a varias personas",
+              "answer": "AUNEN"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Esta también está escrita en inglés",
+              "answer": "TOO"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Del Zeppelin, la luz",
+              "answer": "LED"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Un adulto infiel",
+              "answer": "ADULTERO"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "El ganado, cuando se trata de reses",
+              "answer": "VACUNO"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Bajará a alguien de una caballería, de un carruaje o de un automóvil",
+              "answer": "APEARA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Destapad quitando la brida enredada",
+              "answer": "ABRID"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Nación africana occidental, antigua colonia española",
+              "answer": "GUINEA"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Arma blanca larga",
+              "answer": "ESPADA"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Así llaman a Rafael sus amigos",
+              "answer": "RAFA"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Hacer como una perdiz cuando está acosada",
+              "answer": "AJEAR"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Alfombra vegetal Un clásico en el belén",
+              "answer": "MUSGO"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Asociación de Madres y Padres de Alumnos",
+              "answer": "AMPA"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"Cosme García…\" ingeniero e inventor español, conocido por su submarino",
+              "answer": "SAEZ"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Escritor mexicano, Nobel de Literatura en 1990",
+              "answer": "PAZ"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Densidad Mineral Ósea",
+              "answer": "DMO"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales de poeta maldito del simbolismo francés",
+              "answer": "CB"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Poco ansiosos",
+              "answer": "AN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sistema óptico para enfocar la cámara",
+              "answer": "VISOR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tengáis una deuda material con alguien",
+              "answer": "DEBAIS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estera de palma",
+              "answer": "PETATE"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Telenovela larga y muy melodramática",
+              "answer": "CULEBRON"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Mil General de brigada",
+              "answer": "BRIGADIER"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Fran Escribá tiene confianza absoluta",
+              "answer": "FE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cerro aislado que domina un llano",
+              "answer": "OTERO"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Género de lagartos",
+              "answer": "UTA"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Ave fantástica que renace de sus cenizas",
+              "answer": "FENIX"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Examiné una certificación y puse el visto bueno",
+              "answer": "VISE"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Gramática Palabra que indica acción dentro de una oración",
+              "answer": "VERBO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Expresión pública o secreta de una preferencia ante una opción",
+              "answer": "VOTO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Este no tiene fin",
+              "answer": "EST"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Hacía tiempo propio del mes de mayo",
+              "answer": "MAYEABA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Cuando te ahogas te da…",
+              "answer": "TOS"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Atacar no, hay que aprender a seguir las normas",
+              "answer": "ACATAR"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Peón de la India y China",
+              "answer": "CULI"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Pasajero idilio de amor en el río",
+              "answer": "AMORIO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Lista sobrepuesta en los bordes de las cortinas",
+              "answer": "CENEFA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Vomita el pato dañado",
+              "answer": "POTA"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Transferida o traspasada una cosa a otra persona",
+              "answer": "CEDIDA"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Ajuste General Anual",
+              "answer": "AGA"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Pensarán, crearán",
+              "answer": "IDEARAN"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "CPU desconfigurado",
+              "answer": "CUP"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"… Gautama\" persona que ha alcanzado la máxima sabiduría",
+              "answer": "BUDA"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"… Faenada\" interpretó a Camarón y a Cantinflas",
+              "answer": "OSCAR"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Capital de las Maldivas",
+              "answer": "MALE"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Vino español de fina calidad",
+              "answer": "RIOJA"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Asiento blando sin patas ni respaldo",
+              "answer": "PUF"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Provea o abastezca de recursos",
+              "answer": "SURTA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "El fin de Putin",
+              "answer": "IN"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Distraídas por unas gallegas",
+              "answer": "EMPANADAS"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Símbolo químico de Erbio",
+              "answer": "ER"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tratamiento químico que elimina óxidos de metales",
+              "answer": "DECAPADO"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Disney La novia de Hércules",
+              "answer": "MEGARA"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Lo estrecha entre sus brazos, lo apapacha, lo…",
+              "answer": "ABRAZA"
+            },
+            "67": {
+              "col": 9,
+              "row": 14,
+              "clue": "La capa agujereada",
+              "answer": "OZONO"
+            }
+          }
+        },
+        "vertical_clues": "1-Tormenta de nieve con viento fuerte\r\n2-Fito y Fitipaldis en el Ritz\r\n3-Conoceré, tendré el conocimiento\r\n4-Está roto, dame…\r\n5-Me carcajeé con la reina\r\n6-Alzaba la ceja con escepticismo\r\n7-Biblia Maestro del profeta Samuel\r\n8-Anglicismo usado en redes que denota conflicto y pelea\r\n9-Pequeña abreviatura\r\n10-Andar, marchar\r\n11-Arq Plano inferior del saliente de una cornisa\r\n12-Suministre o proporcione algo necesario\r\n13-Cama ligera para una sola persona (pl)\r\n14-Lazos, vínculos que nos unen\r\n17-Tío es a España como … es a México\r\n20-Técnica para imprimir diseños en tejidos\r\n23-Comunicar formalmente una resolución administrativa\r\n25-Diverso en su composición\r\n26-Persistir irracionalmente en una idea o propósito\r\n29-\"Casa…\" edificio barcelonés donde está la taberna 'Els Quatre Gats'\r\n30-Hermanen, incorporen a varias personas\r\n33-Esta también está escrita en inglés\r\n35-Del Zeppelin, la luz\r\n38-Un adulto infiel\r\n40-El ganado, cuando se trata de reses\r\n42-Bajará a alguien de una caballería, de un carruaje o de un automóvil\r\n43-Destapad quitando la brida enredada\r\n44-Nación africana occidental, antigua colonia española\r\n46-Arma blanca larga\r\n47-Así llaman a Rafael sus amigos\r\n50-Hacer como una perdiz cuando está acosada\r\n52-Alfombra vegetal Un clásico en el belén\r\n54-Asociación de Madres y Padres de Alumnos\r\n56-\"Cosme García…\" ingeniero e inventor español, conocido por su submarino\r\n59-Escritor mexicano, Nobel de Literatura en 1990\r\n60-Densidad Mineral Ósea\r\n63-Iniciales de poeta maldito del simbolismo francés\r\n65-Poco ansiosos\r\n",
+        "horizontal_clues": "1-Sistema óptico para enfocar la cámara\r\n6-Tengáis una deuda material con alguien\r\n12-Estera de palma\r\n13-Telenovela larga y muy melodramática\r\n15-Símbolo químico del Radón\r\n16-Mil General de brigada\r\n18-Fran Escribá tiene confianza absoluta\r\n19-Cerro aislado que domina un llano\r\n21-Género de lagartos\r\n22-Ave fantástica que renace de sus cenizas\r\n24-Examiné una certificación y puse el visto bueno\r\n25-Gramática Palabra que indica acción dentro de una oración\r\n27-Expresión pública o secreta de una preferencia ante una opción\r\n28-Este no tiene fin\r\n29-Hacía tiempo propio del mes de mayo\r\n31-Cuando te ahogas te da…\r\n32-Atacar no, hay que aprender a seguir las normas\r\n34-Peón de la India y China\r\n36-Pasajero idilio de amor en el río\r\n37-Lista sobrepuesta en los bordes de las cortinas\r\n39-Vomita el pato dañado\r\n41-Transferida o traspasada una cosa a otra persona\r\n43-Ajuste General Anual\r\n45-Pensarán, crearán\r\n48-CPU desconfigurado\r\n49-\"… Gautama\" persona que ha alcanzado la máxima sabiduría\r\n51-\"… Faenada\" interpretó a Camarón y a Cantinflas\r\n52-Capital de las Maldivas\r\n53-Vino español de fina calidad\r\n55-Asiento blando sin patas ni respaldo\r\n56-Provea o abastezca de recursos\r\n57-El fin de Putin\r\n58-Distraídas por unas gallegas\r\n61-Símbolo químico de Erbio\r\n62-Tratamiento químico que elimina óxidos de metales\r\n64-Disney La novia de Hércules\r\n66-Lo estrecha entre sus brazos, lo apapacha, lo…\r\n67-La capa agujereada\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,22,#,23,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,27,#,#,#\r\n28,#,#,#,29,#,#,#,#,#,30,#,31,#,#\r\n32,#,#,33,#,#,#,#,#,34,#,35,#,#,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,38,#\r\n#,#,39,#,#,#,#,40,#,41,#,#,#,#,42\r\n43,44,#,#,45,#,46,#,47,#,#,#,48,#,#\r\n49,#,#,50,#,51,#,#,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,#,56,#,#,#,#\r\n57,#,#,58,#,59,#,#,#,60,#,#,#,61,#\r\n62,#,63,#,#,#,#,#,#,64,#,#,65,#,#\r\n#,66,#,#,#,#,#,#,#,67,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

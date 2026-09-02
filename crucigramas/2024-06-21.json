@@ -1,0 +1,507 @@
+{
+  "data": {
+    "id": 408,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-20T10:35:00.448774Z",
+      "updatedAt": "2024-06-20T10:35:00.448798Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-21",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BOSTONCELTICS#\r\nZAGREB#O#URSULA\r\nAT##NOTORIA##IG\r\nPO#IDEALISTA#DO\r\nALELI#RIN#ERREN\r\nTATU##DOG##TOSI\r\nA#IMITO#ABRES#A\r\n#ILION###ALFAR#\r\nA#INSTA#ROGAR#M\r\nFOCA##LSE##CITE\r\nAPODE#BAG#ATOES\r\nMO#ORGULLOSO#JI\r\nAN##GESTAPO##IA\r\nDENGUE#E#OMEGAS\r\n#RAFIKI#ENOJAN#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tipo de bata muy larga y ancha.",
+              "answer": "BATOLA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "La cola del bulldog.",
+              "answer": "OG"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Inic. Cantante cubano que tiene un unicornio azul.",
+              "answer": "SR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Desdoblé lo que estaba encogido.",
+              "answer": "TENDI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Instrumento musical de viento que termina en forma de campana.",
+              "answer": "OBOE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "El autor de la canción de los 90 'Gangsta's Paradise'.",
+              "answer": "COOLIO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Rey \"... XV de Francia \" El Bien amado.",
+              "answer": "LUIS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Intenté, procuré.",
+              "answer": "TRATE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Es inglés. Y sí, regresará.",
+              "answer": "IS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Símbolo químico del cobre.",
+              "answer": "CU"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"Google...\" programa para hacer diapositivas.",
+              "answer": "SLIDES"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Freno de una bicicleta.",
+              "answer": "ZAPATA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Padecimiento que precede a la muerte.",
+              "answer": "AGONIA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Empleó más tiempo del necesario.",
+              "answer": "TARDO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Hiere gravemente los lomos de un animal.",
+              "answer": "RINGA"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Individuo de la secta herética y secreta del bávaro Adán Weishaupt.",
+              "answer": "ILUMINADO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Este aparato está hecho con arte.",
+              "answer": "ARTEFACTO"
+            },
+            "25": {
+              "col": 2,
+              "row": 4,
+              "clue": "Cielito que desastre, tienes aliento alcohólico.",
+              "answer": "ETILICO"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "\"… Flores\", cantante, compositora española de origen gitano.",
+              "answer": "ROSARIO"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Isla griega.",
+              "answer": "IOS"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Siglas explosivas.",
+              "answer": "TNT"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Vigas sobre las cuales está la cubierta de un barco (sing).",
+              "answer": "BAO"
+            },
+            "37": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Relegó\" sin vocales.",
+              "answer": "RLG"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Glorificad, dad fama.",
+              "answer": "AFAMAD"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"... Dumbledore\" el director de Hogwarts.",
+              "answer": "ALBUS"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Cada 28 días, en teoría.",
+              "answer": "REGLA"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Un sujeto imaginario que viene a salvar a la humanidad.",
+              "answer": "MESIAS"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Enfrentar, contraponer.",
+              "answer": "OPONER"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Ya brinqué, ahora vete para afuera.",
+              "answer": "SALTE"
+            },
+            "50": {
+              "col": 13,
+              "row": 9,
+              "clue": "Entrelazaban hilos para formar telas.",
+              "answer": "TEJIAN"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Enarbolé, elevé.",
+              "answer": "ERGUI"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "De ningún modo, ni por...",
+              "answer": "ASOMO"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "Amante de la tecnología, parecido a un nerd.",
+              "answer": "GEEK"
+            },
+            "58": {
+              "col": 9,
+              "row": 11,
+              "clue": "Enfrenta algo contra otra cosa para entorpecer o impedir su efecto.",
+              "answer": "OPON"
+            },
+            "64": {
+              "col": 2,
+              "row": 13,
+              "clue": "Casi nada.",
+              "answer": "NA"
+            },
+            "65": {
+              "col": 3,
+              "row": 13,
+              "clue": "George Floy.",
+              "answer": "GF"
+            },
+            "67": {
+              "col": 11,
+              "row": 13,
+              "clue": "Un pequeño ejemplo.",
+              "answer": "EJ"
+            },
+            "68": {
+              "col": 12,
+              "row": 13,
+              "clue": "Las fronteras de Grecia.",
+              "answer": "GA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "El equipo campeón de las Finales de la NBA de 2024 (2p).",
+              "answer": "BOSTONCELTICS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Capital de Croacia.",
+              "answer": "ZAGREB"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Pulpo bruja de \"La Sirenita\", película de Disney.",
+              "answer": "URSULA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Pato desplumado.",
+              "answer": "AT"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Lo del notario corrupto es una info pública y sabida por todos.",
+              "answer": "NOTORIA"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Índice Glucémico.",
+              "answer": "IG"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Río de Italia.",
+              "answer": "PO"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Tengo una idea lista y cohesionada sobre una web de pisos de alquiler.",
+              "answer": "IDEALISTA"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Denominación de origen.",
+              "answer": "DO"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Flor de muy buen olor y diversos colores.",
+              "answer": "ALELI"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "Río de Europa.",
+              "answer": "RIN"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "Desacierten.",
+              "answer": "ERREN"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Armadillo.",
+              "answer": "TATU"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "El perro del inglés.",
+              "answer": "DOG"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Hice fuerza y violencia con la respiración.",
+              "answer": "TOSI"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Remedó, plagió, duplicó.",
+              "answer": "IMITO"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Descubres algo, le quitas la tapa.",
+              "answer": "ABRES"
+            },
+            "38": {
+              "col": 1,
+              "row": 7,
+              "clue": "Hueso de la cadera.",
+              "answer": "ILION"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Obrador de alfarero.",
+              "answer": "ALFAR"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Pide con urgencia a que organicen las tinas.",
+              "answer": "INSTA"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Suplicar, implorar.",
+              "answer": "ROGAR"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Mamífero acuático, presa de osos polares y orcas.",
+              "answer": "FOCA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lengua de signos española (siglas).",
+              "answer": "LSE"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Convoqué a una fecha.",
+              "answer": "CITE"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Designé a alguien un calificativo gracioso.",
+              "answer": "APODE"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Bolso en inglés.",
+              "answer": "BAG"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Remolques un navío.",
+              "answer": "ATOES"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Amor sin tabúes.",
+              "answer": "MO"
+            },
+            "56": {
+              "col": 3,
+              "row": 11,
+              "clue": "Vanidoso, pedante, engreído.",
+              "answer": "ORGULLOSO"
+            },
+            "59": {
+              "col": 13,
+              "row": 11,
+              "clue": "Risa malintencionada.",
+              "answer": "JI"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Iniciales del científico que creó los Premios Nobel.",
+              "answer": "AN"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "Policía secreta oficial de la Alemania nazi.",
+              "answer": "GESTAPO"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Salida de emergencia.",
+              "answer": "IA"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Enfermedad febril, transmitida por mosquitos.",
+              "answer": "DENGUE"
+            },
+            "66": {
+              "col": 9,
+              "row": 13,
+              "clue": "Vigésima cuarta letra del alfabeto griego (pl).",
+              "answer": "OMEGAS"
+            },
+            "69": {
+              "col": 1,
+              "row": 14,
+              "clue": "Primate de 'El rey león'.",
+              "answer": "RAFIKI"
+            },
+            "70": {
+              "col": 8,
+              "row": 14,
+              "clue": "Causan molestia, indignación.",
+              "answer": "ENOJAN"
+            }
+          }
+        },
+        "vertical_clues": "1-Tipo de bata muy larga y ancha.\r\n2-La cola del bulldog.\r\n3-Inic. Cantante cubano que tiene un unicornio azul.\r\n4-Desdoblé lo que estaba encogido.\r\n5-Instrumento musical de viento que termina en forma de campana.\r\n6-El autor de la canción de los 90 'Gangsta's Paradise'. \r\n7-Rey \"... XV de Francia \" El Bien amado.\r\n8-Intenté, procuré.\r\n9-Es inglés. Y sí, regresará.\r\n10-Símbolo químico del cobre.\r\n11-\"Google...\" programa para hacer diapositivas.\r\n12-Freno de una bicicleta.\r\n14-Padecimiento que precede a la muerte.\r\n17-Empleó más tiempo del necesario.\r\n18-Hiere gravemente los lomos de un animal.\r\n21-Individuo de la secta herética y secreta del bávaro Adán Weishaupt.\r\n22-Este aparato está hecho con arte.\r\n25-Cielito que desastre, tienes aliento alcohólico.\r\n28-\"… Flores\", cantante, compositora española de origen gitano.\r\n33-Isla griega.\r\n34-Siglas explosivas.\r\n36-Vigas sobre las cuales está la cubierta de un barco (sing).\r\n37-\"Relegó\" sin vocales.\r\n40-Glorificad, dad fama.\r\n42-\"... Dumbledore\" el director de Hogwarts.\r\n43-Cada 28 días, en teoría.\r\n44-Un sujeto imaginario que viene a salvar a la humanidad.\r\n46-Enfrentar, contraponer.\r\n48-Ya brinqué, ahora vete para afuera.\r\n50-Entrelazaban hilos para formar telas.\r\n52-Enarbolé, elevé.\r\n54-De ningún modo, ni por...\r\n57-Amante de la tecnología, parecido a un nerd.\r\n58-Enfrenta algo contra otra cosa para entorpecer o impedir su efecto.\r\n64-Casi nada.\r\n65-George Floy.\r\n67-Un pequeño ejemplo.\r\n68-Las fronteras de Grecia.",
+        "horizontal_clues": "1-El equipo campeón de las Finales de la NBA de 2024 (2p). \r\n12-Capital de Croacia.\r\n13-Pulpo bruja de \"La Sirenita\", película de Disney.\r\n15-Pato desplumado.\r\n16-Lo del notario corrupto es una info pública y sabida por todos.\r\n19-Índice Glucémico.\r\n20-Río de Italia.\r\n21-Tengo una idea lista y cohesionada sobre una web de pisos de alquiler.\r\n23-Denominación de origen.\r\n24-Flor de muy buen olor y diversos colores.\r\n26-Río de Europa.\r\n27-Desacierten.\r\n29-Armadillo.\r\n30-El perro del inglés.\r\n31-Hice fuerza y violencia con la respiración.\r\n32-Remedó, plagió, duplicó. \r\n35-Descubres algo, le quitas la tapa.\r\n38-Hueso de la cadera.\r\n39-Obrador de alfarero.\r\n41-Pide con urgencia a que organicen las tinas.\r\n43-Suplicar, implorar.\r\n45-Mamífero acuático, presa de osos polares y orcas.\r\n47-Lengua de signos española (siglas).\r\n49-Convoqué a una fecha.\r\n51-Designé a alguien un calificativo gracioso.\r\n53-Bolso en inglés.\r\n54-Remolques un navío.\r\n55-Amor sin tabúes.\r\n56-Vanidoso, pedante, engreído.\r\n59-Risa malintencionada.\r\n60-Iniciales del científico que creó los Premios Nobel.\r\n61-Policía secreta oficial de la Alemania nazi.\r\n62-Salida de emergencia.\r\n63-Enfermedad febril, transmitida por mosquitos.\r\n66-Vigésima cuarta letra del alfabeto griego (pl).\r\n69-Primate de 'El rey león'.\r\n70-Causan molestia, indignación.",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,#,16,#,17,#,18,#,#,#,#,19,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,23,#\r\n24,#,25,#,#,#,26,#,#,#,27,#,28,#,#\r\n29,#,#,#,#,#,30,#,#,#,#,31,#,#,#\r\n#,#,32,#,33,34,#,#,35,36,37,#,#,#,#\r\n#,38,#,#,#,#,#,#,#,39,#,#,#,#,#\r\n40,#,41,#,#,#,42,#,43,#,#,#,#,#,44\r\n45,46,#,#,#,#,47,48,#,#,#,49,#,50,#\r\n51,#,#,#,52,#,53,#,#,#,54,#,#,#,#\r\n55,#,#,56,#,57,#,#,#,58,#,#,#,59,#\r\n60,#,#,#,61,#,#,#,#,#,#,#,#,62,#\r\n63,#,64,65,#,#,#,#,#,66,#,67,68,#,#\r\n#,69,#,#,#,#,#,#,70,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

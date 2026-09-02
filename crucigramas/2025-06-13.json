@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 2530,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-09T15:28:57.173691Z",
+      "updatedAt": "2025-06-09T15:32:33.526697Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-13",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#MIREN#AZAFATA#\r\nMIRASE#BAÑO##RC\r\nA#ANTOLOGO#MERA\r\nA#QUININA#POLOS\r\nSB#LLAMO#RELEJE\r\nDAC#AZO#VOLUMEN\r\nASEA#INTERESE##\r\nMELCA#E#I#ACNES\r\n##LEPORINO#OTRA\r\nCLIQUEO#TPA#OOL\r\nRASURA#PERLA#SV\r\nENCIA#RINITIS#A\r\nCCAA#KETAMINA#D\r\nEE##OIGO#IVERNO\r\n#STILTON#ROSAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Casi es mío",
+              "answer": "MI"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "País cuya capital es Bagdad",
+              "answer": "IRAQ"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Se mira el nevus frente al espejo",
+              "answer": "RANUL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Casi que Estela lo tiene de costumbre",
+              "answer": "ESTILA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Actualmente cree en la superioridad de la raza aria",
+              "answer": "NEONAZI"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo es el compost o el humus de lombriz",
+              "answer": "ABONO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Parte trasera de algo",
+              "answer": "ZAGA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "12 lunas",
+              "answer": "AÑO"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Voz para expresar repudio a un mal olor",
+              "answer": "FO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Expulsé, tiré",
+              "answer": "ARROJE"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Queso de los Países Bajos, parecido al gouda",
+              "answer": "MAASDAM"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Que lo hagan por la iglesia, que se…",
+              "answer": "CASEN"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"Mi limón, mi … / entero me gusta más\" Henry Stephen",
+              "answer": "LIMONERO"
+            },
+            "17": {
+              "col": 11,
+              "row": 2,
+              "clue": "Lo es el pulpo o el calamar",
+              "answer": "MOLUSCO"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Algo huele mentolado, debe ser una parte",
+              "answer": "ELEMENTO"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Batalla, combate",
+              "answer": "PELEA"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Beisbol Almohadilla en los vértices del diamante",
+              "answer": "BASE"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Furor en el oriente",
+              "answer": "ROR"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Tormenta de nieve muy menuda",
+              "answer": "CELLISCA"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Una docena más dos tercios de una docena",
+              "answer": "VEINTENA"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Canal que conduce el agua para riego",
+              "answer": "ACEQUIA"
+            },
+            "33": {
+              "col": 4,
+              "row": 7,
+              "clue": "Acelera, se apresura, se…",
+              "answer": "APURA"
+            },
+            "35": {
+              "col": 13,
+              "row": 7,
+              "clue": "Dios griego del amor",
+              "answer": "EROS"
+            },
+            "36": {
+              "col": 14,
+              "row": 7,
+              "clue": "Cáscara del grano de los cereales desmenuzada por la molienda",
+              "answer": "SALVADO"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "Organización de Estados Americanos (siglas)",
+              "answer": "OEA"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "Pulsar el botón para someter",
+              "answer": "OPRIMIR"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Aumenta de tamaño",
+              "answer": "CRECE"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "Arrojes, abatas",
+              "answer": "LANCES"
+            },
+            "44": {
+              "col": 10,
+              "row": 9,
+              "clue": "Altanero, arrogante",
+              "answer": "ALTIVO"
+            },
+            "47": {
+              "col": 7,
+              "row": 10,
+              "clue": "Serpiente de la mitología griega",
+              "answer": "PITON"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Acrónimo de \"Antiinflamatorios no esteroideos\"",
+              "answer": "AINES"
+            },
+            "51": {
+              "col": 6,
+              "row": 11,
+              "clue": "Esparció agua sobre las plantas",
+              "answer": "REGO"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"… Baras\", bailadora flamenca española",
+              "answer": "SARA"
+            },
+            "54": {
+              "col": 5,
+              "row": 12,
+              "clue": "Combo, pero de maquillaje",
+              "answer": "KIT"
+            },
+            "56": {
+              "col": 4,
+              "row": 13,
+              "clue": "Solo en Olimpia",
+              "answer": "OL"
+            },
+            "58": {
+              "col": 13,
+              "row": 13,
+              "clue": "Natalia Sánchez",
+              "answer": "NS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Vean bien",
+              "answer": "MIREN"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Tripulante que atiende a los pasajeros (fem)",
+              "answer": "AZAFATA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Observase, viese",
+              "answer": "MIRASE"
+            },
+            "12": {
+              "col": 7,
+              "row": 1,
+              "clue": "Sumerjo en agua para limpiarlo",
+              "answer": "BAÑO"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Radiocontrol (siglas)",
+              "answer": "RC"
+            },
+            "15": {
+              "col": 2,
+              "row": 2,
+              "clue": "Persona que recopila colecciones de literatura",
+              "answer": "ANTOLOGO"
+            },
+            "17": {
+              "col": 11,
+              "row": 2,
+              "clue": "La Reina de Atlantis, la esposa de Acuamán",
+              "answer": "MERA"
+            },
+            "19": {
+              "col": 2,
+              "row": 3,
+              "clue": "Compuesto antimalárico, derivado de árbol de la quina",
+              "answer": "QUININA"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Los opuestos se atraen",
+              "answer": "POLOS"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Iniciales del pintor del cuadro 'El nacimiento de Venus'",
+              "answer": "SB"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Telefoneo",
+              "answer": "LLAMO"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Sarro de los labios o la boca",
+              "answer": "RELEJE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Diseño asistido por computador (siglas)",
+              "answer": "DAC"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Pedazo de brazo",
+              "answer": "AZO"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Percepción sonora de la potencia de un sonido",
+              "answer": "VOLUMEN"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Se lava",
+              "answer": "ASEA"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Capture la atención del público",
+              "answer": "INTERESE"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Sorgo",
+              "answer": "MELCA"
+            },
+            "34": {
+              "col": 10,
+              "row": 7,
+              "clue": "Enfermedad de la piel (pl)",
+              "answer": "ACNES"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "Labio que, por defecto congénito, está hendido",
+              "answer": "LEPORINO"
+            },
+            "40": {
+              "col": 11,
+              "row": 8,
+              "clue": "Para que la banda toque una canción más, decimos repetidamente…",
+              "answer": "OTRA"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Uso el botón derecho o izquierdo del ratón",
+              "answer": "CLIQUEO"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Trastorno de Personalidad Antisocial",
+              "answer": "TPA"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Oficina de Oceanografía y Limnología",
+              "answer": "OOL"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Se afeita, se…",
+              "answer": "RASURA"
+            },
+            "47": {
+              "col": 7,
+              "row": 10,
+              "clue": "Concreción nacarada de las conchas marinas",
+              "answer": "PERLA"
+            },
+            "49": {
+              "col": 13,
+              "row": 10,
+              "clue": "Dominio web para El Salvador",
+              "answer": "SV"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tejido que protege la dentadura",
+              "answer": "ENCIA"
+            },
+            "51": {
+              "col": 6,
+              "row": 11,
+              "clue": "Inflamación de la mucosa de las fosas nasales",
+              "answer": "RINITIS"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lo son Cataluña y el País Vasco",
+              "answer": "CCAA"
+            },
+            "54": {
+              "col": 5,
+              "row": 12,
+              "clue": "Anestesia para caballos",
+              "answer": "KETAMINA"
+            },
+            "55": {
+              "col": 0,
+              "row": 13,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "56": {
+              "col": 4,
+              "row": 13,
+              "clue": "Escucho",
+              "answer": "OIGO"
+            },
+            "57": {
+              "col": 9,
+              "row": 13,
+              "clue": "Paso el invierno en un lugar",
+              "answer": "IVERNO"
+            },
+            "59": {
+              "col": 1,
+              "row": 14,
+              "clue": "Queso azul inglés",
+              "answer": "STILTON"
+            },
+            "60": {
+              "col": 9,
+              "row": 14,
+              "clue": "Las flores rojas",
+              "answer": "ROSAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Casi es mío\r\n2-País cuya capital es Bagdad\r\n3-Se mira el nevus frente al espejo\r\n4-Casi que Estela lo tiene de costumbre\r\n5-Actualmente cree en la superioridad de la raza aria\r\n6-Lo es el compost o el humus de lombriz\r\n7-Parte trasera de algo\r\n8-12 lunas\r\n9-Voz para expresar repudio a un mal olor\r\n10-Expulsé, tiré\r\n11-Queso de los Países Bajos, parecido al gouda\r\n14-Que lo hagan por la iglesia, que se…\r\n16-\"Mi limón, mi … / entero me gusta más\" Henry Stephen\r\n17-Lo es el pulpo o el calamar\r\n18-Algo huele mentolado, debe ser una parte\r\n20-Batalla, combate\r\n22-Beisbol Almohadilla en los vértices del diamante\r\n24-Furor en el oriente\r\n26-Tormenta de nieve muy menuda\r\n28-Una docena más dos tercios de una docena\r\n30-Canal que conduce el agua para riego\r\n33-Acelera, se apresura, se…\r\n35-Dios griego del amor\r\n36-Cáscara del grano de los cereales desmenuzada por la molienda\r\n38-Organización de Estados Americanos (siglas)\r\n39-Pulsar el botón para someter\r\n41-Aumenta de tamaño\r\n42-Arrojes, abatas\r\n44-Altanero, arrogante\r\n47-Serpiente de la mitología griega\r\n48-Acrónimo de \"Antiinflamatorios no esteroideos\"\r\n51-Esparció agua sobre las plantas\r\n52-\"… Baras\", bailadora flamenca española\r\n54-Combo, pero de maquillaje\r\n56-Solo en Olimpia\r\n58-Natalia Sánchez",
+        "horizontal_clues": "1-Vean bien\r\n6-Tripulante que atiende a los pasajeros (fem)\r\n11-Observase, viese\r\n12-Sumerjo en agua para limpiarlo\r\n13-Radiocontrol (siglas)\r\n15-Persona que recopila colecciones de literatura\r\n17-La Reina de Atlantis, la esposa de Acuamán\r\n19-Compuesto antimalárico, derivado de árbol de la quina\r\n20-Los opuestos se atraen\r\n21-Iniciales del pintor del cuadro 'El nacimiento de Venus'\r\n23-Telefoneo\r\n24-Sarro de los labios o la boca\r\n25-Diseño asistido por computador (siglas)\r\n27-Pedazo de brazo\r\n28-Percepción sonora de la potencia de un sonido\r\n29-Se lava\r\n31-Capture la atención del público\r\n32-Sorgo\r\n34-Enfermedad de la piel (pl)\r\n37-Labio que, por defecto congénito, está hendido\r\n40-Para que la banda toque una canción más, decimos repetidamente…\r\n41-Uso el botón derecho o izquierdo del ratón\r\n43-Trastorno de Personalidad Antisocial\r\n45-Oficina de Oceanografía y Limnología\r\n46-Se afeita, se…\r\n47-Concreción nacarada de las conchas marinas\r\n49-Dominio web para El Salvador\r\n50-Tejido que protege la dentadura\r\n51-Inflamación de la mucosa de las fosas nasales\r\n53-Lo son Cataluña y el País Vasco\r\n54-Anestesia para caballos\r\n55-Piel de elefante\r\n56-Escucho\r\n57-Paso el invierno en un lugar\r\n59-Queso azul inglés\r\n60-Las flores rojas",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,#,#,10,#\r\n11,#,#,#,#,#,#,12,#,#,#,#,#,13,14\r\n#,#,15,#,#,#,16,#,#,#,#,17,18,#,#\r\n#,#,19,#,#,#,#,#,#,#,20,#,#,#,#\r\n21,22,#,23,#,#,#,#,#,24,#,#,#,#,#\r\n25,#,26,#,27,#,#,#,28,#,#,#,#,#,#\r\n29,#,#,30,#,31,#,#,#,#,#,#,#,#,#\r\n32,#,#,#,33,#,#,#,#,#,34,#,#,35,36\r\n#,#,37,#,#,38,#,#,#,39,#,40,#,#,#\r\n41,42,#,#,#,#,#,#,43,#,44,#,45,#,#\r\n46,#,#,#,#,#,#,47,#,#,#,48,#,49,#\r\n50,#,#,#,#,#,51,#,#,#,#,#,52,#,#\r\n53,#,#,#,#,54,#,#,#,#,#,#,#,#,#\r\n55,#,#,#,56,#,#,#,#,57,#,#,#,58,#\r\n#,59,#,#,#,#,#,#,#,60,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

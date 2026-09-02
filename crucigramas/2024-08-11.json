@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 710,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-10T20:25:23.300008Z",
+      "updatedAt": "2024-08-10T20:25:23.300031Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-11",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "VALS#ELCHE#QEPD\r\nATOPE#UHURA#RAI\r\nCAPAS#MAGA#VIRO\r\nA#ESTABLO#DEJAN\r\n#H#MACRO#CANON#\r\nPIA#STANDARD##C\r\nLEÑA#UL#ENLAZAR\r\nANILLA###TEJIDO\r\nCALDERA#MA#ETNA\r\nA##ETIQUETA#IAR\r\n#CLARO#LLANO#M#\r\nFAUNA#PULSERA#F\r\nONCO#PULA#GUITA\r\nLSE#RAPAD#OJEAR\r\nKANE#GASON#ORFO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La que dijo mu.",
+              "answer": "VACA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Anuda.",
+              "answer": "ATA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"... de Aguirre\" conquistador que fue tras la leyenda del Dorado.",
+              "answer": "LOPE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Espasmos en inglés.",
+              "answer": "SPASM"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Escalón de la puerta de entrada de una casa.",
+              "answer": "LUMBRAL"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Uruguay. Manto femenino.",
+              "answer": "CHALON"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Premios literarios a las mejores obras de ciencia ficción.",
+              "answer": "HUGO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ya no es ese tiempo histórico.",
+              "answer": "ERA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Fundo, instituyo o levanto.",
+              "answer": "ERIJO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "No se detienen, no...",
+              "answer": "PARAN"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Cantante que interpretó el soundtrack de \"Titanic\".",
+              "answer": "DION"
+            },
+            "15": {
+              "col": 4,
+              "row": 1,
+              "clue": "Setas traviesas, las de aquí.",
+              "answer": "ESTAS"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Envoltura para heridas.",
+              "answer": "VENDAJE"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Experto en cálculos estadísticos para seguros.",
+              "answer": "ACTUARIO"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Entregarle, otorgarle.",
+              "answer": "DARLE"
+            },
+            "24": {
+              "col": 1,
+              "row": 4,
+              "clue": "Animal que ríe.",
+              "answer": "HIENA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Composiciones poéticas extensas, escritas para que se les ponga música y se canten.",
+              "answer": "CANTATAS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Plancha de metal.",
+              "answer": "PLACA"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Azul profundo, índigo.",
+              "answer": "AÑIL"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"... mí para ti\".",
+              "answer": "DE"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Cantar de una rana.",
+              "answer": "CROAR"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Habitante de un pueblo pequeño.",
+              "answer": "ALDEANO"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Tipo de pasta italiana parecida a los macarrones.",
+              "answer": "ZITI"
+            },
+            "37": {
+              "col": 13,
+              "row": 6,
+              "clue": "Lo envía de vuelta.",
+              "answer": "ADNAM"
+            },
+            "39": {
+              "col": 4,
+              "row": 7,
+              "clue": "El guion de una canción, la...",
+              "answer": "LETRA"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Dominio web para Antártida.",
+              "answer": "AQ"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Con dientes incompletos o deteriorados.",
+              "answer": "MELLADO"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Das gritos o alaridos.",
+              "answer": "ULULAS"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Se inundó, se cubrió de agua, se...",
+              "answer": "ANEGO"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Agota, extenúa.",
+              "answer": "CANSA"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Brillan, resplandecen con ropa nueva.",
+              "answer": "LUCEN"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Bebida del hollejo de la uva, ideal como digestivo después de la cena de Navidad.",
+              "answer": "ORUJO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Música folclórica, música...",
+              "answer": "FOLK"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Mamá me golpeé, me hice...",
+              "answer": "PUPA"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Se carcajeaba a sus espaldas.",
+              "answer": "AIER"
+            },
+            "56": {
+              "col": 14,
+              "row": 11,
+              "clue": "En Cádiz, el de Chipiona o el de Trafalgar.",
+              "answer": "FARO"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Abreviatura de página.",
+              "answer": "PAG"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Vigésimo segunda letra del alfabeto hebreo.",
+              "answer": "TAF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El baile de la boda.",
+              "answer": "VALS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Dama de …\", escultura íbera en piedra, siglos V y IV a.C.",
+              "answer": "ELCHE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Quedan Estos Para Después.",
+              "answer": "QEPD"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Al máximo (2p).",
+              "answer": "ATOPE"
+            },
+            "16": {
+              "col": 6,
+              "row": 1,
+              "clue": "\"Capt. Kirk y...\" los protas del 1º beso interracial de la tv (Star Trek).",
+              "answer": "UHURA"
+            },
+            "17": {
+              "col": 12,
+              "row": 1,
+              "clue": "La cadena de televisión italiana.",
+              "answer": "RAI"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Zonas superpuestas a otras, con las que forma un todo.",
+              "answer": "CAPAS"
+            },
+            "19": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"La...\" personaje de 'Rayuela', de Cortázar.",
+              "answer": "MAGA"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Cambió de dirección.",
+              "answer": "VIRO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Refugio para el ganado.",
+              "answer": "ESTABLO"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"Si nos..., nos vamos a querer toda la vida\" Luis Miguel.",
+              "answer": "DEJAN"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Informática. Macroinstrucción (acort).",
+              "answer": "MACRO"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Regla o precepto.",
+              "answer": "CANON"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Devota, santa.",
+              "answer": "PIA"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Nivel de calidad habitual o esperado (voz inglesa).",
+              "answer": "STANDARD"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo que todos hacen del árbol caído.",
+              "answer": "LEÑA"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Lo primero de último.",
+              "answer": "UL"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Vincular.",
+              "answer": "ENLAZAR"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Gimnasia. Cada una de las argollas, pendientes de cuerdas o cadenas.",
+              "answer": "ANILLA"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Este va a ser adiposo.",
+              "answer": "TEJIDO"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Calentador, termo.",
+              "answer": "CALDERA"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Dominio web para Marruecos.",
+              "answer": "MA"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Volcán activo en la costa este de Sicilia, Italia.",
+              "answer": "ETNA"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Norma de cortesía.",
+              "answer": "ETIQUETA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Industria Aeronáutica Rumana (siglas).",
+              "answer": "IAR"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Por supuesto que no es oscuro.",
+              "answer": "CLARO"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Horario de precio intermedio.",
+              "answer": "LLANO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Conjunto de los animales de un país o región.",
+              "answer": "FAUNA"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Adorno para la muñeca.",
+              "answer": "PULSERA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Prefijo que significa 'hinchazón, tumor maligno'.",
+              "answer": "ONCO"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Lustre, de brillo y tersura.",
+              "answer": "PULA"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "La plata en Argentina.",
+              "answer": "GUITA"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Lengua de signos española (siglas).",
+              "answer": "LSE"
+            },
+            "62": {
+              "col": 4,
+              "row": 13,
+              "clue": "Cortad el cabello con la uno.",
+              "answer": "RAPAD"
+            },
+            "63": {
+              "col": 10,
+              "row": 13,
+              "clue": "Mirar por encima un texto.",
+              "answer": "OJEAR"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"Ciudadano...\" entre las mejores películas de la historia (1941).",
+              "answer": "KANE"
+            },
+            "65": {
+              "col": 5,
+              "row": 14,
+              "clue": "Cascote de yeso.",
+              "answer": "GASON"
+            },
+            "66": {
+              "col": 11,
+              "row": 14,
+              "clue": "Pescado semejante al besugo.",
+              "answer": "ORFO"
+            }
+          }
+        },
+        "vertical_clues": "1-La que dijo mu.\r\n2-Anuda.\r\n3-\"... de Aguirre\" conquistador que fue tras la leyenda del Dorado. \r\n4-Espasmos en inglés.\r\n6-Escalón de la puerta de entrada de una casa.\r\n7-Uruguay. Manto femenino.\r\n8-Premios literarios a las mejores obras de ciencia ficción.\r\n9-Ya no es ese tiempo histórico.\r\n11-Fundo, instituyo o levanto.\r\n12-No se detienen, no...\r\n13-Cantante que interpretó el soundtrack de \"Titanic\".\r\n15-Setas traviesas, las de aquí.\r\n20-Envoltura para heridas. \r\n22-Experto en cálculos estadísticos para seguros. \r\n23-Entregarle, otorgarle.\r\n24-Animal que ríe.\r\n26-Composiciones poéticas extensas, escritas para que se les ponga música y se canten.\r\n27-Plancha de metal.\r\n28-Azul profundo, índigo.\r\n30-\"... mí para ti\". \r\n31-Cantar de una rana.\r\n33-Habitante de un pueblo pequeño. \r\n36-Tipo de pasta italiana parecida a los macarrones.\r\n37-Lo envía de vuelta.\r\n39-El guion de una canción, la...\r\n42-Dominio web para Antártida.\r\n43-Con dientes incompletos o deteriorados. \r\n46-Das gritos o alaridos.\r\n47-Se inundó, se cubrió de agua, se...\r\n49-Agota, extenúa.\r\n50-Brillan, resplandecen con ropa nueva.\r\n52-Bebida del hollejo de la uva, ideal como digestivo después de la cena de Navidad. \r\n53-Música folclórica, música...\r\n54-Mamá me golpeé, me hice...\r\n55-Se carcajeaba a sus espaldas.\r\n56-En Cádiz, el de Chipiona o el de Trafalgar.\r\n58-Abreviatura de página.\r\n60-Vigésimo segunda letra del alfabeto hebreo.",
+        "horizontal_clues": "1-El baile de la boda.\r\n5-\"Dama de …\", escultura íbera en piedra, siglos V y IV a.C.\r\n10-Quedan Estos Para Después.\r\n14-Al máximo (2p).\r\n16-\"Capt. Kirk y...\" los protas del 1º beso interracial de la tv (Star Trek).\r\n17-La cadena de televisión italiana.\r\n18-Zonas superpuestas a otras, con las que forma un todo.\r\n19-\"La...\" personaje de 'Rayuela', de Cortázar.\r\n20-Cambió de dirección.\r\n21-Refugio para el ganado. \r\n23-\"Si nos..., nos vamos a querer toda la vida\" Luis Miguel.\r\n25-Informática. Macroinstrucción (acort).\r\n26-Regla o precepto.\r\n27-Devota, santa.\r\n29-Nivel de calidad habitual o esperado (voz inglesa).\r\n32-Lo que todos hacen del árbol caído.\r\n34-Lo primero de último.\r\n35-Vincular.\r\n38-Gimnasia. Cada una de las argollas, pendientes de cuerdas o cadenas.\r\n40-Este va a ser adiposo.\r\n41-Calentador, termo.\r\n43-Dominio web para Marruecos.\r\n44-Volcán activo en la costa este de Sicilia, Italia.\r\n45-Norma de cortesía. \r\n48-Industria Aeronáutica Rumana (siglas).\r\n49-Por supuesto que no es oscuro.\r\n51-Horario de precio intermedio. \r\n53-Conjunto de los animales de un país o región.\r\n54-Adorno para la muñeca.\r\n57-Prefijo que significa 'hinchazón, tumor maligno'.\r\n58-Lustre, de brillo y tersura.\r\n59-La plata en Argentina.\r\n61-Lengua de signos española (siglas).\r\n62-Cortad el cabello con la uno.\r\n63-Mirar por encima un texto.\r\n64-\"Ciudadano...\" entre las mejores películas de la historia (1941).\r\n65-Cascote de yeso.\r\n66-Pescado semejante al besugo.",
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,15,#,16,#,#,#,#,#,17,#,#\r\n18,#,#,#,#,#,19,#,#,#,#,20,#,#,#\r\n#,#,21,#,#,22,#,#,#,#,23,#,#,#,#\r\n#,24,#,25,#,#,#,#,#,26,#,#,#,#,#\r\n27,#,28,#,29,#,#,#,30,#,#,#,#,#,31\r\n32,#,#,33,#,34,#,#,35,#,#,#,36,37,#\r\n38,#,#,#,39,#,#,#,#,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,#,43,#,#,44,#,#,#\r\n#,#,#,45,#,#,#,46,#,#,47,#,48,#,#\r\n#,49,50,#,#,#,#,51,#,#,#,52,#,#,#\r\n53,#,#,#,#,#,54,#,#,#,#,#,55,#,56\r\n57,#,#,#,#,58,#,#,#,#,59,#,#,60,#\r\n61,#,#,#,62,#,#,#,#,#,63,#,#,#,#\r\n64,#,#,#,#,65,#,#,#,#,#,66,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

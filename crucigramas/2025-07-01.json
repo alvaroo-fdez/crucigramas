@@ -1,0 +1,478 @@
+{
+  "data": {
+    "id": 2731,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-30T19:59:56.640932Z",
+      "updatedAt": "2025-06-30T19:59:56.673310Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-07-01",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "VAHO#BARBA#ARCE\r\nEDU#ALBA#ROGERS\r\nREGATEAR#A##LAT\r\nSCHMIDT##MACACO\r\nUU#ECOICA#JACKY\r\nSALIO#BARBARIE#\r\n#RUSSELL#ESLORA\r\n##M##LEMAS##N##\r\nARIANO#ATENTAR#\r\n#ENSAYADO#AULAS\r\nACATO#CONFIN#FE\r\nGANASE##TOLERAR\r\nRUC##T#PATOLOGO\r\nODIARA#UDON#CAS\r\nROAN#LISAS#PASO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vs",
+              "answer": "VERSUS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Poner en sintonía con las circunstancias",
+              "answer": "ADECUAR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"… Grant\" el actor prota de las pelis de Bridget Jones",
+              "answer": "HUGH"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Planta herbácea comestible de escaso valor nutricional",
+              "answer": "BLEDO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Un cama, cuando que se pliega vertical u horizontalmente",
+              "answer": "ABATIBLE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Formato de compresión de archivos informáticos",
+              "answer": "RAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Antigua región de los Reinos arameos",
+              "answer": "ARAM"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "2 de agosto y empieza el agobio",
+              "answer": "AG"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Perteneciente a sistemas de gestión de datos estructurados",
+              "answer": "RELACIONAL"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Como un hacker, pero con malas intenciones",
+              "answer": "CRACKER"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Aquí permanezco",
+              "answer": "ESTOY"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Último piso de un edificio (pl)",
+              "answer": "ATICOS"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Queráis",
+              "answer": "AMEIS"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Desmejoras, deslustras",
+              "answer": "AJAS"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"… Cox\" DJ británico de música house y techno",
+              "answer": "CARL"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Yo, colmada y en caos y tú tan tranquilo",
+              "answer": "CALMADO"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Primera terminación verbal infinitiva",
+              "answer": "AR"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Magnitud fotométrica que mide la intensidad luminosa por unidad de área",
+              "answer": "LUMINANCIA"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Acaricié con los labios",
+              "answer": "BESE"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Escritor castellonense de la novela 'Invisible'",
+              "answer": "ELOY"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Desorientada por la sorpresa",
+              "answer": "ATONTADA"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Precaución o cuidado en la custodia de algo valioso",
+              "answer": "RECAUDO"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Con el palo de la lanza ordena una tasa",
+              "answer": "ASTA"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Un asno sano va en las embarcaciones",
+              "answer": "NAOS"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Fibra textil elástica",
+              "answer": "NAILON"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "La luz al final de este (siempre se ve)",
+              "answer": "TUNEL"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Golpes de viento",
+              "answer": "RAFAGAS"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Hace como lo oyes",
+              "answer": "AC"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Linfático, bilioso",
+              "answer": "SEROSO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Agrura, acidez",
+              "answer": "AGROR"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Son más para Instagram que para Twitter",
+              "answer": "FOTOS"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Voz latina para indicar más autores en la cita bibliográfica (2p)",
+              "answer": "ETAL"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"Paco…\" historietista valenciano ganador del Gran Premio de Comic Barcelona",
+              "answer": "ROCA"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Líquido espeso de la herida",
+              "answer": "PUS"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "En el centro de la mano",
+              "answer": "AN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vapor que despiden los cuerpos",
+              "answer": "VAHO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Si calva fuera a calvario, esta seria a Barbarie",
+              "answer": "BARBA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Con la hoja de este árbol, al caer se crea una cera acre",
+              "answer": "ARCE"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Eduardo de cariño",
+              "answer": "EDU"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Salió con el sol como una bala perdida",
+              "answer": "ALBA"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "\"Steve…\" la identidad secreta del Capitán América",
+              "answer": "ROGERS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Arte de discutir el valor de un balón",
+              "answer": "REGATEAR"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "'Living Apart Together' parejas que viven en casas separadas",
+              "answer": "LAT"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"Brian P…\" Nobel de física por descubrir la expansión acelerada del universo (2011)",
+              "answer": "SCHMIDT"
+            },
+            "19": {
+              "col": 9,
+              "row": 3,
+              "clue": "Mono de Gibraltar",
+              "answer": "MACACO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Los imanes de Unax Ugalde",
+              "answer": "UU"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Relativa al eco",
+              "answer": "ECOICA"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"… Ickx\" piloto belga apodado \"Monsieur Le Mans\" 6 veces ganador",
+              "answer": "JACKY"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "¿Se fue del asilo?",
+              "answer": "SALIO"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Estado de ausencia de civilización o cultura",
+              "answer": "BARBARIE"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"Manifiesto … Einstein\" desde 1955 advirtiendo el peligro de las armas nucleares",
+              "answer": "RUSSELL"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Dimensión de un barco",
+              "answer": "ESLORA"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Eslóganes que expresan otros males",
+              "answer": "LEMAS"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Nacido entre el 21 de marzo y 20 de abril",
+              "answer": "ARIANO"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Conspirar contra el orden establecido",
+              "answer": "ATENTAR"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Preparado mediante práctica repetida antes de una presentación",
+              "answer": "ENSAYADO"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Los dominios de los profes",
+              "answer": "AULAS"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Acá todo el mundo obedeció las órdenes",
+              "answer": "ACATO"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Límite extremo de un territorio",
+              "answer": "CONFIN"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Elemento químico utilizado en estructuras metálicas",
+              "answer": "FE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Obtuviese la victoria",
+              "answer": "GANASE"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Llevar con paciencia",
+              "answer": "TOLERAR"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "El truco está en mirarla por el centro",
+              "answer": "RUC"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Especialista médico que estudia las enfermedades",
+              "answer": "PATOLOGO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Detestará, aborrecerá",
+              "answer": "ODIARA"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Fideo japonés grueso, de harina de trigo",
+              "answer": "UDON"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Casi casi",
+              "answer": "CAS"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Corten con los dientes",
+              "answer": "ROAN"
+            },
+            "63": {
+              "col": 5,
+              "row": 14,
+              "clue": "Bolas de billar del 1 al 8",
+              "answer": "LISAS"
+            },
+            "64": {
+              "col": 11,
+              "row": 14,
+              "clue": "Atravieso el sendero",
+              "answer": "PASO"
+            }
+          }
+        },
+        "vertical_clues": "1-Vs \r\n2-Poner en sintonía con las circunstancias \r\n3-\"… Grant\" el actor prota de las pelis de Bridget Jones\r\n4-Planta herbácea comestible de escaso valor nutricional \r\n5-Un cama, cuando que se pliega vertical u horizontalmente \r\n6-Formato de compresión de archivos informáticos \r\n7-Antigua región de los Reinos arameos \r\n8-2 de agosto y empieza el agobio\r\n9-Perteneciente a sistemas de gestión de datos estructurados \r\n10-Como un hacker, pero con malas intenciones\r\n11-Aquí permanezco\r\n13-Último piso de un edificio (pl)\r\n16-Queráis\r\n20-Desmejoras, deslustras\r\n21-\"… Cox\" DJ británico de música house y techno\r\n24-Yo, colmada y en caos y tú tan tranquilo\r\n25-Primera terminación verbal infinitiva \r\n28-Magnitud fotométrica que mide la intensidad luminosa por unidad de área \r\n30-Acaricié con los labios\r\n32-Escritor castellonense de la novela 'Invisible' \r\n35-Desorientada por la sorpresa\r\n37-Precaución o cuidado en la custodia de algo valioso\r\n38-Con el palo de la lanza ordena una tasa\r\n39-Un asno sano va en las embarcaciones\r\n41-Fibra textil elástica\r\n42-La luz al final de este (siempre se ve)\r\n43-Golpes de viento\r\n45-Hace como lo oyes\r\n47-Linfático, bilioso\r\n48-Agrura, acidez \r\n50-Son más para Instagram que para Twitter\r\n53-Voz latina para indicar más autores en la cita bibliográfica (2p)\r\n55-\"Paco…\" historietista valenciano ganador del Gran Premio de Comic Barcelona\r\n57-Líquido espeso de la herida\r\n59-En el centro de la mano\r\n",
+        "horizontal_clues": "1-Vapor que despiden los cuerpos\r\n4-Si calva fuera a calvario, esta seria a Barbarie\r\n8-Con la hoja de este árbol, al caer se crea una cera acre\r\n12-Eduardo de cariño\r\n13-Salió con el sol como una bala perdida\r\n14-\"Steve…\" la identidad secreta del Capitán América\r\n15-Arte de discutir el valor de un balón\r\n17-'Living Apart Together' parejas que viven en casas separadas\r\n18-\"Brian P…\" Nobel de física por descubrir la expansión acelerada del universo (2011) \r\n19-Mono de Gibraltar\r\n22-Los imanes de Unax Ugalde\r\n23-Relativa al eco\r\n26-\"… Ickx\" piloto belga apodado \"Monsieur Le Mans\" 6 veces ganador\r\n27-¿Se fue del asilo? \r\n29-Estado de ausencia de civilización o cultura \r\n31-\"Manifiesto … Einstein\" desde 1955 advirtiendo el peligro de las armas nucleares\r\n33-Dimensión de un barco\r\n34-Eslóganes que expresan otros males\r\n36-Nacido entre el 21 de marzo y 20 de abril\r\n40-Conspirar contra el orden establecido \r\n44-Preparado mediante práctica repetida antes de una presentación \r\n46-Los dominios de los profes\r\n48-Acá todo el mundo obedeció las órdenes\r\n49-Límite extremo de un territorio \r\n51-Elemento químico utilizado en estructuras metálicas \r\n52-Obtuviese la victoria\r\n54-Llevar con paciencia\r\n56-El truco está en mirarla por el centro\r\n57-Especialista médico que estudia las enfermedades \r\n58-Detestará, aborrecerá\r\n60-Fideo japonés grueso, de harina de trigo\r\n61-Casi casi\r\n62-Corten con los dientes\r\n63-Bolas de billar del 1 al 8\r\n64-Atravieso el sendero\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,#,4,5,6,#,7,#,8,9,10,11\r\n12,#,#,#,13,#,#,#,#,14,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,#,17,#,#\r\n18,#,#,#,#,#,#,#,#,19,20,21,#,#,#\r\n22,#,#,23,#,#,#,24,25,#,26,#,#,#,#\r\n27,#,28,#,#,#,29,#,#,30,#,#,#,#,#\r\n#,31,#,#,#,32,#,#,#,33,#,#,#,#,#\r\n#,#,#,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,38,39,#,#,40,#,#,41,42,#,43,#\r\n#,44,#,#,#,#,45,#,#,#,46,#,#,#,47\r\n48,#,#,#,#,#,49,#,#,50,#,#,#,51,#\r\n52,#,#,#,#,53,#,#,54,#,#,#,55,#,#\r\n56,#,#,#,#,#,#,57,#,#,#,#,#,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,#,61,#,#\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

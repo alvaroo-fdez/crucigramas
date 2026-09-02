@@ -1,0 +1,496 @@
+{
+  "data": {
+    "id": 1475,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-21T13:50:55.759408Z",
+      "updatedAt": "2024-12-21T13:50:55.771988Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-27",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "VISUAL#ORACION#\r\n#DONG#LEOPARDOS\r\nCEÑIR#LATER#EVI\r\nINEDITO##ACUSAN\r\nAT#ASIRA##ENANO\r\nTIP#AJONJOLI###\r\nIDOS#UNIAS#CEPA\r\nCAPA#A#M#C#ORAD\r\nADAN#NAOMI#SERE\r\n###CLAUSULA#NAP\r\nNACHO##OSAMA#GT\r\nAPROBE##TRONERA\r\nLIE#EMITI#RUSAS\r\nPLEURESIA#ALEF#\r\n#ESPOSOS#CLAROR",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Conjunto de rasgos propios de un individuo",
+              "answer": "IDENTIDAD"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Discurrí dormida",
+              "answer": "SOÑE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Está muy apegada a su familia",
+              "answer": "UNIDA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Da color gris",
+              "answer": "AGRISA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Organización de Estados Americanos (siglas)",
+              "answer": "OEA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Casi roto",
+              "answer": "ROT"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Se baja del caballo",
+              "answer": "APEA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo es Alcatraz o la Isla del Diablo",
+              "answer": "CARCEL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Principal ciudad portuaria de Ucrania",
+              "answer": "ODESA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"No se vistan, que…\" (2p)",
+              "answer": "NOVAN"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Este es un llorica",
+              "answer": "LLORON"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Fatum, hado, destino",
+              "answer": "SINO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Neuralgia del nervio ciático",
+              "answer": "CIATICA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Ciudad mexicana con el cruce fronterizo más transitado del planeta",
+              "answer": "TIJUANA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Solos y sin otros de su especie",
+              "answer": "UNICOS"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Un rival valeroso, enérgico",
+              "answer": "ANIMOSO"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "La parte trasera del barco",
+              "answer": "POPA"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Risa alegre",
+              "answer": "JA"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Variar, por ejemplo los precios",
+              "answer": "OSCILAR"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Compañero de aventuras de Don Quijote",
+              "answer": "SANCHO"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Formen eras para plantarlas",
+              "answer": "EREN"
+            },
+            "37": {
+              "col": 13,
+              "row": 6,
+              "clue": "Sección de un texto legal o literario",
+              "answer": "PARAGRAFO"
+            },
+            "38": {
+              "col": 14,
+              "row": 6,
+              "clue": "Partidarias o seguidoras de un movimiento",
+              "answer": "ADEPTAS"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Símbolo químico del Oro",
+              "answer": "AU"
+            },
+            "44": {
+              "col": 8,
+              "row": 8,
+              "clue": "Flor lánguida, marchita",
+              "answer": "MUSTIA"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "Cazador de lobos",
+              "answer": "LOBERO"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Persona desprovista de sentido moral",
+              "answer": "AMORAL"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "La estrategia se desarrolla de sur a norte",
+              "answer": "NALP"
+            },
+            "51": {
+              "col": 1,
+              "row": 10,
+              "clue": "Amontoné",
+              "answer": "APILE"
+            },
+            "52": {
+              "col": 2,
+              "row": 10,
+              "clue": "Confías",
+              "answer": "CREES"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Cancela la compra",
+              "answer": "ANULA"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "Mmmm",
+              "answer": "EMES"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "Eres un desastre",
+              "answer": "ESER"
+            },
+            "62": {
+              "col": 6,
+              "row": 12,
+              "clue": "Lo que tienen en común Edison y Marisol",
+              "answer": "ISO"
+            },
+            "63": {
+              "col": 7,
+              "row": 12,
+              "clue": "Nombre griego de la capital de las dos primeras dinastías del Antiguo Egipto",
+              "answer": "TIS"
+            },
+            "66": {
+              "col": 3,
+              "row": 13,
+              "clue": "Push…, el sujetador",
+              "answer": "UP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vi su alma dispersa y perdona si soy muy gráfica",
+              "answer": "VISUAL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo es el Padre Nuestro o el Ave María",
+              "answer": "ORACION"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "Moneda de Vietnam",
+              "answer": "DONG"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Felino rojizo con manchas negras (pl)",
+              "answer": "LEOPARDOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Hacer que una prenda quede pegada al cuerpo",
+              "answer": "CEÑIR"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Más tarde con el inglés",
+              "answer": "LATER"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Es evidente que la pasta no está en su punto",
+              "answer": "EVI"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Que nunca ha sido publicado",
+              "answer": "INEDITO"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Delatan, se chivan",
+              "answer": "ACUSAN"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Pato desplumado",
+              "answer": "AT"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Cogerá con la mano",
+              "answer": "ASIRA"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "GOT Lo es Tyrion Lannister",
+              "answer": "ENANO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Consejillo",
+              "answer": "TIP"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "¡Jolín! no sabía que así le decían al sésamo",
+              "answer": "AJONJOLI"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Están enloquecidos por un Dios que es incongruente",
+              "answer": "IDOS"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Juntabas varias cosas entre sí",
+              "answer": "UNIAS"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Variante de un virus",
+              "answer": "CEPA"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Hay héroes de… y espada",
+              "answer": "CAPA"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Rezad, implorad",
+              "answer": "ORAD"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Fresco: \"La creación de…\", (Capilla Sixtina)",
+              "answer": "ADAN"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Top Model de los 90', conocida como la diosa de ébano",
+              "answer": "NAOMI"
+            },
+            "45": {
+              "col": 11,
+              "row": 8,
+              "clue": "\"… tu amante bandido, bandido / corazón, corazón malherido\" MB",
+              "answer": "SERE"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Disposición específica en un contrato",
+              "answer": "CLAUSULA"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Devuélveme la baguette",
+              "answer": "NAP"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "A mi amigo Ignacio",
+              "answer": "NACHO"
+            },
+            "53": {
+              "col": 7,
+              "row": 10,
+              "clue": "Fundador de Al Qaeda",
+              "answer": "OSAMA"
+            },
+            "55": {
+              "col": 13,
+              "row": 10,
+              "clue": "Dominio web para Guatemala",
+              "answer": "GT"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "No saqué un 10, pero pasé",
+              "answer": "APROBE"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Ventana pequeña y angosta por donde entra poca luz",
+              "answer": "TRONERA"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Otra vez, la armé parda",
+              "answer": "LIE"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "Arrojé, eché hacia fuera algo",
+              "answer": "EMITI"
+            },
+            "64": {
+              "col": 10,
+              "row": 12,
+              "clue": "Lo son Irina Shayk y María Sharápova",
+              "answer": "RUSAS"
+            },
+            "65": {
+              "col": 0,
+              "row": 13,
+              "clue": "Inflamación de la membrana pulmonar",
+              "answer": "PLEURESIA"
+            },
+            "67": {
+              "col": 10,
+              "row": 13,
+              "clue": "Primera letra del alefato",
+              "answer": "ALEF"
+            },
+            "68": {
+              "col": 1,
+              "row": 14,
+              "clue": "Maridos, cónyuges",
+              "answer": "ESPOSOS"
+            },
+            "69": {
+              "col": 9,
+              "row": 14,
+              "clue": "Resplandor o claridad",
+              "answer": "CLAROR"
+            }
+          }
+        },
+        "vertical_clues": "2-Conjunto de rasgos propios de un individuo \r\n3-Discurrí dormida\r\n4-Está muy apegada a su familia\r\n5-Da color gris\r\n6-Organización de Estados Americanos (siglas)\r\n7-Casi roto\r\n8-Se baja del caballo\r\n9-Lo es Alcatraz o la Isla del Diablo\r\n10-Andar, marchar\r\n11-Principal ciudad portuaria de Ucrania\r\n12-\"No se vistan, que…\" (2p) \r\n14-Este es un llorica\r\n15-Fatum, hado, destino\r\n16-Neuralgia del nervio ciático\r\n20-Ciudad mexicana con el cruce fronterizo más transitado del planeta\r\n22-Solos y sin otros de su especie\r\n25-Un rival valeroso, enérgico\r\n28-La parte trasera del barco\r\n30-Risa alegre\r\n31-Variar, por ejemplo los precios\r\n33-Compañero de aventuras de Don Quijote\r\n36-Formen eras para plantarlas\r\n37-Sección de un texto legal o literario \r\n38-Partidarias o seguidoras de un movimiento\r\n43-Símbolo químico del Oro\r\n44-Flor lánguida, marchita\r\n47-Cazador de lobos\r\n48-Persona desprovista de sentido moral\r\n50-La estrategia se desarrolla de sur a norte\r\n51-Amontoné\r\n52-Confías\r\n54-Cancela la compra\r\n57-Mmmm \r\n59-Eres un desastre\r\n62-Lo que tienen en común Edison y Marisol\r\n63-Nombre griego de la capital de las dos primeras dinastías del Antiguo Egipto\r\n66-Push…, el sujetador\r\n",
+        "horizontal_clues": "1-Vi su alma dispersa y perdona si soy muy gráfica\r\n6-Lo es el Padre Nuestro o el Ave María\r\n13-Moneda de Vietnam \r\n14-Felino rojizo con manchas negras (pl)\r\n16-Hacer que una prenda quede pegada al cuerpo\r\n17-Más tarde con el inglés\r\n18-Es evidente que la pasta no está en su punto\r\n19-Que nunca ha sido publicado\r\n21-Delatan, se chivan\r\n23-Pato desplumado\r\n24-Cogerá con la mano\r\n26-GOT Lo es Tyrion Lannister\r\n27-Consejillo\r\n29-¡Jolín! no sabía que así le decían al sésamo\r\n32-Están enloquecidos por un Dios que es incongruente\r\n34-Juntabas varias cosas entre sí\r\n35-Variante de un virus\r\n39-Hay héroes de… y espada\r\n40-Rezad, implorad\r\n41-Fresco: \"La creación de…\", (Capilla Sixtina)\r\n42-Top Model de los 90', conocida como la diosa de ébano\r\n45-\"… tu amante bandido, bandido / corazón, corazón malherido\" MB \r\n46-Disposición específica en un contrato \r\n49-Devuélveme la baguette\r\n50-A mi amigo Ignacio\r\n53-Fundador de Al Qaeda\r\n55-Dominio web para Guatemala\r\n56-No saqué un 10, pero pasé\r\n58-Ventana pequeña y angosta por donde entra poca luz\r\n60-Otra vez, la armé parda\r\n61-Arrojé, eché hacia fuera algo\r\n64-Lo son Irina Shayk y María Sharápova\r\n65-Inflamación de la membrana pulmonar \r\n67-Primera letra del alefato\r\n68-Maridos, cónyuges\r\n69-Resplandor o claridad\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,6,7,8,9,10,11,12,#\r\n#,13,#,#,#,#,14,#,#,#,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,#,#,#,#,18,#,#\r\n19,#,#,#,#,20,#,#,#,21,#,22,#,#,#\r\n23,#,#,24,#,#,#,25,#,#,26,#,#,#,#\r\n27,#,28,#,29,#,#,#,30,31,#,#,#,#,#\r\n32,#,#,33,#,34,#,#,#,#,#,35,36,37,38\r\n39,#,#,#,#,#,#,#,#,#,#,40,#,#,#\r\n41,#,#,#,#,42,43,#,44,#,#,45,#,#,#\r\n#,#,#,46,47,#,#,#,#,#,48,#,49,#,#\r\n50,51,52,#,#,#,#,53,#,#,#,54,#,55,#\r\n56,#,#,#,#,57,#,#,58,#,#,#,59,#,#\r\n60,#,#,#,61,#,62,63,#,#,64,#,#,#,#\r\n65,#,#,66,#,#,#,#,#,#,67,#,#,#,#\r\n#,68,#,#,#,#,#,#,#,69,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

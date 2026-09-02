@@ -1,0 +1,466 @@
+{
+  "data": {
+    "id": 4584,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-16T13:09:02.842074Z",
+      "updatedAt": "2026-01-16T13:09:02.850834Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-18",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#GENES#APUNTAR#\r\nARIETE#BATEADOS\r\nLADREN#ALCAZABA\r\nASEE#TOTA#SANEN\r\nBOTA#IRIDE##ERE\r\nASI#AMARILLISTA\r\nMOCASIN#NALA###\r\nASASTE###BASCAP\r\n###URNA#BONIATO\r\nDESMOTIVARA#MAL\r\nOLI##OREJA#ROCE\r\nMIGAR#ENOC#AMAR\r\nAGILIDAD#INTIMA\r\nRELAJADA#OPALOS\r\n#NONATOS#NASAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Impregnados de grasa",
+              "answer": "GRASOSOS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Memoria fotográfica, memoria…",
+              "answer": "EIDETICA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"Maldita…\" cantando el 'Secreto de la tortugas'",
+              "answer": "NEREA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Siete negativos",
+              "answer": "ETE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Parecido a la emoción pero más duradero",
+              "answer": "SENTIMIENTO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Avasallar, doblegar",
+              "answer": "ABATIR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lapidan injustamente a un defensor de la justicia",
+              "answer": "PALADIN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Siglas del estándar de tiempo por el cual, el mundo regula la hora de los relojes",
+              "answer": "UTC"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sané la locura con totoras",
+              "answer": "NEAS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Receptáculo del retrete",
+              "answer": "TAZA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Muchos que se creen Adán",
+              "answer": "ADANES"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Nombre del actor protagonista de 'Crepúsculo'",
+              "answer": "ROBERT"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Ciudad natal del personaje Forrest Gump",
+              "answer": "ALABAMA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Libera de vicios y dificultades económicas a una empresa",
+              "answer": "SANEA"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Rezan a Dios",
+              "answer": "ORAN"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Proceso de fabricación de un producto",
+              "answer": "ELABORACION"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "¡Ostra! esto es una estrella",
+              "answer": "ASTRO"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Aplanada es una palabra grave",
+              "answer": "LLANA"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Ni así sacan la cabeza de la vieja capital de Moldavia",
+              "answer": "IASI"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Está subiendo la inspiración",
+              "answer": "ASUM"
+            },
+            "35": {
+              "col": 12,
+              "row": 7,
+              "clue": "Una manzanilla",
+              "answer": "CAMOMILA"
+            },
+            "36": {
+              "col": 13,
+              "row": 7,
+              "clue": "Acatamos confundidos y embestimos",
+              "answer": "ATACAMOS"
+            },
+            "37": {
+              "col": 14,
+              "row": 7,
+              "clue": "En Chile, las camisetas deportivas",
+              "answer": "POLERAS"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Ventilado",
+              "answer": "AIREADO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "El instrumento de Cliff Burton, el de Metallica",
+              "answer": "BAJO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Hacer dócil al animal",
+              "answer": "DOMAR"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "Nombran por elección para un cargo o dignidad",
+              "answer": "ELIGEN"
+            },
+            "43": {
+              "col": 2,
+              "row": 9,
+              "clue": "Silencio cauteloso",
+              "answer": "SIGILO"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Material para cubrir heridas",
+              "answer": "VENDAS"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Mamíferas roedoras",
+              "answer": "RATAS"
+            },
+            "50": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"… Rickman\", Severus Snape en 'Harry Potter'",
+              "answer": "ALAN"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Dirija sin hablar",
+              "answer": "RIJA"
+            },
+            "55": {
+              "col": 5,
+              "row": 12,
+              "clue": "Dato incompleto",
+              "answer": "DAT"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "No Pude Antes",
+              "answer": "NPA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Lo lleva en el ADN, lo tiene en los…",
+              "answer": "GENES"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Señalar con el dedo algo",
+              "answer": "APUNTAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fút Delantero central que embiste contra la defensa",
+              "answer": "ARIETE"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Golpeados con un palo en el béisbol",
+              "answer": "BATEADOS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Hagan como perros",
+              "answer": "LADREN"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Fortaleza palaciega musulmana de Málaga",
+              "answer": "ALCAZABA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Dejé todo limpio y pulcro",
+              "answer": "ASEE"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "Esta pista está toda en valenciano",
+              "answer": "TOTA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Restituyan a alguien la salud",
+              "answer": "SANEN"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Da saltos, por ejemplo un pelota",
+              "answer": "BOTA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lirio hediondo",
+              "answer": "IRIDE"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Despido colectivo",
+              "answer": "ERE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "De esta manera",
+              "answer": "ASI"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "La prensa cuando exagera, con morbo, la realidad",
+              "answer": "AMARILLISTA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Calzado masculino sin cordones ni hebillas",
+              "answer": "MOCASIN"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Disney La novia de Simba",
+              "answer": "NALA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cocinaste al fuego",
+              "answer": "ASASTE"
+            },
+            "34": {
+              "col": 9,
+              "row": 7,
+              "clue": "Org internacional contra la falsificación y la piratería",
+              "answer": "BASCAP"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Donde se colocan los votos",
+              "answer": "URNA"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Batata, camote",
+              "answer": "BONIATO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Le quitará las ganas de hacer cualquier cosa, lo…",
+              "answer": "DESMOTIVARA"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "¡Antiguos espíritus del…, transformad esta forma decadente en Mumm",
+              "answer": "MAL"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Percibí el olor",
+              "answer": "OLI"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Se la quitó Van Gogh",
+              "answer": "OREJA"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Friccione, friegue, frote",
+              "answer": "ROCE"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Partir el pan en pedazos muy pequeños",
+              "answer": "MIGAR"
+            },
+            "52": {
+              "col": 6,
+              "row": 11,
+              "clue": "Primogénito de Caín",
+              "answer": "ENOC"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Entregar el corazón sin condición",
+              "answer": "AMAR"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ligereza, soltura, destreza, habilidad",
+              "answer": "AGILIDAD"
+            },
+            "56": {
+              "col": 9,
+              "row": 12,
+              "clue": "Se dice de una amistad muy estrecha",
+              "answer": "INTIMA"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Una tía tranquila, cero dramas, desenfadada",
+              "answer": "RELAJADA"
+            },
+            "59": {
+              "col": 9,
+              "row": 13,
+              "clue": "Solapo por error las piedras con varios colores",
+              "answer": "OPALOS"
+            },
+            "60": {
+              "col": 1,
+              "row": 14,
+              "clue": "Nacidos por cesárea",
+              "answer": "NONATOS"
+            },
+            "61": {
+              "col": 9,
+              "row": 14,
+              "clue": "Cesta o red de pesca pasiva, en forma de embudo invertido",
+              "answer": "NASAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Impregnados de grasa\r\n2-Memoria fotográfica, memoria…\r\n3-\"Maldita…\" cantando el 'Secreto de la tortugas'\r\n4-Siete negativos\r\n5-Parecido a la emoción pero más duradero \r\n6-Avasallar, doblegar \r\n7-Lapidan injustamente a un defensor de la justicia\r\n8-Siglas del estándar de tiempo por el cual, el mundo regula la hora de los relojes \r\n9-Sané la locura con totoras\r\n10-Receptáculo del retrete\r\n11-Muchos que se creen Adán\r\n12-Nombre del actor protagonista de 'Crepúsculo'\r\n13-Ciudad natal del personaje Forrest Gump\r\n15-Libera de vicios y dificultades económicas a una empresa\r\n20-Rezan a Dios\r\n24-Proceso de fabricación de un producto\r\n27-¡Ostra! esto es una estrella\r\n28-Aplanada es una palabra grave\r\n29-Ni así sacan la cabeza de la vieja capital de Moldavia\r\n31-Está subiendo la inspiración\r\n35-Una manzanilla\r\n36-Acatamos confundidos y embestimos\r\n37-En Chile, las camisetas deportivas\r\n39-Ventilado\r\n40-El instrumento de Cliff Burton, el de Metallica\r\n41-Hacer dócil al animal\r\n42-Nombran por elección para un cargo o dignidad\r\n43-Silencio cauteloso\r\n44-Material para cubrir heridas \r\n48-Mamíferas roedoras\r\n50-\"… Rickman\", Severus Snape en 'Harry Potter'\r\n51-Dirija sin hablar\r\n55-Dato incompleto\r\n57-No Pude Antes\r\n",
+        "horizontal_clues": "1-Lo lleva en el ADN, lo tiene en los…\r\n6-Señalar con el dedo algo\r\n13-Fút Delantero central que embiste contra la defensa \r\n14-Golpeados con un palo en el béisbol \r\n16-Hagan como perros\r\n17-Fortaleza palaciega musulmana de Málaga\r\n18-Dejé todo limpio y pulcro\r\n19-Esta pista está toda en valenciano\r\n21-Restituyan a alguien la salud\r\n22-Da saltos, por ejemplo un pelota\r\n23-Lirio hediondo\r\n25-Despido colectivo\r\n26-De esta manera\r\n27-La prensa cuando exagera, con morbo, la realidad\r\n30-Calzado masculino sin cordones ni hebillas\r\n32-Disney La novia de Simba \r\n33-Cocinaste al fuego\r\n34-Org internacional contra la falsificación y la piratería\r\n38-Donde se colocan los votos\r\n40-Batata, camote\r\n41-Le quitará las ganas de hacer cualquier cosa, lo…\r\n45-¡Antiguos espíritus del…, transformad esta forma decadente en Mumm-Ra, el inmortal! \r\n46-Percibí el olor\r\n47-Se la quitó Van Gogh\r\n48-Friccione, friegue, frote\r\n49-Partir el pan en pedazos muy pequeños\r\n52-Primogénito de Caín\r\n53-Entregar el corazón sin condición\r\n54-Ligereza, soltura, destreza, habilidad\r\n56-Se dice de una amistad muy estrecha\r\n58-Una tía tranquila, cero dramas, desenfadada\r\n59-Solapo por error las piedras con varios colores\r\n60-Nacidos por cesárea\r\n61-Cesta o red de pesca pasiva, en forma de embudo invertido\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,15\r\n16,#,#,#,#,#,#,17,#,#,#,#,#,#,#\r\n18,#,#,#,#,19,20,#,#,#,21,#,#,#,#\r\n22,#,#,#,#,23,#,#,#,24,#,#,25,#,#\r\n26,#,#,#,27,#,#,#,#,#,28,29,#,#,#\r\n30,#,#,31,#,#,#,#,32,#,#,#,#,#,#\r\n33,#,#,#,#,#,#,#,#,34,#,#,35,36,37\r\n#,#,#,38,#,#,39,#,40,#,#,#,#,#,#\r\n41,42,43,#,#,#,#,44,#,#,#,#,45,#,#\r\n46,#,#,#,#,47,#,#,#,#,#,48,#,#,#\r\n49,#,#,50,51,#,52,#,#,#,#,53,#,#,#\r\n54,#,#,#,#,55,#,#,#,56,57,#,#,#,#\r\n58,#,#,#,#,#,#,#,#,59,#,#,#,#,#\r\n#,60,#,#,#,#,#,#,#,61,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

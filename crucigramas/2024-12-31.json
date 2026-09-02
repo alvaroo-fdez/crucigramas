@@ -1,0 +1,490 @@
+{
+  "data": {
+    "id": 1478,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-27T11:18:12.458672Z",
+      "updatedAt": "2024-12-27T11:18:12.519198Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-31",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#APEGOS#CUMPLI#\r\nABOGADO#ATELANA\r\nLABOR#VIS#DATOS\r\nATRIBUI#CRITICO\r\nTIESO#EDO#RANUL\r\nED#T#CTRLC#N#LE\r\nSANARA#A#OTOMAN\r\n##G#CNN#AMI#M##\r\nEPOCAS#O#EMPATO\r\nSR#H#ALBOR#I#AD\r\nPOMOS#AER#HENRI\r\nEDUCADO#APELADO\r\nSUDAR#TAS#DAVOS\r\nACEITAS#EROGENA\r\n#ENSAYE#SEROSA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Derrumbada, caída",
+              "answer": "ABATIDA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Que no tiene lo necesario para vivir dignamente",
+              "answer": "POBRE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "No sabe compartir, ni preocuparse por los demás, es muy…",
+              "answer": "EGOISTA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Greta…\", actriz sueca (1905",
+              "answer": "GARBO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Un poco de odio",
+              "answer": "OD"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Consejo obrero de trabajadores rusos",
+              "answer": "SOVIET"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Resina de un árbol para fabricar lacre negro",
+              "answer": "CASCOL"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Inic de la prota de 'Kill Bill' de Tarantino",
+              "answer": "UT"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mesurar, contar",
+              "answer": "MEDIR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "La fruta del mono",
+              "answer": "PLATANO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "El idioma de los exorcismos",
+              "answer": "LATIN"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Luciano inyecta, introduce una idea o una sustancia",
+              "answer": "INOCULA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Criado o mozo de un rufián en el antiguo Reino de Valencia",
+              "answer": "ALATES"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Arrasen, arruinen, devasten",
+              "answer": "ASOLEN"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "Doctora",
+              "answer": "DRA"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Agota, extenúa",
+              "answer": "CANSA"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Lo que más le gusta a los foodies",
+              "answer": "COMER"
+            },
+            "30": {
+              "col": 2,
+              "row": 6,
+              "clue": "Oenegé organizada por ingleses",
+              "answer": "NGO"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Un cable con 3 puntas no es inteligente",
+              "answer": "RCA"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Director de la peli \"El joven manos de tijeras\" (1990)",
+              "answer": "TIM"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "El deporte de la UFC",
+              "answer": "MMA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sustancia que tiene mucha densidad",
+              "answer": "ESPESA"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Genera, origina",
+              "answer": "PRODUCE"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Os dais de frente",
+              "answer": "CHOCAIS"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Poco obediente",
+              "answer": "OBE"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Parte del mar, que dista mucho de la tierra",
+              "answer": "PIELAGO"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Mujer que suele retrasarse",
+              "answer": "TARDONA"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Oh, Dios, que mujer tan detestable",
+              "answer": "ODIOSA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Padre del Taoísmo (2p)",
+              "answer": "LAOTSE"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Hicieses oración a Dios",
+              "answer": "ORASES"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Cambien el pelo o la piel",
+              "answer": "MUDEN"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Serie de sucesos que se devuelven por la parte trasera",
+              "answer": "SARTA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Hediondez, pestilencia",
+              "answer": "HEDOR"
+            },
+            "55": {
+              "col": 12,
+              "row": 10,
+              "clue": "Barcos, naos",
+              "answer": "NAVES"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Voz usada para expresar dolor",
+              "answer": "AY"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Iniciales en el asunto del email, al ser una respuesta",
+              "answer": "RE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Afición o inclinación hacia alguien o algo (pl)",
+              "answer": "APEGOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hice lo que prometí",
+              "answer": "CUMPLI"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "He intercedido por el jurista",
+              "answer": "ABOGADO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Pieza teatral de la antigua Roma, popular, cómico y burda",
+              "answer": "ATELANA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Labranza, en especial la de las tierras que se siembran",
+              "answer": "LABOR"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"… a …\" visita privada de un reo",
+              "answer": "VIS"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Antecedente necesario para llegar al conocimiento exacto de algo (pl)",
+              "answer": "DATOS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Asigné algo a alguien como de su competencia",
+              "answer": "ATRIBUI"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "El cítrico está desequilibrado, por eso lo juzgo",
+              "answer": "CRITICO"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Rígido, duro",
+              "answer": "TIESO"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Pequeño Estado",
+              "answer": "EDO"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Se mira el nevus frente al espejo",
+              "answer": "RANUL"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Edición Editorial\"",
+              "answer": "ED"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Informática Comando que copia textos (2 teclas)",
+              "answer": "CTRLC"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Lo leyó sin mí",
+              "answer": "LE"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Se curará",
+              "answer": "SANARA"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Tela de tejido acordonado para vestidos de mujer",
+              "answer": "OTOMAN"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Primer canal de Tv en brindar noticias las 24 horas",
+              "answer": "CNN"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "El amigo de Amílcar",
+              "answer": "AMI"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Tiempos pasados",
+              "answer": "EPOCAS"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "El quipo no marcó gol, pero tampoco le hicieron",
+              "answer": "EMPATO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "El señor Silvio Rodríguez",
+              "answer": "SR"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Comienzo o principio de algo",
+              "answer": "ALBOR"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Frascos de vidrio para guardar pomadas",
+              "answer": "POMOS"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Esta era es un caos",
+              "answer": "AER"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "\"… Cartier Bresson \" el padre del periodismo fotográfico (1908",
+              "answer": "HENRI"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Hombre con buenas facultades intelectuales y morales",
+              "answer": "EDUCADO"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "He recurrido, ante el juez",
+              "answer": "APELADO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Empaparse por calor",
+              "answer": "SUDAR"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Yunque de platero",
+              "answer": "TAS"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Ciudad suiza sede del Foro Económico Mundial",
+              "answer": "DAVOS"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Empapas con óleos",
+              "answer": "ACEITAS"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Zona sensible a la excitación sexual",
+              "answer": "EROGENA"
+            },
+            "65": {
+              "col": 1,
+              "row": 14,
+              "clue": "Practiqué antes de la presentación",
+              "answer": "ENSAYE"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Sustancia parecida al suero",
+              "answer": "SEROSA"
+            }
+          }
+        },
+        "vertical_clues": "1-Derrumbada, caída\r\n2-Que no tiene lo necesario para vivir dignamente\r\n3-No sabe compartir, ni preocuparse por los demás, es muy…\r\n4-\"Greta…\", actriz sueca (1905-1990)\r\n5-Un poco de odio\r\n6-Consejo obrero de trabajadores rusos\r\n7-Resina de un árbol para fabricar lacre negro\r\n8-Inic de la prota de 'Kill Bill' de Tarantino\r\n9-Mesurar, contar\r\n10-La fruta del mono\r\n11-El idioma de los exorcismos\r\n12-Luciano inyecta, introduce una idea o una sustancia\r\n13-Criado o mozo de un rufián en el antiguo Reino de Valencia\r\n15-Arrasen, arruinen, devasten\r\n23-Doctora\r\n26-Agota, extenúa\r\n27-Lo que más le gusta a los foodies\r\n30-Oenegé organizada por ingleses\r\n31-Un cable con 3 puntas no es inteligente\r\n33-Director de la peli \"El joven manos de tijeras\" (1990) \r\n34-El deporte de la UFC\r\n37-Sustancia que tiene mucha densidad\r\n38-Genera, origina\r\n39-Os dais de frente\r\n40-Poco obediente\r\n42-Parte del mar, que dista mucho de la tierra\r\n43-Mujer que suele retrasarse\r\n44-Oh, Dios, que mujer tan detestable\r\n47-Padre del Taoísmo (2p) \r\n48-Hicieses oración a Dios\r\n51-Cambien el pelo o la piel\r\n52-Serie de sucesos que se devuelven por la parte trasera\r\n54-Hediondez, pestilencia\r\n55-Barcos, naos\r\n62-Voz usada para expresar dolor\r\n64-Iniciales en el asunto del email, al ser una respuesta\r\n",
+        "horizontal_clues": "1-Afición o inclinación hacia alguien o algo (pl)\r\n7-Hice lo que prometí\r\n13-He intercedido por el jurista\r\n14-Pieza teatral de la antigua Roma, popular, cómico y burda\r\n16-Labranza, en especial la de las tierras que se siembran\r\n17-\"… a …\" visita privada de un reo\r\n18-Antecedente necesario para llegar al conocimiento exacto de algo (pl)\r\n19-Asigné algo a alguien como de su competencia\r\n20-El cítrico está desequilibrado, por eso lo juzgo\r\n21-Rígido, duro\r\n22-Pequeño Estado\r\n24-Se mira el nevus frente al espejo\r\n25-\"Edición Editorial\" \r\n26-Informática Comando que copia textos (2 teclas)\r\n28-Lo leyó sin mí\r\n29-Se curará\r\n32-Tela de tejido acordonado para vestidos de mujer\r\n35-Primer canal de Tv en brindar noticias las 24 horas\r\n36-El amigo de Amílcar\r\n37-Tiempos pasados\r\n41-El quipo no marcó gol, pero tampoco le hicieron\r\n45-El señor Silvio Rodríguez\r\n46-Comienzo o principio de algo\r\n49-Dominio web para Andorra\r\n50-Frascos de vidrio para guardar pomadas\r\n53-Esta era es un caos\r\n54-\"… Cartier Bresson \" el padre del periodismo fotográfico (1908-2004)\r\n56-Hombre con buenas facultades intelectuales y morales\r\n57-He recurrido, ante el juez\r\n58-Empaparse por calor\r\n59-Yunque de platero\r\n60-Ciudad suiza sede del Foro Económico Mundial \r\n61-Empapas con óleos\r\n63-Zona sensible a la excitación sexual\r\n65-Practiqué antes de la presentación\r\n66-Sustancia parecida al suero\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,#,#,18,#,#,#,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,#,22,23,#,#,24,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,#,#,28,#\r\n29,#,30,#,31,#,#,#,#,32,33,#,34,#,#\r\n#,#,#,#,35,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,39,#,#,#,40,#,41,#,42,#,43,44\r\n45,#,#,#,#,46,47,#,48,#,#,#,#,49,#\r\n50,#,51,#,52,#,53,#,#,#,54,#,55,#,#\r\n56,#,#,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,59,#,#,#,60,#,#,#,#\r\n61,#,#,#,#,62,#,#,63,64,#,#,#,#,#\r\n#,65,#,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

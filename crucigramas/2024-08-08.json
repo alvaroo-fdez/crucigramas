@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 702,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-07T22:32:47.122531Z",
+      "updatedAt": "2024-08-07T22:32:47.122549Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-08",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "H#MATAHARI#BAJA\r\nAHI#ASILO#PENO#\r\nLUNATICOS#ALTEA\r\nLLAMA#EYACULA#M\r\n#ASUMA###ALARMA\r\nG##LIBELULA#TEZ\r\nOTEE#ACCRA#FITO\r\nNEXT#RH#BB#ECAN\r\nORTO#CAVAR#MOLA\r\nRME#CARENERO##S\r\nRONCAR###SERUM#\r\nE#SABANAS#CAVES\r\nAGITE#ANABOLENA\r\n#LOES#CUNAS#REP\r\nTUNA#DIATRIBA#O",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Vestíbulo, recibidor.",
+              "answer": "HALL"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Criaderos de minerales de útil explotación.",
+              "answer": "MINAS"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Tapiz acolchado sobre el que se ejecuta el kárate.",
+              "answer": "TATAMI"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "De esta o de esa manera.",
+              "answer": "ASI"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Ejecuté, realicé.",
+              "answer": "HICE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "La prota del videojuego 'Horizon Forbidden West'.",
+              "answer": "ALOY"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"El ruiseñor y la…\", cuento de Oscar Wilde.",
+              "answer": "ROSA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "La princesa de la Bestia.",
+              "answer": "BELLA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "El océano austral, el...",
+              "answer": "ANTARTICO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"G.I...\", muñecos militares enfocados a los niños.",
+              "answer": "JOE"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Danza hawaiana con un aro balanceado por las caderas.",
+              "answer": "HULA"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Nombre femenino de origen latino que significa \"pequeña\".",
+              "answer": "PAULA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Una especie de talismán protector.",
+              "answer": "AMULETO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Río más largo y caudaloso del mundo.",
+              "answer": "AMAZONAS"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Un vino con DO de Calabria.",
+              "answer": "CALABRES"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Comprenderá, contendrá, alcanzará.",
+              "answer": "ABARCARA"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Material conductor de calor y electricidad.",
+              "answer": "METAL"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Infección de transmisión sexual.",
+              "answer": "GONORREA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Hacer salir a alguien con violencia de algún lugar.",
+              "answer": "ECHAR"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "¡Loco, cierra los ojos!.",
+              "answer": "LC"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Urbano en inglés.",
+              "answer": "URBAN"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Tuve temor en el metro por mi botella de Dewar.",
+              "answer": "TERMO"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Ampliación, prolongación.",
+              "answer": "EXTENSION"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Gran arteria del muslo.",
+              "answer": "FEMORAL"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Observa como empieza la vejez.",
+              "answer": "VE"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Hay espacio para ti.",
+              "answer": "CABES"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Volví a coser.",
+              "answer": "RECOSI"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Revisa la casa de alguien en busca de pistas.",
+              "answer": "CATEA"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Mujer que vende uvas.",
+              "answer": "UVERA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Manantial natural de petróleo.",
+              "answer": "MENE"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Salí del vientre materno.",
+              "answer": "NACI"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Anual.",
+              "answer": "ANUA"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "No llega ni a santo.",
+              "answer": "SANT"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "\"Ojos de..., patas de rana, que tengas suerte el fin de semana\".",
+              "answer": "SAPO"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Onomatopeya de una burbuja de agua.",
+              "answer": "GLU"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "\"... visite nuestro...\" Hombres G.",
+              "answer": "BAR"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Bailarina holandesa que fue espía de los alemanes en la 1GM.",
+              "answer": "MATAHARI"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Está enfermo y no puede trabajar, está de...",
+              "answer": "BAJA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Justo en ese lugar.",
+              "answer": "AHI"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Lugar privilegiado de refugio para los perseguidos.",
+              "answer": "ASILO"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Voy como un alma errante.",
+              "answer": "PENO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Estos dementes son de la luna.",
+              "answer": "LUNATICOS"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Ciudad alicantina conocida como 'La cúpula del Mediterráneo'.",
+              "answer": "ALTEA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Telefonea porque la malla está mala.",
+              "answer": "LLAMA"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Lanza con rapidez y fuerza el contenido del órgano masculino.",
+              "answer": "EYACULA"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Que se haga cargo.",
+              "answer": "ASUMA"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Mecanismo cuya función es avisar de un peligro.",
+              "answer": "ALARMA"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Insecto también conocido como caballito del diablo.",
+              "answer": "LIBELULA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Superficie del rostro humano.",
+              "answer": "TEZ"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Observé con cuidado desde un lugar alto.",
+              "answer": "OTEE"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Capital de la República de Ghana (voz inglesa).",
+              "answer": "ACCRA"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "\"... & Fitipaldis\", cantando 'Cada vez cadáver'.",
+              "answer": "FITO"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Próximo, siguiente en inglés.",
+              "answer": "NEXT"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Símbolo químico del Rodio.",
+              "answer": "RH"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Brigitte Bardot.",
+              "answer": "BB"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Viene al mundo al revés.",
+              "answer": "ECAN"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Salida del sol o de otro astro por el horizonte.",
+              "answer": "ORTO"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Levantar y mover la tierra con la azada.",
+              "answer": "CAVAR"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Es guay.",
+              "answer": "MOLA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Moverme por la derecha.",
+              "answer": "RME"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Marina. Sitio en que se reparan buques.",
+              "answer": "CARENERO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Gruñir mientras se duerme.",
+              "answer": "RONCAR"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Líquido antiarrugas.",
+              "answer": "SERUM"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Hábitat de los leones (pl).",
+              "answer": "SABANAS"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Ahondes, penetres.",
+              "answer": "CAVES"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Mueva con fuerza de un lado a otro.",
+              "answer": "AGITE"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Madre de la reina Isabel I de Inglaterra.",
+              "answer": "ANABOLENA"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Lo alabes.",
+              "answer": "LOES"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Donde duermen los bebés.",
+              "answer": "CUNAS"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Reporta las primeras.",
+              "answer": "REP"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Fruto del cactus candelabro.",
+              "answer": "TUNA"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Un discurso crítico y enérgico con una fuerte opinión.",
+              "answer": "DIATRIBA"
+            }
+          }
+        },
+        "vertical_clues": "1-Vestíbulo, recibidor.\r\n2-Criaderos de minerales de útil explotación.\r\n3-Tapiz acolchado sobre el que se ejecuta el kárate.\r\n4-De esta o de esa manera.\r\n5-Ejecuté, realicé.\r\n6-La prota del videojuego 'Horizon Forbidden West'. \r\n7-\"El ruiseñor y la…\", cuento de Oscar Wilde.\r\n8-La princesa de la Bestia.\r\n9-El océano austral, el...\r\n10-\"G.I...\", muñecos militares enfocados a los niños.\r\n12-Danza hawaiana con un aro balanceado por las caderas.\r\n14-Nombre femenino de origen latino que significa \"pequeña\".\r\n16-Una especie de talismán protector.\r\n18-Río más largo y caudaloso del mundo.\r\n21-Un vino con DO de Calabria.\r\n23-Comprenderá, contendrá, alcanzará.\r\n25-Material conductor de calor y electricidad.\r\n26-Infección de transmisión sexual.\r\n28-Hacer salir a alguien con violencia de algún lugar.\r\n29-¡Loco, cierra los ojos!. \r\n30-Urbano en inglés.\r\n33-Tuve temor en el metro por mi botella de Dewar.\r\n34-Ampliación, prolongación.\r\n36-Gran arteria del muslo.\r\n43-Observa como empieza la vejez.\r\n46-Hay espacio para ti.\r\n47-Volví a coser.\r\n49-Revisa la casa de alguien en busca de pistas.\r\n51-Mujer que vende uvas.\r\n52-Manantial natural de petróleo.\r\n54-Salí del vientre materno.\r\n55-Anual.\r\n56-No llega ni a santo.\r\n58-\"Ojos de..., patas de rana, que tengas suerte el fin de semana\".\r\n60-Onomatopeya de una burbuja de agua.\r\n62-\"... visite nuestro...\" Hombres G.",
+        "horizontal_clues": "2-Bailarina holandesa que fue espía de los alemanes en la 1GM.\r\n8-Está enfermo y no puede trabajar, está de...\r\n11-Justo en ese lugar.\r\n13-Lugar privilegiado de refugio para los perseguidos.\r\n14-Voy como un alma errante.\r\n15-Estos dementes son de la luna.\r\n17-Ciudad alicantina conocida como 'La cúpula del Mediterráneo'. \r\n19-Telefonea porque la malla está mala.\r\n20-Lanza con rapidez y fuerza el contenido del órgano masculino.\r\n22-Que se haga cargo.\r\n24-Mecanismo cuya función es avisar de un peligro.\r\n27-Insecto también conocido como caballito del diablo.\r\n31-Superficie del rostro humano.\r\n32-Observé con cuidado desde un lugar alto.\r\n35-Capital de la República de Ghana (voz inglesa).\r\n36-\"... & Fitipaldis\", cantando 'Cada vez cadáver'.\r\n37-Próximo, siguiente en inglés.\r\n38-Símbolo químico del Rodio.\r\n39-Brigitte Bardot.\r\n40-Viene al mundo al revés.\r\n41-Salida del sol o de otro astro por el horizonte.\r\n42-Levantar y mover la tierra con la azada.\r\n44-Es guay.\r\n45-Moverme por la derecha.\r\n46-Marina. Sitio en que se reparan buques.\r\n48-Gruñir mientras se duerme.\r\n50-Líquido antiarrugas.\r\n53-Hábitat de los leones (pl).\r\n57-Ahondes, penetres.\r\n59-Mueva con fuerza de un lado a otro.\r\n61-Madre de la reina Isabel I de Inglaterra. \r\n63-Lo alabes.\r\n64-Donde duermen los bebés.\r\n65-Reporta las primeras.\r\n66-Fruto del cactus candelabro.\r\n67-Un discurso crítico y enérgico con una fuerte opinión.",
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

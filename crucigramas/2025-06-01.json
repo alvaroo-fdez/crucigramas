@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 2486,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-05-31T16:41:58.174345Z",
+      "updatedAt": "2025-05-31T16:41:58.254284Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-01",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ARNOLD#TROMPADA\r\nPEONIA#ENVIADA#\r\nALBERT#X#ACNE#A\r\nGIL#AORTA#OTROS\r\nOGEN#SUITE#YESO\r\nNASAL#GLERA#ZUM\r\n###NACO#AIREADO\r\nPRESTO###CLOROS\r\nLICUADO#LEON###\r\nAMO#MOCHO#SEPAS\r\nGANO#SHARK#SEDA\r\nINOPE#OBOES#LUX\r\nO#MEMO#L#NOVENO\r\n#CORISTA#IMELAS\r\nINSERTAR#AURERO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Interrupción pasajera del suministro de energía eléctrica",
+              "answer": "APAGON"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Porción de metal que se añade en una liga",
+              "answer": "RELIGA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Descendientes de la aristocracia",
+              "answer": "NOBLES"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "El número uno en Inglaterra",
+              "answer": "ONE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Antes del euro, en Italia",
+              "answer": "LIRA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Antecedente necesario para llegar al conocimiento exacto de algo (pl)",
+              "answer": "DATOS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Área de la economía dedicada a las telas, fibras e hilos",
+              "answer": "TEXTIL"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Pone huevos",
+              "answer": "OVA"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mono de cola larga",
+              "answer": "MICO"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Similar al leotardo, pero más fina y elástica",
+              "answer": "PANTY"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Condimentar o sazonar alimentos",
+              "answer": "ADEREZAR"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Sí, en ruso",
+              "answer": "DA"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Indicios o señales leves",
+              "answer": "ASOMOS"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Arrugo, pliego",
+              "answer": "RUGO"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "No creyente, ella",
+              "answer": "ATEA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Huesudo, con mucho hueso",
+              "answer": "OSUDO"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "Tela fina de algodón usada para confeccionar pañuelos, ropa interior o blusas",
+              "answer": "NANSU"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Ponga rígido el pelo de la piel",
+              "answer": "ERICE"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "El buen tamal está en Latinoamérica",
+              "answer": "LATAM"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Carlos perdió su capital",
+              "answer": "ARLOS"
+            },
+            "36": {
+              "col": 5,
+              "row": 6,
+              "clue": "Es mala educación ponerlos en la mesa",
+              "answer": "CODOS"
+            },
+            "38": {
+              "col": 11,
+              "row": 6,
+              "clue": "2000 millones de años = 2…",
+              "answer": "EONES"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Hurto literario o artístico",
+              "answer": "PLAGIO"
+            },
+            "40": {
+              "col": 1,
+              "row": 7,
+              "clue": "Hacen versos",
+              "answer": "RIMAN"
+            },
+            "41": {
+              "col": 2,
+              "row": 7,
+              "clue": "Administrador de los bienes del demente o del pródigo (pl)",
+              "answer": "ECONOMOS"
+            },
+            "44": {
+              "col": 6,
+              "row": 8,
+              "clue": "Número de planetas de nuestro sistema solar",
+              "answer": "OCHO"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "Ave parlanchina",
+              "answer": "LORO"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "\"Tenemos que…\" el inicio de un ultimátum",
+              "answer": "HABLAR"
+            },
+            "50": {
+              "col": 12,
+              "row": 9,
+              "clue": "Persona que se deja manejar por los demás muy fácilmente",
+              "answer": "PELELE"
+            },
+            "51": {
+              "col": 13,
+              "row": 9,
+              "clue": "Unir, juntar, congregar",
+              "answer": "ADUNAR"
+            },
+            "52": {
+              "col": 14,
+              "row": 9,
+              "clue": "DesusoTerreno pedregoso",
+              "answer": "SAXOSO"
+            },
+            "54": {
+              "col": 3,
+              "row": 10,
+              "clue": "Me hice una cirugía",
+              "answer": "OPERE"
+            },
+            "56": {
+              "col": 9,
+              "row": 10,
+              "clue": "País cuya capital es Nairobi",
+              "answer": "KENIA"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "Príncipe árabe",
+              "answer": "EMIR"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Sistema Online de Mensajería Urgente",
+              "answer": "SOMU"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Poco ostentoso",
+              "answer": "OST"
+            },
+            "66": {
+              "col": 11,
+              "row": 12,
+              "clue": "Percibir con los ojos",
+              "answer": "VER"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "Inic del prota de \"Walker, Texas Ranger\"",
+              "answer": "CN"
+            },
+            "68": {
+              "col": 6,
+              "row": 13,
+              "clue": "Tantalio",
+              "answer": "TA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Schwarzenegger",
+              "answer": "ARNOLD"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Golpe fuerte, trompazo",
+              "answer": "TROMPADA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Obra que un peón puede hacer en un día",
+              "answer": "PEONIA"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Evadían sin control a la que traía el mensaje",
+              "answer": "ENVIADA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"… Hofmann\" químico suizo que sintetizó el LSD",
+              "answer": "ALBERT"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "Enfermedad de la piel",
+              "answer": "ACNE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Acortamiento de Gilberto",
+              "answer": "GIL"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Mayor arteria del cuerpo",
+              "answer": "AORTA"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"Los…\", peli de Amenábar, protagonizada por Nicole Kidman",
+              "answer": "OTROS"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ojos en neerlandés",
+              "answer": "OGEN"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Habitación lujosa de un hotel",
+              "answer": "SUITE"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Material blanco, usado en construcción",
+              "answer": "YESO"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Bloqueo del paso del aire por la nariz, obstrucción…",
+              "answer": "NASAL"
+            },
+            "32": {
+              "col": 6,
+              "row": 5,
+              "clue": "Gran terreno arenoso",
+              "answer": "GLERA"
+            },
+            "34": {
+              "col": 12,
+              "row": 5,
+              "clue": "Teleobjetivo de distancia focal variable",
+              "answer": "ZUM"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "Andullo de tabaco",
+              "answer": "NACO"
+            },
+            "37": {
+              "col": 8,
+              "row": 6,
+              "clue": "Ventilado",
+              "answer": "AIREADO"
+            },
+            "39": {
+              "col": 0,
+              "row": 7,
+              "clue": "Veloz sin perder el ritmo",
+              "answer": "PRESTO"
+            },
+            "42": {
+              "col": 9,
+              "row": 7,
+              "clue": "Lejías",
+              "answer": "CLOROS"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Transformación de alimentos sólidos en una bebida espesa",
+              "answer": "LICUADO"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "Rey de la sabana",
+              "answer": "LEON"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dueño de esclavos",
+              "answer": "AMO"
+            },
+            "47": {
+              "col": 4,
+              "row": 9,
+              "clue": "La fregona, coleto, trapeador, mopa",
+              "answer": "MOCHO"
+            },
+            "49": {
+              "col": 10,
+              "row": 9,
+              "clue": "Que pases por las pesas y así te enteres",
+              "answer": "SEPAS"
+            },
+            "53": {
+              "col": 0,
+              "row": 10,
+              "clue": "Triunfo porque cobro bien",
+              "answer": "GANO"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Tiburón en inglés",
+              "answer": "SHARK"
+            },
+            "57": {
+              "col": 11,
+              "row": 10,
+              "clue": "Fibra textil con su propia ruta de comercio internacional",
+              "answer": "SEDA"
+            },
+            "58": {
+              "col": 0,
+              "row": 11,
+              "clue": "Pobre, indigente",
+              "answer": "INOPE"
+            },
+            "60": {
+              "col": 6,
+              "row": 11,
+              "clue": "Los instrumentos del obeso están desafinados",
+              "answer": "OBOES"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "Unidad de iluminancia del Sistema Internacional",
+              "answer": "LUX"
+            },
+            "63": {
+              "col": 2,
+              "row": 12,
+              "clue": "Tonto, simple, mentecato",
+              "answer": "MEMO"
+            },
+            "65": {
+              "col": 9,
+              "row": 12,
+              "clue": "Ordinal de este mandamiento: \"No consentirás pensamientos ni deseos impuros\"",
+              "answer": "NOVENO"
+            },
+            "67": {
+              "col": 1,
+              "row": 13,
+              "clue": "La cantante del coro",
+              "answer": "CORISTA"
+            },
+            "69": {
+              "col": 9,
+              "row": 13,
+              "clue": "Fenómeno fonético árabe donde la \"a\" se pronuncia como \"e\" o \"i\" (pl)",
+              "answer": "IMELAS"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Agregar, texto o imágenes en un documento digital",
+              "answer": "INSERTAR"
+            },
+            "71": {
+              "col": 9,
+              "row": 14,
+              "clue": "Cuba Lugar donde se reúnen muchas auras",
+              "answer": "AURERO"
+            }
+          }
+        },
+        "vertical_clues": "1-Interrupción pasajera del suministro de energía eléctrica\r\n2-Porción de metal que se añade en una liga\r\n3-Descendientes de la aristocracia\r\n4-El número uno en Inglaterra\r\n5-Antes del euro, en Italia\r\n6-Antecedente necesario para llegar al conocimiento exacto de algo (pl)\r\n7-Área de la economía dedicada a las telas, fibras e hilos\r\n8-Símbolo químico del Radón\r\n9-Pone huevos\r\n10-Mono de cola larga\r\n11-Similar al leotardo, pero más fina y elástica\r\n12-Condimentar o sazonar alimentos \r\n13-Sí, en ruso\r\n18-Indicios o señales leves\r\n21-Arrugo, pliego\r\n22-No creyente, ella\r\n24-Huesudo, con mucho hueso\r\n26-Tela fina de algodón usada para confeccionar pañuelos, ropa interior o blusas\r\n28-Ponga rígido el pelo de la piel\r\n31-El buen tamal está en Latinoamérica\r\n33-Carlos perdió su capital\r\n36-Es mala educación ponerlos en la mesa\r\n38-2000 millones de años = 2…\r\n39-Hurto literario o artístico\r\n40-Hacen versos\r\n41-Administrador de los bienes del demente o del pródigo (pl)\r\n44-Número de planetas de nuestro sistema solar\r\n45-Ave parlanchina\r\n48-\"Tenemos que…\" el inicio de un ultimátum\r\n50-Persona que se deja manejar por los demás muy fácilmente\r\n51-Unir, juntar, congregar\r\n52-DesusoTerreno pedregoso\r\n54-Me hice una cirugía\r\n56-País cuya capital es Nairobi\r\n59-Príncipe árabe\r\n61-Sistema Online de Mensajería Urgente\r\n64-Poco ostentoso\r\n66-Percibir con los ojos\r\n67-Inic del prota de \"Walker, Texas Ranger\"\r\n68-Tantalio\r\n",
+        "horizontal_clues": "1-Schwarzenegger\r\n7-Golpe fuerte, trompazo\r\n14-Obra que un peón puede hacer en un día\r\n15-Evadían sin control a la que traía el mensaje\r\n16-\"… Hofmann\" químico suizo que sintetizó el LSD\r\n17-Enfermedad de la piel\r\n19-Acortamiento de Gilberto\r\n20-Mayor arteria del cuerpo\r\n23-\"Los…\", peli de Amenábar, protagonizada por Nicole Kidman\r\n25-Ojos en neerlandés\r\n27-Habitación lujosa de un hotel\r\n29-Material blanco, usado en construcción\r\n30-Bloqueo del paso del aire por la nariz, obstrucción…\r\n32-Gran terreno arenoso\r\n34-Teleobjetivo de distancia focal variable\r\n35-Andullo de tabaco\r\n37-Ventilado\r\n39-Veloz sin perder el ritmo\r\n42-Lejías\r\n43-Transformación de alimentos sólidos en una bebida espesa\r\n45-Rey de la sabana\r\n46-Dueño de esclavos\r\n47-La fregona, coleto, trapeador, mopa\r\n49-Que pases por las pesas y así te enteres\r\n53-Triunfo porque cobro bien\r\n55-Tiburón en inglés\r\n57-Fibra textil con su propia ruta de comercio internacional\r\n58-Pobre, indigente\r\n60-Los instrumentos del obeso están desafinados\r\n62-Unidad de iluminancia del Sistema Internacional\r\n63-Tonto, simple, mentecato\r\n65-Ordinal de este mandamiento: \"No consentirás pensamientos ni deseos impuros\"\r\n67-La cantante del coro\r\n69-Fenómeno fonético árabe donde la \"a\" se pronuncia como \"e\" o \"i\" (pl)\r\n70-Agregar, texto o imágenes en un documento digital\r\n71-Cuba Lugar donde se reúnen muchas auras\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,10,11,12,13,#\r\n14,#,#,#,#,#,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,17,#,#,#,#,18\r\n19,#,#,#,20,#,21,#,22,#,23,#,#,24,#\r\n25,#,#,26,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,#,31,#,32,#,#,#,33,#,34,#,#\r\n#,#,#,35,#,36,#,#,37,#,#,38,#,#,#\r\n39,40,41,#,#,#,#,#,#,42,#,#,#,#,#\r\n43,#,#,#,#,#,44,#,45,#,#,#,#,#,#\r\n46,#,#,#,47,#,#,48,#,#,49,#,50,51,52\r\n53,#,#,54,#,55,#,#,#,56,#,57,#,#,#\r\n58,#,#,#,59,#,60,#,#,#,61,#,62,#,#\r\n#,#,63,#,#,64,#,#,#,65,#,66,#,#,#\r\n#,67,#,#,#,#,68,#,#,69,#,#,#,#,#\r\n70,#,#,#,#,#,#,#,#,71,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

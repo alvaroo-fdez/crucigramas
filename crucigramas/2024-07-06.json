@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 543,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-04T12:31:39.892755Z",
+      "updatedAt": "2024-07-04T12:31:39.892778Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-06",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DECLAMAR#PADDLE\r\nI#NIÑOS#VENIA#S\r\nSR#BONG#USOS#HT\r\nPUBERTAD#ARTHUR\r\nAPALEARIA#MOUSE\r\nRIJO#RDS#PACMAN\r\n#AE#B##T#OLIERA\r\nA##BASEAEREA##R\r\nRABINO#N##S#XP#\r\nCLIMAX#COP#MERO\r\nABREN#PICAPINOS\r\nDIOSES#AUTOMATA\r\nIN#TRIE#PATA#AD\r\nC#DROGA#ACUDO#I\r\nOBSESO#ANASARCA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Disímil, disparejo.",
+              "answer": "DISPAR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic. del prota de \"Walker, Texas Ranger\".",
+              "answer": "CN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Escrito en el que se difama a alguien.",
+              "answer": "LIBELO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Recordé con nostalgia.",
+              "answer": "AÑORE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cabalgar un caballo.",
+              "answer": "MONTAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "El mundo de los dioses nórdicos, gobernado por Odín.",
+              "answer": "ASGARD"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Aparato usado para medir la masa de un cuerpo.",
+              "answer": "PESA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Los raros, a Norma le serían confusos.",
+              "answer": "ANORMALES"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Med. Situación difícil y complicada del parto que requiere intervención.",
+              "answer": "DISTOCIA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Sí, en ruso.",
+              "answer": "DA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Mostrar algo por primera vez.",
+              "answer": "ESTRENAR"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Dominio web para Vanuatu.",
+              "answer": "VU"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Moneda usada en la India.",
+              "answer": "RUPIA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Soldado de caballería vestido a la húngara.",
+              "answer": "HUSAR"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Adelgacé, disminuí mi peso.",
+              "answer": "BAJE"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Espacio entre dos puntos.",
+              "answer": "DISTANCIA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "\"David...\" importante filósofo escocés.",
+              "answer": "HUME"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Denota multiplicación de números.",
+              "answer": "POR"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Países dependientes de compañías compradoras de plátanos.",
+              "answer": "BANANEROS"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Relativo a la poesía pastoril idealizada.",
+              "answer": "ARCADICO"
+            },
+            "33": {
+              "col": 3,
+              "row": 7,
+              "clue": "2 meses.",
+              "answer": "BIMESTRE"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Medias en inglés.",
+              "answer": "SOX"
+            },
+            "36": {
+              "col": 1,
+              "row": 8,
+              "clue": "Pintura. Carmesí oscuro sacado de la hematites.",
+              "answer": "ALBIN"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"Ladislao...\" periodista húngaro",
+              "answer": "BIRO"
+            },
+            "38": {
+              "col": 12,
+              "row": 8,
+              "clue": "\"La princesa guerrera\" serie de televisión (1995).",
+              "answer": "XENA"
+            },
+            "39": {
+              "col": 13,
+              "row": 8,
+              "clue": "Acortamiento de un protagonista.",
+              "answer": "PROTA"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Llenan un espacio o lugar.",
+              "answer": "OCUPAN"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Tubérculo comestible similar a la papa.",
+              "answer": "PATACA"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "Di mamá y serás mi niña consentida.",
+              "answer": "MIMADA"
+            },
+            "45": {
+              "col": 14,
+              "row": 9,
+              "clue": "Audacia, resolución, intrepidez.",
+              "answer": "OSADIA"
+            },
+            "48": {
+              "col": 10,
+              "row": 10,
+              "clue": "Planta ideal para interiores, trepadora y con hojas acorazonadas.",
+              "answer": "POTUS"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Continúo, ando.",
+              "answer": "SIGO"
+            },
+            "54": {
+              "col": 6,
+              "row": 12,
+              "clue": "Las dos letras más utilizadas en el idioma español.",
+              "answer": "EA"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "Donna Summer.",
+              "answer": "DS"
+            },
+            "59": {
+              "col": 12,
+              "row": 13,
+              "clue": "Medio orbe.",
+              "answer": "OR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Arte de recitar con énfasis y expresividad.",
+              "answer": "DECLAMAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Deporte. En español es surf de remo.",
+              "answer": "PADDLE"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "\"Que canten los... que viven en paz / y aquellos que sufren dolor\" J.L. Perales.",
+              "answer": "NIÑOS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Veían en Viena que él se acercaba.",
+              "answer": "VENIA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Abreviatura de Señor.",
+              "answer": "SR"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Pipa de agua.",
+              "answer": "BONG"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Costumbres o hábitos.",
+              "answer": "USOS"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dominio web para Haití.",
+              "answer": "HT"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Etapa de cambios físicos en la adolescencia.",
+              "answer": "PUBERTAD"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "\"...Schopenhauer\" representante del pesimismo filosófico.",
+              "answer": "ARTHUR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Le caería a palos, lo...",
+              "answer": "APALEARIA"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"Mickey...\" de Disney.",
+              "answer": "MOUSE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Guío, gobierno, mando.",
+              "answer": "RIJO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Siglas en inglés de sistema de radiodifusión de datos.",
+              "answer": "RDS"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Famoso personaje de videojuegos inspirado en una pizza.",
+              "answer": "PACMAN"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Iniciales de físico de la Teoría de la Relatividad General.",
+              "answer": "AE"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Vaso en que se guarda el santo óleo o el crisma.",
+              "answer": "OLIERA"
+            },
+            "33": {
+              "col": 3,
+              "row": 7,
+              "clue": "Aeropuerto militar (2 palabras).",
+              "answer": "BASEAEREA"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Maestro hebreo que interpreta los textos sagrados.",
+              "answer": "RABINO"
+            },
+            "38": {
+              "col": 12,
+              "row": 8,
+              "clue": "Sistema operativo de Microsoft lanzado en 2001.",
+              "answer": "XP"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Punto máximo de la excitación sexual.",
+              "answer": "CLIMAX"
+            },
+            "41": {
+              "col": 7,
+              "row": 9,
+              "clue": "Un policía gringo.",
+              "answer": "COP"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "Pescado muy cotizado por su carne delicada.",
+              "answer": "MERO"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Destapan.",
+              "answer": "ABREN"
+            },
+            "47": {
+              "col": 6,
+              "row": 10,
+              "clue": "Ave trepadora de pico fuerte.",
+              "answer": "PICAPINOS"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lo son Odín, Zeus, Ixchel, Ra, Inti.",
+              "answer": "DIOSES"
+            },
+            "51": {
+              "col": 7,
+              "row": 11,
+              "clue": "Máquina que imita acciones humanas.",
+              "answer": "AUTOMATA"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Abreviatura de India en el deporte.",
+              "answer": "IN"
+            },
+            "53": {
+              "col": 3,
+              "row": 12,
+              "clue": "Abeja: Entre y salga de una colmena muy poblada.",
+              "answer": "TRIE"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "Esta va a ser de jamón.",
+              "answer": "PATA"
+            },
+            "56": {
+              "col": 13,
+              "row": 12,
+              "clue": "Anno Domini.",
+              "answer": "AD"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "Lo es la cocaína o la heroína.",
+              "answer": "DROGA"
+            },
+            "58": {
+              "col": 8,
+              "row": 13,
+              "clue": "Atiendo al llamado, voy.",
+              "answer": "ACUDO"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Perturbado por una idea fija.",
+              "answer": "OBSESO"
+            },
+            "61": {
+              "col": 7,
+              "row": 14,
+              "clue": "Med. Edema generalizado.",
+              "answer": "ANASARCA"
+            }
+          }
+        },
+        "vertical_clues": "1-Disímil, disparejo.\r\n2-Inic. del prota de \"Walker, Texas Ranger\".\r\n3-Escrito en el que se difama a alguien.\r\n4-Recordé con nostalgia.\r\n5-Cabalgar un caballo.\r\n6-El mundo de los dioses nórdicos, gobernado por Odín.\r\n7-Aparato usado para medir la masa de un cuerpo.\r\n8-Los raros, a Norma le serían confusos.\r\n9-Med. Situación difícil y complicada del parto que requiere intervención.\r\n10-Sí, en ruso.\r\n11-Mostrar algo por primera vez.\r\n13-Dominio web para Vanuatu.\r\n15-Moneda usada en la India.\r\n18-Soldado de caballería vestido a la húngara.\r\n20-Adelgacé, disminuí mi peso.\r\n21-Espacio entre dos puntos. \r\n23-\"David...\" importante filósofo escocés.\r\n28-Denota multiplicación de números.\r\n30-Países dependientes de compañías compradoras de plátanos.\r\n32-Relativo a la poesía pastoril idealizada. \r\n33-2 meses.\r\n34-Medias en inglés.\r\n36-Pintura. Carmesí oscuro sacado de la hematites.\r\n37-\"Ladislao...\" periodista húngaro-argentino, inventor del bolígrafo. \r\n38-\"La princesa guerrera\" serie de televisión (1995).\r\n39-Acortamiento de un protagonista.\r\n42-Llenan un espacio o lugar. \r\n43-Tubérculo comestible similar a la papa. \r\n44-Di mamá y serás mi niña consentida.\r\n45-Audacia, resolución, intrepidez.\r\n48-Planta ideal para interiores, trepadora y con hojas acorazonadas.\r\n50-Continúo, ando.\r\n54-Las dos letras más utilizadas en el idioma español.\r\n57-Donna Summer.\r\n59-Medio orbe.",
+        "horizontal_clues": "1-Arte de recitar con énfasis y expresividad. \r\n7-Deporte. En español es surf de remo.\r\n12-\"Que canten los... que viven en paz / y aquellos que sufren dolor\" J.L. Perales.\r\n13-Veían en Viena que él se acercaba.\r\n14-Abreviatura de Señor.\r\n16-Pipa de agua.\r\n17-Costumbres o hábitos.\r\n18-Dominio web para Haití.\r\n19-Etapa de cambios físicos en la adolescencia. \r\n22-\"...Schopenhauer\" representante del pesimismo filosófico.\r\n24-Le caería a palos, lo...\r\n25-\"Mickey...\" de Disney.\r\n26-Guío, gobierno, mando.\r\n27-Siglas en inglés de sistema de radiodifusión de datos.\r\n28-Famoso personaje de videojuegos inspirado en una pizza.\r\n29-Iniciales de físico de la Teoría de la Relatividad General.\r\n31-Vaso en que se guarda el santo óleo o el crisma.\r\n33-Aeropuerto militar (2 palabras).\r\n35-Maestro hebreo que interpreta los textos sagrados.\r\n38-Sistema operativo de Microsoft lanzado en 2001. \r\n40-Punto máximo de la excitación sexual.\r\n41-Un policía gringo.\r\n44-Pescado muy cotizado por su carne delicada.\r\n46-Destapan.\r\n47-Ave trepadora de pico fuerte. \r\n49-Lo son Odín, Zeus, Ixchel, Ra, Inti.\r\n51-Máquina que imita acciones humanas. \r\n52-Abreviatura de India en el deporte. \r\n53-Abeja: Entre y salga de una colmena muy poblada.\r\n55-Esta va a ser de jamón.\r\n56-Anno Domini.\r\n57-Lo es la cocaína o la heroína.\r\n58-Atiendo al llamado, voy.\r\n60-Perturbado por una idea fija.\r\n61-Med. Edema generalizado.",
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,16,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,20,#,#,#,#,21,#,22,#,#,23,#,#\r\n24,#,#,#,#,#,#,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,#,#,#,#,#\r\n#,29,#,#,30,#,#,#,#,31,#,#,#,#,#\r\n32,#,#,33,#,34,#,#,#,#,#,#,#,#,#\r\n35,36,37,#,#,#,#,#,#,#,#,#,38,39,#\r\n40,#,#,#,#,#,#,41,42,43,#,44,#,#,45\r\n46,#,#,#,#,#,47,#,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,#,51,#,#,#,#,#,#,#\r\n52,#,#,53,#,#,54,#,55,#,#,#,#,56,#\r\n#,#,57,#,#,#,#,#,58,#,#,#,59,#,#\r\n60,#,#,#,#,#,#,61,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

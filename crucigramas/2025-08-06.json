@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 3105,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-04T12:24:19.140742Z",
+      "updatedAt": "2025-08-04T12:27:34.599810Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CASAS#IVAR#ASMA\r\nMUELE#NIDO#LIAS\r\nANTIS#MONTAIGNE\r\nCASCABEL#URANIO\r\n###AMADA##IRIAS\r\nPASTORI#GODOF##\r\nOCIE#BABILONICO\r\nSEN#TETANOS#CID\r\nESCLARECER#MANI\r\n##RAPAZ#COMARCA\r\nATOPE##COSER###\r\nBONITA#ALARIDOS\r\nEPICENTRO#ETICA\r\nCACE#DONG#CALAR\r\nEROS#ATEO#ILESA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Centro de Mediación, Conciliación y Arbitraje",
+              "answer": "CMAC"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "A una junta se asocia",
+              "answer": "AUNA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Platós cinematográficos o televisivos",
+              "answer": "SETS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tenaza pequeña de acero con brazos encorvados",
+              "answer": "ALICATE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pasta de nueces, almendras o piñones con ajonjolí",
+              "answer": "SESAMO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Cualidad de aquello que sucede al instante",
+              "answer": "INMEDIATEZ"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Entre el violín y violonchelo",
+              "answer": "VIOLA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Información genética",
+              "answer": "ADN"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Un rotulador pequeño",
+              "answer": "ROTU"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Unieron para un mismo fin",
+              "answer": "ALIARON"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tener importancia para alguien",
+              "answer": "SIGNIFICAR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Preocupación caprichosa y a veces extravagante por un tema o cosa determinados",
+              "answer": "MANIA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Los baños",
+              "answer": "ASEOS"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Terrenos infértiles",
+              "answer": "ARIDOS"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Mujer que por oficio afeita y compone barbas",
+              "answer": "BARBERA"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Postura poco natural",
+              "answer": "POSE"
+            },
+            "26": {
+              "col": 1,
+              "row": 5,
+              "clue": "Solo quedaron la mitad de sus secuaces",
+              "answer": "ACES"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Que ocurre al mismo tiempo que otro evento",
+              "answer": "SINCRONICO"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Médico especialista del aparato reproductor femenino",
+              "answer": "GINECOLOGO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Perfumada, fragante",
+              "answer": "OLOROSA"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "De bacalao y bacón",
+              "answer": "BAC"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Elemento químico esencial de número atómico 30",
+              "answer": "CINC"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Siente aversión",
+              "answer": "ODIA"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Cerré la infusión con una alfombra",
+              "answer": "TAPETE"
+            },
+            "39": {
+              "col": 3,
+              "row": 8,
+              "clue": "Instrumentos de grafito para escribir o dibujar",
+              "answer": "LAPICES"
+            },
+            "40": {
+              "col": 11,
+              "row": 8,
+              "clue": "Mari tal vez mezcle su problema de pareja",
+              "answer": "MARITAL"
+            },
+            "43": {
+              "col": 10,
+              "row": 9,
+              "clue": "Gané, recibí",
+              "answer": "MERECI"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Abecedario",
+              "answer": "ABECE"
+            },
+            "45": {
+              "col": 1,
+              "row": 10,
+              "clue": "Hallar a alguien casualmente",
+              "answer": "TOPAR"
+            },
+            "46": {
+              "col": 7,
+              "row": 10,
+              "clue": "No la comen los herbívoros",
+              "answer": "CARNE"
+            },
+            "48": {
+              "col": 5,
+              "row": 11,
+              "clue": "Camina por pasear",
+              "answer": "ANDA"
+            },
+            "50": {
+              "col": 12,
+              "row": 11,
+              "clue": "Exprésale, cuéntale",
+              "answer": "DILE"
+            },
+            "51": {
+              "col": 13,
+              "row": 11,
+              "clue": "Hazme caso, hay una cosa en el saco, parecen unos gansos",
+              "answer": "OCAS"
+            },
+            "52": {
+              "col": 14,
+              "row": 11,
+              "clue": "Esta se perdió en el sarao",
+              "answer": "SARA"
+            },
+            "54": {
+              "col": 6,
+              "row": 12,
+              "clue": "Dios egipcio de la sabiduría",
+              "answer": "TOT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Viviendas unifamiliares",
+              "answer": "CASAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Caudillo escandinavo con reputación de berserker, hijo de Ragnar Lodbrok",
+              "answer": "IVAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Enfermedad de los bronquios",
+              "answer": "ASMA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Me fatiga, me tritura, me…",
+              "answer": "MUELE"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Cuna aviar",
+              "answer": "NIDO"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Armas un alboroto, la…",
+              "answer": "LIAS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Prefijo que refiere una postura opuesta (pl)",
+              "answer": "ANTIS"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"Michel de…\" escritor francés, creador del género literario del ensayo",
+              "answer": "MONTAIGNE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "La campanita que se le pone al gato",
+              "answer": "CASCABEL"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Elemento químico metálico radiactivo",
+              "answer": "URANIO"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Estimada, querida",
+              "answer": "AMADA"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "¿Viajarías con una siria loca?",
+              "answer": "IRIAS"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Niña …\", cantautora de flamenco",
+              "answer": "PASTORI"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "\"… War\" el videojuego de Kratos (2p)",
+              "answer": "GODOF"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "No hice nada de nada",
+              "answer": "OCIE"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Relativo a un reino antiguo en la zona central",
+              "answer": "BABILONICO"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Arbusto oriental que sirve como purgante",
+              "answer": "SEN"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Se puede pillar esta enfermedad",
+              "answer": "TETANOS"
+            },
+            "37": {
+              "col": 12,
+              "row": 7,
+              "clue": "El Campeador",
+              "answer": "CID"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Iluminar, poner claro algo",
+              "answer": "ESCLARECER"
+            },
+            "40": {
+              "col": 11,
+              "row": 8,
+              "clue": "Cacahuete, fruto seco originario de Perú",
+              "answer": "MANI"
+            },
+            "41": {
+              "col": 2,
+              "row": 9,
+              "clue": "Inclinado o dado al robo, hurto o rapiña",
+              "answer": "RAPAZ"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Entidad administrativa",
+              "answer": "COMARCA"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Al máximo (2p)",
+              "answer": "ATOPE"
+            },
+            "46": {
+              "col": 7,
+              "row": 10,
+              "clue": "Zurcir, remendar",
+              "answer": "COSER"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"Playa …\", famosa en República Dominicana",
+              "answer": "BONITA"
+            },
+            "49": {
+              "col": 7,
+              "row": 11,
+              "clue": "Chillidos, aullidos, gritos",
+              "answer": "ALARIDOS"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Punto justo encima de donde se originó un fenómeno sísmico",
+              "answer": "EPICENTRO"
+            },
+            "55": {
+              "col": 10,
+              "row": 12,
+              "clue": "\"… para Amador\" ensayo de Fernando Savater",
+              "answer": "ETICA"
+            },
+            "56": {
+              "col": 0,
+              "row": 13,
+              "clue": "Persiga, acose",
+              "answer": "CACE"
+            },
+            "57": {
+              "col": 5,
+              "row": 13,
+              "clue": "Moneda de Vietnam",
+              "answer": "DONG"
+            },
+            "58": {
+              "col": 10,
+              "row": 13,
+              "clue": "Dicho de un líquido: Penetrar en un cuerpo permeable",
+              "answer": "CALAR"
+            },
+            "59": {
+              "col": 0,
+              "row": 14,
+              "clue": "Psicol Impulsos sexuales de la persona",
+              "answer": "EROS"
+            },
+            "60": {
+              "col": 5,
+              "row": 14,
+              "clue": "Hombre que vive sin temor a Dios",
+              "answer": "ATEO"
+            },
+            "61": {
+              "col": 10,
+              "row": 14,
+              "clue": "Aislé a Elisa y está intacta",
+              "answer": "ILESA"
+            }
+          }
+        },
+        "vertical_clues": "1-Centro de Mediación, Conciliación y Arbitraje\r\n2-A una junta se asocia\r\n3-Platós cinematográficos o televisivos\r\n4-Tenaza pequeña de acero con brazos encorvados\r\n5-Pasta de nueces, almendras o piñones con ajonjolí\r\n6-Cualidad de aquello que sucede al instante\r\n7-Entre el violín y violonchelo\r\n8-Información genética\r\n9-Un rotulador pequeño\r\n10-Unieron para un mismo fin\r\n11-Tener importancia para alguien\r\n12-Preocupación caprichosa y a veces extravagante por un tema o cosa determinados\r\n13-Los baños\r\n19-Terrenos infértiles\r\n21-Mujer que por oficio afeita y compone barbas\r\n25-Postura poco natural\r\n26-Solo quedaron la mitad de sus secuaces\r\n27-Que ocurre al mismo tiempo que otro evento \r\n28-Médico especialista del aparato reproductor femenino\r\n29-Perfumada, fragante\r\n32-De bacalao y bacón\r\n33-Elemento químico esencial de número atómico 30\r\n34-Siente aversión\r\n36-Cerré la infusión con una alfombra\r\n39-Instrumentos de grafito para escribir o dibujar\r\n40-Mari tal vez mezcle su problema de pareja\r\n43-Gané, recibí\r\n44-Abecedario\r\n45-Hallar a alguien casualmente\r\n46-No la comen los herbívoros\r\n48-Camina por pasear\r\n50-Exprésale, cuéntale\r\n51-Hazme caso, hay una cosa en el saco, parecen unos gansos\r\n52-Esta se perdió en el sarao\r\n54-Dios egipcio de la sabiduría",
+        "horizontal_clues": "1-Viviendas unifamiliares\r\n6-Caudillo escandinavo con reputación de berserker, hijo de Ragnar Lodbrok\r\n10-Enfermedad de los bronquios\r\n14-Me fatiga, me tritura, me…\r\n15-Cuna aviar\r\n16-Armas un alboroto, la…\r\n17-Prefijo que refiere una postura opuesta (pl)\r\n18-\"Michel de…\" escritor francés, creador del género literario del ensayo\r\n20-La campanita que se le pone al gato\r\n22-Elemento químico metálico radiactivo\r\n23-Estimada, querida\r\n24-¿Viajarías con una siria loca? \r\n25-\"Niña …\", cantautora de flamenco\r\n28-\"… War\" el videojuego de Kratos (2p)\r\n30-No hice nada de nada\r\n31-Relativo a un reino antiguo en la zona central-sur de Mesopotamia\r\n35-Arbusto oriental que sirve como purgante\r\n36-Se puede pillar esta enfermedad \r\n37-El Campeador\r\n38-Iluminar, poner claro algo\r\n40-Cacahuete, fruto seco originario de Perú\r\n41-Inclinado o dado al robo, hurto o rapiña\r\n42-Entidad administrativa\r\n44-Al máximo (2p)\r\n46-Zurcir, remendar\r\n47-\"Playa …\", famosa en República Dominicana\r\n49-Chillidos, aullidos, gritos\r\n53-Punto justo encima de donde se originó un fenómeno sísmico\r\n55-\"… para Amador\" ensayo de Fernando Savater\r\n56-Persiga, acose\r\n57-Moneda de Vietnam\r\n58-Dicho de un líquido: Penetrar en un cuerpo permeable\r\n59-Psicol Impulsos sexuales de la persona\r\n60-Hombre que vive sin temor a Dios\r\n61-Aislé a Elisa y está intacta",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,#,#,18,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,#,#,#,#\r\n#,#,#,23,#,#,#,#,#,#,24,#,#,#,#\r\n25,26,27,#,#,#,#,#,28,29,#,#,#,#,#\r\n30,#,#,#,#,31,#,32,#,#,#,#,#,33,34\r\n35,#,#,#,36,#,#,#,#,#,#,#,37,#,#\r\n38,#,#,39,#,#,#,#,#,#,#,40,#,#,#\r\n#,#,41,#,#,#,#,#,42,#,43,#,#,#,#\r\n44,45,#,#,#,#,#,46,#,#,#,#,#,#,#\r\n47,#,#,#,#,48,#,49,#,#,#,#,50,51,52\r\n53,#,#,#,#,#,54,#,#,#,55,#,#,#,#\r\n56,#,#,#,#,57,#,#,#,#,58,#,#,#,#\r\n59,#,#,#,#,60,#,#,#,#,61,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

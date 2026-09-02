@@ -1,0 +1,429 @@
+{
+  "data": {
+    "id": 306,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-28T14:14:30.978619Z",
+      "updatedAt": "2024-06-01T05:25:10.803197Z",
+      "level": null,
+      "creationDate": "2024-06-01",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-01",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#HARAPOS#LACAN#\r\nA#CASAS#DEBAS#C\r\nELECTRA#BARRERA\r\nRETIRADO#LADRON\r\nENAMORADO#SURAS\r\nOTTO#ASI#CAMINO\r\n#OO#D##O#DRENAN\r\nD##SEBASTIAN##A\r\nESCAPE#I##S#PM#\r\nCARBON#DAC#PAIS\r\nIRIAS#ZAPATISMO\r\nMASTIL#DELANTAL\r\nALTITUD#AVIZORE\r\nL#ACATO#RIMAR#O\r\n#LLORO#MANASES#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Este disco se graba en vivo y luego la copia es en vinilo.",
+              "answer": "ACETATO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Un conjunto de uvas.",
+              "answer": "RACIMO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "¡Ostra! esta es una estrella.",
+              "answer": "ASTRO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Detendrá, frenará.",
+              "answer": "PARARA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Atrevidas, audaces.",
+              "answer": "OSADAS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Fidedigno, verídico y fiel.",
+              "answer": "LEAL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Incendiarás, inflamarás.",
+              "answer": "ABRASARAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Manada de peces.",
+              "answer": "CARDUMEN"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Residuo de madera serrada.",
+              "answer": "ASERRIN"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Relativo al aire.",
+              "answer": "AEREO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Símbolo químico del dubnio.",
+              "answer": "DB"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Fastidiosa, pesada.",
+              "answer": "CANSONA"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Elton espabila, vas muy despacio.",
+              "answer": "LENTO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Yegua de pelo blanco, gris y bayo.",
+              "answer": "ROANA"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Cualidad de odioso.",
+              "answer": "ODIOSIDAD"
+            },
+            "26": {
+              "col": 9,
+              "row": 5,
+              "clue": "Centro de Diagnóstico Integral (siglas).",
+              "answer": "CDI"
+            },
+            "28": {
+              "col": 4,
+              "row": 6,
+              "clue": "No me puedes transferir, debes ir al banco y...",
+              "answer": "DEPOSITAR"
+            },
+            "30": {
+              "col": 0,
+              "row": 7,
+              "clue": "Número que va después de la coma.",
+              "answer": "DECIMAL"
+            },
+            "31": {
+              "col": 3,
+              "row": 7,
+              "clue": "¿Un sábado que dura 12 meses? sí, un año...",
+              "answer": "SABATICO"
+            },
+            "32": {
+              "col": 5,
+              "row": 7,
+              "clue": "\"... Stiller\" comediante neoyorquino, conocido por 'Zoolander'.",
+              "answer": "BEN"
+            },
+            "34": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"Hilal...\" directora de la telenovela turca 'Fatmagül'.",
+              "answer": "SARAL"
+            },
+            "35": {
+              "col": 2,
+              "row": 8,
+              "clue": "Vidrio de alta calidad.",
+              "answer": "CRISTAL"
+            },
+            "36": {
+              "col": 12,
+              "row": 8,
+              "clue": "\"Javier...\" excentrocampo argentino del Elche C. F.",
+              "answer": "PASTORE"
+            },
+            "37": {
+              "col": 13,
+              "row": 8,
+              "clue": "Abrazar, consentir y jugar con el bebé.",
+              "answer": "MIMAR"
+            },
+            "40": {
+              "col": 8,
+              "row": 9,
+              "clue": "Bajará a alguien de una caballería, de un carruaje o de un automóvil.",
+              "answer": "APEARA"
+            },
+            "41": {
+              "col": 9,
+              "row": 9,
+              "clue": "\"... Klein\" diseñador de modas.",
+              "answer": "CALVIN"
+            },
+            "42": {
+              "col": 11,
+              "row": 9,
+              "clue": "Con lo que hay que coger un asunto, cuando es muy delicado.",
+              "answer": "PINZAS"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "Músculo cercano al gemelo, cuya función es la extensión del pie y la elevación del talón.",
+              "answer": "SOLEO"
+            },
+            "46": {
+              "col": 10,
+              "row": 10,
+              "clue": "Picardía, astucia.",
+              "answer": "TAIMA"
+            },
+            "48": {
+              "col": 5,
+              "row": 11,
+              "clue": "Signo exterior de pena y duelo.",
+              "answer": "LUTO"
+            },
+            "51": {
+              "col": 6,
+              "row": 12,
+              "clue": "Denominación de origen.",
+              "answer": "DO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Andrajos, ropas viejas.",
+              "answer": "HARAPOS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Jacques...\" el psicoanalista de 'Lo real, lo imaginario y lo simbólico'.",
+              "answer": "LACAN"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "\"Bartolomé de las...\" protector universal de todos los indios (América).",
+              "answer": "CASAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Tengas la obligación.",
+              "answer": "DEBAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "El paralelo femenino a Edipo.",
+              "answer": "ELECTRA"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Arrasará con la empalizada.",
+              "answer": "BARRERA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Se ha jubilado en un lugar lejano.",
+              "answer": "RETIRADO"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Toma subrepticia de electricidad.",
+              "answer": "LADRON"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Está loco por ella, está...",
+              "answer": "ENAMORADO"
+            },
+            "23": {
+              "col": 10,
+              "row": 4,
+              "clue": "Lecciones o capítulos en que se divide el Corán.",
+              "answer": "SURAS"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"... Hightower\" la mano de Viserys en 'La casa del Dragón'.",
+              "answer": "OTTO"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "De esta o de esa manera.",
+              "answer": "ASI"
+            },
+            "26": {
+              "col": 9,
+              "row": 5,
+              "clue": "Ruta, sendero.",
+              "answer": "CAMINO"
+            },
+            "27": {
+              "col": 1,
+              "row": 6,
+              "clue": "Mirada de asombro.",
+              "answer": "OO"
+            },
+            "29": {
+              "col": 9,
+              "row": 6,
+              "clue": "Descargan sus emociones.",
+              "answer": "DRENAN"
+            },
+            "31": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"Johann... Mastropiero\" personaje de Les Luthiers.",
+              "answer": "SEBASTIAN"
+            },
+            "33": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hui.",
+              "answer": "ESCAPE"
+            },
+            "36": {
+              "col": 12,
+              "row": 8,
+              "clue": "Buenas noches.",
+              "answer": "PM"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Sustancia fósil, dura, no renovable y de color negro.",
+              "answer": "CARBON"
+            },
+            "39": {
+              "col": 7,
+              "row": 9,
+              "clue": "Diseño asistido por computador (siglas).",
+              "answer": "DAC"
+            },
+            "42": {
+              "col": 11,
+              "row": 9,
+              "clue": "Territorio de una unidad geográfica, política y cultural.",
+              "answer": "PAIS"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Caminarías de acá para allá.",
+              "answer": "IRIAS"
+            },
+            "45": {
+              "col": 6,
+              "row": 10,
+              "clue": "Movimiento agrarista revolucionario que lideró Emiliano Zapata.",
+              "answer": "ZAPATISMO"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Palo de una embarcación.",
+              "answer": "MASTIL"
+            },
+            "49": {
+              "col": 7,
+              "row": 11,
+              "clue": "Parece que los delata el mandil.",
+              "answer": "DELANTAL"
+            },
+            "50": {
+              "col": 0,
+              "row": 12,
+              "clue": "Altura sobre el nivel del mar.",
+              "answer": "ALTITUD"
+            },
+            "52": {
+              "col": 8,
+              "row": 12,
+              "clue": "Observe, vigile, otee.",
+              "answer": "AVIZORE"
+            },
+            "53": {
+              "col": 2,
+              "row": 13,
+              "clue": "Acota que en cierto modo, obedeció órdenes.",
+              "answer": "ACATO"
+            },
+            "54": {
+              "col": 8,
+              "row": 13,
+              "clue": "Hacer una palabra consonante de otra.",
+              "answer": "RIMAR"
+            },
+            "55": {
+              "col": 1,
+              "row": 14,
+              "clue": "Derramó todas sus lágrimas.",
+              "answer": "LLORO"
+            },
+            "56": {
+              "col": 7,
+              "row": 14,
+              "clue": "Salieses, brotases.",
+              "answer": "MANASES"
+            }
+          }
+        },
+        "vertical_clues": "2-Este disco se graba en vivo y luego la copia es en vinilo.\r\n3-Un conjunto de uvas.\r\n4-¡Ostra! esta es una estrella.\r\n5-Detendrá, frenará.\r\n6-Atrevidas, audaces.\r\n7-Fidedigno, verídico y fiel.\r\n8-Incendiarás, inflamarás.\r\n9-Manada de peces.\r\n10-Residuo de madera serrada.\r\n11-Relativo al aire.\r\n13-Símbolo químico del dubnio.\r\n14-Fastidiosa, pesada.\r\n16-Elton espabila, vas muy despacio.\r\n18-Yegua de pelo blanco, gris y bayo.\r\n20-Cualidad de odioso.\r\n26-Centro de Diagnóstico Integral (siglas).\r\n28-No me puedes transferir, debes ir al banco y...\r\n30-Número que va después de la coma.\r\n31-¿Un sábado que dura 12 meses? sí, un año...\r\n32-\"... Stiller\" comediante neoyorquino, conocido por 'Zoolander'.\r\n34-\"Hilal...\" directora de la telenovela turca 'Fatmagül'.\r\n35-Vidrio de alta calidad.\r\n36-\"Javier...\" excentrocampo argentino del Elche C. F.\r\n37-Abrazar, consentir y jugar con el bebé.\r\n40-Bajará a alguien de una caballería, de un carruaje o de un automóvil.\r\n41-\"... Klein\" diseñador de modas.\r\n42-Con lo que hay que coger un asunto, cuando es muy delicado.\r\n43-Músculo cercano al gemelo, cuya función es la extensión del pie y la elevación del talón.\r\n46-Picardía, astucia.\r\n48-Signo exterior de pena y duelo.\r\n51-Denominación de origen.",
+        "horizontal_clues": "1-Andrajos, ropas viejas.\r\n7-\"Jacques...\" el psicoanalista de 'Lo real, lo imaginario y lo simbólico'. \r\n12-\"Bartolomé de las...\" protector universal de todos los indios (América).\r\n13-Tengas la obligación.\r\n15-El paralelo femenino a Edipo. \r\n17-Arrasará con la empalizada.\r\n19-Se ha jubilado en un lugar lejano.\r\n21-Toma subrepticia de electricidad.\r\n22-Está loco por ella, está...\r\n23-Lecciones o capítulos en que se divide el Corán.\r\n24-\"... Hightower\" la mano de Viserys en 'La casa del Dragón'.\r\n25-De esta o de esa manera.\r\n26-Ruta, sendero.\r\n27-Mirada de asombro.\r\n29-Descargan sus emociones.\r\n31-\"Johann... Mastropiero\" personaje de Les Luthiers.\r\n33-Hui.\r\n36-Buenas noches.\r\n38-Sustancia fósil, dura, no renovable y de color negro.\r\n39-Diseño asistido por computador (siglas).\r\n42-Territorio de una unidad geográfica, política y cultural.\r\n44-Caminarías de acá para allá.\r\n45-Movimiento agrarista revolucionario que lideró Emiliano Zapata.\r\n47-Palo de una embarcación.\r\n49-Parece que los delata el mandil.\r\n50-Altura sobre el nivel del mar.\r\n52-Observe, vigile, otee.\r\n53-Acota que en cierto modo, obedeció órdenes.\r\n54-Hacer una palabra consonante de otra.\r\n55-Derramó todas sus lágrimas.\r\n56-Salieses, brotases.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,#,#,20,#,21,#,#,#,#,#\r\n22,#,#,#,#,#,#,#,#,#,23,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,#,#,#,#\r\n#,27,#,#,28,#,#,#,#,29,#,#,#,#,#\r\n30,#,#,31,#,32,#,#,#,#,#,#,#,#,#\r\n33,34,35,#,#,#,#,#,#,#,#,#,36,37,#\r\n38,#,#,#,#,#,#,39,40,41,#,42,#,#,43\r\n44,#,#,#,#,#,45,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,#,49,#,#,#,#,#,#,#\r\n50,#,#,#,#,#,51,#,52,#,#,#,#,#,#\r\n#,#,53,#,#,#,#,#,54,#,#,#,#,#,#\r\n#,55,#,#,#,#,#,56,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

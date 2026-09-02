@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 1854,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-03-07T22:25:42.270875Z",
+      "updatedAt": "2025-03-08T20:34:15.502409Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Ellas se unen y hacen historia",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-03-08",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DAMASCO#ACIERTA\r\n#MADREDELSABER#\r\nPALIASE#FINOLIS\r\nORAD##REI##REAL\r\nLEGADOCULTURAL#\r\nE#ASAP###OSAN#A\r\nOO##HIBRIDO##LA\r\n#VINCULOSOCIAL#\r\nII#A#MALAS#N#UF\r\nBLANC##L##ASTER\r\n#LUCHACOLECTIVA\r\nPODIOS#S#LIARAN\r\nI#I#QAS#OID#R#E\r\nEVOLUCIONSOCIAL\r\nTESTEAR#GASTARA",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Te querré con la marea revuelta",
+              "answer": "AMARE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Ciudad natal de Pablo Picasso",
+              "answer": "MALAGA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Competencia de la Nike",
+              "answer": "ADIDAS"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Señora sea breve",
+              "answer": "SRA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cestas rotas",
+              "answer": "CES"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "La confesión de fe de los apóstoles, viene del sur",
+              "answer": "ODERC"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "El que solo avanza diagonalmente",
+              "answer": "ALFIL"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Famosa serie de tv de investigación forense",
+              "answer": "CSI"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"… McKellen\" interpreta a Gandalf en ESDLA",
+              "answer": "IAN"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Los mencioné con el @, los… (inv)",
+              "answer": "EBORRA"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vuelvan al mismo libro",
+              "answer": "RELEAN"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Modalidad de superar obstáculos con la moto, sin caerse",
+              "answer": "TRIAL"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"Menta…\" la típica infusión verde",
+              "answer": "POLEO"
+            },
+            "17": {
+              "col": 14,
+              "row": 2,
+              "clue": "Iniciales del creador de Marvel Studios",
+              "answer": "SL"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Yo, cuando estoy en Portugal",
+              "answer": "EU"
+            },
+            "23": {
+              "col": 4,
+              "row": 4,
+              "clue": "Está de cabeza el 5º país más pobre del mundo",
+              "answer": "DAHC"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Perfume de culto que Saint Laurent lanzó en 1977",
+              "answer": "OPIUM"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Estamos completos, vinieron…",
+              "answer": "TODOS"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Unión Sindical Obrera de Cataluña",
+              "answer": "USOC"
+            },
+            "29": {
+              "col": 14,
+              "row": 5,
+              "clue": "Par de ases",
+              "answer": "AA"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Bola de lana",
+              "answer": "OVILLO"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Voz que sugiere habladurías",
+              "answer": "BLA"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Voy a revelar que estos son fotográficos y vintage",
+              "answer": "ROLLOS"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Así sí, pero al revés",
+              "answer": "ISA"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Caiga un aguacero",
+              "answer": "LLUEVA"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "Esta chica se ha metido en financiar al centro",
+              "answer": "NANCI"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Pide con urgencia a que se organicen con Santi en las tinas",
+              "answer": "INSTA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Iniciales de la actriz protagonista de 'El Laberinto del fauno'",
+              "answer": "IB"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "La mejor opción en sábanas para el invierno",
+              "answer": "FRANELA"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Notas de voz de WhatsApp",
+              "answer": "AUDIOS"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Mejor que sea de titanes y no cultural",
+              "answer": "CHOQUE"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Lo son los limones y los LSD",
+              "answer": "ACIDOS"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Manía, odio u ojeriza hacia algo o alguien",
+              "answer": "TIRRIA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Achaca, imputa",
+              "answer": "ASACA"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "De Beethoven para…",
+              "answer": "ELISA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Mondrian\", pintor holandés vanguardista",
+              "answer": "PIET"
+            },
+            "55": {
+              "col": 6,
+              "row": 12,
+              "clue": "Título de Paul McCartney y Elton John",
+              "answer": "SIR"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Organización No Gubernamental",
+              "answer": "ONG"
+            },
+            "58": {
+              "col": 1,
+              "row": 13,
+              "clue": "Esta vez no ha terminado",
+              "answer": "VE"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Iniciales del desarrollador del sistema operativo Linux",
+              "answer": "LT"
+            },
+            "60": {
+              "col": 11,
+              "row": 13,
+              "clue": "Iniciales de la prota de 'Mad Max' y 'Monster'",
+              "answer": "CT"
+            },
+            "61": {
+              "col": 13,
+              "row": 13,
+              "clue": "Voz militar",
+              "answer": "AR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Capital de Siria",
+              "answer": "DAMASCO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Da en el blanco con la respuesta correcta",
+              "answer": "ACIERTA"
+            },
+            "14": {
+              "col": 1,
+              "row": 1,
+              "clue": "·\"Mujer que engendra y transmite el conocimiento y la memoria a las nuevas generaciones (3p) forjando...·",
+              "answer": "MADREDELSABER"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aliviase o redujese los efectos de una situación",
+              "answer": "PALIASE"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Demasiado delicada, se parece a la Manolis",
+              "answer": "FINOLIS"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Rezad por la loca Dora",
+              "answer": "ORAD"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Me tronché con el rey en Portugal",
+              "answer": "REI"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Es verdad, el equipo de fútbol cumplió 123 años",
+              "answer": "REAL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "·+ … una herencia de saberes, valores e historias que consolidan la identidad colectiva (2p)...·",
+              "answer": "LEGADOCULTURAL"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Sucede cuando está volteada",
+              "answer": "ASAP"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Se atreven y parece sano, pero no",
+              "answer": "OSAN"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Par de huevos",
+              "answer": "OO"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Un ateo es a un coche eléctrico, lo que un agnóstico es a uno…",
+              "answer": "HIBRIDO"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Un artículo para ella",
+              "answer": "LA"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "·+… esto crea el lazo que, a través del autorrecono cimiento, une a las personas en redes de apoyo (2p) que...·",
+              "answer": "VINCULOSOCIAL"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Par de rayas",
+              "answer": "II"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Estas almas son terribles",
+              "answer": "MALAS"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Interjección usada para indicar cansancio o calor",
+              "answer": "UF"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Mont…\" el punto más alto de la Unión Europea",
+              "answer": "BLANC"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "La flor de septiembre, parecida a la margarita pero violeta",
+              "answer": "ASTER"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "·+ … generan un esfuerzo compartido por conquistar derechos y cambiar estructuras de poder (2p)...·",
+              "answer": "LUCHACOLECTIVA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Por dios, Fernando eres el 6º, con más de estos, en la F1",
+              "answer": "PODIOS"
+            },
+            "53": {
+              "col": 9,
+              "row": 11,
+              "clue": "La armarán parda",
+              "answer": "LIARAN"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Quedé Algo Sorprendido",
+              "answer": "QAS"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Prestad atención a lo que se dice",
+              "answer": "OID"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "·= Para llegar al cambio de la sociedad que reduce las desigualdades y construye un mundo más justo (2p)\"·",
+              "answer": "EVOLUCIONSOCIAL"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Comprobar el funcionamiento de algo",
+              "answer": "TESTEAR"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Se esfumará la plata, se la….",
+              "answer": "GASTARA"
+            }
+          }
+        },
+        "vertical_clues": "2-Te querré con la marea revuelta\r\n3-Ciudad natal de Pablo Picasso\r\n4-Competencia de la Nike\r\n5-Señora sea breve\r\n6-Cestas rotas\r\n7-La confesión de fe de los apóstoles, viene del sur \r\n8-El que solo avanza diagonalmente\r\n9-Famosa serie de tv de investigación forense \r\n10-\"… McKellen\" interpreta a Gandalf en ESDLA\r\n11-Los mencioné con el @, los… (inv) \r\n12-Vuelvan al mismo libro\r\n13-Modalidad de superar obstáculos con la moto, sin caerse\r\n15-\"Menta…\" la típica infusión verde\r\n17-Iniciales del creador de Marvel Studios\r\n20-Yo, cuando estoy en Portugal\r\n23-Está de cabeza el 5º país más pobre del mundo\r\n24-Perfume de culto que Saint Laurent lanzó en 1977\r\n25-Estamos completos, vinieron…\r\n26-Unión Sindical Obrera de Cataluña\r\n29-Par de ases\r\n31-Bola de lana\r\n33-Voz que sugiere habladurías\r\n34-Voy a revelar que estos son fotográficos y vintage\r\n35-Así sí, pero al revés\r\n36-Caiga un aguacero\r\n38-Esta chica se ha metido en financiar al centro\r\n39-Pide con urgencia a que se organicen con Santi en las tinas\r\n40-Iniciales de la actriz protagonista de 'El Laberinto del fauno' \r\n43-La mejor opción en sábanas para el invierno\r\n45-Notas de voz de WhatsApp\r\n46-Mejor que sea de titanes y no cultural\r\n47-Lo son los limones y los LSD \r\n48-Manía, odio u ojeriza hacia algo o alguien\r\n50-Achaca, imputa\r\n51-De Beethoven para…\r\n52-\"… Mondrian\", pintor holandés vanguardista\r\n55-Título de Paul McCartney y Elton John\r\n56-Organización No Gubernamental\r\n58-Esta vez no ha terminado\r\n59-Iniciales del desarrollador del sistema operativo Linux\r\n60-Iniciales de la prota de 'Mad Max' y 'Monster'\r\n61-Voz militar",
+        "horizontal_clues": "1-Capital de Siria\r\n8-Da en el blanco con la respuesta correcta \r\n14-·\"Mujer que engendra y transmite el conocimiento y la memoria a las nuevas generaciones (3p) forjando...·  \r\n15-Aliviase o redujese los efectos de una situación\r\n16-Demasiado delicada, se parece a la Manolis\r\n18-Rezad por la loca Dora\r\n19-Me tronché con el rey en Portugal\r\n21-Es verdad, el equipo de fútbol cumplió 123 años\r\n22-·+ … una herencia de saberes, valores e historias que consolidan la identidad colectiva (2p)...·\r\n27-Sucede cuando está volteada\r\n28-Se atreven y parece sano, pero no\r\n30-Par de huevos\r\n32-Un ateo es a un coche eléctrico, lo que un agnóstico es a uno…\r\n36-Un artículo para ella\r\n37-·+… esto crea el lazo que, a través del autorrecono cimiento, une a las personas en redes de apoyo (2p) que...· \r\n40-Par de rayas\r\n41-Estas almas son terribles\r\n42-Interjección usada para indicar cansancio o calor\r\n44-\"Mont…\" el punto más alto de la Unión Europea\r\n47-La flor de septiembre, parecida a la margarita pero violeta\r\n49-·+ … generan un esfuerzo compartido por conquistar derechos y cambiar estructuras de poder (2p)...·\r\n52-Por dios, Fernando eres el 6º, con más de estos, en la F1\r\n53-La armarán parda\r\n54-Quedé Algo Sorprendido\r\n56-Prestad atención a lo que se dice\r\n57-·= Para llegar al cambio de la sociedad que reduce las desigualdades y construye un mundo más justo (2p)\"· \r\n62-Comprobar el funcionamiento de algo \r\n63-Se esfumará la plata, se la….",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,8,9,10,11,12,13,#\r\n#,14,#,#,#,#,#,#,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,#,17\r\n18,#,#,#,#,#,19,20,#,#,#,21,#,#,#\r\n22,#,#,#,23,24,#,#,#,25,26,#,#,#,#\r\n#,#,27,#,#,#,#,#,#,28,#,#,#,#,29\r\n30,31,#,#,32,#,33,34,35,#,#,#,#,36,#\r\n#,37,#,38,#,#,#,#,#,#,#,39,#,#,#\r\n40,#,#,#,#,41,#,#,#,#,#,#,#,42,43\r\n44,#,45,#,46,#,#,#,#,#,47,#,48,#,#\r\n#,49,#,#,#,50,#,#,#,51,#,#,#,#,#\r\n52,#,#,#,#,#,#,#,#,53,#,#,#,#,#\r\n#,#,#,#,54,#,55,#,56,#,#,#,#,#,#\r\n57,58,#,59,#,#,#,#,#,#,#,60,#,61,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

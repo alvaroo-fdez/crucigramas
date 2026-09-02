@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 2162,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-15T12:30:50.409579Z",
+      "updatedAt": "2025-04-15T12:33:32.215472Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-27",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#SASTRE##DISCO#\r\nHOMERO#CREMAR#C\r\nABOGA#SOIS#LEGA\r\nMERAS##REGATEAS\r\nMR#DEJA#LAGARTO\r\nABSORBER#RR##AN\r\nMIGRA#SACRA#T#A\r\n#ATA#GIBAO#GAP#\r\nI#O#TIRAN#TETES\r\nMC##UM#LOGOPEDA\r\nPORCINO#NALP#RB\r\nACERTABA##KEGEL\r\nLOCO#SOEZ#ITERE\r\nA#ANTIER#RETAIS\r\n#PIOJO##PENOSA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cuando la vanidad toma el mando, aparecen extrañas boberías",
+              "answer": "SOBERBIA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Sentimiento intenso de afecto",
+              "answer": "AMOR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Parece que me va a dejar ciego esta cosechadora",
+              "answer": "SEGADORA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Las erratas mal escritas están en la parte de atrás",
+              "answer": "TRASERA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Un poco de rock and roll",
+              "answer": "RO"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Drogarse está mal, eso es como una rotura fibrilar",
+              "answer": "DESGARRO"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Importan muy poco",
+              "answer": "IM"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Brinca",
+              "answer": "SALTA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Tener algo por cierto, sin conocerlo de manera directa o sin que esté comprobado",
+              "answer": "CREER"
+            },
+            "10": {
+              "col": 0,
+              "row": 1,
+              "clue": "Baño turco",
+              "answer": "HAMMAM"
+            },
+            "11": {
+              "col": 7,
+              "row": 1,
+              "clue": "Corintios",
+              "answer": "COR"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Carril de una vía férrea",
+              "answer": "RIEL"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Antigua casa señorial",
+              "answer": "CASONA"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Lo es la Hello Kitty",
+              "answer": "GATA"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Ciudad que aloja al Taj Mahal",
+              "answer": "AGRA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Justin Bieber es el próximo James Bond",
+              "answer": "JB"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Dioses nórdicos, solo los hombres",
+              "answer": "AESIR"
+            },
+            "27": {
+              "col": 2,
+              "row": 5,
+              "clue": "Pequeño sargento",
+              "answer": "SGTO"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)",
+              "answer": "RABAL"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Regla o precepto",
+              "answer": "CANON"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"… Modern\", museo londinense",
+              "answer": "TATE"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Establecimiento para ejercitar el cuerpo",
+              "answer": "GIMNASIO"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Carpintero tan talentoso que su obra cobró vida",
+              "answer": "GEPPETTO"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Por el desorden perdería su colección de joyas",
+              "answer": "PEDRERIA"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Antílope africano",
+              "answer": "IMPALA"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Nota del pajarito",
+              "answer": "TUIT"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Autor de la novela \"El Señor de los Anillos\"",
+              "answer": "TOLKIEN"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "\"Espadas, floretes y…\" las tres armas de la esgrima",
+              "answer": "SABLES"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"Isla de …\" patrimonio Mundial de Costa Rica por su biodiversidad marina",
+              "answer": "COCO"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Reincidí, volví",
+              "answer": "RECAI"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Personificación griega del tiempo",
+              "answer": "CRONO"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Instrumento musical de viento que termina en forma de campana",
+              "answer": "OBOE"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Esta era es un caos",
+              "answer": "AER"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Grupo Especial de Actividades Subacuáticas",
+              "answer": "GEAS"
+            },
+            "62": {
+              "col": 4,
+              "row": 13,
+              "clue": "Testigos de Jehová van al Tribunal de Justicia",
+              "answer": "TJ"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Iniciales en el asunto del email, al ser una respuesta",
+              "answer": "RE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Hombre que hace trajes de hombre",
+              "answer": "SASTRE"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Género de música bailable de los 70",
+              "answer": "DISCO"
+            },
+            "10": {
+              "col": 0,
+              "row": 1,
+              "clue": "Autor de la Ilíada y la Odisea",
+              "answer": "HOMERO"
+            },
+            "11": {
+              "col": 7,
+              "row": 1,
+              "clue": "Incinerar al difunto",
+              "answer": "CREMAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Intercede, habla en favor de alguien",
+              "answer": "ABOGA"
+            },
+            "15": {
+              "col": 6,
+              "row": 2,
+              "clue": "Pertenecéis, correspondéis a algo",
+              "answer": "SOIS"
+            },
+            "16": {
+              "col": 11,
+              "row": 2,
+              "clue": "Deja en herencia todo su trabajo",
+              "answer": "LEGA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Puras, netas",
+              "answer": "MERAS"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "Pides rebaja",
+              "answer": "REGATEAS"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Míster Michael Rockefeller",
+              "answer": "MR"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Abandona, renuncia",
+              "answer": "DEJA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Enemigo reptiliano del Hombre Araña",
+              "answer": "LAGARTO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Impregnarse los barberos de Sobrarbe",
+              "answer": "ABSORBER"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Dígrafo que nunca ha sido una letra",
+              "answer": "RR"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Lo que comparten Han Solo y Obi",
+              "answer": "AN"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "La policía de inmigración de los EE. UU., la…",
+              "answer": "MIGRA"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Sagrada",
+              "answer": "SACRA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Anuda",
+              "answer": "ATA"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "\"Pie de…\", danza aristocrática española del siglo XVII",
+              "answer": "GIBAO"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Vacío entre dos términos que se contrastan",
+              "answer": "GAP"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Lanzan, arrojan",
+              "answer": "TIRAN"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Así le dicen a los hermanos en Valencia",
+              "answer": "TETES"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Lo que tienen en común Marie Curie y Miley Cyrus",
+              "answer": "MC"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Universidad de Margarita (siglas)",
+              "answer": "UM"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Muy mal golpeado el profesional en trastornos del habla",
+              "answer": "LOGOPEDA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "El ganado, cuando es de cerdos",
+              "answer": "PORCINO"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "La estrategia va para atrás",
+              "answer": "NALP"
+            },
+            "53": {
+              "col": 13,
+              "row": 10,
+              "clue": "Símbolo químico del rubidio",
+              "answer": "RB"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Elegía correctamente, daba en el clavo",
+              "answer": "ACERTABA"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Ejercicios de contracción y relajación vaginal",
+              "answer": "KEGEL"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Se coló por error un demente",
+              "answer": "LOCO"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Vulgar, grosero",
+              "answer": "SOEZ"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Repita, por favor, su títere perdió la cabeza",
+              "answer": "ITERE"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Día que precedió inmediatamente al de ayer",
+              "answer": "ANTIER"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Desafiáis a duelo",
+              "answer": "RETAIS"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Insecto parásito, en la cabeza de los niños",
+              "answer": "PIOJO"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Una noticia triste, lamentable",
+              "answer": "PENOSA"
+            }
+          }
+        },
+        "vertical_clues": "1-Cuando la vanidad toma el mando, aparecen extrañas boberías\r\n2-Sentimiento intenso de afecto\r\n3-Parece que me va a dejar ciego esta cosechadora\r\n4-Las erratas mal escritas están en la parte de atrás\r\n5-Un poco de rock and roll\r\n6-Drogarse está mal, eso es como una rotura fibrilar\r\n7-Importan muy poco\r\n8-Brinca\r\n9-Tener algo por cierto, sin conocerlo de manera directa o sin que esté comprobado\r\n10-Baño turco\r\n11-Corintios\r\n12-Carril de una vía férrea\r\n13-Antigua casa señorial\r\n17-Lo es la Hello Kitty\r\n20-Ciudad que aloja al Taj Mahal\r\n23-Justin Bieber es el próximo James Bond\r\n24-Dioses nórdicos, solo los hombres\r\n27-Pequeño sargento\r\n28-\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)\r\n33-Regla o precepto\r\n34-\"… Modern\", museo londinense\r\n36-Establecimiento para ejercitar el cuerpo\r\n37-Carpintero tan talentoso que su obra cobró vida\r\n38-Por el desorden perdería su colección de joyas\r\n39-Antílope africano\r\n40-Nota del pajarito\r\n41-Autor de la novela \"El Señor de los Anillos\" \r\n42-\"Espadas, floretes y…\" las tres armas de la esgrima\r\n44-\"Isla de …\" patrimonio Mundial de Costa Rica por su biodiversidad marina\r\n47-Piel de gallina\r\n49-Reincidí, volví\r\n50-Personificación griega del tiempo\r\n51-Instrumento musical de viento que termina en forma de campana\r\n55-Esta era es un caos\r\n57-Grupo Especial de Actividades Subacuáticas \r\n62-Testigos de Jehová van al Tribunal de Justicia\r\n63-Iniciales en el asunto del email, al ser una respuesta",
+        "horizontal_clues": "1-Hombre que hace trajes de hombre\r\n6-Género de música bailable de los 70\r\n10-Autor de la Ilíada y la Odisea\r\n11-Incinerar al difunto\r\n14-Intercede, habla en favor de alguien\r\n15-Pertenecéis, correspondéis a algo\r\n16-Deja en herencia todo su trabajo\r\n18-Puras, netas\r\n19-Pides rebaja\r\n21-Míster Michael Rockefeller\r\n22-Abandona, renuncia\r\n25-Enemigo reptiliano del Hombre Araña\r\n26-Impregnarse los barberos de Sobrarbe\r\n29-Dígrafo que nunca ha sido una letra\r\n30-Lo que comparten Han Solo y Obi-Wan con Anakin y los padawans\r\n31-La policía de inmigración de los EE. UU., la…\r\n32-Sagrada\r\n35-Anuda\r\n36-\"Pie de…\", danza aristocrática española del siglo XVII\r\n37-Vacío entre dos términos que se contrastan\r\n40-Lanzan, arrojan\r\n41-Así le dicen a los hermanos en Valencia\r\n43-Lo que tienen en común Marie Curie y Miley Cyrus\r\n45-Universidad de Margarita (siglas)\r\n46-Muy mal golpeado el profesional en trastornos del habla\r\n48-El ganado, cuando es de cerdos\r\n52-La estrategia va para atrás\r\n53-Símbolo químico del rubidio\r\n54-Elegía correctamente, daba en el clavo\r\n56-Ejercicios de contracción y relajación vaginal\r\n58-Se coló por error un demente\r\n59-Vulgar, grosero\r\n60-Repita, por favor, su títere perdió la cabeza\r\n61-Día que precedió inmediatamente al de ayer\r\n63-Desafiáis a duelo\r\n64-Insecto parásito, en la cabeza de los niños\r\n65-Una noticia triste, lamentable",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,#,6,7,8,9,#,#\r\n10,#,#,#,#,#,#,11,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,15,#,#,#,#,16,#,17,#\r\n18,#,#,#,#,#,#,19,#,#,20,#,#,#,#\r\n21,#,#,22,#,23,24,#,25,#,#,#,#,#,#\r\n26,#,27,#,#,#,#,28,#,29,#,#,#,30,#\r\n31,#,#,#,#,#,32,#,33,#,#,#,34,#,#\r\n#,35,#,#,#,36,#,#,#,#,#,37,#,38,#\r\n39,#,#,#,40,#,#,#,#,#,41,#,#,#,42\r\n43,44,#,#,45,#,#,46,#,47,#,#,#,#,#\r\n48,#,49,50,#,#,51,#,52,#,#,#,#,53,#\r\n54,#,#,#,#,#,#,55,#,#,56,#,57,#,#\r\n58,#,#,#,#,59,#,#,#,#,60,#,#,#,#\r\n#,#,61,#,62,#,#,#,#,63,#,#,#,#,#\r\n#,64,#,#,#,#,#,#,65,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

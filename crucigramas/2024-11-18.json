@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 1194,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-13T16:35:57.485596Z",
+      "updatedAt": "2024-11-13T16:35:57.499835Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-18",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "EMPEÑA##CATARAN\r\nQUEDO##PAPELETA\r\nUNCIR#RESUCITAR\r\nIDA#AMOLARA#ARC\r\nPISA#AGUDO#FREI\r\nO##PARADO#VIDAS\r\n##CITADO#SENADO\r\n#EOLICO#SONIDO#\r\nAPLANA#FINITO##\r\nCIARA#HIGADO##P\r\nESTA#CENIT#SUMA\r\nCTE#MEDULAR#NOL\r\nHERVIDERO#AMARE\r\nAMAINARA##VIGIA\r\nRELEASE##SERIAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Conjunto de personas que trabajan juntas",
+              "answer": "EQUIPO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Mapa…\" el mundo en 2D",
+              "answer": "MUNDI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Término coloquial de las efélides del cuerpo",
+              "answer": "PECAS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Estudiante Diseño Industrial (siglas)",
+              "answer": "EDI"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Variedad de pimiento rojo secado al sol",
+              "answer": "ÑORA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Estado civil",
+              "answer": "CASADO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Refrán: \"Del… solo queda el cansancio\"",
+              "answer": "APURO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Madera muy resistente, ideal para muebles de jardín",
+              "answer": "TECA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… Babá\", de 'Las mil y una noches'",
+              "answer": "ALI"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Demorado o atrasado",
+              "answer": "RETARDADO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ocupado, repleto de tareas",
+              "answer": "ATAREADO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Mit Griega El que se enamoró de su reflejo",
+              "answer": "NARCISO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Cubierto de mucho pelo",
+              "answer": "PELUDO"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Solicitado con insistencia",
+              "answer": "ROGADO"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "La cámara suena como un sonajero",
+              "answer": "MARACA"
+            },
+            "22": {
+              "col": 3,
+              "row": 4,
+              "clue": "Amontonará, hará una torre de cosas",
+              "answer": "APILARA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Que se acaban, como los recursos no renovables del planeta",
+              "answer": "FINITOS"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Anita regresa y acierta",
+              "answer": "ATINA"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Acudid porque en la revuelta lo negocié",
+              "answer": "VENID"
+            },
+            "28": {
+              "col": 2,
+              "row": 6,
+              "clue": "Efecto secundario, efecto…",
+              "answer": "COLATERAL"
+            },
+            "29": {
+              "col": 9,
+              "row": 6,
+              "clue": "Composición de música clásica",
+              "answer": "SONATA"
+            },
+            "30": {
+              "col": 1,
+              "row": 7,
+              "clue": "Conjunto de conocimientos de una época",
+              "answer": "EPISTEME"
+            },
+            "31": {
+              "col": 8,
+              "row": 7,
+              "clue": "Silencio cauteloso",
+              "answer": "SIGILO"
+            },
+            "32": {
+              "col": 0,
+              "row": 8,
+              "clue": "Observar, aguardar con algún propósito",
+              "answer": "ACECHAR"
+            },
+            "33": {
+              "col": 7,
+              "row": 8,
+              "clue": "Elegancia y delicadeza en el comportamiento",
+              "answer": "FINURA"
+            },
+            "35": {
+              "col": 6,
+              "row": 9,
+              "clue": "Apestaré",
+              "answer": "HEDERE"
+            },
+            "36": {
+              "col": 14,
+              "row": 9,
+              "clue": "Acción de remover tierra con herramienta manual",
+              "answer": "PALEAR"
+            },
+            "38": {
+              "col": 5,
+              "row": 10,
+              "clue": "Permitas, accedas",
+              "answer": "CEDAS"
+            },
+            "40": {
+              "col": 12,
+              "row": 10,
+              "clue": "Palabra japonesa para las anguilas de agua dulce",
+              "answer": "UNAGI"
+            },
+            "41": {
+              "col": 13,
+              "row": 10,
+              "clue": "Fallecía",
+              "answer": "MORIA"
+            },
+            "43": {
+              "col": 4,
+              "row": 11,
+              "clue": "Palito de grafito que va dentro del lápiz",
+              "answer": "MINA"
+            },
+            "44": {
+              "col": 10,
+              "row": 11,
+              "clue": "Fiesta de música electrónica al aire libre",
+              "answer": "RAVE"
+            },
+            "47": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"La… en Rose\" en la voz de Édith Piaf",
+              "answer": "VIE"
+            },
+            "49": {
+              "col": 11,
+              "row": 12,
+              "clue": "Médico Interno Residente (siglas)",
+              "answer": "MIR"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Deja algo como garantía de un préstamo",
+              "answer": "EMPEÑA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Probarán su sabor",
+              "answer": "CATARAN"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Permanezco en un lugar",
+              "answer": "QUEDO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Documento para votar en elecciones",
+              "answer": "PAPELETA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Atar al yugo bueyes, mulas u otras bestias",
+              "answer": "UNCIR"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Volver a la vida",
+              "answer": "RESUCITAR"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Una salida sosa la dejó perdida",
+              "answer": "IDA"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "Afilará el cuchillo",
+              "answer": "AMOLARA"
+            },
+            "20": {
+              "col": 12,
+              "row": 3,
+              "clue": "\"Arco\" en inglés",
+              "answer": "ARC"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "La torre inclinada de…",
+              "answer": "PISA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Afilado, puntiagudo",
+              "answer": "AGUDO"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cociné un alimento en aceite",
+              "answer": "FREI"
+            },
+            "25": {
+              "col": 3,
+              "row": 5,
+              "clue": "Él está cobrando la prestación por desempleo",
+              "answer": "PARADO"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Las siete o nueve del gato",
+              "answer": "VIDAS"
+            },
+            "28": {
+              "col": 2,
+              "row": 6,
+              "clue": "Convocado a un lugar y hora específicos",
+              "answer": "CITADO"
+            },
+            "29": {
+              "col": 9,
+              "row": 6,
+              "clue": "La Cámara Alta del poder legislativo",
+              "answer": "SENADO"
+            },
+            "30": {
+              "col": 1,
+              "row": 7,
+              "clue": "Un parque, cuando es de aerogeneradores",
+              "answer": "EOLICO"
+            },
+            "31": {
+              "col": 8,
+              "row": 7,
+              "clue": "Física Vibración mecánica transmitida por un medio elástico",
+              "answer": "SONIDO"
+            },
+            "32": {
+              "col": 0,
+              "row": 8,
+              "clue": "Allana",
+              "answer": "APLANA"
+            },
+            "33": {
+              "col": 7,
+              "row": 8,
+              "clue": "Delgadito, un hilito",
+              "answer": "FINITO"
+            },
+            "34": {
+              "col": 0,
+              "row": 9,
+              "clue": "Andará hacia atrás, retrocederá",
+              "answer": "CIARA"
+            },
+            "35": {
+              "col": 6,
+              "row": 9,
+              "clue": "Gastron Parte del cerdo con mayor concentración de hierro",
+              "answer": "HIGADO"
+            },
+            "37": {
+              "col": 0,
+              "row": 10,
+              "clue": "Se halla en ese lugar",
+              "answer": "ESTA"
+            },
+            "38": {
+              "col": 5,
+              "row": 10,
+              "clue": "Apogeo, punto máximo de la gloria",
+              "answer": "CENIT"
+            },
+            "39": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Si no…, que no reste\"",
+              "answer": "SUMA"
+            },
+            "42": {
+              "col": 0,
+              "row": 11,
+              "clue": "Abreviatura de Comandante",
+              "answer": "CTE"
+            },
+            "43": {
+              "col": 4,
+              "row": 11,
+              "clue": "Fundamento, soporte y parte esencial de la cosa que se expresa",
+              "answer": "MEDULAR"
+            },
+            "45": {
+              "col": 12,
+              "row": 11,
+              "clue": "Una magnolia deshojada",
+              "answer": "NOL"
+            },
+            "46": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lugar con gran actividad y movimiento",
+              "answer": "HERVIDERO"
+            },
+            "48": {
+              "col": 10,
+              "row": 12,
+              "clue": "Tendré cariño por alguien",
+              "answer": "AMARE"
+            },
+            "50": {
+              "col": 0,
+              "row": 13,
+              "clue": "Aflojará, perderá fuerza como el viento",
+              "answer": "AMAINARA"
+            },
+            "51": {
+              "col": 10,
+              "row": 13,
+              "clue": "Persona que vigila desde un puesto elevado",
+              "answer": "VIGIA"
+            },
+            "52": {
+              "col": 0,
+              "row": 14,
+              "clue": "Vuélvase a leer algo",
+              "answer": "RELEASE"
+            },
+            "53": {
+              "col": 9,
+              "row": 14,
+              "clue": "Formar una serie",
+              "answer": "SERIAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Conjunto de personas que trabajan juntas \r\n2-\"Mapa…\" el mundo en 2D\r\n3-Término coloquial de las efélides del cuerpo\r\n4-Estudiante Diseño Industrial (siglas)\r\n5-Variedad de pimiento rojo secado al sol\r\n6-Estado civil\r\n7-Refrán: \"Del… solo queda el cansancio\"\r\n8-Madera muy resistente, ideal para muebles de jardín\r\n9-\"… Babá\", de 'Las mil y una noches'\r\n10-Demorado o atrasado \r\n11-Ocupado, repleto de tareas\r\n12-Mit Griega El que se enamoró de su reflejo\r\n14-Cubierto de mucho pelo \r\n16-Solicitado con insistencia \r\n19-La cámara suena como un sonajero\r\n22-Amontonará, hará una torre de cosas\r\n24-Que se acaban, como los recursos no renovables del planeta\r\n26-Anita regresa y acierta\r\n27-Acudid porque en la revuelta lo negocié\r\n28-Efecto secundario, efecto…\r\n29-Composición de música clásica\r\n30-Conjunto de conocimientos de una época \r\n31-Silencio cauteloso\r\n32-Observar, aguardar con algún propósito\r\n33-Elegancia y delicadeza en el comportamiento \r\n35-Apestaré\r\n36-Acción de remover tierra con herramienta manual \r\n38-Permitas, accedas\r\n40-Palabra japonesa para las anguilas de agua dulce\r\n41-Fallecía\r\n43-Palito de grafito que va dentro del lápiz\r\n44-Fiesta de música electrónica al aire libre\r\n47-\"La… en Rose\" en la voz de Édith Piaf\r\n49-Médico Interno Residente (siglas)\r\n",
+        "horizontal_clues": "1-Deja algo como garantía de un préstamo \r\n6-Probarán su sabor\r\n13-Permanezco en un lugar \r\n14-Documento para votar en elecciones \r\n15-Atar al yugo bueyes, mulas u otras bestias\r\n16-Volver a la vida \r\n17-Una salida sosa la dejó perdida\r\n18-Afilará el cuchillo\r\n20-\"Arco\" en inglés\r\n21-La torre inclinada de…\r\n23-Afilado, puntiagudo\r\n24-Cociné un alimento en aceite\r\n25-Él está cobrando la prestación por desempleo\r\n27-Las siete o nueve del gato\r\n28-Convocado a un lugar y hora específicos \r\n29-La Cámara Alta del poder legislativo\r\n30-Un parque, cuando es de aerogeneradores\r\n31-Física Vibración mecánica transmitida por un medio elástico\r\n32-Allana\r\n33-Delgadito, un hilito\r\n34-Andará hacia atrás, retrocederá\r\n35-Gastron Parte del cerdo con mayor concentración de hierro\r\n37-Se halla en ese lugar\r\n38-Apogeo, punto máximo de la gloria\r\n39-\"Si no…, que no reste\"\r\n42-Abreviatura de Comandante\r\n43-Fundamento, soporte y parte esencial de la cosa que se expresa\r\n45-Una magnolia deshojada\r\n46-Lugar con gran actividad y movimiento \r\n48-Tendré cariño por alguien\r\n50-Aflojará, perderá fuerza como el viento\r\n51-Persona que vigila desde un puesto elevado \r\n52-Vuélvase a leer algo\r\n53-Formar una serie\r\n",
+        "board_clues_positions": "1,2,3,4,5,#,#,#,6,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,16,#,#,#,#,#,#,#,#\r\n17,#,#,#,18,19,#,#,#,#,#,#,20,#,#\r\n21,#,#,22,#,23,#,#,#,#,#,24,#,#,#\r\n#,#,#,25,26,#,#,#,#,#,27,#,#,#,#\r\n#,#,28,#,#,#,#,#,#,29,#,#,#,#,#\r\n#,30,#,#,#,#,#,#,31,#,#,#,#,#,#\r\n32,#,#,#,#,#,#,33,#,#,#,#,#,#,#\r\n34,#,#,#,#,#,35,#,#,#,#,#,#,#,36\r\n37,#,#,#,#,38,#,#,#,#,#,39,40,41,#\r\n42,#,#,#,43,#,#,#,#,#,44,#,45,#,#\r\n46,#,#,47,#,#,#,#,#,#,48,49,#,#,#\r\n50,#,#,#,#,#,#,#,#,#,51,#,#,#,#\r\n52,#,#,#,#,#,#,#,#,53,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

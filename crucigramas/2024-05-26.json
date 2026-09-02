@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 259,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-22T09:29:21.576891Z",
+      "updatedAt": "2024-05-30T06:07:30.750352Z",
+      "level": null,
+      "creationDate": "2024-05-26",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-26",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALMENDRAS#BASAR\r\nHUIR#AUNA#ALEJE\r\nINNOBLE#LATIDOS\r\n#AISLADA#DAÑOSO\r\nP###ASA#RITO##N\r\nESTADISTICA#OCA\r\nREGUE##RST#CHAN\r\nSS#N#EVOCO#U#NC\r\nPOKE#MIZ##AÑADI\r\nISO#KILOCALORIA\r\nC##CITA#OLI###S\r\nAPARTA#IDEARAN#\r\nCELETNA#ARSENAL\r\nINTEL#MOZO#MIDO\r\nATARE#APOSTASIA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Justo en ese lugar.",
+              "answer": "AHI"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Único satélite natural de la Tierra.",
+              "answer": "LUNA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "La falda de Mary Quant.",
+              "answer": "MINI"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Pulsión de vida.",
+              "answer": "EROS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Moneda oficial de Gambia.",
+              "answer": "DALASI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Filmas, grabas una peli.",
+              "answer": "RUEDAS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Alicia Nash (defensora de los derechos de los esquizofrénicos).",
+              "answer": "AN"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Condimento por excelencia.",
+              "answer": "SAL"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Camote, boniato, patata dulce.",
+              "answer": "BATATA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Adobó, sazonó.",
+              "answer": "ALIÑO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Anestesio, narcotizo.",
+              "answer": "SEDO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "A los vampiros le espantan estos dientes.",
+              "answer": "AJOS"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Técnica de imagen médica que usa campos magnéticos para ver tejidos (pl).",
+              "answer": "RESONANCIAS"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "El cazavampiros de Marvel.",
+              "answer": "BLADE"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Hombre que sufre la enfermedad de la adicción.",
+              "answer": "ADICTO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Capacidad para entender o percibir algo con claridad y rapidez.",
+              "answer": "PERSPICACIA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Cris ha enloquecido en un risco sin base.",
+              "answer": "RISC"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Masa contenida en la cavidad del cráneo.",
+              "answer": "SESOS"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Dominio web para Togo.",
+              "answer": "TG"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Junte, complemente.",
+              "answer": "AUNE"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Parte de algo que se considera por separado del resto.",
+              "answer": "TROZO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Voz de asombro.",
+              "answer": "OH"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Azúcar.",
+              "answer": "CANDI"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "El sello maestro que da personalidad a cada moneda.",
+              "answer": "CUÑO"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Lo pasen por la tele.",
+              "answer": "EMITAN"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "El apellido de La Rosalía.",
+              "answer": "VILA"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Nocaut, fuera de combate.",
+              "answer": "KO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "El nombre de usuario, me salía desordenado.",
+              "answer": "ALIAS"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Arthur Rimbaud (poeta francés de 'Iluminaciones').",
+              "answer": "AR"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "\"George...\" Prodigio de la NFL, ala cerrada en los 49ers.",
+              "answer": "KITTLE"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Golpe dado con el codo.",
+              "answer": "CODAZO"
+            },
+            "48": {
+              "col": 9,
+              "row": 9,
+              "clue": "Parte inferior del tejado, que sale fuera de la pared (pl).",
+              "answer": "ALEROS"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Tener algo por cierto sin conocerlo de manera directa o sin que esté comprobado.",
+              "answer": "CREER"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"__house\" piso de lujo en la última planta de un edificio.",
+              "answer": "PENT"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Autorización médica para salir de una clínica.",
+              "answer": "ALTA"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Impulsa a brazo.",
+              "answer": "REMA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Alanis bebiendo cazalla.",
+              "answer": "ANIS"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Casi nadie.",
+              "answer": "NADI"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Nuevo sencillo de Eros Ramazzotti.",
+              "answer": "AMA"
+            },
+            "61": {
+              "col": 14,
+              "row": 12,
+              "clue": "Realza, glorifica.",
+              "answer": "LOA"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Ordenador portátil.",
+              "answer": "OP"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Chocolate con...\" el helado Magnum más vendido.",
+              "answer": "ALMENDRAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Asentar algo sobre una base.",
+              "answer": "BASAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Escapar como sea.",
+              "answer": "HUIR"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Agrega, junta, une.",
+              "answer": "AUNA"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Distancié, ahuyenté.",
+              "answer": "ALEJE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Siempre noble, nunca...",
+              "answer": "INNOBLE"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Golpes producidos por los movimientos alternativos del corazón.",
+              "answer": "LATIDOS"
+            },
+            "21": {
+              "col": 1,
+              "row": 3,
+              "clue": "Sola, suelta, individual.",
+              "answer": "AISLADA"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Malsano, dañino.",
+              "answer": "DAÑOSO"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "En el centro de las casas.",
+              "answer": "ASA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Regla para el culto y ceremonial religioso.",
+              "answer": "RITO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Rama de la matemática que analiza datos y calcula probabilidades.",
+              "answer": "ESTADISTICA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "'De... a..., tiro porque me toca'.",
+              "answer": "OCA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Le eché agua a las flores, las...",
+              "answer": "REGUE"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Van seguidas.",
+              "answer": "RST"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "\"Jackie...\" querido actor, comediante y acróbata chino.",
+              "answer": "CHAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Abreviatura de \"Su Santidad\".",
+              "answer": "SS"
+            },
+            "37": {
+              "col": 5,
+              "row": 7,
+              "clue": "Traigo algo a la memoria o a la imaginación.",
+              "answer": "EVOCO"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Iniciales del creador del musical 'Malinche'.",
+              "answer": "NC"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Ensalada de pescado crudo, típica Hawái.",
+              "answer": "POKE"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Voz usada para llamar al gato.",
+              "answer": "MIZ"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Aumenté, acrecenté, amplié.",
+              "answer": "AÑADI"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Gramática. Prefijo que significa \"igual\".",
+              "answer": "ISO"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "La unidad culpable detrás de contar cuántos postres puedes comer.",
+              "answer": "KILOCALORIA"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Encuentro acordado.",
+              "answer": "CITA"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Lo vi venir, me lo….",
+              "answer": "OLI"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Los captura de regreso y se quita.",
+              "answer": "APARTA"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Pensarán, crearán.",
+              "answer": "IDEARAN"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Importante y famosa calle de la Ciudad Vieja de Praga, Rep. Checa.",
+              "answer": "CELETNA"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Depósito o almacén de armamento.",
+              "answer": "ARSENAL"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Informática. Mayor fabricante de procesadores.",
+              "answer": "INTEL"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "De escuadra en Cataluña.",
+              "answer": "MOZO"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Comparo la altura de dos notas musicales.",
+              "answer": "MIDO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Uniré a través de nudos.",
+              "answer": "ATARE"
+            },
+            "67": {
+              "col": 6,
+              "row": 14,
+              "clue": "Abandono voluntario de una religión o creencia.",
+              "answer": "APOSTASIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Justo en ese lugar.\r\n2-Único satélite natural de la Tierra.\r\n3-La falda de Mary Quant.\r\n4-Pulsión de vida.\r\n5-Moneda oficial de Gambia.\r\n6-Filmas, grabas una peli.\r\n7-Alicia Nash (defensora de los derechos de los esquizofrénicos).\r\n8-Condimento por excelencia.\r\n9-Camote, boniato, patata dulce.\r\n10-Adobó, sazonó.\r\n11-Anestesio, narcotizo.\r\n12-A los vampiros le espantan estos dientes.\r\n13-Técnica de imagen médica que usa campos magnéticos para ver tejidos (pl). \r\n18-El cazavampiros de Marvel.\r\n20-Hombre que sufre la enfermedad de la adicción.\r\n23-Capacidad para entender o percibir algo con claridad y rapidez.\r\n25-Cris ha enloquecido en un risco sin base.\r\n27-Masa contenida en la cavidad del cráneo.\r\n28-Dominio web para Togo.\r\n29-Junte, complemente.\r\n30-Parte de algo que se considera por separado del resto.\r\n31-Voz de asombro.\r\n32-Azúcar.\r\n35-El sello maestro que da personalidad a cada moneda.\r\n37-Lo pasen por la tele.\r\n38-El apellido de La Rosalía.\r\n41-Nocaut, fuera de combate.\r\n43-El nombre de usuario, me salía desordenado.\r\n44-Arthur Rimbaud (poeta francés de 'Iluminaciones'). \r\n46-\"George...\" Prodigio de la NFL, ala cerrada en los 49ers. \r\n47-Golpe dado con el codo.\r\n48-Parte inferior del tejado, que sale fuera de la pared (pl).\r\n49-Tener algo por cierto sin conocerlo de manera directa o sin que esté comprobado.\r\n52-\"__house\" piso de lujo en la última planta de un edificio.\r\n53-Autorización médica para salir de una clínica.\r\n55-Impulsa a brazo.\r\n56-Alanis bebiendo cazalla.\r\n57-Casi nadie.\r\n59-Nuevo sencillo de Eros Ramazzotti.\r\n61-Realza, glorifica.\r\n64-Ordenador portátil.",
+        "horizontal_clues": "1-\"Chocolate con...\" el helado Magnum más vendido.\r\n9-Asentar algo sobre una base.\r\n14-Escapar como sea.\r\n15-Agrega, junta, une.\r\n16-Distancié, ahuyenté.\r\n17-Siempre noble, nunca...\r\n19-Golpes producidos por los movimientos alternativos del corazón.\r\n21-Sola, suelta, individual.\r\n22-Malsano, dañino.\r\n24-En el centro de las casas.\r\n25-Regla para el culto y ceremonial religioso.\r\n26-Rama de la matemática que analiza datos y calcula probabilidades.\r\n31-'De... a..., tiro porque me toca'.\r\n33-Le eché agua a las flores, las...\r\n34-Van seguidas.\r\n35-\"Jackie...\" querido actor, comediante y acróbata chino.\r\n36-Abreviatura de \"Su Santidad\".\r\n37-Traigo algo a la memoria o a la imaginación.\r\n39-Iniciales del creador del musical 'Malinche'.\r\n40-Ensalada de pescado crudo, típica Hawái.\r\n42-Voz usada para llamar al gato.\r\n43-Aumenté, acrecenté, amplié.\r\n45-Gramática. Prefijo que significa \"igual\".\r\n46-La unidad culpable detrás de contar cuántos postres puedes comer.\r\n49-Encuentro acordado.\r\n50-Lo vi venir, me lo…. \r\n51-Los captura de regreso y se quita.\r\n54-Pensarán, crearán.\r\n58-Importante y famosa calle de la Ciudad Vieja de Praga, Rep. Checa. \r\n60-Depósito o almacén de armamento.\r\n62-Informática. Mayor fabricante de procesadores.\r\n63-De escuadra en Cataluña.\r\n65-Comparo la altura de dos notas musicales.\r\n66-Uniré a través de nudos.\r\n67-Abandono voluntario de una religión o creencia.",
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,19,20,#,#,#,#,#\r\n#,21,#,#,#,#,#,#,#,22,#,#,#,#,#\r\n23,#,#,#,24,#,#,#,25,#,#,#,#,#,#\r\n26,27,28,29,#,#,#,30,#,#,#,#,31,32,#\r\n33,#,#,#,#,#,#,34,#,#,#,35,#,#,#\r\n36,#,#,#,#,37,38,#,#,#,#,#,#,39,#\r\n40,#,41,#,#,42,#,#,#,#,43,#,44,#,#\r\n45,#,#,#,46,#,#,#,47,48,#,#,#,#,#\r\n#,#,#,49,#,#,#,#,50,#,#,#,#,#,#\r\n51,52,53,#,#,#,#,54,#,#,#,55,56,57,#\r\n58,#,#,#,#,#,59,#,60,#,#,#,#,#,61\r\n62,#,#,#,#,#,63,64,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,67,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

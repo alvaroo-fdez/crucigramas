@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 5365,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-08T20:04:24.787578Z",
+      "updatedAt": "2026-04-08T20:06:06.527528Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-09",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AGAR#SAR#RECIBO\r\nLOSE#ESCLEROSIS\r\nPRETORIA#GIRONA\r\nAGARRAR#RAZONAS\r\nCODEINA#ENANO##\r\nANOTO##PC#DEMAS\r\n#Z#ENTRAR#ALITA\r\nROB##NENES##AEO\r\nPLACE#BAOBAB#M#\r\nGALES#OS##GATOS\r\n##ARCOS#TRONARA\r\nMANCEBO#REGALIZ\r\nARCANE#TACONAZO\r\nREINASOFIA#AMAN\r\nCANOSA#MAE#SORA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Animal originario de Perú, familia del camello y la llama",
+              "answer": "ALPACA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Queso cremoso italiano",
+              "answer": "GORGONZOLA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Limpio, impecable",
+              "answer": "ASEADO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Parece que me retraté en el váter",
+              "answer": "RETRETE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Existirán, estarán",
+              "answer": "SERAN"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Cogerá con la mano",
+              "answer": "ASIRA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Un cable con 3 puntas no es inteligente",
+              "answer": "RCA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… MacNeil\" la niña de El Exorcista",
+              "answer": "REGAN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cubierta de púas o espinas como el espín",
+              "answer": "ERIZADA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"El … no tiene quien le escriba\" de García Márquez",
+              "answer": "CORONEL"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Igualdad ante la ley",
+              "answer": "ISONOMIA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "La concubina de Sabina",
+              "answer": "BINA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Te aventuras, te arriesgas",
+              "answer": "OSAS"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Cierta constelación que usa cinturón",
+              "answer": "ORION"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Suspensión de la clase para descansar",
+              "answer": "RECREO"
+            },
+            "24": {
+              "col": 7,
+              "row": 5,
+              "clue": "Amigos venezolanos",
+              "answer": "PANAS"
+            },
+            "26": {
+              "col": 13,
+              "row": 5,
+              "clue": "Asustar a un niño con una historia de fogata",
+              "answer": "ATEMORIZAR"
+            },
+            "27": {
+              "col": 14,
+              "row": 5,
+              "clue": "\"…Paulo\", Brasil",
+              "answer": "SAO"
+            },
+            "29": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dominio web para Túnez",
+              "answer": "TN"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Se derramó por encima del borde",
+              "answer": "REBOSO"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Un videojuego cuando es de rol",
+              "answer": "RPG"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Barra muy útil para un equilibrista",
+              "answer": "BALANCIN"
+            },
+            "35": {
+              "col": 9,
+              "row": 7,
+              "clue": "Iniciales del pintor del cuadro 'El nacimiento de Venus'",
+              "answer": "SB"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Vínculo espacial o afectivo próximo",
+              "answer": "CERCANO"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "En una película, partes dotadas de unidad en sí mismas",
+              "answer": "ESCENAS"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Instrumento en forma de campana, característico de la samba brasileña",
+              "answer": "AGOGO"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Cambures, plátanos",
+              "answer": "BANANAS"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "El olfato es el único sentido que no pasa por esta parte del cerebro",
+              "answer": "TALAMO"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Pon sal, pimienta y tu toque personal",
+              "answer": "SAZONA"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Persona excesivamente gorda",
+              "answer": "OBESA"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Trasladaba algo hacia acá",
+              "answer": "TRAIA"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Reincide en vicios",
+              "answer": "RECAE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Zuckerberg y Márquez son tocayos",
+              "answer": "MARC"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Espacio de tierra comprendido entre ciertos límites",
+              "answer": "AREA"
+            },
+            "56": {
+              "col": 7,
+              "row": 12,
+              "clue": "Para terminar un máster",
+              "answer": "TFM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sustancia carragenina también llamada \"gelatina vegetal\" o \"gelatina japonesa\"",
+              "answer": "AGAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"En las orillas del…\" el último libro de poemas de Rosalía de Castro",
+              "answer": "SAR"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Resguardo firmado",
+              "answer": "RECIBO"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estoy al tanto (2p)",
+              "answer": "LOSE"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "La enfermedad que padecía Stephen Hawking",
+              "answer": "ESCLEROSIS"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Capital administrativa de Sudáfrica",
+              "answer": "PRETORIA"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Equipo de fútbol español de la ciudad de Gerona",
+              "answer": "GIRONA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Coger, tomar, asir",
+              "answer": "AGARRAR"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Reflexionas, analizas, piensas",
+              "answer": "RAZONAS"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "Opiáceo para calmar la tos",
+              "answer": "CODEINA"
+            },
+            "22": {
+              "col": 8,
+              "row": 4,
+              "clue": "Hombre de estatura muy baja",
+              "answer": "ENANO"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Deporte Marcó tantos",
+              "answer": "ANOTO"
+            },
+            "24": {
+              "col": 7,
+              "row": 5,
+              "clue": "En el ordenador de Penélope Cruz",
+              "answer": "PC"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "El resto de personas, los…",
+              "answer": "DEMAS"
+            },
+            "28": {
+              "col": 3,
+              "row": 6,
+              "clue": "Pasar de fuera hacia adentro",
+              "answer": "ENTRAR"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Atila regresa a por su presita de pollo",
+              "answer": "ALITA"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Jarabe de frutas",
+              "answer": "ROB"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Bebé, niño, chico (pl)",
+              "answer": "NENES"
+            },
+            "36": {
+              "col": 12,
+              "row": 7,
+              "clue": "Aquí todas son fuertes",
+              "answer": "AEO"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "A mí me agrada estar contigo",
+              "answer": "PLACE"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Leyenda: Los dioses plantaron a este árbol al revés por elevado",
+              "answer": "BAOBAB"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Una de las cuatro naciones constitutivas del Reino Unido",
+              "answer": "GALES"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Símbolo químico del osmio",
+              "answer": "OS"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Unos michis",
+              "answer": "GATOS"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Óscar, los de Robin Hood son caros",
+              "answer": "ARCOS"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Sonará estruendosamente",
+              "answer": "TRONARA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Antiguo joven aprendiz, como Lázaro de Tormes en sus inicios",
+              "answer": "MANCEBO"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Varita mágica de caramelo",
+              "answer": "REGALIZ"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Serie animada, ambientada en el universo de League of Legends",
+              "answer": "ARCANE"
+            },
+            "56": {
+              "col": 7,
+              "row": 12,
+              "clue": "Golpe dado con el tacón",
+              "answer": "TACONAZO"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "Museo español que expone el Guernica de Picasso (2p)",
+              "answer": "REINASOFIA"
+            },
+            "58": {
+              "col": 11,
+              "row": 13,
+              "clue": "Capital de Jordania",
+              "answer": "AMAN"
+            },
+            "59": {
+              "col": 0,
+              "row": 14,
+              "clue": "Mujer de cabello blanco",
+              "answer": "CANOSA"
+            },
+            "60": {
+              "col": 7,
+              "row": 14,
+              "clue": "Palabra emblemática de los costarricenses",
+              "answer": "MAE"
+            },
+            "61": {
+              "col": 11,
+              "row": 14,
+              "clue": "Devuelve las argollas a mi amiga Soraida",
+              "answer": "SORA"
+            }
+          }
+        },
+        "vertical_clues": "1-Animal originario de Perú, familia del camello y la llama\r\n2-Queso cremoso italiano\r\n3-Limpio, impecable\r\n4-Parece que me retraté en el váter \r\n5-Existirán, estarán\r\n6-Cogerá con la mano\r\n7-Un cable con 3 puntas no es inteligente\r\n8-\"… MacNeil\" la niña de El Exorcista\r\n9-Cubierta de púas o espinas como el espín\r\n10-\"El … no tiene quien le escriba\" de García Márquez\r\n11-Igualdad ante la ley\r\n12-La concubina de Sabina\r\n13-Te aventuras, te arriesgas\r\n17-Cierta constelación que usa cinturón\r\n20-Suspensión de la clase para descansar\r\n24-Amigos venezolanos\r\n26-Asustar a un niño con una historia de fogata\r\n27-\"…Paulo\", Brasil\r\n29-Dominio web para Túnez \r\n30-Se derramó por encima del borde\r\n32-Un videojuego cuando es de rol\r\n33-Barra muy útil para un equilibrista\r\n35-Iniciales del pintor del cuadro 'El nacimiento de Venus'\r\n38-Vínculo espacial o afectivo próximo\r\n39-En una película, partes dotadas de unidad en sí mismas\r\n41-Instrumento en forma de campana, característico de la samba brasileña\r\n42-Cambures, plátanos\r\n46-El olfato es el único sentido que no pasa por esta parte del cerebro\r\n47-Pon sal, pimienta y tu toque personal\r\n49-Persona excesivamente gorda\r\n50-Trasladaba algo hacia acá\r\n51-Reincide en vicios\r\n52-Zuckerberg y Márquez son tocayos\r\n53-Espacio de tierra comprendido entre ciertos límites\r\n56-Para terminar un máster",
+        "horizontal_clues": "1-Sustancia carragenina también llamada \"gelatina vegetal\" o \"gelatina japonesa\"\r\n5-\"En las orillas del…\" el último libro de poemas de Rosalía de Castro\r\n8-Resguardo firmado\r\n14-Estoy al tanto (2p) \r\n15-La enfermedad que padecía Stephen Hawking\r\n16-Capital administrativa de Sudáfrica\r\n18-Equipo de fútbol español de la ciudad de Gerona\r\n19-Coger, tomar, asir\r\n20-Reflexionas, analizas, piensas\r\n21-Opiáceo para calmar la tos\r\n22-Hombre de estatura muy baja\r\n23-Deporte Marcó tantos\r\n24-En el ordenador de Penélope Cruz\r\n25-El resto de personas, los…\r\n28-Pasar de fuera hacia adentro\r\n31-Atila regresa a por su presita de pollo\r\n32-Jarabe de frutas\r\n34-Bebé, niño, chico (pl)\r\n36-Aquí todas son fuertes\r\n37-A mí me agrada estar contigo\r\n40-Leyenda: Los dioses plantaron a este árbol al revés por elevado\r\n43-Una de las cuatro naciones constitutivas del Reino Unido\r\n44-Símbolo químico del osmio\r\n45-Unos michis\r\n48-Óscar, los de Robin Hood son caros\r\n50-Sonará estruendosamente\r\n52-Antiguo joven aprendiz, como Lázaro de Tormes en sus inicios\r\n54-Varita mágica de caramelo\r\n55-Serie animada, ambientada en el universo de League of Legends\r\n56-Golpe dado con el tacón\r\n57-Museo español que expone el Guernica de Picasso (2p)\r\n58-Capital de Jordania\r\n59-Mujer de cabello blanco\r\n60-Palabra emblemática de los costarricenses\r\n61-Devuelve las argollas a mi amiga Soraida",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,#,#,#,#\r\n16,#,#,#,17,#,#,#,#,18,#,#,#,#,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,#,#,#,22,#,#,#,#,#,#\r\n23,#,#,#,#,#,#,24,#,#,25,#,#,26,27\r\n#,#,#,28,#,29,30,#,#,#,31,#,#,#,#\r\n32,#,33,#,#,34,#,#,#,35,#,#,36,#,#\r\n37,#,#,38,39,#,40,#,#,#,41,42,#,#,#\r\n43,#,#,#,#,#,44,#,#,#,45,#,46,#,47\r\n#,#,48,#,#,49,#,#,50,51,#,#,#,#,#\r\n52,53,#,#,#,#,#,#,54,#,#,#,#,#,#\r\n55,#,#,#,#,#,#,56,#,#,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,#,#,#,58,#,#,#\r\n59,#,#,#,#,#,#,60,#,#,#,61,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

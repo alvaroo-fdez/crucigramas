@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 1695,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-02-03T11:30:35.619723Z",
+      "updatedAt": "2025-02-03T11:37:37.186337Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-02-07",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "R#CERAMICA#MERO\r\nIPE#ATOPE#PINO#\r\nCALAFATIN#REGLA\r\nARADA#ALABADO#C\r\n#ERIGI###ADORNO\r\nD##PANDEMIA#REG\r\nECHO#DEBIL#JOPE\r\nSEAS#IB#GA#USAD\r\nTIRO#GIRAR#VOLO\r\nABA#NEOGRIPE##R\r\nCOGIAN###NONAS#\r\nA#ANDALUZ#TAFUR\r\nRENTE#ANABOLENA\r\n#LEEN#CERAS#EDI\r\nROER#SEDACION#Z",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Adinerada, acaudalada",
+              "answer": "RICA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Observar a una persona por recelos",
+              "answer": "CELAR"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Sucesión de disparos",
+              "answer": "RAFAGA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Anuda",
+              "answer": "ATA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Nombre que recibe la marihuana en México",
+              "answer": "MOTA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Madera filipina incorruptible",
+              "answer": "IPIL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Después del resopón",
+              "answer": "CENA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "El del medio es malo, me da terror",
+              "answer": "MIEDO"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dificultoso, enredado",
+              "answer": "ENGORROSO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Función que alguien o algo desempeña",
+              "answer": "ROL"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Da a luz, por eso me detuve",
+              "answer": "PARE"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Casa de modas italiana, dirigida por Miuccia",
+              "answer": "PRADA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Tejido formado por células grasas",
+              "answer": "ADIPOSO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Un lugar que sientes que te abraza",
+              "answer": "ACOGEDOR"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "El oficio de Nacho Duato o  Ángel Corella",
+              "answer": "BAILARIN"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Individuo originario de un territorio, aborigen",
+              "answer": "INDIGENA"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "País natal de Siddhartha Gautama",
+              "answer": "NEPAL"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Que entregues el tantalio al coche inglés, es algo que hay que recalcar",
+              "answer": "DESTACAR"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Él tenía que haberlo hecho",
+              "answer": "DEBIO"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Emilio Butragueño, \"El Buitre\"",
+              "answer": "EB"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Partir el pan en pedazos muy pequeños",
+              "answer": "MIGAR"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Árbol Nacional de Argentina y Uruguay",
+              "answer": "CEIBO"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Vagueé, holgazaneé",
+              "answer": "HARAGANEE"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Poeta romano, del siglo I, famoso por sus 'Sátiras'",
+              "answer": "JUVENAL"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Símbolo químico del roentgenio",
+              "answer": "RG"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Braceen en el agua",
+              "answer": "NADEN"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "De esta mina boliviana salió el 80% de toda la plata, durante el periodo colonial",
+              "answer": "POTOSI"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Prefijo que refiere a la relación entre dos cosas",
+              "answer": "INTER"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Manchen, marchiten, estropeen",
+              "answer": "AFEEN"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "\"Scoresby…\", fiordo más grande del mundo, en Groenlandia",
+              "answer": "SUND"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Sujete con lazo",
+              "answer": "LACE"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Universidad Nacional de Educación a Distancia",
+              "answer": "UNED"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Tienda de moda española",
+              "answer": "ZARA"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Principio o motivo esencial de algo",
+              "answer": "RAIZ"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Sistema de puntuación del ajedrez",
+              "answer": "ELO"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Iniciando el bachillerato",
+              "answer": "BAC"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Pieza de arcilla cocida",
+              "answer": "CERAMICA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Pescado muy cotizado por su carne delicada",
+              "answer": "MERO"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Se ha torcido el pie",
+              "answer": "IPE"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Al máximo (2p)",
+              "answer": "ATOPE"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Pararse de manos, hacer el…",
+              "answer": "PINO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aprendiz de calafate",
+              "answer": "CALAFATIN"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Cada 28 días, en teoría",
+              "answer": "REGLA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "La muy tarada perdió la cabeza",
+              "answer": "ARADA"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Adorado con alabanzas",
+              "answer": "ALABADO"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Fundé, instituí, levanté",
+              "answer": "ERIGI"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Complemento ornamental",
+              "answer": "ADORNO"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "La Peste Negra es la más letal de la historia de la humanidad",
+              "answer": "PANDEMIA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Regirá sin odio",
+              "answer": "REG"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo tiro, lo arrojo a la basura",
+              "answer": "ECHO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Endeble, canijo, frágil",
+              "answer": "DEBIL"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "¡Joder!, un eufemismo",
+              "answer": "JOPE"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Existas, formes partes de algo",
+              "answer": "SEAS"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Ingrid Betancourt",
+              "answer": "IB"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Utilizad, emplead",
+              "answer": "USAD"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Disparo, detonación",
+              "answer": "TIRO"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Dar vueltas sobre su propio eje",
+              "answer": "GIRAR"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Se fue el pajarito",
+              "answer": "VOLO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Mit Griega Ninfa de la fuente de Ergisque",
+              "answer": "ABA"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Medicamento antigripal para aliviar síntomas del resfriado",
+              "answer": "NEOGRIPE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Asían, agarraban, sujetaban",
+              "answer": "COGIAN"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Novenas",
+              "answer": "NONAS"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Persona originaria del sur de la península ibérica",
+              "answer": "ANDALUZ"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Tahúr, jugador tramposo",
+              "answer": "TAFUR"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Alquile",
+              "answer": "RENTE"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Madre de la reina Isabel I de Inglaterra (2p)",
+              "answer": "ANABOLENA"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Procesan información escrita con la vista",
+              "answer": "LEEN"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Crayones para los más pequeños",
+              "answer": "CERAS"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Exceso de Información Inútil",
+              "answer": "EDI"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Cortar con los dientes",
+              "answer": "ROER"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Estado de calma inducido por fármacos",
+              "answer": "SEDACION"
+            }
+          }
+        },
+        "vertical_clues": "1-Adinerada, acaudalada\r\n2-Observar a una persona por recelos\r\n3-Sucesión de disparos\r\n4-Anuda\r\n5-Nombre que recibe la marihuana en México\r\n6-Madera filipina incorruptible\r\n7-Después del resopón\r\n8-El del medio es malo, me da terror\r\n9-Dificultoso, enredado\r\n10-Función que alguien o algo desempeña\r\n12-Da a luz, por eso me detuve\r\n14-Casa de modas italiana, dirigida por Miuccia\r\n16-Tejido formado por células grasas\r\n18-Un lugar que sientes que te abraza\r\n21-El oficio de Nacho Duato o  Ángel Corella\r\n23-Individuo originario de un territorio, aborigen\r\n25-País natal de Siddhartha Gautama\r\n26-Que entregues el tantalio al coche inglés, es algo que hay que recalcar\r\n28-Él tenía que haberlo hecho\r\n29-Emilio Butragueño, \"El Buitre\"\r\n30-Partir el pan en pedazos muy pequeños\r\n33-Árbol Nacional de Argentina y Uruguay\r\n34-Vagueé, holgazaneé\r\n36-Poeta romano, del siglo I, famoso por sus 'Sátiras'\r\n43-Símbolo químico del roentgenio\r\n46-Braceen en el agua\r\n47-De esta mina boliviana salió el 80% de toda la plata, durante el periodo colonial\r\n49-Prefijo que refiere a la relación entre dos cosas\r\n51-Manchen, marchiten, estropeen\r\n52-\"Scoresby…\", fiordo más grande del mundo, en Groenlandia\r\n54-Sujete con lazo\r\n55-Universidad Nacional de Educación a Distancia\r\n56-Tienda de moda española\r\n58-Principio o motivo esencial de algo\r\n60-Sistema de puntuación del ajedrez\r\n62-Iniciando el bachillerato",
+        "horizontal_clues": "2-Pieza de arcilla cocida\r\n8-Pescado muy cotizado por su carne delicada\r\n11-Se ha torcido el pie\r\n13-Al máximo (2p)\r\n14-Pararse de manos, hacer el…\r\n15-Aprendiz de calafate\r\n17-Cada 28 días, en teoría\r\n19-La muy tarada perdió la cabeza\r\n20-Adorado con alabanzas\r\n22-Fundé, instituí, levanté\r\n24-Complemento ornamental \r\n27-La Peste Negra es la más letal de la historia de la humanidad\r\n31-Regirá sin odio\r\n32-Lo tiro, lo arrojo a la basura \r\n35-Endeble, canijo, frágil\r\n36-¡Joder!, un eufemismo\r\n37-Existas, formes partes de algo\r\n38-Ingrid Betancourt\r\n39-Piel de gallina\r\n40-Utilizad, emplead\r\n41-Disparo, detonación\r\n42-Dar vueltas sobre su propio eje\r\n44-Se fue el pajarito\r\n45-Mit Griega Ninfa de la fuente de Ergisque\r\n46-Medicamento antigripal para aliviar síntomas del resfriado \r\n48-Asían, agarraban, sujetaban\r\n50-Novenas\r\n53-Persona originaria del sur de la península ibérica \r\n57-Tahúr, jugador tramposo\r\n59-Alquile\r\n61-Madre de la reina Isabel I de Inglaterra (2p) \r\n63-Procesan información escrita con la vista \r\n64-Crayones para los más pequeños\r\n65-Exceso de Información Inútil\r\n66-Cortar con los dientes\r\n67-Estado de calma inducido por fármacos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

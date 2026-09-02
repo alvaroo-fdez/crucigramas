@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5429,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-24T00:47:57.716266Z",
+      "updatedAt": "2026-04-24T00:48:49.447048Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-24",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "P#ABRASA#CLAVES\r\nRN#GASAS#LOTUS#\r\nOE##COBIJARE##M\r\nMCD#EMISORA##CI\r\nPIET#ANISE#ORLO\r\nTOREABA#ETEREOS\r\n##ROPAS#PEDIGRI\r\nACERO#####UNIAS\r\nMEDIDOR#ORCOS##\r\nAPOCOPE#REACTOR\r\nBARA#RUEDE#ORTO\r\nAS##VENTILA#OIS\r\nS##MISIONES##CB\r\n#FARGO#LAGER#OI\r\nAMASAR#ALIOLI#F",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Instrucción que se le da al ChatGPT (voz inglesa)",
+              "answer": "PROMPT"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Iniciales de cofundador de Microsoft",
+              "answer": "BG"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Una carrera en EEUU",
+              "answer": "RACE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Mostraba algo por una abertura",
+              "answer": "ASOMABA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Toca cancelar a los romanos por el \"rapto\" de ellas",
+              "answer": "SABINAS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "De esta manera, acepto (2p)",
+              "answer": "ASISI"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Vino que se elabora con mezcla de uva tinta y blanca",
+              "answer": "CLARETE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Bebida de los esclavos\" en la antigua Grecia",
+              "answer": "LORA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Media Atenas",
+              "answer": "ATE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dominio web para Vanuatu",
+              "answer": "VU"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Dominio web para España",
+              "answer": "ES"
+            },
+            "14": {
+              "col": 1,
+              "row": 1,
+              "clue": "Terco y porfiado",
+              "answer": "NECIO"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "\"… Puig i Cadafalch\" diseñó la Casa de les Punxes en Barcelona",
+              "answer": "JOSEP"
+            },
+            "20": {
+              "col": 14,
+              "row": 2,
+              "clue": "Contracción de la pupila del ojo",
+              "answer": "MIOSIS"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Circuito o contorno de una cosa",
+              "answer": "DERREDOR"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Potabiliza con cloro el agua",
+              "answer": "CLORA"
+            },
+            "26": {
+              "col": 3,
+              "row": 4,
+              "clue": "La primera prueba de conducir",
+              "answer": "TEORICA"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Tercer río más caudaloso del mundo",
+              "answer": "ORINOCO"
+            },
+            "29": {
+              "col": 12,
+              "row": 4,
+              "clue": "Libro donde se anotan datos importantes",
+              "answer": "REGISTRO"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Parece que Apolo tiene un pseudónimo",
+              "answer": "APODO"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Enseña, prepara",
+              "answer": "EDUCA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lo contrario de \"odiabas\"",
+              "answer": "AMABAS"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Variantes de la COVID",
+              "answer": "CEPAS"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Déspota, tirano, dictador",
+              "answer": "OPRESOR"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Junté a varias personas",
+              "answer": "REUNI"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Lo es primero, segundo o tercero",
+              "answer": "ORDINAL"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Volví a preferir",
+              "answer": "REELEGI"
+            },
+            "46": {
+              "col": 13,
+              "row": 9,
+              "clue": "Relativo al oído",
+              "answer": "OTICO"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Corte de buey tierno que se asa al horno",
+              "answer": "ROSBIF"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Relativo a Etolia, Grecia (fem)",
+              "answer": "ETOLA"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Hierro largo usado en construcción",
+              "answer": "VIGA"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Limpieza",
+              "answer": "ASEO"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Abreviatura de \"señora\" en inglés",
+              "answer": "MRS"
+            },
+            "58": {
+              "col": 1,
+              "row": 13,
+              "clue": "Frecuencia modulada",
+              "answer": "FM"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Rosa Luxemburgo",
+              "answer": "RL"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Parece que rodea con los brazos lo que quema",
+              "answer": "ABRASA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Combinaciones secretas",
+              "answer": "CLAVES"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Símbolo químico del Radón",
+              "answer": "RN"
+            },
+            "15": {
+              "col": 3,
+              "row": 1,
+              "clue": "Tejido, mallas para cirugías",
+              "answer": "GASAS"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Fabricante del Reino Unido especializado en automóviles deportivos",
+              "answer": "LOTUS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Outlook Express",
+              "answer": "OE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Daré refugio",
+              "answer": "COBIJARE"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "1400 en números romanos",
+              "answer": "MCD"
+            },
+            "23": {
+              "col": 4,
+              "row": 3,
+              "clue": "Empresa de radiodifusión",
+              "answer": "EMISORA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "101 en numeración romana",
+              "answer": "CI"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"… Mondrian\", pintor holandés",
+              "answer": "PIET"
+            },
+            "27": {
+              "col": 5,
+              "row": 4,
+              "clue": "Impregné con anís una comida",
+              "answer": "ANISE"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Oboe rústico de los Alpes, con 2 metros de largo",
+              "answer": "ORLO"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lidiaba con los toros en una plaza",
+              "answer": "TOREABA"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "Que son intangibles o poco definidos y a la vez, sutiles o sublimes",
+              "answer": "ETEREOS"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Prendas de vestir",
+              "answer": "ROPAS"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Linaje o ascendencia de un animal de raza",
+              "answer": "PEDIGRI"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Superman, el hombre de…",
+              "answer": "ACERO"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Juntabas varias cosas entre sí",
+              "answer": "UNIAS"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lo es el cacito de la proteína o el del jarabe",
+              "answer": "MEDIDOR"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Mit romana, uno de los demonios del inframundo",
+              "answer": "ORCOS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Supresión de algún sonido al final de un vocablo",
+              "answer": "APOCOPE"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "El que estalló en Chernóbil",
+              "answer": "REACTOR"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pueblo amazónico que también se conoce como Waípinõmakã",
+              "answer": "BARA"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Caiga, dando vueltas por una pendiente",
+              "answer": "RUEDE"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Salida del sol u otro astro por el horizonte",
+              "answer": "ORTO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Carta de cada palo que lleva el número uno",
+              "answer": "AS"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Renueva con aire aromático",
+              "answer": "VENTILA"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Percibís un ruido",
+              "answer": "OIS"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Objetivos en los videojuegos",
+              "answer": "MISIONES"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Inic Actor intérprete de Batman en 'El caballero de la noche'",
+              "answer": "CB"
+            },
+            "58": {
+              "col": 1,
+              "row": 13,
+              "clue": "Premiada película policíaca de los Hermanos Coen, 1996",
+              "answer": "FARGO"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Tipo de cerveza, también le dicen rubia",
+              "answer": "LAGER"
+            },
+            "62": {
+              "col": 13,
+              "row": 13,
+              "clue": "0 a 1",
+              "answer": "OI"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Amarás como loco el faenar del panadero",
+              "answer": "AMASAR"
+            },
+            "64": {
+              "col": 7,
+              "row": 14,
+              "clue": "Salsa hecha de ajos machacados y aceite",
+              "answer": "ALIOLI"
+            }
+          }
+        },
+        "vertical_clues": "1-Instrucción que se le da al ChatGPT (voz inglesa) \r\n3-Iniciales de cofundador de Microsoft\r\n4-Una carrera en EEUU\r\n5-Mostraba algo por una abertura\r\n6-Toca cancelar a los romanos por el \"rapto\" de ellas\r\n7-De esta manera, acepto (2p) \r\n8-Vino que se elabora con mezcla de uva tinta y blanca\r\n9-\"Bebida de los esclavos\" en la antigua Grecia\r\n10-Media Atenas\r\n11-Dominio web para Vanuatu\r\n12-Dominio web para España\r\n14-Terco y porfiado\r\n19-\"… Puig i Cadafalch\" diseñó la Casa de les Punxes en Barcelona\r\n20-Contracción de la pupila del ojo\r\n22-Circuito o contorno de una cosa\r\n24-Potabiliza con cloro el agua\r\n26-La primera prueba de conducir\r\n28-Tercer río más caudaloso del mundo\r\n29-Libro donde se anotan datos importantes \r\n31-Parece que Apolo tiene un pseudónimo\r\n33-Enseña, prepara\r\n36-Lo contrario de \"odiabas\"\r\n37-Variantes de la COVID\r\n40-Déspota, tirano, dictador\r\n41-Junté a varias personas\r\n42-Lo es primero, segundo o tercero\r\n43-Volví a preferir\r\n46-Relativo al oído\r\n47-Corte de buey tierno que se asa al horno\r\n50-Relativo a Etolia, Grecia (fem)\r\n53-Hierro largo usado en construcción\r\n54-Limpieza\r\n56-Abreviatura de \"señora\" en inglés\r\n58-Frecuencia modulada\r\n59-Alcohólicos Anónimos\r\n61-Rosa Luxemburgo",
+        "horizontal_clues": "2-Parece que rodea con los brazos lo que quema\r\n8-Combinaciones secretas\r\n13-Símbolo químico del Radón\r\n15-Tejido, mallas para cirugías\r\n16-Fabricante del Reino Unido especializado en automóviles deportivos \r\n17-Outlook Express\r\n18-Daré refugio\r\n21-1400 en números romanos\r\n23-Empresa de radiodifusión\r\n24-101 en numeración romana\r\n25-\"… Mondrian\", pintor holandés\r\n27-Impregné con anís una comida\r\n28-Oboe rústico de los Alpes, con 2 metros de largo\r\n30-Lidiaba con los toros en una plaza\r\n32-Que son intangibles o poco definidos y a la vez, sutiles o sublimes\r\n34-Prendas de vestir\r\n35-Linaje o ascendencia de un animal de raza \r\n36-Superman, el hombre de…\r\n38-Juntabas varias cosas entre sí\r\n39-Lo es el cacito de la proteína o el del jarabe\r\n42-Mit romana, uno de los demonios del inframundo\r\n44-Supresión de algún sonido al final de un vocablo\r\n45-El que estalló en Chernóbil\r\n48-Pueblo amazónico que también se conoce como Waípinõmakã\r\n49-Caiga, dando vueltas por una pendiente\r\n51-Salida del sol u otro astro por el horizonte\r\n52-Carta de cada palo que lleva el número uno\r\n53-Renueva con aire aromático\r\n55-Percibís un ruido\r\n56-Objetivos en los videojuegos\r\n57-Inic Actor intérprete de Batman en 'El caballero de la noche'\r\n58-Premiada película policíaca de los Hermanos Coen, 1996\r\n60-Tipo de cerveza, también le dicen rubia\r\n62-0 a 1\r\n63-Amarás como loco el faenar del panadero\r\n64-Salsa hecha de ajos machacados y aceite",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,7,#,8,9,10,11,12,#\r\n13,14,#,15,#,#,#,#,#,16,#,#,#,#,#\r\n17,#,#,#,18,#,#,#,19,#,#,#,#,#,20\r\n21,#,22,#,23,#,#,#,#,#,#,#,#,24,#\r\n25,#,#,26,#,27,#,#,#,#,#,28,29,#,#\r\n30,#,#,#,31,#,#,#,32,#,33,#,#,#,#\r\n#,#,34,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,37,#,#,#,#,#,#,#,#,38,#,#,#,#\r\n39,#,#,#,#,40,41,#,42,43,#,#,#,#,#\r\n44,#,#,#,#,#,#,#,45,#,#,#,#,46,47\r\n48,#,#,#,#,49,#,50,#,#,#,51,#,#,#\r\n52,#,#,#,53,#,#,#,#,#,54,#,55,#,#\r\n#,#,#,56,#,#,#,#,#,#,#,#,#,57,#\r\n#,58,59,#,#,#,#,60,#,#,#,61,#,62,#\r\n63,#,#,#,#,#,#,64,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

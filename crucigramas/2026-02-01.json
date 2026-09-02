@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 4755,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-31T19:15:11.646600Z",
+      "updatedAt": "2026-01-31T19:16:12.742692Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "LUCAS#CAES#TEAM\r\nAMOLA#AGNES#NBO\r\nMENEM#PRODUCTOR\r\nA#TABACO#EMERGI\r\n#CURADO#T#OREAR\r\nNOSE#AMUEBLA###\r\nENI#DP#S#ULTIMO\r\nSTOP#TOTAL#IRON\r\nSONABA#E#LT#ROC\r\n###PURIDAD#MIRE\r\nAMAIS#S#COMETE#\r\nTALLER#BOGOTA#P\r\nASIATICAS#FIBRA\r\nDAC#ATACA#ELLOS\r\nASEE#ANAR#NOEMA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Es mala idea que le pase la lengua",
+              "answer": "LAMA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Unidad Militar de Emergencias",
+              "answer": "UME"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Lesión causada por un golpe sin herida abierta",
+              "answer": "CONTUSION"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Mezclaré los metales",
+              "answer": "ALEARE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Danza popular brasileña",
+              "answer": "SAMBA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Empresa de videojuegos creadora de \"Mega Man\" y \"Resident Evil\"",
+              "answer": "CAPCOM"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Prefijo que refiere al campo",
+              "answer": "AGRO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Gramática Sufijo utilizado para formar números ordinales (masc)",
+              "answer": "ENO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Capital de una diócesis",
+              "answer": "SEDE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Preposición que sugiere situación media",
+              "answer": "ENTRE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Intercede, habla en favor de alguien",
+              "answer": "ABOGA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Fenecer, fallecer",
+              "answer": "MORIR"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Uva tinta típica de Baleares y Cataluña, España",
+              "answer": "SUMOLL"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Vocalista de la banda de rock argentina \"Soda Stereo\" (1959",
+              "answer": "CERATI"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Modificar una obra científica, literaria o musical",
+              "answer": "ADAPTAR"
+            },
+            "24": {
+              "col": 1,
+              "row": 4,
+              "clue": "Numeró, computó cosas",
+              "answer": "CONTO"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lago escocés famoso por su monstruo",
+              "answer": "NESS"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Ud",
+              "answer": "USTED"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Raza canina de aspecto robusto y arrugado",
+              "answer": "BULLDOG"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Propenso a enfadarse con facilidad",
+              "answer": "IRRITABLE"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Cineasta y activista político, director de \"Fahrenheit 9/11\" y \"Sicko\"",
+              "answer": "MOORE"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Siglo XI",
+              "answer": "ONCE"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "Pequeña protuberancia en la lengua",
+              "answer": "PAPILA"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Coloquial Autobús de dimensiones reducidas",
+              "answer": "BUSETA"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Dominio web para Islandia",
+              "answer": "IS"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Perseguir, hostigar",
+              "answer": "ACOSAR"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Grupo químico presente en muchos compuestos orgánicos",
+              "answer": "METILO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Unida con lazos",
+              "answer": "ATADA"
+            },
+            "50": {
+              "col": 1,
+              "row": 10,
+              "clue": "Grandes grupos de personas",
+              "answer": "MASAS"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"… in Chains\" banda de grunge estadounidense muy popular en los 90'",
+              "answer": "ALICE"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Se burlen, se…",
+              "answer": "MOFEN"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Actriz prota de la peli 'Gilda', estrenada en 1946",
+              "answer": "RITA"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Portaequipaje, soporte en el techo de un vehículo",
+              "answer": "BACA"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "Se nos va el tiempo, mejor entra ya",
+              "answer": "PASA"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Perro, mamífero cánido",
+              "answer": "CAN"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Medio de almacenamiento utilizado en ordenadores",
+              "answer": "ROM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"George…\" el de la Guerra de las galaxias",
+              "answer": "LUCAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Sucumbes, pereces, te extingues",
+              "answer": "CAES"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Mi meta es estar en el equipo del inglés",
+              "answer": "TEAM"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Saca filo a un arma en la muela",
+              "answer": "AMOLA"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "\"… Varda\" francesa pionera del cine hecho por mujeres",
+              "answer": "AGNES"
+            },
+            "17": {
+              "col": 12,
+              "row": 1,
+              "clue": "Código IATA del aeropuerto de Nairobi",
+              "answer": "NBO"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Presidente de Argentina entre 1989 y 1999",
+              "answer": "MENEM"
+            },
+            "19": {
+              "col": 6,
+              "row": 2,
+              "clue": "Creador de contenido audiovisual",
+              "answer": "PRODUCTOR"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Fue a por esto y no volvió",
+              "answer": "TABACO"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Broté, salí a la superficie",
+              "answer": "EMERGI"
+            },
+            "24": {
+              "col": 1,
+              "row": 4,
+              "clue": "Proceso de conservación de alimentos",
+              "answer": "CURADO"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Costa Rica Buscar oro en los ríos de forma artesanal",
+              "answer": "OREAR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo desconozco (2p)",
+              "answer": "NOSE"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Equipa una vivienda con enseres",
+              "answer": "AMUEBLA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "En medio de Kenia",
+              "answer": "ENI"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Iniciales del dúo de música electrónica, autores de \"One More Time\"",
+              "answer": "DP"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "\"El… de la fila\", está como un burro amarrado en la puerta del baile",
+              "answer": "ULTIMO"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Detener en inglés",
+              "answer": "STOP"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "General, universal y que lo comprende todo en su especie",
+              "answer": "TOTAL"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… Man\" el hombre de hierro",
+              "answer": "IRON"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hacía ruido",
+              "answer": "SONABA"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Iniciales del desarrollador del sistema operativo Linux",
+              "answer": "LT"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Pedazo de roca",
+              "answer": "ROC"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "En realidad, a decir verdad, en…",
+              "answer": "PURIDAD"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Vea, observe bien",
+              "answer": "MIRE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tenéis amor a alguien",
+              "answer": "AMAIS"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Cae o incurre en una culpa, yerro, falta",
+              "answer": "COMETE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lugar de trabajo del mecánico o el escultor",
+              "answer": "TALLER"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Capital de Colombia",
+              "answer": "BOGOTA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Y así, a ti casi te unen con las orientales",
+              "answer": "ASIATICAS"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Material dietético beneficioso para la digestión",
+              "answer": "FIBRA"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Diseño asistido por computador (siglas)",
+              "answer": "DAC"
+            },
+            "63": {
+              "col": 4,
+              "row": 13,
+              "clue": "Acomete, abalánzate",
+              "answer": "ATACA"
+            },
+            "64": {
+              "col": 10,
+              "row": 13,
+              "clue": "Parece que son bellos esos hombres",
+              "answer": "ELLOS"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Dejé todo limpio y pulcro",
+              "answer": "ASEE"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "Ir en valenciano",
+              "answer": "ANAR"
+            },
+            "67": {
+              "col": 10,
+              "row": 14,
+              "clue": "Ling Cada uno de los rasgos semánticos del semema",
+              "answer": "NOEMA"
+            }
+          }
+        },
+        "vertical_clues": "1-Es mala idea que le pase la lengua\r\n2-Unidad Militar de Emergencias\r\n3-Lesión causada por un golpe sin herida abierta \r\n4-Mezclaré los metales\r\n5-Danza popular brasileña\r\n6-Empresa de videojuegos creadora de \"Mega Man\" y \"Resident Evil\"\r\n7-Prefijo que refiere al campo\r\n8-Gramática Sufijo utilizado para formar números ordinales (masc)\r\n9-Capital de una diócesis\r\n11-Preposición que sugiere situación media\r\n12-Intercede, habla en favor de alguien\r\n13-Fenecer, fallecer\r\n16-Uva tinta típica de Baleares y Cataluña, España\r\n20-Vocalista de la banda de rock argentina \"Soda Stereo\" (1959-2014)\r\n22-Modificar una obra científica, literaria o musical\r\n24-Numeró, computó cosas\r\n25-Teluro\r\n27-Lago escocés famoso por su monstruo\r\n29-Ud\r\n30-Raza canina de aspecto robusto y arrugado \r\n34-Propenso a enfadarse con facilidad \r\n35-Cineasta y activista político, director de \"Fahrenheit 9/11\" y \"Sicko\"\r\n36-Siglo XI\r\n38-Pequeña protuberancia en la lengua \r\n42-Coloquial Autobús de dimensiones reducidas\r\n46-Dominio web para Islandia\r\n47-Perseguir, hostigar\r\n48-Grupo químico presente en muchos compuestos orgánicos \r\n49-Unida con lazos\r\n50-Grandes grupos de personas\r\n51-\"… in Chains\" banda de grunge estadounidense muy popular en los 90' \r\n53-Se burlen, se…\r\n55-Actriz prota de la peli 'Gilda', estrenada en 1946\r\n56-Portaequipaje, soporte en el techo de un vehículo\r\n57-Se nos va el tiempo, mejor entra ya\r\n59-Perro, mamífero cánido\r\n61-Medio de almacenamiento utilizado en ordenadores",
+        "horizontal_clues": "1-\"George…\" el de la Guerra de las galaxias\r\n6-Sucumbes, pereces, te extingues\r\n10-Mi meta es estar en el equipo del inglés\r\n14-Saca filo a un arma en la muela\r\n15-\"… Varda\" francesa pionera del cine hecho por mujeres\r\n17-Código IATA del aeropuerto de Nairobi\r\n18-Presidente de Argentina entre 1989 y 1999\r\n19-Creador de contenido audiovisual \r\n21-Fue a por esto y no volvió\r\n23-Broté, salí a la superficie\r\n24-Proceso de conservación de alimentos\r\n26-Costa Rica Buscar oro en los ríos de forma artesanal\r\n27-Lo desconozco (2p)\r\n28-Equipa una vivienda con enseres \r\n31-En medio de Kenia\r\n32-Iniciales del dúo de música electrónica, autores de \"One More Time\"\r\n33-\"El… de la fila\", está como un burro amarrado en la puerta del baile\r\n37-Detener en inglés\r\n39-General, universal y que lo comprende todo en su especie\r\n40-\"… Man\" el hombre de hierro\r\n41-Hacía ruido\r\n43-Iniciales del desarrollador del sistema operativo Linux\r\n44-Pedazo de roca\r\n45-En realidad, a decir verdad, en…\r\n48-Vea, observe bien\r\n49-Tenéis amor a alguien\r\n52-Cae o incurre en una culpa, yerro, falta\r\n54-Lugar de trabajo del mecánico o el escultor\r\n56-Capital de Colombia\r\n58-Y así, a ti casi te unen con las orientales\r\n60-Material dietético beneficioso para la digestión \r\n62-Diseño asistido por computador (siglas)\r\n63-Acomete, abalánzate\r\n64-Parece que son bellos esos hombres\r\n65-Dejé todo limpio y pulcro\r\n66-Ir en valenciano \r\n67-Ling Cada uno de los rasgos semánticos del semema",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,16,#,17,#,#\r\n18,#,#,#,#,#,19,#,#,#,#,20,#,#,#\r\n#,#,21,#,#,22,#,#,#,23,#,#,#,#,#\r\n#,24,#,#,#,#,#,#,25,#,26,#,#,#,#\r\n27,#,#,#,#,28,#,29,#,30,#,#,#,#,#\r\n31,#,#,#,32,#,#,#,#,33,#,#,34,35,36\r\n37,#,#,38,#,39,#,#,#,#,#,40,#,#,#\r\n41,#,#,#,42,#,#,#,#,43,#,#,44,#,#\r\n#,#,#,45,#,#,46,#,47,#,#,48,#,#,#\r\n49,50,51,#,#,#,#,#,52,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,56,#,#,#,#,#,#,57\r\n58,#,#,#,#,#,59,#,#,#,60,#,#,61,#\r\n62,#,#,#,63,#,#,#,#,#,64,#,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,67,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

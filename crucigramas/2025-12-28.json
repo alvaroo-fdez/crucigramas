@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 4339,
+    "type": null,
+    "attributes": {
+      "author": "Elro / Edit. Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-18T08:38:25.526586Z",
+      "updatedAt": "2025-12-18T11:39:49.795493Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Elro / Edit. Nataly Sanoja",
+      "theme": "El chiste de la desaparición",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-28",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "BUFONADAS###LSA\r\nOSAD#BREW##CIAN\r\nCALIBRARA#VENCI\r\nASEARAS#TRANCES\r\n###SOS###ENTERO\r\nMENEM#EPATAR#DT\r\nOVA#EOLICA#AMOR\r\nNADAESTAESCRITO\r\nOLOR#CORREA#RAP\r\nGU#TRINEO#IDOLO\r\nRACIAL###CSI###\r\nACOSTAD#HOTELES\r\nFINTA#EFEMERIDE\r\nIOTA##MANI#ASIA\r\nANO###INOCENTES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"De … en …\" así se pasea un rumor",
+              "answer": "BOCA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Haces que algo te sea útil, lo…",
+              "answer": "USAS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Hable en portugués",
+              "answer": "FALE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tuviese absoluto rencor contra alguien",
+              "answer": "ODIASE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Inaugures tu nuevo negocio",
+              "answer": "ABRAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Mujeres profesionales de la salud (abrev)",
+              "answer": "DRAS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Era loca la rea que subía",
+              "answer": "AER"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Unidad táctica de EEUU para situaciones policiales especiales",
+              "answer": "SWAT"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Depredador felino ibérico cuya expansión lo está salvando de la extinción",
+              "answer": "LINCE"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Del padre",
+              "answer": "SACERDOTAL"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Cuerpo que tiene propiedades físicas distintas según la dirección en que se mide",
+              "answer": "ANISOTROPO"
+            },
+            "14": {
+              "col": 11,
+              "row": 1,
+              "clue": "Alinear en el medio",
+              "answer": "CENTRAR"
+            },
+            "16": {
+              "col": 4,
+              "row": 2,
+              "clue": "Hice un chiste el 28 de diciembre",
+              "answer": "BROMEE"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Presumida, engreída, ufana",
+              "answer": "VANA"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Desafiase a duelo",
+              "answer": "RETASE"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Documento explicativo que muestra varias perspectivas",
+              "answer": "MONOGRAFIA"
+            },
+            "24": {
+              "col": 1,
+              "row": 5,
+              "clue": "Instancia para saber si el alumnado incorporó el conocimiento",
+              "answer": "EVALUACION"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Cruzó el río sin un navío",
+              "answer": "NADO"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"… John\" músico británico también conocido como 'Rocket Man'",
+              "answer": "ELTON"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Sonaré como los habitantes de un nido",
+              "answer": "PIARE"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Aleación de hierro y carbono",
+              "answer": "ACERO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Aumenta y disminuye alternativamente",
+              "answer": "OSCILA"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Echó un vistazo",
+              "answer": "MIRO"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Creador que vuelca su humanidad en sus obras",
+              "answer": "ARTISTA"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Fuiste víctima de un chiste del 28 de diciembre",
+              "answer": "CAISTE"
+            },
+            "43": {
+              "col": 4,
+              "row": 9,
+              "clue": "La que la gata mata con su pata",
+              "answer": "RATA"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Repartieran, otorgaran",
+              "answer": "DIERAN"
+            },
+            "47": {
+              "col": 2,
+              "row": 10,
+              "clue": "Se fijó cuántos eran",
+              "answer": "CONTO"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Medio original de los personajes de Marvel y DC",
+              "answer": "COMIC"
+            },
+            "50": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"… Moore\", protagonista de 'La sustancia'",
+              "answer": "DEMI"
+            },
+            "51": {
+              "col": 8,
+              "row": 11,
+              "clue": "Hierba seca que le encanta al ganado",
+              "answer": "HENO"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "La interminable lista",
+              "answer": "LIST"
+            },
+            "53": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"… Falco\", intérprete de Carmela Soprano en 'Los Soprano'",
+              "answer": "EDIE"
+            },
+            "54": {
+              "col": 14,
+              "row": 11,
+              "clue": "Personifiques a",
+              "answer": "SEAS"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Seguidor desde el inicio",
+              "answer": "FAN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Jocosidades para que el rey se ría",
+              "answer": "BUFONADAS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Córtenle la cabeza a la reina de 'Frozen'",
+              "answer": "LSA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Tened el valor de hacerlo",
+              "answer": "OSAD"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "\"Cold…\" forma fina de decirle al café en frío",
+              "answer": "BREW"
+            },
+            "14": {
+              "col": 11,
+              "row": 1,
+              "clue": "Color celeste saturado",
+              "answer": "CIAN"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ajustará el diámetro de su arma de fuego",
+              "answer": "CALIBRARA"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Salí triunfante de la batalla",
+              "answer": "VENCI"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Compondrás con limpieza",
+              "answer": "ASEARAS"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Estados alterados de consciencia",
+              "answer": "TRANCES"
+            },
+            "21": {
+              "col": 3,
+              "row": 4,
+              "clue": "\"Ayuda, por favor\" de un náufrago con urgencia",
+              "answer": "SOS"
+            },
+            "22": {
+              "col": 9,
+              "row": 4,
+              "clue": "Intacto, sin ninguna falta",
+              "answer": "ENTERO"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "El némesis de Eminem es este expresidente argentino",
+              "answer": "MENEM"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Producir asombro o admiración",
+              "answer": "EPATAR"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Guardiola, Mourinho, Klopp o Scaloni",
+              "answer": "DT"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Le pone huevos",
+              "answer": "OVA"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Energía conseguida mediante aerogeneradores",
+              "answer": "EOLICA"
+            },
+            "33": {
+              "col": 11,
+              "row": 6,
+              "clue": "Intenso deseo por el encuentro y unión con esa persona especial",
+              "answer": "AMOR"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "(3p)",
+              "answer": "NADAESTAESCRITO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lo que esconde una colonia",
+              "answer": "OLOR"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Cinta que impide que el can se independice",
+              "answer": "CORREA"
+            },
+            "40": {
+              "col": 12,
+              "row": 8,
+              "clue": "Música popular que al sonar va a hacer voltear a un par",
+              "answer": "RAP"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Gusano enfermo",
+              "answer": "GU"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Vehículo para superficies deslizantes",
+              "answer": "TRINEO"
+            },
+            "44": {
+              "col": 10,
+              "row": 9,
+              "clue": "Héroe popular",
+              "answer": "IDOLO"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tipo de discriminación cuando es por la etnia de la persona",
+              "answer": "RACIAL"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Ficción procedimental de la TV de los 2000",
+              "answer": "CSI"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dejad en su cama al niño dormido",
+              "answer": "ACOSTAD"
+            },
+            "51": {
+              "col": 8,
+              "row": 11,
+              "clue": "Edificios calificados con estrellas",
+              "answer": "HOTELES"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Regate, amago",
+              "answer": "FINTA"
+            },
+            "56": {
+              "col": 6,
+              "row": 12,
+              "clue": "Suceso importante que se festeja cada año",
+              "answer": "EFEMERIDE"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Letra griega equivalente a nuestra \"i\"",
+              "answer": "IOTA"
+            },
+            "59": {
+              "col": 6,
+              "row": 13,
+              "clue": "Nombre del cacahuete en los Andes",
+              "answer": "MANI"
+            },
+            "60": {
+              "col": 11,
+              "row": 13,
+              "clue": "Territorio donde conviven Bollywood, el Kpop y las matrioshkas",
+              "answer": "ASIA"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Final del aparato digestivo",
+              "answer": "ANO"
+            },
+            "62": {
+              "col": 6,
+              "row": 14,
+              "clue": "Hasta en el crucigrama se festeja el 28 de diciembre, Día de los Santos…",
+              "answer": "INOCENTES"
+            }
+          }
+        },
+        "vertical_clues": "1-\"De … en …\" así se pasea un rumor\r\n2-Haces que algo te sea útil, lo…\r\n3-Hable en portugués\r\n4-Tuviese absoluto rencor contra alguien\r\n5-Inaugures tu nuevo negocio\r\n6-Mujeres profesionales de la salud (abrev)\r\n7-Era loca la rea que subía\r\n8-Unidad táctica de EEUU para situaciones policiales especiales\r\n9-Depredador felino ibérico cuya expansión lo está salvando de la extinción\r\n10-Del padre\r\n11-Cuerpo que tiene propiedades físicas distintas según la dirección en que se mide\r\n14-Alinear en el medio\r\n16-Hice un chiste el 28 de diciembre\r\n17-Presumida, engreída, ufana\r\n20-Desafiase a duelo\r\n23-Documento explicativo que muestra varias perspectivas\r\n24-Instancia para saber si el alumnado incorporó el conocimiento\r\n25-Cruzó el río sin un navío\r\n26-\"… John\" músico británico también conocido como 'Rocket Man'\r\n27-Sonaré como los habitantes de un nido\r\n28-Aleación de hierro y carbono\r\n32-Aumenta y disminuye alternativamente\r\n34-Echó un vistazo\r\n36-Creador que vuelca su humanidad en sus obras\r\n37-Fuiste víctima de un chiste del 28 de diciembre\r\n43-La que la gata mata con su pata\r\n45-Repartieran, otorgaran\r\n47-Se fijó cuántos eran\r\n48-Medio original de los personajes de Marvel y DC\r\n50-\"… Moore\", protagonista de 'La sustancia'\r\n51-Hierba seca que le encanta al ganado\r\n52-La interminable lista\r\n53-\"… Falco\", intérprete de Carmela Soprano en 'Los Soprano'\r\n54-Personifiques a\r\n57-Seguidor desde el inicio",
+        "horizontal_clues": "1-Jocosidades para que el rey se ría\r\n9-Córtenle la cabeza a la reina de 'Frozen'\r\n12-Tened el valor de hacerlo\r\n13-\"Cold…\" forma fina de decirle al café en frío\r\n14-Color celeste saturado\r\n15-Ajustará el diámetro de su arma de fuego\r\n17-Salí triunfante de la batalla\r\n18-Compondrás con limpieza\r\n19-Estados alterados de consciencia\r\n21-\"Ayuda, por favor\" de un náufrago con urgencia\r\n22-Intacto, sin ninguna falta\r\n23-El némesis de Eminem es este expresidente argentino\r\n26-Producir asombro o admiración\r\n29-Guardiola, Mourinho, Klopp o Scaloni\r\n30-Le pone huevos\r\n31-Energía conseguida mediante aerogeneradores\r\n33-Intenso deseo por el encuentro y unión con esa persona especial\r\n35-(3p)\r\n38-Lo que esconde una colonia\r\n39-Cinta que impide que el can se independice\r\n40-Música popular que al sonar va a hacer voltear a un par\r\n41-Gusano enfermo\r\n42-Vehículo para superficies deslizantes\r\n44-Héroe popular\r\n46-Tipo de discriminación cuando es por la etnia de la persona\r\n48-Ficción procedimental de la TV de los 2000\r\n49-Dejad en su cama al niño dormido\r\n51-Edificios calificados con estrellas\r\n55-Regate, amago\r\n56-Suceso importante que se festeja cada año\r\n58-Letra griega equivalente a nuestra \"i\"\r\n59-Nombre del cacahuete en los Andes\r\n60-Territorio donde conviven Bollywood, el Kpop y las matrioshkas\r\n61-Final del aparato digestivo\r\n62-Hasta en el crucigrama se festeja el 28 de diciembre, Día de los Santos…",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,#,#,9,10,11\r\n12,#,#,#,#,13,#,#,#,#,#,14,#,#,#\r\n15,#,#,#,16,#,#,#,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,#,#,19,20,#,#,#,#,#\r\n#,#,#,21,#,#,#,#,#,22,#,#,#,#,#\r\n23,24,25,#,#,#,26,27,28,#,#,#,#,29,#\r\n30,#,#,#,31,32,#,#,#,#,#,33,34,#,#\r\n35,#,#,36,#,#,#,#,#,#,37,#,#,#,#\r\n38,#,#,#,#,39,#,#,#,#,#,#,40,#,#\r\n41,#,#,42,43,#,#,#,#,#,44,45,#,#,#\r\n46,#,47,#,#,#,#,#,#,48,#,#,#,#,#\r\n49,#,#,#,#,#,50,#,51,#,#,#,52,53,54\r\n55,#,#,#,#,#,56,57,#,#,#,#,#,#,#\r\n58,#,#,#,#,#,59,#,#,#,#,60,#,#,#\r\n61,#,#,#,#,#,62,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

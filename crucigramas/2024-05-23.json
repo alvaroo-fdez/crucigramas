@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 256,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-22T09:27:11.827891Z",
+      "updatedAt": "2024-05-29T19:27:19.862910Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-23",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ADULAS#ECONOMOS\r\nC#TALA#SABATO#A\r\nOLIVER#CERO#RUN\r\nRA#EMISORA#MENS\r\nTNT#A##GERMANIO\r\nAVION#YE###JOAN\r\nRICCI#URNA#U###\r\nANSIAIS#ATREVER\r\n###O#MOSS#ELOTE\r\nOBUS###IO#GOLES\r\nTASACION##A#ORT\r\nOPUS#DRAGADO#EA\r\nRUR#VOLT#PISTON\r\nG#AXILAR#TACO#T\r\nOPRESORA#OSASTE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Disminuirá la longitud de algo.",
+              "answer": "ACORTARA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Unidad de Terapia Intensiva.",
+              "answer": "UTI"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "¡Vale! ya limpié la vela rara.",
+              "answer": "LAVE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "País europeo donde se encuentra la Escuela de la Bauhaus.",
+              "answer": "ALEMANIA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Vestido típico de las mujeres indias.",
+              "answer": "SARI"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Elegir es tomar de otra manera.",
+              "answer": "ESCOGER"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Me iré directo al suelo.",
+              "answer": "CAERE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Hacer algo, trabajar en ello.",
+              "answer": "OBRAR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Nave, embarcación antigua.",
+              "answer": "NAO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Principio de otitis.",
+              "answer": "OT"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Un tipo de pelo negro.",
+              "answer": "MORENO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Se enamoró de Dalila.",
+              "answer": "SANSON"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Jeanne...\" fundó la más antigua casa de moda parisina todavía en activo.",
+              "answer": "LANVIN"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Juntaba dos o más cosas entre sí.",
+              "answer": "UNIA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Viña, terreno para plantar la vid.",
+              "answer": "MAJUELO"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Propios del Síndrome de Tourette.",
+              "answer": "TICS"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Holgazanas, perezosas.",
+              "answer": "OCIOSAS"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Monasterio San Millán de… \", Patrimonio de la Humanidad, La Rioja, España.",
+              "answer": "YUSO"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Grupo indígena localizado al noroeste de Panamá.",
+              "answer": "NASO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Pato desplumado.",
+              "answer": "AT"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "De Íñigo Martínez y de Iker Muniain.",
+              "answer": "IM"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Huerta, huerto, vergel, ribera.",
+              "answer": "REGADIAS"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "Se fue el pajarito.",
+              "answer": "VOLO"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Sutil, inaprensible, desprovisto de peso y forma.",
+              "answer": "ETEREO"
+            },
+            "40": {
+              "col": 14,
+              "row": 7,
+              "clue": "Sobrante, remanente.",
+              "answer": "RESTANTE"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"Frank...\" cantando 'My Way'.",
+              "answer": "SINATRA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Doy, concedo.",
+              "answer": "OTORGO"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Apodo con el que Gandhi se sentía más a gusto.",
+              "answer": "BAPU"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Cobrar excesivos intereses por un préstamo.",
+              "answer": "USURAR"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Digno de admirar y seguir, es un...",
+              "answer": "IDOLO"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Bordear, ribetear.",
+              "answer": "ORLAR"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Se topa con pato capacitado.",
+              "answer": "APTO"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Mujer de Huesca",
+              "answer": "OSCA"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "\"... a ...\" visita privada de un reo.",
+              "answer": "VIS"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "Cuando te ahogas te da...",
+              "answer": "TOS"
+            },
+            "63": {
+              "col": 3,
+              "row": 13,
+              "clue": "Xenón.",
+              "answer": "XE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Le haces la pelota.",
+              "answer": "ADULAS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Administrador de los bienes del demente o del pródigo (pl).",
+              "answer": "ECONOMOS"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Asesina a un árbol.",
+              "answer": "TALA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Escritor argentino, autor de la novela 'El Túnel'.",
+              "answer": "SABATO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"... Twist\" el primer niño que protagonizó una novela inglesa (Dickens).",
+              "answer": "OLIVER"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "\"... patatero\", nada de nada.",
+              "answer": "CERO"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Correr en inglés.",
+              "answer": "RUN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Poco razonable.",
+              "answer": "RA"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Empresa de radiodifusión.",
+              "answer": "EMISORA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"... Health\" la revista masculina más vendida del mundo.",
+              "answer": "MENS"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Siglas explosivas.",
+              "answer": "TNT"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Elemento químico con símbolo Ge.",
+              "answer": "GERMANIO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Medio para volar.",
+              "answer": "AVION"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "La griega.",
+              "answer": "YE"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Serrat o Miró.",
+              "answer": "JOAN"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Nina...\", famosa diseñadora de modas, francesa.",
+              "answer": "RICCI"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Donde se colocan los votos.",
+              "answer": "URNA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Deseáis, anheláis.",
+              "answer": "ANSIAIS"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Se va a aventurar, se va a...",
+              "answer": "ATREVER"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Kate, la top model de Calvin Klein de los 90.",
+              "answer": "MOSS"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "México. Mazorca tierna de maíz.",
+              "answer": "ELOTE"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Banda de heavy metal española de los 80.",
+              "answer": "OBUS"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Una pareja de 10.",
+              "answer": "IO"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Tantos del futbol.",
+              "answer": "GOLES"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Acción de tasar.",
+              "answer": "TASACION"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Corta el centro de la torta.",
+              "answer": "ORT"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Palabra en latín que significa \"Obra\".",
+              "answer": "OPUS"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Drenado, despejado.",
+              "answer": "DRAGADO"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Empresa de videojuegos, creadora del Need for Speed.",
+              "answer": "EA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Río de Bélgica, Alemania y los Países Bajos.",
+              "answer": "RUR"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Fís. Unidad para la tensión eléctrica.",
+              "answer": "VOLT"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Elemento básico del motor de combustión interna.",
+              "answer": "PISTON"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "La zona del sobaco, el área...",
+              "answer": "AXILAR"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Tortilla de maíz enrollada, típica de México.",
+              "answer": "TACO"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Que ejerce o impone opresión sobre otros (fem).",
+              "answer": "OPRESORA"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "¿Te atreviste?.",
+              "answer": "OSASTE"
+            }
+          }
+        },
+        "vertical_clues": "1-Disminuirá la longitud de algo.\r\n2-Unidad de Terapia Intensiva.\r\n3-¡Vale! ya limpié la vela rara.\r\n4-País europeo donde se encuentra la Escuela de la Bauhaus.\r\n5-Vestido típico de las mujeres indias.\r\n6-Elegir es tomar de otra manera.\r\n7-Me iré directo al suelo.\r\n8-Hacer algo, trabajar en ello.\r\n9-Nave, embarcación antigua.\r\n10-Principio de otitis.\r\n11-Un tipo de pelo negro.\r\n12-Se enamoró de Dalila.\r\n16-\"Jeanne...\" fundó la más antigua casa de moda parisina todavía en activo.\r\n19-Juntaba dos o más cosas entre sí.\r\n22-Viña, terreno para plantar la vid.\r\n24-Propios del Síndrome de Tourette.\r\n27-Holgazanas, perezosas.\r\n28-\"Monasterio San Millán de… \", Patrimonio de la Humanidad, La Rioja, España.\r\n32-Grupo indígena localizado al noroeste de Panamá.\r\n33-Pato desplumado.\r\n35-De Íñigo Martínez y de Iker Muniain.\r\n37-Huerta, huerto, vergel, ribera.\r\n38-Se fue el pajarito.\r\n39-Sutil, inaprensible, desprovisto de peso y forma.\r\n40-Sobrante, remanente.\r\n42-\"Frank...\" cantando 'My Way'.\r\n44-Doy, concedo.\r\n45-Apodo con el que Gandhi se sentía más a gusto.\r\n46-Cobrar excesivos intereses por un préstamo.\r\n50-Digno de admirar y seguir, es un...\r\n51-Bordear, ribetear.\r\n55-Se topa con pato capacitado.\r\n56-Mujer de Huesca-España.\r\n59-\"... a ...\" visita privada de un reo.\r\n61-Cuando te ahogas te da...\r\n63-Xenón.",
+        "horizontal_clues": "1-Le haces la pelota.\r\n6-Administrador de los bienes del demente o del pródigo (pl).\r\n13-Asesina a un árbol.\r\n14-Escritor argentino, autor de la novela 'El Túnel'.\r\n15-\"... Twist\" el primer niño que protagonizó una novela inglesa (Dickens).\r\n17-\"... patatero\", nada de nada.\r\n18-Correr en inglés.\r\n20-Poco razonable.\r\n21-Empresa de radiodifusión.\r\n22-\"... Health\" la revista masculina más vendida del mundo.\r\n23-Siglas explosivas.\r\n25-Elemento químico con símbolo Ge.\r\n26-Medio para volar.\r\n28-La griega.\r\n29-Serrat o Miró.\r\n30-\"Nina...\", famosa diseñadora de modas, francesa.\r\n31-Donde se colocan los votos.\r\n34-Deseáis, anheláis.\r\n36-Se va a aventurar, se va a...\r\n41-Kate, la top model de Calvin Klein de los 90.\r\n43-México. Mazorca tierna de maíz.\r\n44-Banda de heavy metal española de los 80.\r\n47-Una pareja de 10.\r\n48-Tantos del futbol.\r\n49-Acción de tasar.\r\n52-Corta el centro de la torta.\r\n53-Palabra en latín que significa \"Obra\".\r\n54-Drenado, despejado.\r\n57-Empresa de videojuegos, creadora del Need for Speed.\r\n58-Río de Bélgica, Alemania y los Países Bajos.\r\n59-Fís. Unidad para la tensión eléctrica.\r\n60-Elemento básico del motor de combustión interna.\r\n62-La zona del sobaco, el área...\r\n64-Tortilla de maíz enrollada, típica de México.\r\n65-Que ejerce o impone opresión sobre otros (fem).\r\n66-¿Te atreviste?.",
+        "board_clues_positions": "1,#,2,3,4,5,#,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,16,#,#,#,#,#,17,#,#,#,#,18,19,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,#,#\r\n23,#,24,#,#,#,#,25,#,#,#,#,#,#,#\r\n26,#,#,27,#,#,28,#,#,#,#,29,#,#,#\r\n30,#,#,#,#,#,31,#,32,33,#,#,#,#,#\r\n34,#,#,#,#,35,#,#,36,#,37,#,38,39,40\r\n#,#,#,#,#,41,#,42,#,#,43,#,#,#,#\r\n44,45,46,#,#,#,#,47,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,51,#,#,#,#,#,52,#,#\r\n53,#,#,#,#,54,#,#,#,55,#,56,#,57,#\r\n58,#,#,#,59,#,#,#,#,60,#,#,61,#,#\r\n#,#,62,63,#,#,#,#,#,64,#,#,#,#,#\r\n65,#,#,#,#,#,#,#,#,66,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "data": {
+    "id": 5357,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-02T17:13:36.720895Z",
+      "updatedAt": "2026-04-02T17:20:36.033516Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "HIMEN#PACTA#EBT\r\nIZADAS#PORTON#O\r\nPASIVO#OBOE#GUS\r\nOROPEL#DINO#RUT\r\nCENO#ATAJAS#A#A\r\nA###GRASOS#PSG#\r\nMICHAEL###VUELO\r\nPT#ABSOLUTAS#EB\r\nOZONO###RELOJES\r\n#AAS#ASADOS###T\r\nT#K#TRAJIN#VASI\r\nOIL#URBE#IMITAN\r\nSKA#PURA#MINUTA\r\nE#NIEGAS#OLIVAD\r\nDLD#SANES#LLENA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Caballito de mar",
+              "answer": "HIPOCAMPO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Subiré las velas",
+              "answer": "IZARE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Miembro de la masonería",
+              "answer": "MASON"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"Complejo de…\", acuñado por Sigmund Freud",
+              "answer": "EDIPO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Esta va a ser espacial",
+              "answer": "NAVE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Pones sobrenombres",
+              "answer": "APODAS"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lo resguardo dentro de la manta",
+              "answer": "COBIJO"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Sillas altas donde los bebés comen como reyes",
+              "answer": "TRONAS"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Estos no van a misa",
+              "answer": "ATEOS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Le puse lubricante, por ejemplo, al motor del coche",
+              "answer": "ENGRASE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Rebanada con aguacate encima, rollo hípster",
+              "answer": "TOSTA"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Protectores, anticancerígenos y antimanchas",
+              "answer": "SOLARES"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dos herraduras",
+              "answer": "UU"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Cortó por el pie, un árbol",
+              "answer": "TALO"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Con cariño a García Márquez",
+              "answer": "GABO"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Supuso que ya no es suyo, por eso lo colocó",
+              "answer": "PUSO"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Serie musical del 2010, sobre un coro estudiantil",
+              "answer": "GLEE"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "“Chichen…\" sitio arqueológico en Yucatán, México",
+              "answer": "ITZA"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"… Gamper\" fundador de F C Barcelona (1899)",
+              "answer": "HANS"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "Baile de origen alemán",
+              "answer": "VALS"
+            },
+            "33": {
+              "col": 14,
+              "row": 6,
+              "clue": "Terca o persistente en su actitud",
+              "answer": "OBSTINADA"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Preparé los hilos en la urdidera para pasarlos al telar",
+              "answer": "URDI"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "En nombre propio de un dios",
+              "answer": "TEONIMO"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Ciudad natal de Zendaya",
+              "answer": "OAKLAND"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Signo de envejecimiento por la pérdida de colágeno",
+              "answer": "ARRUGA"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lisa y Brandon, estarán al tanto",
+              "answer": "SABRAN"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Hablase, la perdiz asustada",
+              "answer": "AJEASE"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Haced fuerza y violencia con la respiración",
+              "answer": "TOSED"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Aprietas, juntas mucho algo cerrando sus poros",
+              "answer": "TUPES"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Vinilo, etenilo",
+              "answer": "VINIL"
+            },
+            "49": {
+              "col": 12,
+              "row": 10,
+              "clue": "Me mantuve, guardé u observé algo",
+              "answer": "ATUVE"
+            },
+            "50": {
+              "col": 13,
+              "row": 10,
+              "clue": "Fuerza positiva y deidad adorada por el satanismo teísta",
+              "answer": "SATAN"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "Israel Kamakawiwo'ole",
+              "answer": "IK"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Unidad monetaria de Chipre antes del euro",
+              "answer": "MILL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Membrana vaginal",
+              "answer": "HIMEN"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Llega a un acuerdo",
+              "answer": "PACTA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Empresa de base tecnológica",
+              "answer": "EBT"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Elevadas, levantadas",
+              "answer": "IZADAS"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Por tonto se ha separado de la reja de la entrada",
+              "answer": "PORTON"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "No activo, receptivo, sujeto a influencias",
+              "answer": "PASIVO"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Instrumento musical de viento que termina en forma de campana",
+              "answer": "OBOE"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "A Gustavo con cariño",
+              "answer": "GUS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cosa de poco valor y mucha apariencia",
+              "answer": "OROPEL"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "El dinosaurio de Pedro Picapiedra",
+              "answer": "DINO"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Antiguo Testamento: Bisabuela del rey David",
+              "answer": "RUT"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Hago la última ingesta a las once",
+              "answer": "CENO"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Atrapas algo que ha sido arrojado por el aire",
+              "answer": "ATAJAS"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Tejidos adiposos, tejidos…",
+              "answer": "GRASOS"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Equipo de fútbol más laureado de la Liga 1 (Francia)",
+              "answer": "PSG"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… J Fox\" Marty McFly en 'Volver al Futuro'",
+              "answer": "MICHAEL"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "El más largo del mundo es de Nueva York a Singapur (18 horas aprox)",
+              "answer": "VUELO"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Símbolo químico del Platino",
+              "answer": "PT"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Totales, completas, sin excepción alguna",
+              "answer": "ABSOLUTAS"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Emilio Butragueño, \"El Buitre\"",
+              "answer": "EB"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Capa de…\", absorbe la radiación UV en la estratosfera",
+              "answer": "OZONO"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Los derretidos de Dalí",
+              "answer": "RELOJES"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "Ácido Acetilsalicílico (abrev)",
+              "answer": "AAS"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Tostados, cocinados",
+              "answer": "ASADOS"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Ajetreo, zarandeo",
+              "answer": "TRAJIN"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Sistema de luces al costado de las pistas de aterrizaje",
+              "answer": "VASI"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Asciende el lío con el aceite",
+              "answer": "OIL"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Ciudad muy populosa",
+              "answer": "URBE"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Ejecutan algo a ejemplo o semejanza de otra cosa",
+              "answer": "IMITAN"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Género musical jamaiquino",
+              "answer": "SKA"
+            },
+            "57": {
+              "col": 4,
+              "row": 12,
+              "clue": "Libre y exenta de toda maldad",
+              "answer": "PURA"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "Borrador de una reunión, para copiarlo en limpio",
+              "answer": "MINUTA"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Rehúsas asentir ante la veracidad de algo",
+              "answer": "NIEGAS"
+            },
+            "60": {
+              "col": 9,
+              "row": 13,
+              "clue": "Podad las ramas bajas de los olivos para que las superiores formen buena copa",
+              "answer": "OLIVAD"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Banda de rock mexicana, anteriormente conocidos como Dildo",
+              "answer": "DLD"
+            },
+            "62": {
+              "col": 4,
+              "row": 14,
+              "clue": "Recuperes la salud",
+              "answer": "SANES"
+            },
+            "63": {
+              "col": 10,
+              "row": 14,
+              "clue": "Saciada de comida",
+              "answer": "LLENA"
+            }
+          }
+        },
+        "vertical_clues": "1-Caballito de mar\r\n2-Subiré las velas\r\n3-Miembro de la masonería\r\n4-\"Complejo de…\", acuñado por Sigmund Freud\r\n5-Esta va a ser espacial\r\n7-Pones sobrenombres\r\n8-Lo resguardo dentro de la manta\r\n9-Sillas altas donde los bebés comen como reyes \r\n10-Estos no van a misa\r\n11-Le puse lubricante, por ejemplo, al motor del coche\r\n12-Rebanada con aguacate encima, rollo hípster\r\n14-Protectores, anticancerígenos y antimanchas\r\n19-Dos herraduras\r\n25-Cortó por el pie, un árbol\r\n26-Con cariño a García Márquez\r\n27-Supuso que ya no es suyo, por eso lo colocó\r\n28-Serie musical del 2010, sobre un coro estudiantil\r\n30-“Chichen…\" sitio arqueológico en Yucatán, México\r\n31-\"… Gamper\" fundador de F C Barcelona (1899)\r\n32-Baile de origen alemán\r\n33-Terca o persistente en su actitud \r\n36-Preparé los hilos en la urdidera para pasarlos al telar\r\n37-En nombre propio de un dios\r\n40-Ciudad natal de Zendaya\r\n43-Signo de envejecimiento por la pérdida de colágeno\r\n44-Lisa y Brandon, estarán al tanto\r\n45-Hablase, la perdiz asustada\r\n46-Haced fuerza y violencia con la respiración\r\n47-Aprietas, juntas mucho algo cerrando sus poros\r\n48-Vinilo, etenilo\r\n49-Me mantuve, guardé u observé algo\r\n50-Fuerza positiva y deidad adorada por el satanismo teísta\r\n52-Israel Kamakawiwo'ole\r\n55-Unidad monetaria de Chipre antes del euro",
+        "horizontal_clues": "1-Membrana vaginal\r\n6-Llega a un acuerdo\r\n11-Empresa de base tecnológica\r\n13-Elevadas, levantadas\r\n15-Por tonto se ha separado de la reja de la entrada\r\n16-No activo, receptivo, sujeto a influencias\r\n17-Instrumento musical de viento que termina en forma de campana\r\n18-A Gustavo con cariño\r\n20-Cosa de poco valor y mucha apariencia\r\n21-El dinosaurio de Pedro Picapiedra\r\n22-Antiguo Testamento: Bisabuela del rey David\r\n23-Hago la última ingesta a las once\r\n24-Atrapas algo que ha sido arrojado por el aire\r\n26-Tejidos adiposos, tejidos…\r\n27-Equipo de fútbol más laureado de la Liga 1 (Francia)\r\n29-\"… J Fox\" Marty McFly en 'Volver al Futuro' \r\n32-El más largo del mundo es de Nueva York a Singapur (18 horas aprox) \r\n34-Símbolo químico del Platino\r\n35-Totales, completas, sin excepción alguna \r\n38-Emilio Butragueño, \"El Buitre\"\r\n39-\"Capa de…\", absorbe la radiación UV en la estratosfera\r\n41-Los derretidos de Dalí\r\n42-Ácido Acetilsalicílico (abrev)\r\n43-Tostados, cocinados\r\n47-Ajetreo, zarandeo\r\n48-Sistema de luces al costado de las pistas de aterrizaje\r\n51-Asciende el lío con el aceite\r\n53-Ciudad muy populosa\r\n54-Ejecutan algo a ejemplo o semejanza de otra cosa\r\n56-Género musical jamaiquino\r\n57-Libre y exenta de toda maldad\r\n58-Borrador de una reunión, para copiarlo en limpio\r\n59-Rehúsas asentir ante la veracidad de algo\r\n60-Podad las ramas bajas de los olivos para que las superiores formen buena copa\r\n61-Banda de rock mexicana, anteriormente conocidos como Dildo\r\n62-Recuperes la salud\r\n63-Saciada de comida",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,10,#,11,#,12\r\n13,#,#,#,#,14,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,17,#,#,#,#,18,19,#\r\n20,#,#,#,#,#,#,21,#,#,#,#,22,#,#\r\n23,#,#,#,#,24,25,#,#,#,#,#,#,#,#\r\n#,#,#,#,26,#,#,#,#,#,#,27,#,28,#\r\n29,30,#,31,#,#,#,#,#,#,32,#,#,#,33\r\n34,#,#,35,#,#,#,#,36,37,#,#,#,38,#\r\n39,#,40,#,#,#,#,#,41,#,#,#,#,#,#\r\n#,42,#,#,#,43,44,45,#,#,#,#,#,#,#\r\n46,#,#,#,47,#,#,#,#,#,#,48,49,50,#\r\n51,52,#,#,53,#,#,#,#,54,55,#,#,#,#\r\n56,#,#,#,57,#,#,#,#,58,#,#,#,#,#\r\n#,#,59,#,#,#,#,#,#,60,#,#,#,#,#\r\n61,#,#,#,62,#,#,#,#,#,63,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3150,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-18T11:52:25.981573Z",
+      "updatedAt": "2025-08-24T09:30:14.085497Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-24",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ACTA#LASKETCHUP\r\nCLICA#DIACRONIA\r\nVIROLA#ESTARE#L\r\n#CAMELOT#OSO#EE\r\nT#RETIRE#PELADO\r\nRP#TEEN#GIRASOL\r\nARREO#ATACO#IUI\r\nSEUR#TRONO#FLAT\r\nLSD#TROPA#MAORI\r\nALACRAN#SPAM#DC\r\nDESEAS#PEALEN#O\r\nAY#SIT#ANGULAR#\r\nR#BALEAR#OMITES\r\nATAREARAN#ACATE\r\nNUBARRONES#OLEO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Accidente Cerebro Vascular",
+              "answer": "ACV"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sonido del botón del ratón",
+              "answer": "CLIC"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dejar caer intencionadamente",
+              "answer": "TIRAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Atacar con ímpetu",
+              "answer": "ACOMETER"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Antonio Díaz (el Mago Pop)",
+              "answer": "AD"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "¿Cuántos pecados capitales llevas?",
+              "answer": "SIETE"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Kkkkkkk",
+              "answer": "KAS"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Un embarazo, cuando el óvulo se implanta fuera del útero",
+              "answer": "ECTOPICO"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "En un arresto los rateros van en el asiento de atrás",
+              "answer": "TRASERO"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Segundo verticilo de las flores completas",
+              "answer": "COROLA"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Instrumento cónico de la familia del oboe usado en la música de Birmania",
+              "answer": "HNE"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Las débiles",
+              "answer": "UI"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Periodo prehistórico que inaugura la Edad de Piedra",
+              "answer": "PALEOLITICO"
+            },
+            "16": {
+              "col": 4,
+              "row": 1,
+              "clue": "Movimiento repetitivo de las alas",
+              "answer": "ALETEO"
+            },
+            "19": {
+              "col": 5,
+              "row": 2,
+              "clue": "Uní a dos personas para un mismo fin",
+              "answer": "ALIE"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "Adornaron el recinto",
+              "answer": "ORNARON"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "\"… Manet\", padre del  impresionismo",
+              "answer": "EDOUARD"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Llevarán a alguien o algo de un lugar a otro",
+              "answer": "TRASLADARAN"
+            },
+            "28": {
+              "col": 12,
+              "row": 4,
+              "clue": "Lugar privilegiado de refugio para los perseguidos",
+              "answer": "ASILO"
+            },
+            "30": {
+              "col": 1,
+              "row": 5,
+              "clue": "Apellido del Rey del rock and roll",
+              "answer": "PRESLEY"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "Percibiesen dinero, cobrasen",
+              "answer": "GANASEN"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "A esas chicas duras les gusta sudar",
+              "answer": "RUDAS"
+            },
+            "36": {
+              "col": 7,
+              "row": 6,
+              "clue": "En los puestos más altos, está en el…",
+              "answer": "TOP"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Poner o echar los trastes a la guitarra",
+              "answer": "TRASTEAR"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "¡Fe, Camilo! Se pone como loco si está hambriento",
+              "answer": "FAMELICO"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Avance cinematográfico",
+              "answer": "TRAILER"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Cantante colombiano que le encanta ir a Hawái de vacaciones",
+              "answer": "MALUMA"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Parará, se detendrá",
+              "answer": "CESARA"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Retribución, remuneración",
+              "answer": "PAGO"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Detienen el movimiento",
+              "answer": "PARAN"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Perteneciente al nacimiento",
+              "answer": "NATAL"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Desafié a duelo",
+              "answer": "RETE"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Máximo representante del Babismo en Persia",
+              "answer": "BAB"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "El anillo de Caro y Aarón",
+              "answer": "ARO"
+            },
+            "59": {
+              "col": 14,
+              "row": 12,
+              "clue": "Iglesia catedral de Cataluña",
+              "answer": "SEO"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Pronombre personal, 2ª persona del singular",
+              "answer": "TU"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Neón",
+              "answer": "NE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Relación escrita de una junta",
+              "answer": "ACTA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Las que cantan: \"Y aserejé",
+              "answer": "LASKETCHUP"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Usa el botón del ratón, pincha",
+              "answer": "CLICA"
+            },
+            "17": {
+              "col": 6,
+              "row": 1,
+              "clue": "Una sucesión de hechos con radiación mezclada",
+              "answer": "DIACRONIA"
+            },
+            "18": {
+              "col": 0,
+              "row": 2,
+              "clue": "Bizca, bisoja",
+              "answer": "VIROLA"
+            },
+            "20": {
+              "col": 7,
+              "row": 2,
+              "clue": "Me presentaré, iré, ahí…",
+              "answer": "ESTARE"
+            },
+            "21": {
+              "col": 1,
+              "row": 3,
+              "clue": "El reino del rey Arturo",
+              "answer": "CAMELOT"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Mascota colchonera",
+              "answer": "OSO"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Vocal repetida",
+              "answer": "EE"
+            },
+            "26": {
+              "col": 2,
+              "row": 4,
+              "clue": "Saqué, por ejemplo, dinero del cajero",
+              "answer": "RETIRE"
+            },
+            "27": {
+              "col": 9,
+              "row": 4,
+              "clue": "Un calvo",
+              "answer": "PELADO"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Encabezado de un récipe médico (siglas)",
+              "answer": "RP"
+            },
+            "31": {
+              "col": 3,
+              "row": 5,
+              "clue": "Adolescente de Canadá",
+              "answer": "TEEN"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "La planta de las pipas",
+              "answer": "GIRASOL"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Conduzco a las bestias",
+              "answer": "ARREO"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Embisto con ánimo de causar daño",
+              "answer": "ATACO"
+            },
+            "37": {
+              "col": 12,
+              "row": 6,
+              "clue": "Hay una herradura entre dos postes",
+              "answer": "IUI"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Empresa española de paquetería",
+              "answer": "SEUR"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Silla noble",
+              "answer": "TRONO"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… white\" café con una capa fina de leche caliente",
+              "answer": "FLAT"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "La droga más asociada a los hippies de los 60 y 70",
+              "answer": "LSD"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Conjunto de cabos y soldados",
+              "answer": "TROPA"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Sabe bailar el Haka (con los ojos bien abiertos)",
+              "answer": "MAORI"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Escorpión, arácnido",
+              "answer": "ALACRAN"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Información basura (voz inglesa)",
+              "answer": "SPAM"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Después de Cristo",
+              "answer": "DC"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Los quieres con toda tu alma, los…",
+              "answer": "DESEAS"
+            },
+            "50": {
+              "col": 7,
+              "row": 10,
+              "clue": "Echen el lazo a las vacas",
+              "answer": "PEALEN"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "¡Qué dolor!",
+              "answer": "AY"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "Protesta pacífica en Inglaterra",
+              "answer": "SIT"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "La piedra que fundamenta mis ideas, la saqué de un lagunar",
+              "answer": "ANGULAR"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "Mallorquín, menorquín e ibicenco",
+              "answer": "BALEAR"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "Por error te sometí y eso es lo que pasas por alto",
+              "answer": "OMITES"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Pondrán muchas tareas a alguien",
+              "answer": "ATAREARAN"
+            },
+            "63": {
+              "col": 10,
+              "row": 13,
+              "clue": "Obedezca categóricamente",
+              "answer": "ACATE"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Nubes negras aisladas",
+              "answer": "NUBARRONES"
+            },
+            "65": {
+              "col": 11,
+              "row": 14,
+              "clue": "Obra pictórica realizada con pintura de aceite",
+              "answer": "OLEO"
+            }
+          }
+        },
+        "vertical_clues": "1-Accidente Cerebro Vascular\r\n2-Sonido del botón del ratón\r\n3-Dejar caer intencionadamente\r\n4-Atacar con ímpetu\r\n6-Antonio Díaz (el Mago Pop)\r\n7-¿Cuántos pecados capitales llevas? \r\n8-Kkkkkkk\r\n9-Un embarazo, cuando el óvulo se implanta fuera del útero\r\n10-En un arresto los rateros van en el asiento de atrás\r\n11-Segundo verticilo de las flores completas\r\n12-Instrumento cónico de la familia del oboe usado en la música de Birmania\r\n13-Las débiles\r\n14-Periodo prehistórico que inaugura la Edad de Piedra\r\n16-Movimiento repetitivo de las alas\r\n19-Uní a dos personas para un mismo fin\r\n22-Adornaron el recinto\r\n24-\"… Manet\", padre del  impresionismo\r\n25-Llevarán a alguien o algo de un lugar a otro\r\n28-Lugar privilegiado de refugio para los perseguidos\r\n30-Apellido del Rey del rock and roll\r\n32-Percibiesen dinero, cobrasen\r\n34-A esas chicas duras les gusta sudar\r\n36-En los puestos más altos, está en el…\r\n39-Poner o echar los trastes a la guitarra\r\n40-¡Fe, Camilo! Se pone como loco si está hambriento\r\n42-Avance cinematográfico\r\n43-Cantante colombiano que le encanta ir a Hawái de vacaciones\r\n45-Parará, se detendrá\r\n47-Retribución, remuneración\r\n50-Detienen el movimiento\r\n51-Perteneciente al nacimiento\r\n55-Desafié a duelo\r\n56-Máximo representante del Babismo en Persia\r\n57-El anillo de Caro y Aarón\r\n59-Iglesia catedral de Cataluña\r\n61-Pronombre personal, 2ª persona del singular\r\n62-Neón",
+        "horizontal_clues": "1-Relación escrita de una junta\r\n5-Las que cantan: \"Y aserejé-ja-dejé…\" (2p)\r\n15-Usa el botón del ratón, pincha\r\n17-Una sucesión de hechos con radiación mezclada\r\n18-Bizca, bisoja\r\n20-Me presentaré, iré, ahí…\r\n21-El reino del rey Arturo\r\n23-Mascota colchonera\r\n24-Vocal repetida\r\n26-Saqué, por ejemplo, dinero del cajero\r\n27-Un calvo\r\n29-Encabezado de un récipe médico (siglas)\r\n31-Adolescente de Canadá\r\n32-La planta de las pipas\r\n33-Conduzco a las bestias\r\n35-Embisto con ánimo de causar daño\r\n37-Hay una herradura entre dos postes\r\n38-Empresa española de paquetería\r\n39-Silla noble\r\n40-\"… white\" café con una capa fina de leche caliente\r\n41-La droga más asociada a los hippies de los 60 y 70 \r\n42-Conjunto de cabos y soldados\r\n43-Sabe bailar el Haka (con los ojos bien abiertos) \r\n44-Escorpión, arácnido\r\n46-Información basura (voz inglesa)\r\n48-Después de Cristo\r\n49-Los quieres con toda tu alma, los…\r\n50-Echen el lazo a las vacas\r\n52-¡Qué dolor! \r\n53-Protesta pacífica en Inglaterra\r\n54-La piedra que fundamenta mis ideas, la saqué de un lagunar\r\n56-Mallorquín, menorquín e ibicenco\r\n58-Por error te sometí y eso es lo que pasas por alto\r\n60-Pondrán muchas tareas a alguien\r\n63-Obedezca categóricamente\r\n64-Nubes negras aisladas\r\n65-Obra pictórica realizada con pintura de aceite",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,10,11,12,13,14\r\n15,#,#,#,16,#,17,#,#,#,#,#,#,#,#\r\n18,#,#,#,#,19,#,20,#,#,#,#,#,#,#\r\n#,21,#,#,#,#,22,#,#,23,#,#,#,24,#\r\n25,#,26,#,#,#,#,#,#,27,#,#,28,#,#\r\n29,30,#,31,#,#,#,#,32,#,#,#,#,#,#\r\n33,#,34,#,#,#,35,36,#,#,#,#,37,#,#\r\n38,#,#,#,#,39,#,#,#,#,#,40,#,#,#\r\n41,#,#,#,42,#,#,#,#,#,43,#,#,#,#\r\n44,#,#,45,#,#,#,#,46,47,#,#,#,48,#\r\n49,#,#,#,#,#,#,50,#,#,#,#,51,#,#\r\n52,#,#,53,#,#,#,54,#,#,#,#,#,55,#\r\n#,#,56,#,#,#,57,#,#,58,#,#,#,#,59\r\n60,61,#,#,#,#,#,#,62,#,63,#,#,#,#\r\n64,#,#,#,#,#,#,#,#,#,#,65,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

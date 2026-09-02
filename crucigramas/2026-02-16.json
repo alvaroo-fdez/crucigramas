@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 4850,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-15T21:04:07.767666Z",
+      "updatedAt": "2026-02-15T21:05:55.397073Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-16",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "IBAS#AFEE#ESTAR\r\nBESA#PURO#NUERA\r\nESPN#ESTROGENOS\r\nREAJUSTE#PANAMA\r\nO##OPTA#NIÑA###\r\n#PARIA#CANONICO\r\nBANG#RAICES#MAT\r\nANUEL#REA#OMITI\r\nNTA#EMIGRE#ITEM\r\nDILATADO#VOTOS#\r\n###PACO#HOMO##C\r\nSELENA#RECAMARA\r\nPRISIONERA#AJES\r\nAGATA#EMIR#NATI\r\nMORAS#DARE#OSEO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Prefijo que refiere a la península ibérica",
+              "answer": "IBERO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Rocé mis labios con los suyos, lo…",
+              "answer": "BESE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cada uno de los brazos de un molino",
+              "answer": "ASPA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Santo patrón asociado con un dragón legendario",
+              "answer": "SANJORGE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Heder, oler muy mal",
+              "answer": "APESTAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Vara flexible para estimular a los caballos",
+              "answer": "FUSTA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Despedido temporal",
+              "answer": "ERTE"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Es peor sin capital",
+              "answer": "EOR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Farsante, fraudulento",
+              "answer": "ENGAÑOSO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Hacen o causan ruido",
+              "answer": "SUENAN"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Conjunto de útiles de un determinado arte de pesca",
+              "answer": "TENA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Baya silvestre color morado (inv)",
+              "answer": "AROM"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Que pasa a poca altura del suelo (fem)",
+              "answer": "RASA"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Dije lo que pienso",
+              "answer": "OPINE"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Unidad de Patrimonio e Inventario",
+              "answer": "UPI"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Capa interna de la concha de los moluscos",
+              "answer": "NACAR"
+            },
+            "25": {
+              "col": 1,
+              "row": 5,
+              "clue": "Parecida al leotardo, pero la tela es muy delgada y elástica",
+              "answer": "PANTI"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Que se repite cada año",
+              "answer": "ANUAL"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "\"No hay peor… que el que no quiere ver\"",
+              "answer": "CIEGO"
+            },
+            "28": {
+              "col": 12,
+              "row": 5,
+              "clue": "Remedó, plagió, duplicó",
+              "answer": "IMITO"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Gustes el sabor de algo",
+              "answer": "CATES"
+            },
+            "30": {
+              "col": 14,
+              "row": 5,
+              "clue": "Narración maravillosa con personaje heroico (inv)",
+              "answer": "OTIM"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Una \"boy …\" los Backstreet Boys, One Direction o BTS",
+              "answer": "BAND"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Muy seco",
+              "answer": "ARIDO"
+            },
+            "36": {
+              "col": 4,
+              "row": 7,
+              "clue": "Plegarias repetitivas en serie litúrgica",
+              "answer": "LETANIAS"
+            },
+            "39": {
+              "col": 11,
+              "row": 7,
+              "clue": "Mentiroso compulsivo o habitual",
+              "answer": "MITOMANO"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Ciudad china con el casino Gran Lisboa",
+              "answer": "MACAO"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Gestaré recuerdos o figuras de la imaginación",
+              "answer": "EVOCARE"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Huele muy mal, hiede",
+              "answer": "APESTA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Orlando Museum of Art (siglas)",
+              "answer": "OMA"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Ofender, agraviar",
+              "answer": "HERIR"
+            },
+            "51": {
+              "col": 14,
+              "row": 10,
+              "clue": "Junto a Bruto, asesinó a Julio César",
+              "answer": "CASIO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Información basura (voz inglesa)",
+              "answer": "SPAM"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Latinismo que significa \"por tanto, luego, pues\"",
+              "answer": "ERGO"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "\"Mentiroso\" en inglés",
+              "answer": "LIAR"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Impulsa a brazo",
+              "answer": "REMA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Desmejoras, deslustras",
+              "answer": "AJAS"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Desafié a duelo o pelea",
+              "answer": "RETE"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "\"… Flanders\", el vecino de Homer",
+              "answer": "NED"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ya no vas",
+              "answer": "IBAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Desluzca, deslustre",
+              "answer": "AFEE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Está en infinitivo",
+              "answer": "ESTAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Le da el de Judas, lo…",
+              "answer": "BESA"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Casto, ajeno a la sensualidad",
+              "answer": "PURO"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "No era la que la suegra quería",
+              "answer": "NUERA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Canal deportivo de TV por cable",
+              "answer": "ESPN"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Hormonas mayormente femeninas",
+              "answer": "ESTROGENOS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cambio de precios cuando la inflación hace lo suyo",
+              "answer": "REAJUSTE"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "\"Canal de …\", conecta el mar Caribe con el océano Pacífico",
+              "answer": "PANAMA"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Elige, estás capacitado",
+              "answer": "OPTA"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Entre bebé y adolescente (fem)",
+              "answer": "NIÑA"
+            },
+            "25": {
+              "col": 1,
+              "row": 5,
+              "clue": "Persona marginada socialmente",
+              "answer": "PARIA"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Conforme a las normas eclesiásticas",
+              "answer": "CANONICO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "El \"Big…\", la gran explosión",
+              "answer": "BANG"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Las que aparecen con los meses después de teñirse el cabello",
+              "answer": "RAICES"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Casi lo mato",
+              "answer": "MAT"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"… AA\" cantante de trap puertorriqueño",
+              "answer": "ANUEL"
+            },
+            "37": {
+              "col": 6,
+              "row": 7,
+              "clue": "Madre de Zeus",
+              "answer": "REA"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Ignoré algo",
+              "answer": "OMITI"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "A finales los 90'",
+              "answer": "NTA"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Me mudé a otro país",
+              "answer": "EMIGRE"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "El punto a tratar es que lo encajé de espaldas",
+              "answer": "ITEM"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Extenso, vasto, numeroso",
+              "answer": "DILATADO"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Expresiones públicas de una preferencia ante una opción",
+              "answer": "VOTOS"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Este es el hipocorístico Francisco",
+              "answer": "PACO"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Prefijo que significa igual",
+              "answer": "HOMO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Quintanilla\" la reina del tex mex, asesinada en 1995",
+              "answer": "SELENA"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "La habitación de una bala",
+              "answer": "RECAMARA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Miliciana que en campaña, cae en poder del enemigo",
+              "answer": "PRISIONERA"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Viajes con seis kilos menos",
+              "answer": "AJES"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cuarzo lapídeo",
+              "answer": "AGATA"
+            },
+            "62": {
+              "col": 6,
+              "row": 13,
+              "clue": "Príncipe árabe",
+              "answer": "EMIR"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Diminutivo de Natalí",
+              "answer": "NATI"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Morsa enloquecida por las bayas",
+              "answer": "MORAS"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Entregaré, donaré",
+              "answer": "DARE"
+            },
+            "66": {
+              "col": 11,
+              "row": 14,
+              "clue": "De la naturaleza del hueso",
+              "answer": "OSEO"
+            }
+          }
+        },
+        "vertical_clues": "1-Prefijo que refiere a la península ibérica\r\n2-Rocé mis labios con los suyos, lo…\r\n3-Cada uno de los brazos de un molino\r\n4-Santo patrón asociado con un dragón legendario \r\n5-Heder, oler muy mal\r\n6-Vara flexible para estimular a los caballos\r\n7-Despedido temporal\r\n8-Es peor sin capital\r\n9-Farsante, fraudulento\r\n10-Hacen o causan ruido\r\n11-Conjunto de útiles de un determinado arte de pesca\r\n12-Baya silvestre color morado (inv)\r\n13-Que pasa a poca altura del suelo (fem)\r\n19-Dije lo que pienso\r\n21-Unidad de Patrimonio e Inventario\r\n24-Capa interna de la concha de los moluscos\r\n25-Parecida al leotardo, pero la tela es muy delgada y elástica\r\n26-Que se repite cada año\r\n27-\"No hay peor… que el que no quiere ver\"\r\n28-Remedó, plagió, duplicó \r\n29-Gustes el sabor de algo\r\n30-Narración maravillosa con personaje heroico (inv)\r\n31-Una \"boy …\" los Backstreet Boys, One Direction o BTS\r\n33-Muy seco\r\n36-Plegarias repetitivas en serie litúrgica \r\n39-Mentiroso compulsivo o habitual\r\n42-Ciudad china con el casino Gran Lisboa\r\n43-Gestaré recuerdos o figuras de la imaginación\r\n46-Huele muy mal, hiede\r\n48-Orlando Museum of Art (siglas) \r\n50-Ofender, agraviar\r\n51-Junto a Bruto, asesinó a Julio César\r\n52-Información basura (voz inglesa)\r\n53-Latinismo que significa \"por tanto, luego, pues\"\r\n54-\"Mentiroso\" en inglés\r\n55-Impulsa a brazo\r\n56-Desmejoras, deslustras\r\n57-Desafié a duelo o pelea\r\n59-\"… Flanders\", el vecino de Homer",
+        "horizontal_clues": "1-Ya no vas\r\n5-Desluzca, deslustre\r\n9-Está en infinitivo\r\n14-Le da el de Judas, lo…\r\n15-Casto, ajeno a la sensualidad\r\n16-No era la que la suegra quería\r\n17-Canal deportivo de TV por cable\r\n18-Hormonas mayormente femeninas\r\n20-Cambio de precios cuando la inflación hace lo suyo\r\n22-\"Canal de …\", conecta el mar Caribe con el océano Pacífico\r\n23-Elige, estás capacitado\r\n24-Entre bebé y adolescente (fem)\r\n25-Persona marginada socialmente \r\n27-Conforme a las normas eclesiásticas \r\n31-El \"Big…\", la gran explosión\r\n32-Las que aparecen con los meses después de teñirse el cabello\r\n34-Casi lo mato\r\n35-\"… AA\" cantante de trap puertorriqueño\r\n37-Madre de Zeus\r\n38-Ignoré algo\r\n40-A finales los 90'\r\n41-Me mudé a otro país \r\n44-El punto a tratar es que lo encajé de espaldas\r\n45-Extenso, vasto, numeroso\r\n47-Expresiones públicas de una preferencia ante una opción\r\n49-Este es el hipocorístico Francisco\r\n50-Prefijo que significa igual\r\n52-\"… Quintanilla\" la reina del tex mex, asesinada en 1995\r\n55-La habitación de una bala\r\n58-Miliciana que en campaña, cae en poder del enemigo\r\n60-Viajes con seis kilos menos\r\n61-Cuarzo lapídeo\r\n62-Príncipe árabe\r\n63-Diminutivo de Natalí\r\n64-Morsa enloquecida por las bayas\r\n65-Entregaré, donaré\r\n66-De la naturaleza del hueso",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,#,18,#,#,#,19,#,#,#,#,#\r\n20,#,#,#,21,#,#,#,#,22,#,#,#,#,#\r\n#,#,#,23,#,#,#,#,24,#,#,#,#,#,#\r\n#,25,26,#,#,#,#,27,#,#,#,#,28,29,30\r\n31,#,#,#,#,32,33,#,#,#,#,#,34,#,#\r\n35,#,#,#,36,#,37,#,#,#,38,39,#,#,#\r\n40,#,#,#,41,42,#,#,#,43,#,44,#,#,#\r\n45,#,#,46,#,#,#,#,#,47,48,#,#,#,#\r\n#,#,#,49,#,#,#,#,50,#,#,#,#,#,51\r\n52,53,54,#,#,#,#,55,#,#,#,#,56,57,#\r\n58,#,#,#,#,#,59,#,#,#,#,60,#,#,#\r\n61,#,#,#,#,#,62,#,#,#,#,63,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,66,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 3541,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-25T10:28:58.484674Z",
+      "updatedAt": "2025-09-25T10:33:10.102115Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CLAVIJA#BLISTER\r\nHATO#OJERA#HUMO\r\nACELERE#INFORME\r\nMANO#DANZA#PIAR\r\nB#U#DISENSO#S#I\r\nAPELE#EXA#PETRA\r\nORNATO#T#COBAIN\r\n#I#TEPE#POSA#T#\r\nAMAINO#T#DINAMO\r\nPOBRE#URS#TODOS\r\nA#J#RENUEVO#H#C\r\nREUS#VIENE#RECE\r\nENREDAR#TRAERAN\r\nAYAX#DAVID#TIPS\r\nNARIZON#RUMOREE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Exagrupación malagueña de Flamenco Chill, autores de 'Pokito a poko'",
+              "answer": "CHAMBAO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Fijador capilar",
+              "answer": "LACA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mitiguen, amortigüen",
+              "answer": "ATENUEN"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Se fue el pajarito",
+              "answer": "VOLO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Famoso chef catalán",
+              "answer": "JORDI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hablase, la perdiz asustada",
+              "answer": "AJEASE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Se mezcla el barniz con el filamento de un fruto",
+              "answer": "BRIZNA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Pelo de las ovejas (pl)",
+              "answer": "LANAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Tienda de Norteamérica",
+              "answer": "SHOP"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Un guiri",
+              "answer": "TURISTA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… Watson\", Hermione Granger en 'Harry Potter'",
+              "answer": "EMMA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Quitarían poco a poco con los dientes a un hueso la carne",
+              "answer": "ROERIAN"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "El próximo inglés",
+              "answer": "NEXT"
+            },
+            "22": {
+              "col": 4,
+              "row": 4,
+              "clue": "Interrumpir, parar una descarga",
+              "answer": "DETENER"
+            },
+            "23": {
+              "col": 10,
+              "row": 4,
+              "clue": "Examinó para funcionario",
+              "answer": "OPOSITO"
+            },
+            "25": {
+              "col": 1,
+              "row": 5,
+              "clue": "Hijo de mi tío",
+              "answer": "PRIMO"
+            },
+            "26": {
+              "col": 3,
+              "row": 5,
+              "clue": "Vibrar, palpitar",
+              "answer": "LATIR"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Árbol exótico de madera muy negra",
+              "answer": "EBANO"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Orden acompasado en la sucesión de las cosas",
+              "answer": "RITMO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Topo sin cabeza",
+              "answer": "OPO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Acrónimo para \"Call of Duty\"",
+              "answer": "COD"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Procrean, copulan, se…",
+              "answer": "APAREAN"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "Retractarse, renegar, a veces públicamente, de una creencia",
+              "answer": "ABJURAR"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"… Detective\" drama detectivesco de HBO",
+              "answer": "TRUE"
+            },
+            "40": {
+              "col": 12,
+              "row": 8,
+              "clue": "Unir algo a otra cosa, generalmente utilizando una sustancia",
+              "answer": "ADHERIR"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Una persona de Huesca",
+              "answer": "OSCENSE"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Juntarán dos cosas entre sí",
+              "answer": "UNIRAN"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Experimentar sensaciones",
+              "answer": "SENTIR"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "No pago impuestos",
+              "answer": "EVADO"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Maribel…\" la madre de Flash en el 2023",
+              "answer": "VERDU"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Cantautora irlandesa de música new age",
+              "answer": "ENYA"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Que tiene atractivo físico y sexual",
+              "answer": "SEXI"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Objetivo o empeño difícil de llevar a cabo",
+              "answer": "RETO"
+            },
+            "54": {
+              "col": 13,
+              "row": 11,
+              "clue": "Extirpé los órganos genitales",
+              "answer": "CAPE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pieza para conectar un teléfono a la red",
+              "answer": "CLAVIJA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "El empaque interior de una caja de pastillas",
+              "answer": "BLISTER"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Porción de ganado mayor o menor",
+              "answer": "HATO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Mancha alrededor de la base del párpado inferior",
+              "answer": "OJERA"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Mezcla visible de gases producida por la combustión",
+              "answer": "HUMO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Actué de manera frenética, me agité",
+              "answer": "ACELERE"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Descripción de las características y circunstancias de un suceso o asunto",
+              "answer": "INFORME"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Extremidad del brazo",
+              "answer": "MANO"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "Clásica, contemporánea o moderna",
+              "answer": "DANZA"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Clamar con anhelo",
+              "answer": "PIAR"
+            },
+            "22": {
+              "col": 4,
+              "row": 4,
+              "clue": "Desacuerdo, disentimiento",
+              "answer": "DISENSO"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Recurrí al juez para revocar una resolución",
+              "answer": "APELE"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Prefijo que indica un trillón",
+              "answer": "EXA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Enclave arqueológico en Jordania y capital del antiguo reino nabateo",
+              "answer": "PETRA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Adorno, atavío, decorado",
+              "answer": "ORNATO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Apellido del vocalista de la banda grunge Nirvana",
+              "answer": "COBAIN"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Pedazo de tierra usado para trasplantar terrenos",
+              "answer": "TEPE"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ponte para la foto",
+              "answer": "POSA"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aflojó su potencia el viento",
+              "answer": "AMAINO"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "Máquina que transforma la energía mecánica en eléctrica",
+              "answer": "DINAMO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Que no tiene lo necesario para vivir dignamente",
+              "answer": "POBRE"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "La URSS, si no hubiera sido socialistas",
+              "answer": "URS"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Completos, enteros",
+              "answer": "TODOS"
+            },
+            "46": {
+              "col": 4,
+              "row": 10,
+              "clue": "Vástago que echa el árbol después de podado",
+              "answer": "RENUEVO"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Centrocampista alemán, canterano del Borussia Dortmund",
+              "answer": "REUS"
+            },
+            "52": {
+              "col": 5,
+              "row": 11,
+              "clue": "Camina hacia acá",
+              "answer": "VIENE"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Renegué, refunfuñé",
+              "answer": "RECE"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Enlazar, entretejer, enmarañar algo con otra cosa",
+              "answer": "ENREDAR"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Retarán al caos y entrará en orden, y portarán la paz",
+              "answer": "TRAERAN"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "Mit Griega \"… El grande\"",
+              "answer": "AYAX"
+            },
+            "58": {
+              "col": 5,
+              "row": 13,
+              "clue": "\"… Gilmour\" el guitarrista de Pink Floyd",
+              "answer": "DAVID"
+            },
+            "59": {
+              "col": 11,
+              "row": 13,
+              "clue": "Consejillos",
+              "answer": "TIPS"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Hombre de gran nariz",
+              "answer": "NARIZON"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Difunda una noticia incierta",
+              "answer": "RUMOREE"
+            }
+          }
+        },
+        "vertical_clues": "1-Exagrupación malagueña de Flamenco Chill, autores de 'Pokito a poko'\r\n2-Fijador capilar\r\n3-Mitiguen, amortigüen\r\n4-Se fue el pajarito\r\n5-Famoso chef catalán\r\n6-Hablase, la perdiz asustada\r\n7-Se mezcla el barniz con el filamento de un fruto\r\n8-Pelo de las ovejas (pl)\r\n9-Tienda de Norteamérica\r\n10-Un guiri\r\n11-\"… Watson\", Hermione Granger en 'Harry Potter'\r\n12-Quitarían poco a poco con los dientes a un hueso la carne\r\n20-El próximo inglés\r\n22-Interrumpir, parar una descarga\r\n23-Examinó para funcionario\r\n25-Hijo de mi tío\r\n26-Vibrar, palpitar\r\n29-Árbol exótico de madera muy negra\r\n30-Orden acompasado en la sucesión de las cosas\r\n32-Topo sin cabeza\r\n33-Acrónimo para \"Call of Duty\"\r\n36-Procrean, copulan, se…\r\n37-Retractarse, renegar, a veces públicamente, de una creencia\r\n38-\"… Detective\" drama detectivesco de HBO\r\n40-Unir algo a otra cosa, generalmente utilizando una sustancia\r\n41-Una persona de Huesca\r\n43-Juntarán dos cosas entre sí\r\n44-Experimentar sensaciones\r\n47-No pago impuestos\r\n48-\"Maribel…\" la madre de Flash en el 2023\r\n50-Cantautora irlandesa de música new age\r\n51-Que tiene atractivo físico y sexual\r\n53-Objetivo o empeño difícil de llevar a cabo\r\n54-Extirpé los órganos genitales",
+        "horizontal_clues": "1-Pieza para conectar un teléfono a la red\r\n7-El empaque interior de una caja de pastillas\r\n13-Porción de ganado mayor o menor\r\n14-Mancha alrededor de la base del párpado inferior\r\n15-Mezcla visible de gases producida por la combustión\r\n16-Actué de manera frenética, me agité\r\n17-Descripción de las características y circunstancias de un suceso o asunto\r\n18-Extremidad del brazo\r\n19-Clásica, contemporánea o moderna\r\n21-Clamar con anhelo\r\n22-Desacuerdo, disentimiento\r\n24-Recurrí al juez para revocar una resolución\r\n27-Prefijo que indica un trillón\r\n28-Enclave arqueológico en Jordania y capital del antiguo reino nabateo\r\n31-Adorno, atavío, decorado\r\n33-Apellido del vocalista de la banda grunge Nirvana\r\n34-Pedazo de tierra usado para trasplantar terrenos\r\n35-Ponte para la foto\r\n36-Aflojó su potencia el viento\r\n39-Máquina que transforma la energía mecánica en eléctrica\r\n42-Que no tiene lo necesario para vivir dignamente\r\n43-La URSS, si no hubiera sido socialistas\r\n45-Completos, enteros\r\n46-Vástago que echa el árbol después de podado\r\n49-Centrocampista alemán, canterano del Borussia Dortmund\r\n52-Camina hacia acá\r\n53-Renegué, refunfuñé\r\n55-Enlazar, entretejer, enmarañar algo con otra cosa\r\n56-Retarán al caos y entrará en orden, y portarán la paz\r\n57-Mit Griega \"… El grande\"\r\n58-\"… Gilmour\" el guitarrista de Pink Floyd\r\n59-Consejillos\r\n60-Hombre de gran nariz\r\n61-Difunda una noticia incierta",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,#,#,15,#,#,#\r\n16,#,#,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,#,19,#,20,#,#,#,21,#,#,#\r\n#,#,#,#,22,#,#,#,#,#,23,#,#,#,#\r\n24,25,#,26,#,#,27,#,#,#,28,29,#,30,#\r\n31,#,#,#,#,32,#,#,#,33,#,#,#,#,#\r\n#,#,#,34,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,37,#,#,#,#,38,#,39,#,#,40,#,41\r\n42,#,#,#,#,#,43,#,44,#,45,#,#,#,#\r\n#,#,#,#,46,47,#,#,#,48,#,#,#,#,#\r\n49,50,#,51,#,52,#,#,#,#,#,53,#,54,#\r\n55,#,#,#,#,#,#,#,56,#,#,#,#,#,#\r\n57,#,#,#,#,58,#,#,#,#,#,59,#,#,#\r\n60,#,#,#,#,#,#,#,61,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

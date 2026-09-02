@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 3369,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:24.666994Z",
+      "updatedAt": "2025-09-09T14:41:28.322718Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#RASTREO#ARGEL#\r\nSOLARIUM#APELAR\r\nACOGI#GIN#MECHE\r\nLIJA#FETAL#KHAN\r\nMOE#MENINAS#EBO\r\nAS#NUMEROSOS#AV\r\n##PACO#A#TRUENA\r\nMASCARA#SIDECAR\r\nARGOMA#S#MILO##\r\nLR#SALPICADO#BA\r\nTIC#SELLADO#DAG\r\nHERA#SUBIO#UUUU\r\nURUBU#SIM#NIPLE\r\nSIERVO#DAMOCLES\r\n#ALEAN#ONCENAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Menudas gotas de la mañana (pl)",
+              "answer": "ROCIOS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Hospedé a los turistas",
+              "answer": "ALOJE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Historia de varias generaciones",
+              "answer": "SAGA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Prefijo que significa tres",
+              "answer": "TRI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Menos rimas",
+              "answer": "RI"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Apodo del luchador estadounidense Nick Dinsmore",
+              "answer": "EUGENE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Pasará en silencio",
+              "answer": "OMITIRA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Tamaño estándar de pila eléctrica",
+              "answer": "AA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Revoluciones Por Minuto",
+              "answer": "RPM"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Término para los amantes de la tecnología, parecido a un nerd",
+              "answer": "GEEK"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Dama de …\", escultura íbera en piedra, siglos V y IV aC",
+              "answer": "ELCHE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ciudad capital de Cuba (2p)",
+              "answer": "LAHABANA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"… Hayek\" actriz mexicana",
+              "answer": "SALMA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Actualizar una suscripción",
+              "answer": "RENOVAR"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Pref Billonésima parte de algo",
+              "answer": "NANO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Músculos en la parte posterior del muslo",
+              "answer": "FEMORALES"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Maltratado, golpeado",
+              "answer": "LASTIMADO"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Persona encargada de la limpieza en los hospitales y hoteles (pl)",
+              "answer": "MUCAMAS"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Escabroso, macabro",
+              "answer": "SORDIDO"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Puerto Rico y Uruguay Andullos de tabaco",
+              "answer": "NACOS"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Superficie terrestre",
+              "answer": "SUELO"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Equipo de fútbol más laureado de la Liga 1 (Francia)",
+              "answer": "PSG"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Autor de la novela \"El nombre de la Rosa\"",
+              "answer": "ECO"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Apellido del autor del libro \"Ensayo sobre el principio de la población\"",
+              "answer": "MALTHUS"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Oficio del arriero",
+              "answer": "ARRIERIA"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Soplido sonoro",
+              "answer": "SILBIDO"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Un extra, una ganancia",
+              "answer": "PLUS"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Reptil propio de los ríos de América",
+              "answer": "CAIMAN"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Mueble parecido al arca, frecuentemente de tapa convexa (pl)",
+              "answer": "BAULES"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Rebajes con agua, una mezcla",
+              "answer": "AGUES"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Inhumano, desalmado",
+              "answer": "CRUEL"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Un par, un dúo, una…",
+              "answer": "DUPLA"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "Se destapa con la brea fundida",
+              "answer": "ABRE"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "La Unión Internacional para la Conservación de la Naturaleza",
+              "answer": "UICN"
+            },
+            "56": {
+              "col": 4,
+              "row": 12,
+              "clue": "La sin pepitas",
+              "answer": "UVA"
+            },
+            "58": {
+              "col": 10,
+              "row": 12,
+              "clue": "Hombre que se salvó del diluvio universal",
+              "answer": "NOE"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "Parte trasera del camión",
+              "answer": "ON"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Maestro de Ceremonia (siglas)",
+              "answer": "MC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Persigo su huella, lo…",
+              "answer": "RASTREO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Capital de Argelia",
+              "answer": "ARGEL"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Espacio para tomar el sol artificialmente",
+              "answer": "SOLARIUM"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Recurrir, acudir",
+              "answer": "APELAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Recibí en mi casa",
+              "answer": "ACOGI"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"… tonic\" Ginebra con agua tónica y bastante hielo Salud",
+              "answer": "GIN"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Con cariño a Mercedes",
+              "answer": "MECHE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Que sirve para pulir maderas y metales",
+              "answer": "LIJA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Relativo al feto",
+              "answer": "FETAL"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"Genghis…\" el emperador",
+              "answer": "KHAN"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Uno de Los tres chiflados",
+              "answer": "MOE"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "\"Las… \", cuadro de Diego Velázquez",
+              "answer": "MENINAS"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "\"Vall de…\" Comunidad Valenciana, España",
+              "answer": "EBO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo que tienen en común Arthur Schopenhauer y Adam Sandler",
+              "answer": "AS"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Muchos, bastantes",
+              "answer": "NUMEROSOS"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Va de regreso",
+              "answer": "AV"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"… Rabanne\" diseñador español",
+              "answer": "PACO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Suena a que va a llover",
+              "answer": "TRUENA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Traje singular de Jim Carrey",
+              "answer": "MASCARA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "El asiento de Robin en la moto de Batman",
+              "answer": "SIDECAR"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Arbusto de flor amarilla, también conocido como aulaga",
+              "answer": "ARGOMA"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "\"Venus de…\" una famosa escultura de la antigua Grecia",
+              "answer": "MILO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Loro sin ojos",
+              "answer": "LR"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Técnica de dispersión de pintura sobre una superficie",
+              "answer": "SALPICADO"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Entrada a la bahía",
+              "answer": "BA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Movimiento convulsivo, que se repite mucho",
+              "answer": "TIC"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Cerrado herméticamente",
+              "answer": "SELLADO"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Lo que Roberto desea de Dagoberto",
+              "answer": "DAG"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Era la madre de todos los dioses griegos",
+              "answer": "HERA"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Aumentó de rango o nivel",
+              "answer": "SUBIO"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Cuatro imanes",
+              "answer": "UUUU"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Zamuro, zopilote, buitre",
+              "answer": "URUBU"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Tarjeta inteligente de los teléfonos móviles",
+              "answer": "SIM"
+            },
+            "58": {
+              "col": 10,
+              "row": 12,
+              "clue": "Bomba casera hecha con trozo de cañería",
+              "answer": "NIPLE"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Leal servidor, fiel a su señor",
+              "answer": "SIERVO"
+            },
+            "61": {
+              "col": 7,
+              "row": 13,
+              "clue": "Personaje de la antigua Grecia que vivió bajo una amenaza constante",
+              "answer": "DAMOCLES"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "Mueven las alas",
+              "answer": "ALEAN"
+            },
+            "64": {
+              "col": 7,
+              "row": 14,
+              "clue": "Equipos de once jugadores de fútbol en Chile",
+              "answer": "ONCENAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Menudas gotas de la mañana (pl)\r\n2-Hospedé a los turistas\r\n3-Historia de varias generaciones\r\n4-Prefijo que significa tres\r\n5-Menos rimas\r\n6-Apodo del luchador estadounidense Nick Dinsmore\r\n7-Pasará en silencio\r\n8-Tamaño estándar de pila eléctrica\r\n9-Revoluciones Por Minuto\r\n10-Término para los amantes de la tecnología, parecido a un nerd\r\n11-\"Dama de …\", escultura íbera en piedra, siglos V y IV aC\r\n12-Ciudad capital de Cuba (2p)\r\n13-\"… Hayek\" actriz mexicana\r\n15-Actualizar una suscripción\r\n18-Pref Billonésima parte de algo\r\n21-Músculos en la parte posterior del muslo\r\n22-Maltratado, golpeado\r\n25-Persona encargada de la limpieza en los hospitales y hoteles (pl)\r\n26-Escabroso, macabro\r\n29-Puerto Rico y Uruguay Andullos de tabaco\r\n30-Superficie terrestre\r\n32-Equipo de fútbol más laureado de la Liga 1 (Francia)\r\n34-Autor de la novela \"El nombre de la Rosa\"\r\n35-Apellido del autor del libro \"Ensayo sobre el principio de la población\"\r\n36-Oficio del arriero\r\n39-Soplido sonoro\r\n43-Un extra, una ganancia\r\n44-Reptil propio de los ríos de América\r\n45-Mueble parecido al arca, frecuentemente de tapa convexa (pl)\r\n46-Rebajes con agua, una mezcla\r\n48-Inhumano, desalmado\r\n50-Un par, un dúo, una…\r\n52-Se destapa con la brea fundida\r\n54-La Unión Internacional para la Conservación de la Naturaleza\r\n56-La sin pepitas\r\n58-Hombre que se salvó del diluvio universal\r\n60-Parte trasera del camión\r\n62-Maestro de Ceremonia (siglas)",
+        "horizontal_clues": "1-Persigo su huella, lo…\r\n8-Capital de Argelia\r\n13-Espacio para tomar el sol artificialmente\r\n14-Recurrir, acudir\r\n16-Recibí en mi casa\r\n17-\"… tonic\" Ginebra con agua tónica y bastante hielo Salud\r\n19-Con cariño a Mercedes\r\n20-Que sirve para pulir maderas y metales\r\n21-Relativo al feto\r\n23-\"Genghis…\" el emperador\r\n24-Uno de Los tres chiflados\r\n25-\"Las… \", cuadro de Diego Velázquez\r\n27-\"Vall de…\" Comunidad Valenciana, España\r\n28-Lo que tienen en común Arthur Schopenhauer y Adam Sandler\r\n29-Muchos, bastantes\r\n31-Va de regreso\r\n32-\"… Rabanne\" diseñador español\r\n33-Suena a que va a llover\r\n35-Traje singular de Jim Carrey\r\n37-El asiento de Robin en la moto de Batman\r\n38-Arbusto de flor amarilla, también conocido como aulaga\r\n40-\"Venus de…\" una famosa escultura de la antigua Grecia\r\n41-Loro sin ojos\r\n42-Técnica de dispersión de pintura sobre una superficie\r\n45-Entrada a la bahía\r\n47-Movimiento convulsivo, que se repite mucho\r\n49-Cerrado herméticamente\r\n50-Lo que Roberto desea de Dagoberto\r\n51-Era la madre de todos los dioses griegos\r\n53-Aumentó de rango o nivel\r\n54-Cuatro imanes\r\n55-Zamuro, zopilote, buitre\r\n57-Tarjeta inteligente de los teléfonos móviles\r\n58-Bomba casera hecha con trozo de cañería\r\n59-Leal servidor, fiel a su señor\r\n61-Personaje de la antigua Grecia que vivió bajo una amenaza constante\r\n63-Mueven las alas\r\n64-Equipos de once jugadores de fútbol en Chile",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,#,14,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,18,#,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,23,#,#,#\r\n24,#,#,#,25,#,#,#,#,#,26,#,27,#,#\r\n28,#,#,29,#,#,#,#,#,#,#,30,#,31,#\r\n#,#,32,#,#,#,#,#,#,33,#,#,34,#,#\r\n35,36,#,#,#,#,#,#,37,#,#,#,#,#,#\r\n38,#,#,#,#,#,#,39,#,40,#,#,#,#,#\r\n41,#,#,42,#,#,43,#,44,#,#,#,#,45,46\r\n47,#,48,#,49,#,#,#,#,#,#,#,50,#,#\r\n51,#,#,52,#,53,#,#,#,#,#,54,#,#,#\r\n55,#,#,#,56,#,57,#,#,#,58,#,#,#,#\r\n59,#,#,#,#,60,#,61,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,#,64,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

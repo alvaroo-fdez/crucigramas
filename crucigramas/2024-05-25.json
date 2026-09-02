@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 258,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-22T09:28:52.417269Z",
+      "updatedAt": "2024-05-30T06:07:44.885416Z",
+      "level": null,
+      "creationDate": "2024-05-25",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-25",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PEPE#FORD#CENIT\r\nOREN#APIO#AMENO\r\nLINFOCITO#SPORT\r\nINSERT#ONDEE##E\r\n#AEREOS#GARITA#\r\n###MIRAR#NONATA\r\nMAGOS#DEGENERAR\r\nICI##PENAS##ARC\r\nSORPRESAS#EDDIE\r\nATARON#LEERE###\r\n#ARENAS#ASISTA#\r\nT##SALUD#CALESA\r\nINTEL#DEMOLERAN\r\nPISAD#OJAB#ARDI\r\nACUSO#RANA#LAOS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Un policía pequeño.",
+              "answer": "POLI"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Instrumento quirúrgico para sujetar.",
+              "answer": "ERINA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Reflexioné, diserté.",
+              "answer": "PENSE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Quien no se encuentra bien de salud.",
+              "answer": "ENFERMO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cada una de las cantidades que se multiplican para formar un producto.",
+              "answer": "FACTOR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Organismos Públicos de Investigación.",
+              "answer": "OPI"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Regla para el culto y ceremonial religioso.",
+              "answer": "RITO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "“Son…”, cueva más grande del mundo en Vietnam.",
+              "answer": "DOONG"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Casa muy grande y destartalada.",
+              "answer": "CASERON"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Parte superior del pie.",
+              "answer": "EMPEINE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "El elegido para destruir a Matrix.",
+              "answer": "NEO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Instituto Nacional de Rehabilitación.",
+              "answer": "INR"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Colombia. Rosetas de maíz.",
+              "answer": "TOTE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Lo mejor es que roguéis a Dios porque hay un serio desorden.",
+              "answer": "OREIS"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Para el dinamarqués, los Andes son confusos.",
+              "answer": "DANES"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Regrésame las telas más suaves.",
+              "answer": "SADES"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "Disminuid el valor de algo por defectuoso.",
+              "answer": "TARAD"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Antigua consola de videojuegos de 1977.",
+              "answer": "ATARI"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Relativo a los riñones.",
+              "answer": "RENAL"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Árbol cuya hoja está impresa en la bandera de Canadá.",
+              "answer": "ARCE"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Del gallo, la eucaristía.",
+              "answer": "MISA"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Delimita el ámbito o espacio de algo.",
+              "answer": "ACOTA"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Dar vueltas sobre su propio eje.",
+              "answer": "GIRAR"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "Hace que un líquido absorba cierta cantidad de gas.",
+              "answer": "GASEA"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Un tanto cruel.",
+              "answer": "PENAL"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Las de oro, plata y bronce.",
+              "answer": "PRESEAS"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Exfutbolista brasileño, apodado \"El Fenómeno\".",
+              "answer": "RONALDO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Tierra o campo sin cultivar ni labrar.",
+              "answer": "ERIAL"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Traidor, traicionero.",
+              "answer": "DESLEAL"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Para barrer.",
+              "answer": "ESCOBA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Rudos confundidos y con mucha transpiración.",
+              "answer": "SUDOR"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Diosa romana de la Tierra.",
+              "answer": "TERRA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Típica barbacoa argentina.",
+              "answer": "ASADO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Mujer adulta.",
+              "answer": "TIPA"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Abandona, renuncia.",
+              "answer": "DEJA"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "Alanis bebiendo cazalla.",
+              "answer": "ANIS"
+            },
+            "59": {
+              "col": 1,
+              "row": 12,
+              "clue": "Hay que seguir las Normas Internacionales de Contabilidad.",
+              "answer": "NIC"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Técnico Superior Universitario.",
+              "answer": "TSU"
+            },
+            "62": {
+              "col": 8,
+              "row": 12,
+              "clue": "Un hombre inglés.",
+              "answer": "MAN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"La rana...\" personaje de memes, muy controversial.",
+              "answer": "PEPE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Henry...\", padre de las cadenas de producción.",
+              "answer": "FORD"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Apogeo, punto máximo de la gloria.",
+              "answer": "CENIT"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Recen por el reno desquiciado.",
+              "answer": "OREN"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Planta herbácea que pertenece a la misma familia que el perejil.",
+              "answer": "APIO"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Grato, placentero.",
+              "answer": "AMENO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Célula de defensa.",
+              "answer": "LINFOCITO"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Prenda informal, con respecto a la de vestir.",
+              "answer": "SPORT"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tecla para activar \"sustitución e inserción de texto\".",
+              "answer": "INSERT"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Mueva la bandera.",
+              "answer": "ONDEE"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Sutiles, vaporosos, ligeros.",
+              "answer": "AEREOS"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Caseta del vigilante.",
+              "answer": "GARITA"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Dirigir la vista a un objeto.",
+              "answer": "MIRAR"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Nacida por cesárea.",
+              "answer": "NONATA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "De lo que se titulan los estudiantes de Hogwarts.",
+              "answer": "MAGOS"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Deteriorar progresivamente.",
+              "answer": "DEGENERAR"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Bici sin manillar.",
+              "answer": "ICI"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Deambulas en el purgatorio.",
+              "answer": "PENAS"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Lo que Eladio quiere de Arcadio.",
+              "answer": "ARC"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Lo de las monjas detenidas ha causado muchas conmociones.",
+              "answer": "SORPRESAS"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"... Murphy\", El príncipe de Zamunda.",
+              "answer": "EDDIE"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Amarraron con ligaduras o nudos.",
+              "answer": "ATARON"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Interpretaré las partituras.",
+              "answer": "LEERE"
+            },
+            "48": {
+              "col": 1,
+              "row": 10,
+              "clue": "Material que servía a los antiguos relojes (pl).",
+              "answer": "ARENAS"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Vaya, no se lo pierda.",
+              "answer": "ASISTA"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "¡Un brindis por los sanitarios!.",
+              "answer": "SALUD"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Carruaje.",
+              "answer": "CALESA"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Informática. Mayor fabricante de procesadores.",
+              "answer": "INTEL"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Derribarán, arruinarán.",
+              "answer": "DEMOLERAN"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Oprimid a los caídos.",
+              "answer": "PISAD"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Reduzco al contrario.",
+              "answer": "OJAB"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Dirá erróneamente que me quemé en el infierno.",
+              "answer": "ARDI"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Denunció, delató.",
+              "answer": "ACUSO"
+            },
+            "67": {
+              "col": 6,
+              "row": 14,
+              "clue": "Esta no es Pepe, si no Gustavo, la de Barrio Sésamo.",
+              "answer": "RANA"
+            },
+            "68": {
+              "col": 11,
+              "row": 14,
+              "clue": "Oí que este país asiático es la hostia.",
+              "answer": "LAOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Un policía pequeño.\r\n2-Instrumento quirúrgico para sujetar.\r\n3-Reflexioné, diserté.\r\n4-Quien no se encuentra bien de salud.\r\n5-Cada una de las cantidades que se multiplican para formar un producto.\r\n6-Organismos Públicos de Investigación.\r\n7-Regla para el culto y ceremonial religioso.\r\n8-“Son…”, cueva más grande del mundo en Vietnam.\r\n9-Casa muy grande y destartalada.\r\n10-Parte superior del pie.\r\n11-El elegido para destruir a Matrix.\r\n12-Instituto Nacional de Rehabilitación.\r\n13-Colombia. Rosetas de maíz.\r\n18-Lo mejor es que roguéis a Dios porque hay un serio desorden.\r\n22-Para el dinamarqués, los Andes son confusos.\r\n24-Regrésame las telas más suaves.\r\n26-Disminuid el valor de algo por defectuoso.\r\n27-Antigua consola de videojuegos de 1977.\r\n29-Relativo a los riñones.\r\n31-Árbol cuya hoja está impresa en la bandera de Canadá.\r\n32-Del gallo, la eucaristía.\r\n33-Delimita el ámbito o espacio de algo.\r\n34-Dar vueltas sobre su propio eje.\r\n36-Hace que un líquido absorba cierta cantidad de gas.\r\n38-Un tanto cruel.\r\n41-Las de oro, plata y bronce.\r\n42-Exfutbolista brasileño, apodado \"El Fenómeno\".\r\n43-Tierra o campo sin cultivar ni labrar.\r\n44-Traidor, traicionero.\r\n47-Para barrer.\r\n49-Rudos confundidos y con mucha transpiración.\r\n51-Diosa romana de la Tierra.\r\n52-Típica barbacoa argentina.\r\n53-Mujer adulta.\r\n55-Abandona, renuncia.\r\n57-Alanis bebiendo cazalla.\r\n59-Hay que seguir las Normas Internacionales de Contabilidad.\r\n60-Técnico Superior Universitario.\r\n62-Un hombre inglés.",
+        "horizontal_clues": "1-\"La rana...\" personaje de memes, muy controversial.\r\n5-\"Henry...\", padre de las cadenas de producción.\r\n9-Apogeo, punto máximo de la gloria.\r\n14-Recen por el reno desquiciado.\r\n15-Planta herbácea que pertenece a la misma familia que el perejil.\r\n16-Grato, placentero.\r\n17-Célula de defensa.\r\n19-Prenda informal, con respecto a la de vestir.\r\n20-Tecla para activar \"sustitución e inserción de texto\".\r\n21-Mueva la bandera.\r\n23-Sutiles, vaporosos, ligeros.\r\n25-Caseta del vigilante.\r\n28-Dirigir la vista a un objeto.\r\n30-Nacida por cesárea.\r\n32-De lo que se titulan los estudiantes de Hogwarts.\r\n35-Deteriorar progresivamente. \r\n37-Bici sin manillar.\r\n38-Deambulas en el purgatorio.\r\n39-Lo que Eladio quiere de Arcadio.\r\n40-Lo de las monjas detenidas ha causado muchas conmociones.\r\n43-\"... Murphy\", El príncipe de Zamunda.\r\n45-Amarraron con ligaduras o nudos.\r\n46-Interpretaré las partituras.\r\n48-Material que servía a los antiguos relojes (pl).\r\n50-Vaya, no se lo pierda.\r\n54-¡Un brindis por los sanitarios!. \r\n56-Carruaje.\r\n58-Informática. Mayor fabricante de procesadores.\r\n61-Derribarán, arruinarán.\r\n63-Oprimid a los caídos.\r\n64-Reduzco al contrario.\r\n65-Dirá erróneamente que me quemé en el infierno.\r\n66-Denunció, delató.\r\n67-Esta no es Pepe, si no Gustavo, la de Barrio Sésamo.\r\n68-Oí que este país asiático es la hostia.",
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,#,21,#,22,#,#,#,#,#\r\n#,23,#,#,#,#,24,#,25,#,#,#,26,27,#\r\n#,#,#,28,#,#,#,29,#,30,#,#,#,#,31\r\n32,33,34,#,#,#,35,#,36,#,#,#,#,#,#\r\n37,#,#,#,#,38,#,#,#,#,#,#,39,#,#\r\n40,#,#,41,42,#,#,#,#,#,43,44,#,#,#\r\n45,#,#,#,#,#,#,46,#,47,#,#,#,#,#\r\n#,48,#,#,#,#,49,#,50,#,#,#,51,52,#\r\n53,#,#,54,#,#,#,55,#,56,#,#,#,#,57\r\n58,59,60,#,#,#,61,#,62,#,#,#,#,#,#\r\n63,#,#,#,#,#,64,#,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,67,#,#,#,#,68,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5436,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-24T20:08:53.090301Z",
+      "updatedAt": "2026-04-25T09:18:53.361771Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-25",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "GRAPO#FRACASAS#\r\nRABAS#ILLO#ESES\r\nACOSASE#ESCRIBA\r\nSENADOR#AEROSOL\r\nO#AMARRO##EST#T\r\nSODA#TOFU#COITO\r\nABONA##FLUI#RON\r\n#I#OCIOSIDAD#N#\r\nECO#OSNI##SECAR\r\nDEBAS#EDAN#SALE\r\nE#SRA##ERINAS#C\r\nCIERRES#REACTOR\r\nARREADO#ALCAIDE\r\nNOVA#ASES#ETNIA\r\n#HERODOTO#ROGAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Grasienta",
+              "answer": "GRASOSA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Una carrera en EEUU",
+              "answer": "RACE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Suscrito a un servicio",
+              "answer": "ABONADO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Barra de apoyo en escaleras",
+              "answer": "PASAMANO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Temeraria, atrevida",
+              "answer": "OSADA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Metal duro, en habla coloquial",
+              "answer": "FIERRO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Rosa Luxemburgo",
+              "answer": "RL"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mueve las alas",
+              "answer": "ALEA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Une con hilo",
+              "answer": "COSE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Linfático, bilioso",
+              "answer": "SEROSO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Acudir al evento",
+              "answer": "ASISTIR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Grasa que se saca de los animales para hacer velas",
+              "answer": "SEBO"
+            },
+            "16": {
+              "col": 14,
+              "row": 1,
+              "clue": "Que anda a saltos",
+              "answer": "SALTON"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "La bruja dice que este pueblo de Cataluña es muy afortunado",
+              "answer": "SORT"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "Te hacías mayor",
+              "answer": "CRECIAS"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Posición antirreglamentaria en fútbol",
+              "answer": "OFFSIDE"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Obstáculo, embarazo, estorbo",
+              "answer": "OBICE"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "El pequeño Ulises",
+              "answer": "ULI"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Música: relativo al tono",
+              "answer": "TONAL"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Perseguirá, hostigará sin tregua",
+              "answer": "ACOSARA"
+            },
+            "35": {
+              "col": 9,
+              "row": 6,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Dominio web para Islandia",
+              "answer": "IS"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "El número uno en Inglaterra",
+              "answer": "ONE"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Falta del debido respeto a los superiores",
+              "answer": "DESACATO"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Milicia Ayudante de campo",
+              "answer": "EDECAN"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Advierta, repare",
+              "answer": "OBSERVE"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Proceso de selección del elenco de una peli (voz ingles)",
+              "answer": "CASTING"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Divertir, alegrar, deleitar",
+              "answer": "RECREAR"
+            },
+            "48": {
+              "col": 3,
+              "row": 9,
+              "clue": "Meter prisa, estimular a otros",
+              "answer": "ARREAR"
+            },
+            "50": {
+              "col": 8,
+              "row": 9,
+              "clue": "Devastó todo, ¿orarás por eso?",
+              "answer": "ARRASO"
+            },
+            "51": {
+              "col": 9,
+              "row": 9,
+              "clue": "Antigua técnica de orfebrería",
+              "answer": "NIEL"
+            },
+            "55": {
+              "col": 10,
+              "row": 10,
+              "clue": "Salir de la semilla, emerger con vida",
+              "answer": "NACER"
+            },
+            "57": {
+              "col": 1,
+              "row": 11,
+              "clue": "El tío de Zuko, el de Avatar (El último maestro del aire)",
+              "answer": "IROH"
+            },
+            "58": {
+              "col": 5,
+              "row": 11,
+              "clue": "Años vividos",
+              "answer": "EDAD"
+            },
+            "59": {
+              "col": 6,
+              "row": 11,
+              "clue": "Hombre que carece de gracia y viveza",
+              "answer": "SOSO"
+            },
+            "61": {
+              "col": 13,
+              "row": 11,
+              "clue": "Detesta, aborrece",
+              "answer": "ODIA"
+            },
+            "66": {
+              "col": 7,
+              "row": 13,
+              "clue": "Extraterrestre creado por Steven Spielberg",
+              "answer": "ET"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sujeto con grapas",
+              "answer": "GRAPO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "No logras el éxito que buscabas",
+              "answer": "FRACASAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Calamares rebozados",
+              "answer": "RABAS"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "El diminutivo de Ned Flanders",
+              "answer": "ILLO"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "De ingleses y portugueses",
+              "answer": "ESES"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Apremiase insistentemente a alguien que le huye",
+              "answer": "ACOSASE"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Haga su canción",
+              "answer": "ESCRIBA"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Miembro de la cámara alta del cuerpo legislativo",
+              "answer": "SENADOR"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Envase con dispositivo para pulverizar el líquido que contiene",
+              "answer": "AEROSOL"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Ato y aseguro por medio de cuerdas",
+              "answer": "AMARRO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Este no tiene fin",
+              "answer": "EST"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Bebida que contiene ácido carbónico",
+              "answer": "SODA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Dime algo que no sepa",
+              "answer": "TOFU"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cópula sexual",
+              "answer": "COITO"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Enriquece la tierra",
+              "answer": "ABONA"
+            },
+            "34": {
+              "col": 7,
+              "row": 6,
+              "clue": "Me desenvolví con facilidad, como agua en el río",
+              "answer": "FLUI"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"…Weasley\" el mejor amigo de Harry Potter",
+              "answer": "RON"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Condición de estar desocupado totalmente",
+              "answer": "OCIOSIDAD"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "La voz de una casa vacía",
+              "answer": "ECO"
+            },
+            "43": {
+              "col": 4,
+              "row": 8,
+              "clue": "Como el OVNI pero submarino",
+              "answer": "OSNI"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Alisar el cabello, pero sin plancha",
+              "answer": "SECAR"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Tengas la obligación",
+              "answer": "DEBAS"
+            },
+            "49": {
+              "col": 6,
+              "row": 9,
+              "clue": "Milicia Ayudante de campo",
+              "answer": "EDAN"
+            },
+            "52": {
+              "col": 11,
+              "row": 9,
+              "clue": "Se moviliza de dentro a fuera",
+              "answer": "SALE"
+            },
+            "53": {
+              "col": 2,
+              "row": 10,
+              "clue": "Una señora pequeña",
+              "answer": "SRA"
+            },
+            "54": {
+              "col": 7,
+              "row": 10,
+              "clue": "Instrumento médico quirúrgico (pl)",
+              "answer": "ERINAS"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Tranques la cremallera",
+              "answer": "CIERRES"
+            },
+            "60": {
+              "col": 8,
+              "row": 11,
+              "clue": "El que estalló en Chernóbil",
+              "answer": "REACTOR"
+            },
+            "62": {
+              "col": 0,
+              "row": 12,
+              "clue": "Estimulado el buey, para que ande más rápido",
+              "answer": "ARREADO"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "Como el alcalde, pero de una cárcel",
+              "answer": "ALCAIDE"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Explosión termonuclear de una estrella y su combustible nuclear",
+              "answer": "NOVA"
+            },
+            "65": {
+              "col": 5,
+              "row": 13,
+              "clue": "Las cartas que coges",
+              "answer": "ASES"
+            },
+            "67": {
+              "col": 10,
+              "row": 13,
+              "clue": "Comunidad humana con afinidades raciales, lingüísticas, culturales",
+              "answer": "ETNIA"
+            },
+            "68": {
+              "col": 1,
+              "row": 14,
+              "clue": "Padre de la historiografía",
+              "answer": "HERODOTO"
+            },
+            "69": {
+              "col": 10,
+              "row": 14,
+              "clue": "Suplicar, implorar",
+              "answer": "ROGAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Grasienta\r\n2-Una carrera en EEUU\r\n3-Suscrito a un servicio\r\n4-Barra de apoyo en escaleras \r\n5-Temeraria, atrevida\r\n6-Metal duro, en habla coloquial \r\n7-Rosa Luxemburgo\r\n8-Mueve las alas\r\n9-Une con hilo\r\n10-Linfático, bilioso\r\n11-Acudir al evento\r\n12-Grasa que se saca de los animales para hacer velas\r\n16-Que anda a saltos\r\n18-La bruja dice que este pueblo de Cataluña es muy afortunado\r\n20-Te hacías mayor\r\n24-Posición antirreglamentaria en fútbol \r\n27-Obstáculo, embarazo, estorbo\r\n29-El pequeño Ulises\r\n31-Música: relativo al tono\r\n33-Perseguirá, hostigará sin tregua\r\n35-Abreviatura de usted\r\n38-Dominio web para Islandia\r\n39-El número uno en Inglaterra\r\n40-Falta del debido respeto a los superiores\r\n41-Milicia Ayudante de campo\r\n42-Advierta, repare\r\n45-Proceso de selección del elenco de una peli (voz ingles) \r\n46-Divertir, alegrar, deleitar\r\n48-Meter prisa, estimular a otros\r\n50-Devastó todo, ¿orarás por eso? \r\n51-Antigua técnica de orfebrería\r\n55-Salir de la semilla, emerger con vida\r\n57-El tío de Zuko, el de Avatar (El último maestro del aire) \r\n58-Años vividos\r\n59-Hombre que carece de gracia y viveza\r\n61-Detesta, aborrece\r\n66-Extraterrestre creado por Steven Spielberg",
+        "horizontal_clues": "1-Sujeto con grapas \r\n6-No logras el éxito que buscabas \r\n13-Calamares rebozados \r\n14-El diminutivo de Ned Flanders \r\n15-De ingleses y portugueses\r\n17-Apremiase insistentemente a alguien que le huye\r\n19-Haga su canción\r\n21-Miembro de la cámara alta del cuerpo legislativo\r\n22-Envase con dispositivo para pulverizar el líquido que contiene\r\n23-Ato y aseguro por medio de cuerdas\r\n25-Este no tiene fin\r\n26-Bebida que contiene ácido carbónico\r\n28-Dime algo que no sepa\r\n30-Cópula sexual\r\n32-Enriquece la tierra\r\n34-Me desenvolví con facilidad, como agua en el río\r\n36-\"…Weasley\" el mejor amigo de Harry Potter\r\n37-Condición de estar desocupado totalmente\r\n41-La voz de una casa vacía\r\n43-Como el OVNI pero submarino\r\n44-Alisar el cabello, pero sin plancha\r\n47-Tengas la obligación\r\n49-Milicia Ayudante de campo\r\n52-Se moviliza de dentro a fuera\r\n53-Una señora pequeña\r\n54-Instrumento médico quirúrgico (pl)\r\n56-Tranques la cremallera\r\n60-El que estalló en Chernóbil\r\n62-Estimulado el buey, para que ande más rápido\r\n63-Como el alcalde, pero de una cárcel\r\n64-Explosión termonuclear de una estrella y su combustible nuclear\r\n65-Las cartas que coges\r\n67-Comunidad humana con afinidades raciales, lingüísticas, culturales\r\n68-Padre de la historiografía\r\n69-Suplicar, implorar",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,#\r\n13,#,#,#,#,#,14,#,#,#,#,15,#,#,16\r\n17,#,#,#,#,18,#,#,19,#,20,#,#,#,#\r\n21,#,#,#,#,#,#,#,22,#,#,#,#,#,#\r\n#,#,23,#,#,#,#,24,#,#,25,#,#,#,#\r\n26,27,#,#,#,28,#,#,29,#,30,#,#,31,#\r\n32,#,#,#,33,#,#,34,#,35,#,#,36,#,#\r\n#,#,#,37,#,38,39,#,#,#,#,40,#,#,#\r\n41,#,42,#,43,#,#,#,#,#,44,#,45,#,46\r\n47,#,#,48,#,#,49,#,50,51,#,52,#,#,#\r\n#,#,53,#,#,#,#,54,#,#,55,#,#,#,#\r\n56,57,#,#,#,58,59,#,60,#,#,#,#,61,#\r\n62,#,#,#,#,#,#,#,63,#,#,#,#,#,#\r\n64,#,#,#,#,65,#,66,#,#,67,#,#,#,#\r\n#,68,#,#,#,#,#,#,#,#,69,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

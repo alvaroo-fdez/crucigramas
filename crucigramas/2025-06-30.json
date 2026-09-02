@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 2725,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-29T10:07:27.523473Z",
+      "updatedAt": "2025-06-29T10:08:05.119360Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AMAOS#PILI#ALAR\r\nTOSCO#AMAD#TIÑE\r\nERITROCITO#IMAN\r\nNADO#DETAL#PIDO\r\n###PRISA#OTITIS\r\nFACIES#BUSECA##\r\nISO#VELAR#ROCHE\r\nLMR#EAO#DOC#IAS\r\nMANAR#MUARE#OBE\r\n##ALOJAN#ARENAS\r\nCOMUNA#APTOS###\r\nELES#DANAE#PAPA\r\nBENI#ELIPSOIDES\r\nORTO#ALMA#FARSA\r\nSEAN#RIES#CREAN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Amarren",
+              "answer": "ATEN"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Baya silvestre color morado",
+              "answer": "MORA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tomad o coged con la mano",
+              "answer": "ASID"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"Pulpos\" en inglés",
+              "answer": "OCTOPI"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Hermana religiosa",
+              "answer": "SOR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pastoreas, campeas, apacientas",
+              "answer": "PACES"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Emulaba, copiaba",
+              "answer": "IMITABA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Envase hecho de hojalata",
+              "answer": "LATA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Imágenes de culto",
+              "answer": "IDOLOS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Objeto que difiere del común de su grupo",
+              "answer": "ATIPICO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Restricción que impide el desarrollo completo de una acción o proceso",
+              "answer": "LIMITACION"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Aumenté, acrecenté, amplié",
+              "answer": "AÑADI"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Los que llevan el trineo de Santa",
+              "answer": "RENOS"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Un asedio desordenado se convierte en un martirio",
+              "answer": "ODISEA"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Pintor venezolano, que investigó la acción de la luz sobre las formas",
+              "answer": "REVERON"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Ganó medalla de bronce, llegó de…",
+              "answer": "TERCERO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Película\" en inglés",
+              "answer": "FILM"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Enfermedad de los bronquios con sibilantes",
+              "answer": "ASMA"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Astas del venado o ciervo",
+              "answer": "CORNAMENTA"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Trame un plan",
+              "answer": "URDA"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Altura pequeña y prolongada",
+              "answer": "LOMA"
+            },
+            "36": {
+              "col": 13,
+              "row": 6,
+              "clue": "Alubia, habichuela, judía",
+              "answer": "HABA"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "Ssss",
+              "answer": "ESES"
+            },
+            "41": {
+              "col": 9,
+              "row": 7,
+              "clue": "Locos, faltos de juicio",
+              "answer": "ORATES"
+            },
+            "44": {
+              "col": 3,
+              "row": 8,
+              "clue": "Mención indirecta",
+              "answer": "ALUSION"
+            },
+            "46": {
+              "col": 7,
+              "row": 8,
+              "clue": "Decisión en la que todos están de acuerdo",
+              "answer": "UNANIME"
+            },
+            "49": {
+              "col": 5,
+              "row": 9,
+              "clue": "Respirar anhelosamente por un esfuerzo físico",
+              "answer": "JADEAR"
+            },
+            "51": {
+              "col": 11,
+              "row": 9,
+              "clue": "Acechar, observar a alguien sin que se dé cuenta",
+              "answer": "ESPIAR"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Comida que se da a los animales para engordarlos (pl)",
+              "answer": "CEBOS"
+            },
+            "53": {
+              "col": 1,
+              "row": 10,
+              "clue": "Percibiré los olores",
+              "answer": "OLERE"
+            },
+            "55": {
+              "col": 8,
+              "row": 10,
+              "clue": "Tubérculos comestibles con alto contenido de almidón",
+              "answer": "PAPAS"
+            },
+            "58": {
+              "col": 6,
+              "row": 11,
+              "clue": "Ahí está la loca Lila",
+              "answer": "ALLI"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "Repartí las aguas para el riego",
+              "answer": "ADRE"
+            },
+            "61": {
+              "col": 13,
+              "row": 11,
+              "clue": "Pasé correctamente con la mancuerna",
+              "answer": "PESA"
+            },
+            "62": {
+              "col": 14,
+              "row": 11,
+              "clue": "Cocinan algo de las ancas",
+              "answer": "ASAN"
+            },
+            "65": {
+              "col": 10,
+              "row": 12,
+              "clue": "La Confederación de Fútbol de Oceanía, pero en inglés",
+              "answer": "OFC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"… los unos a los otros\"",
+              "answer": "AMAOS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Mi pequeña Pilar",
+              "answer": "PILI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Alero del tejado",
+              "answer": "ALAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Grosero, escaso de educación y delicadeza",
+              "answer": "TOSCO"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Quered, adorad",
+              "answer": "AMAD"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Tinta, pinta la ropa",
+              "answer": "TIÑE"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Glóbulo rojo o hematíe",
+              "answer": "ERITROCITO"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Hierro magnético",
+              "answer": "IMAN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Me desplazo en el agua braceando",
+              "answer": "NADO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Establecimiento o almacén minorista",
+              "answer": "DETAL"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Solicito una ayuda",
+              "answer": "PIDO"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Rapidez con que sucede o se ejecuta algo",
+              "answer": "PRISA"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Inflamación del oído",
+              "answer": "OTITIS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Aspecto característico de una enfermedad",
+              "answer": "FACIES"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Guiso hecho principalmente a base de mondongo en Argentina",
+              "answer": "BUSECA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo que tienen en común Edison y Marisol",
+              "answer": "ISO"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Asistir de noche a un enfermo",
+              "answer": "VELAR"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Empresa que produce el Tamiflu, contra la H1N1",
+              "answer": "ROCHE"
+            },
+            "38": {
+              "col": 0,
+              "row": 7,
+              "clue": "Limite Máximo de Residuos (de plaguicidas)",
+              "answer": "LMR"
+            },
+            "39": {
+              "col": 4,
+              "row": 7,
+              "clue": "Las vocales fuertes desordenadas",
+              "answer": "EAO"
+            },
+            "40": {
+              "col": 8,
+              "row": 7,
+              "clue": "Inform Extensión de un archivo de Word",
+              "answer": "DOC"
+            },
+            "42": {
+              "col": 12,
+              "row": 7,
+              "clue": "Vías sin entrada",
+              "answer": "IAS"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Brotar, fluir un líquido",
+              "answer": "MANAR"
+            },
+            "45": {
+              "col": 6,
+              "row": 8,
+              "clue": "Tela fuerte que forma aguas",
+              "answer": "MUARE"
+            },
+            "47": {
+              "col": 12,
+              "row": 8,
+              "clue": "Poco obediente",
+              "answer": "OBE"
+            },
+            "48": {
+              "col": 2,
+              "row": 9,
+              "clue": "Albergan, cobijan",
+              "answer": "ALOJAN"
+            },
+            "50": {
+              "col": 9,
+              "row": 9,
+              "clue": "Material que servía a los antiguos relojes (pl)",
+              "answer": "ARENAS"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "La de París, la de 1871",
+              "answer": "COMUNA"
+            },
+            "54": {
+              "col": 7,
+              "row": 10,
+              "clue": "Calificados, idóneos para cierta actividad",
+              "answer": "APTOS"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Llllllll",
+              "answer": "ELES"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "La mamá de Perseo",
+              "answer": "DANAE"
+            },
+            "59": {
+              "col": 11,
+              "row": 11,
+              "clue": "Sumo pontífice romano",
+              "answer": "PAPA"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "2º departamento más extenso de Bolivia",
+              "answer": "BENI"
+            },
+            "64": {
+              "col": 5,
+              "row": 12,
+              "clue": "Cuerpos geométricos tridimensionales similares a esferas deformadas",
+              "answer": "ELIPSOIDES"
+            },
+            "66": {
+              "col": 0,
+              "row": 13,
+              "clue": "Salida del sol o de otro astro por el horizonte",
+              "answer": "ORTO"
+            },
+            "67": {
+              "col": 5,
+              "row": 13,
+              "clue": "Sustancia espiritual",
+              "answer": "ALMA"
+            },
+            "68": {
+              "col": 10,
+              "row": 13,
+              "clue": "Mentira, apariencia engañosa",
+              "answer": "FARSA"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Guillermo de Baskerville en 'El nombre de la rosa'",
+              "answer": "SEAN"
+            },
+            "70": {
+              "col": 5,
+              "row": 14,
+              "clue": "\"LOL: si te…, pierdes\", con Santiago Segura",
+              "answer": "RIES"
+            },
+            "71": {
+              "col": 10,
+              "row": 14,
+              "clue": "Confíen en algo",
+              "answer": "CREAN"
+            }
+          }
+        },
+        "vertical_clues": "1-Amarren\r\n2-Baya silvestre color morado\r\n3-Tomad o coged con la mano\r\n4-\"Pulpos\" en inglés\r\n5-Hermana religiosa\r\n6-Pastoreas, campeas, apacientas\r\n7-Emulaba, copiaba\r\n8-Envase hecho de hojalata\r\n9-Imágenes de culto\r\n10-Objeto que difiere del común de su grupo\r\n11-Restricción que impide el desarrollo completo de una acción o proceso \r\n12-Aumenté, acrecenté, amplié\r\n13-Los que llevan el trineo de Santa\r\n18-Un asedio desordenado se convierte en un martirio\r\n24-Pintor venezolano, que investigó la acción de la luz sobre las formas\r\n26-Ganó medalla de bronce, llegó de…\r\n27-\"Película\" en inglés\r\n28-Enfermedad de los bronquios con sibilantes\r\n29-Astas del venado o ciervo \r\n31-Trame un plan\r\n34-Altura pequeña y prolongada\r\n36-Alubia, habichuela, judía\r\n37-Ssss \r\n41-Locos, faltos de juicio\r\n44-Mención indirecta\r\n46-Decisión en la que todos están de acuerdo\r\n49-Respirar anhelosamente por un esfuerzo físico\r\n51-Acechar, observar a alguien sin que se dé cuenta\r\n52-Comida que se da a los animales para engordarlos (pl)\r\n53-Percibiré los olores\r\n55-Tubérculos comestibles con alto contenido de almidón \r\n58-Ahí está la loca Lila\r\n60-Repartí las aguas para el riego\r\n61-Pasé correctamente con la mancuerna\r\n62-Cocinan algo de las ancas\r\n65-La Confederación de Fútbol de Oceanía, pero en inglés",
+        "horizontal_clues": "1-\"… los unos a los otros\"\r\n6-Mi pequeña Pilar\r\n10-Alero del tejado\r\n14-Grosero, escaso de educación y delicadeza\r\n15-Quered, adorad\r\n16-Tinta, pinta la ropa\r\n17-Glóbulo rojo o hematíe\r\n19-Hierro magnético\r\n20-Me desplazo en el agua braceando\r\n21-Establecimiento o almacén minorista\r\n22-Solicito una ayuda\r\n23-Rapidez con que sucede o se ejecuta algo\r\n25-Inflamación del oído\r\n27-Aspecto característico de una enfermedad \r\n30-Guiso hecho principalmente a base de mondongo en Argentina\r\n32-Lo que tienen en común Edison y Marisol\r\n33-Asistir de noche a un enfermo\r\n35-Empresa que produce el Tamiflu, contra la H1N1\r\n38-Limite Máximo de Residuos (de plaguicidas)\r\n39-Las vocales fuertes desordenadas\r\n40-Inform Extensión de un archivo de Word\r\n42-Vías sin entrada\r\n43-Brotar, fluir un líquido\r\n45-Tela fuerte que forma aguas\r\n47-Poco obediente\r\n48-Albergan, cobijan\r\n50-Material que servía a los antiguos relojes (pl)\r\n52-La de París, la de 1871\r\n54-Calificados, idóneos para cierta actividad\r\n56-Llllllll\r\n57-La mamá de Perseo\r\n59-Sumo pontífice romano\r\n63-2º departamento más extenso de Bolivia\r\n64-Cuerpos geométricos tridimensionales similares a esferas deformadas \r\n66-Salida del sol o de otro astro por el horizonte\r\n67-Sustancia espiritual\r\n68-Mentira, apariencia engañosa\r\n69-Guillermo de Baskerville en 'El nombre de la rosa'\r\n70-\"LOL: si te…, pierdes\", con Santiago Segura\r\n71-Confíen en algo",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n#,#,#,23,24,#,#,#,#,25,26,#,#,#,#\r\n27,28,29,#,#,#,#,30,31,#,#,#,#,#,#\r\n32,#,#,#,33,#,34,#,#,#,35,#,#,36,37\r\n38,#,#,#,39,#,#,#,40,41,#,#,42,#,#\r\n43,#,#,44,#,#,45,46,#,#,#,#,47,#,#\r\n#,#,48,#,#,49,#,#,#,50,#,51,#,#,#\r\n52,53,#,#,#,#,#,54,55,#,#,#,#,#,#\r\n56,#,#,#,#,57,58,#,#,#,#,59,60,61,62\r\n63,#,#,#,#,64,#,#,#,#,65,#,#,#,#\r\n66,#,#,#,#,67,#,#,#,#,68,#,#,#,#\r\n69,#,#,#,#,70,#,#,#,#,71,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

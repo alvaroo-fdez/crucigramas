@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 6169,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-05T15:43:39.459187Z",
+      "updatedAt": "2026-06-05T15:45:05.075526Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##MUECA#AVALES#\r\n#RESMAS#BIDON#B\r\nCELEBRE#SECA#AL\r\nOSA#APAGON#RENA\r\nUT#LLENARE##SSS\r\nRAPAS##NC#VATIO\r\nTROVA#AGITACION\r\n##CAMEL#OSCAR##\r\nAHIDALGAN#IMPAR\r\nCOLOR#OD##OPERA\r\nORG##ERITEMA#RM\r\nCCAA#LIRADO#LUA\r\nAA#VOLT#SURTIAS\r\nN#MODEM#ACATAS#\r\n#VENENO#ROLES##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mezcla de pintura usada para marcar el ganado lanar",
+              "answer": "MELA"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Compuse la última parte",
+              "answer": "USE"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Preservar un cadáver con sustancias aromáticas",
+              "answer": "EMBALSAMAR"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Diem\", aprovecha el momento",
+              "answer": "CARPE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Limpian a Sean",
+              "answer": "ASEAN"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Asimilación, digestión, por ejemplo, de nutrientes",
+              "answer": "ABSORCION"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Llega o se aproxima",
+              "answer": "VIENE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Alpha, Delta, Charlie",
+              "answer": "ADC"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Adular, alabar, enaltecer",
+              "answer": "LOAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Idioma inglés, en los manuales de instrucción",
+              "answer": "EN"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Lo que hacen los que no quieren aportar",
+              "answer": "RESTAR"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Escudo de armas",
+              "answer": "BLASON"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "El 'Royal… Theatre' en Londres",
+              "answer": "COURT"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Deseo con vehemencia",
+              "answer": "ANSIO"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "Grupo organizado de delincuentes",
+              "answer": "GANG"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Linaje con pedigrí",
+              "answer": "ESTIRPE"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Enjuagado, higienizado",
+              "answer": "LAVADO"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Establo para ganado de cerda",
+              "answer": "POCILGA"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cuando la verdad, la conciencia y la empatía brillan por su ausencia (2p)",
+              "answer": "VACIOMORAL"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Pernocta en tiendas de campaña",
+              "answer": "ACAMPA"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "El que decide qué vemos y qué no, en las redes",
+              "answer": "ALGORITMO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Toso con la boca cerrada",
+              "answer": "TS"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Lo positivo de Noel",
+              "answer": "EL"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Esos frutos se vuelven nidos de gusanos, se…",
+              "answer": "ACOCAN"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Donde murió William Wallace",
+              "answer": "HORCA"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "Derecho: Aceptar la herencia tácita o expresamente",
+              "answer": "ADIR"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Gruñes como jabalí perseguido",
+              "answer": "ARRUAS"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Divisiones de una ciencia",
+              "answer": "RAMAS"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"… Pompeo\" actriz prota de 'Anatomía de Grey'",
+              "answer": "ELLEN"
+            },
+            "47": {
+              "col": 8,
+              "row": 10,
+              "clue": "Fijar oficialmente el precio para una mercancía",
+              "answer": "TASAR"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Instruyo a mi hija, la formo",
+              "answer": "EDUCO"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Marca de cosméticos por catálogos",
+              "answer": "AVON"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Armas un cigarrillo",
+              "answer": "LIAS"
+            },
+            "56": {
+              "col": 4,
+              "row": 12,
+              "clue": "Sólo me codeo con las del medio",
+              "answer": "ODE"
+            },
+            "58": {
+              "col": 11,
+              "row": 12,
+              "clue": "Teniente, por favor, sea breve",
+              "answer": "TTE"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Conclusión del informe",
+              "answer": "ME"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cara graciosa, morisqueta",
+              "answer": "MUECA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Documentos que garantizan un préstamo bancario",
+              "answer": "AVALES"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Pacas de folios",
+              "answer": "RESMAS"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Recipiente hermético de sustancias que requieren aislamiento",
+              "answer": "BIDON"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Festejé con el ilustre",
+              "answer": "CELEBRE"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Flaca y sedienta",
+              "answer": "SECA"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Contracción gramatical",
+              "answer": "AL"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Osados sin par",
+              "answer": "OSA"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "Interrupción pasajera del suministro de energía eléctrica",
+              "answer": "APAGON"
+            },
+            "20": {
+              "col": 11,
+              "row": 3,
+              "clue": "Municipio de España en Badajoz",
+              "answer": "RENA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "¿Tú regresas?",
+              "answer": "UT"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Ocuparé por completo un espacio vacío",
+              "answer": "LLENARE"
+            },
+            "24": {
+              "col": 12,
+              "row": 4,
+              "clue": "¡Deja que se exprese la serpiente!",
+              "answer": "SSS"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Cortas el cabello al ras de la cabeza",
+              "answer": "RAPAS"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Lo que tienen en común Natanael Cano y Noam Chomsky",
+              "answer": "NC"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Electrónica: Unidad de potencia cuyo símbolo es W",
+              "answer": "VATIO"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Composición poética rimada",
+              "answer": "TROVA"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Intranquilidad mental o emocional",
+              "answer": "AGITACION"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Los cigarros del camello",
+              "answer": "CAMEL"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"… Mingueza\" defensor del Celta de Vigo",
+              "answer": "OSCAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Hacen que alguien se parezca a los hidalgos o nobles",
+              "answer": "AHIDALGAN"
+            },
+            "39": {
+              "col": 10,
+              "row": 8,
+              "clue": "Número entero que no es divisible entre 2",
+              "answer": "IMPAR"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cloro mezclado con pigmento",
+              "answer": "COLOR"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Todo lo de adentro",
+              "answer": "OD"
+            },
+            "44": {
+              "col": 10,
+              "row": 9,
+              "clue": "Ícono arquitectónico de Sídney",
+              "answer": "OPERA"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Pequeña organización",
+              "answer": "ORG"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Med Inflamación de la piel, caracterizada por manchas rojas",
+              "answer": "ERITEMA"
+            },
+            "49": {
+              "col": 13,
+              "row": 10,
+              "clue": "Iniciales de la líder indígena guatemalteca, Nobel de la Paz en 1992",
+              "answer": "RM"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lo son Cataluña y el País Vasco",
+              "answer": "CCAA"
+            },
+            "52": {
+              "col": 5,
+              "row": 11,
+              "clue": "Instrumento con forma de lira",
+              "answer": "LIRADO"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "El guante de los cetreros",
+              "answer": "LUA"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pila común",
+              "answer": "AA"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Física: Unidad para la tensión eléctrica",
+              "answer": "VOLT"
+            },
+            "57": {
+              "col": 8,
+              "row": 12,
+              "clue": "Proveías, dabas",
+              "answer": "SURTIAS"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Aparato que provee de internet al rúter",
+              "answer": "MODEM"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Obedeces, cumples las reglas",
+              "answer": "ACATAS"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "Lo es la cicuta, la que tomó Sócrates y murió",
+              "answer": "VENENO"
+            },
+            "62": {
+              "col": 8,
+              "row": 14,
+              "clue": "Los papeles que interpretamos en la sociedad",
+              "answer": "ROLES"
+            }
+          }
+        },
+        "vertical_clues": "1-Mezcla de pintura usada para marcar el ganado lanar\r\n2-Compuse la última parte\r\n3-Preservar un cadáver con sustancias aromáticas \r\n4-\"… Diem\", aprovecha el momento\r\n5-Limpian a Sean\r\n6-Asimilación, digestión, por ejemplo, de nutrientes\r\n7-Llega o se aproxima \r\n8-Alpha, Delta, Charlie \r\n9-Adular, alabar, enaltecer\r\n10-Idioma inglés, en los manuales de instrucción\r\n11-Lo que hacen los que no quieren aportar \r\n13-Escudo de armas\r\n14-El 'Royal… Theatre' en Londres\r\n16-Deseo con vehemencia\r\n19-Grupo organizado de delincuentes \r\n21-Linaje con pedigrí\r\n23-Enjuagado, higienizado\r\n26-Establo para ganado de cerda\r\n28-Cuando la verdad, la conciencia y la empatía brillan por su ausencia (2p) \r\n29-Pernocta en tiendas de campaña\r\n31-El que decide qué vemos y qué no, en las redes \r\n32-Toso con la boca cerrada \r\n34-Lo positivo de Noel \r\n36-Esos frutos se vuelven nidos de gusanos, se…\r\n37-Donde murió William Wallace \r\n38-Derecho: Aceptar la herencia tácita o expresamente\r\n40-Gruñes como jabalí perseguido\r\n41-Divisiones de una ciencia\r\n46-\"… Pompeo\" actriz prota de 'Anatomía de Grey'\r\n47-Fijar oficialmente el precio para una mercancía\r\n48-Instruyo a mi hija, la formo\r\n51-Marca de cosméticos por catálogos\r\n53-Armas un cigarrillo\r\n56-Sólo me codeo con las del medio\r\n58-Teniente, por favor, sea breve\r\n59-Conclusión del informe",
+        "horizontal_clues": "1-Cara graciosa, morisqueta\r\n6-Documentos que garantizan un préstamo bancario \r\n11-Pacas de folios \r\n12-Recipiente hermético de sustancias que requieren aislamiento\r\n14-Festejé con el ilustre\r\n15-Flaca y sedienta \r\n16-Contracción gramatical\r\n17-Osados sin par\r\n18-Interrupción pasajera del suministro de energía eléctrica\r\n20-Municipio de España en Badajoz\r\n22-¿Tú regresas? \r\n23-Ocuparé por completo un espacio vacío\r\n24-¡Deja que se exprese la serpiente! \r\n25-Cortas el cabello al ras de la cabeza\r\n27-Lo que tienen en común Natanael Cano y Noam Chomsky \r\n28-Electrónica: Unidad de potencia cuyo símbolo es W\r\n30-Composición poética rimada \r\n31-Intranquilidad mental o emocional \r\n33-Los cigarros del camello\r\n35-\"… Mingueza\" defensor del Celta de Vigo\r\n36-Hacen que alguien se parezca a los hidalgos o nobles\r\n39-Número entero que no es divisible entre 2\r\n42-Cloro mezclado con pigmento\r\n43-Todo lo de adentro\r\n44-Ícono arquitectónico de Sídney\r\n45-Pequeña organización\r\n46-Med Inflamación de la piel, caracterizada por manchas rojas\r\n49-Iniciales de la líder indígena guatemalteca, Nobel de la Paz en 1992\r\n50-Lo son Cataluña y el País Vasco\r\n52-Instrumento con forma de lira\r\n53-El guante de los cetreros\r\n54-Pila común\r\n55-Física: Unidad para la tensión eléctrica\r\n57-Proveías, dabas\r\n59-Aparato que provee de internet al rúter\r\n60-Obedeces, cumples las reglas\r\n61-Lo es la cicuta, la que tomó Sócrates y murió\r\n62-Los papeles que interpretamos en la sociedad",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,16,#\r\n17,#,#,#,18,#,#,19,#,#,#,20,21,#,#\r\n22,#,#,23,#,#,#,#,#,#,#,#,24,#,#\r\n25,#,26,#,#,#,#,27,#,#,28,29,#,#,#\r\n30,#,#,#,#,#,31,#,#,32,#,#,#,#,#\r\n#,#,33,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,#,#,#,#,38,#,#,39,#,#,40,41\r\n42,#,#,#,#,#,43,#,#,#,44,#,#,#,#\r\n45,#,#,#,#,46,#,#,47,48,#,#,#,49,#\r\n50,#,#,51,#,52,#,#,#,#,#,#,53,#,#\r\n54,#,#,55,56,#,#,#,57,#,#,58,#,#,#\r\n#,#,59,#,#,#,#,#,60,#,#,#,#,#,#\r\n#,61,#,#,#,#,#,#,62,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

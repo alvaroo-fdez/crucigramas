@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4759,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-01T20:56:59.911958Z",
+      "updatedAt": "2026-02-01T20:57:51.809169Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-02",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#META#VALORANT#\r\nPANAL#EPITELIAL\r\nEXTRACTORA##OBA\r\nTIRA#LUDO#PABLO\r\nELES#ASAN#ARIES\r\nRAM#NUTRE#IGOR#\r\nPRELADO#SISE#OP\r\nA#SARI###LANC#R\r\nNT#PIAF#PUNTAJE\r\n#OPEN#ODESA#ROC\r\nPREPA#RODI#MOVI\r\nISLAS#ZURO#ATES\r\nAIT##GOLONDRINA\r\nSORPRESAS#HEDER\r\n#NEBULOSA#LEAS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Hueso craneal que aloja los dientes superiores",
+              "answer": "MAXILAR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Nombre dado al \"aperitivo\"",
+              "answer": "ENTREMES"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Defectos físicos hereditarios",
+              "answer": "TARAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Malala expulsó la maldad",
+              "answer": "ALA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Antiguo hasta la médula, no es justo",
+              "answer": "VETUSTO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Poner un alias porque lo han rapado mal",
+              "answer": "APODAR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Frutos del almez",
+              "answer": "LIRONES"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Sufijo usado para formar aumentativos en las palabras (fem)",
+              "answer": "OTA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Segunda nota musical",
+              "answer": "RE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… Pacino\" o \"… Capone\"",
+              "answer": "AL"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Elemento químico cuyo símbolo es Nb",
+              "answer": "NIOBIO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "El de ajedrez, porque parece un crucigrama",
+              "answer": "TABLERO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "No crece porque vive en Nunca Jamás (2p)",
+              "answer": "PETERPAN"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "País cuya capital es Vientián",
+              "answer": "LAOS"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "\"… Schiffer\" supermodelo y actriz",
+              "answer": "CLAUDIA"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "Mujer nacida en el mismo lugar que otra",
+              "answer": "PAISANA"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "'Dinero' en francés",
+              "answer": "ARGENT"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Fosas nasales",
+              "answer": "NARINAS"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "La Constitución Española de 1812, conocida como… (2p)",
+              "answer": "LAPEPA"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Alegría que da la esperanza de conseguir algo que se desea intensamente",
+              "answer": "ILUSION"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Determinar con exactitud lo que voy a necesitar",
+              "answer": "PRECISAR"
+            },
+            "37": {
+              "col": 12,
+              "row": 7,
+              "clue": "Arteria principal que transporta sangre al cerebro",
+              "answer": "CAROTIDA"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Deformación mecánica por giro en sentidos opuestos",
+              "answer": "TORSION"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Requisito obligatorio en un procedimiento legal",
+              "answer": "FORZOSO"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "\"Dani…\" El Samurai de MotoGP",
+              "answer": "PEDROSA"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Grupo demográfico entre la adolescencia y la adultez",
+              "answer": "JOVENES"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Aleación metálica utilizada en vajillas",
+              "answer": "PELTRE"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Mujeres que aportan apoyo físico y moral a la parturienta",
+              "answer": "DOULAS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Haces como los pollitos",
+              "answer": "PIAS"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Desazone, turbe la cabeza y revuelva el estómago",
+              "answer": "MAREE"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Gomina para el cabello",
+              "answer": "GEL"
+            },
+            "57": {
+              "col": 10,
+              "row": 12,
+              "clue": "Empresa de mensajería y paquetería internacional alemana",
+              "answer": "DHL"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Planta Baja (siglas)",
+              "answer": "PB"
+            },
+            "60": {
+              "col": 4,
+              "row": 13,
+              "clue": "Reino Unido (siglas)",
+              "answer": "RU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "El objetivo es que la introduzca en la portería",
+              "answer": "META"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Videojuego tipo shooter popular en los eSports",
+              "answer": "VALORANT"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fábrica melera",
+              "answer": "PANAL"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Tejido que recubre la superficie del cuerpo y cavidades internas",
+              "answer": "EPITELIAL"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Máquina para la obtención de sustancias de un material",
+              "answer": "EXTRACTORA"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Una serpiente enredada",
+              "answer": "OBA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Echa a Rita, está muy loca",
+              "answer": "TIRA"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Prefijo que refiere al juego",
+              "answer": "LUDO"
+            },
+            "21": {
+              "col": 10,
+              "row": 3,
+              "clue": "\"… Mármol\" el mejor de Pedro Picapiedra",
+              "answer": "PABLO"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lees caóticamente",
+              "answer": "ELES"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "De la agencia espacial regresó sana pero loca",
+              "answer": "ASAN"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Primer signo en la rueda del zodiaco",
+              "answer": "ARIES"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Inform Memoria de acceso aleatorio",
+              "answer": "RAM"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Llena, alimenta",
+              "answer": "NUTRE"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"… Stravinski\" director de orquesta ruso",
+              "answer": "IGOR"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Eclesiástico de la familia del papa",
+              "answer": "PRELADO"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Quité dinerito de la compra",
+              "answer": "SISE"
+            },
+            "33": {
+              "col": 13,
+              "row": 6,
+              "clue": "Opus",
+              "answer": "OP"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Traje de las indias",
+              "answer": "SARI"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Grupo unido por fuertes vínculos (inv)",
+              "answer": "LANC"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Iniciales de la actriz que interpretó a Osha en Juego de Tronos",
+              "answer": "NT"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Cantante francesa más célebre del siglo XX",
+              "answer": "PIAF"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Sistema de valoración numérica en evaluaciones académicas",
+              "answer": "PUNTAJE"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Se ha abierto esta competición de tenis",
+              "answer": "OPEN"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Ciudad con el puerto comercial marítimo más grande de Ucrania",
+              "answer": "ODESA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Reconocimiento Óptico de Caracteres (siglas)",
+              "answer": "ROC"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "El Instituto es al Insti lo que la Preparatoria es a la…",
+              "answer": "PREPA"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Rodillas fracturadas",
+              "answer": "RODI"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Meneé las caderas",
+              "answer": "MOVI"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Las del Caribe son paradisíacas",
+              "answer": "ISLAS"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Corazón del maíz después de desgranado",
+              "answer": "ZURO"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Te amarres a esta seta",
+              "answer": "ATES"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Cuando regrese mi tía",
+              "answer": "AIT"
+            },
+            "56": {
+              "col": 5,
+              "row": 12,
+              "clue": "Ave que inspiró un famoso poema de Bécquer",
+              "answer": "GOLONDRINA"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cosas inesperadas",
+              "answer": "SORPRESAS"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "Apestar, oler realmente mal",
+              "answer": "HEDER"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Región gaseosa interestelar",
+              "answer": "NEBULOSA"
+            },
+            "63": {
+              "col": 10,
+              "row": 14,
+              "clue": "Descifres el texto",
+              "answer": "LEAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Hueso craneal que aloja los dientes superiores \r\n2-Nombre dado al \"aperitivo\"\r\n3-Defectos físicos hereditarios\r\n4-Malala expulsó la maldad\r\n5-Antiguo hasta la médula, no es justo \r\n6-Poner un alias porque lo han rapado mal\r\n7-Frutos del almez\r\n8-Sufijo usado para formar aumentativos en las palabras (fem)\r\n9-Segunda nota musical\r\n10-\"… Pacino\" o \"… Capone\"\r\n11-Elemento químico cuyo símbolo es Nb\r\n12-El de ajedrez, porque parece un crucigrama\r\n13-No crece porque vive en Nunca Jamás (2p)\r\n15-País cuya capital es Vientián\r\n17-\"… Schiffer\" supermodelo y actriz\r\n21-Mujer nacida en el mismo lugar que otra\r\n22-'Dinero' en francés\r\n27-Fosas nasales \r\n30-La Constitución Española de 1812, conocida como… (2p)\r\n32-Alegría que da la esperanza de conseguir algo que se desea intensamente\r\n34-Determinar con exactitud lo que voy a necesitar \r\n37-Arteria principal que transporta sangre al cerebro \r\n39-Deformación mecánica por giro en sentidos opuestos \r\n41-Requisito obligatorio en un procedimiento legal \r\n42-\"Dani…\" El Samurai de MotoGP \r\n43-Grupo demográfico entre la adolescencia y la adultez \r\n45-Aleación metálica utilizada en vajillas \r\n47-Mujeres que aportan apoyo físico y moral a la parturienta\r\n49-Haces como los pollitos\r\n51-Desazone, turbe la cabeza y revuelva el estómago\r\n56-Gomina para el cabello\r\n57-Empresa de mensajería y paquetería internacional alemana\r\n59-Planta Baja (siglas)\r\n60-Reino Unido (siglas)",
+        "horizontal_clues": "1-El objetivo es que la introduzca en la portería\r\n5-Videojuego tipo shooter popular en los eSports\r\n13-Fábrica melera\r\n14-Tejido que recubre la superficie del cuerpo y cavidades internas \r\n16-Máquina para la obtención de sustancias de un material \r\n18-Una serpiente enredada\r\n19-Echa a Rita, está muy loca\r\n20-Prefijo que refiere al juego\r\n21-\"… Mármol\" el mejor de Pedro Picapiedra \r\n23-Lees caóticamente\r\n24-De la agencia espacial regresó sana pero loca\r\n25-Primer signo en la rueda del zodiaco\r\n26-Inform Memoria de acceso aleatorio\r\n27-Llena, alimenta\r\n28-\"… Stravinski\" director de orquesta ruso\r\n29-Eclesiástico de la familia del papa\r\n31-Quité dinerito de la compra\r\n33-Opus\r\n35-Traje de las indias\r\n36-Grupo unido por fuertes vínculos (inv)\r\n38-Iniciales de la actriz que interpretó a Osha en Juego de Tronos\r\n40-Cantante francesa más célebre del siglo XX\r\n42-Sistema de valoración numérica en evaluaciones académicas \r\n44-Se ha abierto esta competición de tenis \r\n46-Ciudad con el puerto comercial marítimo más grande de Ucrania\r\n48-Reconocimiento Óptico de Caracteres (siglas)\r\n49-El Instituto es al Insti lo que la Preparatoria es a la…\r\n50-Rodillas fracturadas\r\n51-Meneé las caderas\r\n52-Las del Caribe son paradisíacas\r\n53-Corazón del maíz después de desgranado\r\n54-Te amarres a esta seta\r\n55-Cuando regrese mi tía\r\n56-Ave que inspiró un famoso poema de Bécquer \r\n58-Cosas inesperadas \r\n61-Apestar, oler realmente mal\r\n62-Región gaseosa interestelar\r\n63-Descifres el texto",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,5,6,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,14,#,#,#,#,#,#,#,15\r\n16,#,#,#,#,17,#,#,#,#,#,#,18,#,#\r\n19,#,#,#,#,20,#,#,#,#,21,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,25,#,#,#,#\r\n26,#,#,#,27,#,#,#,#,#,28,#,#,#,#\r\n29,#,#,30,#,#,#,#,31,32,#,#,#,33,34\r\n#,#,35,#,#,#,#,#,#,36,#,#,37,#,#\r\n38,39,#,40,#,#,41,#,42,#,#,#,#,43,#\r\n#,44,45,#,#,#,46,47,#,#,#,#,48,#,#\r\n49,#,#,#,#,#,50,#,#,#,#,51,#,#,#\r\n52,#,#,#,#,#,53,#,#,#,#,54,#,#,#\r\n55,#,#,#,#,56,#,#,#,#,57,#,#,#,#\r\n58,#,#,59,60,#,#,#,#,#,61,#,#,#,#\r\n#,62,#,#,#,#,#,#,#,#,63,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

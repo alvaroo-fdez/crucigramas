@@ -1,0 +1,441 @@
+{
+  "data": {
+    "id": 1201,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-11-19T20:02:43.582155Z",
+      "updatedAt": "2024-11-19T20:02:43.625551Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-11-20",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "LABAMBA#FILLOAS\r\nL#T#AULLARA#B#O\r\nAR#CRETACICO#PP\r\nM#A#INICIAR#C#E\r\nABUSE#RIA#ALIAS\r\nMOMO#WOOLF#LUPA\r\nETEREA#S#APODAN\r\n#ENTONO#CLAVAR#\r\nALTEAD#C#LEIDEN\r\nBLAA#APEGO#DEJA\r\nSADNA#ALA#COLOR\r\nE#A#TURISMO#A#A\r\nNM#SEMANTICO#EN\r\nT#G#SIMEONE#T#J\r\nABSCESO#NEREIDA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Telefonéame",
+              "answer": "LLAMAME"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tanques rusos usados en la Guerra Civil española (siglas)",
+              "answer": "BT"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Única mujer en la foto del 5º Congreso de Solvay",
+              "answer": "MARIE"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Es una apócope que no es del todo bueno",
+              "answer": "BUEN"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Expresión chilena de inmediatez (2p)",
+              "answer": "ALTIRO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tratamiento estético para el rostro",
+              "answer": "FACIAL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Caminaría, andaría de acá para allá",
+              "answer": "IRIA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vicio físico o moral que marca a quien lo tiene",
+              "answer": "LACRA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Obligatorias las dos primeras",
+              "answer": "OB"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Examinan con atención el pro y el contra de un asunto",
+              "answer": "SOPESAN"
+            },
+            "12": {
+              "col": 7,
+              "row": 1,
+              "clue": "Cabello que cae sin formar ondas ni rizos (pl)",
+              "answer": "LACIOS"
+            },
+            "16": {
+              "col": 2,
+              "row": 3,
+              "clue": "Realidad con elementos virtuales superpuestos",
+              "answer": "AUMENTADA"
+            },
+            "18": {
+              "col": 12,
+              "row": 3,
+              "clue": "Recinto fortificado en una población",
+              "answer": "CIUDADELA"
+            },
+            "20": {
+              "col": 1,
+              "row": 4,
+              "clue": "Recipiente para líquidos con cuello estrecho",
+              "answer": "BOTELLA"
+            },
+            "21": {
+              "col": 3,
+              "row": 4,
+              "clue": "Rifan",
+              "answer": "SORTEAN"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Ha diluviado, ha…",
+              "answer": "LLOVIDO"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Conjunto de los elementos que se necesitan para realizar algo",
+              "answer": "APAREJO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "De los padrinos mágicos, la madrina de Timmy",
+              "answer": "WANDA"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Decisión de un jurado o tribunal",
+              "answer": "FALLO"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Vocales fuertes o abiertas",
+              "answer": "EOA"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Puntos de Atención al Emprendedor",
+              "answer": "PAE"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Licor de sabor anisado y color verde",
+              "answer": "ABSENTA"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Cantante del tema 'My Heart Will Go On' de 'Titanic'",
+              "answer": "CELINE"
+            },
+            "39": {
+              "col": 14,
+              "row": 8,
+              "clue": "Zanjarán la pérdida de la capital con un batido cítrico",
+              "answer": "NARANJA"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lugar frío y desamparado",
+              "answer": "PARAMO"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Extenista argentino, campeón del Torneo de Roland Garros (2004)",
+              "answer": "GASTON"
+            },
+            "46": {
+              "col": 4,
+              "row": 10,
+              "clue": "Tensé las velas del barco, las…",
+              "answer": "ATESE"
+            },
+            "48": {
+              "col": 10,
+              "row": 10,
+              "clue": "Hacer comestible un alimento",
+              "answer": "COCER"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "La sumí en un caos",
+              "answer": "UMIS"
+            },
+            "51": {
+              "col": 9,
+              "row": 11,
+              "clue": "Abra galerías por debajo de la tierra",
+              "answer": "MINE"
+            },
+            "55": {
+              "col": 2,
+              "row": 13,
+              "clue": "En el corazón de Kingston",
+              "answer": "GS"
+            },
+            "57": {
+              "col": 12,
+              "row": 13,
+              "clue": "Titanio",
+              "answer": "TI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"Para bailar… se necesita una poca de gracia\" Ritchie Valens",
+              "answer": "LABAMBA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Postre gallego típico de carnaval y también en Navidad",
+              "answer": "FILLOAS"
+            },
+            "11": {
+              "col": 4,
+              "row": 1,
+              "clue": "Hará como un lobo melancólico",
+              "answer": "AULLARA"
+            },
+            "13": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tercero de los gases nobles",
+              "answer": "AR"
+            },
+            "14": {
+              "col": 3,
+              "row": 2,
+              "clue": "Período geológico de los dinosaurios",
+              "answer": "CRETACICO"
+            },
+            "15": {
+              "col": 13,
+              "row": 2,
+              "clue": "Iniciales de pintor español padre del cubismo",
+              "answer": "PP"
+            },
+            "17": {
+              "col": 4,
+              "row": 3,
+              "clue": "Dar principio a algo",
+              "answer": "INICIAR"
+            },
+            "19": {
+              "col": 0,
+              "row": 4,
+              "clue": "Utilicé mal la confianza que depositó en mí",
+              "answer": "ABUSE"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Celebre con risa algo",
+              "answer": "RIA"
+            },
+            "23": {
+              "col": 10,
+              "row": 4,
+              "clue": "El nombre de usuario, me salía desordenado",
+              "answer": "ALIAS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Mit griega Dios de la burla y las bromas",
+              "answer": "MOMO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"Virginia…\" escritora británica, símbolo del feminismo",
+              "answer": "WOOLF"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "La herramienta de Sherlock Holmes",
+              "answer": "LUPA"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Impalpable, inmaterial (fem)",
+              "answer": "ETEREA"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Ponen sobrenombres",
+              "answer": "APODAN"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Ajustó el tono",
+              "answer": "ENTONO"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Incrustar, insertar",
+              "answer": "CLAVAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Elevad, dad mayor altura a alguna cosa, como un muro",
+              "answer": "ALTEAD"
+            },
+            "38": {
+              "col": 9,
+              "row": 8,
+              "clue": "Ciudad natal del pintor Rembrandt",
+              "answer": "LEIDEN"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Van para largo, las habladurías",
+              "answer": "BLAA"
+            },
+            "41": {
+              "col": 5,
+              "row": 9,
+              "clue": "\"Crianza con…\" lactancia, colecho y mucho cariño",
+              "answer": "APEGO"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "Abandona, renuncia",
+              "answer": "DEJA"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Caminas en dirección contraria",
+              "answer": "SADNA"
+            },
+            "47": {
+              "col": 6,
+              "row": 10,
+              "clue": "Malala expulsó la maldad",
+              "answer": "ALA"
+            },
+            "48": {
+              "col": 10,
+              "row": 10,
+              "clue": "Cloro mezclado con pigmento",
+              "answer": "COLOR"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Gran…\" videojuego simulador de carreras",
+              "answer": "TURISMO"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Nanómetro (abrev)",
+              "answer": "NM"
+            },
+            "53": {
+              "col": 3,
+              "row": 12,
+              "clue": "Relativo al significado de las palabras",
+              "answer": "SEMANTICO"
+            },
+            "54": {
+              "col": 13,
+              "row": 12,
+              "clue": "En la cabeza de Einstein y en los zapatos de Newton",
+              "answer": "EN"
+            },
+            "56": {
+              "col": 4,
+              "row": 13,
+              "clue": "Fútbol El Cholo",
+              "answer": "SIMEONE"
+            },
+            "58": {
+              "col": 0,
+              "row": 14,
+              "clue": "Acumulación de pus en los tejidos orgánicos",
+              "answer": "ABSCESO"
+            },
+            "59": {
+              "col": 8,
+              "row": 14,
+              "clue": "\"… de Epiro\" hija del rey Pirro y luego reina de Siracusa",
+              "answer": "NEREIDA"
+            }
+          }
+        },
+        "vertical_clues": "1-Telefonéame\r\n2-Tanques rusos usados en la Guerra Civil española (siglas)\r\n3-Única mujer en la foto del 5º Congreso de Solvay\r\n4-Es una apócope que no es del todo bueno\r\n5-Expresión chilena de inmediatez (2p)\r\n6-Tratamiento estético para el rostro \r\n7-Caminaría, andaría de acá para allá\r\n8-Vicio físico o moral que marca a quien lo tiene\r\n9-Obligatorias las dos primeras\r\n10-Examinan con atención el pro y el contra de un asunto\r\n12-Cabello que cae sin formar ondas ni rizos (pl)\r\n16-Realidad con elementos virtuales superpuestos \r\n18-Recinto fortificado en una población \r\n20-Recipiente para líquidos con cuello estrecho \r\n21-Rifan\r\n24-Ha diluviado, ha…\r\n25-Conjunto de los elementos que se necesitan para realizar algo\r\n27-De los padrinos mágicos, la madrina de Timmy\r\n28-Decisión de un jurado o tribunal \r\n31-Vocales fuertes o abiertas\r\n33-Puntos de Atención al Emprendedor\r\n36-Licor de sabor anisado y color verde \r\n37-Cantante del tema 'My Heart Will Go On' de 'Titanic'\r\n39-Zanjarán la pérdida de la capital con un batido cítrico\r\n42-Lugar frío y desamparado \r\n43-Extenista argentino, campeón del Torneo de Roland Garros (2004)\r\n46-Tensé las velas del barco, las…\r\n48-Hacer comestible un alimento\r\n50-La sumí en un caos\r\n51-Abra galerías por debajo de la tierra\r\n55-En el corazón de Kingston\r\n57-Titanio\r\n",
+        "horizontal_clues": "1-\"Para bailar… se necesita una poca de gracia\" Ritchie Valens\r\n6-Postre gallego típico de carnaval y también en Navidad\r\n11-Hará como un lobo melancólico\r\n13-Tercero de los gases nobles\r\n14-Período geológico de los dinosaurios \r\n15-Iniciales de pintor español padre del cubismo\r\n17-Dar principio a algo\r\n19-Utilicé mal la confianza que depositó en mí\r\n22-Celebre con risa algo\r\n23-El nombre de usuario, me salía desordenado\r\n26-Mit griega Dios de la burla y las bromas\r\n27-\"Virginia…\" escritora británica, símbolo del feminismo\r\n29-La herramienta de Sherlock Holmes\r\n30-Impalpable, inmaterial (fem)\r\n32-Ponen sobrenombres\r\n34-Ajustó el tono\r\n35-Incrustar, insertar\r\n36-Elevad, dad mayor altura a alguna cosa, como un muro\r\n38-Ciudad natal del pintor Rembrandt\r\n40-Van para largo, las habladurías\r\n41-\"Crianza con…\" lactancia, colecho y mucho cariño\r\n44-Abandona, renuncia\r\n45-Caminas en dirección contraria\r\n47-Malala expulsó la maldad\r\n48-Cloro mezclado con pigmento\r\n49-\"Gran…\" videojuego simulador de carreras\r\n52-Nanómetro (abrev)\r\n53-Relativo al significado de las palabras \r\n54-En la cabeza de Einstein y en los zapatos de Newton\r\n56-Fútbol El Cholo\r\n58-Acumulación de pus en los tejidos orgánicos\r\n59-\"… de Epiro\" hija del rey Pirro y luego reina de Siracusa\r\n",
+        "board_clues_positions": "1,#,2,#,3,4,5,#,6,7,8,#,9,#,10\r\n#,#,#,#,11,#,#,12,#,#,#,#,#,#,#\r\n13,#,#,14,#,#,#,#,#,#,#,#,#,15,#\r\n#,#,16,#,17,#,#,#,#,#,#,#,18,#,#\r\n19,20,#,21,#,#,22,#,#,#,23,24,#,25,#\r\n26,#,#,#,#,27,#,#,#,28,#,29,#,#,#\r\n30,#,#,#,31,#,#,#,#,32,33,#,#,#,#\r\n#,34,#,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,#,#,#,#,#,37,#,38,#,#,#,#,39\r\n40,#,#,#,#,41,42,#,43,#,#,44,#,#,#\r\n45,#,#,#,46,#,47,#,#,#,48,#,#,#,#\r\n#,#,#,#,49,50,#,#,#,51,#,#,#,#,#\r\n52,#,#,53,#,#,#,#,#,#,#,#,#,54,#\r\n#,#,55,#,56,#,#,#,#,#,#,#,57,#,#\r\n58,#,#,#,#,#,#,#,59,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

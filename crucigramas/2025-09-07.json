@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 3294,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-08-30T07:34:50.585441Z",
+      "updatedAt": "2025-08-30T07:34:50.601699Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-07",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "GRIETA#ATACAMOS\r\nI#DIALOGICO#IME\r\nRIE#MICROONDA#R\r\nAPAPACHO#GEISER\r\nDE#ILEO#HEXA#VA\r\nACUDE#AHIDALGAN\r\n#ALISA#AJOS#UNI\r\nECUO#MOLAR#MAGA\r\nSUR#BADA#AVISE#\r\nPAULATINO#AMALA\r\nEN#ELIO#JALA#IC\r\nSAETAS#PILORICO\r\nU#CONTRATAR#BOL\r\nRYU#CAMIONETA#A\r\nALAVESAS#OSUNAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Dar una vuelta sobre la punta de un pie llevando el otro en el aire",
+              "answer": "GIRADA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Primero y más obvio de los actos del entendimiento",
+              "answer": "IDEA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Saliendo de Taipéi",
+              "answer": "EI"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Alimento de harina de maíz envuelto en hojas de plátano (pl)",
+              "answer": "TAMALES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Cooper\" icónico cantante de hard rock y heavy metal",
+              "answer": "ALICE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Prefijo para usar fuera de las ciudades",
+              "answer": "AGRO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hermano de su padre o madre",
+              "answer": "TIO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Agradable por su ambientación, comodidad, tranquilidad (fem)",
+              "answer": "ACOGEDORA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Una cosa enlazada a otra, o relacionada con otra (pl)",
+              "answer": "CONEXAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Esas son de mi propiedad",
+              "answer": "MIAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "El centro de Roma",
+              "answer": "OM"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Terreno cruzado por montañas y sierras",
+              "answer": "SERRANIA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "\"Severo…\", asturiano, Premio Nobel de Medicina 1959",
+              "answer": "OCHOA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Planta rastrera tropical",
+              "answer": "IPECACUANA"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Conjunto de las emisoras de radio",
+              "answer": "DIAL"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Requirió, exigió como necesario",
+              "answer": "PIDIO"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Hombre protestante",
+              "answer": "EVANGELICO"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Mi niña, mi…",
+              "answer": "HIJA"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Famoso monte australiano",
+              "answer": "ULURU"
+            },
+            "31": {
+              "col": 7,
+              "row": 5,
+              "clue": "Atraen, tiran",
+              "answer": "HALAN"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Bromear, estar de…",
+              "answer": "GUASA"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Cuarzos violetas",
+              "answer": "AMATISTAS"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Grosor, densidad",
+              "answer": "ESPESURA"
+            },
+            "39": {
+              "col": 6,
+              "row": 7,
+              "clue": "Antipatía y aversión hacia algo",
+              "answer": "ODIO"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Tratar con especial cuidado y delicadeza",
+              "answer": "MIMAR"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Movimiento de un cuerpo hacia un lado y hacia el otro",
+              "answer": "BALANCE"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Virtudes humanas",
+              "answer": "VALORES"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "La madre de Apolo y Artemisa",
+              "answer": "LETO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Alerta con el ojo pequeño",
+              "answer": "OJITO"
+            },
+            "49": {
+              "col": 14,
+              "row": 9,
+              "clue": "Unes, juntas, abrazas",
+              "answer": "ACOLAS"
+            },
+            "53": {
+              "col": 9,
+              "row": 10,
+              "clue": "Perro español",
+              "answer": "ALANO"
+            },
+            "56": {
+              "col": 2,
+              "row": 11,
+              "clue": "Lengua itálica que hablaban los ecuos",
+              "answer": "ECUA"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "\"El…\" este diario",
+              "answer": "PAIS"
+            },
+            "58": {
+              "col": 12,
+              "row": 11,
+              "clue": "Se movían de un lugar hacia otro",
+              "answer": "IBAN"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Mar revuelto",
+              "answer": "RMA"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Yorgos Lanthimos, director de la peli 'Pobres criaturas'",
+              "answer": "YL"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Será tuya más tarde",
+              "answer": "TU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hendidura alargada que se hace en la pared",
+              "answer": "GRIETA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Acatamos confundidos y embestimos",
+              "answer": "ATACAMOS"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Como un tópico que propicia la posibilidad de discusión",
+              "answer": "DIALOGICO"
+            },
+            "15": {
+              "col": 12,
+              "row": 1,
+              "clue": "Centro agroalimentario",
+              "answer": "IME"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Celebra su chiste",
+              "answer": "RIE"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Unidad de radiación electromagnética presente en la cocina",
+              "answer": "MICROONDA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Abrazo mexicano",
+              "answer": "APAPACHO"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Terma del parque de Haukadalur, Islandia",
+              "answer": "GEISER"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Idioma alemán, en los manuales de instrucción",
+              "answer": "DE"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Retorcimiento de las asas intestinales",
+              "answer": "ILEO"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Prefijo que significa seis",
+              "answer": "HEXA"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Nos deja, se marcha, se…",
+              "answer": "VA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ve, te han citado",
+              "answer": "ACUDE"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Hacen que alguien se parezca a los hidalgos o nobles",
+              "answer": "AHIDALGAN"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Le plancha el cabello a Lisa",
+              "answer": "ALISA"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "A los vampiros le espantan estos dientes",
+              "answer": "AJOS"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Junté dos o más cosas entre sí",
+              "answer": "UNI"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Recto, justo",
+              "answer": "ECUO"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Diente posterior al colmillo",
+              "answer": "MOLAR"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"La…\" la chica de la 'Rayuela'",
+              "answer": "MAGA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Tren al…\" tema de la banda chilena de los 90 'Los Prisioneros'",
+              "answer": "SUR"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Adaptación al español de la palabra portuguesa para rinoceronte",
+              "answer": "BADA"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Te lo dije con anterioridad, yo te…",
+              "answer": "AVISE"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "El actor Rudd estuvo en lo correcto, pero fue muy lento y pausado",
+              "answer": "PAULATINO"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Quiérela, adórala",
+              "answer": "AMALA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Idioma inglés, en los manuales de instrucción",
+              "answer": "EN"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Película de Pixar sobre un niño fascinado por extraterrestres",
+              "answer": "ELIO"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Coloquial Tira de algo",
+              "answer": "JALA"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "En pleno inicio",
+              "answer": "IC"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Agujas del reloj",
+              "answer": "SAETAS"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "Conducto del estómago que conecta con el duodeno del poli rico loco",
+              "answer": "PILORICO"
+            },
+            "59": {
+              "col": 2,
+              "row": 12,
+              "clue": "Sumar a una persona al personal",
+              "answer": "CONTRATAR"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "Recipiente para el ponche",
+              "answer": "BOL"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Videojuegos Personaje principal de Street Fighter",
+              "answer": "RYU"
+            },
+            "64": {
+              "col": 4,
+              "row": 13,
+              "clue": "Vehículo tipo pick",
+              "answer": "CAMIONETA"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Mujeres naturales de Álava, provincia de España",
+              "answer": "ALAVESAS"
+            },
+            "67": {
+              "col": 9,
+              "row": 14,
+              "clue": "Mujeres con cualidades de osas",
+              "answer": "OSUNAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Dar una vuelta sobre la punta de un pie llevando el otro en el aire\r\n2-Primero y más obvio de los actos del entendimiento\r\n3-Saliendo de Taipéi\r\n4-Alimento de harina de maíz envuelto en hojas de plátano (pl)\r\n5-\"… Cooper\" icónico cantante de hard rock y heavy metal\r\n6-Prefijo para usar fuera de las ciudades\r\n7-Hermano de su padre o madre\r\n8-Agradable por su ambientación, comodidad, tranquilidad (fem)\r\n9-Una cosa enlazada a otra, o relacionada con otra (pl)\r\n10-Esas son de mi propiedad\r\n11-El centro de Roma\r\n12-Terreno cruzado por montañas y sierras\r\n14-\"Severo…\", asturiano, Premio Nobel de Medicina 1959\r\n17-Planta rastrera tropical\r\n19-Conjunto de las emisoras de radio\r\n21-Requirió, exigió como necesario\r\n23-Hombre protestante\r\n26-Mi niña, mi…\r\n29-Famoso monte australiano\r\n31-Atraen, tiran\r\n32-Bromear, estar de…\r\n34-Cuarzos violetas\r\n37-Grosor, densidad\r\n39-Antipatía y aversión hacia algo\r\n40-Tratar con especial cuidado y delicadeza\r\n42-Movimiento de un cuerpo hacia un lado y hacia el otro\r\n44-Virtudes humanas\r\n46-La madre de Apolo y Artemisa\r\n47-Alerta con el ojo pequeño\r\n49-Unes, juntas, abrazas\r\n53-Perro español\r\n56-Lengua itálica que hablaban los ecuos\r\n57-\"El…\" este diario\r\n58-Se movían de un lugar hacia otro\r\n60-Mar revuelto\r\n63-Yorgos Lanthimos, director de la peli 'Pobres criaturas'\r\n65-Será tuya más tarde\r\n",
+        "horizontal_clues": "1-Hendidura alargada que se hace en la pared\r\n6-Acatamos confundidos y embestimos\r\n13-Como un tópico que propicia la posibilidad de discusión\r\n15-Centro agroalimentario\r\n16-Celebra su chiste\r\n18-Unidad de radiación electromagnética presente en la cocina\r\n20-Abrazo mexicano\r\n22-Terma del parque de Haukadalur, Islandia\r\n24-Idioma alemán, en los manuales de instrucción\r\n25-Retorcimiento de las asas intestinales\r\n26-Prefijo que significa seis\r\n27-Nos deja, se marcha, se…\r\n28-Ve, te han citado\r\n30-Hacen que alguien se parezca a los hidalgos o nobles\r\n33-Le plancha el cabello a Lisa\r\n35-A los vampiros le espantan estos dientes\r\n36-Junté dos o más cosas entre sí\r\n37-Recto, justo\r\n38-Diente posterior al colmillo\r\n40-\"La…\" la chica de la 'Rayuela'\r\n41-\"Tren al…\" tema de la banda chilena de los 90 'Los Prisioneros'\r\n42-Adaptación al español de la palabra portuguesa para rinoceronte\r\n43-Te lo dije con anterioridad, yo te…\r\n45-El actor Rudd estuvo en lo correcto, pero fue muy lento y pausado\r\n48-Quiérela, adórala\r\n50-Idioma inglés, en los manuales de instrucción\r\n51-Película de Pixar sobre un niño fascinado por extraterrestres\r\n52-Coloquial Tira de algo\r\n54-En pleno inicio\r\n55-Agujas del reloj\r\n57-Conducto del estómago que conecta con el duodeno del poli rico loco\r\n59-Sumar a una persona al personal\r\n61-Recipiente para el ponche\r\n62-Videojuegos Personaje principal de Street Fighter\r\n64-Vehículo tipo pick-up utilizado para trabajo y ocio\r\n66-Mujeres naturales de Álava, provincia de España\r\n67-Mujeres con cualidades de osas\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,#,6,7,8,9,#,10,11,12\r\n#,#,13,#,#,#,14,#,#,#,#,#,15,#,#\r\n16,17,#,#,18,#,#,#,#,#,#,19,#,#,#\r\n20,#,#,21,#,#,#,#,#,22,#,#,#,23,#\r\n24,#,#,25,#,#,#,#,26,#,#,#,#,27,#\r\n28,#,29,#,#,#,30,31,#,#,#,#,32,#,#\r\n#,33,#,#,#,34,#,35,#,#,#,#,36,#,#\r\n37,#,#,#,#,38,39,#,#,#,#,40,#,#,#\r\n41,#,#,#,42,#,#,#,#,43,44,#,#,#,#\r\n45,#,#,46,#,#,#,#,47,#,48,#,#,#,49\r\n50,#,#,51,#,#,#,#,52,53,#,#,#,54,#\r\n55,#,56,#,#,#,#,57,#,#,#,#,58,#,#\r\n#,#,59,#,#,#,60,#,#,#,#,#,61,#,#\r\n62,63,#,#,64,#,#,#,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,#,#,#,67,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

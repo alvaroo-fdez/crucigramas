@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 550,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-10T21:10:23.334840Z",
+      "updatedAt": "2024-07-10T21:10:23.334858Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-12",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "T#TRATARON#OCHO\r\nENO#CAREL#PROA#\r\nMORTUORIO#AULLO\r\nATORO#ARRAIGO#C\r\n#ASISI###CLAQUE\r\nD##PONCHERA#USA\r\nENEO#SORBO#OIAN\r\nSUND#IR#AM#BALI\r\nMEME#PEDRI#CLAC\r\nAVE#DIASTOLE##O\r\nYENSID###NICHO#\r\nA#DEVORAR#NAURU\r\nREARO#UBICARIAN\r\n#ODAS#GAMEZ#DDT\r\nEROS#PEDALADA#E",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Materia, temática, tópico.",
+              "answer": "TEMA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Los sementales quedan rotos por culpa de otros.",
+              "answer": "TOROS"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Humor...\" entre la córnea y el iris del ojo.",
+              "answer": "ACUOSO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "El flujo del yin y el yang.",
+              "answer": "TAO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Prenda dada como garantía de contrato.",
+              "answer": "ARRA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Expresión. \"... para no llorar\".",
+              "answer": "REIR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hedor, fetidez.",
+              "answer": "OLOR"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Gusano que se transforma en mariposa.",
+              "answer": "ORUGA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Estilo de habla informal y cotidiano.",
+              "answer": "COLOQUIAL"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Acrónimo de \"Hermano Adriano Luis\", escritor y educador religioso.",
+              "answer": "HAL"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Calificación, puntaje.",
+              "answer": "NOTA"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Sartén, padilla.",
+              "answer": "PAILA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Es el díptero incorrecto, porque esta cosa tiene tres patas.",
+              "answer": "TRIPODE"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Fondo marítimo, fondo...",
+              "answer": "OCEANICO"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Parte saliente del omóplato.",
+              "answer": "ACROMION"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Carente de sabor o gracia.",
+              "answer": "INSIPIDO"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "La conciencia... utilízala.",
+              "answer": "USALA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Perder el conocimiento temporalmente.",
+              "answer": "DESMAYAR"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "El país del K",
+              "answer": "COREA"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Dominio web para Croacia.",
+              "answer": "HR"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "No funciona el mecanismo, lo tranqué cuando venía subiendo.",
+              "answer": "EBART"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "Número de círculos que componen el Infierno de Dante.",
+              "answer": "NUEVE"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Corregido de errores o faltas.",
+              "answer": "ENMENDADO"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Ofuscar la razón o el entendimiento.",
+              "answer": "OBCECAR"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Donna Summer.",
+              "answer": "DS"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Artistas hermosos y famosos.",
+              "answer": "DIVOS"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Semilla del lino usada en alimentación.",
+              "answer": "LINAZA"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Estarás, existirás.",
+              "answer": "SERAS"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Escapada.",
+              "answer": "HUIDA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Rezad, implorad.",
+              "answer": "ORAD"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "Mi estómago hace como un león.",
+              "answer": "RUGE"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Superior de una abadía.",
+              "answer": "ABAD"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Mira a Amir, que bien consuena los versos.",
+              "answer": "RIMA"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Aplique y extienda sobre la piel, el bronceador.",
+              "answer": "UNTE"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Es peor sin capital.",
+              "answer": "EOR"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Acortamiento de celular.",
+              "answer": "CEL"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Intentaron, pretendieron.",
+              "answer": "TRATARON"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Número de planetas de nuestro sistema solar.",
+              "answer": "OCHO"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Viene subiendo un inglés.",
+              "answer": "ENO"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Borde del barco donde se fijan los remos.",
+              "answer": "CAREL"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Parte delantera de un barco.",
+              "answer": "PROA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Recinto para velar a los difuntos.",
+              "answer": "MORTUORIO"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Hizo como un lobo.",
+              "answer": "AULLO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Atasco, obstruyo.",
+              "answer": "ATORO"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Establecimiento firme en un lugar.",
+              "answer": "ARRAIGO"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "De esta manera, acepto (2p).",
+              "answer": "ASISI"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Baile también conocido como tap.",
+              "answer": "CLAQUE"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Recipiente para servir bebidas mezcladas.",
+              "answer": "PONCHERA"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "En pleno Jerusalén.",
+              "answer": "USA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Poético. De cobre o bronce.",
+              "answer": "ENEO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Bebo muy poco, doy un...",
+              "answer": "SORBO"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Percibían los sonidos.",
+              "answer": "OIAN"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"Scoresby…\", fiordo más grande del mundo, en Groenlandia.",
+              "answer": "SUND"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Andar, marchar.",
+              "answer": "IR"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ramón perdió el cubata.",
+              "answer": "AM"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Isla indonesia cuya capital es Denpasar.",
+              "answer": "BALI"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Imagen viral y graciosa que se publica en las redes.",
+              "answer": "MEME"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Centrocampo tenerifeño del FC Barcelona.",
+              "answer": "PEDRI"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Sombrero de copa alta.",
+              "answer": "CLAC"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Voy volando, en el tren.",
+              "answer": "AVE"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Fase de relajación del corazón.",
+              "answer": "DIASTOLE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Maestro hechicero de Mickey Mouse en la peli Fantasía de 1940 (2p).",
+              "answer": "YENSID"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Segmento de mercado.",
+              "answer": "NICHO"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Tragar con ansia y apresuradamente.",
+              "answer": "DEVORAR"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Tercer país más pequeño del mundo.",
+              "answer": "NAURU"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Vuelvo a arar.",
+              "answer": "REARO"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Situarían, colocarían.",
+              "answer": "UBICARIAN"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Poesías.",
+              "answer": "ODAS"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "\"Virginia...\" cantaora malagueña.",
+              "answer": "GAMEZ"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Insecticida tóxico prohibido en 1973.",
+              "answer": "DDT"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Pulsión de vida.",
+              "answer": "EROS"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Movimiento completo del pedal en bicicleta.",
+              "answer": "PEDALADA"
+            }
+          }
+        },
+        "vertical_clues": "1-Materia, temática, tópico.\r\n2-Los sementales quedan rotos por culpa de otros.\r\n3-\"Humor...\" entre la córnea y el iris del ojo.\r\n4-El flujo del yin y el yang.\r\n5-Prenda dada como garantía de contrato.\r\n6-Expresión. \"... para no llorar\". \r\n7-Hedor, fetidez.\r\n8-Gusano que se transforma en mariposa.\r\n9-Estilo de habla informal y cotidiano. \r\n10-Acrónimo de \"Hermano Adriano Luis\", escritor y educador religioso.\r\n12-Calificación, puntaje.\r\n14-Sartén, padilla.\r\n16-Es el díptero incorrecto, porque esta cosa tiene tres patas.\r\n18-Fondo marítimo, fondo...\r\n21-Parte saliente del omóplato. \r\n23-Carente de sabor o gracia. \r\n25-La conciencia... utilízala.\r\n26-Perder el conocimiento temporalmente. \r\n28-El país del K-Pop.\r\n29-Dominio web para Croacia.\r\n30-No funciona el mecanismo, lo tranqué cuando venía subiendo.\r\n33-Número de círculos que componen el Infierno de Dante.\r\n34-Corregido de errores o faltas. \r\n36-Ofuscar la razón o el entendimiento. \r\n43-Donna Summer.\r\n46-Artistas hermosos y famosos.\r\n47-Semilla del lino usada en alimentación. \r\n49-Estarás, existirás.\r\n51-Escapada.\r\n52-Rezad, implorad.\r\n54-Mi estómago hace como un león.\r\n55-Superior de una abadía.\r\n56-Mira a Amir, que bien consuena los versos.\r\n58-Aplique y extienda sobre la piel, el bronceador.\r\n60-Es peor sin capital.\r\n62-Acortamiento de celular.",
+        "horizontal_clues": "2-Intentaron, pretendieron.\r\n8-Número de planetas de nuestro sistema solar.\r\n11-Viene subiendo un inglés.\r\n13-Borde del barco donde se fijan los remos.\r\n14-Parte delantera de un barco.\r\n15-Recinto para velar a los difuntos. \r\n17-Hizo como un lobo.\r\n19-Atasco, obstruyo.\r\n20-Establecimiento firme en un lugar. \r\n22-De esta manera, acepto (2p). \r\n24-Baile también conocido como tap.\r\n27-Recipiente para servir bebidas mezcladas. \r\n31-En pleno Jerusalén.\r\n32-Poético. De cobre o bronce.\r\n35-Bebo muy poco, doy un...\r\n36-Percibían los sonidos.\r\n37-\"Scoresby…\", fiordo más grande del mundo, en Groenlandia.\r\n38-Andar, marchar.\r\n39-Ramón perdió el cubata.\r\n40-Isla indonesia cuya capital es Denpasar.\r\n41-Imagen viral y graciosa que se publica en las redes.\r\n42-Centrocampo tenerifeño del FC Barcelona.\r\n44-Sombrero de copa alta.\r\n45-Voy volando, en el tren.\r\n46-Fase de relajación del corazón. \r\n48-Maestro hechicero de Mickey Mouse en la peli Fantasía de 1940 (2p).\r\n50-Segmento de mercado.\r\n53-Tragar con ansia y apresuradamente.\r\n57-Tercer país más pequeño del mundo.\r\n59-Vuelvo a arar.\r\n61-Situarían, colocarían.\r\n63-Poesías.\r\n64-\"Virginia...\" cantaora malagueña.\r\n65-Insecticida tóxico prohibido en 1973.\r\n66-Pulsión de vida.\r\n67-Movimiento completo del pedal en bicicleta.",
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

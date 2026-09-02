@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 1494,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-04T11:26:52.680885Z",
+      "updatedAt": "2025-01-04T11:26:52.759652Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-01-08",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##CATETO#ACUSE#\r\nALUSIVO#CRISIS#\r\nFEM#MASCOTA#CCG\r\nIV#PALEOCENO#UR\r\nNICA#URGIR#LADO\r\nATASCA#I#OPERAS\r\n#ONIL#VOA#RORRO\r\nE#OVABA#LLAME#R\r\nVENIR#RBI#GECO#\r\nOLEDOR#R#PATINA\r\nCESA#ILUSA#RODI\r\nAV#DOCUMENTO#ES\r\nSAG#PUJANZA#PAL\r\n#DENTRO#TORTURA\r\n#ONDEA#MONADA##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"… laude\" 10/10",
+              "answer": "CUM"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Carta de cada palo que lleva el número uno",
+              "answer": "AS"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Quita o hurta con engaño",
+              "answer": "TIMA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Califica a los alumnos",
+              "answer": "EVALUA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Hacer fuerza y violencia con la respiración",
+              "answer": "TOSER"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Mañoso, astuto",
+              "answer": "ARTERO"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "De un color azul verdoso, complementario del rojo",
+              "answer": "CIAN"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "En páginas web estadounidenses",
+              "answer": "US"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Adverbio Indica literalidad",
+              "answer": "SIC"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Actuar como guardián o defensor",
+              "answer": "ESCUDAR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Entona, ajusta el instrumento",
+              "answer": "AFINA"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Realizo un truco mágico de suspensión",
+              "answer": "LEVITO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cociné, asé",
+              "answer": "COCI"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Alcanzó a quien iba delante",
+              "answer": "COGIO"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Grueso de un cuerpo",
+              "answer": "GROSOR"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Actitud de quien no toma acción",
+              "answer": "PASIVIDAD"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Instrumento usado para medir la densidad de los aceites",
+              "answer": "OLEOMETRO"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Reglas, normas de belleza",
+              "answer": "CANONES"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Aumentó en intensidad, la tormenta",
+              "answer": "ARRECIO"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Por supuesto, obvio",
+              "answer": "CLARO"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Capital de la República Checa",
+              "answer": "PRAGA"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Fútbol Arbitro asistente de video",
+              "answer": "VAR"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"… Babá\", de 'Las mil y una noches'",
+              "answer": "ALI"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Recuerdas con nostalgia",
+              "answer": "EVOCAS"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Puede ser al cubo o al cuadrado",
+              "answer": "ELEVADO"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Fenómeno atmosférico parecido a niebla",
+              "answer": "BRUMA"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Sacudir, flamear",
+              "answer": "ONDEAR"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Cualidad de rico, sabroso",
+              "answer": "RICURA"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Hombre de barriga prominente",
+              "answer": "PANZON"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Se asila en el caos y se aparta",
+              "answer": "AISLA"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Adquirir algo costoso de vez en cuando, darse un…",
+              "answer": "LUJO"
+            },
+            "52": {
+              "col": 8,
+              "row": 10,
+              "clue": "Dejó un precedente",
+              "answer": "SENTO"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Elija, escoja",
+              "answer": "OPTE"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Defecto que disminuye el valor de algo",
+              "answer": "TARA"
+            },
+            "60": {
+              "col": 2,
+              "row": 12,
+              "clue": "Biología Unidad de almacenamiento de información genética",
+              "answer": "GEN"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Me saco la espina en Papúa",
+              "answer": "PUA"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Ando sin límites",
+              "answer": "ND"
+            },
+            "66": {
+              "col": 11,
+              "row": 13,
+              "clue": "Regresa como Director Técnico",
+              "answer": "TD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cada uno de los opuestos a la hipotenusa",
+              "answer": "CATETO"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Imputé, denuncié, delaté",
+              "answer": "ACUSE"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Un término, cuando hace referencia a algo",
+              "answer": "ALUSIVO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Intensificación brusca de los síntomas de una enfermedad",
+              "answer": "CRISIS"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Acortamiento de femenino",
+              "answer": "FEM"
+            },
+            "15": {
+              "col": 4,
+              "row": 2,
+              "clue": "Mi perro o tu gato",
+              "answer": "MASCOTA"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Cambio climático global",
+              "answer": "CCG"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Capítulo cuatro",
+              "answer": "IV"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Época geológica posterior a la extinción de los dinosaurios",
+              "answer": "PALEOCENO"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Antigua ciudad del sur de Mesopotamia",
+              "answer": "UR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "A los nicaragüenses con cariño",
+              "answer": "NICA"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Pedir o exigir algo con urgencia o apremio",
+              "answer": "URGIR"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cada una de las partes que limitan un todo",
+              "answer": "LADO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Se tapa con una mezcla ástato, arsénico y calcio",
+              "answer": "ATASCA"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Te haces la lipo o una rinoplastia, te…",
+              "answer": "OPERAS"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "Devuélveme la tela",
+              "answer": "ONIL"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Siglas en inglés para \"Voz de América\"",
+              "answer": "VOA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Coloquial Niño pequeño",
+              "answer": "RORRO"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Ponía huevos",
+              "answer": "OVABA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ya me parece que es mejor que telefoneé",
+              "answer": "LLAME"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Acudir, asistir aquí",
+              "answer": "VENIR"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Recibí en breve",
+              "answer": "RBI"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Lagartija que se come los mosquitos de la casa",
+              "answer": "GECO"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Que exhala olor o lo percibe (masc)",
+              "answer": "OLEDOR"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Barniz verdoso en piezas antiguas de bronce",
+              "answer": "PATINA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Suspende, acaba",
+              "answer": "CESA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Propensa a ilusionarse, soñadora",
+              "answer": "ILUSA"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Rodillas fracturadas",
+              "answer": "RODI"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Américo Vespucio",
+              "answer": "AV"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Papel oficial con información importante",
+              "answer": "DOCUMENTO"
+            },
+            "58": {
+              "col": 13,
+              "row": 11,
+              "clue": "Eva Soriano (humorista española)",
+              "answer": "ES"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Está subiendo este servicio básico",
+              "answer": "SAG"
+            },
+            "61": {
+              "col": 4,
+              "row": 12,
+              "clue": "Fuerza o vigor excepcional",
+              "answer": "PUJANZA"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Electrónica Siglas en inglés para el código de transmisión de señales de TV analógica",
+              "answer": "PAL"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "En la parte interna",
+              "answer": "DENTRO"
+            },
+            "65": {
+              "col": 8,
+              "row": 13,
+              "clue": "\"La… no es cultura\" eslogan antitaurino",
+              "answer": "TORTURA"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "Mueve, flamea, serpentea la bandera",
+              "answer": "ONDEA"
+            },
+            "68": {
+              "col": 7,
+              "row": 14,
+              "clue": "Pequeña maravilla que enternece",
+              "answer": "MONADA"
+            }
+          }
+        },
+        "vertical_clues": "1-\"… laude\" 10/10\r\n2-Carta de cada palo que lleva el número uno\r\n3-Quita o hurta con engaño\r\n4-Califica a los alumnos\r\n5-Hacer fuerza y violencia con la respiración\r\n6-Mañoso, astuto\r\n7-De un color azul verdoso, complementario del rojo\r\n8-En páginas web estadounidenses\r\n9-Adverbio Indica literalidad\r\n10-Actuar como guardián o defensor \r\n11-Entona, ajusta el instrumento\r\n12-Realizo un truco mágico de suspensión \r\n13-Cociné, asé\r\n16-Alcanzó a quien iba delante\r\n18-Grueso de un cuerpo\r\n20-Actitud de quien no toma acción \r\n21-Instrumento usado para medir la densidad de los aceites\r\n24-Reglas, normas de belleza\r\n27-Aumentó en intensidad, la tormenta\r\n29-Por supuesto, obvio\r\n31-Capital de la República Checa\r\n33-Fútbol Arbitro asistente de video\r\n34-\"… Babá\", de 'Las mil y una noches'\r\n36-Recuerdas con nostalgia\r\n40-Puede ser al cubo o al cuadrado\r\n42-Fenómeno atmosférico parecido a niebla\r\n44-Sacudir, flamear\r\n46-Cualidad de rico, sabroso\r\n47-Hombre de barriga prominente \r\n48-Se asila en el caos y se aparta\r\n51-Adquirir algo costoso de vez en cuando, darse un…\r\n52-Dejó un precedente\r\n56-Elija, escoja\r\n57-Defecto que disminuye el valor de algo\r\n60-Biología Unidad de almacenamiento de información genética\r\n62-Me saco la espina en Papúa\r\n64-Ando sin límites\r\n66-Regresa como Director Técnico\r\n",
+        "horizontal_clues": "1-Cada uno de los opuestos a la hipotenusa\r\n6-Imputé, denuncié, delaté\r\n11-Un término, cuando hace referencia a algo\r\n13-Intensificación brusca de los síntomas de una enfermedad\r\n14-Acortamiento de femenino\r\n15-Mi perro o tu gato\r\n17-Cambio climático global\r\n19-Capítulo cuatro\r\n20-Época geológica posterior a la extinción de los dinosaurios \r\n22-Antigua ciudad del sur de Mesopotamia\r\n23-A los nicaragüenses con cariño\r\n25-Pedir o exigir algo con urgencia o apremio\r\n26-Cada una de las partes que limitan un todo\r\n28-Se tapa con una mezcla ástato, arsénico y calcio\r\n30-Te haces la lipo o una rinoplastia, te…\r\n32-Devuélveme la tela\r\n33-Siglas en inglés para \"Voz de América\"\r\n35-Coloquial Niño pequeño\r\n37-Ponía huevos\r\n38-Ya me parece que es mejor que telefoneé \r\n39-Acudir, asistir aquí\r\n41-Recibí en breve\r\n43-Lagartija que se come los mosquitos de la casa\r\n45-Que exhala olor o lo percibe (masc)\r\n47-Barniz verdoso en piezas antiguas de bronce\r\n49-Suspende, acaba\r\n50-Propensa a ilusionarse, soñadora\r\n53-Rodillas fracturadas\r\n54-Américo Vespucio\r\n55-Papel oficial con información importante \r\n58-Eva Soriano (humorista española) \r\n59-Está subiendo este servicio básico\r\n61-Fuerza o vigor excepcional \r\n62-Electrónica Siglas en inglés para el código de transmisión de señales de TV analógica\r\n63-En la parte interna\r\n65-\"La… no es cultura\" eslogan antitaurino\r\n67-Mueve, flamea, serpentea la bandera\r\n68-Pequeña maravilla que enternece \r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,#,6,7,8,9,10,#\r\n11,12,#,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,#,#,#,15,#,#,16,#,#,#,#,17,#,18\r\n19,#,#,20,#,#,#,#,#,#,#,21,#,22,#\r\n23,#,24,#,#,25,#,#,#,#,#,26,27,#,#\r\n28,#,#,#,29,#,#,#,#,30,31,#,#,#,#\r\n#,32,#,#,#,#,33,#,34,#,35,#,#,#,#\r\n36,#,37,#,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,#,#,#,#,41,42,#,#,43,#,#,44,#\r\n45,#,#,#,#,46,#,#,#,47,#,#,#,#,48\r\n49,#,#,#,#,50,51,#,52,#,#,53,#,#,#\r\n54,#,#,55,56,#,#,#,#,#,57,#,#,58,#\r\n59,#,60,#,61,#,#,#,#,#,#,#,62,#,#\r\n#,63,#,64,#,#,#,#,65,#,#,66,#,#,#\r\n#,67,#,#,#,#,#,68,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

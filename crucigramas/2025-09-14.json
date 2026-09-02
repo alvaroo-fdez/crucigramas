@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 3384,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:25.214799Z",
+      "updatedAt": "2025-09-09T14:09:19.996893Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-14",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CARCOMI#PINCHAR\r\nHUIR#UNCIR#HOME\r\nINTERES#CIBELES\r\nCOMA#VECNA#FASE\r\nA#I#HEROINA#N#Ñ\r\nNACIO#TOC#SADNA\r\nALONSO#K#RECAER\r\n#B#DARK#PENT#V#\r\nTURING#T#STABAT\r\nOREEN#FUA#ASIRE\r\nS#C#ABRIDOR#A#N\r\nCHAL#RETAD#PTAS\r\nAIROSAS#PIRELLI\r\nNEGO#VENTA#GOZO\r\nALARCON#ORGANON",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Mujer estadounidense de origen mexicano",
+              "answer": "CHICANA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Confedero para algún fin",
+              "answer": "AUNO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cadencioso, acompasado",
+              "answer": "RITMICO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Tenga fe",
+              "answer": "CREA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Se menea, se…",
+              "answer": "MUEVE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tecla para activar \"sustitución e inserción de texto\"",
+              "answer": "INSERT"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Almuerzo sobre la hierba",
+              "answer": "PICNIC"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "No se lo perderían",
+              "answer": "IRIAN"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Oficio de Jordi Cruz",
+              "answer": "CHEF"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Warhol anda escondido por Ámsterdam",
+              "answer": "HOLANDA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Quieras, adores",
+              "answer": "AMES"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Escribir una crítica sobre una obra",
+              "answer": "RESEÑAR"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'",
+              "answer": "COOK"
+            },
+            "22": {
+              "col": 4,
+              "row": 4,
+              "clue": "Himno que se canta el Domingo de Ramos",
+              "answer": "HOSANNA"
+            },
+            "23": {
+              "col": 10,
+              "row": 4,
+              "clue": "Fundar, establecer un pueblo",
+              "answer": "ASENTAR"
+            },
+            "25": {
+              "col": 1,
+              "row": 5,
+              "clue": "Méx Juego de palabras de doble sentido",
+              "answer": "ALBUR"
+            },
+            "26": {
+              "col": 3,
+              "row": 5,
+              "clue": "Videojuego de desarrollo independiente",
+              "answer": "INDIE"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Las hay de nacimiento y de defunción",
+              "answer": "ACTAS"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Esparcir polvo blanco sobre algo",
+              "answer": "NEVAR"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Abreviatura de Organización",
+              "answer": "ORG"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Cabeza de ganado",
+              "answer": "RES"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Región italiana donde se ubica la Torre inclinada de Pisa",
+              "answer": "TOSCANA"
+            },
+            "37": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"Punto de…\" para enchufar el coche eléctrico",
+              "answer": "RECARGA"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "Mensaje de un pajarito virtual",
+              "answer": "TUIT"
+            },
+            "40": {
+              "col": 12,
+              "row": 8,
+              "clue": "Deporte de invierno que usa esquíes y rifle",
+              "answer": "BIATLON"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Electr Voltaje entre dos polos o electrodos",
+              "answer": "TENSION"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Labren el metal",
+              "answer": "FRESEN"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Ajusto, acoplo",
+              "answer": "ADAPTO"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Fiero, feroz",
+              "answer": "BRAVO"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Detestar",
+              "answer": "ODIAR"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Secreción amarillenta que produce el hígado",
+              "answer": "HIEL"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Elogio, aplauso",
+              "answer": "LOOR"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "\"El que… primero, … dos veces\"",
+              "answer": "PEGA"
+            },
+            "54": {
+              "col": 13,
+              "row": 11,
+              "clue": "Levanto, elevo",
+              "answer": "ALZO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Me mortifiqué y desgasté, por la culpa",
+              "answer": "CARCOMI"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Picar, punzar",
+              "answer": "PINCHAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Escapar como sea",
+              "answer": "HUIR"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Sujetar al yugo, bueyes, mulas u otras bestias",
+              "answer": "UNCIR"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Primera página de una web",
+              "answer": "HOME"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Conveniencia en el orden moral o material",
+              "answer": "INTERES"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Los decibeles de la diosa frigia de la fertilidad",
+              "answer": "CIBELES"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Signo ortográfico que sirve para indicar la división de las frases",
+              "answer": "COMA"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "El villano de Stranger Things",
+              "answer": "VECNA"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Corriente alterna que forma parte de una corriente polifásica",
+              "answer": "FASE"
+            },
+            "22": {
+              "col": 4,
+              "row": 4,
+              "clue": "Droga opioide altamente adictiva",
+              "answer": "HEROINA"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Salió del horno materno",
+              "answer": "NACIO"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Trastorno Obsesivo Compulsivo (siglas)",
+              "answer": "TOC"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Caminas en dirección contraria",
+              "answer": "SADNA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… Cano\" fundador de la escuela granadina de pintura",
+              "answer": "ALONSO"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Reincidir, incurrir",
+              "answer": "RECAER"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Serie alemana de Netflix, que gira en torno al tiempo",
+              "answer": "DARK"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "\"…house\" piso de lujo en la última planta de un edificio",
+              "answer": "PENT"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Uno de los padres de la computación, siendo el precursor de la informática moderna",
+              "answer": "TURING"
+            },
+            "39": {
+              "col": 9,
+              "row": 8,
+              "clue": "… Mater, himno dedicado a los dolores de la Virgen",
+              "answer": "STABAT"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Sequen poniendo al aire",
+              "answer": "OREEN"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Federación Universitaria Argentina (siglas)",
+              "answer": "FUA"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Cogeré con la mano",
+              "answer": "ASIRE"
+            },
+            "46": {
+              "col": 4,
+              "row": 10,
+              "clue": "Abrebotellas",
+              "answer": "ABRIDOR"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Prenda de vestir que se lleva puesta en los hombros",
+              "answer": "CHAL"
+            },
+            "52": {
+              "col": 5,
+              "row": 11,
+              "clue": "Provocad el enfrentamiento, desafiad",
+              "answer": "RETAD"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Puertas recortadas",
+              "answer": "PTAS"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Victoriosas, triunfantes",
+              "answer": "AIROSAS"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Marca italiana, única proveedora de neumáticos en la Fórmula 1",
+              "answer": "PIRELLI"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "Declaró no haber dicho eso, lo…",
+              "answer": "NEGO"
+            },
+            "58": {
+              "col": 5,
+              "row": 13,
+              "clue": "El piso no está en alquiler, solo está en…",
+              "answer": "VENTA"
+            },
+            "59": {
+              "col": 11,
+              "row": 13,
+              "clue": "Deleite, satisfacción, gusto",
+              "answer": "GOZO"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Primer europeo conocido en explorar el río Colorado",
+              "answer": "ALARCON"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Conjunto de obras de lógica escritas por Aristóteles",
+              "answer": "ORGANON"
+            }
+          }
+        },
+        "vertical_clues": "1-Mujer estadounidense de origen mexicano\r\n2-Confedero para algún fin\r\n3-Cadencioso, acompasado\r\n4-Tenga fe\r\n5-Se menea, se…\r\n6-Tecla para activar \"sustitución e inserción de texto\"\r\n7-Almuerzo sobre la hierba\r\n8-No se lo perderían\r\n9-Oficio de Jordi Cruz\r\n10-Warhol anda escondido por Ámsterdam\r\n11-Quieras, adores\r\n12-Escribir una crítica sobre una obra\r\n20-\"James …\" explorador y cartógrafo apodado 'El señor del Pacífico'\r\n22-Himno que se canta el Domingo de Ramos\r\n23-Fundar, establecer un pueblo\r\n25-Méx Juego de palabras de doble sentido\r\n26-Videojuego de desarrollo independiente\r\n29-Las hay de nacimiento y de defunción\r\n30-Esparcir polvo blanco sobre algo \r\n32-Abreviatura de Organización\r\n33-Cabeza de ganado\r\n36-Región italiana donde se ubica la Torre inclinada de Pisa\r\n37-\"Punto de…\" para enchufar el coche eléctrico\r\n38-Mensaje de un pajarito virtual\r\n40-Deporte de invierno que usa esquíes y rifle\r\n41-Electr Voltaje entre dos polos o electrodos \r\n43-Labren el metal\r\n44-Ajusto, acoplo\r\n47-Fiero, feroz\r\n48-Detestar\r\n50-Secreción amarillenta que produce el hígado\r\n51-Elogio, aplauso\r\n53-\"El que… primero, … dos veces\"\r\n54-Levanto, elevo",
+        "horizontal_clues": "1-Me mortifiqué y desgasté, por la culpa\r\n7-Picar, punzar\r\n13-Escapar como sea\r\n14-Sujetar al yugo, bueyes, mulas u otras bestias\r\n15-Primera página de una web\r\n16-Conveniencia en el orden moral o material\r\n17-Los decibeles de la diosa frigia de la fertilidad\r\n18-Signo ortográfico que sirve para indicar la división de las frases\r\n19-El villano de Stranger Things\r\n21-Corriente alterna que forma parte de una corriente polifásica\r\n22-Droga opioide altamente adictiva\r\n24-Salió del horno materno\r\n27-Trastorno Obsesivo Compulsivo (siglas)\r\n28-Caminas en dirección contraria\r\n31-\"… Cano\" fundador de la escuela granadina de pintura\r\n33-Reincidir, incurrir\r\n34-Serie alemana de Netflix, que gira en torno al tiempo\r\n35-\"…house\" piso de lujo en la última planta de un edificio\r\n36-Uno de los padres de la computación, siendo el precursor de la informática moderna\r\n39-… Mater, himno dedicado a los dolores de la Virgen\r\n42-Sequen poniendo al aire\r\n43-Federación Universitaria Argentina (siglas)\r\n45-Cogeré con la mano\r\n46-Abrebotellas\r\n49-Prenda de vestir que se lleva puesta en los hombros\r\n52-Provocad el enfrentamiento, desafiad\r\n53-Puertas recortadas\r\n55-Victoriosas, triunfantes\r\n56-Marca italiana, única proveedora de neumáticos en la Fórmula 1\r\n57-Declaró no haber dicho eso, lo…\r\n58-El piso no está en alquiler, solo está en…\r\n59-Deleite, satisfacción, gusto\r\n60-Primer europeo conocido en explorar el río Colorado\r\n61-Conjunto de obras de lógica escritas por Aristóteles",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,#,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,#,#,#,#,#,15,#,#,#\r\n16,#,#,#,#,#,#,#,17,#,#,#,#,#,#\r\n18,#,#,#,#,19,#,20,#,#,#,21,#,#,#\r\n#,#,#,#,22,#,#,#,#,#,23,#,#,#,#\r\n24,25,#,26,#,#,27,#,#,#,28,29,#,30,#\r\n31,#,#,#,#,32,#,#,#,33,#,#,#,#,#\r\n#,#,#,34,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,37,#,#,#,#,38,#,39,#,#,40,#,41\r\n42,#,#,#,#,#,43,#,44,#,45,#,#,#,#\r\n#,#,#,#,46,47,#,#,#,48,#,#,#,#,#\r\n49,50,#,51,#,52,#,#,#,#,#,53,#,54,#\r\n55,#,#,#,#,#,#,#,56,#,#,#,#,#,#\r\n57,#,#,#,#,58,#,#,#,#,#,59,#,#,#\r\n60,#,#,#,#,#,#,#,61,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

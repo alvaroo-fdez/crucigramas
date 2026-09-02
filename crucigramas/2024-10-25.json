@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 1091,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-10-23T17:01:21.756972Z",
+      "updatedAt": "2024-10-23T17:01:21.756993Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-10-25",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CAPTAR#AZUCAR#\r\nB#CRUZ#BEIRUT#C\r\nACROBATA#COLOSO\r\nLLAPA#RIBOSOMAS\r\nDOTE#PALO##NIKE\r\nIRAN#EMANEN#ZEN\r\nOO#DOTO#OSUDA#O\r\n#SAETA###CLERO#\r\nC#DRACH#MEAS#CR\r\nAPU#NAILON#VITA\r\nBELT##RUDA#ASAT\r\nALTIPLANO#CLAVE\r\nRAERIA#ESTRIBOR\r\nE#REEVES#MIDE#O\r\n#POSTOR#PANOLI#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Partidario de la supresión de toda autoridad.",
+              "answer": "ACRATA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Inclinarse hacia algo, tender, preferir.",
+              "answer": "PROPENDER"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "El más grande de todos los instrumentos musicales de viento.",
+              "answer": "TUBA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Sufijo femenino que tiene valor aumentativo.",
+              "answer": "AZA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Vocales abiertas.",
+              "answer": "AE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Apodo de Arthur Antunes Coimbra, exfutbolista brasilero.",
+              "answer": "ZICO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Bóvidos salvajes muy parecidos a los toros.",
+              "answer": "UROS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Un hombre con glúteos muy trabajados.",
+              "answer": "CULON"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dividir en partes muy pequeñas, pulverizar.",
+              "answer": "ATOMIZAR"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Terreno sin cultivar ni aprovechar.",
+              "answer": "BALDIO"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Muévete al ritmo de la música.",
+              "answer": "BAILA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Geometría. Seno del complemento de un ángulo.",
+              "answer": "COSENO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Lejías.",
+              "answer": "CLOROS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Tomar confundido otro trayecto.",
+              "answer": "TRAMO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Bebida japonesa o vino de arroz nihonshu.",
+              "answer": "SAKE"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "El portero de Marruecos, en el Mundial de Catar.",
+              "answer": "BONO"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "En la maleta hay un estuche para el alcohol.",
+              "answer": "PETACA"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Partes en que se divide un acto teatral (sing).",
+              "answer": "ESCENA"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Sin relevancia.",
+              "answer": "NULA"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Organización del Tratado del Atlántico Norte.",
+              "answer": "OTAN"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Desamparado, privado de ayuda y socorro.",
+              "answer": "DESVALIDO"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Infiel en el matrimonio.",
+              "answer": "ADULTERO"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "1/8, un...",
+              "answer": "OCTAVO"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Local nocturno. Escenario de los primeros travestis.",
+              "answer": "CABARE"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "\"Cueva de...\" donde Gabriel habló con Mahoma.",
+              "answer": "HIRA"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Maneras, procederes.",
+              "answer": "MODOS"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Hombre que hurta con maña cosas de poco valor.",
+              "answer": "RATERO"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Quita la cáscara a la naranja.",
+              "answer": "PELA"
+            },
+            "49": {
+              "col": 7,
+              "row": 9,
+              "clue": "Día de la semana cuyo nombre se relaciona con la Luna.",
+              "answer": "LUNES"
+            },
+            "51": {
+              "col": 12,
+              "row": 9,
+              "clue": "La Preysler o la Allende.",
+              "answer": "ISABEL"
+            },
+            "53": {
+              "col": 3,
+              "row": 10,
+              "clue": "Derribes, derrumbes.",
+              "answer": "TIRES"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"... Mondrian\", pintor del cuadro \"Broadway Boogie",
+              "answer": "PIET"
+            },
+            "58": {
+              "col": 5,
+              "row": 11,
+              "clue": "Hago la colada.",
+              "answer": "LAVO"
+            },
+            "59": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cabello del caballo.",
+              "answer": "CRIN"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Toma Más Agua.",
+              "answer": "TMA"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Símbolo químico de Erbio.",
+              "answer": "ER"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Percibir por medio de los sentidos.",
+              "answer": "CAPTAR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Conjunto de granos cristalinos muy dulces.",
+              "answer": "AZUCAR"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "\"Penélope...\" actriz española ganadora de un Óscar.",
+              "answer": "CRUZ"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Capital del Líbano.",
+              "answer": "BEIRUT"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Artista circense.",
+              "answer": "ACROBATA"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Gigante de Rodas.",
+              "answer": "COLOSO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ñapa, añadidura.",
+              "answer": "LLAPA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Pequeñas partículas de ARN, que sintetizan las proteínas en las células.",
+              "answer": "RIBOSOMAS"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Regalo que la novia aporta al matrimonio.",
+              "answer": "DOTE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Vara, rama suelta de un árbol.",
+              "answer": "PALO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Las zapatillas de la diosa de la victoria.",
+              "answer": "NIKE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "País cuyo líder supremo es Alí Jamenei.",
+              "answer": "IRAN"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Broten de sí, desprendan M&M.",
+              "answer": "EMANEN"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Meditativo, con el espíritu iluminado, estar modo...",
+              "answer": "ZEN"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ajedrez. Enroque corto.",
+              "answer": "OO"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Apertrechó, suministró.",
+              "answer": "DOTO"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Huesuda, de mucho hueso.",
+              "answer": "OSUDA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Manecilla del reloj.",
+              "answer": "SAETA"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Todos los curas de la iglesia.",
+              "answer": "CLERO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"Cuevas del...\" ubicadas en Porto Cristo, Mallorca.",
+              "answer": "DRACH"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Haces pis.",
+              "answer": "MEAS"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Código de la UICN para la clasificación \"En peligro crítico de extinción\".",
+              "answer": "CR"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "El gerente indio de la tienda de Springfield.",
+              "answer": "APU"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "Fibra textil elástica.",
+              "answer": "NAILON"
+            },
+            "50": {
+              "col": 11,
+              "row": 9,
+              "clue": "\"La Dolce...\" de Fellini.",
+              "answer": "VITA"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Cinturón\", en inglés.",
+              "answer": "BELT"
+            },
+            "54": {
+              "col": 6,
+              "row": 10,
+              "clue": "Planta aromática de propiedades medicinales.",
+              "answer": "RUDA"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "Organización aeroespacial estadounidense.",
+              "answer": "ASAT"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Meseta elevada en los Andes.",
+              "answer": "ALTIPLANO"
+            },
+            "59": {
+              "col": 10,
+              "row": 11,
+              "clue": "Patrón rítmico es 2/3 o 3/2.",
+              "answer": "CLAVE"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Desgastaría la ropa por el uso.",
+              "answer": "RAERIA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Lado derecho de una embarcación.",
+              "answer": "ESTRIBOR"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Puede ser Neo o John Wick.",
+              "answer": "REEVES"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Registra el tamaño de algo.",
+              "answer": "MIDE"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Licitador en una subasta.",
+              "answer": "POSTOR"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Esp. Persona simple y fácil de engañar.",
+              "answer": "PANOLI"
+            }
+          }
+        },
+        "vertical_clues": "2-Partidario de la supresión de toda autoridad.\r\n3-Inclinarse hacia algo, tender, preferir.\r\n4-El más grande de todos los instrumentos musicales de viento.\r\n5-Sufijo femenino que tiene valor aumentativo.\r\n6-Vocales abiertas. \r\n7-Apodo de Arthur Antunes Coimbra, exfutbolista brasilero.\r\n8-Bóvidos salvajes muy parecidos a los toros.\r\n9-Un hombre con glúteos muy trabajados.\r\n10-Dividir en partes muy pequeñas, pulverizar.\r\n11-Terreno sin cultivar ni aprovechar. \r\n13-Muévete al ritmo de la música.\r\n14-Geometría. Seno del complemento de un ángulo.\r\n16-Lejías.\r\n17-Tomar confundido otro trayecto.\r\n19-Bebida japonesa o vino de arroz nihonshu.\r\n22-El portero de Marruecos, en el Mundial de Catar.\r\n24-En la maleta hay un estuche para el alcohol.\r\n28-Partes en que se divide un acto teatral (sing).\r\n29-Sin relevancia.\r\n33-Organización del Tratado del Atlántico Norte.\r\n35-Desamparado, privado de ayuda y socorro.\r\n37-Infiel en el matrimonio. \r\n39-1/8, un...\r\n40-Local nocturno. Escenario de los primeros travestis.\r\n42-\"Cueva de...\" donde Gabriel habló con Mahoma.\r\n43-Maneras, procederes.\r\n45-Hombre que hurta con maña cosas de poco valor.\r\n47-Quita la cáscara a la naranja.\r\n49-Día de la semana cuyo nombre se relaciona con la Luna.\r\n51-La Preysler o la Allende.\r\n53-Derribes, derrumbes.\r\n57-\"... Mondrian\", pintor del cuadro \"Broadway Boogie-Woogie \". \r\n58-Hago la colada.\r\n59-Cabello del caballo.\r\n62-Toma Más Agua.\r\n64-Símbolo químico de Erbio.",
+        "horizontal_clues": "1-Percibir por medio de los sentidos.\r\n6-Conjunto de granos cristalinos muy dulces.\r\n12-\"Penélope...\" actriz española ganadora de un Óscar.\r\n13-Capital del Líbano.\r\n15-Artista circense.\r\n18-Gigante de Rodas.\r\n20-Ñapa, añadidura.\r\n21-Pequeñas partículas de ARN, que sintetizan las proteínas en las células.\r\n23-Regalo que la novia aporta al matrimonio. \r\n24-Vara, rama suelta de un árbol.\r\n25-Las zapatillas de la diosa de la victoria.\r\n26-País cuyo líder supremo es Alí Jamenei.\r\n27-Broten de sí, desprendan M&M.\r\n30-Meditativo, con el espíritu iluminado, estar modo...\r\n31-Ajedrez. Enroque corto.\r\n32-Apertrechó, suministró.\r\n34-Huesuda, de mucho hueso.\r\n36-Manecilla del reloj.\r\n38-Todos los curas de la iglesia.\r\n41-\"Cuevas del...\" ubicadas en Porto Cristo, Mallorca.\r\n43-Haces pis.\r\n44-Código de la UICN para la clasificación \"En peligro crítico de extinción\".\r\n46-El gerente indio de la tienda de Springfield.\r\n48-Fibra textil elástica.\r\n50-\"La Dolce...\" de Fellini.\r\n52-\"Cinturón\", en inglés.\r\n54-Planta aromática de propiedades medicinales. \r\n55-Organización aeroespacial estadounidense. \r\n56-Meseta elevada en los Andes. \r\n59-Patrón rítmico es 2/3 o 3/2.\r\n60-Desgastaría la ropa por el uso.\r\n61-Lado derecho de una embarcación. \r\n63-Puede ser Neo o John Wick.\r\n65-Registra el tamaño de algo.\r\n66-Licitador en una subasta.\r\n67-Esp. Persona simple y fácil de engañar.",
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,16,#,#,#,#,17,#,#,18,#,#,#,19,#\r\n20,#,#,#,#,#,21,#,22,#,#,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,28,29,#,30,#,#\r\n31,#,#,32,33,#,#,#,34,#,#,35,#,#,#\r\n#,36,37,#,#,#,#,#,#,38,#,#,#,39,#\r\n40,#,41,#,#,#,42,#,43,#,#,#,#,44,45\r\n46,47,#,#,48,#,#,49,#,#,#,50,51,#,#\r\n52,#,#,53,#,#,54,#,#,#,#,55,#,#,#\r\n56,#,#,#,57,58,#,#,#,#,59,#,#,#,#\r\n60,#,#,#,#,#,#,61,#,62,#,#,#,#,#\r\n#,#,63,#,#,#,64,#,#,65,#,#,#,#,#\r\n#,66,#,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

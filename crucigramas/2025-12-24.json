@@ -1,0 +1,540 @@
+{
+  "data": {
+    "id": 4410,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-23T08:26:49.734326Z",
+      "updatedAt": "2025-12-23T08:47:58.311010Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Brindemos por la Navidad",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-24",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/svg+xml;name=crucigrama-xmasV2.svg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIGlkPSJDYXBhXzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDQwIj48ZGVmcz48c3R5bGU+LmNscy0xLC5jbHMtMntmaWxsOm5vbmU7fS5jbHMtM3tmaWxsOiNjMzM3Nzc7fS5jbHMtNHtmaWxsOiNhOWM1ODA7fS5jbHMtNXtmaWxsOiMyNTI2MjQ7fS5jbHMtNSwuY2xzLTZ7ZmlsbC1ydWxlOmV2ZW5vZGQ7fS5jbHMtN3tmaWxsOiNmZmY7fS5jbHMtMntzdHJva2U6IzAwMDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2Utd2lkdGg6LjVweDt9PC9zdHlsZT48L2RlZnM+PGcgaWQ9IkNhcGFfMS0yIj48bGluZSBjbGFzcz0iY2xzLTIiIHgxPSIxOS45OSIgeDI9IjE5Ljk5IiB5Mj0iMTAuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0yMC41OSw5LjkxYy0xLjA2LTEuMzEtMS42NS0yLjk0LTIuMzMtNC40Ni0uNjItMS4zOC0xLjMtMi45NS0yLjU2LTMuODgtMS40Mi0xLjA0LTMuNjgtMS4wMS00LjY1LjYxLS4yMS4zNS0uMzYuNzYtLjM5LDEuMTctLjA1Ljc5LS4wOCwxLjY3LDAsMi40Ni4wNS40My4zMy42OS42NC45NS40Mi4zNS44Mi43NCwxLjI0LDEuMSwyLjA2LDEuNzUsNC40MSwzLjEzLDYuOTMsNC4xLS4wNS0uMDIuMDEtMS4xNC4wMS0xLjI1LDAtLjEyLjA4LTEuMjEtLjAxLTEuMjUtMS44MS0uNjktMy41My0xLjYtNS4xMy0yLjcxLS43OS0uNTUtMS41NC0xLjE0LTIuMjUtMS43OC0uMjktLjI2LS41OC0uNTMtLjg4LS43OC0uMjgtLjI0LS41Mi0uNDktLjU1LS44OHYyLjVjLjExLTEuMTUsMS4wMy0yLjE5LDIuMTctMi40MSwxLS4xOSwyLjE5LjEyLDIuOTkuNzYsMS41OCwxLjI1LDIuMjcsMy40MiwzLjA2LDUuMTkuNDcsMS4wNi45NywyLjE0LDEuNzEsMy4wNS0uMDItLjAyLDAtLjM5LDAtLjM3LDAtLjI5LDAtLjU5LDAtLjg4czAtLjU5LDAtLjg4YzAtLjA3LjAzLS4zMSwwLS4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5LjU3LDEyLjUzYzEuNTctMS41OSwzLjM2LTIuOTMsNS4wNS00LjM4Ljg1LS43MywxLjY5LTEuNDgsMi40My0yLjMyLjM1LS40LjcxLS44Ny44Mi0xLjQuMDgtLjM5LjA0LS44Mi4wNC0xLjIyLDAtLjU1LjExLTEuMjUtLjA0LTEuOC0uMTctLjU5LS45LS43Mi0xLjQyLS43Ni0xLjkyLS4xNS0zLjM3LDEuODEtNC4zNywzLjE4LS41My43My0xLjAyLDEuNDktMS4zOCwyLjMyLS40LjkxLS42NSwxLjg3LS44OCwyLjgzLS4wOS4zOC0uMDEuODYtLjAxLDEuMjVzLjEuODguMDEsMS4yNWMuMzYtMS41MS44MS0yLjk1LDEuNjUtNC4yN3MxLjkxLTIuODYsMy4zNi0zLjY2Yy43Ni0uNDEsMS42LS41NywyLjQzLS4yNC4yLjA4LjM4LjE5LjUuMzcuMDYuMDguMDcuMTcuMTEuMjV2LjA2Yy4wMS0uNzMuMDEtMS40NS4wMS0yLjE4LS4wMi4wNy0uMDMuMTQtLjA1LjIxLS4xNC40OS0uNDYuOTItLjgsMS4yOS0uNjcuNzYtMS40MiwxLjQ1LTIuMTgsMi4xMS0xLjc3LDEuNTMtMy42NiwyLjkyLTUuMyw0LjU5LS4wMy4wMywwLC4zOCwwLC4zNywwLC4yOSwwLC41OSwwLC44OHMwLC41OSwwLC44OGMwLC4wNi4wNC4zNCwwLC4zN2gwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE5Ljg3LDEwLjE1Yy0uOTUtMS4xLTIuNzItMS40My00LjA1LTEuNzctMS41Mi0uMzktMy4yMi0uNjQtNC42LTEuNDItLjM5LS4yMi0uNzEtLjU1LTEuMTMtLjcxLS4yMS0uMDgtLjU0LS4xOS0uNzYtLjA4LS4xOS4xLS4xOS4zMy0uMi41NCwwLC4zLS4wMi42MiwwLC45Mi4wNS41My40LDEsLjc5LDEuMzQuNDcuNCwxLjExLjU5LDEuNy43NC44MS4yLDEuNjQuMzEsMi40Ni40MSwxLjY1LjIsMy40OC4xNyw1LjA2Ljc0LS4xLS4wNC4xMS0uOTYsMC0xLS43NS0uMjctMS41Ni0uMzUtMi4zNC0uNDUtMS4wMS0uMTItMi4wMy0uMjEtMy4wNC0uMzQtMS41Mi0uMi00LjM4LS40My00LjYyLTIuNDR2Ljk4Yy4wMy0uNTIuMzQtLjU2Ljc4LS40My4zNi4xLjY1LjMzLjk0LjU0cy42My4zOS45OC41M2MuOTIuMzgsMS45MS42MSwyLjg4Ljg1czIuMDQuNDksMy4wMi44M2MuNzYuMjYsMS41OS41OSwyLjEzLDEuMjItLjE2LS4xOS4xNy0uODEsMC0xaDBaIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMjAuNTksMTEuMzRjLjk4LS43OCwyLjM5LS44NywzLjU4LTEuMDFzMi42MS0uMjMsMy41My0xLjA2Yy40NC0uNC43MS0xLC43My0xLjU5LjAyLS41NC4xOS0xLjQzLS41NS0xLjUyLS44Mi0uMS0xLjMuNzUtMS45MSwxLjEzLS41MS4zMS0xLjEuNDctMS42OC42MS0xLjE4LjI4LTIuODkuNDEtMy40MSwxLjcxLS4xMi4yOS4xMS43MiwwLDEsLjQyLTEuMDUsMS42My0xLjMxLDIuNjItMS41My41OS0uMTMsMS4xOS0uMjUsMS43Ni0uNDVzLjk3LS41MywxLjQyLS45NGMuMjctLjI0LjYxLS40OC45OC0uNTJzLjU4LjEuNzQuMzljLjE0LjI1LjExLS45NywwLS41NS0uMDIuMDYtLjAzLjEyLS4wNC4xOC0uMDQuMTUtLjEuMy0uMTguNDQtLjEzLjI1LS4zLjQ4LS41MS42Ny0uODguNzctMi4yMS44Ny0zLjMxLDEuMDEtMS4yNS4xNS0yLjc1LjIxLTMuNzgsMS4wMy0uMDUuMDQsMCwuNDMsMCwuNXMuMDUuNDYsMCwuNWgwWiIvPjxwYXRoIGNsYXNzPSJjbHMtNyIgZD0iTTUuOTIsMTAuNTZjLS4yLDAtLjM2LjE2LS4zNi4zNnYyOC4xN2MwLC4yLjE2LjM2LjM2LjM2aDI4LjE3Yy4yLDAsLjM2LS4xNi4zNi0uMzZWMTAuOTJjMC0uMi0uMTYtLjM2LS4zNi0uMzZINS45MloiLz48cGF0aCBjbGFzcz0iY2xzLTUiIGQ9Ik01LDEwLjkyYzAtLjUxLjQxLS45Mi45Mi0uOTJoMjguMTdjLjUxLDAsLjkyLjQxLjkyLjkydjI4LjE3YzAsLjUxLS40MS45Mi0uOTIuOTJINS45MmMtLjUxLDAtLjkyLS40MS0uOTItLjkyVjEwLjkyWk02LjExLDExLjExdjI3Ljc4aDI3Ljc4VjExLjExSDYuMTFaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNMjQuODcsMzguODhoOXYtOS4wOWgtOXY5LjA5WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTE1LjM1LDI5LjY3aDkuNHYtOS40M2gtOS40djkuNDNaIi8+PHBhdGggY2xhc3M9ImNscy00IiBkPSJNNi4wNywyMC4zOWg5LjE5di05LjNINi4wN3Y5LjNaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMjQuNTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMTQuOTgsMzkuNDRWMTAuNTZoLjQ5djI4Ljg4aC0uNDlaIi8+PHBhdGggY2xhc3M9ImNscy02IiBkPSJNMzQuNDMsMjAuNDJINS41NHYtLjQ5aDI4Ljg4di40OVoiLz48cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik0zNC40MywzMC4wNUg1LjU0di0uNDloMjguODh2LjQ5WiIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIi8+PC9nPjwvc3ZnPg=="
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ALERTA#DUENDES#\r\nMULA#LLAVE#INIC\r\nACI#SANTA#FAENA\r\nRESET#ROSCON##M\r\nASAMOS#S#H#ANAP\r\nS##ARIO#TIO#ISA\r\n#CHIN#CHIN#CHIN\r\nPAULITA#LAREIRA\r\nRRSS#OSNI#ELLA#\r\nETO#ARO#NATO##T\r\nMASA#C#H#GASPAR\r\nI##REINOS#MARIA\r\nARUBA#IGNEA#ISP\r\nRENO#AÑADI#SOLO\r\n#MELCHOR#FLORES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo que harás con tu prójimo si sigues las instrucciones",
+              "answer": "AMARAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "·Lo que ilumina al árbol de Navidad·",
+              "answer": "LUCES"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "\"Para…\", bagatela de Beethoven",
+              "answer": "ELISA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Símbolo químico del radio",
+              "answer": "RA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Órgano para volar",
+              "answer": "ALA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo que todos quieren de ti en internet",
+              "answer": "DATOS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "·Las sin pepitas son para Nochevieja·",
+              "answer": "UVAS"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Se repite en Nochevieja",
+              "answer": "EE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "No te confundas Ana, di el nombre de tu amiga",
+              "answer": "DIANA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Desde principios hasta mediados de enero",
+              "answer": "ENE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Gram Preposición que denota carencia",
+              "answer": "SIN"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Lila, Rojo y Negro",
+              "answer": "LNR"
+            },
+            "16": {
+              "col": 14,
+              "row": 1,
+              "clue": "·\"… sobre… / y sobre … una / asómate a la ventana / verás el niño en la cuna\"·",
+              "answer": "CAMPANA"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "\"Alfonsina…\", autora de 'Poemas de Amor'",
+              "answer": "STORNI"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Voz para expresar repudio a un mal olor",
+              "answer": "FO"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Los correos electrónicos están en inglés",
+              "answer": "EMAILS"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "De donde son Shein y AliExpress",
+              "answer": "CHINA"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Después del Sol La siguiente",
+              "answer": "SI"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "\"… obstat\" nada se opone a esta locución latina",
+              "answer": "NIHIL"
+            },
+            "28": {
+              "col": 13,
+              "row": 4,
+              "clue": "Cogerá con la mano",
+              "answer": "ASIRA"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Puesta del Sol",
+              "answer": "OCASO"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Suena la campanilla",
+              "answer": "TILIN"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "·Una misiva para los Reyes Magos·",
+              "answer": "CARTA"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Uso las franjas horarias",
+              "answer": "HUSOS"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Desconfiada, insegura",
+              "answer": "CELOSA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Laurear al ganador de la lotería",
+              "answer": "PREMIAR"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Di vueltas a algo sobre sí mismo",
+              "answer": "TORCI"
+            },
+            "40": {
+              "col": 10,
+              "row": 7,
+              "clue": "Mata para hacer las escobas",
+              "answer": "RETAMA"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Plata",
+              "answer": "AG"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Portas con otro estilo tus mejores ropas",
+              "answer": "TRAPOS"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Hay una borla extraña en el pino de Navidad",
+              "answer": "ARBOL"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "·\"La familia alegre está / celebrando Nochebuena en la paz del santo…\"·",
+              "answer": "HOGAR"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Dignidad que hay en algunas iglesias catedrales",
+              "answer": "PRIOR"
+            },
+            "54": {
+              "col": 13,
+              "row": 10,
+              "clue": "Elisa está ilesa porque la aparté",
+              "answer": "AISLE"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Las dos letras más utilizadas en el idioma español",
+              "answer": "EA"
+            },
+            "57": {
+              "col": 6,
+              "row": 11,
+              "clue": "·\"Pastores, venid/ pastores, llegad / adorad al… / que ha nacido ya\"·",
+              "answer": "NIÑO"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Sobremesas Navideñas Descomunales",
+              "answer": "SND"
+            },
+            "61": {
+              "col": 1,
+              "row": 12,
+              "clue": "Fase del sueño",
+              "answer": "REM"
+            },
+            "62": {
+              "col": 2,
+              "row": 12,
+              "clue": "Junta dos o más cosas",
+              "answer": "UNE"
+            },
+            "64": {
+              "col": 9,
+              "row": 12,
+              "clue": "Di crédito (inv)",
+              "answer": "EIF"
+            },
+            "67": {
+              "col": 5,
+              "row": 13,
+              "clue": "Iniciales del actor galés que interpretó a Hannibal Lecter",
+              "answer": "AH"
+            },
+            "68": {
+              "col": 11,
+              "row": 13,
+              "clue": "Fin del descanso",
+              "answer": "SO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Me altera lo que relata sobre la alarma",
+              "answer": "ALERTA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "·Ayudantes de Papá Noel·",
+              "answer": "DUENDES"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "·La humilde acompañante del buey en el pesebre de Navidad·",
+              "answer": "MULA"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Abre la puerta que da al valle",
+              "answer": "LLAVE"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Abreviatura de \"Iniciales\"",
+              "answer": "INIC"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aquí en Mallorca",
+              "answer": "ACI"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "·\"… Claus\" Papá Noel, San Nicolás·",
+              "answer": "SANTA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Trabajo, labor",
+              "answer": "FAENA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Reinicio de un sistema electrónico",
+              "answer": "RESET"
+            },
+            "22": {
+              "col": 6,
+              "row": 3,
+              "clue": "·Encárgalo para el día de Reyes·",
+              "answer": "ROSCON"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Cocinamos directo al fuego",
+              "answer": "ASAMOS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Mi amigo venezolano se regresó",
+              "answer": "ANAP"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Hombre de la más pura raza blanca",
+              "answer": "ARIO"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "·\"… de Nadal\", un tronco de Navidad·",
+              "answer": "TIO"
+            },
+            "32": {
+              "col": 12,
+              "row": 5,
+              "clue": "Baile tradicional de las islas canarias",
+              "answer": "ISA"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "·Brindemos por los que se fueron·",
+              "answer": "CHIN"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "·Brindemos por los que están·",
+              "answer": "CHIN"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "·Brindemos por los que vendrán·",
+              "answer": "CHIN"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Paula cuando era niña",
+              "answer": "PAULITA"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "El hogar de un gallego",
+              "answer": "LAREIRA"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Redes Sociales (abrev)",
+              "answer": "RRSS"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Como el OVNI pero submarino",
+              "answer": "OSNI"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"… baila sola\"",
+              "answer": "ELLA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Final del asueto",
+              "answer": "ETO"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Cada elemento del logo de las Olimpiadas",
+              "answer": "ARO"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "La OTAN pero en inglés",
+              "answer": "NATO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "¿Amas la de hojaldre?",
+              "answer": "MASA"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "·Rey mago de barba marrón, portador del incienso·",
+              "answer": "GASPAR"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"Los Siete…\" los que pelean por el Trono de Hierro",
+              "answer": "REINOS"
+            },
+            "59": {
+              "col": 10,
+              "row": 11,
+              "clue": "·\"A ti cantamos preciosa…/ y de ti esperamos paz y alegría\"·",
+              "answer": "MARIA"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Isla del Caribe",
+              "answer": "ARUBA"
+            },
+            "63": {
+              "col": 6,
+              "row": 12,
+              "clue": "Una roca cuando es volcánica",
+              "answer": "IGNEA"
+            },
+            "65": {
+              "col": 12,
+              "row": 12,
+              "clue": "Orina derramada",
+              "answer": "ISP"
+            },
+            "66": {
+              "col": 0,
+              "row": 13,
+              "clue": "·\"Era Rodolfo un…/ que tenía la nariz / roja como un tomate\"·",
+              "answer": "RENO"
+            },
+            "67": {
+              "col": 5,
+              "row": 13,
+              "clue": "Aumenté, acrecenté, amplié",
+              "answer": "AÑADI"
+            },
+            "68": {
+              "col": 11,
+              "row": 13,
+              "clue": "Íngrimo, abandonado",
+              "answer": "SOLO"
+            },
+            "69": {
+              "col": 1,
+              "row": 14,
+              "clue": "·El Rey Mago de barba blanca·",
+              "answer": "MELCHOR"
+            },
+            "70": {
+              "col": 9,
+              "row": 14,
+              "clue": "Obsequio romántico (pl)",
+              "answer": "FLORES"
+            }
+          }
+        },
+        "vertical_clues": "1-Lo que harás con tu prójimo si sigues las instrucciones \r\n2-·Lo que ilumina al árbol de Navidad·\r\n3-\"Para…\", bagatela de Beethoven\r\n4-Símbolo químico del radio\r\n5-Órgano para volar\r\n6-Lo que todos quieren de ti en internet\r\n7-·Las sin pepitas son para Nochevieja·\r\n8-Se repite en Nochevieja\r\n9-No te confundas Ana, di el nombre de tu amiga\r\n10-Desde principios hasta mediados de enero\r\n11-Gram Preposición que denota carencia\r\n14-Lila, Rojo y Negro \r\n16-·\"… sobre… / y sobre … una / asómate a la ventana / verás el niño en la cuna\"· \r\n18-\"Alfonsina…\", autora de 'Poemas de Amor'\r\n19-Voz para expresar repudio a un mal olor\r\n21-Los correos electrónicos están en inglés \r\n23-De donde son Shein y AliExpress\r\n25-Después del Sol La siguiente\r\n27-\"… obstat\" nada se opone a esta locución latina \r\n28-Cogerá con la mano\r\n30-Puesta del Sol\r\n31-Suena la campanilla\r\n33-·Una misiva para los Reyes Magos·\r\n34-Uso las franjas horarias\r\n36-Desconfiada, insegura\r\n37-Laurear al ganador de la lotería\r\n38-Di vueltas a algo sobre sí mismo\r\n40-Mata para hacer las escobas\r\n47-Plata\r\n48-Portas con otro estilo tus mejores ropas \r\n50-Hay una borla extraña en el pino de Navidad\r\n51-·\"La familia alegre está / celebrando Nochebuena en la paz del santo…\"· \r\n53-Dignidad que hay en algunas iglesias catedrales\r\n54-Elisa está ilesa porque la aparté\r\n56-Las dos letras más utilizadas en el idioma español\r\n57-·\"Pastores, venid/ pastores, llegad / adorad al… / que ha nacido ya\"· \r\n58-Sobremesas Navideñas Descomunales\r\n61-Fase del sueño\r\n62-Junta dos o más cosas \r\n64-Di crédito (inv)\r\n67-Iniciales del actor galés que interpretó a Hannibal Lecter\r\n68-Fin del descanso",
+        "horizontal_clues": "1-Me altera lo que relata sobre la alarma\r\n6-·Ayudantes de Papá Noel·\r\n12-·La humilde acompañante del buey en el pesebre de Navidad·\r\n13-Abre la puerta que da al valle\r\n15-Abreviatura de \"Iniciales\" \r\n17-Aquí en Mallorca\r\n18-·\"… Claus\" Papá Noel, San Nicolás·\r\n19-Trabajo, labor\r\n20-Reinicio de un sistema electrónico\r\n22-·Encárgalo para el día de Reyes·\r\n24-Cocinamos directo al fuego\r\n26-Mi amigo venezolano se regresó\r\n29-Hombre de la más pura raza blanca\r\n31-·\"… de Nadal\", un tronco de Navidad·\r\n32-Baile tradicional de las islas canarias\r\n33-·Brindemos por los que se fueron· \r\n35-·Brindemos por los que están· \r\n36-·Brindemos por los que vendrán· \r\n37-Paula cuando era niña\r\n39-El hogar de un gallego\r\n41-Redes Sociales (abrev)\r\n42-Como el OVNI pero submarino\r\n43-\"… baila sola\"\r\n44-Final del asueto\r\n45-Cada elemento del logo de las Olimpiadas\r\n46-La OTAN pero en inglés\r\n49-¿Amas la de hojaldre? \r\n52-·Rey mago de barba marrón, portador del incienso·\r\n55-\"Los Siete…\" los que pelean por el Trono de Hierro\r\n59-·\"A ti cantamos preciosa…/ y de ti esperamos paz y alegría\"·\r\n60-Isla del Caribe\r\n63-Una roca cuando es volcánica \r\n65-Orina derramada\r\n66-·\"Era Rodolfo un…/ que tenía la nariz / roja como un tomate\"·\r\n67-Aumenté, acrecenté, amplié\r\n68-Íngrimo, abandonado\r\n69-·El Rey Mago de barba blanca·\r\n70-Obsequio romántico (pl)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,#,6,7,8,#,9,10,11,#\r\n12,#,#,#,#,13,14,#,#,#,#,15,#,#,16\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,#\r\n20,#,#,21,#,#,22,#,#,23,#,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,#,#,26,27,28,#\r\n#,#,#,29,#,#,30,#,31,#,#,#,32,#,#\r\n#,33,34,#,#,#,35,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,40,#,#,#,#\r\n41,#,#,#,#,42,#,#,#,#,43,#,#,#,#\r\n44,#,#,#,45,#,#,#,46,47,#,#,#,#,48\r\n49,#,#,50,#,#,#,51,#,52,#,#,53,54,#\r\n#,#,#,55,56,#,57,#,58,#,59,#,#,#,#\r\n60,61,62,#,#,#,63,#,#,64,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,68,#,#,#\r\n#,69,#,#,#,#,#,#,#,70,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

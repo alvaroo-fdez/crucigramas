@@ -1,0 +1,487 @@
+{
+  "data": {
+    "id": 5822,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-02T18:56:04.048551Z",
+      "updatedAt": "2026-05-02T18:57:55.454236Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#TIQUISMIQUIS#D\r\nV#ARNOLD#U##LLE\r\nIP##IDA#LIMPIOS\r\nREPARO#SINGAPUR\r\nALELI#CHATEL#RA\r\nLUZCA#HI#A#IEDM\r\n###ANDAN#SONDEA\r\nEDEC##O#F##DAS#\r\nMECHAS#VIVIR###\r\nBLOO#U#UF#DOCAS\r\nUP#FABADA#EMOJI\r\nTIRAMISU#MAORIS\r\nINUSADA#SER#RSA\r\nDON##ORFANATO#L\r\nO#CORRESPONSAL#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Saliendo de Suecia",
+              "answer": "IA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Evolución del código de barras",
+              "answer": "QR"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Fusionarían dos empresas rivales",
+              "answer": "UNIRIAN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Yodo",
+              "answer": "IODO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Sal derramada",
+              "answer": "SLA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Modo: ojos cerrados",
+              "answer": "MD"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Ángela…\" nutricionista colaboradora de la 41 horizontal",
+              "answer": "QUINTAS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Calzoncillo ajustado",
+              "answer": "SLIP"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Poda o elimina ramas de un árbol",
+              "answer": "DESRAMA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Dicho del contenido que se difunde de forma multitudinaria",
+              "answer": "VIRAL"
+            },
+            "14": {
+              "col": 13,
+              "row": 1,
+              "clue": "\"… Lancho\" periodista, subdirectora de de la 41 horizontal",
+              "answer": "LOURDES"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Me encanta mi peluquería, la amo",
+              "answer": "PELU"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Arma un cigarrillo",
+              "answer": "LIA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Mike, un Golf se Echó, y Meg enloqueció",
+              "answer": "MGE"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Palabra o frase que se lee igual de izquierda a derecha que al revés",
+              "answer": "PALINDROMO"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Está cómodo, está como… en el agua",
+              "answer": "PEZ"
+            },
+            "23": {
+              "col": 3,
+              "row": 3,
+              "clue": "Lo que el corazón esconde entre sus hojas",
+              "answer": "ALCACHOFAS"
+            },
+            "24": {
+              "col": 7,
+              "row": 3,
+              "clue": "Prefijo de nuevo en japonés",
+              "answer": "SHIN"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "Esto no es un adiós ni un hasta luego",
+              "answer": "CHAO"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Casi dice su edad",
+              "answer": "EDA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Lo es el chorizo, el salchichón o el lomo embuchado",
+              "answer": "EMBUTIDO"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Javier, director y presentador de la 41 horizontal (2p)",
+              "answer": "DELPINO"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "La voz de una casa vacía",
+              "answer": "ECO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Institución con todas las federaciones de fútbol",
+              "answer": "FIFA"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Dispositivo o persona que facilita el ascenso a lugares elevados",
+              "answer": "SUBIDOR"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Religión de origen africano famosa por sus sacrificios rituales y sus creencias animistas",
+              "answer": "VUDU"
+            },
+            "42": {
+              "col": 10,
+              "row": 8,
+              "clue": "Pensarán, crearán",
+              "answer": "IDEARAN"
+            },
+            "46": {
+              "col": 12,
+              "row": 9,
+              "clue": "Que desgaste o deteriore un material",
+              "answer": "CORROA"
+            },
+            "47": {
+              "col": 13,
+              "row": 9,
+              "clue": "Peperoncinos, chiles, pimientos",
+              "answer": "AJIS"
+            },
+            "48": {
+              "col": 14,
+              "row": 9,
+              "clue": "Fibra vegetal obtenida del agave, usada para fabricar cuerdas",
+              "answer": "SISAL"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Quiere intensamente",
+              "answer": "AMA"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Tostaré, abrasaré",
+              "answer": "ASARE"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "De trunca y de frunce",
+              "answer": "RUNC"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Doy vueltas a la cuerda en el juego de la comba",
+              "answer": "MENO"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Sapo sin cola",
+              "answer": "SAP"
+            },
+            "62": {
+              "col": 7,
+              "row": 13,
+              "clue": "Lo que tienen en común Frank Sinatra y Fiona Shaw",
+              "answer": "FS"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Tupac Shakur (uno de los raperos más importantes de todos los tiempos)",
+              "answer": "TS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Un jugador cuando es muy exigente en detalles menores",
+              "answer": "TIQUISMIQUIS"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Schwarzenegger",
+              "answer": "ARNOLD"
+            },
+            "13": {
+              "col": 12,
+              "row": 1,
+              "clue": "Gramática: Desuso de \"le\"",
+              "answer": "LLE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Número único de un ordenador en la Red",
+              "answer": "IP"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Loca de amor",
+              "answer": "IDA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "No han vuelto a tomar drogas, están…",
+              "answer": "LIMPIOS"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "No lo tiró, lo arregló, lo…",
+              "answer": "REPARO"
+            },
+            "24": {
+              "col": 7,
+              "row": 3,
+              "clue": "Próspero puerto financiero del sudeste asiático",
+              "answer": "SINGAPUR"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Flor de muy buen olor y diversos colores",
+              "answer": "ALELI"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "Tipo de castillo o residencia señorial",
+              "answer": "CHATEL"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Le quitó la radio",
+              "answer": "RA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Que brille o resplandezca",
+              "answer": "LUZCA"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"Hiya Barbie, … Ken\" la canción de Aqua",
+              "answer": "HI"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Lo medí terriblemente",
+              "answer": "IEDM"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Caminan por ahí",
+              "answer": "ANDAN"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Investiga la opinión pública",
+              "answer": "SONDEA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Deja, permite (inv)",
+              "answer": "EDEC"
+            },
+            "38": {
+              "col": 11,
+              "row": 7,
+              "clue": "… en el blanco, aciertas",
+              "answer": "DAS"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Franjas del cabello teñidas de un tono diferente al resto",
+              "answer": "MECHAS"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"A… que son dos días\" el más escuchado en la radio los fines de semana",
+              "answer": "VIVIR"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "El mejor amigo de Mac el de la \"Mansión Foster para amigos imaginarios\"",
+              "answer": "BLOO"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Hizo como que estaba cansado",
+              "answer": "UF"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Instalaciones portuarias para barcos",
+              "answer": "DOCAS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Push…, el sujetador",
+              "answer": "UP"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Potaje de judías con tocino, chorizo y morcilla, típico de Asturias",
+              "answer": "FABADA"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "El más usado es el 'Cara con lágrimas de alegría'",
+              "answer": "EMOJI"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Famoso postre italiano",
+              "answer": "TIRAMISU"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Pueblos indígenas originarios de Nueva Zelanda",
+              "answer": "MAORIS"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Poco común, rara vez vista",
+              "answer": "INUSADA"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"La cadena más existencial\" (Màrius Serra)",
+              "answer": "SER"
+            },
+            "59": {
+              "col": 12,
+              "row": 12,
+              "clue": "Protocolo de seguridad para encriptar datos digitales",
+              "answer": "RSA"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… Gato y su pandilla\" de Hanna Barbera desde 1960",
+              "answer": "DON"
+            },
+            "61": {
+              "col": 5,
+              "row": 13,
+              "clue": "Institución que acoge niños sin padres",
+              "answer": "ORFANATO"
+            },
+            "64": {
+              "col": 2,
+              "row": 14,
+              "clue": "Periodista que informa desde una ciudad o país extranjero",
+              "answer": "CORRESPONSAL"
+            }
+          }
+        },
+        "vertical_clues": "2-Saliendo de Suecia\r\n3-Evolución del código de barras\r\n4-Fusionarían dos empresas rivales \r\n5-Yodo\r\n6-Sal derramada\r\n7-Modo: ojos cerrados\r\n8-\"Ángela…\" nutricionista colaboradora de la 41 horizontal\r\n9-Calzoncillo ajustado\r\n10-Poda o elimina ramas de un árbol \r\n11-Dicho del contenido que se difunde de forma multitudinaria\r\n14-\"… Lancho\" periodista, subdirectora de de la 41 horizontal\r\n16-Me encanta mi peluquería, la amo\r\n18-Arma un cigarrillo\r\n19-Mike, un Golf se Echó, y Meg enloqueció\r\n20-Palabra o frase que se lee igual de izquierda a derecha que al revés \r\n22-Está cómodo, está como… en el agua\r\n23-Lo que el corazón esconde entre sus hojas \r\n24-Prefijo de nuevo en japonés \r\n26-Esto no es un adiós ni un hasta luego\r\n31-Casi dice su edad\r\n34-Lo es el chorizo, el salchichón o el lomo embuchado\r\n35-Javier, director y presentador de la 41 horizontal (2p) \r\n36-La voz de una casa vacía\r\n37-Institución con todas las federaciones de fútbol\r\n40-Dispositivo o persona que facilita el ascenso a lugares elevados \r\n41-Religión de origen africano famosa por sus sacrificios rituales y sus creencias animistas\r\n42-Pensarán, crearán\r\n46-Que desgaste o deteriore un material \r\n47-Peperoncinos, chiles, pimientos \r\n48-Fibra vegetal obtenida del agave, usada para fabricar cuerdas \r\n51-Quiere intensamente\r\n52-Tostaré, abrasaré\r\n55-De trunca y de frunce \r\n56-Doy vueltas a la cuerda en el juego de la comba\r\n58-Sapo sin cola\r\n62-Lo que tienen en común Frank Sinatra y Fiona Shaw\r\n63-Tupac Shakur (uno de los raperos más importantes de todos los tiempos)",
+        "horizontal_clues": "1-Un jugador cuando es muy exigente en detalles menores \r\n12-Schwarzenegger\r\n13-Gramática: Desuso de \"le\"\r\n15-Número único de un ordenador en la Red\r\n17-Loca de amor\r\n18-No han vuelto a tomar drogas, están…\r\n21-No lo tiró, lo arregló, lo…\r\n24-Próspero puerto financiero del sudeste asiático \r\n25-Flor de muy buen olor y diversos colores\r\n26-Tipo de castillo o residencia señorial \r\n27-Le quitó la radio\r\n28-Que brille o resplandezca \r\n29-\"Hiya Barbie, … Ken\" la canción de Aqua\r\n30-Lo medí terriblemente\r\n32-Caminan por ahí\r\n33-Investiga la opinión pública \r\n34-Deja, permite (inv)\r\n38-… en el blanco, aciertas\r\n39-Franjas del cabello teñidas de un tono diferente al resto\r\n41-\"A… que son dos días\" el más escuchado en la radio los fines de semana\r\n43-El mejor amigo de Mac el de la \"Mansión Foster para amigos imaginarios\"\r\n44-Hizo como que estaba cansado \r\n45-Instalaciones portuarias para barcos \r\n49-Push…, el sujetador\r\n50-Potaje de judías con tocino, chorizo y morcilla, típico de Asturias\r\n53-El más usado es el 'Cara con lágrimas de alegría'\r\n54-Famoso postre italiano\r\n56-Pueblos indígenas originarios de Nueva Zelanda \r\n57-Poco común, rara vez vista \r\n58-\"La cadena más existencial\" (Màrius Serra) \r\n59-Protocolo de seguridad para encriptar datos digitales \r\n60-\"… Gato y su pandilla\" de Hanna Barbera desde 1960 \r\n61-Institución que acoge niños sin padres \r\n64-Periodista que informa desde una ciudad o país extranjero",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,#,#,9,#,10\r\n11,#,12,#,#,#,#,#,#,#,#,#,13,14,#\r\n15,16,#,#,17,#,#,#,18,#,19,20,#,#,#\r\n21,#,22,23,#,#,#,24,#,#,#,#,#,#,#\r\n25,#,#,#,#,#,26,#,#,#,#,#,#,27,#\r\n28,#,#,#,#,#,29,#,#,#,#,30,31,#,#\r\n#,#,#,32,#,#,#,#,#,33,#,#,#,#,#\r\n34,35,36,#,#,#,#,#,37,#,#,38,#,#,#\r\n39,#,#,#,#,40,#,41,#,#,42,#,#,#,#\r\n43,#,#,#,#,#,#,44,#,#,45,#,46,47,48\r\n49,#,#,50,51,#,52,#,#,#,53,#,#,#,#\r\n54,#,55,#,#,#,#,#,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,59,#,#\r\n60,#,#,#,#,61,#,62,#,#,#,63,#,#,#\r\n#,#,64,#,#,#,#,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 3102,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-07-30T13:44:11.801284Z",
+      "updatedAt": "2025-07-30T13:51:47.852058Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-04",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "HONDURA#PLUMAJE\r\nII#APOSTILLA#UX\r\nD#ATINE#PEINA#C\r\nRAVE#CAPAN#ARRI\r\nIJA##ANISE##PET\r\nCOSTE##Ñ##ETOLA\r\nOPTAN#SAL#MENOR\r\n#O#TAJA#EKIN#J#\r\nBRAUN#MAE#TOTEM\r\nORFEO##V##ORARE\r\nNOT##AVIDA##LIR\r\nASES#SAORC#TEAM\r\nN#ROSSI#ATAUD#A\r\nZO#FRANKFURT#UD\r\nANSIADA#TEQUEÑO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Relativo al agua",
+              "answer": "HIDRICO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Parece que hoy sí te escuché",
+              "answer": "OI"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ponga la data",
+              "answer": "DATE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Unidad de Patrimonio e Inventario",
+              "answer": "UPI"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "No me deja dormir, hace demasiado ruido",
+              "answer": "RONCA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Limpian, decoran",
+              "answer": "ASEAN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Utensilio para fumar, con boquilla por un extremo (pl)",
+              "answer": "PIPAS"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ocupé por completo el espacio vacío",
+              "answer": "LLENE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "No te rías Julia",
+              "answer": "ULI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Banda de rock mexicana, autores de \"Rayando el sol\"",
+              "answer": "MANA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Voz usada para expresar risa solapada",
+              "answer": "JU"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Citar a su ex lo va a entusiasmar",
+              "answer": "EXCITAR"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Software antivirus gratuito más usado en el mundo",
+              "answer": "AVAST"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Instrumento usado para cazar en el mar",
+              "answer": "ARPON"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Nombre con que se le conoce en Venezuela al puerro (pl)",
+              "answer": "AJOPORROS"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "La fruta reina",
+              "answer": "PIÑA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Tienda donde es imposible no saber qué hora es",
+              "answer": "RELOJERIA"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Grabé un dibujo sobre la piel",
+              "answer": "TATUE"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Sujeto de estatura muy baja",
+              "answer": "ENANO"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Transmito por la radio",
+              "answer": "EMITO"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Música Voz media entre la de contralto y la de barítono",
+              "answer": "TENOR"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "El amigo de Frodo, en el \"Señor de los Anillos\"",
+              "answer": "SAM"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"Bruce\", artista marcial",
+              "answer": "LEE"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Momento en el que la mar está serena",
+              "answer": "BONANZA"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "La fiesta del mañana",
+              "answer": "AFTER"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Prevención, apresto",
+              "answer": "AVIO"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Chal con que cubren su cabeza los judíos en sus ceremonias religiosas",
+              "answer": "TALED"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Disminuido por domarme en otro sentido",
+              "answer": "MERMADO"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Bashar Al",
+              "answer": "ASSAD"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Funda ajustada para armas blancas",
+              "answer": "VAINA"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Sistema mecánico para dispensar cerveza de barril",
+              "answer": "DRAFT"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Interpreté un papel",
+              "answer": "ACTUE"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "De cariño a Sofía",
+              "answer": "SOFI"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Faldellín de bailarinas clásicas",
+              "answer": "TUTU"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Señora (abrev)",
+              "answer": "SRA"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Mi pequeña arquitecta",
+              "answer": "ARQ"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Parte trasera del camión",
+              "answer": "ON"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Uña rota",
+              "answer": "UÑ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Profundidad de un pozo, que le da nombre a un país centroamericano",
+              "answer": "HONDURA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "El hermoso vestido de un ave",
+              "answer": "PLUMAJE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "2 en números romanos",
+              "answer": "II"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Nota aclaratoria al final de un documento",
+              "answer": "APOSTILLA"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Siglas en inglés para Experiencia de Usuario",
+              "answer": "UX"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Acerté algo por conjeturas",
+              "answer": "ATINE"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "No lo hace un cabeza rapada, no se…",
+              "answer": "PEINA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Fiesta de música electrónica al aire libre",
+              "answer": "RAVE"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Extirpan los órganos genitales",
+              "answer": "CAPAN"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Arriba no hay bario",
+              "answer": "ARRI"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Sufijo que forma diminutivos, a veces despectivos",
+              "answer": "IJA"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Impregné con anís una comida",
+              "answer": "ANISE"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Petarlo sin el colgajo",
+              "answer": "PET"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Conjunto de gastos para la producción de bienes y servicios",
+              "answer": "COSTE"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Mujer de Etolia",
+              "answer": "ETOLA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Escojan, elijan por algo entre varias cosas",
+              "answer": "OPTAN"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Condimento por excelencia",
+              "answer": "SAL"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Que es inferior a otra cosa en cantidad, intensidad o calidad",
+              "answer": "MENOR"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Desuso Corta, rebana",
+              "answer": "TAJA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "La competencia de Adidas está de vuelta",
+              "answer": "EKIN"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Marca de afeitadora eléctrica",
+              "answer": "BRAUN"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Vocablo costarricense",
+              "answer": "MAE"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "\"… y Tabú\" libro de Freud que habla del complejo de Edipo",
+              "answer": "TOTEM"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "El hijo de Apolo, que durmió a Cerbero con su lira",
+              "answer": "ORFEO"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Pediré a Dios",
+              "answer": "ORARE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Dejo una nota sin terminar",
+              "answer": "NOT"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ansiosa, codiciosa",
+              "answer": "AVIDA"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "Salir por el oriente",
+              "answer": "LIR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Naipes que llevan el número uno",
+              "answer": "ASES"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Haces como una rana (inv)",
+              "answer": "SAORC"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "El equipo del inglés",
+              "answer": "TEAM"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "MotoGP Il Dottore",
+              "answer": "ROSSI"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "La cama de Drácula",
+              "answer": "ATAUD"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Iniciales de Zoraida Ortiz",
+              "answer": "ZO"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "\"… am Main\", ciudad occidental de Alemania",
+              "answer": "FRANKFURT"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "¿Usted de pequeño?",
+              "answer": "UD"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Deseada, codiciada",
+              "answer": "ANSIADA"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Fritura de Venezuela para el más pequeño",
+              "answer": "TEQUEÑO"
+            }
+          }
+        },
+        "vertical_clues": "1-Relativo al agua\r\n2-Parece que hoy sí te escuché\r\n3-Ponga la data\r\n4-Unidad de Patrimonio e Inventario\r\n5-No me deja dormir, hace demasiado ruido\r\n6-Limpian, decoran\r\n7-Utensilio para fumar, con boquilla por un extremo (pl)\r\n8-Ocupé por completo el espacio vacío\r\n9-No te rías Julia\r\n10-Banda de rock mexicana, autores de \"Rayando el sol\"\r\n11-Voz usada para expresar risa solapada\r\n12-Citar a su ex lo va a entusiasmar\r\n16-Software antivirus gratuito más usado en el mundo\r\n18-Instrumento usado para cazar en el mar\r\n20-Nombre con que se le conoce en Venezuela al puerro (pl)\r\n22-La fruta reina\r\n24-Tienda donde es imposible no saber qué hora es\r\n29-Grabé un dibujo sobre la piel\r\n30-Sujeto de estatura muy baja\r\n31-Transmito por la radio\r\n32-Música Voz media entre la de contralto y la de barítono\r\n34-El amigo de Frodo, en el \"Señor de los Anillos\"\r\n35-\"Bruce\", artista marcial\r\n39-Momento en el que la mar está serena\r\n40-La fiesta del mañana\r\n42-Prevención, apresto\r\n44-Chal con que cubren su cabeza los judíos en sus ceremonias religiosas\r\n45-Disminuido por domarme en otro sentido\r\n49-\"Bashar Al-…\" presidente de Siria\r\n50-Funda ajustada para armas blancas\r\n51-Sistema mecánico para dispensar cerveza de barril\r\n52-Interpreté un papel\r\n55-De cariño a Sofía\r\n57-Faldellín de bailarinas clásicas\r\n59-Señora (abrev)\r\n61-Mi pequeña arquitecta\r\n63-Parte trasera del camión\r\n65-Uña rota",
+        "horizontal_clues": "1-Profundidad de un pozo, que le da nombre a un país centroamericano\r\n7-El hermoso vestido de un ave\r\n13-2 en números romanos\r\n14-Nota aclaratoria al final de un documento\r\n15-Siglas en inglés para Experiencia de Usuario\r\n16-Acerté algo por conjeturas\r\n17-No lo hace un cabeza rapada, no se…\r\n19-Fiesta de música electrónica al aire libre\r\n21-Extirpan los órganos genitales\r\n23-Arriba no hay bario\r\n25-Sufijo que forma diminutivos, a veces despectivos\r\n26-Impregné con anís una comida\r\n27-Petarlo sin el colgajo\r\n28-Conjunto de gastos para la producción de bienes y servicios\r\n31-Mujer de Etolia\r\n33-Escojan, elijan por algo entre varias cosas\r\n34-Condimento por excelencia\r\n36-Que es inferior a otra cosa en cantidad, intensidad o calidad\r\n37-Desuso Corta, rebana\r\n38-La competencia de Adidas está de vuelta\r\n39-Marca de afeitadora eléctrica\r\n41-Vocablo costarricense\r\n43-\"… y Tabú\" libro de Freud que habla del complejo de Edipo\r\n46-El hijo de Apolo, que durmió a Cerbero con su lira\r\n47-Pediré a Dios\r\n48-Dejo una nota sin terminar\r\n49-Ansiosa, codiciosa\r\n53-Salir por el oriente\r\n54-Naipes que llevan el número uno\r\n56-Haces como una rana (inv)\r\n57-El equipo del inglés\r\n58-MotoGP Il Dottore\r\n60-La cama de Drácula\r\n62-Iniciales de Zoraida Ortiz\r\n64-\"… am Main\", ciudad occidental de Alemania\r\n65-¿Usted de pequeño?\r\n66-Deseada, codiciada\r\n67-Fritura de Venezuela para el más pequeño",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,#,7,8,9,10,#,11,12\r\n13,#,#,14,#,#,#,#,#,#,#,#,#,15,#\r\n#,#,16,#,#,#,#,#,17,#,#,#,18,#,#\r\n19,20,#,#,#,21,#,22,#,#,#,23,#,24,#\r\n25,#,#,#,#,26,#,#,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,#,#,#,#,31,32,#,#,#\r\n33,#,#,#,#,#,34,#,35,#,36,#,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,#,40,#,#,#,41,42,#,#,43,#,44,#,45\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,49,50,#,51,52,#,#,53,#,#\r\n54,#,#,55,#,56,#,#,#,#,#,57,#,#,#\r\n#,#,58,#,59,#,#,#,60,#,61,#,#,#,#\r\n62,63,#,64,#,#,#,#,#,#,#,#,#,65,#\r\n66,#,#,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

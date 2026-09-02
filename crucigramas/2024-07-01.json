@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 500,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-30T22:30:50.365531Z",
+      "updatedAt": "2024-06-30T22:30:50.365552Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-01",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##TRATA#BATTLE#\r\n#TROPAS#ASIRA#C\r\nPIADOSO#REMI#TA\r\nRBE#TAMARA#PERU\r\nOI#CENARAS##RAT\r\nLACIO##DN#CHUPE\r\nERRES#DECORADOR\r\nT#IRIDE#ABOLI#I\r\nAPARCASES#MATIZ\r\nRODEA#PP##OBAMA\r\nINO##BIOMASA#ED\r\nAGRO#RECIBO#CLO\r\nDO#LIAR#NUMERAR\r\nO#MAMUT#ASADOS#\r\n#VENENO#NASAL##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Viene con eso incluido, lo...",
+              "answer": "TRAE"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"... Taylor\" protagonista de 'Los pájaros' de Hitchcock.",
+              "answer": "ROD"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Deslumbrante, grandiosa, portentosa.",
+              "answer": "APOTEOSICA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Imponen un costo al disfrute de ciertos servicios.",
+              "answer": "TASAN"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Saca la cabeza, se...",
+              "answer": "ASOMA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Precipicios, despeñaderos.",
+              "answer": "BARRANCAS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Quitas la suciedad.",
+              "answer": "ASEAS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Director de la peli \"El joven manos de tijeras\" (1990).",
+              "answer": "TIM"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Un viaje divertido por los Estados Unidos.",
+              "answer": "TRIP"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dominio web para Laos.",
+              "answer": "LA"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "No lo debes enfriar ni calentar.",
+              "answer": "TIBIAR"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Instrumento para quemar una herida y detener su sangrado.",
+              "answer": "CAUTERIZADOR"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Clase social que vende su fuerza de trabajo.",
+              "answer": "PROLETARIADO"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Parto con la tropa que porta el pedazo de tela viejo.",
+              "answer": "TRAPO"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "Está en combustión.",
+              "answer": "ARDE"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Profunda conocedora de documentos relativos a una ciencia o arte.",
+              "answer": "ERUDITA"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Mecanismo para sujeción de piezas.",
+              "answer": "CIERRE"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Vinicultor.",
+              "answer": "CRIADOR"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "X y Y.",
+              "answer": "CROMOSOMAS"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Tiraba de los cabos.",
+              "answer": "HALABA"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Estoy muy atento cuando abro los ojos.",
+              "answer": "DESPIERTO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Obligatorias las dos primeras.",
+              "answer": "OB"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Sí, en ruso.",
+              "answer": "DA"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Coloco al perro de 101 Dálmatas.",
+              "answer": "PONGO"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "Enfermedad pulmonar obstructiva crónica (siglas).",
+              "answer": "EPOC"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Fenómeno fonético árabe donde la \"a\" se pronuncia como \"e\" o \"i\" (pl).",
+              "answer": "IMELAS"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Marca de afeitadora eléctrica.",
+              "answer": "BRAUN"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Cultivan bitcoines.",
+              "answer": "MINAN"
+            },
+            "47": {
+              "col": 9,
+              "row": 10,
+              "clue": "Usa excesivamente.",
+              "answer": "ABUSA"
+            },
+            "50": {
+              "col": 3,
+              "row": 11,
+              "clue": "Esta lona es un completo desastre.",
+              "answer": "OLAN"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "Estilo de natación más rápido.",
+              "answer": "CROL"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Centro agroalimentario.",
+              "answer": "IME"
+            },
+            "57": {
+              "col": 11,
+              "row": 12,
+              "clue": "Aún no llega a la edad.",
+              "answer": "EDA"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Mire cómo los extremos se juntan.",
+              "answer": "ME"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tráfico ilegal de esclavos humanos.",
+              "answer": "TRATA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"... royale\" género de videojuegos del Fortnite (voz inglesa).",
+              "answer": "BATTLE"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Milicia. Cuerpos que componen un ejército.",
+              "answer": "TROPAS"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cogerá con la mano.",
+              "answer": "ASIRA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ser compasivo con el tejido adiposo es un error.",
+              "answer": "PIADOSO"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "\"..., el niño de nadie\" anime japonés de los 70.",
+              "answer": "REMI"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tasa rota.",
+              "answer": "TA"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "En plena verbena.",
+              "answer": "RBE"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "\"... Falcó\" la hija de Isabel Preysler.",
+              "answer": "TAMARA"
+            },
+            "20": {
+              "col": 11,
+              "row": 3,
+              "clue": "País cuna de la cultura Inca.",
+              "answer": "PERU"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Parece que hoy si te escuché.",
+              "answer": "OI"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Saldrás tipo 22:00 al restaurante.",
+              "answer": "CENARAS"
+            },
+            "24": {
+              "col": 12,
+              "row": 4,
+              "clue": "Rata sin cola.",
+              "answer": "RAT"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Región italiana cuya capital es Roma.",
+              "answer": "LACIO"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Dave Navarro (guitarrista de Jane's Addiction).",
+              "answer": "DN"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Sopa típica de América del Sur.",
+              "answer": "CHUPE"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "La regla de las tres... ecológicas.",
+              "answer": "ERRES"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Injustamente recordado como interiorista.",
+              "answer": "DECORADOR"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Lirio hediondo.",
+              "answer": "IRIDE"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Derogué una ley.",
+              "answer": "ABOLI"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Estacionases el vehículo.",
+              "answer": "APARCASES"
+            },
+            "39": {
+              "col": 10,
+              "row": 8,
+              "clue": "Organiza el tamiz y cambia al tono.",
+              "answer": "MATIZ"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Cerca, acorrala, circunscribe.",
+              "answer": "RODEA"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Pepe, por Pater Putativus.",
+              "answer": "PP"
+            },
+            "43": {
+              "col": 10,
+              "row": 9,
+              "clue": "Expresidente estadounidense.",
+              "answer": "OBAMA"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Una de las hijas de Cadmo y Harmonía.",
+              "answer": "INO"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Materia prima para fabricar de biocombustibles que sustituyan los combustibles fósiles.",
+              "answer": "BIOMASA"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Límites de edad.",
+              "answer": "ED"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Prefijo que refiere al campo.",
+              "answer": "AGRO"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "Resguardo firmado.",
+              "answer": "RECIBO"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "Voz de la gallina clueca.",
+              "answer": "CLO"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Denominación de origen.",
+              "answer": "DO"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"Mentiroso\" en inglés.",
+              "answer": "LIAR"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "Marcar con números.",
+              "answer": "NUMERAR"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Elefante fósil.",
+              "answer": "MAMUT"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Tostados, cocinados.",
+              "answer": "ASADOS"
+            },
+            "60": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"La ...\", importante mujer transexual, ícono LGTB en España.",
+              "answer": "VENENO"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Bloqueo del paso del aire por la nariz, obstrucción...",
+              "answer": "NASAL"
+            }
+          }
+        },
+        "vertical_clues": "1-Viene con eso incluido, lo...\r\n2-\"... Taylor\" protagonista de 'Los pájaros' de Hitchcock.\r\n3-Deslumbrante, grandiosa, portentosa.\r\n4-Imponen un costo al disfrute de ciertos servicios.\r\n5-Saca la cabeza, se...\r\n6-Precipicios, despeñaderos.\r\n7-Quitas la suciedad.\r\n8-Director de la peli \"El joven manos de tijeras\" (1990). \r\n9-Un viaje divertido por los Estados Unidos.\r\n10-Dominio web para Laos.\r\n11-No lo debes enfriar ni calentar.\r\n13-Instrumento para quemar una herida y detener su sangrado.\r\n14-Clase social que vende su fuerza de trabajo.\r\n16-Parto con la tropa que porta el pedazo de tela viejo.\r\n19-Está en combustión.\r\n21-Profunda conocedora de documentos relativos a una ciencia o arte.\r\n23-Mecanismo para sujeción de piezas.\r\n26-Vinicultor.\r\n28-X y Y.\r\n29-Tiraba de los cabos.\r\n31-Estoy muy atento cuando abro los ojos.\r\n32-Obligatorias las dos primeras.\r\n34-Sí, en ruso.\r\n37-Coloco al perro de 101 Dálmatas.\r\n38-Enfermedad pulmonar obstructiva crónica (siglas). \r\n40-Fenómeno fonético árabe donde la \"a\" se pronuncia como \"e\" o \"i\" (pl).\r\n45-Marca de afeitadora eléctrica.\r\n46-Cultivan bitcoines.\r\n47-Usa excesivamente.\r\n50-Esta lona es un completo desastre.\r\n52-Estilo de natación más rápido.\r\n55-Centro agroalimentario.\r\n57-Aún no llega a la edad.\r\n58-Mire cómo los extremos se juntan.",
+        "horizontal_clues": "1-Tráfico ilegal de esclavos humanos.\r\n6-\"... royale\" género de videojuegos del Fortnite (voz inglesa).\r\n11-Milicia. Cuerpos que componen un ejército.\r\n12-Cogerá con la mano.\r\n14-Ser compasivo con el tejido adiposo es un error.\r\n15-\"..., el niño de nadie\" anime japonés de los 70.\r\n16-Tasa rota.\r\n17-En plena verbena.\r\n18-\"... Falcó\" la hija de Isabel Preysler.\r\n20-País cuna de la cultura Inca.\r\n22-Parece que hoy si te escuché.\r\n23-Saldrás tipo 22:00 al restaurante.\r\n24-Rata sin cola.\r\n25-Región italiana cuya capital es Roma.\r\n27-Dave Navarro (guitarrista de Jane's Addiction).\r\n28-Sopa típica de América del Sur.\r\n30-La regla de las tres... ecológicas.\r\n31-Injustamente recordado como interiorista.\r\n33-Lirio hediondo.\r\n35-Derogué una ley.\r\n36-Estacionases el vehículo.\r\n39-Organiza el tamiz y cambia al tono.\r\n41-Cerca, acorrala, circunscribe.\r\n42-Pepe, por Pater Putativus.\r\n43-Expresidente estadounidense.\r\n44-Una de las hijas de Cadmo y Harmonía.\r\n45-Materia prima para fabricar de biocombustibles que sustituyan los combustibles fósiles.\r\n48-Límites de edad.\r\n49-Prefijo que refiere al campo.\r\n51-Resguardo firmado.\r\n52-Voz de la gallina clueca.\r\n53-Denominación de origen.\r\n54-\"Mentiroso\" en inglés.\r\n56-Marcar con números.\r\n58-Elefante fósil.\r\n59-Tostados, cocinados.\r\n60-\"La ...\", importante mujer transexual, ícono LGTB en España.\r\n61-Bloqueo del paso del aire por la nariz, obstrucción...",
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,16,#\r\n17,#,#,#,18,#,#,19,#,#,#,20,21,#,#\r\n22,#,#,23,#,#,#,#,#,#,#,#,24,#,#\r\n25,#,26,#,#,#,#,27,#,#,28,29,#,#,#\r\n30,#,#,#,#,#,31,#,#,32,#,#,#,#,#\r\n#,#,33,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,#,#,#,#,38,#,#,39,#,#,40,#\r\n41,#,#,#,#,#,42,#,#,#,43,#,#,#,#\r\n44,#,#,#,#,45,#,#,46,47,#,#,#,48,#\r\n49,#,#,50,#,51,#,#,#,#,#,#,52,#,#\r\n53,#,#,54,55,#,#,#,56,#,#,57,#,#,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,#,#,#\r\n#,60,#,#,#,#,#,#,61,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

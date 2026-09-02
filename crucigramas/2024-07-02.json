@@ -1,0 +1,465 @@
+{
+  "data": {
+    "id": 531,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-01T16:15:18.986687Z",
+      "updatedAt": "2024-07-01T16:18:31.344367Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-02",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#LERDA#PADTHAI#\r\nC#SAINZ#DORAR#M\r\nAPENAN#PENELOPE\r\nCANULA#EC#VIMOS\r\nANCLO#INUSITADO\r\nRAI#GARNET#OSEN\r\nEMANARE#SRI##R#\r\nA#LORE###ENEO#S\r\n#L##ETO#REDOBLE\r\nBUFA#HISOPO#EAR\r\nAPALEARIA#MORSE\r\nBATEL#EG#TARTAN\r\nASIMISMO#OBTUSA\r\nS#MATEO#PULIR#N\r\n#VANESSA#REZAS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Lo básico, lo más vital.",
+              "answer": "ESENCIAL"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Se mira el nevus frente al espejo.",
+              "answer": "RANUL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Conversaré.",
+              "answer": "DIALOGARE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"...Simon\" presentadora española.",
+              "answer": "ANNA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Adaptes algo a determinada situación.",
+              "answer": "ADECUES"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Este va a ser de gentes educadas.",
+              "answer": "DON"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Gloria...\" mexicana de la canción \"Pelo suelto\".",
+              "answer": "TREVI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Soplo suave y apacible del aire.",
+              "answer": "HALITO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Olores agradables, perfumes.",
+              "answer": "AROMAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Da voces como una gallina.",
+              "answer": "CACAREA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Establecimiento popular donde se sirven comidas y bebidas.",
+              "answer": "MESON"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Cable submarino Panamericano.",
+              "answer": "PANAM"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "\"Sean...\" Óscar por 'Mystic River' y 'Milk'.",
+              "answer": "PENN"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Capacidad de hacer determinada cosa.",
+              "answer": "PODER"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Ahí estaré.",
+              "answer": "IRE"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Interpreta a Miranda Priestly en 'El Diablo viste de Prada'.",
+              "answer": "STREEP"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "1.ª mujer en el Salón de la Fama del Rock.",
+              "answer": "ARETHA"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Gracias por preguntar, pero tengo compromisos ineludibles.",
+              "answer": "NO"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Que no se deja domar, salvaje.",
+              "answer": "INDOMABLE"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Las fronteras de Egipto.",
+              "answer": "EO"
+            },
+            "37": {
+              "col": 12,
+              "row": 7,
+              "clue": "Pieza musical que se da principio a una ópera.",
+              "answer": "OBERTURA"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "Sosiegan, tranquilizan algo.",
+              "answer": "SERENAN"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Lente de aumento (pl).",
+              "answer": "LUPAS"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Atenderemos los ruegos, súplicas o avisos de alguien.",
+              "answer": "OIREMOS"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Mordisquee un hueso.",
+              "answer": "ROA"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Flojas, macilentas.",
+              "answer": "LASAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Venezuela. Reptil americano más pequeño que el cocodrilo (pl).",
+              "answer": "BABAS"
+            },
+            "45": {
+              "col": 2,
+              "row": 9,
+              "clue": "Importante virgen de Portugal.",
+              "answer": "FATIMA"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Gentilicio del científico Albert Einstein.",
+              "answer": "ALEMAN"
+            },
+            "48": {
+              "col": 7,
+              "row": 9,
+              "clue": "Continúo, ando.",
+              "answer": "SIGO"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Serie española que trascurre en el colegio ficticio 'Las Encinas'.",
+              "answer": "ELITE"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "La reina Letizia...",
+              "answer": "ORTIZ"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Gira de un grupo musical.",
+              "answer": "TOUR"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Extremo final del intestino.",
+              "answer": "SES"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Bestia pesada y torpe en el andar.",
+              "answer": "LERDA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Plato emblemático de la gastronomía tailandesa.",
+              "answer": "PADTHAI"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "\"Carlos...\" considerado mejor piloto español de rally de la historia.",
+              "answer": "SAINZ"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Gastro. Dar al pollo, color y textura, sin dejar que se queme.",
+              "answer": "DORAR"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Avergüenzan, generan pudor.",
+              "answer": "APENAN"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Actriz española, Óscar por 'Vicky Cristina Barcelona'.",
+              "answer": "PENELOPE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tubo flexible que se pone en la nariz para dar oxígeno.",
+              "answer": "CANULA"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Inic. Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'.",
+              "answer": "EC"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "No dimos cuenta que era a las 6 en Mos.",
+              "answer": "VIMOS"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Fondeo, ancoro mi nave.",
+              "answer": "ANCLO"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "No usado, desacostumbrado.",
+              "answer": "INUSITADO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "La cadena de televisión italiana.",
+              "answer": "RAI"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Granate en inglés.",
+              "answer": "GARNET"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Emprendan algo con audacia.",
+              "answer": "OSEN"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Desprenderé, por ejemplo energía o mal olor.",
+              "answer": "EMANARE"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"... Lanka\" la lágrima de la India.",
+              "answer": "SRI"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "El cuerpo histórico de un videojuego.",
+              "answer": "LORE"
+            },
+            "35": {
+              "col": 9,
+              "row": 7,
+              "clue": "Poético. De cobre o bronce.",
+              "answer": "ENEO"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Sufijo en sustantivos y adjetivos de valor diminutivo.",
+              "answer": "ETO"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "En el circo, repique de tambores.",
+              "answer": "REDOBLE"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Resopla con ira y furor.",
+              "answer": "BUFA"
+            },
+            "47": {
+              "col": 5,
+              "row": 9,
+              "clue": "Bastoncillo para recoger muestras.",
+              "answer": "HISOPO"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Voltear a la derecha y ver la oreja de un inglés.",
+              "answer": "EAR"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Le caería a palos, lo...",
+              "answer": "APALEARIA"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Telegrafía por combinación de rayas y puntos.",
+              "answer": "MORSE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Embarcación a remo, con 4 remeros y 1 timonel.",
+              "answer": "BATEL"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Un poco egoísta.",
+              "answer": "EG"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "El típico tejido de cuadros escocés.",
+              "answer": "TARTAN"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Además, de la misma forma lo hizo consigo (1, 2 o 3 palabras).",
+              "answer": "ASIMISMO"
+            },
+            "59": {
+              "col": 9,
+              "row": 12,
+              "clue": "Roma, sin punta.",
+              "answer": "OBTUSA"
+            },
+            "60": {
+              "col": 2,
+              "row": 13,
+              "clue": "Uno de los 12 apóstoles, el evangelista.",
+              "answer": "MATEO"
+            },
+            "61": {
+              "col": 8,
+              "row": 13,
+              "clue": "Hacer brilla una pieza.",
+              "answer": "PULIR"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"... Kirby\" interpretó a la princesa Margarita en 'The Crown'.",
+              "answer": "VANESSA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Le ruegas a Dios.",
+              "answer": "REZAS"
+            }
+          }
+        },
+        "vertical_clues": "2-Lo básico, lo más vital.\r\n3-Se mira el nevus frente al espejo.\r\n4-Conversaré.\r\n5-\"...Simon\" presentadora española.\r\n7-Adaptes algo a determinada situación.\r\n8-Este va a ser de gentes educadas.\r\n9-\"Gloria...\" mexicana de la canción \"Pelo suelto\".\r\n10-Soplo suave y apacible del aire.\r\n11-Olores agradables, perfumes.\r\n12-Da voces como una gallina.\r\n15-Establecimiento popular donde se sirven comidas y bebidas.\r\n17-Cable submarino Panamericano.\r\n18-\"Sean...\" Óscar por 'Mystic River' y 'Milk'.\r\n19-Capacidad de hacer determinada cosa.\r\n24-Ahí estaré.\r\n25-Interpreta a Miranda Priestly en 'El Diablo viste de Prada'.\r\n28-1.ª mujer en el Salón de la Fama del Rock.\r\n31-Gracias por preguntar, pero tengo compromisos ineludibles.\r\n33-Que no se deja domar, salvaje.\r\n36-Las fronteras de Egipto.\r\n37-Pieza musical que se da principio a una ópera.\r\n38-Sosiegan, tranquilizan algo.\r\n39-Lente de aumento (pl).\r\n41-Atenderemos los ruegos, súplicas o avisos de alguien.\r\n42-Mordisquee un hueso.\r\n43-Flojas, macilentas.\r\n44-Venezuela. Reptil americano más pequeño que el cocodrilo (pl).\r\n45-Importante virgen de Portugal.\r\n46-Gentilicio del científico Albert Einstein.\r\n48-Continúo, ando.\r\n51-Serie española que trascurre en el colegio ficticio 'Las Encinas'.\r\n53-La reina Letizia...\r\n56-Gira de un grupo musical.\r\n58-Extremo final del intestino.",
+        "horizontal_clues": "1-Bestia pesada y torpe en el andar.\r\n6-Plato emblemático de la gastronomía tailandesa.\r\n13-\"Carlos...\" considerado mejor piloto español de rally de la historia.\r\n14-Gastro. Dar al pollo, color y textura, sin dejar que se queme.\r\n16-Avergüenzan, generan pudor.\r\n18-Actriz española, Óscar por 'Vicky Cristina Barcelona'.\r\n20-Tubo flexible que se pone en la nariz para dar oxígeno.\r\n21-Inic. Actriz que interpreta a Daenerys Targaryen en 'Juego de Tronos'.\r\n22-No dimos cuenta que era a las 6 en Mos.\r\n23-Fondeo, ancoro mi nave.\r\n24-No usado, desacostumbrado.\r\n26-La cadena de televisión italiana.\r\n27-Granate en inglés.\r\n29-Emprendan algo con audacia.\r\n30-Desprenderé, por ejemplo energía o mal olor.\r\n32-\"... Lanka\" la lágrima de la India.\r\n34-El cuerpo histórico de un videojuego.\r\n35-Poético. De cobre o bronce.\r\n40-Sufijo en sustantivos y adjetivos de valor diminutivo.\r\n42-En el circo, repique de tambores.\r\n44-Resopla con ira y furor.\r\n47-Bastoncillo para recoger muestras.\r\n49-Voltear a la derecha y ver la oreja de un inglés.\r\n50-Le caería a palos, lo...\r\n52-Telegrafía por combinación de rayas y puntos.\r\n54-Embarcación a remo, con 4 remeros y 1 timonel.\r\n55-Un poco egoísta.\r\n56-El típico tejido de cuadros escocés.\r\n57-Además, de la misma forma lo hizo consigo (1, 2 o 3 palabras). \r\n59-Roma, sin punta.\r\n60-Uno de los 12 apóstoles, el evangelista.\r\n61-Hacer brilla una pieza.\r\n62-\"... Kirby\" interpretó a la princesa Margarita en 'The Crown'.\r\n63-Le ruegas a Dios.",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,#,#,#,#,#,21,#,#,22,#,#,#,#\r\n23,#,#,#,#,#,24,#,#,25,#,#,#,#,#\r\n26,#,#,#,27,28,#,#,#,#,#,29,#,#,#\r\n30,#,#,31,#,#,#,#,32,#,33,#,#,#,#\r\n#,#,34,#,#,#,#,#,#,35,#,36,37,#,38\r\n#,39,#,#,40,#,41,#,42,#,#,#,#,43,#\r\n44,#,45,46,#,47,#,48,#,#,#,#,49,#,#\r\n50,#,#,#,51,#,#,#,#,#,52,53,#,#,#\r\n54,#,#,#,#,#,55,#,#,56,#,#,#,#,#\r\n57,#,#,#,#,58,#,#,#,59,#,#,#,#,#\r\n#,#,60,#,#,#,#,#,61,#,#,#,#,#,#\r\n#,62,#,#,#,#,#,#,#,63,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

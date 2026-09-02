@@ -1,0 +1,474 @@
+{
+  "data": {
+    "id": 2167,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-17T11:38:44.901990Z",
+      "updatedAt": "2025-04-17T11:47:12.730431Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-04-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#COIN#JAFAR#COP\r\nCANTAS#LAPIDA#I\r\nORDENO#IBUS#BAC\r\nALEMAN#SARAMAGO\r\nRAES#ATADO#EREN\r\nT###TRONAS#LEN#\r\nAGUARAS###WITCH\r\nIL#GANIMEDES#IO\r\nSACRE###REBAJAR\r\n#MOA#CLAROS###M\r\nFORD#RELOJ#HOMO\r\nAUTOCINE#EMITAN\r\nNRA#HANG#DANESA\r\nT#DEUDOR#ARDEIS\r\nAFA#TONER#AUNA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… Morrison\" cantando 'Disfruto' sí, es escalofriante",
+              "answer": "CARLA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mueva la bandera",
+              "answer": "ONDEE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Partes que componen un test o cuestionario",
+              "answer": "ITEMS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "La Mouskouri cantando 'Adiós mi amor' y 'Libertad'",
+              "answer": "NANA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Dejan plana y destruyen la salina",
+              "answer": "ALISAN"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Potaje de judías con tocino, chorizo y morcilla, típico de Asturias",
+              "answer": "FABADA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Como está Fleishman en la serie de Disney+",
+              "answer": "APUROS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Movimiento del rostro, que demuestra alegría",
+              "answer": "RISA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Lo fue el 'Le Chat Noir' o el 'Moulin Rouge'",
+              "answer": "CABARET"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "'Mojo…' salsa canaria picante",
+              "answer": "PICON"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Limitáis, no concedéis enteramente algo",
+              "answer": "COARTAIS"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Retumbarán",
+              "answer": "SONARAN"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Oficina encargada de conectar a las personas con los hoteles",
+              "answer": "AGENCIA"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Hija de Meliseo, rey de Creta, según la mitología griega",
+              "answer": "MELISA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Hice fuerza y violencia con la respiración",
+              "answer": "TOSI"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Viene con eso incluido, lo…",
+              "answer": "TRAE"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Se viste muy bien, se ve muy sensual, tiene mucho…",
+              "answer": "GLAMOUR"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Gusto, satisfacción complacencia",
+              "answer": "AGRADO"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Páginas de internet",
+              "answer": "WEBS"
+            },
+            "32": {
+              "col": 14,
+              "row": 6,
+              "clue": "Secreciones endocrinas que influyen en algún órgano",
+              "answer": "HORMONAS"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "No acertó, se equivocó",
+              "answer": "ERRO"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "\"Alonso…\", conquistador español que puso el nombre a Venezuela (2p)",
+              "answer": "DEOJEDA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Abertura o corte entre dos montañas",
+              "answer": "CORTADA"
+            },
+            "42": {
+              "col": 5,
+              "row": 9,
+              "clue": "Sirviente, trabajador doméstico",
+              "answer": "CRIADO"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Compuso 'Lucy in the Sky with Diamonds'",
+              "answer": "LENNON"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Feliz y contento",
+              "answer": "ALEGRE"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "Es fantástica la gaseosa de naranja",
+              "answer": "FANTA"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Practicante del hinduismo",
+              "answer": "HINDU"
+            },
+            "48": {
+              "col": 12,
+              "row": 10,
+              "clue": "Observen desde un lugar alto",
+              "answer": "OTEEN"
+            },
+            "49": {
+              "col": 13,
+              "row": 10,
+              "clue": "Casa de labor, típica del antiguo reino de Aragón",
+              "answer": "MASIA"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Fútbol Disparo",
+              "answer": "CHUT"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "Centroamérica Pandilla de muchachos",
+              "answer": "MARA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Nico se rompió solo por una moneda estadounidense",
+              "answer": "COIN"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "El brujo malvado de la película \"Aladdín\"",
+              "answer": "JAFAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Policía en inglés",
+              "answer": "COP"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Haces uso de la voz en la ducha",
+              "answer": "CANTAS"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Piedra llana en que ordinariamente se pone una inscripción",
+              "answer": "LAPIDA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Organizo, acomodo",
+              "answer": "ORDENO"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Ascendí de derecha a izquierda",
+              "answer": "IBUS"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Iniciando el bachillerato",
+              "answer": "BAC"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Gentilicio de Martín Lutero",
+              "answer": "ALEMAN"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Escritor portugués, autor de 'Ensayo sobre la ceguera'",
+              "answer": "SARAMAGO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Raspas, restriegas, friegas",
+              "answer": "RAES"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sujetado, de pies y manos",
+              "answer": "ATADO"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"… Jaeger\" protagonista principal de Ataque a los Titanes",
+              "answer": "EREN"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Sillas altas donde los bebés comen como reyes",
+              "answer": "TRONAS"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Hilo de mala punta",
+              "answer": "LEN"
+            },
+            "28": {
+              "col": 0,
+              "row": 6,
+              "clue": "Mezclarás agua con otros líquidos",
+              "answer": "AGUARAS"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "La mujer del inglés es una bruja",
+              "answer": "WITCH"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ya se termina abril",
+              "answer": "IL"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Príncipe troyano, que Zeus raptó para hacerlo su amante y copero de los dioses",
+              "answer": "GANIMEDES"
+            },
+            "37": {
+              "col": 13,
+              "row": 7,
+              "clue": "Una pareja de 10",
+              "answer": "IO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "El sagrado francés",
+              "answer": "SACRE"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Disminuir el precio o la cantidad",
+              "answer": "REBAJAR"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Ave neozelandesa, extinta hace 500 años por causas humanas",
+              "answer": "MOA"
+            },
+            "42": {
+              "col": 5,
+              "row": 9,
+              "clue": "Sean honestos, precisos",
+              "answer": "CLAROS"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Henry…\", padre de las cadenas de producción",
+              "answer": "FORD"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Lo es el TAG Heuer Monaco o Cartier Santos",
+              "answer": "RELOJ"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Prefijo que significa igual",
+              "answer": "HOMO"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Donde se puede ver El rey león desde tu SEAT León",
+              "answer": "AUTOCINE"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Lo pasen por la tele",
+              "answer": "EMITAN"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Han invertido en el ácido ribonucleico",
+              "answer": "NRA"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Inst de percusión Pieza hueca de metal esferoide",
+              "answer": "HANG"
+            },
+            "56": {
+              "col": 9,
+              "row": 12,
+              "clue": "Natural de Dinamarca (fem)",
+              "answer": "DANESA"
+            },
+            "57": {
+              "col": 2,
+              "row": 13,
+              "clue": "Que debe, o está obligado a satisfacer una deuda",
+              "answer": "DEUDOR"
+            },
+            "58": {
+              "col": 9,
+              "row": 13,
+              "clue": "Sufrís la acción del fuego",
+              "answer": "ARDEIS"
+            },
+            "59": {
+              "col": 0,
+              "row": 14,
+              "clue": "Institución responsable del fútbol en Argentina",
+              "answer": "AFA"
+            },
+            "60": {
+              "col": 4,
+              "row": 14,
+              "clue": "Pigmento que usan ciertas impresoras",
+              "answer": "TONER"
+            },
+            "61": {
+              "col": 10,
+              "row": 14,
+              "clue": "Agrega, junta, une",
+              "answer": "AUNA"
+            }
+          }
+        },
+        "vertical_clues": "1-\"… Morrison\" cantando 'Disfruto' sí, es escalofriante\r\n2-Mueva la bandera\r\n3-Partes que componen un test o cuestionario\r\n4-La Mouskouri cantando 'Adiós mi amor' y 'Libertad'\r\n6-Dejan plana y destruyen la salina\r\n7-Potaje de judías con tocino, chorizo y morcilla, típico de Asturias\r\n8-Como está Fleishman en la serie de Disney+\r\n9-Movimiento del rostro, que demuestra alegría\r\n10-Lo fue el 'Le Chat Noir' o el 'Moulin Rouge'\r\n11-'Mojo…' salsa canaria picante\r\n12-Limitáis, no concedéis enteramente algo\r\n13-Retumbarán\r\n18-Oficina encargada de conectar a las personas con los hoteles\r\n21-Hija de Meliseo, rey de Creta, según la mitología griega\r\n24-Hice fuerza y violencia con la respiración\r\n26-Viene con eso incluido, lo…\r\n29-Se viste muy bien, se ve muy sensual, tiene mucho…\r\n30-Gusto, satisfacción complacencia\r\n31-Páginas de internet\r\n32-Secreciones endocrinas que influyen en algún órgano\r\n35-No acertó, se equivocó\r\n36-\"Alonso…\", conquistador español que puso el nombre a Venezuela (2p)\r\n39-Abertura o corte entre dos montañas\r\n42-Sirviente, trabajador doméstico\r\n43-Compuso 'Lucy in the Sky with Diamonds'\r\n44-Feliz y contento\r\n45-Es fantástica la gaseosa de naranja\r\n47-Practicante del hinduismo\r\n48-Observen desde un lugar alto\r\n49-Casa de labor, típica del antiguo reino de Aragón\r\n51-Fútbol Disparo\r\n53-Centroamérica Pandilla de muchachos",
+        "horizontal_clues": "1-Nico se rompió solo por una moneda estadounidense\r\n5-El brujo malvado de la película \"Aladdín\"\r\n10-Policía en inglés\r\n12-Haces uso de la voz en la ducha\r\n14-Piedra llana en que ordinariamente se pone una inscripción\r\n15-Organizo, acomodo\r\n16-Ascendí de derecha a izquierda\r\n17-Iniciando el bachillerato\r\n19-Gentilicio de Martín Lutero\r\n20-Escritor portugués, autor de 'Ensayo sobre la ceguera'\r\n22-Raspas, restriegas, friegas\r\n23-Sujetado, de pies y manos\r\n25-\"… Jaeger\" protagonista principal de Ataque a los Titanes\r\n26-Sillas altas donde los bebés comen como reyes \r\n27-Hilo de mala punta\r\n28-Mezclarás agua con otros líquidos\r\n31-La mujer del inglés es una bruja\r\n33-Ya se termina abril\r\n34-Príncipe troyano, que Zeus raptó para hacerlo su amante y copero de los dioses\r\n37-Una pareja de 10\r\n38-El sagrado francés\r\n40-Disminuir el precio o la cantidad\r\n41-Ave neozelandesa, extinta hace 500 años por causas humanas\r\n42-Sean honestos, precisos\r\n45-\"Henry…\", padre de las cadenas de producción\r\n46-Lo es el TAG Heuer Monaco o Cartier Santos\r\n47-Prefijo que significa igual\r\n50-Donde se puede ver El rey león desde tu SEAT León\r\n52-Lo pasen por la tele\r\n54-Han invertido en el ácido ribonucleico\r\n55-Inst de percusión Pieza hueca de metal esferoide\r\n56-Natural de Dinamarca (fem)\r\n57-Que debe, o está obligado a satisfacer una deuda\r\n58-Sufrís la acción del fuego\r\n59-Institución responsable del fútbol en Argentina\r\n60-Pigmento que usan ciertas impresoras\r\n61-Agrega, junta, une",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,5,6,7,8,9,#,10,#,11\r\n12,#,#,#,#,13,#,14,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,#,16,#,#,#,#,17,18,#\r\n19,#,#,#,#,#,#,20,#,#,#,21,#,#,#\r\n22,#,#,#,#,23,24,#,#,#,#,25,#,#,#\r\n#,#,#,#,26,#,#,#,#,#,#,27,#,#,#\r\n28,29,#,30,#,#,#,#,#,#,31,#,#,#,32\r\n33,#,#,34,#,#,#,#,35,36,#,#,#,37,#\r\n38,#,39,#,#,#,#,#,40,#,#,#,#,#,#\r\n#,41,#,#,#,42,43,44,#,#,#,#,#,#,#\r\n45,#,#,#,#,46,#,#,#,#,#,47,48,49,#\r\n50,#,#,#,51,#,#,#,#,52,53,#,#,#,#\r\n54,#,#,#,55,#,#,#,#,56,#,#,#,#,#\r\n#,#,57,#,#,#,#,#,#,58,#,#,#,#,#\r\n59,#,#,#,60,#,#,#,#,#,61,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

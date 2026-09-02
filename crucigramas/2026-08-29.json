@@ -1,0 +1,517 @@
+{
+  "data": {
+    "id": 8670,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-29T06:45:58.599163Z",
+      "updatedAt": "2026-08-29T06:48:28.298026Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CURCUMA#BOTONES\r\nANORMAL#UBICADO\r\nNINO#JODER#UCIS\r\nASIA#AYUNA#MECI\r\nRENDI##A##COSTE\r\nIX##NUBLOSO##OG\r\nA#SPEKE#NINOT#O\r\n#VIAS#LAD#SPAM#\r\nE#ASTRONAUTAS#M\r\nNIVEA##D##ALETA\r\nGN#ABSTRACTO#AF\r\nONU#LAREIRA#PII\r\nLANCERO#SERRANO\r\nATTA#ALOHA#PIAS\r\nSOEZ#NATAS#ESSO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Nacida en un archipiélago español del océano Atlántico",
+              "answer": "CANARIA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Una prenda para hombres y mujeres",
+              "answer": "UNISEX"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Estabilizador para cámaras de cine",
+              "answer": "RONIN"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Haced sonidos como las ranas",
+              "answer": "CROAD"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Universidad de Margarita (siglas)",
+              "answer": "UM"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Vestida o desnuda, la de Goya",
+              "answer": "MAJA"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "La prota del videojuego 'Horizon Forbidden West'",
+              "answer": "ALOY"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"El… patrón\" Goya a la mejor peli en el 2021",
+              "answer": "BUEN"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cualquier producto intelectual",
+              "answer": "OBRA"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Verdura conocida como malanga",
+              "answer": "OCUMO"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cuando vienes al mundo",
+              "answer": "NACES"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "El mandato de un príncipe que parece adicto",
+              "answer": "EDICTO"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Tener calma, controlar el ímpetu, encontrar…",
+              "answer": "SOSIEGO"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "\"…Shock\" los mandos de la PlayStation 4",
+              "answer": "DUAL"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Inés con la tablet es muy voluble",
+              "answer": "INESTABLE"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Comprobar, verificar",
+              "answer": "CONSTATAR"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Dominio web para Reino Unido",
+              "answer": "UK"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "El padre de Egipto y Dánao",
+              "answer": "BELO"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Ando todo loco, qué mala vibra",
+              "answer": "ONDA"
+            },
+            "32": {
+              "col": 9,
+              "row": 5,
+              "clue": "La última de la escala musical",
+              "answer": "SI"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Marcháis en dirección contraria",
+              "answer": "SIAV"
+            },
+            "35": {
+              "col": 3,
+              "row": 6,
+              "clue": "Camina por distracción",
+              "answer": "PASEA"
+            },
+            "37": {
+              "col": 11,
+              "row": 6,
+              "clue": "Piedra con varios colores",
+              "answer": "OPALO"
+            },
+            "38": {
+              "col": 12,
+              "row": 6,
+              "clue": "Fijé oficialmente el precio para una mercancía",
+              "answer": "TASE"
+            },
+            "41": {
+              "col": 7,
+              "row": 7,
+              "clue": "\"… Agassi\", exjugador de tenis estadounidense",
+              "answer": "ANDRE"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Pones la voz como la de Shakira",
+              "answer": "ENGOLAS"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Lo era Al Capone o don Vito Corleone",
+              "answer": "MAFIOSO"
+            },
+            "47": {
+              "col": 1,
+              "row": 9,
+              "clue": "Connatural de una persona",
+              "answer": "INNATO"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Mezcla de tisana de las indias antillanas",
+              "answer": "TAINAS"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "España: Cesto ordinario hecho de madera de castaño",
+              "answer": "SARAN"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Engaño, falsedad, mentira",
+              "answer": "TROLA"
+            },
+            "54": {
+              "col": 8,
+              "row": 10,
+              "clue": "La esposa favorita de Mahoma",
+              "answer": "AISHA"
+            },
+            "55": {
+              "col": 9,
+              "row": 10,
+              "clue": "Haces emerger algo de la nada",
+              "answer": "CREAS"
+            },
+            "58": {
+              "col": 2,
+              "row": 11,
+              "clue": "Aplique y extienda sobre la piel, el bronceador",
+              "answer": "UNTE"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "Territorio de una unidad geográfica, política y cultural",
+              "answer": "PAIS"
+            },
+            "62": {
+              "col": 3,
+              "row": 12,
+              "clue": "Canal para tomar el agua y conducirla a donde es aprovechada",
+              "answer": "CAZ"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Resonancia paramagnética electrónica",
+              "answer": "RPE"
+            },
+            "67": {
+              "col": 7,
+              "row": 13,
+              "clue": "Óscar Terol",
+              "answer": "OT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La especia que otorga al curry su color amarillo",
+              "answer": "CURCUMA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mozo de equipaje",
+              "answer": "BOTONES"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Que se halla fuera de su estado natural",
+              "answer": "ANORMAL"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Puesto en tal sitio",
+              "answer": "UBICADO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"… Bravo\" cantando 'Noelia'",
+              "answer": "NINO"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Molestar o fastidiar a alguien",
+              "answer": "JODER"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Acrónimo de Unidad de Cuidados Intensivos (pl)",
+              "answer": "UCIS"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "El más poblado de los continentes",
+              "answer": "ASIA"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Abstente de comer y beber",
+              "answer": "AYUNA"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Moví la cunita del bebé, lo…",
+              "answer": "MECI"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Bajé los brazos, me di por vencida, me…",
+              "answer": "RENDI"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Conjunto de gastos para la producción de bienes y servicios",
+              "answer": "COSTE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Son las 9:00 en Roma",
+              "answer": "IX"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Cubierto de nubes grises, el desgraciado",
+              "answer": "NUBLOSO"
+            },
+            "33": {
+              "col": 13,
+              "row": 5,
+              "clue": "Par de ogros",
+              "answer": "OG"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"John …\" famoso explorador y aventurero británico en África",
+              "answer": "SPEKE"
+            },
+            "36": {
+              "col": 8,
+              "row": 6,
+              "clue": "Muñeco en valenciano",
+              "answer": "NINOT"
+            },
+            "39": {
+              "col": 1,
+              "row": 7,
+              "clue": "Caminos por donde se transita",
+              "answer": "VIAS"
+            },
+            "40": {
+              "col": 6,
+              "row": 7,
+              "clue": "Por estos lados no hay osmio",
+              "answer": "LAD"
+            },
+            "42": {
+              "col": 10,
+              "row": 7,
+              "clue": "Información basura (voz inglesa)",
+              "answer": "SPAM"
+            },
+            "44": {
+              "col": 2,
+              "row": 8,
+              "clue": "Lo son Yuri Gagarin y Neil Armstrong",
+              "answer": "ASTRONAUTAS"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Que ni vea la crema que me compré",
+              "answer": "NIVEA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Palíndromo \"Ate la…\"",
+              "answer": "ALETA"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Abreviatura de Génesis, primer libro del Antiguo Testamento",
+              "answer": "GN"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Un dibujo que no es para nada figurativo",
+              "answer": "ABSTRACTO"
+            },
+            "56": {
+              "col": 13,
+              "row": 10,
+              "clue": "Iniciales de científico británico que descubrió la penicilina",
+              "answer": "AF"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Organización a cargo de los ODS",
+              "answer": "ONU"
+            },
+            "59": {
+              "col": 4,
+              "row": 11,
+              "clue": "El hogar de un gallego",
+              "answer": "LAREIRA"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "El sonido de la censura",
+              "answer": "PII"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lugar donde se colocan las lanzas",
+              "answer": "LANCERO"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "Hombre de la sierra",
+              "answer": "SERRANO"
+            },
+            "65": {
+              "col": 0,
+              "row": 13,
+              "clue": "Princesa de la Colonia en la película \"Bichos\", de Disney",
+              "answer": "ATTA"
+            },
+            "66": {
+              "col": 5,
+              "row": 13,
+              "clue": "Te saluda un hawaiano",
+              "answer": "ALOHA"
+            },
+            "68": {
+              "col": 11,
+              "row": 13,
+              "clue": "Hablas como un pollito",
+              "answer": "PIAS"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Vulgar, grosero",
+              "answer": "SOEZ"
+            },
+            "70": {
+              "col": 5,
+              "row": 14,
+              "clue": "El mismísimo diablo está mirándose al espejo",
+              "answer": "NATAS"
+            },
+            "71": {
+              "col": 11,
+              "row": 14,
+              "clue": "Compañía petrolera antes conocida como Standard Oil",
+              "answer": "ESSO"
+            }
+          }
+        },
+        "vertical_clues": "1-Nacida en un archipiélago español del océano Atlántico\r\n2-Una prenda para hombres y mujeres\r\n3-Estabilizador para cámaras de cine\r\n4-Haced sonidos como las ranas\r\n5-Universidad de Margarita (siglas)\r\n6-Vestida o desnuda, la de Goya\r\n7-La prota del videojuego 'Horizon Forbidden West' \r\n8-\"El… patrón\" Goya a la mejor peli en el 2021\r\n9-Cualquier producto intelectual\r\n10-Titanio\r\n11-Verdura conocida como malanga\r\n12-Cuando vienes al mundo\r\n13-El mandato de un príncipe que parece adicto\r\n14-Tener calma, controlar el ímpetu, encontrar…\r\n19-\"…Shock\" los mandos de la PlayStation 4\r\n25-Inés con la tablet es muy voluble\r\n26-Comprobar, verificar \r\n29-Dominio web para Reino Unido\r\n30-El padre de Egipto y Dánao\r\n31-Ando todo loco, qué mala vibra\r\n32-La última de la escala musical\r\n34-Marcháis en dirección contraria\r\n35-Camina por distracción\r\n37-Piedra con varios colores\r\n38-Fijé oficialmente el precio para una mercancía\r\n41-\"… Agassi\", exjugador de tenis estadounidense\r\n43-Pones la voz como la de Shakira \r\n45-Lo era Al Capone o don Vito Corleone\r\n47-Connatural de una persona\r\n49-Mezcla de tisana de las indias antillanas\r\n52-España: Cesto ordinario hecho de madera de castaño\r\n53-Engaño, falsedad, mentira\r\n54-La esposa favorita de Mahoma\r\n55-Haces emerger algo de la nada\r\n58-Aplique y extienda sobre la piel, el bronceador\r\n60-Territorio de una unidad geográfica, política y cultural\r\n62-Canal para tomar el agua y conducirla a donde es aprovechada\r\n64-Resonancia paramagnética electrónica\r\n67-Óscar Terol",
+        "horizontal_clues": "1-La especia que otorga al curry su color amarillo\r\n8-Mozo de equipaje\r\n15-Que se halla fuera de su estado natural\r\n16-Puesto en tal sitio\r\n17-\"… Bravo\" cantando 'Noelia'\r\n18-Molestar o fastidiar a alguien\r\n20-Acrónimo de Unidad de Cuidados Intensivos (pl)\r\n21-El más poblado de los continentes\r\n22-Abstente de comer y beber\r\n23-Moví la cunita del bebé, lo…\r\n24-Bajé los brazos, me di por vencida, me…\r\n26-Conjunto de gastos para la producción de bienes y servicios\r\n27-Son las 9:00 en Roma\r\n28-Cubierto de nubes grises, el desgraciado\r\n33-Par de ogros\r\n34-\"John …\" famoso explorador y aventurero británico en África\r\n36-Muñeco en valenciano\r\n39-Caminos por donde se transita\r\n40-Por estos lados no hay osmio\r\n42-Información basura (voz inglesa)\r\n44-Lo son Yuri Gagarin y Neil Armstrong\r\n46-Que ni vea la crema que me compré\r\n48-Palíndromo \"Ate la…\" \r\n50-Abreviatura de Génesis, primer libro del Antiguo Testamento\r\n51-Un dibujo que no es para nada figurativo\r\n56-Iniciales de científico británico que descubrió la penicilina\r\n57-Organización a cargo de los ODS\r\n59-El hogar de un gallego\r\n60-El sonido de la censura\r\n61-Lugar donde se colocan las lanzas\r\n63-Hombre de la sierra\r\n65-Princesa de la Colonia en la película \"Bichos\", de Disney\r\n66-Te saluda un hawaiano\r\n68-Hablas como un pollito\r\n69-Vulgar, grosero\r\n70-El mismísimo diablo está mirándose al espejo\r\n71-Compañía petrolera antes conocida como Standard Oil",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,8,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,#,18,#,19,#,#,#,20,#,#,#\r\n21,#,#,#,#,22,#,#,#,#,#,23,#,#,#\r\n24,#,#,#,25,#,#,#,#,#,26,#,#,#,#\r\n27,#,#,#,28,29,30,#,31,32,#,#,#,33,#\r\n#,#,34,35,#,#,#,#,36,#,#,37,38,#,#\r\n#,39,#,#,#,#,40,41,#,#,42,#,#,#,#\r\n43,#,44,#,#,#,#,#,#,#,#,#,#,#,45\r\n46,47,#,#,#,#,#,#,#,#,48,#,#,49,#\r\n50,#,#,51,#,52,53,#,54,55,#,#,#,56,#\r\n57,#,58,#,59,#,#,#,#,#,#,#,60,#,#\r\n61,#,#,62,#,#,#,#,63,#,#,64,#,#,#\r\n65,#,#,#,#,66,#,67,#,#,#,68,#,#,#\r\n69,#,#,#,#,70,#,#,#,#,#,71,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

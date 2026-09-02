@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5368,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-09T21:27:49.703318Z",
+      "updatedAt": "2026-04-09T21:30:36.988702Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MONACO#TRONARAS\r\nOLIVA#TRAB#LEGO\r\nSOPAS#HI#OPACAN\r\nTROTABAN#ERRATA\r\nR#NASALES#ODIAS\r\nAGAR#RISIBLE##E\r\nDU##EBA#CROATA#\r\nOAXACA###EGRESA\r\n#YODURO#AGO##MP\r\nM##AMOTINA#EBRO\r\nATOLE#INGRESO#D\r\nCAMINA#COACTIVO\r\nARIDOS#IL#HACES\r\nNOTE#MESA#ACOGI\r\nATESTADO#GRATAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Exhibido, presentado, enseñado",
+              "answer": "MOSTRADO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Hedor, fetidez",
+              "answer": "OLOR"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Natural del Japón (fem)",
+              "answer": "NIPONA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Encarnación terrestre de alguna deidad",
+              "answer": "AVATAR"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Bartolomé de las…\" protector universal de todos los indios (América)",
+              "answer": "CASAS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Cantes como un pájaro",
+              "answer": "TRINES"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Poco razonable",
+              "answer": "RA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Instrumento musical de viento que termina en forma de campana",
+              "answer": "OBOE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "No parar de mencionar algo de lo que se está muy orgulloso",
+              "answer": "ALARDEAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Reincidí, volví",
+              "answer": "RECAI"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cuarzo lapídeo",
+              "answer": "AGATA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Causase ruido",
+              "answer": "SONASE"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Cantante y actriz mexicana",
+              "answer": "THALIA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Texto preliminar de un libro, que sirve de introducción",
+              "answer": "PROLOGO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Individuo poco civilizado o cruel",
+              "answer": "BARBARO"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Lo escribió tal cual, como lo estás leyendo, no es mi error",
+              "answer": "SIC"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Equivalente español a chévere, chido, copado o bacán",
+              "answer": "GUAY"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Luchará con los riesgos y trabajos para superarlos",
+              "answer": "BREGARA"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Porción de la Tierra apta para la vida humana",
+              "answer": "ECUMENO"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Fenómeno sensorial relajante en videos de internet",
+              "answer": "ASMR"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Xavier Oriach",
+              "answer": "XO"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Antiguamente, caudillo militar (pl)",
+              "answer": "ADALIDES"
+            },
+            "39": {
+              "col": 14,
+              "row": 7,
+              "clue": "Parte de una oración condicional que expresa la consecuencia",
+              "answer": "APODOSIS"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Antiguo festival musical iberoamericano",
+              "answer": "OTI"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "País africano donde se originó la capoeira",
+              "answer": "ANGOLA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Garrote o palo utilizado como arma",
+              "answer": "MACANA"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Acotación, apunte",
+              "answer": "INCISO"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Arma caza vampiros",
+              "answer": "ESTACA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Sabotaje",
+              "answer": "BOICOT"
+            },
+            "50": {
+              "col": 1,
+              "row": 10,
+              "clue": "Cambio torta por 78 naipes mágicos",
+              "answer": "TAROT"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Pasa por alto algo",
+              "answer": "OMITE"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Hacer salir a alguien con violencia de algún lugar",
+              "answer": "ECHAR"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Enfermedad de los bronquios con sibilantes",
+              "answer": "ASMA"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"Antonio…\", cantautor de la exagrupación española \"Nacha Pop\"",
+              "answer": "VEGA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Émile Durkheim, el padre positivista de la sociología",
+              "answer": "ED"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "2º país más pequeño del mundo",
+              "answer": "MONACO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Retumbaras, hicieras mucho ruido",
+              "answer": "TRONARAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Aceite ideal para las ensaladas",
+              "answer": "OLIVA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Trabajo incompleto",
+              "answer": "TRAB"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Juega bien, con este juguete danés",
+              "answer": "LEGO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"… de letras\" pasatiempo originario de España (pl)",
+              "answer": "SOPAS"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Homofobia Interiorizada",
+              "answer": "HI"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Superan a alguien en alguna cualidad",
+              "answer": "OPACAN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Corrían despacio",
+              "answer": "TROTABAN"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "\"Fe de…\" lista de errores detectados en un libro",
+              "answer": "ERRATA"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Pertenecientes a la nariz",
+              "answer": "NASALES"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Detestas, desdeñas",
+              "answer": "ODIAS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Sustancia carragenina también llamada \"gelatina vegetal\" o \"gelatina japonesa\"",
+              "answer": "AGAR"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Que causa risa o es digno de ella",
+              "answer": "RISIBLE"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Al final del Didyeridú",
+              "answer": "DU"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Aprendiendo ebanistería",
+              "answer": "EBA"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Nacionalidad de Luka Modric",
+              "answer": "CROATA"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Ciudad natal de Benito Juárez, autor de la frase 'El respeto al derecho ajeno es la paz'",
+              "answer": "OAXACA"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Sale graduado de una institución",
+              "answer": "EGRESA"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Química: Sal resultante de la unión del yodo con un radical simple o compuesto",
+              "answer": "YODURO"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "3 de agosto",
+              "answer": "AGO"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Iniciales del escritor de \"El Padrino\"",
+              "answer": "MP"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Se alza en un motín, se…",
+              "answer": "AMOTINA"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Segundo río más largo de España",
+              "answer": "EBRO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cocción dulce de harina de maíz, espesa, caliente",
+              "answer": "ATOLE"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Llegó, entró la nómina",
+              "answer": "INGRESO"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Anda como caimán desorientado",
+              "answer": "CAMINA"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Que ejerce coacción o resulta de ella",
+              "answer": "COACTIVO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Terrenos infértiles",
+              "answer": "ARIDOS"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Finalizan en abril",
+              "answer": "IL"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Realizas",
+              "answer": "HACES"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "No te perdí de vista, te percibí",
+              "answer": "NOTE"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Mueble para jugar pimpón",
+              "answer": "MESA"
+            },
+            "64": {
+              "col": 10,
+              "row": 13,
+              "clue": "Recibí, albergué",
+              "answer": "ACOGI"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Saturado de gente o cosas hasta el límite",
+              "answer": "ATESTADO"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Agradables, mis ganas locas de gastar",
+              "answer": "GRATAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Exhibido, presentado, enseñado\r\n2-Hedor, fetidez\r\n3-Natural del Japón (fem)\r\n4-Encarnación terrestre de alguna deidad\r\n5-\"Bartolomé de las…\" protector universal de todos los indios (América)\r\n6-Cantes como un pájaro\r\n7-Poco razonable\r\n8-Instrumento musical de viento que termina en forma de campana\r\n9-No parar de mencionar algo de lo que se está muy orgulloso\r\n10-Reincidí, volví\r\n11-Cuarzo lapídeo\r\n12-Causase ruido\r\n14-Cantante y actriz mexicana\r\n19-Texto preliminar de un libro, que sirve de introducción\r\n21-Individuo poco civilizado o cruel \r\n24-Lo escribió tal cual, como lo estás leyendo, no es mi error\r\n27-Equivalente español a chévere, chido, copado o bacán\r\n29-Luchará con los riesgos y trabajos para superarlos\r\n31-Porción de la Tierra apta para la vida humana\r\n33-Teluro\r\n34-Fenómeno sensorial relajante en videos de internet\r\n36-Xavier Oriach\r\n37-Antiguamente, caudillo militar (pl)\r\n39-Parte de una oración condicional que expresa la consecuencia \r\n41-Antiguo festival musical iberoamericano\r\n42-País africano donde se originó la capoeira\r\n44-Garrote o palo utilizado como arma\r\n46-Acotación, apunte\r\n47-Arma caza vampiros\r\n48-Sabotaje\r\n50-Cambio torta por 78 naipes mágicos\r\n51-Pasa por alto algo\r\n53-Hacer salir a alguien con violencia de algún lugar\r\n55-Enfermedad de los bronquios con sibilantes\r\n57-\"Antonio…\", cantautor de la exagrupación española \"Nacha Pop\"\r\n63-Émile Durkheim, el padre positivista de la sociología",
+        "horizontal_clues": "1-2º país más pequeño del mundo\r\n6-Retumbaras, hicieras mucho ruido\r\n13-Aceite ideal para las ensaladas\r\n14-Trabajo incompleto\r\n15-Juega bien, con este juguete danés\r\n16-\"… de letras\" pasatiempo originario de España (pl)\r\n17-Homofobia Interiorizada\r\n18-Superan a alguien en alguna cualidad\r\n20-Corrían despacio\r\n22-\"Fe de…\" lista de errores detectados en un libro\r\n23-Pertenecientes a la nariz\r\n25-Detestas, desdeñas\r\n26-Sustancia carragenina también llamada \"gelatina vegetal\" o \"gelatina japonesa\"\r\n28-Que causa risa o es digno de ella\r\n30-Al final del Didyeridú\r\n31-Aprendiendo ebanistería\r\n32-Nacionalidad de Luka Modric\r\n35-Ciudad natal de Benito Juárez, autor de la frase 'El respeto al derecho ajeno es la paz'\r\n38-Sale graduado de una institución\r\n40-Química: Sal resultante de la unión del yodo con un radical simple o compuesto\r\n42-3 de agosto\r\n43-Iniciales del escritor de \"El Padrino\"\r\n45-Se alza en un motín, se…\r\n47-Segundo río más largo de España\r\n49-Cocción dulce de harina de maíz, espesa, caliente\r\n52-Llegó, entró la nómina\r\n54-Anda como caimán desorientado\r\n56-Que ejerce coacción o resulta de ella\r\n58-Terrenos infértiles\r\n59-Finalizan en abril\r\n60-Realizas\r\n61-No te perdí de vista, te percibí\r\n62-Mueble para jugar pimpón \r\n64-Recibí, albergué\r\n65-Saturado de gente o cosas hasta el límite\r\n66-Agradables, mis ganas locas de gastar",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,6,7,8,#,9,10,11,12\r\n13,#,#,#,#,#,14,#,#,#,#,15,#,#,#\r\n16,#,#,#,#,#,17,#,#,18,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,#,#,#,#\r\n#,#,23,#,#,#,#,#,24,#,25,#,#,#,#\r\n26,27,#,#,#,28,#,#,#,29,#,#,#,#,#\r\n30,#,#,#,31,#,#,#,32,#,#,#,33,34,#\r\n35,#,36,37,#,#,#,#,#,38,#,#,#,#,39\r\n#,40,#,#,#,#,41,#,42,#,#,#,#,43,#\r\n44,#,#,45,#,#,#,46,#,#,#,47,48,#,#\r\n49,50,51,#,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,56,#,#,#,#,#,57,#\r\n58,#,#,#,#,#,#,59,#,#,60,#,#,#,#\r\n61,#,#,#,#,62,63,#,#,#,64,#,#,#,#\r\n65,#,#,#,#,#,#,#,#,66,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

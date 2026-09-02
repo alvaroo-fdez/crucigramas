@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 862,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-09-04T20:27:34.386438Z",
+      "updatedAt": "2024-09-04T20:27:34.386454Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-09-05",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#OPACADA#TARAS#\r\nBLAS#COLD#KEBAB\r\nLITIGANTE#INSTO\r\nOVEROL#OS#ROTOS\r\nCAREL###CHAIR#C\r\nS####AMARA#RAPO\r\n#VEROSIMIL##IAS\r\nDISC#AMEBA#GAZA\r\nEIT##RELIGIOSO#\r\nFIAS#ITERAR###A\r\nI#DECAI###ECHAN\r\nCAIXA#SL#MILETO\r\nINSTE#MOROSIDAD\r\nTITAR#OCIA#CELO\r\n#SASAP#ATINARAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Aceite ideal para las ensaladas.",
+              "answer": "OLIVA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Sacerdote.",
+              "answer": "PATER"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sujetaré, alcanzaré.",
+              "answer": "ASIRE"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Canoa, embarcación de remo.",
+              "answer": "ACAL"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"... Gato y su pandilla\" de Hanna",
+              "answer": "DON"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "De gran estatura.",
+              "answer": "ALTO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"... Toriyama\" creador de Dragon Ball.",
+              "answer": "AKIRA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Pintor francés de \"Baile en el Moulin de la Galette\".",
+              "answer": "RENOIR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Te sumergías en tus pensamientos, te...",
+              "answer": "ABSTRAIAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Cuba. Perro o gato callejero de pequeño tamaño.",
+              "answer": "SATO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Conjunto de hojas para dibujar que se desprenden fácilmente.",
+              "answer": "BLOCS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Representar algo con palabras detalladamente.",
+              "answer": "DESCRIBIR"
+            },
+            "16": {
+              "col": 14,
+              "row": 1,
+              "clue": "Zona con muchos árboles, debemos cuidarlas.",
+              "answer": "BOSCOSA"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Unidad de puntaje del fútbol.",
+              "answer": "GOL"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Elogia con intención de agradar.",
+              "answer": "HALAGA"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Tostaría, doraría.",
+              "answer": "ASARIA"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Capacidad de algunos animales para camuflarse.",
+              "answer": "MIMETISMO"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Fabrique su miel, la abeja.",
+              "answer": "AMELE"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Tipo de casa solariega, señorial y de campo, tradicional en Galicia.",
+              "answer": "PAZO"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Siglo octavo.",
+              "answer": "VIII"
+            },
+            "32": {
+              "col": 2,
+              "row": 6,
+              "clue": "Líder político que gobierna con visión a largo plazo.",
+              "answer": "ESTADISTA"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Radiocontrol (siglas).",
+              "answer": "RC"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Falta o escasez de algo que se juzga necesario.",
+              "answer": "DEFICIT"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Juego de tablero chino, con alto nivel de estrategia.",
+              "answer": "GO"
+            },
+            "40": {
+              "col": 10,
+              "row": 8,
+              "clue": "Te dirigiréis a tal sitio.",
+              "answer": "IREIS"
+            },
+            "42": {
+              "col": 3,
+              "row": 9,
+              "clue": "Fracciones de un todo dividido en seis.",
+              "answer": "SEXTAS"
+            },
+            "44": {
+              "col": 14,
+              "row": 9,
+              "clue": "Electrodo positivo (pl).",
+              "answer": "ANODOS"
+            },
+            "46": {
+              "col": 4,
+              "row": 10,
+              "clue": "Dará al suelo.",
+              "answer": "CAERA"
+            },
+            "48": {
+              "col": 11,
+              "row": 10,
+              "clue": "Usa el botón del ratón, pincha.",
+              "answer": "CLICA"
+            },
+            "49": {
+              "col": 12,
+              "row": 10,
+              "clue": "Apestar, oler realmente mal.",
+              "answer": "HEDER"
+            },
+            "50": {
+              "col": 13,
+              "row": 10,
+              "clue": "Prepárala para una sesión de shibari.",
+              "answer": "ATALA"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "Alanis bebiendo cazalla.",
+              "answer": "ANIS"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Chiflada.",
+              "answer": "LOCA"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Estatua de piedra monolítica propia de la Isla de Pascua.",
+              "answer": "MOAI"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "El ritual aún no termina.",
+              "answer": "RIT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Ensombrecida por el brillo de otra.",
+              "answer": "OPACADA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Defectos físicos hereditarios.",
+              "answer": "TARAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"... Otero\" poeta social de los 50, autor de 'Ancia'.",
+              "answer": "BLAS"
+            },
+            "13": {
+              "col": 5,
+              "row": 1,
+              "clue": "Es muy frío el inglés.",
+              "answer": "COLD"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"Doner...\" pinchos del Medio Oriente cocinados en un asador giratorio vertical.",
+              "answer": "KEBAB"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Persona involucrada en disputas legales.",
+              "answer": "LITIGANTE"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Pido, solicito.",
+              "answer": "INSTO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Prenda de vestir.",
+              "answer": "OVEROL"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Símbolo químico del osmio.",
+              "answer": "OS"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Estamos quebrados por el conflicto de otros.",
+              "answer": "ROTOS"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Borde del barco donde se fijan los remos.",
+              "answer": "CAREL"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "La silla del inglés.",
+              "answer": "CHAIR"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Apreciará, estimará profundamente.",
+              "answer": "AMARA"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Paro de mala gana y me afeito.",
+              "answer": "RAPO"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Creíble, parece verdadero.",
+              "answer": "VEROSIMIL"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "Vías sin entrada.",
+              "answer": "IAS"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "El 'compact...' lo tiene el '... jockey'.",
+              "answer": "DISC"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Parásito de la amebiasis.",
+              "answer": "AMEBA"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "La franja palestina.",
+              "answer": "GAZA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Siglas del European Institute of Innovation & Technology.",
+              "answer": "EIT"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Devoto de una fe o creencia espiritual.",
+              "answer": "RELIGIOSO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "No te da buena espina, no te...",
+              "answer": "FIAS"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "Repetir.",
+              "answer": "ITERAR"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Fui a menos, mengüé, descendí.",
+              "answer": "DECAI"
+            },
+            "47": {
+              "col": 10,
+              "row": 10,
+              "clue": "Hacen todo mal y por eso los despiden del trabajo.",
+              "answer": "ECHAN"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"La...\" fundación bancaria española.",
+              "answer": "CAIXA"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Iniciales del creador de Marvel Studios.",
+              "answer": "SL"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"Tales de...\" filósofo griego.",
+              "answer": "MILETO"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lo sentí cambiado por eso hice la petición.",
+              "answer": "INSTE"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "Retraso en el pago de una deuda.",
+              "answer": "MOROSIDAD"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Pavo: Graznar para llamar a la manada.",
+              "answer": "TITAR"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "Entrégate al ocio.",
+              "answer": "OCIA"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Cuidado que alguien pone al hacer algo.",
+              "answer": "CELO"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Lo atraviesas de derecha a izquierda.",
+              "answer": "SASAP"
+            },
+            "63": {
+              "col": 7,
+              "row": 14,
+              "clue": "Acertarás.",
+              "answer": "ATINARAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Aceite ideal para las ensaladas.\r\n2-Sacerdote.\r\n3-Sujetaré, alcanzaré.\r\n4-Canoa, embarcación de remo.\r\n5-\"... Gato y su pandilla\" de Hanna-Barbera desde 1960.\r\n6-De gran estatura.\r\n8-\"... Toriyama\" creador de Dragon Ball.\r\n9-Pintor francés de \"Baile en el Moulin de la Galette\".\r\n10-Te sumergías en tus pensamientos, te...\r\n11-Cuba. Perro o gato callejero de pequeño tamaño.\r\n12-Conjunto de hojas para dibujar que se desprenden fácilmente.\r\n14-Representar algo con palabras detalladamente. \r\n16-Zona con muchos árboles, debemos cuidarlas.\r\n18-Unidad de puntaje del fútbol.\r\n25-Elogia con intención de agradar. \r\n26-Tostaría, doraría.\r\n27-Capacidad de algunos animales para camuflarse. \r\n28-Fabrique su miel, la abeja.\r\n30-Tipo de casa solariega, señorial y de campo, tradicional en Galicia.\r\n31-Siglo octavo.\r\n32-Líder político que gobierna con visión a largo plazo. \r\n33-Radiocontrol (siglas).\r\n35-Falta o escasez de algo que se juzga necesario.\r\n37-Juego de tablero chino, con alto nivel de estrategia.\r\n40-Te dirigiréis a tal sitio.\r\n42-Fracciones de un todo dividido en seis. \r\n44-Electrodo positivo (pl).\r\n46-Dará al suelo.\r\n48-Usa el botón del ratón, pincha.\r\n49-Apestar, oler realmente mal.\r\n50-Prepárala para una sesión de shibari.\r\n52-Alanis bebiendo cazalla.\r\n54-Chiflada.\r\n55-Estatua de piedra monolítica propia de la Isla de Pascua.\r\n58-El ritual aún no termina.",
+        "horizontal_clues": "1-Ensombrecida por el brillo de otra.\r\n7-Defectos físicos hereditarios.\r\n12-\"... Otero\" poeta social de los 50, autor de 'Ancia'.\r\n13-Es muy frío el inglés.\r\n15-\"Doner...\" pinchos del Medio Oriente cocinados en un asador giratorio vertical.\r\n17-Persona involucrada en disputas legales. \r\n19-Pido, solicito.\r\n20-Prenda de vestir.\r\n21-Símbolo químico del osmio.\r\n22-Estamos quebrados por el conflicto de otros.\r\n23-Borde del barco donde se fijan los remos.\r\n24-La silla del inglés.\r\n26-Apreciará, estimará profundamente.\r\n29-Paro de mala gana y me afeito.\r\n31-Creíble, parece verdadero.\r\n34-Vías sin entrada.\r\n35-El 'compact...' lo tiene el '... jockey'.\r\n36-Parásito de la amebiasis.\r\n37-La franja palestina.\r\n38-Siglas del European Institute of Innovation & Technology.\r\n39-Devoto de una fe o creencia espiritual. \r\n41-No te da buena espina, no te...\r\n43-Repetir.\r\n45-Fui a menos, mengüé, descendí.\r\n47-Hacen todo mal y por eso los despiden del trabajo.\r\n51-\"La...\" fundación bancaria española.\r\n53-Iniciales del creador de Marvel Studios.\r\n55-\"Tales de...\" filósofo griego.\r\n56-Lo sentí cambiado por eso hice la petición.\r\n57-Retraso en el pago de una deuda. \r\n59-Pavo: Graznar para llamar a la manada. \r\n60-Entrégate al ocio.\r\n61-Cuidado que alguien pone al hacer algo.\r\n62-Lo atraviesas de derecha a izquierda. \r\n63-Acertarás.",
+        "board_clues_positions": "#,1,2,3,#,4,5,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,13,#,#,14,#,15,#,#,#,16\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,#,#,21,#,#,22,#,#,#,#\r\n23,#,#,#,#,#,#,#,24,25,#,#,#,#,#\r\n#,#,#,#,#,26,27,28,#,#,#,29,#,30,#\r\n#,31,32,33,#,#,#,#,#,#,#,#,34,#,#\r\n35,#,#,#,#,36,#,#,#,#,#,37,#,#,#\r\n38,#,#,#,#,39,#,#,#,#,40,#,#,#,#\r\n41,#,#,42,#,43,#,#,#,#,#,#,#,#,44\r\n#,#,45,#,46,#,#,#,#,#,47,48,49,50,#\r\n51,52,#,#,#,#,53,54,#,55,#,#,#,#,#\r\n56,#,#,#,#,#,57,#,58,#,#,#,#,#,#\r\n59,#,#,#,#,#,60,#,#,#,#,61,#,#,#\r\n#,62,#,#,#,#,#,63,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

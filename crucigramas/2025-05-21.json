@@ -1,0 +1,510 @@
+{
+  "data": {
+    "id": 2294,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-04-29T16:33:46.654665Z",
+      "updatedAt": "2025-05-21T07:35:14.274724Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-05-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "LANC#ROCA#PAPAN\r\nEQUIVOCAR#OBITO\r\nGUMP#LILI#SUPER\r\nII#RELEASE#SOMI\r\nB#SEDO##TUBA#O#\r\nLOTSO#PLAGAD#RP\r\nERA##C#ASESORIA\r\n#INDRA#N#NARIZ#\r\nPEDRISCO#E##NAC\r\nNN#AFTOSA#MADRE\r\n#T#PELA##POTE#R\r\nMAME#ERITREA#IC\r\nODIAS#TRIA#BABA\r\nHONDA#AMANSARAN\r\nORION#DASA#LUNA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Buena letra",
+              "answer": "LEGIBLE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "En este lugar",
+              "answer": "AQUI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Acortamiento de número",
+              "answer": "NUM"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Árbol que acompaña el descanso eterno",
+              "answer": "CIPRES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Se vela, si abres la cámara analógica",
+              "answer": "ROLLO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Descanse, disfrute de no hacer nada",
+              "answer": "OCIE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Flor blanca",
+              "answer": "CALA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Líneas que unen los vértices consecutivos de los polígonos",
+              "answer": "ARISTAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Prefijo para 'después de'",
+              "answer": "POS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Explotador de una persona mediante su poder",
+              "answer": "ABUSADOR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Fumo en pipa",
+              "answer": "PIPO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Asustar a un niño con una historia de fogata",
+              "answer": "ATEMORIZAR"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Alga para el sushi",
+              "answer": "NORI"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Alfredo en Oviedo",
+              "answer": "EDO"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "\"… McCarthy\" el gran opositor de la guerra de Vietnam",
+              "answer": "EUGENE"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Instalación de feria, para venta de productos",
+              "answer": "STAND"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Arquitectura Asiento sobre el que se pone la columna o la estatua",
+              "answer": "BASA"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Guía, consejero",
+              "answer": "ORIENTADOR"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Nombre del Castillo de Ocio en la frontera de Navarra, España",
+              "answer": "LANOS"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Símbolo químico del Protactinio",
+              "answer": "PA"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Un castillo inglés",
+              "answer": "CASTLE"
+            },
+            "36": {
+              "col": 12,
+              "row": 6,
+              "clue": "Se da por vencido, se…",
+              "answer": "RINDE"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "Manipulación de la tela en la ropa de un maniquí",
+              "answer": "DRAPEADO"
+            },
+            "39": {
+              "col": 4,
+              "row": 7,
+              "clue": "Sortee",
+              "answer": "RIFE"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Iniciales del poeta chileno, Nobel de Literatura 1971",
+              "answer": "PN"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Restringid, limitad",
+              "answer": "COARTAD"
+            },
+            "44": {
+              "col": 14,
+              "row": 8,
+              "clue": "Próxima",
+              "answer": "CERCANA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Uno de Los tres chiflados",
+              "answer": "MOE"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Tambor pequeño o tamboril que suele tocarse en fiestas públicas",
+              "answer": "ATABAL"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Hinduismo Energía vital que conecta todo lo que hay en el universo",
+              "answer": "PRANA"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "A este hongo le encanta la humedad",
+              "answer": "MOHO"
+            },
+            "52": {
+              "col": 2,
+              "row": 11,
+              "clue": "La falda de Mary Quant",
+              "answer": "MINI"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Huracán que arrasó el Caribe en 2017",
+              "answer": "IRMA"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Las hermanas de mamá",
+              "answer": "TIAS"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Se dirigían",
+              "answer": "IBAN"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "\"… Pedro\" el portador de las llaves",
+              "answer": "SAN"
+            },
+            "61": {
+              "col": 12,
+              "row": 12,
+              "clue": "Grupo de 95 islas Indonesia",
+              "answer": "ARU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Grupo unido por fuertes vínculos (desord)",
+              "answer": "LANC"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"La…\" el apodo de Dwayne Johnson",
+              "answer": "ROCA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Comen cosas blandas sin mascar, como el puré",
+              "answer": "PAPAN"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Herrar… ups, errar*",
+              "answer": "EQUIVOCAR"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Fallecimiento de una persona",
+              "answer": "OBITO"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"Forrest…\" peli con Tom Hanks",
+              "answer": "GUMP"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Diminutivo de Liliana",
+              "answer": "LILI"
+            },
+            "18": {
+              "col": 10,
+              "row": 2,
+              "clue": "Prefijo heroico",
+              "answer": "SUPER"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pause",
+              "answer": "II"
+            },
+            "20": {
+              "col": 3,
+              "row": 3,
+              "clue": "Vuélvase a leer algo",
+              "answer": "RELEASE"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Somieres rotos",
+              "answer": "SOMI"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Anestesio, narcotizo",
+              "answer": "SEDO"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "El más grande de todos los instrumentos musicales de viento",
+              "answer": "TUBA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "El Oso malo de Toy Story 3",
+              "answer": "LOTSO"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Llenad, cubrid, cargad, invadid",
+              "answer": "PLAGAD"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Iniciales de Residente, vocalista de Calle 13",
+              "answer": "RP"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Ya no es ese tiempo histórico",
+              "answer": "ERA"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "Recibió consejos de un profesional, tuvo una…",
+              "answer": "ASESORIA"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Dios principal de la cultura védica (previa al hinduismo) en la India",
+              "answer": "INDRA"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Facción saliente del rostro humano",
+              "answer": "NARIZ"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Granizo muy grueso que cae con violencia",
+              "answer": "PEDRISCO"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "El reflejo del perro",
+              "answer": "NAC"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Consonante repetida",
+              "answer": "NN"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Med Que padece úlceras blanquecinas en la boca",
+              "answer": "AFTOSA"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Tipo de células, progenitoras de otras",
+              "answer": "MADRE"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Quita la cáscara a la naranja",
+              "answer": "PELA"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Opté por el peto que está en el tope, dentro del recipiente",
+              "answer": "POTE"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Chupe la leche de los pechos",
+              "answer": "MAME"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Se independizó de Etiopía en 1993 y su capital es Asmara",
+              "answer": "ERITREA"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "En pleno inicio",
+              "answer": "IC"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Detestas, desdeñas",
+              "answer": "ODIAS"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Escoge, separa, entresaca",
+              "answer": "TRIA"
+            },
+            "60": {
+              "col": 11,
+              "row": 12,
+              "clue": "Se me cae la saliva por Alí",
+              "answer": "BABA"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Marca de coches que no vienen con una tira para lanzar piedras",
+              "answer": "HONDA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Calmarán a las bestias",
+              "answer": "AMANSARAN"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Él lleva un cinturón de estrellas",
+              "answer": "ORION"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Asad mal para la antigua tribu india",
+              "answer": "DASA"
+            },
+            "66": {
+              "col": 11,
+              "row": 14,
+              "clue": "Único satélite natural de la Tierra",
+              "answer": "LUNA"
+            }
+          }
+        },
+        "vertical_clues": "1-Buena letra\r\n2-En este lugar\r\n3-Acortamiento de número\r\n4-Árbol que acompaña el descanso eterno\r\n5-Se vela, si abres la cámara analógica\r\n6-Descanse, disfrute de no hacer nada\r\n7-Flor blanca\r\n8-Líneas que unen los vértices consecutivos de los polígonos\r\n9-Prefijo para 'después de'\r\n10-Explotador de una persona mediante su poder\r\n11-Fumo en pipa\r\n12-Asustar a un niño con una historia de fogata\r\n13-Alga para el sushi\r\n21-Alfredo en Oviedo\r\n22-\"… McCarthy\" el gran opositor de la guerra de Vietnam \r\n24-Instalación de feria, para venta de productos\r\n26-Arquitectura Asiento sobre el que se pone la columna o la estatua\r\n28-Guía, consejero\r\n30-Nombre del Castillo de Ocio en la frontera de Navarra, España\r\n32-Símbolo químico del Protactinio\r\n34-Un castillo inglés\r\n36-Se da por vencido, se…\r\n38-Manipulación de la tela en la ropa de un maniquí\r\n39-Sortee\r\n41-Iniciales del poeta chileno, Nobel de Literatura 1971\r\n42-Restringid, limitad\r\n44-Próxima\r\n47-Uno de Los tres chiflados\r\n48-Tambor pequeño o tamboril que suele tocarse en fiestas públicas\r\n50-Hinduismo Energía vital que conecta todo lo que hay en el universo\r\n51-A este hongo le encanta la humedad\r\n52-La falda de Mary Quant\r\n54-Huracán que arrasó el Caribe en 2017\r\n55-Las hermanas de mamá\r\n56-Se dirigían\r\n58-\"… Pedro\" el portador de las llaves\r\n61-Grupo de 95 islas Indonesia",
+        "horizontal_clues": "1-Grupo unido por fuertes vínculos (desord)\r\n5-\"La…\" el apodo de Dwayne Johnson\r\n9-Comen cosas blandas sin mascar, como el puré\r\n14-Herrar… ups, errar*\r\n15-Fallecimiento de una persona\r\n16-\"Forrest…\" peli con Tom Hanks\r\n17-Diminutivo de Liliana\r\n18-Prefijo heroico\r\n19-Pause\r\n20-Vuélvase a leer algo\r\n23-Somieres rotos\r\n24-Anestesio, narcotizo\r\n25-El más grande de todos los instrumentos musicales de viento\r\n27-El Oso malo de Toy Story 3\r\n29-Llenad, cubrid, cargad, invadid\r\n31-Iniciales de Residente, vocalista de Calle 13\r\n33-Ya no es ese tiempo histórico\r\n35-Recibió consejos de un profesional, tuvo una…\r\n37-Dios principal de la cultura védica (previa al hinduismo) en la India\r\n40-Facción saliente del rostro humano\r\n41-Granizo muy grueso que cae con violencia\r\n43-El reflejo del perro\r\n45-Consonante repetida\r\n46-Med Que padece úlceras blanquecinas en la boca\r\n47-Tipo de células, progenitoras de otras\r\n49-Quita la cáscara a la naranja\r\n50-Opté por el peto que está en el tope, dentro del recipiente\r\n51-Chupe la leche de los pechos\r\n53-Se independizó de Etiopía en 1993 y su capital es Asmara\r\n56-En pleno inicio\r\n57-Detestas, desdeñas\r\n59-Escoge, separa, entresaca\r\n60-Se me cae la saliva por Alí\r\n62-Marca de coches que no vienen con una tira para lanzar piedras\r\n63-Calmarán a las bestias\r\n64-Él lleva un cinturón de estrellas\r\n65-Asad mal para la antigua tribu india\r\n66-Único satélite natural de la Tierra",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,#,#,15,#,#,#,#\r\n16,#,#,#,#,17,#,#,#,#,18,#,#,#,#\r\n19,#,#,20,21,#,#,#,#,22,#,23,#,#,#\r\n#,#,24,#,#,#,#,#,25,#,26,#,#,#,#\r\n27,28,#,#,#,#,29,30,#,#,#,#,#,31,32\r\n33,#,#,#,#,34,#,35,#,#,#,#,36,#,#\r\n#,37,#,38,39,#,#,#,#,40,#,#,#,#,#\r\n41,#,#,#,#,#,42,#,#,#,#,#,43,#,44\r\n45,#,#,46,#,#,#,#,#,#,47,48,#,#,#\r\n#,#,#,49,#,#,#,#,#,50,#,#,#,#,#\r\n51,#,52,#,#,53,#,54,55,#,#,#,#,56,#\r\n57,#,#,#,58,#,59,#,#,#,#,60,61,#,#\r\n62,#,#,#,#,#,63,#,#,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,66,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

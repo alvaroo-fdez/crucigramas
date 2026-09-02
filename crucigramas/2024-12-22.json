@@ -1,0 +1,633 @@
+{
+  "data": {
+    "id": 1470,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja ft. Elro",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-12-19T10:44:25.081153Z",
+      "updatedAt": "2024-12-19T16:40:46.316640Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja ft. Elro",
+      "theme": "En el saco de Papá Noel",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-12-22",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": "data:image/png;name=crucigrama-xmasV2%402x.png;base64,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"
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "A#A#SITUARA#S#P\r\nLIBRADO#PALPITA\r\nPROVEER#RIFADAS\r\nOIC#VENTILA#ECO\r\n#SE###ELE###CA#\r\nSATRAPA#TERRAZA\r\nASEAD#DEA#EUROS\r\nLE#BOLOGNESA#ST\r\nI#PARI#O#NERA#R\r\nVILLANO#OSTENTO\r\nA#E##OR#IU##A#S\r\n#PAPELDEREGALO#\r\nRUMOREE#AÑADIDA\r\nORACION#SOBACOS\r\nSARAOS###SONETO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Gigante siciliano que fue derrotado por Dionisio",
+              "answer": "ALPO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Bosquejé, esbocé",
+              "answer": "ABOCETE"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Mires para arriba",
+              "answer": "SAEV"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "¡Edie, se me ocurrió algo!",
+              "answer": "IDEE"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Moldeado en forma circular",
+              "answer": "TORNEADO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Comprimen con fuerza",
+              "answer": "APRIETAN"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Carril de las vías férreas",
+              "answer": "RAIL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "El… y la omega, el principio y el fin",
+              "answer": "ALFA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "El asiento de Robin en la moto de Batman",
+              "answer": "SIDECAR"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "\"… de cebra\" para peatones",
+              "answer": "PASO"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Presentase colores como el arcoíris",
+              "answer": "IRISASE"
+            },
+            "13": {
+              "col": 3,
+              "row": 1,
+              "clue": "En cuadros de Remedios Varo",
+              "answer": "RV"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Pata fracturada",
+              "answer": "PA"
+            },
+            "16": {
+              "col": 13,
+              "row": 1,
+              "clue": "Golpes fuertes con el taco de billar",
+              "answer": "TACAZOS"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Dígrafo que usan los atletas",
+              "answer": "TL"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo laváis y lo cambiáis por tanta baba",
+              "answer": "SALIVA"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)",
+              "answer": "RABAL"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Rinde culto a un ser divino",
+              "answer": "ADORA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Reinicio de un sistema electrónico",
+              "answer": "RESET"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Caminaré las calles",
+              "answer": "RUARE"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Cuerpos celestes",
+              "answer": "ASTROS"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "Exceso de autoestima",
+              "answer": "EGO"
+            },
+            "39": {
+              "col": 5,
+              "row": 7,
+              "clue": "Cubiertas para el suelo",
+              "answer": "LINOLEOS"
+            },
+            "40": {
+              "col": 9,
+              "row": 7,
+              "clue": "Fantasías durante el sueño",
+              "answer": "ENSUEÑOS"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Nivel máximo de la marea",
+              "answer": "PLEAMAR"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Estudié bien el asunto, lo…",
+              "answer": "ANALICE"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Lo que grita el juez",
+              "answer": "ORDEN"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Escucharás",
+              "answer": "OIRAS"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Libre y exenta de toda maldad",
+              "answer": "PURA"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "La cantidad de paciencia de los intolerantes",
+              "answer": "POCA"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "El misterio de Valerio lo escucharé al revés",
+              "answer": "ERIO"
+            },
+            "53": {
+              "col": 10,
+              "row": 11,
+              "clue": "Con cariño a García Márquez",
+              "answer": "GABO"
+            },
+            "54": {
+              "col": 11,
+              "row": 11,
+              "clue": "Este chico anda en la nada",
+              "answer": "ADAN"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Todo está patas arriba",
+              "answer": "ODOT"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Chacó pequeño, más alto por delante que por detrás",
+              "answer": "ROS"
+            },
+            "58": {
+              "col": 14,
+              "row": 12,
+              "clue": "Me muero de calor, me…",
+              "answer": "ASO"
+            }
+          },
+          "across": {
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Se ubicará, de cualquier modo, en Austria",
+              "answer": "SITUARA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Se ha salvado con la nueva edición·",
+              "answer": "LIBRADO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Late porque tiene una de buen jamón·",
+              "answer": "PALPITA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Suministrar lo necesario",
+              "answer": "PROVEER"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Sorteadas",
+              "answer": "RIFADAS"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Retrocedo si lo devuelvo",
+              "answer": "OIC"
+            },
+            "20": {
+              "col": 4,
+              "row": 3,
+              "clue": "Renueva con aire aromático·",
+              "answer": "VENTILA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Los principios ecológicos siempre resuenan",
+              "answer": "ECO"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Sepan que no hay pan",
+              "answer": "SE"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "¡Dame la L!",
+              "answer": "ELE"
+            },
+            "25": {
+              "col": 12,
+              "row": 4,
+              "clue": "Un entrante de cabernet",
+              "answer": "CA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "El tirano está de masajes y saunas·",
+              "answer": "SATRAPA"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "¿En el balcón para un chocolate caliente?·",
+              "answer": "TERRAZA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Limpiad, decorad",
+              "answer": "ASEAD"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Agencia temida por los narcos",
+              "answer": "DEA"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "El suero mejorado se paga en €€",
+              "answer": "EUROS"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"… Corbusier\" padre de la arquitectura moderna",
+              "answer": "LE"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "La salsa para la pasta ¡A la cartera!·",
+              "answer": "BOLOGNESA"
+            },
+            "41": {
+              "col": 13,
+              "row": 7,
+              "clue": "En los autógrafos de Sharon Tate",
+              "answer": "ST"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Y me hice madre",
+              "answer": "PARI"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "\"Fumata…\" columna de humo cuando no Habemus Papam (voz de Italia)",
+              "answer": "NERA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "El canalla lleva la botella·",
+              "answer": "VILLANO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Alardeo con mi peluchito·",
+              "answer": "OSTENTO"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Terminamos mi amor",
+              "answer": "OR"
+            },
+            "49": {
+              "col": 8,
+              "row": 10,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "50": {
+              "col": 1,
+              "row": 11,
+              "clue": "Cubierta colorida bajo el árbol… O lo que son los envoltorios azules en la grilla (3p)·",
+              "answer": "PAPELDEREGALO"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Difunda una noticia incierta",
+              "answer": "RUMOREE"
+            },
+            "57": {
+              "col": 8,
+              "row": 12,
+              "clue": "Incorporada al conjunto",
+              "answer": "AÑADIDA"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Sujeto, verbo y predicado",
+              "answer": "ORACION"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Les pones desodorante",
+              "answer": "SOBACOS"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Distinguida reunión nocturna con música y baile (pl)",
+              "answer": "SARAOS"
+            },
+            "62": {
+              "col": 9,
+              "row": 14,
+              "clue": "Poema que consta de catorce versos endecasílabos y rima consonante",
+              "answer": "SONETO"
+            }
+          }
+        },
+        "vertical_clues": "1-Gigante siciliano que fue derrotado por Dionisio\r\n2-Bosquejé, esbocé\r\n3-Mires para arriba\r\n4-¡Edie, se me ocurrió algo! \r\n5-Moldeado en forma circular \r\n6-Comprimen con fuerza \r\n7-Carril de las vías férreas\r\n8-El… y la omega, el principio y el fin\r\n9-El asiento de Robin en la moto de Batman\r\n10-\"… de cebra\" para peatones\r\n12-Presentase colores como el arcoíris\r\n13-En cuadros de Remedios Varo\r\n15-Pata fracturada\r\n16-Golpes fuertes con el taco de billar \r\n21-Dígrafo que usan los atletas\r\n26-Lo laváis y lo cambiáis por tanta baba\r\n27-\"Paco…\" protagonista en la peli 'Goya en Burdeos' (1999)\r\n28-Rinde culto a un ser divino\r\n30-Reinicio de un sistema electrónico \r\n31-Caminaré las calles\r\n32-Cuerpos celestes\r\n35-Exceso de autoestima\r\n39-Cubiertas para el suelo \r\n40-Fantasías durante el sueño \r\n42-Nivel máximo de la marea\r\n44-Estudié bien el asunto, lo…\r\n46-Lo que grita el juez\r\n47-Escucharás\r\n50-Libre y exenta de toda maldad\r\n51-La cantidad de paciencia de los intolerantes\r\n52-El misterio de Valerio lo escucharé al revés\r\n53-Con cariño a García Márquez\r\n54-Este chico anda en la nada\r\n55-Todo está patas arriba\r\n56-Chacó pequeño, más alto por delante que por detrás\r\n58-Me muero de calor, me…",
+        "horizontal_clues": "3-Se ubicará, de cualquier modo, en Austria\r\n11-Se ha salvado con la nueva edición·\r\n14-Late porque tiene una de buen jamón· \r\n17-Suministrar lo necesario \r\n18-Sorteadas\r\n19-Retrocedo si lo devuelvo\r\n20-Renueva con aire aromático·\r\n22-Los principios ecológicos siempre resuenan\r\n23-Sepan que no hay pan\r\n24-¡Dame la L! \r\n25-Un entrante de cabernet\r\n26-El tirano está de masajes y saunas·\r\n29-¿En el balcón para un chocolate caliente?·\r\n33-Limpiad, decorad\r\n34-Agencia temida por los narcos\r\n36-El suero mejorado se paga en €€\r\n37-\"… Corbusier\" padre de la arquitectura moderna\r\n38-La salsa para la pasta ¡A la cartera!·\r\n41-En los autógrafos de Sharon Tate\r\n42-Y me hice madre\r\n43-\"Fumata…\" columna de humo cuando no Habemus Papam (voz de Italia)\r\n45-El canalla lleva la botella·\r\n47-Alardeo con mi peluchito·\r\n48-Terminamos mi amor\r\n49-Las vocales débiles\r\n50-Cubierta colorida bajo el árbol… O lo que son los envoltorios azules en la grilla (3p)·\r\n56-Difunda una noticia incierta\r\n57-Incorporada al conjunto\r\n59-Sujeto, verbo y predicado\r\n60-Les pones desodorante\r\n61-Distinguida reunión nocturna con música y baile (pl)\r\n62-Poema que consta de catorce versos endecasílabos y rima consonante",
+        "highlighted_cells": [
+          {
+            "col": "2",
+            "row": "2"
+          },
+          {
+            "col": "1",
+            "row": "2"
+          },
+          {
+            "col": "3",
+            "row": "2"
+          },
+          {
+            "col": "4",
+            "row": "2"
+          },
+          {
+            "col": "7",
+            "row": "2"
+          },
+          {
+            "col": "9",
+            "row": "2"
+          },
+          {
+            "col": "10",
+            "row": "2"
+          },
+          {
+            "col": "14",
+            "row": "2"
+          },
+          {
+            "col": "15",
+            "row": "2"
+          },
+          {
+            "col": "1",
+            "row": "6"
+          },
+          {
+            "col": "6",
+            "row": "6"
+          },
+          {
+            "col": "7",
+            "row": "6"
+          },
+          {
+            "col": "9",
+            "row": "6"
+          },
+          {
+            "col": "13",
+            "row": "6"
+          },
+          {
+            "col": "14",
+            "row": "6"
+          },
+          {
+            "col": "15",
+            "row": "6"
+          },
+          {
+            "col": "4",
+            "row": "8"
+          },
+          {
+            "col": "5",
+            "row": "8"
+          },
+          {
+            "col": "6",
+            "row": "8"
+          },
+          {
+            "col": "11",
+            "row": "8"
+          },
+          {
+            "col": "12",
+            "row": "8"
+          },
+          {
+            "col": "1",
+            "row": "10"
+          },
+          {
+            "col": "2",
+            "row": "10"
+          },
+          {
+            "col": "7",
+            "row": "10"
+          },
+          {
+            "col": "6",
+            "row": "10"
+          },
+          {
+            "col": "9",
+            "row": "10"
+          },
+          {
+            "col": "10",
+            "row": "10"
+          },
+          {
+            "col": "15",
+            "row": "10"
+          },
+          {
+            "col": "2",
+            "row": "12"
+          },
+          {
+            "col": "3",
+            "row": "12"
+          },
+          {
+            "col": "4",
+            "row": "12"
+          },
+          {
+            "col": "5",
+            "row": "12"
+          },
+          {
+            "col": "6",
+            "row": "12"
+          },
+          {
+            "col": "7",
+            "row": "12"
+          },
+          {
+            "col": "8",
+            "row": "12"
+          },
+          {
+            "col": "10",
+            "row": "12"
+          },
+          {
+            "col": "9",
+            "row": "12"
+          },
+          {
+            "col": "11",
+            "row": "12"
+          },
+          {
+            "col": "12",
+            "row": "12"
+          },
+          {
+            "col": "14",
+            "row": "12"
+          },
+          {
+            "col": "13",
+            "row": "12"
+          }
+        ],
+        "board_clues_positions": "1,#,2,#,3,4,5,#,6,7,8,#,9,#,10\r\n11,12,#,13,#,#,#,#,14,#,#,15,#,16,#\r\n17,#,#,#,#,#,#,#,18,#,#,#,#,#,#\r\n19,#,#,#,20,#,#,21,#,#,#,#,22,#,#\r\n#,23,#,#,#,#,24,#,#,#,#,#,25,#,#\r\n26,#,#,27,28,#,#,#,29,#,30,31,#,#,32\r\n33,#,#,#,#,#,34,35,#,#,36,#,#,#,#\r\n37,#,#,38,#,39,#,#,#,40,#,#,#,41,#\r\n#,#,42,#,#,#,#,#,#,43,#,#,44,#,#\r\n45,#,#,#,#,#,46,#,47,#,#,#,#,#,#\r\n#,#,#,#,#,48,#,#,49,#,#,#,#,#,#\r\n#,50,#,51,52,#,#,#,#,#,53,54,#,55,#\r\n56,#,#,#,#,#,#,#,57,#,#,#,#,#,58\r\n59,#,#,#,#,#,#,#,60,#,#,#,#,#,#\r\n61,#,#,#,#,#,#,#,#,62,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 730,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-17T15:44:22.722383Z",
+      "updatedAt": "2024-08-17T15:44:22.722415Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-18",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "COCTAIL#ABUSADO\r\nUH#HIPERBOLE#JB\r\nR#PERSE#ETICA#J\r\nAFRO#URICO#ONCE\r\nROO##MATES##DAT\r\nALLAM##Z##OJERA\r\nNIEGA#TAE#POLAR\r\n#C#URJA#CHIN#V#\r\nBUYER#ONO#NABAB\r\nALISO##I##OSUNA\r\nTAH##SACAD##BAR\r\nIRAK#APOLO#COSA\r\nD#DUQUE#OREEN#N\r\nOM#NARANJADO#LD\r\nREGALAR#ENESIMA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sanarán a los enfermos.",
+              "answer": "CURARAN"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Voz de asombro.",
+              "answer": "OH"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"... Van Gogh\" cineasta neerlandés asesinado por extremistas.",
+              "answer": "THEO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Las botas de Michael Jordan.",
+              "answer": "AIR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Lorem...\" el texto falso para rellenar.",
+              "answer": "IPSUM"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Comprenderá lo escrito.",
+              "answer": "LEERA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "El abecedario.",
+              "answer": "ABECE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cuero pequeño para echar vino (pl).",
+              "answer": "BOTOS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "El pequeño Ulises.",
+              "answer": "ULI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "El flaco con sed.",
+              "answer": "SECO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "El oficio de Carl Cox.",
+              "answer": "DJ"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Expresar desacuerdo de manera formal.",
+              "answer": "OBJETAR"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Linaje, descendencia de alguien.",
+              "answer": "PROLE"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Rodada o carril.",
+              "answer": "ANDEL"
+            },
+            "20": {
+              "col": 1,
+              "row": 3,
+              "clue": "Relativo a los sacos capilares.",
+              "answer": "FOLICULAR"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "“Chichen...\" sitio arqueológico en Yucatán, México.",
+              "answer": "ITZA"
+            },
+            "24": {
+              "col": 13,
+              "row": 3,
+              "clue": "Vehículos aptos para hacer vida en ellos.",
+              "answer": "CARAVANAS"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Mezcles café con agua.",
+              "answer": "AGUES"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Palo con que se juega a la tala.",
+              "answer": "MARRO"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Emito la idea que tengo formada respecto de algo.",
+              "answer": "OPINO"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"... Brothers\" grupo de pop rock.",
+              "answer": "JONAS"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "El flujo del yin y el yang.",
+              "answer": "TAO"
+            },
+            "35": {
+              "col": 8,
+              "row": 6,
+              "clue": "Umberto, el que escribió 'El nombre de la rosa'.",
+              "answer": "ECO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Instrumento giratorio que mezcla los ingredientes.",
+              "answer": "BATIDOR"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Guerra santa de los musulmanes.",
+              "answer": "YIHAD"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"... Williams\" delantero del Athletic de Bilbao.",
+              "answer": "NICO"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Inflamación de un nódulo linfático, típicos de la peste bubónica.",
+              "answer": "BUBON"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "Apoyo para los que van dando tumbos.",
+              "answer": "BARANDA"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Carlos...\" director español de ¡Ay, Carmela! y Cría cuervos.",
+              "answer": "SAURA"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Bajar de un caballo.",
+              "answer": "APEAR"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Hospedé o aposenté.",
+              "answer": "ALOJE"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Por donar una ronda se bañan de oro.",
+              "answer": "DORAN"
+            },
+            "55": {
+              "col": 3,
+              "row": 11,
+              "clue": "Moneda nacional de Croacia.",
+              "answer": "KUNA"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "Directores ejecutivos.",
+              "answer": "CEOS"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "\"Dijo\" en árabe.",
+              "answer": "QAL"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Evaluador de Defensa Electrónica.",
+              "answer": "EDE"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Mire cómo los extremos se juntan.",
+              "answer": "ME"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Inic. del jugador de fútbol con más balones de oro.",
+              "answer": "LM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Mezcla líquida para levantar el ánimo.",
+              "answer": "COCTAIL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Violentado, maltratado.",
+              "answer": "ABUSADO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Interjección usada para denotar desilusión o desdén.",
+              "answer": "UH"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Exageración retórica.",
+              "answer": "HIPERBOLE"
+            },
+            "15": {
+              "col": 13,
+              "row": 1,
+              "clue": "Jorge Bergoglio (el papa Francisco).",
+              "answer": "JB"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Locución latina para \"en sí mismo\" (2p).",
+              "answer": "PERSE"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Tu moral profesional, tu...",
+              "answer": "ETICA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tipo de peinado popular en los años 60 y 70.",
+              "answer": "AFRO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Ácido de la orina.",
+              "answer": "URICO"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Número de lados que tiene un endecágono.",
+              "answer": "ONCE"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "\"Quintana...\" estado mexicano donde está Cancún.",
+              "answer": "ROO"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Las matemáticas en el cole.",
+              "answer": "MATES"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Digital Audio Tape.",
+              "answer": "DAT"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "La red que esta al revés.",
+              "answer": "ALLAM"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Mancha alrededor de la base del párpado inferior.",
+              "answer": "OJERA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Dice que él no lo hizo, lo...",
+              "answer": "NIEGA"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "El TIN y la...",
+              "answer": "TAE"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"Aurora...\" austral en el sur, boreal en el norte.",
+              "answer": "POLAR"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Apremie, apure, apresure.",
+              "answer": "URJA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Así suena un brindis.",
+              "answer": "CHIN"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Comprador o cliente (voz inglesa).",
+              "answer": "BUYER"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "¡Oh! no, otra vez la viuda de John.",
+              "answer": "ONO"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "En la India musulmana, gobernador de una provincia.",
+              "answer": "NABAB"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pongo liso algo.",
+              "answer": "ALISO"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Perteneciente a la osa.",
+              "answer": "OSUNA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tiene Algo Hermoso.",
+              "answer": "TAH"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Poned algo fuera del lugar donde estaba.",
+              "answer": "SACAD"
+            },
+            "53": {
+              "col": 12,
+              "row": 10,
+              "clue": "\"... visite nuestro...\" Hombres G.",
+              "answer": "BAR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "País cuya capital es Bagdad.",
+              "answer": "IRAK"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"... 11\" primera misión tripulada que aterrizó en la luna.",
+              "answer": "APOLO"
+            },
+            "57": {
+              "col": 11,
+              "row": 11,
+              "clue": "La mano andante de la Familia Addams.",
+              "answer": "COSA"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "Noble con corona de segunda fila.",
+              "answer": "DUQUE"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Sequen algo poniéndolo al aire.",
+              "answer": "OREEN"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Mantra de exhalación.",
+              "answer": "OM"
+            },
+            "64": {
+              "col": 3,
+              "row": 13,
+              "clue": "Color similar al de la fruta cítrica.",
+              "answer": "NARANJADO"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Inic. Actor protagonista de 'Titanic'.",
+              "answer": "LD"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Obsequiar.",
+              "answer": "REGALAR"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Vez ultra repetida.",
+              "answer": "ENESIMA"
+            }
+          }
+        },
+        "vertical_clues": "1-Sanarán a los enfermos.\r\n2-Voz de asombro.\r\n3-\"... Van Gogh\" cineasta neerlandés asesinado por extremistas.\r\n4-Las botas de Michael Jordan.\r\n5-\"Lorem...\" el texto falso para rellenar.\r\n6-Comprenderá lo escrito.\r\n7-El abecedario.\r\n8-Cuero pequeño para echar vino (pl).\r\n9-El pequeño Ulises.\r\n10-El flaco con sed.\r\n11-El oficio de Carl Cox. \r\n12-Expresar desacuerdo de manera formal. \r\n16-Linaje, descendencia de alguien.\r\n18-Rodada o carril.\r\n20-Relativo a los sacos capilares. \r\n22-“Chichen...\" sitio arqueológico en Yucatán, México.\r\n24-Vehículos aptos para hacer vida en ellos.\r\n29-Mezcles café con agua.\r\n30-Palo con que se juega a la tala.\r\n31-Emito la idea que tengo formada respecto de algo.\r\n32-\"... Brothers\" grupo de pop rock.\r\n34-El flujo del yin y el yang.\r\n35-Umberto, el que escribió 'El nombre de la rosa'.\r\n39-Instrumento giratorio que mezcla los ingredientes.\r\n40-Guerra santa de los musulmanes.\r\n42-\"... Williams\" delantero del Athletic de Bilbao.\r\n44-Inflamación de un nódulo linfático, típicos de la peste bubónica.\r\n45-Apoyo para los que van dando tumbos. \r\n49-\"Carlos...\" director español de ¡Ay, Carmela! y Cría cuervos.\r\n50-Bajar de un caballo.\r\n51-Hospedé o aposenté.\r\n52-Por donar una ronda se bañan de oro.\r\n55-Moneda nacional de Croacia.\r\n57-Directores ejecutivos.\r\n59-\"Dijo\" en árabe.\r\n61-Evaluador de Defensa Electrónica.\r\n63-Mire cómo los extremos se juntan.\r\n65-Inic. del jugador de fútbol con más balones de oro.",
+        "horizontal_clues": "1-Mezcla líquida para levantar el ánimo. \r\n7-Violentado, maltratado.\r\n13-Interjección usada para denotar desilusión o desdén.\r\n14-Exageración retórica. \r\n15-Jorge Bergoglio (el papa Francisco).\r\n16-Locución latina para \"en sí mismo\" (2p). \r\n17-Tu moral profesional, tu...\r\n19-Tipo de peinado popular en los años 60 y 70.\r\n21-Ácido de la orina.\r\n23-Número de lados que tiene un endecágono.\r\n25-\"Quintana...\" estado mexicano donde está Cancún.\r\n26-Las matemáticas en el cole.\r\n27-Digital Audio Tape.\r\n28-La red que esta al revés. \r\n31-Mancha alrededor de la base del párpado inferior.\r\n33-Dice que él no lo hizo, lo...\r\n34-El TIN y la...\r\n36-\"Aurora...\" austral en el sur, boreal en el norte.\r\n37-Apremie, apure, apresure.\r\n38-Así suena un brindis.\r\n39-Comprador o cliente (voz inglesa).\r\n41-¡Oh! no, otra vez la viuda de John.\r\n43-En la India musulmana, gobernador de una provincia.\r\n46-Pongo liso algo.\r\n47-Perteneciente a la osa.\r\n48-Tiene Algo Hermoso.\r\n49-Poned algo fuera del lugar donde estaba.\r\n53-\"... visite nuestro...\" Hombres G.\r\n54-País cuya capital es Bagdad.\r\n56-\"... 11\" primera misión tripulada que aterrizó en la luna.\r\n57-La mano andante de la Familia Addams.\r\n58-Noble con corona de segunda fila. \r\n60-Sequen algo poniéndolo al aire.\r\n62-Mantra de exhalación.\r\n64-Color similar al de la fruta cítrica. \r\n65-Inic. Actor protagonista de 'Titanic'.\r\n66-Obsequiar.\r\n67-Vez ultra repetida.",
+        "board_clues_positions": "1,2,#,3,4,5,6,#,7,8,9,10,#,11,12\r\n13,#,#,14,#,#,#,#,#,#,#,#,#,15,#\r\n#,#,16,#,#,#,#,#,17,#,#,#,18,#,#\r\n19,20,#,#,#,21,#,22,#,#,#,23,#,24,#\r\n25,#,#,#,#,26,#,#,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,#,#,#,#,31,32,#,#,#\r\n33,#,#,#,#,#,34,#,35,#,36,#,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,#,40,#,#,#,41,42,#,#,43,#,44,#,45\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,49,50,#,51,52,#,#,53,#,#\r\n54,#,#,55,#,56,#,#,#,#,#,57,#,#,#\r\n#,#,58,#,59,#,#,#,60,#,61,#,#,#,#\r\n62,63,#,64,#,#,#,#,#,#,#,#,#,65,#\r\n66,#,#,#,#,#,#,#,67,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

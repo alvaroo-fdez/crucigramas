@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 4023,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-11-21T15:25:22.505620Z",
+      "updatedAt": "2025-12-17T10:35:29.897843Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-12-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MOISES#PARTIDOS\r\nALBA#AMARE#VEGA\r\nNEUROLOGICO#TUN\r\nOO#APURADO#CENE\r\nT#C#ID#SEGLAR#A\r\nALIENAR#CERNIAS\r\nDESVANECER#TOP#\r\nAPTAS#E#M#BAROS\r\n#ROD#ALBOROTADO\r\nCASILLA#SENADOR\r\nU#CAPABA#TD#A#T\r\nEROS#MOSTRAR#GE\r\nREP#ABRACADABRA\r\nDAIS#RABAS#SEUR\r\nALOEVERA#AGOBIE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Manotazo, bofetada, guantazo",
+              "answer": "MANOTADA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Aceite para ritos religiosos",
+              "answer": "OLEO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Unidad que mide el amargor de una cerveza (siglas en inglés)",
+              "answer": "IBU"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "\"… Baras\", bailadora española",
+              "answer": "SARA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Estrechan las manos",
+              "answer": "SALUDAN"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Cierras el crédito",
+              "answer": "PAGAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tornaremos árido algo",
+              "answer": "ARIDECEMOS"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Levantar algo que se ha caído",
+              "answer": "RECOGER"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Cuatro en números romanos",
+              "answer": "IV"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Estropeada, menoscabada",
+              "answer": "DETERIORADA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Deidad de la santería que sincretiza con San Pedro",
+              "answer": "OGUN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Reparas o remedias",
+              "answer": "SANEAS"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Título de origen siríaco que significa \"(mi) señor\"",
+              "answer": "MOR"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Discurres o señalas las ideas que tienes sobre cierto tema",
+              "answer": "OPINAS"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Composición clásica para coro y orquesta",
+              "answer": "CANTATA"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Instrumento para observar el interior de la vejiga",
+              "answer": "CISTOSCOPIO"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Símbolo químico del lawrencio",
+              "answer": "LR"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Enfermedad de Hansen",
+              "answer": "LEPRA"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Esquivabas, excusabas",
+              "answer": "EVADIAS"
+            },
+            "30": {
+              "col": 6,
+              "row": 5,
+              "clue": "Volver a hacer",
+              "answer": "REELABORAR"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Sobrenombre, nick, alias",
+              "answer": "APODO"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Virtud humana que se basa en hacer el bien",
+              "answer": "BONDAD"
+            },
+            "37": {
+              "col": 14,
+              "row": 7,
+              "clue": "Rifaré",
+              "answer": "SORTEARE"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Embalar en orden el hilo de metal",
+              "answer": "ALAMBRE"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Se demora y eso le restará erratas",
+              "answer": "RETRASA"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Juego infantil",
+              "answer": "CUERDA"
+            },
+            "42": {
+              "col": 4,
+              "row": 9,
+              "clue": "El vinilo de Liam Payne",
+              "answer": "LP"
+            },
+            "45": {
+              "col": 7,
+              "row": 10,
+              "clue": "Hacía la parrilla",
+              "answer": "ASABA"
+            },
+            "48": {
+              "col": 1,
+              "row": 11,
+              "clue": "Que tiene existencia objetiva",
+              "answer": "REAL"
+            },
+            "50": {
+              "col": 8,
+              "row": 11,
+              "clue": "Trastorno de Conducta Alimentaria (siglas)",
+              "answer": "TCA"
+            },
+            "51": {
+              "col": 11,
+              "row": 11,
+              "clue": "Llano, liso, simple",
+              "answer": "RASO"
+            },
+            "52": {
+              "col": 13,
+              "row": 11,
+              "clue": "Emití el sonido de las grullas",
+              "answer": "GRUI"
+            },
+            "55": {
+              "col": 12,
+              "row": 12,
+              "clue": "No bebas tanto",
+              "answer": "BEB"
+            },
+            "57": {
+              "col": 3,
+              "row": 13,
+              "clue": "\"Solo… que no… nada\" Sócrates",
+              "answer": "SE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El que separó las aguas del Mar Rojo",
+              "answer": "MOISES"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo son el PP y el PSOE",
+              "answer": "PARTIDOS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Primera luz del día antes de salir el sol",
+              "answer": "ALBA"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Tendré cariño, querré",
+              "answer": "AMARE"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "\"Tony …\", cantante de salsa puertorriqueño",
+              "answer": "VEGA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Relativo a estudio del sistema nervioso y de sus enfermedades",
+              "answer": "NEUROLOGICO"
+            },
+            "19": {
+              "col": 12,
+              "row": 2,
+              "clue": "Guatemala Baile antiguo de los indios quichés",
+              "answer": "TUN"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Las mellizas de Snoopy",
+              "answer": "OO"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Apresurado, con prisa",
+              "answer": "APURADO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Probé bocado como a las 20 h",
+              "answer": "CENE"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Saliendo de Madrid",
+              "answer": "ID"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Mundano, terrenal",
+              "answer": "SEGLAR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Condicionar la personalidad por factores externos",
+              "answer": "ALIENAR"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Separabas con el cedazo la harina del salvado",
+              "answer": "CERNIAS"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Disipar la locura de las vencederas",
+              "answer": "DESVANECER"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "En los puesto más altos, está en el…",
+              "answer": "TOP"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Idóneas, hábiles, a propósito para hacer algo",
+              "answer": "APTAS"
+            },
+            "36": {
+              "col": 10,
+              "row": 7,
+              "clue": "Una de las 1192 islas de las Maldivas",
+              "answer": "BAROS"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"… Stewart\" cantante británico",
+              "answer": "ROD"
+            },
+            "39": {
+              "col": 5,
+              "row": 8,
+              "clue": "Desordenado, revuelto",
+              "answer": "ALBOROTADO"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Calláis por error dentro de la garita",
+              "answer": "CASILLA"
+            },
+            "43": {
+              "col": 8,
+              "row": 9,
+              "clue": "Miembro de la cámara alta del cuerpo legislativo de algunos países",
+              "answer": "SENADOR"
+            },
+            "44": {
+              "col": 2,
+              "row": 10,
+              "clue": "Extirpaba los genitales",
+              "answer": "CAPABA"
+            },
+            "46": {
+              "col": 9,
+              "row": 10,
+              "clue": "Timothy Dalton, actor galés",
+              "answer": "TD"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "El Cupido griego",
+              "answer": "EROS"
+            },
+            "49": {
+              "col": 5,
+              "row": 11,
+              "clue": "Poner a la vista",
+              "answer": "MOSTRAR"
+            },
+            "52": {
+              "col": 13,
+              "row": 11,
+              "clue": "Poco genial",
+              "answer": "GE"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Registro Electoral Permanente (siglas)",
+              "answer": "REP"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Palabra para hechizos de magia",
+              "answer": "ABRACADABRA"
+            },
+            "56": {
+              "col": 0,
+              "row": 13,
+              "clue": "Concedéis, proveéis",
+              "answer": "DAIS"
+            },
+            "58": {
+              "col": 5,
+              "row": 13,
+              "clue": "Calamares fritos, a la romana",
+              "answer": "RABAS"
+            },
+            "59": {
+              "col": 11,
+              "row": 13,
+              "clue": "Empresa española de paquetería",
+              "answer": "SEUR"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Sábila, la suculenta (2p)",
+              "answer": "ALOEVERA"
+            },
+            "61": {
+              "col": 9,
+              "row": 14,
+              "clue": "Impuse a alguien actividad o esfuerzo excesivos",
+              "answer": "AGOBIE"
+            }
+          }
+        },
+        "vertical_clues": "1-Manotazo, bofetada, guantazo\r\n2-Aceite para ritos religiosos\r\n3-Unidad que mide el amargor de una cerveza (siglas en inglés) \r\n4-\"… Baras\", bailadora española\r\n5-Estrechan las manos\r\n6-Cierras el crédito\r\n7-Tornaremos árido algo\r\n8-Levantar algo que se ha caído\r\n9-Cuatro en números romanos\r\n10-Estropeada, menoscabada\r\n11-Deidad de la santería que sincretiza con San Pedro\r\n12-Reparas o remedias\r\n15-Título de origen siríaco que significa \"(mi) señor\"\r\n18-Discurres o señalas las ideas que tienes sobre cierto tema\r\n22-Composición clásica para coro y orquesta\r\n23-Instrumento para observar el interior de la vejiga\r\n26-Símbolo químico del lawrencio\r\n28-Enfermedad de Hansen\r\n29-Esquivabas, excusabas\r\n30-Volver a hacer\r\n32-Sobrenombre, nick, alias\r\n36-Virtud humana que se basa en hacer el bien\r\n37-Rifaré\r\n39-Embalar en orden el hilo de metal\r\n40-Se demora y eso le restará erratas\r\n41-Juego infantil\r\n42-El vinilo de Liam Payne\r\n45-Hacía la parrilla\r\n48-Que tiene existencia objetiva\r\n50-Trastorno de Conducta Alimentaria (siglas)\r\n51-Llano, liso, simple\r\n52-Emití el sonido de las grullas\r\n55-No bebas tanto\r\n57-\"Solo… que no… nada\" Sócrates",
+        "horizontal_clues": "1-El que separó las aguas del Mar Rojo\r\n6-Lo son el PP y el PSOE\r\n13-Primera luz del día antes de salir el sol\r\n14-Tendré cariño, querré\r\n16-\"Tony …\", cantante de salsa puertorriqueño\r\n17-Relativo a estudio del sistema nervioso y de sus enfermedades\r\n19-Guatemala Baile antiguo de los indios quichés\r\n20-Las mellizas de Snoopy\r\n21-Apresurado, con prisa\r\n22-Probé bocado como a las 20 h\r\n24-Saliendo de Madrid\r\n25-Mundano, terrenal\r\n27-Condicionar la personalidad por factores externos\r\n31-Separabas con el cedazo la harina del salvado\r\n33-Disipar la locura de las vencederas\r\n34-En los puesto más altos, está en el…\r\n35-Idóneas, hábiles, a propósito para hacer algo\r\n36-Una de las 1192 islas de las Maldivas\r\n38-\"… Stewart\" cantante británico\r\n39-Desordenado, revuelto\r\n41-Calláis por error dentro de la garita\r\n43-Miembro de la cámara alta del cuerpo legislativo de algunos países\r\n44-Extirpaba los genitales\r\n46-Timothy Dalton, actor galés\r\n47-El Cupido griego\r\n49-Poner a la vista\r\n52-Poco genial\r\n53-Registro Electoral Permanente (siglas)\r\n54-Palabra para hechizos de magia\r\n56-Concedéis, proveéis\r\n58-Calamares fritos, a la romana\r\n59-Empresa española de paquetería\r\n60-Sábila, la suculenta (2p)\r\n61-Impuse a alguien actividad o esfuerzo excesivos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,#,6,7,8,#,9,10,11,12\r\n13,#,#,#,#,14,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,#,#,19,#,#\r\n20,#,#,21,#,#,#,#,#,#,#,22,#,#,#\r\n#,#,23,#,24,#,#,25,#,#,26,#,#,#,#\r\n27,28,#,29,#,#,30,#,31,#,#,#,#,32,#\r\n33,#,#,#,#,#,#,#,#,#,#,34,#,#,#\r\n35,#,#,#,#,#,#,#,#,#,36,#,#,#,37\r\n#,38,#,#,#,39,#,#,#,40,#,#,#,#,#\r\n41,#,#,#,42,#,#,#,43,#,#,#,#,#,#\r\n#,#,44,#,#,#,#,45,#,46,#,#,#,#,#\r\n47,48,#,#,#,49,#,#,50,#,#,51,#,52,#\r\n53,#,#,#,54,#,#,#,#,#,#,#,55,#,#\r\n56,#,#,57,#,58,#,#,#,#,#,59,#,#,#\r\n60,#,#,#,#,#,#,#,#,61,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

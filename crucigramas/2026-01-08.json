@@ -1,0 +1,502 @@
+{
+  "data": {
+    "id": 4482,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-12-30T13:55:52.967524Z",
+      "updatedAt": "2025-12-30T13:55:52.977063Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-08",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ESPADA#COLEGIAL\r\nLECTOR#PRESUNTO\r\nEP##REVUELTA#AU\r\nVANUATU#ELOY#CV\r\nARANDELA#AFAMAR\r\nDARIA#NST#ABONE\r\nODIO#DEPREDAR##\r\nROG#FERIADO#RIA\r\n##UFANARSE#SAND\r\nNADEN#RAI#GOLFO\r\nABORDO#REPOBLAR\r\nIO#RAPO#GALEANA\r\nLR#ANTILOPE##CD\r\nOTORGARA#ATAVIO\r\nNACIONAL#SANEAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Revelado el misterio en el ascensor",
+              "answer": "ELEVADOR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Apartado de los demás",
+              "answer": "SEPARADO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "En el ordenador de Phill Collins",
+              "answer": "PC"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Akira Toriyama (creador de Dragon Ball)",
+              "answer": "AT"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Adorad al pez marino",
+              "answer": "DORADA"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Pendiente, argolla",
+              "answer": "ARETE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Unidad de procesamiento central",
+              "answer": "CPU"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Airee, refresque, ventile",
+              "answer": "OREE"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Lombardi\", piloto de automovilismo italiana",
+              "answer": "LELLA"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Casi me ha estafado con este guiso",
+              "answer": "ESTOFADO"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "El fruto más guay",
+              "answer": "GUAYABA"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Símbolo químico del indio",
+              "answer": "IN"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Embisten con ánimo de causar daño",
+              "answer": "ATACAN"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Museo francés más visitado del mundo",
+              "answer": "LOUVRE"
+            },
+            "19": {
+              "col": 6,
+              "row": 2,
+              "clue": "Abrir grietas en la armadura del alma",
+              "answer": "VULNERAR"
+            },
+            "22": {
+              "col": 2,
+              "row": 3,
+              "clue": "Narizón",
+              "answer": "NARIGUDO"
+            },
+            "23": {
+              "col": 3,
+              "row": 3,
+              "clue": "Mezcló cosas entre sí",
+              "answer": "UNIO"
+            },
+            "27": {
+              "col": 7,
+              "row": 4,
+              "clue": "Respirar y querer más",
+              "answer": "ASPIRAR"
+            },
+            "29": {
+              "col": 12,
+              "row": 4,
+              "clue": "La morra ya es parte de esa chusma",
+              "answer": "MORRALLA"
+            },
+            "32": {
+              "col": 8,
+              "row": 5,
+              "clue": "La mudanza de los gaiteros desordenados",
+              "answer": "TRASIEGO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Otorguen, entreguen",
+              "answer": "DEN"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Evaluador de Defensa Electrónica",
+              "answer": "EDE"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Un \"fan de tango\" que pierde su corazón por este otro baile",
+              "answer": "FANDANGO"
+            },
+            "40": {
+              "col": 13,
+              "row": 7,
+              "clue": "Por error financia su niñez",
+              "answer": "INFANCIA"
+            },
+            "41": {
+              "col": 14,
+              "row": 7,
+              "clue": "Fanático, venerador",
+              "answer": "ADORADOR"
+            },
+            "43": {
+              "col": 3,
+              "row": 8,
+              "clue": "El deportivo de Enzo es rojo",
+              "answer": "FERRARI"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Me dolió tu mal beso, por eso me masajeé",
+              "answer": "SOBE"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Fibra textil elástica",
+              "answer": "NAILON"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Interrumpe el desarrollo del feto",
+              "answer": "ABORTA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Embarcación fina, de bordas poco elevadas",
+              "answer": "GOLETA"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Escogen, eligen por algo entre varias cosas",
+              "answer": "OPTAN"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Lo fueron Pío XI y Pío XII",
+              "answer": "PAPAS"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Escuchará, percibirá los sonidos",
+              "answer": "OIRA"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "La primera Licencia de Arte Libre",
+              "answer": "LAL"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Idioma occitano",
+              "answer": "OC"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Asamblea Nacional (siglas)",
+              "answer": "AN"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Acércate y observa",
+              "answer": "VE"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Arma blanca larga",
+              "answer": "ESPADA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Alumno (o relativo a donde estudia el alumno)",
+              "answer": "COLEGIAL"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Escáner de código de barras",
+              "answer": "LECTOR"
+            },
+            "16": {
+              "col": 7,
+              "row": 1,
+              "clue": "Que se piensa que sí, pero no se sabe",
+              "answer": "PRESUNTO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "De Elvis Presley y Edith Piaf",
+              "answer": "EP"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Protesta popular contra la autoridad",
+              "answer": "REVUELTA"
+            },
+            "20": {
+              "col": 13,
+              "row": 2,
+              "clue": "Dominio web para Australia",
+              "answer": "AU"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Único país de Oceanía que tiene el francés como idioma oficial",
+              "answer": "VANUATU"
+            },
+            "24": {
+              "col": 8,
+              "row": 3,
+              "clue": "El hombre del día",
+              "answer": "ELOY"
+            },
+            "25": {
+              "col": 13,
+              "row": 3,
+              "clue": "Curriculum Vitae (siglas)",
+              "answer": "CV"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Entre el tornillo y la tuerca",
+              "answer": "ARANDELA"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "Hacer famoso",
+              "answer": "AFAMAR"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "MTV La adolescente inadaptada",
+              "answer": "DARIA"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Necesito Seguir Tumbado",
+              "answer": "NST"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Fertilicé la tierra",
+              "answer": "ABONE"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Antipatía y aversión hacia algo",
+              "answer": "ODIO"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "Cazar a otros animales, como la cadena alimenticia lo pide",
+              "answer": "DEPREDAR"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Señor elfo de Gondolin en 'El libro de los cuentos perdidos'",
+              "answer": "ROG"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Libre, de puente",
+              "answer": "FERIADO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Ensenada amplia en la que vierten al mar aguas profundas",
+              "answer": "RIA"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Presumir, alardear, engreírse",
+              "answer": "UFANARSE"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Arena de California",
+              "answer": "SAND"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Braceen en el agua",
+              "answer": "NADEN"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Desgasté un abrigo por tanto usarlo",
+              "answer": "RAI"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "El perro de la 'Dama y el vagabundo'",
+              "answer": "GOLFO"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Emplazo a los pasajeros que están en el avión",
+              "answer": "ABORDO"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Asentarse en un pueblo previamente abandonado",
+              "answer": "REPOBLAR"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Luna de Júpiter",
+              "answer": "IO"
+            },
+            "54": {
+              "col": 3,
+              "row": 11,
+              "clue": "Paró confundido en la barbería y se afeitó",
+              "answer": "RAPO"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Uva blanca de Salamanca",
+              "answer": "GALEANA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del lawrencio",
+              "answer": "LR"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Pilotean muy mal al rumiante ungulado",
+              "answer": "ANTILOPE"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Disco compacto",
+              "answer": "CD"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Concederá, conferirá",
+              "answer": "OTORGARA"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Vestido, prenda o conjunto de prendas con que se cubre el cuerpo",
+              "answer": "ATAVIO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Vuelo que se realiza dentro de las fronteras de un país",
+              "answer": "NACIONAL"
+            },
+            "67": {
+              "col": 9,
+              "row": 14,
+              "clue": "Liberar de dificultades económicas una empresa",
+              "answer": "SANEAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Revelado el misterio en el ascensor\r\n2-Apartado de los demás\r\n3-En el ordenador de Phill Collins\r\n4-Akira Toriyama (creador de Dragon Ball)\r\n5-Adorad al pez marino\r\n6-Pendiente, argolla\r\n7-Unidad de procesamiento central\r\n8-Airee, refresque, ventile\r\n9-\"… Lombardi\", piloto de automovilismo italiana\r\n10-Casi me ha estafado con este guiso\r\n11-El fruto más guay\r\n12-Símbolo químico del indio\r\n13-Embisten con ánimo de causar daño\r\n14-Museo francés más visitado del mundo\r\n19-Abrir grietas en la armadura del alma\r\n22-Narizón\r\n23-Mezcló cosas entre sí\r\n27-Respirar y querer más\r\n29-La morra ya es parte de esa chusma\r\n32-La mudanza de los gaiteros desordenados\r\n35-Otorguen, entreguen\r\n36-Evaluador de Defensa Electrónica\r\n38-Un \"fan de tango\" que pierde su corazón por este otro baile\r\n40-Por error financia su niñez\r\n41-Fanático, venerador\r\n43-El deportivo de Enzo es rojo\r\n44-Me dolió tu mal beso, por eso me masajeé\r\n45-Fibra textil elástica\r\n46-Interrumpe el desarrollo del feto\r\n48-Embarcación fina, de bordas poco elevadas\r\n50-Escogen, eligen por algo entre varias cosas\r\n52-Lo fueron Pío XI y Pío XII\r\n55-Escuchará, percibirá los sonidos\r\n59-La primera Licencia de Arte Libre\r\n62-Idioma occitano\r\n64-Asamblea Nacional (siglas)\r\n65-Acércate y observa\r\n",
+        "horizontal_clues": "1-Arma blanca larga\r\n7-Alumno (o relativo a donde estudia el alumno)\r\n15-Escáner de código de barras\r\n16-Que se piensa que sí, pero no se sabe\r\n17-De Elvis Presley y Edith Piaf\r\n18-Protesta popular contra la autoridad\r\n20-Dominio web para Australia\r\n21-Único país de Oceanía que tiene el francés como idioma oficial\r\n24-El hombre del día\r\n25-Curriculum Vitae (siglas)\r\n26-Entre el tornillo y la tuerca\r\n28-Hacer famoso\r\n30-MTV La adolescente inadaptada\r\n31-Necesito Seguir Tumbado\r\n33-Fertilicé la tierra\r\n34-Antipatía y aversión hacia algo\r\n35-Cazar a otros animales, como la cadena alimenticia lo pide\r\n37-Señor elfo de Gondolin en 'El libro de los cuentos perdidos'\r\n38-Libre, de puente\r\n39-Ensenada amplia en la que vierten al mar aguas profundas\r\n42-Presumir, alardear, engreírse\r\n44-Arena de California\r\n45-Braceen en el agua\r\n47-Desgasté un abrigo por tanto usarlo\r\n48-El perro de la 'Dama y el vagabundo'\r\n49-Emplazo a los pasajeros que están en el avión\r\n51-Asentarse en un pueblo previamente abandonado\r\n53-Luna de Júpiter\r\n54-Paró confundido en la barbería y se afeitó\r\n56-Uva blanca de Salamanca\r\n57-Símbolo químico del lawrencio\r\n58-Pilotean muy mal al rumiante ungulado\r\n60-Disco compacto\r\n61-Concederá, conferirá\r\n63-Vestido, prenda o conjunto de prendas con que se cubre el cuerpo\r\n66-Vuelo que se realiza dentro de las fronteras de un país\r\n67-Liberar de dificultades económicas una empresa\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,16,#,#,#,#,#,#,#\r\n17,#,#,#,18,#,19,#,#,#,#,#,#,20,#\r\n21,#,22,23,#,#,#,#,24,#,#,#,#,25,#\r\n26,#,#,#,#,#,#,27,#,28,#,#,29,#,#\r\n30,#,#,#,#,#,31,#,32,#,33,#,#,#,#\r\n34,#,#,#,#,35,#,#,#,36,#,#,#,#,#\r\n37,#,#,#,38,#,#,#,#,#,#,#,39,40,41\r\n#,#,42,43,#,#,#,#,#,#,#,44,#,#,#\r\n45,46,#,#,#,#,47,#,#,#,48,#,#,#,#\r\n49,#,#,#,#,50,#,51,#,52,#,#,#,#,#\r\n53,#,#,54,#,#,55,#,56,#,#,#,#,#,#\r\n57,#,#,58,#,#,#,59,#,#,#,#,#,60,#\r\n61,#,62,#,#,#,#,#,#,63,#,64,65,#,#\r\n66,#,#,#,#,#,#,#,#,67,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

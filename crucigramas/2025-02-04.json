@@ -1,0 +1,516 @@
+{
+  "data": {
+    "id": 1692,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-02-03T11:30:35.456343Z",
+      "updatedAt": "2025-02-03T11:33:36.588956Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-02-04",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PERRERA#SOFIA#\r\nVETUSTEZ#AFINEN\r\nAGITA#CUP#PADRE\r\nTACA#SALES#SION\r\nISO##IBERO##EMU\r\nOO#MANEJABLE#OF\r\n##JABI#O#RUDEZA\r\nACARREO#DEPURAR\r\nBORGES#J#PICA##\r\nDN#ESTROGENO#FB\r\nOTE##REVES##PIE\r\nMARK#AJENO#MOSS\r\nEDGAR#ANO#CELIA\r\nNAUTAS#EVICCION\r\n#SIESO#SANCION#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Caballo alado que no fue compañero de Hércules en la historia original",
+              "answer": "PEGASO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Recto, conforme a la moral (masc)",
+              "answer": "ETICO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Itinerario turístico",
+              "answer": "RUTA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Protocolo de seguridad para encriptar datos digitales",
+              "answer": "RSA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Edward Teller (el padre de la Bomba H)",
+              "answer": "ET"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Recogí información",
+              "answer": "RECABE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Pieza alfarera de cerámica",
+              "answer": "AZULEJO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Sabe solo la mitad",
+              "answer": "SA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Olvidé Fregar los Platos",
+              "answer": "OFP"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Das crédito sin garantía",
+              "answer": "FIAS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Arte libre de grandes industrias, con sello propio",
+              "answer": "INDIE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Auxiliar de vuelo femenina, azafata",
+              "answer": "AEROMOZA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Electrónica Unidad de potencia cuyo símbolo es W",
+              "answer": "VATIO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Planta acuática de la familia de las Ninfeáceas",
+              "answer": "NENUFAR"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Fruto del boxeo",
+              "answer": "PERA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "La mano opuesta a la diestra",
+              "answer": "SINIESTRA"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Exceso de masa corporal",
+              "answer": "SOBREPESO"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "La mamá de Bart",
+              "answer": "MARGE"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Descubres algo, le quitas la tapa",
+              "answer": "ABRES"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Serie francesa sobre un ladrón profesional, llamado Assane Diop",
+              "answer": "LUPIN"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Instruyo a mi hija, la formo",
+              "answer": "EDUCO"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Archivo para ejecutar aplicaciones en Java",
+              "answer": "JAR"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Ya no es ese tiempo histórico",
+              "answer": "ERA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Cavidad entre el tórax y la pelvis",
+              "answer": "ABDOMEN"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Pocas veces son narradas",
+              "answer": "CONTADAS"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Personas lozanas, mozas",
+              "answer": "JOVENES"
+            },
+            "44": {
+              "col": 6,
+              "row": 9,
+              "clue": "Barrotes en la ventana",
+              "answer": "REJA"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Ciudad donde (en teoría) nació Cristóbal Colón",
+              "answer": "GENOVA"
+            },
+            "46": {
+              "col": 13,
+              "row": 9,
+              "clue": "Reacción nuclear que libera energía",
+              "answer": "FISION"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Demuestran afecto con los labios",
+              "answer": "BESAN"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "Enarbolé, elevé",
+              "answer": "ERGUI"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Vacuna desarrollada por Jonas Salk 1952",
+              "answer": "POLIO"
+            },
+            "53": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"… Winslet\" protagonista del Titanic (1997)",
+              "answer": "KATE"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "Moví la cunita del bebé, lo…",
+              "answer": "MECI"
+            },
+            "57": {
+              "col": 4,
+              "row": 12,
+              "clue": "Altura, nivel",
+              "answer": "RAS"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "Código Cuenta Cliente",
+              "answer": "CCC"
+            },
+            "61": {
+              "col": 5,
+              "row": 13,
+              "clue": "Shaquille O'neal dice que se calmen",
+              "answer": "SO"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Prefijo que indica negación o privación",
+              "answer": "IN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Albergue canino",
+              "answer": "PERRERA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Palabra griega que significa \"sabiduría\"",
+              "answer": "SOFIA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estado deteriorado por el paso prolongado del tiempo",
+              "answer": "VETUSTEZ"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Ajusten con precisión la entonación musical",
+              "answer": "AFINEN"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Provoca la inquietud política o social",
+              "answer": "AGITA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "CPU desconfigurado",
+              "answer": "CUP"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "El fundador o creador de un movimiento",
+              "answer": "PADRE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mancha o marca en la piel",
+              "answer": "TACA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Vas de fiesta",
+              "answer": "SALES"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Monte de Jerusalén",
+              "answer": "SION"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Gramática Prefijo que significa \"igual\"",
+              "answer": "ISO"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Prefijo que refiere a la península ibérica",
+              "answer": "IBERO"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "Ave parecida avestruz",
+              "answer": "EMU"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Unos prismáticos",
+              "answer": "OO"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Un número cuando se puede operar mentalmente sin dificultad",
+              "answer": "MANEJABLE"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Inic del ciclista español récord en Mundial de Ciclismo en Ruta",
+              "answer": "OF"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Especie de manzana silvestre y pequeña",
+              "answer": "JABI"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Brusquedad, violencia",
+              "answer": "RUDEZA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Traigo en mi carro todas las consecuencias",
+              "answer": "ACARREO"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Limpiar al agua para que sea potable",
+              "answer": "DEPURAR"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"Jorge Luis…\" escritor argentino autor de 'El Aleph'",
+              "answer": "BORGES"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Soporte del violonchelo, en la posición moderna de tocar",
+              "answer": "PICA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Diana sin vocales",
+              "answer": "DN"
+            },
+            "43": {
+              "col": 3,
+              "row": 9,
+              "clue": "Hormona femenina",
+              "answer": "ESTROGENO"
+            },
+            "46": {
+              "col": 13,
+              "row": 9,
+              "clue": "Si al FBI le falta información se convierte en Facebook",
+              "answer": "FB"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Sufijo aumentativo (masc)",
+              "answer": "OTE"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Infortunio, desgracia o contratiempo",
+              "answer": "REVES"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "\"American…\" icónica canción estadounidense de Don McLean",
+              "answer": "PIE"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Hamill\" el que interpretó a Luke Skywalker en 'Star Wars'",
+              "answer": "MARK"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"Amigo de lo…\" (eufemismo para un ladrón)",
+              "answer": "AJENO"
+            },
+            "55": {
+              "col": 11,
+              "row": 11,
+              "clue": "\"Carrie Anne…\" la que interpretó a Trinity en 'Matrix'",
+              "answer": "MOSS"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"… Rice Burroughs\" autor de la novela 'Tarzan de los monos' (1914)",
+              "answer": "EDGAR"
+            },
+            "58": {
+              "col": 6,
+              "row": 12,
+              "clue": "Última porción del intestino grueso",
+              "answer": "ANO"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "Asistente virtual de Huawei",
+              "answer": "CELIA"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tripulantes de embarcaciones marítimas",
+              "answer": "NAUTAS"
+            },
+            "62": {
+              "col": 7,
+              "row": 13,
+              "clue": "Pérdida legal de un derecho por sentencia firme",
+              "answer": "EVICCION"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Sí, eso es así, desagradable y antipático",
+              "answer": "SIESO"
+            },
+            "65": {
+              "col": 7,
+              "row": 14,
+              "clue": "Castigo, pena",
+              "answer": "SANCION"
+            }
+          }
+        },
+        "vertical_clues": "1-Caballo alado que no fue compañero de Hércules en la historia original\r\n2-Recto, conforme a la moral (masc)\r\n3-Itinerario turístico\r\n4-Protocolo de seguridad para encriptar datos digitales \r\n5-Edward Teller (el padre de la Bomba H)\r\n6-Recogí información\r\n7-Pieza alfarera de cerámica\r\n8-Sabe solo la mitad\r\n9-Olvidé Fregar los Platos\r\n10-Das crédito sin garantía \r\n11-Arte libre de grandes industrias, con sello propio\r\n12-Auxiliar de vuelo femenina, azafata \r\n13-Electrónica Unidad de potencia cuyo símbolo es W\r\n15-Planta acuática de la familia de las Ninfeáceas\r\n18-Fruto del boxeo\r\n21-La mano opuesta a la diestra \r\n22-Exceso de masa corporal \r\n28-La mamá de Bart\r\n29-Descubres algo, le quitas la tapa\r\n30-Serie francesa sobre un ladrón profesional, llamado Assane Diop\r\n31-Instruyo a mi hija, la formo\r\n33-Archivo para ejecutar aplicaciones en Java\r\n35-Ya no es ese tiempo histórico\r\n36-Cavidad entre el tórax y la pelvis\r\n37-Pocas veces son narradas\r\n40-Personas lozanas, mozas\r\n44-Barrotes en la ventana\r\n45-Ciudad donde (en teoría) nació Cristóbal Colón\r\n46-Reacción nuclear que libera energía \r\n47-Demuestran afecto con los labios \r\n49-Enarbolé, elevé\r\n51-Vacuna desarrollada por Jonas Salk 1952\r\n53-\"… Winslet\" protagonista del Titanic (1997)\r\n55-Moví la cunita del bebé, lo…\r\n57-Altura, nivel\r\n59-Código Cuenta Cliente\r\n61-Shaquille O'neal dice que se calmen\r\n63-Prefijo que indica negación o privación",
+        "horizontal_clues": "1-Albergue canino\r\n8-Palabra griega que significa \"sabiduría\"\r\n13-Estado deteriorado por el paso prolongado del tiempo \r\n14-Ajusten con precisión la entonación musical \r\n16-Provoca la inquietud política o social\r\n17-CPU desconfigurado\r\n19-El fundador o creador de un movimiento\r\n20-Mancha o marca en la piel \r\n21-Vas de fiesta\r\n23-Monte de Jerusalén \r\n24-Gramática Prefijo que significa \"igual\"\r\n25-Prefijo que refiere a la península ibérica\r\n26-Ave parecida avestruz\r\n27-Unos prismáticos\r\n28-Un número cuando se puede operar mentalmente sin dificultad\r\n32-Inic del ciclista español récord en Mundial de Ciclismo en Ruta\r\n33-Especie de manzana silvestre y pequeña\r\n34-Brusquedad, violencia\r\n36-Traigo en mi carro todas las consecuencias\r\n38-Limpiar al agua para que sea potable\r\n39-\"Jorge Luis…\" escritor argentino autor de 'El Aleph'\r\n41-Soporte del violonchelo, en la posición moderna de tocar\r\n42-Diana sin vocales\r\n43-Hormona femenina\r\n46-Si al FBI le falta información se convierte en Facebook\r\n48-Sufijo aumentativo (masc)\r\n50-Infortunio, desgracia o contratiempo\r\n51-\"American…\" icónica canción estadounidense de Don McLean\r\n52-\"… Hamill\" el que interpretó a Luke Skywalker en 'Star Wars'\r\n54-\"Amigo de lo…\" (eufemismo para un ladrón)\r\n55-\"Carrie Anne…\" la que interpretó a Trinity en 'Matrix'\r\n56-\"… Rice Burroughs\" autor de la novela 'Tarzan de los monos' (1914) \r\n58-Última porción del intestino grueso\r\n59-Asistente virtual de Huawei\r\n60-Tripulantes de embarcaciones marítimas \r\n62-Pérdida legal de un derecho por sentencia firme \r\n64-Sí, eso es así, desagradable y antipático\r\n65-Castigo, pena",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,7,#,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,#,14,#,#,#,#,15\r\n16,#,#,#,#,#,17,#,18,#,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,23,#,#,#\r\n24,#,#,#,#,25,#,#,#,#,#,#,26,#,#\r\n27,#,#,28,29,#,#,#,#,#,30,31,#,32,#\r\n#,#,33,#,#,#,#,#,#,34,#,#,35,#,#\r\n36,37,#,#,#,#,#,#,38,#,#,#,#,#,#\r\n39,#,#,#,#,#,#,40,#,41,#,#,#,#,#\r\n42,#,#,43,#,#,44,#,45,#,#,#,#,46,47\r\n48,#,49,#,#,50,#,#,#,#,#,#,51,#,#\r\n52,#,#,53,#,54,#,#,#,#,#,55,#,#,#\r\n56,#,#,#,57,#,58,#,#,#,59,#,#,#,#\r\n60,#,#,#,#,61,#,62,#,63,#,#,#,#,#\r\n#,64,#,#,#,#,#,65,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

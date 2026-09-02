@@ -1,0 +1,514 @@
+{
+  "data": {
+    "id": 4583,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-01-16T13:09:02.816727Z",
+      "updatedAt": "2026-01-16T13:09:02.832634Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-01-17",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##BRUTA#AMISH##\r\n#ALISAD#SEGUID#\r\nNC#LAVAMANOS#II\r\nAOD#CAPILAR#OUT\r\nUSER##TOT##UBRE\r\nRAPE#SAMOA#MSNM\r\nURRACA#A#TEBEOS\r\n##ELENA#CEDER##\r\nINSERT#V#SERVIL\r\nRAIZ#ITERE#TATA\r\nATOA##URU##ODAS\r\nDIN#LUMBAGO#ALO\r\nOV#CARBONELL#IS\r\n#OPONGA#ACLARA#\r\n##ENDER#SOASA##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic del artista marcial más influyente de todos los tiempos",
+              "answer": "BL"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "¿De dril en abril?",
+              "answer": "RIL"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "La Universidad San Carlos (de Guatemala) fundada en 1676",
+              "answer": "USAC"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Plancha usada en la cocina india y pakistaní",
+              "answer": "TAVA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Se ajusta a las circunstancias para sobrellevarlas",
+              "answer": "ADAPTA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Cada una de las partes en un combate de boxeo",
+              "answer": "ASALTO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Menor Extranjero No Acompañado",
+              "answer": "MENA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Burro de peluche amigo de Winnie The Pooh",
+              "answer": "IGOR"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Suyos",
+              "answer": "SUS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Homofobia Interiorizada",
+              "answer": "HI"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Perseguir, hostigar",
+              "answer": "ACOSAR"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "Que sucede solo de día",
+              "answer": "DIURNO"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tercer país más pequeño del mundo",
+              "answer": "NAURU"
+            },
+            "16": {
+              "col": 7,
+              "row": 2,
+              "clue": "Tumor formado por elementos musculares",
+              "answer": "MIOMA"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "Partes que componen un test o cuestionario",
+              "answer": "ITEMS"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Tristeza profunda y prolongada, a menudo patológica",
+              "answer": "DEPRESION"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Como me siento cuando evalúan mi actitud",
+              "answer": "OBSERVADA"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Las familias reales",
+              "answer": "REALEZA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Italiano, autor de la novela \"El nombre de la Rosa\"",
+              "answer": "UMBERTO"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"… Cazorla\" centrocampo apodado El Mago",
+              "answer": "SANTI"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Tensé las velas del barco, las…",
+              "answer": "ATESE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "El Certificado de Reducción de Emisiones (del Protocolo de Kioto)",
+              "answer": "CER"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Evaluador de Defensa Electrónica",
+              "answer": "EDE"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Desuso Forajido",
+              "answer": "IRADO"
+            },
+            "38": {
+              "col": 1,
+              "row": 8,
+              "clue": "Originario del lugar donde se ha nacido",
+              "answer": "NATIVO"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Gramática Palabra que indica acción dentro de una oración",
+              "answer": "VERBO"
+            },
+            "41": {
+              "col": 13,
+              "row": 8,
+              "clue": "País de origen del autor de \"La Divina Comedia\"",
+              "answer": "ITALIA"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Cansados, desfallecidos, faltos de fuerzas",
+              "answer": "LASOS"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Derribar algo o a alguien, especialmente empujando",
+              "answer": "TUMBAR"
+            },
+            "46": {
+              "col": 8,
+              "row": 9,
+              "clue": "Ponchos de lana",
+              "answer": "RUANAS"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Lugar, país, región en inglés",
+              "answer": "LAND"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Es de vida o muerte, por eso ruge como loco",
+              "answer": "URGE"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Pequeña lagartija que limpia de insectos las casas",
+              "answer": "GECO"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cacerola",
+              "answer": "OLLA"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Preposición usada para expresar compañía",
+              "answer": "CON"
+            },
+            "59": {
+              "col": 11,
+              "row": 12,
+              "clue": "Artículo femenino plural",
+              "answer": "LAS"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Inic de narco colombiano apodado \"El Patrón\"",
+              "answer": "PE"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Símbolo químico del radio",
+              "answer": "RA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Fuerza irracional, fuerza…",
+              "answer": "BRUTA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Grupo etnorreligioso protestante que no usa electricidad",
+              "answer": "AMISH"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Planchad el pelo",
+              "answer": "ALISAD"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "Perseguid, hostigad",
+              "answer": "SEGUID"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Nadia Comaneci no contesta",
+              "answer": "NC"
+            },
+            "15": {
+              "col": 3,
+              "row": 2,
+              "clue": "Depósito de agua con caño, llave y pila para asearse las manos",
+              "answer": "LAVAMANOS"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Pause",
+              "answer": "II"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Asistencia oficial para el desarrollo (siglas)",
+              "answer": "AOD"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "De forma parcial aplicar en el cabello",
+              "answer": "CAPILAR"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Beisbol Jugada decretada por el árbitro que retira a un jugador de la ofensiva",
+              "answer": "OUT"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Usuario gringo",
+              "answer": "USER"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Dios egipcio de la sabiduría",
+              "answer": "TOT"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Cada una de las tetas de la vaca",
+              "answer": "UBRE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Tabaco en polvo, para uso nasal",
+              "answer": "RAPE"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Primer país en recibir el año nuevo junto con Kiribati",
+              "answer": "SAMOA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Metros sobre el nivel del mar",
+              "answer": "MSNM"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… de Zamora\" primogénita de Fernando I de León",
+              "answer": "URRACA"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Series de aventuras contadas en forma de historietas gráficas",
+              "answer": "TEBEOS"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "\"… Fortún\" creadora de Celia y muchos cuentos más",
+              "answer": "ELENA"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Dar su brazo a torcer",
+              "answer": "CEDER"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Tecla para activar \"sustitución e inserción de texto\"",
+              "answer": "INSERT"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Carácter sin orgullo, siempre a las órdenes de otros",
+              "answer": "SERVIL"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Crece en dirección opuesta al tallo",
+              "answer": "RAIZ"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Repita por favor, su títere perdió la cabeza",
+              "answer": "ITERE"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Am Varón que ha engendrado",
+              "answer": "TATA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lleva a remolque un navío",
+              "answer": "ATOA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Uruguay no es tan guay",
+              "answer": "URU"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Poesías",
+              "answer": "ODAS"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Formato alemán que establece los tamaños del papel",
+              "answer": "DIN"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Afección de la parte baja de la espalda",
+              "answer": "LUMBAGO"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Cogió el móvil y dijo:…",
+              "answer": "ALO"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Original versión",
+              "answer": "OV"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"Pablo…\", cantautor de 'Mi agüita amarilla' (Los toreros muertos)",
+              "answer": "CARBONELL"
+            },
+            "60": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dominio web para Islandia",
+              "answer": "IS"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Ponga su opinión en contra de lo que dice el otro",
+              "answer": "OPONGA"
+            },
+            "63": {
+              "col": 8,
+              "row": 13,
+              "clue": "Le explica la situación a Clara",
+              "answer": "ACLARA"
+            },
+            "65": {
+              "col": 2,
+              "row": 14,
+              "clue": "Niño estratega en la novela de ciencia ficción de Orson Scott Card",
+              "answer": "ENDER"
+            },
+            "66": {
+              "col": 8,
+              "row": 14,
+              "clue": "Asa ligeramente algo",
+              "answer": "SOASA"
+            }
+          }
+        },
+        "vertical_clues": "1-Inic del artista marcial más influyente de todos los tiempos\r\n2-¿De dril en abril? \r\n3-La Universidad San Carlos (de Guatemala) fundada en 1676\r\n4-Plancha usada en la cocina india y pakistaní\r\n5-Se ajusta a las circunstancias para sobrellevarlas\r\n6-Cada una de las partes en un combate de boxeo\r\n7-Menor Extranjero No Acompañado\r\n8-Burro de peluche amigo de Winnie The Pooh\r\n9-Suyos\r\n10-Homofobia Interiorizada\r\n11-Perseguir, hostigar\r\n13-Que sucede solo de día\r\n14-Tercer país más pequeño del mundo\r\n16-Tumor formado por elementos musculares\r\n18-Partes que componen un test o cuestionario\r\n20-Tristeza profunda y prolongada, a menudo patológica \r\n22-Como me siento cuando evalúan mi actitud\r\n24-Las familias reales\r\n26-Italiano, autor de la novela \"El nombre de la Rosa\"\r\n28-\"… Cazorla\" centrocampo apodado El Mago\r\n29-Tensé las velas del barco, las…\r\n32-El Certificado de Reducción de Emisiones (del Protocolo de Kioto) \r\n34-Evaluador de Defensa Electrónica\r\n37-Desuso Forajido\r\n38-Originario del lugar donde se ha nacido\r\n39-Gramática Palabra que indica acción dentro de una oración\r\n41-País de origen del autor de \"La Divina Comedia\"\r\n42-Cansados, desfallecidos, faltos de fuerzas\r\n45-Derribar algo o a alguien, especialmente empujando \r\n46-Ponchos de lana\r\n52-Lugar, país, región en inglés \r\n53-Es de vida o muerte, por eso ruge como loco\r\n54-Pequeña lagartija que limpia de insectos las casas\r\n55-Cacerola\r\n58-Preposición usada para expresar compañía\r\n59-Artículo femenino plural\r\n62-Inic de narco colombiano apodado \"El Patrón\"\r\n64-Símbolo químico del radio\r\n",
+        "horizontal_clues": "1-Fuerza irracional, fuerza…\r\n6-Grupo etnorreligioso protestante que no usa electricidad\r\n11-Planchad el pelo\r\n12-Perseguid, hostigad\r\n14-Nadia Comaneci no contesta\r\n15-Depósito de agua con caño, llave y pila para asearse las manos\r\n17-Pause\r\n19-Asistencia oficial para el desarrollo (siglas)\r\n21-De forma parcial aplicar en el cabello\r\n22-Beisbol Jugada decretada por el árbitro que retira a un jugador de la ofensiva\r\n23-Usuario gringo\r\n25-Dios egipcio de la sabiduría\r\n26-Cada una de las tetas de la vaca\r\n27-Tabaco en polvo, para uso nasal\r\n28-Primer país en recibir el año nuevo junto con Kiribati\r\n30-Metros sobre el nivel del mar\r\n31-\"… de Zamora\" primogénita de Fernando I de León\r\n33-Series de aventuras contadas en forma de historietas gráficas\r\n35-\"… Fortún\" creadora de Celia y muchos cuentos más\r\n36-Dar su brazo a torcer\r\n37-Tecla para activar \"sustitución e inserción de texto\"\r\n40-Carácter sin orgullo, siempre a las órdenes de otros \r\n43-Crece en dirección opuesta al tallo\r\n44-Repita por favor, su títere perdió la cabeza\r\n47-Am Varón que ha engendrado\r\n48-Lleva a remolque un navío\r\n49-Uruguay no es tan guay\r\n50-Poesías\r\n51-Formato alemán que establece los tamaños del papel\r\n52-Afección de la parte baja de la espalda\r\n56-Cogió el móvil y dijo:…\r\n57-Original versión\r\n58-\"Pablo…\", cantautor de 'Mi agüita amarilla' (Los toreros muertos) \r\n60-Dominio web para Islandia\r\n61-Ponga su opinión en contra de lo que dice el otro\r\n63-Le explica la situación a Clara\r\n65-Niño estratega en la novela de ciencia ficción de Orson Scott Card \r\n66-Asa ligeramente algo\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,13,#\r\n14,#,#,15,#,#,#,16,#,#,#,#,#,17,18\r\n19,#,20,#,21,#,#,#,#,#,#,#,22,#,#\r\n23,#,#,24,#,#,25,#,#,#,#,26,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n31,#,#,#,32,#,#,#,#,33,34,#,#,#,#\r\n#,#,35,#,#,#,#,#,36,#,#,#,#,#,#\r\n37,38,#,#,#,#,#,39,#,40,#,#,#,41,42\r\n43,#,#,#,#,44,45,#,46,#,#,47,#,#,#\r\n48,#,#,#,#,#,49,#,#,#,#,50,#,#,#\r\n51,#,#,#,52,53,#,#,#,54,55,#,56,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,59,#,60,#\r\n#,61,62,#,#,#,#,#,63,#,#,#,64,#,#\r\n#,#,65,#,#,#,#,#,66,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5349,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-31T19:12:41.939825Z",
+      "updatedAt": "2026-03-31T19:20:46.010145Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##TIPAS#INEPTO#\r\n#SERENE#NEPAL#D\r\nCAMERUN#FUEL#UE\r\nONI#MANUEL#MISS\r\nNG#PALANCA##NIF\r\nTRAEN##CU#HOTEL\r\nRECLE#TINTORERO\r\nA#LUCIR#DURAR#R\r\nACADEMICO#CLICA\r\nTUMOR#GH##HENOC\r\nASA##TEORIAS#RI\r\nCURO#ESPORT#TOO\r\nAL#JIMI#NIEMANN\r\nR#VENOM#DARICO#\r\n#AHORRO#ANOTO##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Tuve miedo",
+              "answer": "TEMI"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ahí estaré",
+              "answer": "IRE"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Estar ahí, hasta el amanecer",
+              "answer": "PERMANECER"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Que se repite cada año",
+              "answer": "ANUAL"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Corredor de Fórmula 1, brasilero (1960",
+              "answer": "SENNA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Incapaz de engendrar o producir fruto",
+              "answer": "INFECUNDO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Postre parecido al barquillo, pero más frágil",
+              "answer": "NEULA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Si LP puede decirse elepé, entonces EP puede decirse…",
+              "answer": "EPE"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… Beach” famosa playa de Aruba",
+              "answer": "PALM"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Símbolo químico del Talio",
+              "answer": "TL"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Linaje o parentesco",
+              "answer": "SANGRE"
+            },
+            "13": {
+              "col": 14,
+              "row": 1,
+              "clue": "Pérdida de la virginidad",
+              "answer": "DESFLORACION"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Contrarrestar el avance del enemigo pasando a la ofensiva",
+              "answer": "CONTRAATACAR"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Desuso: Ujier, portero que servía en un palacio",
+              "answer": "USIER"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "Sujeté el yugo a los bueyes",
+              "answer": "UNCI"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Entretanto, mientras",
+              "answer": "INTERIN"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Cubierto de mucho pelo",
+              "answer": "PELUDO"
+            },
+            "26": {
+              "col": 2,
+              "row": 5,
+              "clue": "Conferir, por voz común, algún cargo u honor",
+              "answer": "ACLAMAR"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "Vendedor de horchata",
+              "answer": "HORCHATERO"
+            },
+            "29": {
+              "col": 11,
+              "row": 5,
+              "clue": "Verbales, bucales",
+              "answer": "ORALES"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Que ocupa el lugar treinta",
+              "answer": "TRIGESIMO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Apócope de \"tuyo\"",
+              "answer": "TU"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Importan muy poco",
+              "answer": "IM"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Habitación muy estrecha y con poca luz",
+              "answer": "CUSUL"
+            },
+            "38": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"Chip y…\" los guardianes rescatadores",
+              "answer": "CHOP"
+            },
+            "40": {
+              "col": 13,
+              "row": 8,
+              "clue": "Llegó con el peón hasta el final y se pidió la reina",
+              "answer": "CORONO"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Recelo de un daño futuro",
+              "answer": "TEMOR"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Recorre un lugar en servicio de vigilancia",
+              "answer": "RONDA"
+            },
+            "47": {
+              "col": 9,
+              "row": 10,
+              "clue": "Se trasladarían de un lugar hacia otro",
+              "answer": "IRIAN"
+            },
+            "50": {
+              "col": 3,
+              "row": 11,
+              "clue": "Lo veo por encima, lo…",
+              "answer": "OJEO"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "Tortilla de maíz enrollada, típica de México",
+              "answer": "TACO"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "Instituto Nacional de Rehabilitación",
+              "answer": "INR"
+            },
+            "57": {
+              "col": 11,
+              "row": 12,
+              "clue": "Un poco mitómano",
+              "answer": "MIT"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales del autor de \"Los Miserables\"",
+              "answer": "VH"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "Agitada pista sobre mujeres adultas",
+              "answer": "TIPAS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "No apto, ni a propósito para algo",
+              "answer": "INEPTO"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Sosiegue, tranquilice algo",
+              "answer": "SERENE"
+            },
+            "12": {
+              "col": 8,
+              "row": 1,
+              "clue": "País natal de Siddhartha Gautama",
+              "answer": "NEPAL"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Me Curan en este país africano",
+              "answer": "CAMERUN"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Fracción del petróleo natural obtenida",
+              "answer": "FUEL"
+            },
+            "16": {
+              "col": 13,
+              "row": 2,
+              "clue": "Iniciales del italiano autor de \"El Nombre de la Rosa\"",
+              "answer": "UE"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ogro del folklore japonés",
+              "answer": "ONI"
+            },
+            "18": {
+              "col": 4,
+              "row": 3,
+              "clue": "\"Víctor…\" conocido por cantar 'Sólo pienso en ti', en los 70",
+              "answer": "MANUEL"
+            },
+            "20": {
+              "col": 11,
+              "row": 3,
+              "clue": "\"… Universo\" el mayor concurso de belleza",
+              "answer": "MISS"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Símbolo del Nanogramo",
+              "answer": "NG"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Máquina simple que data de la prehistoria",
+              "answer": "PALANCA"
+            },
+            "24": {
+              "col": 12,
+              "row": 4,
+              "clue": "Número para el control fiscal de actividades económicas",
+              "answer": "NIF"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Vienen con el vino, ellos lo…",
+              "answer": "TRAEN"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Símbolo químico del cobre",
+              "answer": "CU"
+            },
+            "28": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"Welcome to the… California\" (Eagles, 1977)",
+              "answer": "HOTEL"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Tiempo libre para los prebendados del coro",
+              "answer": "RECLE"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Hombre que tiene por oficio teñir o dar tintes",
+              "answer": "TINTORERO"
+            },
+            "33": {
+              "col": 2,
+              "row": 7,
+              "clue": "Llevar a la vista, exhibir lo que alguien se ha puesto",
+              "answer": "LUCIR"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Subsistir, permanecer",
+              "answer": "DURAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Relativo a las instituciones de enseñanza superior",
+              "answer": "ACADEMICO"
+            },
+            "39": {
+              "col": 10,
+              "row": 8,
+              "clue": "Usa el botón del ratón, pincha",
+              "answer": "CLICA"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Med Masa de células anormales",
+              "answer": "TUMOR"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Dominio web para Ghana",
+              "answer": "GH"
+            },
+            "43": {
+              "col": 10,
+              "row": 9,
+              "clue": "Hijo de Madián y nieto de Abraham",
+              "answer": "HENOC"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "En el centro de las casas",
+              "answer": "ASA"
+            },
+            "45": {
+              "col": 5,
+              "row": 10,
+              "clue": "Ideas que intentan darle sentido al mundo",
+              "answer": "TEORIAS"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "Risa moderada",
+              "answer": "RI"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Remedio un mal",
+              "answer": "CURO"
+            },
+            "51": {
+              "col": 5,
+              "row": 11,
+              "clue": "Competición de videojuegos a nivel profesional",
+              "answer": "ESPORT"
+            },
+            "52": {
+              "col": 12,
+              "row": 11,
+              "clue": "Esta también está escrita en inglés",
+              "answer": "TOO"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"… Bano\" cantante italiano",
+              "answer": "AL"
+            },
+            "54": {
+              "col": 3,
+              "row": 12,
+              "clue": "El mejor guitarrista de todos los tiempos, según la Rolling Stone",
+              "answer": "JIMI"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"Albert…\" descubrió la cocaína en forma cristalina",
+              "answer": "NIEMANN"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Se parece a Spiderman, pero con traje negro y muchos dientes",
+              "answer": "VENOM"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Moneda de oro que hizo acuñar Darío I, antiguo rey persa",
+              "answer": "DARICO"
+            },
+            "60": {
+              "col": 1,
+              "row": 14,
+              "clue": "Acto de economizar dinero",
+              "answer": "AHORRO"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Deporte: Marcó tantos",
+              "answer": "ANOTO"
+            }
+          }
+        },
+        "vertical_clues": "1-Tuve miedo\r\n2-Ahí estaré\r\n3-Estar ahí, hasta el amanecer\r\n4-Que se repite cada año\r\n5-Corredor de Fórmula 1, brasilero (1960-94) \r\n6-Incapaz de engendrar o producir fruto \r\n7-Postre parecido al barquillo, pero más frágil\r\n8-Si LP puede decirse elepé, entonces EP puede decirse…\r\n9-\"… Beach” famosa playa de Aruba\r\n10-Símbolo químico del Talio\r\n11-Linaje o parentesco\r\n13-Pérdida de la virginidad \r\n14-Contrarrestar el avance del enemigo pasando a la ofensiva\r\n16-Desuso: Ujier, portero que servía en un palacio\r\n19-Sujeté el yugo a los bueyes\r\n21-Entretanto, mientras\r\n23-Cubierto de mucho pelo \r\n26-Conferir, por voz común, algún cargo u honor\r\n28-Vendedor de horchata\r\n29-Verbales, bucales\r\n31-Que ocupa el lugar treinta \r\n32-Apócope de \"tuyo\"\r\n34-Importan muy poco\r\n37-Habitación muy estrecha y con poca luz\r\n38-\"Chip y…\" los guardianes rescatadores\r\n40-Llegó con el peón hasta el final y se pidió la reina\r\n45-Recelo de un daño futuro\r\n46-Recorre un lugar en servicio de vigilancia\r\n47-Se trasladarían de un lugar hacia otro \r\n50-Lo veo por encima, lo…\r\n52-Tortilla de maíz enrollada, típica de México\r\n55-Instituto Nacional de Rehabilitación\r\n57-Un poco mitómano\r\n58-Iniciales del autor de \"Los Miserables\"",
+        "horizontal_clues": "1-Agitada pista sobre mujeres adultas\r\n6-No apto, ni a propósito para algo\r\n11-Sosiegue, tranquilice algo\r\n12-País natal de Siddhartha Gautama\r\n14-Me Curan en este país africano\r\n15-Fracción del petróleo natural obtenida\r\n16-Iniciales del italiano autor de \"El Nombre de la Rosa\"\r\n17-Ogro del folklore japonés\r\n18-\"Víctor…\" conocido por cantar 'Sólo pienso en ti', en los 70\r\n20-\"… Universo\" el mayor concurso de belleza\r\n22-Símbolo del Nanogramo\r\n23-Máquina simple que data de la prehistoria\r\n24-Número para el control fiscal de actividades económicas\r\n25-Vienen con el vino, ellos lo…\r\n27-Símbolo químico del cobre\r\n28-\"Welcome to the… California\" (Eagles, 1977) \r\n30-Tiempo libre para los prebendados del coro\r\n31-Hombre que tiene por oficio teñir o dar tintes\r\n33-Llevar a la vista, exhibir lo que alguien se ha puesto\r\n35-Subsistir, permanecer \r\n36-Relativo a las instituciones de enseñanza superior \r\n39-Usa el botón del ratón, pincha\r\n41-Med Masa de células anormales\r\n42-Dominio web para Ghana\r\n43-Hijo de Madián y nieto de Abraham\r\n44-En el centro de las casas\r\n45-Ideas que intentan darle sentido al mundo\r\n48-Risa moderada\r\n49-Remedio un mal\r\n51-Competición de videojuegos a nivel profesional \r\n52-Esta también está escrita en inglés\r\n53-\"… Bano\" cantante italiano\r\n54-El mejor guitarrista de todos los tiempos, según la Rolling Stone\r\n56-\"Albert…\" descubrió la cocaína en forma cristalina\r\n58-Se parece a Spiderman, pero con traje negro y muchos dientes\r\n59-Moneda de oro que hizo acuñar Darío I, antiguo rey persa\r\n60-Acto de economizar dinero\r\n61-Deporte: Marcó tantos",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,5,#,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,#,12,#,#,#,#,#,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,16,#\r\n17,#,#,#,18,#,#,19,#,#,#,20,21,#,#\r\n22,#,#,23,#,#,#,#,#,#,#,#,24,#,#\r\n25,#,26,#,#,#,#,27,#,#,28,29,#,#,#\r\n30,#,#,#,#,#,31,#,#,32,#,#,#,#,#\r\n#,#,33,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,#,#,#,#,38,#,#,39,#,#,40,#\r\n41,#,#,#,#,#,42,#,#,#,43,#,#,#,#\r\n44,#,#,#,#,45,#,#,46,47,#,#,#,48,#\r\n49,#,#,50,#,51,#,#,#,#,#,#,52,#,#\r\n53,#,#,54,55,#,#,#,56,#,#,57,#,#,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,#,#,#\r\n#,60,#,#,#,#,#,#,61,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

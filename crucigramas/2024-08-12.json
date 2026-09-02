@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 711,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-08-11T13:44:12.020230Z",
+      "updatedAt": "2024-08-11T13:44:12.020257Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-08-12",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BARBAS#CAMAFEO\r\nF#PLAGIA#MELA#J\r\nUV#ANUEL#ADMIRE\r\nNIC#DESENDIOSAR\r\nDARK#SOLIA#RAYO\r\nAJUAR##OC#TINAS\r\nRESTO#ASOME###O\r\n#SHENZI#LENTAS#\r\nF###DARSE#GANAS\r\nAGAVE#BI##ANCLO\r\nLAVA#NULOS#OHMS\r\nANALGESICOS#OAT\r\nCONDOR#CELAR#NE\r\nI#CEBO#ELIGEN#N\r\nASESINO#OSABAN#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Austin Powers.",
+              "answer": "AP"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Rafael, Luis y Alberto.",
+              "answer": "RLA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Una \"boy ...\" los Backstreet Boys, One Direction o BTS.",
+              "answer": "BAND"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Mezcles el café con agua, lo...",
+              "answer": "AGUES"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Sí, eso es así, desagradable y antipático.",
+              "answer": "SIESO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "La adorada Amanda perdió el norte.",
+              "answer": "AMADA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Comparé una cantidad con su unidad respectiva.",
+              "answer": "MEDI"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Antiguo condimento del Al",
+              "answer": "ALMORI"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ave de consumo.",
+              "answer": "FAISAN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Desvelado, se le nota en los ojos.",
+              "answer": "OJEROSO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Establecer o crear una institución.",
+              "answer": "FUNDAR"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Determinan el color de nuestros ojos o del pelo.",
+              "answer": "ALELOS"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Los periplos de Gulliver y Marco Polo.",
+              "answer": "VIAJES"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "\"No te pasas de la...\" línea.",
+              "answer": "RAYA"
+            },
+            "23": {
+              "col": 2,
+              "row": 3,
+              "clue": "Anglicismo coloquial que denota enamoramiento fugaz.",
+              "answer": "CRUSH"
+            },
+            "25": {
+              "col": 8,
+              "row": 3,
+              "clue": "Actriz australiana protagonista de \"Los Otros\".",
+              "answer": "NICOLE"
+            },
+            "27": {
+              "col": 3,
+              "row": 4,
+              "clue": "\"... Winslet\" protagonista del Titanic (1997).",
+              "answer": "KATE"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "De vueltas alrededor de algo.",
+              "answer": "RONDE"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tome, coja.",
+              "answer": "TENGA"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Avión de pasajeros más grande del mundo.",
+              "answer": "AIRBUS"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "Mire cómo los extremos se juntan.",
+              "answer": "ME"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Piel de zorra.",
+              "answer": "ZA"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Forma de nombrar a un italiano en América del Sur.",
+              "answer": "TANO"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Nacho recapacita, eso te queda muy grande.",
+              "answer": "ANCHO"
+            },
+            "42": {
+              "col": 13,
+              "row": 7,
+              "clue": "Ensillan, aparejan.",
+              "answer": "SALMAN"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Argumento engañoso que parece válido.",
+              "answer": "FALACIA"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Compuesto con el que se fabrican los haces de la fibra óptica.",
+              "answer": "SILICE"
+            },
+            "47": {
+              "col": 14,
+              "row": 8,
+              "clue": "Mantén al sujetador.",
+              "answer": "SOSTEN"
+            },
+            "49": {
+              "col": 1,
+              "row": 9,
+              "clue": "Triunfo porque cobro bien.",
+              "answer": "GANO"
+            },
+            "50": {
+              "col": 2,
+              "row": 9,
+              "clue": "Anticipo de dinero o de otra cosa.",
+              "answer": "AVANCE"
+            },
+            "51": {
+              "col": 3,
+              "row": 9,
+              "clue": "\"Manolo...' el escultor valenciano de las meninas.",
+              "answer": "VALDES"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Emperador romano.",
+              "answer": "NERON"
+            },
+            "56": {
+              "col": 8,
+              "row": 10,
+              "clue": "Mancha redonda con forma de ojo en las alas de las mariposas.",
+              "answer": "OCELO"
+            },
+            "57": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Marco Antonio...\", cantante mexicano.",
+              "answer": "SOLIS"
+            },
+            "60": {
+              "col": 4,
+              "row": 11,
+              "clue": "Desierto situado al norte de China y sur de Mongolia.",
+              "answer": "GOBI"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cada historia vikinga.",
+              "answer": "SAGA"
+            },
+            "65": {
+              "col": 11,
+              "row": 12,
+              "clue": "Esta es un poco rebuscada.",
+              "answer": "REB"
+            },
+            "69": {
+              "col": 12,
+              "row": 13,
+              "clue": "Casi nada.",
+              "answer": "NA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Cuando las... de tu vecino veas pelar, pon las tuyas a remojar\".",
+              "answer": "BARBAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "El colgante de piedra tallado está en la cama y es feo.",
+              "answer": "CAMAFEO"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Copia obras ajenas, dándolas como propias.",
+              "answer": "PLAGIA"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Mezcla de pintura usada para marcar el ganado lanar.",
+              "answer": "MELA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ultra Violeta.",
+              "answer": "UV"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "\"... AA\" cantante de trap puertorriqueño.",
+              "answer": "ANUEL"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Vi, contemplé o consideré con estima.",
+              "answer": "ADMIRE"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Hay que seguir las Normas Internacionales de Contabilidad.",
+              "answer": "NIC"
+            },
+            "24": {
+              "col": 4,
+              "row": 3,
+              "clue": "Quitar el carácter divino a alguien o algo.",
+              "answer": "DESENDIOSAR"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Serie alemana de Netflix, que gira en torno al tiempo.",
+              "answer": "DARK"
+            },
+            "28": {
+              "col": 5,
+              "row": 4,
+              "clue": "Parece que Sonia frecuentaba mirar al asilo.",
+              "answer": "SOLIA"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lo que porta el dios griego Zeus en la mano.",
+              "answer": "RAYO"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "Cosas que aporta la mujer al matrimonio.",
+              "answer": "AJUAR"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "Lengua provenzal.",
+              "answer": "OC"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pilas que sirven para bañarse todo el cuerpo.",
+              "answer": "TINAS"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Todo lo demás.",
+              "answer": "RESTO"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Saqué la cabeza por la ventana, me...",
+              "answer": "ASOME"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "\"..., Banzai y Ed\" las tres hienas del Rey León.",
+              "answer": "SHENZI"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Tardas o pausadas en el movimiento.",
+              "answer": "LENTAS"
+            },
+            "44": {
+              "col": 4,
+              "row": 8,
+              "clue": "Conceder el selenio es entregarse.",
+              "answer": "DARSE"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "Cuando tienes deseos, triunfas.",
+              "answer": "GANAS"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Planta con la que se hace el tequila.",
+              "answer": "AGAVE"
+            },
+            "52": {
+              "col": 6,
+              "row": 9,
+              "clue": "Bisexual.",
+              "answer": "BI"
+            },
+            "53": {
+              "col": 10,
+              "row": 9,
+              "clue": "Fondeo, ancoro mi nave.",
+              "answer": "ANCLO"
+            },
+            "54": {
+              "col": 0,
+              "row": 10,
+              "clue": "Materia derretida que sale de un volcán.",
+              "answer": "LAVA"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Sin valor.",
+              "answer": "NULOS"
+            },
+            "58": {
+              "col": 11,
+              "row": 10,
+              "clue": "Unidades de resistencia.",
+              "answer": "OHMS"
+            },
+            "59": {
+              "col": 0,
+              "row": 11,
+              "clue": "Medicamentos que calman el dolor.",
+              "answer": "ANALGESICOS"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "Avena en inglés.",
+              "answer": "OAT"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ave no marina, más grande del planeta.",
+              "answer": "CONDOR"
+            },
+            "64": {
+              "col": 7,
+              "row": 12,
+              "clue": "Observar a una persona por recelos.",
+              "answer": "CELAR"
+            },
+            "66": {
+              "col": 13,
+              "row": 12,
+              "clue": "Noreste.",
+              "answer": "NE"
+            },
+            "67": {
+              "col": 2,
+              "row": 13,
+              "clue": "Comida que se da a los animales para atraerlos.",
+              "answer": "CEBO"
+            },
+            "68": {
+              "col": 7,
+              "row": 13,
+              "clue": "Nombran por elección para un cargo o dignidad.",
+              "answer": "ELIGEN"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"El Columpio …\", banda española de rock y punk.",
+              "answer": "ASESINO"
+            },
+            "71": {
+              "col": 8,
+              "row": 14,
+              "clue": "De alguna manera me sonaba a que se atrevían.",
+              "answer": "OSABAN"
+            }
+          }
+        },
+        "vertical_clues": "2-Austin Powers. \r\n3-Rafael, Luis y Alberto.\r\n4-Una \"boy ...\" los Backstreet Boys, One Direction o BTS.\r\n5-Mezcles el café con agua, lo...\r\n6-Sí, eso es así, desagradable y antipático.\r\n8-La adorada Amanda perdió el norte.\r\n9-Comparé una cantidad con su unidad respectiva.\r\n10-Antiguo condimento del Al-Ándalus.\r\n11-Ave de consumo.\r\n12-Desvelado, se le nota en los ojos.\r\n13-Establecer o crear una institución. \r\n15-Determinan el color de nuestros ojos o del pelo.\r\n18-Los periplos de Gulliver y Marco Polo.\r\n21-\"No te pasas de la...\" línea.\r\n23-Anglicismo coloquial que denota enamoramiento fugaz.\r\n25-Actriz australiana protagonista de \"Los Otros\".\r\n27-\"... Winslet\" protagonista del Titanic (1997).\r\n31-De vueltas alrededor de algo.\r\n33-Tome, coja.\r\n35-Avión de pasajeros más grande del mundo.\r\n36-Mire cómo los extremos se juntan.\r\n38-Piel de zorra.\r\n40-Forma de nombrar a un italiano en América del Sur.\r\n41-Nacho recapacita, eso te queda muy grande.\r\n42-Ensillan, aparejan.\r\n43-Argumento engañoso que parece válido. \r\n45-Compuesto con el que se fabrican los haces de la fibra óptica.\r\n47-Mantén al sujetador.\r\n49-Triunfo porque cobro bien.\r\n50-Anticipo de dinero o de otra cosa.\r\n51-\"Manolo...' el escultor valenciano de las meninas.\r\n55-Emperador romano.\r\n56-Mancha redonda con forma de ojo en las alas de las mariposas.\r\n57-\"Marco Antonio...\", cantante mexicano.\r\n60-Desierto situado al norte de China y sur de Mongolia.\r\n61-Cada historia vikinga.\r\n65-Esta es un poco rebuscada.\r\n69-Casi nada.",
+        "horizontal_clues": "1-\"Cuando las... de tu vecino veas pelar, pon las tuyas a remojar\".\r\n7-El colgante de piedra tallado está en la cama y es feo.\r\n14-Copia obras ajenas, dándolas como propias.\r\n16-Mezcla de pintura usada para marcar el ganado lanar.\r\n17-Ultra Violeta.\r\n19-\"... AA\" cantante de trap puertorriqueño.\r\n20-Vi, contemplé o consideré con estima.\r\n22-Hay que seguir las Normas Internacionales de Contabilidad.\r\n24-Quitar el carácter divino a alguien o algo. \r\n26-Serie alemana de Netflix, que gira en torno al tiempo.\r\n28-Parece que Sonia frecuentaba mirar al asilo.\r\n29-Lo que porta el dios griego Zeus en la mano.\r\n30-Cosas que aporta la mujer al matrimonio.\r\n32-Lengua provenzal. \r\n33-Pilas que sirven para bañarse todo el cuerpo.\r\n34-Todo lo demás.\r\n35-Saqué la cabeza por la ventana, me...\r\n37-\"..., Banzai y Ed\" las tres hienas del Rey León.\r\n39-Tardas o pausadas en el movimiento.\r\n44-Conceder el selenio es entregarse.\r\n46-Cuando tienes deseos, triunfas.\r\n48-Planta con la que se hace el tequila.\r\n52-Bisexual.\r\n53-Fondeo, ancoro mi nave.\r\n54-Materia derretida que sale de un volcán.\r\n55-Sin valor.\r\n58-Unidades de resistencia.\r\n59-Medicamentos que calman el dolor.\r\n62-Avena en inglés.\r\n63-Ave no marina, más grande del planeta.\r\n64-Observar a una persona por recelos.\r\n66-Noreste.\r\n67-Comida que se da a los animales para atraerlos.\r\n68-Nombran por elección para un cargo o dignidad.\r\n70-\"El Columpio …\", banda española de rock y punk.\r\n71-De alguna manera me sonaba a que se atrevían.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,14,#,#,#,#,15,#,16,#,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,20,#,#,#,21,#\r\n22,#,23,#,24,#,#,#,25,#,#,#,#,#,#\r\n26,#,#,27,#,28,#,#,#,#,#,29,#,#,#\r\n30,#,#,#,31,#,#,32,#,#,33,#,#,#,#\r\n34,#,#,#,#,#,35,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,38,#,#,39,#,#,40,41,42,#\r\n43,#,#,#,44,#,#,45,#,#,46,#,#,#,47\r\n48,49,50,51,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,#,56,57,#,58,#,#,#\r\n59,#,#,#,60,#,#,#,#,#,61,#,62,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,65,#,66,#\r\n#,#,67,#,#,#,#,68,#,#,#,#,69,#,#\r\n70,#,#,#,#,#,#,#,71,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

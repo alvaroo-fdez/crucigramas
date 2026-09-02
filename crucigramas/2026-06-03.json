@@ -1,0 +1,517 @@
+{
+  "data": {
+    "id": 6162,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-02T19:34:15.680720Z",
+      "updatedAt": "2026-06-02T19:35:20.455853Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-03",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "LUMBAR#P#RECESO\r\nAVARA#AAH#HALOS\r\nBECA#BRYAN#NEXT\r\nU#EC#ATONO#TG#E\r\nROTENSE#DECAIDO\r\nAPEA#ASTIL#TRIP\r\nSERRA#AIC#CASSA\r\nTRO#BENGALA#ENT\r\nEE#SOLARPUNK#EA\r\n#STAR##A##EASY#\r\nM#INTEL#DELHI#D\r\nINSTASE#ACALLAR\r\nMISO#TACTO#OLLA\r\nECU#RANDALL#ALG\r\n#KEOPS#I#IZARA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Trabajaste en Argentina",
+              "answer": "LABURASTE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Nombre de la letra \"V\"",
+              "answer": "UVE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Soporte para plantas de interior o exterior",
+              "answer": "MACETERO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Nadar sacando los brazos fuera del agua",
+              "answer": "BRACEAR"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Desde el punto de vista de un gitano, uno que no pertenece a los suyos",
+              "answer": "PAYO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Interjección usada para preguntar o llamar",
+              "answer": "EH"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Composición clásica para coro y orquesta",
+              "answer": "CANTATA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Poner a uno mismo como la prioridad",
+              "answer": "ELEGIRSE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Medias en inglés",
+              "answer": "SOX"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Similar al homeópata, pero manipula músculos y articulaciones",
+              "answer": "OSTEOPATA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Mujer que crea con sus manos",
+              "answer": "ARTESANA"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Obstáculo o limitación que dificulta el rendimiento",
+              "answer": "HANDICAP"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Arquitectura: Asiento sobre el que se pone la columna o la estatua",
+              "answer": "BASA"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Que regrese el felino, no él",
+              "answer": "NOEL"
+            },
+            "25": {
+              "col": 1,
+              "row": 4,
+              "clue": "Manejes, dirijas una maquinaria",
+              "answer": "OPERES"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Cantera de Princesas",
+              "answer": "DISNEY"
+            },
+            "30": {
+              "col": 7,
+              "row": 5,
+              "clue": "Jaguar hembra",
+              "answer": "TIGRA"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Un loco barato, abandona la misión",
+              "answer": "ABORTA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Color especia",
+              "answer": "CANELA"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "\"¿Y cómo es …? / ¿en qué lugar se enamoró de ti? JL Perales",
+              "answer": "EL"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Un poco lujoso",
+              "answer": "LU"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Perfecto y libre de toda culpa",
+              "answer": "SANTO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Pintora mexicana convertida en un símbolo del feminismo",
+              "answer": "KAHLO"
+            },
+            "46": {
+              "col": 2,
+              "row": 9,
+              "clue": "Pañuelo de papel",
+              "answer": "TISSUE"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Parte del lomo de la caballería, donde asienta la silla",
+              "answer": "SILLAR"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Consentí, cuidé a mi niña",
+              "answer": "MIME"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Setas traviesas, las de aquí",
+              "answer": "ESTAS"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"David…\" director de 'Doctor Zhivago' (1965)",
+              "answer": "LEAN"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"Big …\" Inmenso conjunto de datos para analizar el comportamiento de usuarios",
+              "answer": "DATA"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Abreviatura de Escherichia coli",
+              "answer": "ECOLI"
+            },
+            "55": {
+              "col": 14,
+              "row": 10,
+              "clue": "\"… queen\" los son RuPaul o Kika Lorace",
+              "answer": "DRAG"
+            },
+            "57": {
+              "col": 1,
+              "row": 11,
+              "clue": "Alias, nombre de usuario en una plataforma (voz inglesa)",
+              "answer": "NICK"
+            },
+            "59": {
+              "col": 13,
+              "row": 11,
+              "clue": "En aquel lugar",
+              "answer": "ALLA"
+            },
+            "62": {
+              "col": 7,
+              "row": 12,
+              "clue": "Centro de Diagnóstico Integral (siglas)",
+              "answer": "CDI"
+            },
+            "65": {
+              "col": 4,
+              "row": 13,
+              "clue": "Iniciales del actor prota de 'Crepúsculo'",
+              "answer": "RP"
+            },
+            "66": {
+              "col": 10,
+              "row": 13,
+              "clue": "Iniciales del actor que interpreta a Xan Anta, en 'As Bestas'",
+              "answer": "LZ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Perteneciente a la espalda baja",
+              "answer": "LUMBAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Pausa, descanso, interrupción",
+              "answer": "RECESO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Codiciosa, tacaña",
+              "answer": "AVARA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Exclamación de alivio al quitarse un peso de encima",
+              "answer": "AAH"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Círculos de luz difusa en torno de un cuerpo luminoso",
+              "answer": "HALOS"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Subvención para realizar estudios o investigaciones",
+              "answer": "BECA"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "\"… Cranston\" actor que le dio vida a Walter White en 'Breaking Bad'",
+              "answer": "BRYAN"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Próximo, siguiente en inglés",
+              "answer": "NEXT"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Dominio web para Ecuador",
+              "answer": "EC"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Que no tiene acento prosódico (masc)",
+              "answer": "ATONO"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Dominio web para Togo",
+              "answer": "TG"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Cámbiense de puesto",
+              "answer": "ROTENSE"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "Diez veces se ha marchado abatido",
+              "answer": "DECAIDO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Desmonta a alguien de una caballería",
+              "answer": "APEA"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "Mango del hacha",
+              "answer": "ASTIL"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Un viaje divertido por los Estados Unidos",
+              "answer": "TRIP"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "La Calderona es una Sierra valenciana",
+              "answer": "SERRA"
+            },
+            "34": {
+              "col": 6,
+              "row": 6,
+              "clue": "Área de Investigación Criminal",
+              "answer": "AIC"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"… de la selva\" Municipio gerundense famoso por el corcho",
+              "answer": "CASSA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "República Dominicana: Mucho, por mucho",
+              "answer": "TRO"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "\"Tigre de…\", natural de la India",
+              "answer": "BENGALA"
+            },
+            "40": {
+              "col": 12,
+              "row": 7,
+              "clue": "Entiendo poco",
+              "answer": "ENT"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Movimiento retrofuturista que imagina sociedades sostenibles y ecológicas",
+              "answer": "SOLARPUNK"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Las dos letras más utilizadas en el idioma español",
+              "answer": "EA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"… Trek\" la serie del Enterprise",
+              "answer": "STAR"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "En inglés es fácil",
+              "answer": "EASY"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Informática: Mayor fabricante de procesadores",
+              "answer": "INTEL"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Estado de India",
+              "answer": "DELHI"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Impugnase, refutase, objetase",
+              "answer": "INSTASE"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Aplacar, aquietar, sosegar",
+              "answer": "ACALLAR"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Condimento japonés que acompaña a este tipo de ramen",
+              "answer": "MISO"
+            },
+            "61": {
+              "col": 5,
+              "row": 12,
+              "clue": "Hablar con cuidado, pendiente de las fibras que se tocan",
+              "answer": "TACTO"
+            },
+            "63": {
+              "col": 11,
+              "row": 12,
+              "clue": "Cacerola",
+              "answer": "OLLA"
+            },
+            "64": {
+              "col": 0,
+              "row": 13,
+              "clue": "Moneda de Europa anterior al euro",
+              "answer": "ECU"
+            },
+            "65": {
+              "col": 4,
+              "row": 13,
+              "clue": "Villano de 'Monster Inc', que parece un camaleón",
+              "answer": "RANDALL"
+            },
+            "67": {
+              "col": 12,
+              "row": 13,
+              "clue": "Aquí hay algo incompleto",
+              "answer": "ALG"
+            },
+            "68": {
+              "col": 1,
+              "row": 14,
+              "clue": "Faraón que ordenó construir la pirámide de Guiza",
+              "answer": "KEOPS"
+            },
+            "69": {
+              "col": 9,
+              "row": 14,
+              "clue": "Raiza está conflictuada porque subirá el estandarte",
+              "answer": "IZARA"
+            }
+          }
+        },
+        "vertical_clues": "1-Trabajaste en Argentina \r\n2-Nombre de la letra \"V\"\r\n3-Soporte para plantas de interior o exterior \r\n4-Nadar sacando los brazos fuera del agua\r\n5-Alcohólicos Anónimos\r\n6-Desde el punto de vista de un gitano, uno que no pertenece a los suyos\r\n8-Interjección usada para preguntar o llamar\r\n9-Composición clásica para coro y orquesta\r\n10-Poner a uno mismo como la prioridad\r\n11-Medias en inglés\r\n12-Similar al homeópata, pero manipula músculos y articulaciones\r\n14-Mujer que crea con sus manos\r\n15-Obstáculo o limitación que dificulta el rendimiento \r\n18-Arquitectura: Asiento sobre el que se pone la columna o la estatua\r\n19-Que regrese el felino, no él\r\n25-Manejes, dirijas una maquinaria\r\n27-Cantera de Princesas \r\n30-Jaguar hembra\r\n33-Un loco barato, abandona la misión\r\n35-Color especia\r\n38-\"¿Y cómo es …? / ¿en qué lugar se enamoró de ti? JL Perales\r\n39-Un poco lujoso\r\n42-Perfecto y libre de toda culpa\r\n43-Pintora mexicana convertida en un símbolo del feminismo\r\n46-Pañuelo de papel\r\n48-Parte del lomo de la caballería, donde asienta la silla\r\n49-Consentí, cuidé a mi niña\r\n51-Setas traviesas, las de aquí\r\n52-\"David…\" director de 'Doctor Zhivago' (1965)\r\n53-\"Big …\" Inmenso conjunto de datos para analizar el comportamiento de usuarios\r\n54-Abreviatura de Escherichia coli\r\n55-\"… queen\" los son RuPaul o Kika Lorace\r\n57-Alias, nombre de usuario en una plataforma (voz inglesa)\r\n59-En aquel lugar\r\n62-Centro de Diagnóstico Integral (siglas)\r\n65-Iniciales del actor prota de 'Crepúsculo'\r\n66-Iniciales del actor que interpreta a Xan Anta, en 'As Bestas'",
+        "horizontal_clues": "1-Perteneciente a la espalda baja\r\n7-Pausa, descanso, interrupción\r\n13-Codiciosa, tacaña\r\n14-Exclamación de alivio al quitarse un peso de encima \r\n16-Círculos de luz difusa en torno de un cuerpo luminoso\r\n17-Subvención para realizar estudios o investigaciones\r\n18-\"… Cranston\" actor que le dio vida a Walter White en 'Breaking Bad'\r\n20-Próximo, siguiente en inglés\r\n21-Dominio web para Ecuador\r\n22-Que no tiene acento prosódico (masc)\r\n23-Dominio web para Togo\r\n24-Cámbiense de puesto\r\n26-Diez veces se ha marchado abatido\r\n28-Desmonta a alguien de una caballería\r\n29-Mango del hacha\r\n31-Un viaje divertido por los Estados Unidos\r\n32-La Calderona es una Sierra valenciana\r\n34-Área de Investigación Criminal\r\n35-\"… de la selva\" Municipio gerundense famoso por el corcho\r\n36-República Dominicana: Mucho, por mucho\r\n37-\"Tigre de…\", natural de la India\r\n40-Entiendo poco\r\n41-Piel de elefante\r\n42-Movimiento retrofuturista que imagina sociedades sostenibles y ecológicas \r\n44-Las dos letras más utilizadas en el idioma español\r\n45-\"… Trek\" la serie del Enterprise\r\n47-En inglés es fácil\r\n50-Informática: Mayor fabricante de procesadores\r\n53-Estado de India\r\n56-Impugnase, refutase, objetase\r\n58-Aplacar, aquietar, sosegar\r\n60-Condimento japonés que acompaña a este tipo de ramen\r\n61-Hablar con cuidado, pendiente de las fibras que se tocan\r\n63-Cacerola\r\n64-Moneda de Europa anterior al euro\r\n65-Villano de 'Monster Inc', que parece un camaleón\r\n67-Aquí hay algo incompleto\r\n68-Faraón que ordenó construir la pirámide de Guiza\r\n69-Raiza está conflictuada porque subirá el estandarte",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,6,#,7,8,9,10,11,12\r\n13,#,#,#,#,#,14,#,15,#,16,#,#,#,#\r\n17,#,#,#,#,18,#,#,#,19,#,20,#,#,#\r\n#,#,21,#,#,22,#,#,#,#,#,23,#,#,#\r\n24,25,#,#,#,#,#,#,26,#,#,#,#,27,#\r\n28,#,#,#,#,29,#,30,#,#,#,31,#,#,#\r\n32,#,#,#,33,#,34,#,#,#,35,#,#,#,#\r\n36,#,#,#,37,38,#,#,#,39,#,#,40,#,#\r\n41,#,#,42,#,#,#,#,#,#,#,43,#,44,#\r\n#,45,46,#,#,#,#,#,#,#,47,#,48,#,#\r\n49,#,50,#,#,51,52,#,53,54,#,#,#,#,55\r\n56,57,#,#,#,#,#,#,58,#,#,#,#,59,#\r\n60,#,#,#,#,61,#,62,#,#,#,63,#,#,#\r\n64,#,#,#,65,#,#,#,#,#,66,#,67,#,#\r\n#,68,#,#,#,#,#,#,#,69,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

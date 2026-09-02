@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3099,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-07-30T13:44:11.655237Z",
+      "updatedAt": "2025-07-30T13:45:37.860111Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-08-01",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "RASGUEAR##AMEBA\r\nES#AULLO#PREDAR\r\nD#ULULAS#EDMOND\r\nIRME#ABETO#BUDA\r\nMEARE#ATINARA#N\r\nINMINENTE#MARC#\r\nB#IASI#ASCENDER\r\nLO#NETA#OIRA#SE\r\nENGAÑOSO#NINA#F\r\n#ARCA#ESPECULAR\r\nT#AIREABA#ACIDA\r\nRIFO#TROLA#LEON\r\nATINEN#RELEEN#E\r\nMETANO#NAUTA#UR\r\nAMOLO##ELDORADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Que todavía puede ganarse su perdón",
+              "answer": "REDIMIBLE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Iniciales del compositor de \"Cuando nadie me ve\"",
+              "answer": "AS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Principal museo de arte de Londres (2p)",
+              "answer": "GALERIANACIONAL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Tres herraduras",
+              "answer": "UUU"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Esa mujer es leal, aunque esté desorbitada",
+              "answer": "ELLA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Elogian, loan",
+              "answer": "ALABAN"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Famosa piedra, clave para descifrar los jeroglíficos egipcios",
+              "answer": "ROSETTA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Casi ardemos",
+              "answer": "ARD"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Estructura que delimita el núcleo de las células eucariotas (2p)",
+              "answer": "MEMBRANANUCLEAR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"… Manet\" pintor precursor del impresionismo francés",
+              "answer": "EDOUARD"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Una \"boy …\" los Backstreet Boys, One Direction o BTS",
+              "answer": "BAND"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Enciendan, prendan",
+              "answer": "ARDAN"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Soldado que corona",
+              "answer": "PEON"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Sabor básico",
+              "answer": "UMAMI"
+            },
+            "19": {
+              "col": 1,
+              "row": 3,
+              "clue": "Nombre del perro, amigo de Stimpy",
+              "answer": "REN"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Rígido, duro",
+              "answer": "TIESO"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Transmitir conocimientos a alguien",
+              "answer": "ENSEÑAR"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Segundo continente más grande del planeta",
+              "answer": "AMERICA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Se termina el pleito",
+              "answer": "EITO"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Plural de la segunda consonante del abecé",
+              "answer": "CES"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "La gran pantalla",
+              "answer": "CINE"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Colección de dichos de uso común",
+              "answer": "REFRANERO"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Winona en Tarragona",
+              "answer": "ONA"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Adornar, componer con curiosidad y limpieza",
+              "answer": "ASEAR"
+            },
+            "42": {
+              "col": 2,
+              "row": 8,
+              "clue": "Mineral del que se obtiene la mina de los lápices",
+              "answer": "GRAFITO"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Primer ordenador portátil fabricado en serie (1981)",
+              "answer": "OSBORNE"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Alguien parece un extraterrestre",
+              "answer": "ALIEN"
+            },
+            "48": {
+              "col": 8,
+              "row": 9,
+              "clue": "Zoo Relativo al manto de los moluscos",
+              "answer": "PALEAL"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Hígado de pescado",
+              "answer": "ADO"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Confabulación con que se perjudica a alguien",
+              "answer": "TRAMA"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prefijo referente a lo étnico",
+              "answer": "ETNO"
+            },
+            "55": {
+              "col": 1,
+              "row": 11,
+              "clue": "Punto a tratar",
+              "answer": "ITEM"
+            },
+            "57": {
+              "col": 9,
+              "row": 11,
+              "clue": "Avalancha, derrumbe",
+              "answer": "ALUD"
+            },
+            "60": {
+              "col": 4,
+              "row": 12,
+              "clue": "Río europeo, uno de los principales afluentes del río Danubio",
+              "answer": "ENO"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Lo veto en el gueto",
+              "answer": "ETO"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Tocar la guitarra, pero sin púa",
+              "answer": "RASGUEAR"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Parásito de la amebiasis",
+              "answer": "AMEBA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Iniciales del escritor argentino de 'Sobre héroes y tumbas'",
+              "answer": "ES"
+            },
+            "14": {
+              "col": 3,
+              "row": 1,
+              "clue": "Hizo como un lobo",
+              "answer": "AULLO"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Desus Saquear, robar",
+              "answer": "PREDAR"
+            },
+            "16": {
+              "col": 2,
+              "row": 2,
+              "clue": "Das gritos o alaridos",
+              "answer": "ULULAS"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "\"… Rostand'' autor de la obra 'Cyrano de Bergerac'",
+              "answer": "EDMOND"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Retirarme de un sitio",
+              "answer": "IRME"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Conífero predilecto como árbol de Navidad",
+              "answer": "ABETO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Sabio que fundó el budismo",
+              "answer": "BUDA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Orinaré",
+              "answer": "MEARE"
+            },
+            "25": {
+              "col": 6,
+              "row": 4,
+              "clue": "Dará en el blanco",
+              "answer": "ATINARA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo más próximo en mi mente, es que Eminem me miente",
+              "answer": "INMINENTE"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Salsero boricua, intérprete de \"Vivir lo nuestro\" (con la India)",
+              "answer": "MARC"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Ni así sacan la cabeza de la vieja capital de Moldavia",
+              "answer": "IASI"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Ir de un lugar a otro más alto",
+              "answer": "ASCENDER"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "En estos lotes no hay infusiones",
+              "answer": "LO"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Limpia, pura, clara y bien definida",
+              "answer": "NETA"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Escuchará, percibirá los sonidos",
+              "answer": "OIRA"
+            },
+            "40": {
+              "col": 13,
+              "row": 7,
+              "clue": "Me ha quedado claro, lo…",
+              "answer": "SE"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Farsante, fraudulento",
+              "answer": "ENGAÑOSO"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "\"… Hagen\", cantante alemana de ópera punk",
+              "answer": "NINA"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "Noé construyó una barca sin proa",
+              "answer": "ARCA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "¿Se va a espelucar si se pone a conjeturar?",
+              "answer": "ESPECULAR"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Ventilaba",
+              "answer": "AIREABA"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Lluvia contaminante",
+              "answer": "ACIDA"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Sorteo, apuesto",
+              "answer": "RIFO"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "España Falsedad, mentira",
+              "answer": "TROLA"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "El rey del Serengueti",
+              "answer": "LEON"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "La tenían por error, espero que esta vez acierten",
+              "answer": "ATINEN"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Leen de nuevo o vuelven a leer algo",
+              "answer": "RELEEN"
+            },
+            "63": {
+              "col": 0,
+              "row": 13,
+              "clue": "Quí Primero de la serie de los hidrocarburos alifáticos",
+              "answer": "METANO"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Hombre cuya profesión se ejerce en el mar",
+              "answer": "NAUTA"
+            },
+            "65": {
+              "col": 13,
+              "row": 13,
+              "clue": "Antigua ciudad del sur de Mesopotamia",
+              "answer": "UR"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Saco corte en la muela",
+              "answer": "AMOLO"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Ciudad prehispánica legendaria repleta de oro (2p)",
+              "answer": "ELDORADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Que todavía puede ganarse su perdón\r\n2-Iniciales del compositor de \"Cuando nadie me ve\"\r\n3-Principal museo de arte de Londres (2p)\r\n4-Tres herraduras\r\n5-Esa mujer es leal, aunque esté desorbitada\r\n6-Elogian, loan\r\n7-Famosa piedra, clave para descifrar los jeroglíficos egipcios\r\n8-Casi ardemos\r\n9-Estructura que delimita el núcleo de las células eucariotas (2p)\r\n10-\"… Manet\" pintor precursor del impresionismo francés\r\n11-Una \"boy …\" los Backstreet Boys, One Direction o BTS\r\n12-Enciendan, prendan\r\n15-Soldado que corona\r\n16-Sabor básico\r\n19-Nombre del perro, amigo de Stimpy\r\n21-Rígido, duro\r\n24-Transmitir conocimientos a alguien \r\n26-Segundo continente más grande del planeta\r\n28-Se termina el pleito\r\n30-Plural de la segunda consonante del abecé\r\n33-La gran pantalla\r\n34-Colección de dichos de uso común\r\n36-Winona en Tarragona\r\n38-Adornar, componer con curiosidad y limpieza\r\n42-Mineral del que se obtiene la mina de los lápices\r\n43-Primer ordenador portátil fabricado en serie (1981)\r\n45-Alguien parece un extraterrestre\r\n48-Zoo Relativo al manto de los moluscos\r\n49-Hígado de pescado\r\n50-Confabulación con que se perjudica a alguien\r\n52-Prefijo referente a lo étnico\r\n55-Punto a tratar\r\n57-Avalancha, derrumbe\r\n60-Río europeo, uno de los principales afluentes del río Danubio\r\n62-Lo veto en el gueto\r\n65-Abreviatura de usted",
+        "horizontal_clues": "1-Tocar la guitarra, pero sin púa\r\n8-Parásito de la amebiasis\r\n13-Iniciales del escritor argentino de 'Sobre héroes y tumbas' \r\n14-Hizo como un lobo\r\n15-Desus Saquear, robar\r\n16-Das gritos o alaridos\r\n17-\"… Rostand'' autor de la obra 'Cyrano de Bergerac'\r\n18-Retirarme de un sitio\r\n20-Conífero predilecto como árbol de Navidad\r\n22-Sabio que fundó el budismo\r\n23-Orinaré\r\n25-Dará en el blanco\r\n27-Lo más próximo en mi mente, es que Eminem me miente\r\n29-Salsero boricua, intérprete de \"Vivir lo nuestro\" (con la India)\r\n31-Ni así sacan la cabeza de la vieja capital de Moldavia\r\n32-Ir de un lugar a otro más alto\r\n35-En estos lotes no hay infusiones\r\n37-Limpia, pura, clara y bien definida\r\n39-Escuchará, percibirá los sonidos\r\n40-Me ha quedado claro, lo…\r\n41-Farsante, fraudulento\r\n44-\"… Hagen\", cantante alemana de ópera punk\r\n46-Noé construyó una barca sin proa\r\n47-¿Se va a espelucar si se pone a conjeturar?\r\n51-Ventilaba\r\n53-Lluvia contaminante\r\n54-Sorteo, apuesto\r\n56-España Falsedad, mentira\r\n58-El rey del Serengueti\r\n59-La tenían por error, espero que esta vez acierten\r\n61-Leen de nuevo o vuelven a leer algo\r\n63-Quí Primero de la serie de los hidrocarburos alifáticos\r\n64-Hombre cuya profesión se ejerce en el mar\r\n65-Antigua ciudad del sur de Mesopotamia\r\n66-Saco corte en la muela\r\n67-Ciudad prehispánica legendaria repleta de oro (2p)",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,7,#,#,8,9,10,11,12\r\n13,#,#,14,#,#,#,#,#,15,#,#,#,#,#\r\n#,#,16,#,#,#,#,#,#,17,#,#,#,#,#\r\n18,19,#,#,#,20,#,#,21,#,#,22,#,#,#\r\n23,#,#,#,24,#,25,#,#,#,26,#,#,#,#\r\n27,#,#,#,#,28,#,#,#,#,29,#,#,30,#\r\n#,#,31,#,#,#,#,32,#,33,#,#,#,#,34\r\n35,36,#,37,#,#,38,#,39,#,#,#,#,40,#\r\n41,#,42,#,#,#,#,43,#,44,#,#,45,#,#\r\n#,46,#,#,#,#,47,#,48,#,#,#,#,49,#\r\n50,#,51,#,#,52,#,#,#,#,53,#,#,#,#\r\n54,55,#,#,#,56,#,#,#,57,#,58,#,#,#\r\n59,#,#,#,60,#,#,61,#,#,62,#,#,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,#,#,65,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

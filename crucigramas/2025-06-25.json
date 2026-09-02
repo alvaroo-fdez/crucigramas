@@ -1,0 +1,480 @@
+{
+  "data": {
+    "id": 2542,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-06-09T15:28:57.549145Z",
+      "updatedAt": "2025-06-09T15:53:37.378288Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-06-25",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BEMOL#CERTAMEN\r\nP#DOPO##MUEVA#I\r\nOPERETA#INJERTO\r\nCICERONE#AANG##\r\nASANA#ULLS#TIOS\r\nSEN#REESE#LUNCH\r\n###AISLADO#RARO\r\nSHALOM###CHALET\r\nPELE#LIMPIAR###\r\nANEXA#VARON#CAS\r\nSOJA#BATI#DARTH\r\n##ANDE#SOLICITO\r\nVERDOSO#RECOSER\r\nI#SEÑAS##MAJO#E\r\nOPERANTE#APOLO#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Milicia Ayudante de campo",
+              "answer": "EDECAN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Habiten habitualmente en un lugar",
+              "answer": "MOREN"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "El trabajador de la ópera rió",
+              "answer": "OPERARIO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Templo del …\", casa de adoración con forma de flor",
+              "answer": "LOTO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sello discográfico británico",
+              "answer": "EMI"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Caracteres de la escritura de los antiguos escandinavos",
+              "answer": "RUNAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pieza de barro cocido para techos",
+              "answer": "TEJA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Me voy a arriesgar, me voy a meter en ese lío",
+              "answer": "AVENTURAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Una nota escrita a los lados de un documento",
+              "answer": "MARGINAL"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "A finales de junio",
+              "answer": "NIO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Escasas, limitadas en cantidad",
+              "answer": "POCAS"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Lo aplasté con mi pie, lo…",
+              "answer": "PISE"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"… AA\" cantante boricua de trap, Top 10 de artistas más escuchados",
+              "answer": "ANUEL"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Él sabe quién es la chica",
+              "answer": "ELSA"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Del Zeppelin, la luz",
+              "answer": "LED"
+            },
+            "27": {
+              "col": 13,
+              "row": 4,
+              "clue": "Creo que es amarillo terroso",
+              "answer": "OCRE"
+            },
+            "28": {
+              "col": 14,
+              "row": 4,
+              "clue": "Un chupito de un solo tiro",
+              "answer": "SHOT"
+            },
+            "31": {
+              "col": 5,
+              "row": 5,
+              "clue": "La Escuela Superior de Música de Lisboa",
+              "answer": "ESML"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "\"… Hamilton\" padre fundador de Estados Unidos con su propio musical",
+              "answer": "ALEXANDER"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Tiempo libre de una persona",
+              "answer": "OCIO"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Centros de belleza y estética, ideales para relajarse",
+              "answer": "SPAS"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "Hierba segada, seca, para alimento del ganado",
+              "answer": "HENO"
+            },
+            "38": {
+              "col": 2,
+              "row": 7,
+              "clue": "Distanciarse, irse muy lejos",
+              "answer": "ALEJARSE"
+            },
+            "40": {
+              "col": 10,
+              "row": 7,
+              "clue": "Golf Golpes adjudicados antes de empezar a jugar",
+              "answer": "HANDICAP"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Impuesto del 21%",
+              "answer": "IVA"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Esterillas de yoga",
+              "answer": "MATS"
+            },
+            "45": {
+              "col": 8,
+              "row": 8,
+              "clue": "Dignidad que hay en algunas iglesias catedrales",
+              "answer": "PRIOR"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Cavidad en los hornos que recibe el metal fundido",
+              "answer": "CRISOL"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "Abreviatura de \"Atentamente\"",
+              "answer": "ATTE"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "\"Gandía…\" reality juvenil de veraneo",
+              "answer": "SHORE"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Demuestran afecto con los labios",
+              "answer": "BESAN"
+            },
+            "54": {
+              "col": 11,
+              "row": 10,
+              "clue": "Recibo a alguien en mi casa",
+              "answer": "ACOJO"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Mal daño se ha hecho esta señora",
+              "answer": "DOÑA"
+            },
+            "58": {
+              "col": 9,
+              "row": 11,
+              "clue": "Norma que parece regular la conducta de alguien",
+              "answer": "LEMA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Lo que Silvio y Octavio tienen en común",
+              "answer": "VIO"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Poco ostentoso",
+              "answer": "OST"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cuando una nota está un semitono más baja de lo normal",
+              "answer": "BEMOL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Este va a ser de belleza",
+              "answer": "CERTAMEN"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Introduzco sustancias para mejorar el rendimiento físico",
+              "answer": "DOPO"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "Haga que un cuerpo deje el lugar que ocupa y pase a otro",
+              "answer": "MUEVA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ópera cómica",
+              "answer": "OPERETA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Implantación de una planta",
+              "answer": "INJERTO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "El guía del edificio explica su rara erección",
+              "answer": "CICERONE"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "El avatar, el último maestro del aire",
+              "answer": "AANG"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lo es el saludo al sol",
+              "answer": "ASANA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "A los ojos de un catalán",
+              "answer": "ULLS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Hermanos de su padre o madre",
+              "answer": "TIOS"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Sociedad Española de Neurología",
+              "answer": "SEN"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"… Witherspoon\", Óscar a la Mejor Actriz 2005",
+              "answer": "REESE"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Merienda",
+              "answer": "LUNCH"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Solo y sin contacto, por estar contagiado",
+              "answer": "AISLADO"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Poco común o frecuente",
+              "answer": "RARO"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Saludo pacífico hebreo",
+              "answer": "SHALOM"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Edificio familiar con jardín",
+              "answer": "CHALET"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "El Rey del Fútbol",
+              "answer": "PELE"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Acción de eliminar la suciedad",
+              "answer": "LIMPIAR"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Adjunta al contrato",
+              "answer": "ANEXA"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Ser humano de género masculino",
+              "answer": "VARON"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Árbol familia de la guayaba, típico de Costa Rica",
+              "answer": "CAS"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Leche con la que se prepara el tofu asiático",
+              "answer": "SOJA"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Moví con ímpetu",
+              "answer": "BATI"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "\"… Vader\", el papá de Luke y Leia",
+              "answer": "DARTH"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "No nade, camine",
+              "answer": "ANDE"
+            },
+            "57": {
+              "col": 7,
+              "row": 11,
+              "clue": "Parece que en el solsticio, se lo pidió formalmente",
+              "answer": "SOLICITO"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Podría decirse que es una mezcla del azul y el amarillo",
+              "answer": "VERDOSO"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Remendar con hilos",
+              "answer": "RECOSER"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Lengua de signos o gestual, lengua de…",
+              "answer": "SEÑAS"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Agradable, simpático",
+              "answer": "MAJO"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Psico Tipo de aprendizaje basado en consecuencias",
+              "answer": "OPERANTE"
+            },
+            "65": {
+              "col": 9,
+              "row": 14,
+              "clue": "Mit Griega Hermano gemelo de Artemisa",
+              "answer": "APOLO"
+            }
+          }
+        },
+        "vertical_clues": "2-Milicia Ayudante de campo\r\n3-Habiten habitualmente en un lugar\r\n4-El trabajador de la ópera rió\r\n5-\"Templo del …\", casa de adoración con forma de flor\r\n7-Sello discográfico británico\r\n8-Caracteres de la escritura de los antiguos escandinavos\r\n9-Pieza de barro cocido para techos\r\n10-Me voy a arriesgar, me voy a meter en ese lío\r\n11-Una nota escrita a los lados de un documento\r\n12-A finales de junio\r\n13-Escasas, limitadas en cantidad\r\n17-Lo aplasté con mi pie, lo…\r\n18-\"… AA\" cantante boricua de trap, Top 10 de artistas más escuchados\r\n21-Él sabe quién es la chica\r\n25-Del Zeppelin, la luz\r\n27-Creo que es amarillo terroso\r\n28-Un chupito de un solo tiro\r\n31-La Escuela Superior de Música de Lisboa\r\n33-\"… Hamilton\" padre fundador de Estados Unidos con su propio musical\r\n34-Tiempo libre de una persona\r\n36-Centros de belleza y estética, ideales para relajarse\r\n37-Hierba segada, seca, para alimento del ganado\r\n38-Distanciarse, irse muy lejos\r\n40-Golf Golpes adjudicados antes de empezar a jugar\r\n43-Impuesto del 21%\r\n44-Esterillas de yoga\r\n45-Dignidad que hay en algunas iglesias catedrales\r\n48-Cavidad en los hornos que recibe el metal fundido\r\n49-Abreviatura de \"Atentamente\"\r\n50-\"Gandía…\" reality juvenil de veraneo\r\n52-Demuestran afecto con los labios \r\n54-Recibo a alguien en mi casa\r\n56-Mal daño se ha hecho esta señora\r\n58-Norma que parece regular la conducta de alguien\r\n59-Lo que Silvio y Octavio tienen en común\r\n60-Poco ostentoso",
+        "horizontal_clues": "1-Cuando una nota está un semitono más baja de lo normal\r\n6-Este va a ser de belleza\r\n14-Introduzco sustancias para mejorar el rendimiento físico\r\n15-Haga que un cuerpo deje el lugar que ocupa y pase a otro\r\n16-Ópera cómica\r\n19-Implantación de una planta\r\n20-El guía del edificio explica su rara erección\r\n22-El avatar, el último maestro del aire\r\n23-Lo es el saludo al sol\r\n24-A los ojos de un catalán\r\n26-Hermanos de su padre o madre\r\n29-Sociedad Española de Neurología\r\n30-\"… Witherspoon\", Óscar a la Mejor Actriz 2005\r\n32-Merienda\r\n33-Solo y sin contacto, por estar contagiado\r\n35-Poco común o frecuente\r\n36-Saludo pacífico hebreo \r\n39-Edificio familiar con jardín\r\n41-El Rey del Fútbol\r\n42-Acción de eliminar la suciedad \r\n46-Adjunta al contrato\r\n47-Ser humano de género masculino\r\n48-Árbol familia de la guayaba, típico de Costa Rica\r\n51-Leche con la que se prepara el tofu asiático\r\n52-Moví con ímpetu\r\n53-\"… Vader\", el papá de Luke y Leia\r\n55-No nade, camine\r\n57-Parece que en el solsticio, se lo pidió formalmente\r\n59-Podría decirse que es una mezcla del azul y el amarillo\r\n61-Remendar con hilos\r\n62-Lengua de signos o gestual, lengua de…\r\n63-Agradable, simpático\r\n64-Psico Tipo de aprendizaje basado en consecuencias\r\n65-Mit Griega Hermano gemelo de Artemisa",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,7,8,9,10,11,#,12\r\n13,#,14,#,#,#,#,#,15,#,#,#,#,#,#\r\n16,17,#,#,#,#,18,#,19,#,#,#,#,#,#\r\n20,#,#,#,#,#,#,21,#,22,#,#,#,#,#\r\n23,#,#,#,#,#,24,#,25,#,#,26,#,27,28\r\n29,#,#,#,30,31,#,#,#,#,32,#,#,#,#\r\n#,#,#,33,#,#,#,#,#,34,#,35,#,#,#\r\n36,37,38,#,#,#,#,#,#,39,40,#,#,#,#\r\n41,#,#,#,#,42,43,44,45,#,#,#,#,#,#\r\n46,#,#,#,#,#,47,#,#,#,#,#,48,49,50\r\n51,#,#,#,#,52,#,#,#,#,53,54,#,#,#\r\n#,#,55,#,56,#,#,57,#,58,#,#,#,#,#\r\n59,#,#,#,#,#,60,#,61,#,#,#,#,#,#\r\n#,#,62,#,#,#,#,#,#,63,#,#,#,#,#\r\n64,#,#,#,#,#,#,#,#,65,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

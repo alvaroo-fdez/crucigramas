@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 5051,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-05T22:27:22.734085Z",
+      "updatedAt": "2026-03-05T22:49:57.394289Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Un pedacito de García Márquez",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ESCRITORES#GAPS\r\nQUIERO#AMOR#PRO\r\n#CRIA##POSESION\r\nPECANDO#SAPEABA\r\nIDUS#IFA#VERDAD\r\nRIL#QUITA#CIAR#\r\nIOAEU#CIM#HARAS\r\nT##FELICIDAD##O\r\nAESIR#OES#JOTAS\r\n#NEMO#SITIE#RUT\r\nEGRESO#SAN#VIRE\r\nPOBREZA#DERIVEN\r\nALIANZAS##EVIL#\r\nLAO#OEAO#UNIAIS\r\nESSO#MERECERLOS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo que tienen en común Esty Quesada y Elena Quiroga",
+              "answer": "EQ"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "No llores porque ya se terminó, sonríe porque…",
+              "answer": "SUCEDIO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Se mueve por una vía",
+              "answer": "CIRCULA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Te partías, te tronchabas",
+              "answer": "REIAS"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Viajarán a Teherán",
+              "answer": "IRAN"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Toca retirar el calcio",
+              "answer": "TO"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo que cantaba Canserbero",
+              "answer": "RAP"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Seguidores del género musical y subcultura Emotive hardcore",
+              "answer": "EMOS"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Piezas para beber al revés",
+              "answer": "SOSAV"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Condoler, compadecer",
+              "answer": "APIADAR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Catará, desgustará",
+              "answer": "PROBARA"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Emitid un timbre perceptible al oído",
+              "answer": "SONAD"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Segunda oportunidad para pasar de ronda",
+              "answer": "REPECHAJE"
+            },
+            "20": {
+              "col": 11,
+              "row": 2,
+              "clue": "Contenido dividido en partes sucesivas, no de una sola vez",
+              "answer": "SERIADO"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "El oro de los tontos",
+              "answer": "PIRITA"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Dispositivo intrauterino",
+              "answer": "DIU"
+            },
+            "23": {
+              "col": 6,
+              "row": 3,
+              "clue": "·La creación intelectual es el más misterioso y solitario de los…·",
+              "answer": "OFICIOS"
+            },
+            "27": {
+              "col": 7,
+              "row": 4,
+              "clue": "Remováis el fuego para avivarlo",
+              "answer": "ATICEIS"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Combustible usado en aviación y lámparas",
+              "answer": "QUEROSENO"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "·La… es más larga que el amor·",
+              "answer": "AMISTAD"
+            },
+            "34": {
+              "col": 3,
+              "row": 6,
+              "clue": "Pasajera, de corta duración",
+              "answer": "EFIMERA"
+            },
+            "37": {
+              "col": 14,
+              "row": 6,
+              "clue": "Mantén al sujetador",
+              "answer": "SOSTEN"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Pones la voz como la de Shakira",
+              "answer": "ENGOLAS"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Los son Novak Djokovic y Nikola Jokić",
+              "answer": "SERBIOS"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Intrascendente, banal, baladí",
+              "answer": "TRIVIAL"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"Marco…\" un emperador muy incómodo con su hijo",
+              "answer": "AURELIO"
+            },
+            "48": {
+              "col": 9,
+              "row": 9,
+              "clue": "Camine por su derecha",
+              "answer": "INE"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Coloq: Voz usada para saludar",
+              "answer": "EPALE"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Registro intermedio de una soprano o un barítono (inv)",
+              "answer": "OZZEM"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Sensación de…\" LA serie de los 90",
+              "answer": "VIVIR"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Pon la pila del mando sobre este",
+              "answer": "AAAE"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Fue el vocalista de Calle 13",
+              "answer": "RENE"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Hermana religiosa",
+              "answer": "SOR"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Universidad de Cantabria",
+              "answer": "UC"
+            },
+            "64": {
+              "col": 14,
+              "row": 13,
+              "clue": "Policía Nazi",
+              "answer": "SS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "·El deber de los… no es conservar el lenguaje, sino abrirle camino en la historia·",
+              "answer": "ESCRITORES"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Cortes en la emisión: pausas sin señal",
+              "answer": "GAPS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "·Te… no por quien eres, sino por quien soy cuando estoy contigo·",
+              "answer": "QUIERO"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "·El… se hace más grande y noble en la calamidad·",
+              "answer": "AMOR"
+            },
+            "17": {
+              "col": 12,
+              "row": 1,
+              "clue": "Estoy a favor del bro que parece profesional",
+              "answer": "PRO"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Conjunto de hijos que tienen  los animales",
+              "answer": "CRIA"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Una pertenencia",
+              "answer": "POSESION"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Cometiendo una falta muy católica",
+              "answer": "PECANDO"
+            },
+            "24": {
+              "col": 8,
+              "row": 3,
+              "clue": "Chivaba a alguien ante la autoridad",
+              "answer": "SAPEABA"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Fecha del calendario romano, famosa por el 15 de marzo",
+              "answer": "IDUS"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "La Internacional de Federaciones Anarquistas",
+              "answer": "IFA"
+            },
+            "28": {
+              "col": 9,
+              "row": 4,
+              "clue": "·A los demonios no hay que creerles ni cuando dicen la…·",
+              "answer": "VERDAD"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "La cintura de Marilyn",
+              "answer": "RIL"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Retira, saca",
+              "answer": "QUITA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Andar hacia atrás, retroceder",
+              "answer": "CIAR"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Vocales distraídas",
+              "answer": "IOAEU"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Concepto de fábrica integrada con ordenadores",
+              "answer": "CIM"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Crearás, producirás",
+              "answer": "HARAS"
+            },
+            "38": {
+              "col": 3,
+              "row": 7,
+              "clue": "·No hay medicina que cure lo que no cura la…·",
+              "answer": "FELICIDAD"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Dioses nórdicos, solo los hombres",
+              "answer": "AESIR"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "O es una vocal ¿o son varias?",
+              "answer": "OES"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Las primeras de Junio y Julio",
+              "answer": "JOTAS"
+            },
+            "46": {
+              "col": 1,
+              "row": 9,
+              "clue": "¿Él estaba en P Sherman, calle Wallaby, 42, Sydney o en Disney?",
+              "answer": "NEMO"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Puse bajo asedio una fortaleza",
+              "answer": "SITIE"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Antiguo Testamento: Bisabuela del rey David",
+              "answer": "RUT"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Salida, partida de descargo",
+              "answer": "EGRESO"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "\"… José\" el mejor padrastro de la historia",
+              "answer": "SAN"
+            },
+            "53": {
+              "col": 11,
+              "row": 10,
+              "clue": "Giré, crucé",
+              "answer": "VIRE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Carencia extrema de recursos",
+              "answer": "POBREZA"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Que lo encaminen con un especialista, que lo…",
+              "answer": "DERIVEN"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Acuerdos entre países para defenderse juntos",
+              "answer": "ALIANZAS"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Malvado en inglés",
+              "answer": "EVIL"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… Tse\" filósofo chino",
+              "answer": "LAO"
+            },
+            "62": {
+              "col": 4,
+              "row": 13,
+              "clue": "En el océano, perdió 100 liras y el nitrógeno",
+              "answer": "OEAO"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Juntabais, hacíais uno",
+              "answer": "UNIAIS"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Compañía petrolera antes conocida como Standard Oil",
+              "answer": "ESSO"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "\"La dignidad no consiste en poseer honores, sino en…\" Aristóteles",
+              "answer": "MERECERLOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Lo que tienen en común Esty Quesada y Elena Quiroga \r\n2-No llores porque ya se terminó, sonríe porque… \r\n3-Se mueve por una vía \r\n4-Te partías, te tronchabas \r\n5-Viajarán a Teherán\r\n6-Toca retirar el calcio\r\n7-Lo que cantaba Canserbero\r\n8-Seguidores del género musical y subcultura Emotive hardcore \r\n9-Piezas para beber al revés \r\n11-Condoler, compadecer\r\n12-Catará, desgustará\r\n13-Emitid un timbre perceptible al oído \r\n16-Segunda oportunidad para pasar de ronda \r\n20-Contenido dividido en partes sucesivas, no de una sola vez \r\n21-El oro de los tontos\r\n22-Dispositivo intrauterino\r\n23-·La creación intelectual es el más misterioso y solitario de los…·\r\n27-Remováis el fuego para avivarlo \r\n30-Combustible usado en aviación y lámparas \r\n31-·La… es más larga que el amor·\r\n34-Pasajera, de corta duración\r\n37-Mantén al sujetador\r\n40-Pones la voz como la de Shakira \r\n41-Los son Novak Djokovic y Nikola Jokić\r\n44-Intrascendente, banal, baladí\r\n45-\"Marco…\" un emperador muy incómodo con su hijo\r\n48-Camine por su derecha\r\n50-Coloq: Voz usada para saludar\r\n51-Registro intermedio de una soprano o un barítono (inv) \r\n53-\"Sensación de…\" LA serie de los 90\r\n55-Pon la pila del mando sobre este\r\n57-Fue el vocalista de Calle 13 \r\n59-Hermana religiosa\r\n63-Universidad de Cantabria\r\n64-Policía Nazi",
+        "horizontal_clues": "1-·El deber de los… no es conservar el lenguaje, sino abrirle camino en la historia·\r\n10-Cortes en la emisión: pausas sin señal \r\n14-·Te… no por quien eres, sino por quien soy cuando estoy contigo· \r\n15-·El… se hace más grande y noble en la calamidad· \r\n17-Estoy a favor del bro que parece profesional\r\n18-Conjunto de hijos que tienen  los animales\r\n19-Una pertenencia\r\n21-Cometiendo una falta muy católica \r\n24-Chivaba a alguien ante la autoridad \r\n25-Fecha del calendario romano, famosa por el 15 de marzo \r\n26-La Internacional de Federaciones Anarquistas\r\n28-·A los demonios no hay que creerles ni cuando dicen la…· \r\n29-La cintura de Marilyn\r\n30-Retira, saca\r\n32-Andar hacia atrás, retroceder\r\n33-Vocales distraídas \r\n35-Concepto de fábrica integrada con ordenadores\r\n36-Crearás, producirás\r\n38-·No hay medicina que cure lo que no cura la…· \r\n39-Dioses nórdicos, solo los hombres\r\n42-O es una vocal ¿o son varias? \r\n43-Las primeras de Junio y Julio\r\n46-¿Él estaba en P Sherman, calle Wallaby, 42, Sydney o en Disney? \r\n47-Puse bajo asedio una fortaleza \r\n49-Antiguo Testamento: Bisabuela del rey David\r\n50-Salida, partida de descargo\r\n52-\"… José\" el mejor padrastro de la historia\r\n53-Giré, crucé\r\n54-Carencia extrema de recursos\r\n56-Que lo encaminen con un especialista, que lo…\r\n58-Acuerdos entre países para defenderse juntos \r\n60-Malvado en inglés\r\n61-\"… Tse\" filósofo chino\r\n62-En el océano, perdió 100 liras y el nitrógeno\r\n63-Juntabais, hacíais uno\r\n65-Compañía petrolera antes conocida como Standard Oil\r\n66-\"La dignidad no consiste en poseer honores, sino en…\" Aristóteles",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,#,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,#,15,#,#,16,#,17,#,#\r\n#,18,#,#,#,#,#,19,#,#,#,20,#,#,#\r\n21,#,#,#,#,22,23,#,24,#,#,#,#,#,#\r\n25,#,#,#,#,26,#,27,#,28,#,#,#,#,#\r\n29,#,#,#,30,#,#,#,31,#,32,#,#,#,#\r\n33,#,#,34,#,#,35,#,#,#,36,#,#,#,37\r\n#,#,#,38,#,#,#,#,#,#,#,#,#,#,#\r\n39,40,41,#,#,#,42,#,#,#,43,#,44,45,#\r\n#,46,#,#,#,#,47,#,#,48,#,#,49,#,#\r\n50,#,#,#,#,51,#,52,#,#,#,53,#,#,#\r\n54,#,#,#,#,#,55,#,56,#,57,#,#,#,#\r\n58,#,#,#,#,#,#,59,#,#,60,#,#,#,#\r\n61,#,#,#,62,#,#,#,#,63,#,#,#,#,64\r\n65,#,#,#,#,66,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

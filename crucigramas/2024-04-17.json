@@ -1,0 +1,501 @@
+{
+  "data": {
+    "id": 188,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-04-18T10:08:03.040472Z",
+      "updatedAt": "2024-05-22T11:07:24.643014Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-04-17",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "SUPERHEROE#ASMA\r\nUNES#OVNIS#PEOR\r\nMORTAJA#ACALLAR\r\nESTEFAN##AMALIO\r\n##IRAS#RESACA#G\r\nTOCAN#RES#SADNA\r\nUVA#ACEPTA#ROAN\r\nTI##RECLAME##NC\r\nANTI#OTEROS#PSI\r\nNAOMI#OTE#PELUA\r\nK#MACURO#RUMA##\r\nAMAGAR##LATITUD\r\nMARINAN#AMOTINA\r\nOTAN#DISTO#INTI\r\nNINA#ACCESORIOS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Añadí una cantidad a otra.",
+              "answer": "SUME"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Indivisos, unitarios.",
+              "answer": "UNOS"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Medida de longitud agraria de la antigua Roma (2,7m).",
+              "answer": "PERTICA"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "¡Espera! aquí va una de esparto.",
+              "answer": "ESTERA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Caen en otoño.",
+              "answer": "HOJAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"... Peters\" lo vemos en 'American Horror Story' y en 'Dahmer'.",
+              "answer": "EVAN"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Richard Nixon.",
+              "answer": "RN"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Prestaba atención.",
+              "answer": "OIA"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Goyescas o dantescas, en las dos.",
+              "answer": "ESCAS"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Calmar, por ejemplo el fuego.",
+              "answer": "APLACAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cerrado herméticamente.",
+              "answer": "SELLADO"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Estatua de piedra monolítica propia de la Isla de Pascua.",
+              "answer": "MOAI"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Altanería, soberbia, presunción.",
+              "answer": "ARROGANCIA"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Se va a esforzar en hurtar algo.",
+              "answer": "AFANAR"
+            },
+            "20": {
+              "col": 10,
+              "row": 2,
+              "clue": "¿La... porque la necesitas o la necesitas porque la...?.",
+              "answer": "AMAS"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Muy lleno.",
+              "answer": "REPLETO"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Me presentaré, iré, ahí...",
+              "answer": "ESTARE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Faraón del Antiguo Egipto hijo de Akenatón.",
+              "answer": "TUTANKAMON"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Dicho del ganado lanar (fem).",
+              "answer": "OVINA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "El que dirige una universidad.",
+              "answer": "RECTOR"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Tela fina de algodón usada en especial para confeccionar pañuelos, ropa interior o blusas.",
+              "answer": "NANSU"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "El director ejecutivo es un titán de la inteligencia.",
+              "answer": "CEO"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Adoro a mi dueño.",
+              "answer": "AMO"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Flema que se arroja de una vez en cada expectoración.",
+              "answer": "ESPUTO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Cogerán o asirán con la mano algo.",
+              "answer": "TOMARAN"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"...a todo el mundo viviendo en paz\" JL.",
+              "answer": "IMAGINA"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Apellido del mejor futbolista francés del siglo XX.",
+              "answer": "PLATINI"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Vine al mundo al revés.",
+              "answer": "ICAN"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Lanzar, el comunicado oficial.",
+              "answer": "EMITIR"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "De jurada y de curada.",
+              "answer": "URADA"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Conjunto de flores (pl).",
+              "answer": "RAMOS"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "Con cariño a Matías.",
+              "answer": "MATI"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Palpita, pulsa.",
+              "answer": "LATE"
+            },
+            "56": {
+              "col": 13,
+              "row": 11,
+              "clue": "Aplico y extiendo, por ejemplo la mantequilla.",
+              "answer": "UNTO"
+            },
+            "57": {
+              "col": 14,
+              "row": 11,
+              "clue": "Entregáis.",
+              "answer": "DAIS"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Normas Internacionales de Contabilidad (siglas).",
+              "answer": "NIC"
+            },
+            "63": {
+              "col": 7,
+              "row": 13,
+              "clue": "Barriga de moscas.",
+              "answer": "SC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Lo es Batman o Superman.",
+              "answer": "SUPERHEROE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Enfermedad respiratoria.",
+              "answer": "ASMA"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "El lunes perdí 50 minuti.",
+              "answer": "UNES"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Vio platillos voladores por tomar vinos mezclados.",
+              "answer": "OVNIS"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Más que malo.",
+              "answer": "PEOR"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Tela para cubrir a los muertos.",
+              "answer": "MORTAJA"
+            },
+            "19": {
+              "col": 8,
+              "row": 2,
+              "clue": "Aplacar, aquietar, sosegar.",
+              "answer": "ACALLAR"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"Gloria...\", madre del pop latino.",
+              "answer": "ESTEFAN"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "\"... Gimeno y Cabañas\" también conocido como Conde de Gimeno.",
+              "answer": "AMALIO"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Llegarás con tu risa destartalada.",
+              "answer": "IRAS"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Malestar después de la fiesta.",
+              "answer": "RESACA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Me corresponden porque canto fatal.",
+              "answer": "TOCAN"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "Cabeza de ganado.",
+              "answer": "RES"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Caminas en dirección contraria.",
+              "answer": "SADNA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "La sin pepitas.",
+              "answer": "UVA"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Tú di que sí y cambia esa petaca.",
+              "answer": "ACEPTA"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Corten con los dientes.",
+              "answer": "ROAN"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Titanio.",
+              "answer": "TI"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Puse mi queja.",
+              "answer": "RECLAME"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "No contesta Nacho Cano.",
+              "answer": "NC"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Gramática. Prefijo que refiere una postura opuesta.",
+              "answer": "ANTI"
+            },
+            "43": {
+              "col": 5,
+              "row": 8,
+              "clue": "Cerros aislados que dominan un llano.",
+              "answer": "OTEROS"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Vigésima tercera letra del alfabeto griego.",
+              "answer": "PSI"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"... Watts\" protagonista de Birdman.",
+              "answer": "NAOMI"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Sufijo aumentativos (masc).",
+              "answer": "OTE"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Arepa de carne mechada y queso amarillo.",
+              "answer": "PELUA"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Primer pueblo de tierra firme que pisó Cristóbal Colón en 1498 (Venezuela).",
+              "answer": "MACURO"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Una pila de cosas desordenadas.",
+              "answer": "RUMA"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Iniciar una finta.",
+              "answer": "AMAGAR"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "En el globo terráqueo, las líneas que corren de este a oeste.",
+              "answer": "LATITUD"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Conservan el pescado crudo, adobándolo con especies.",
+              "answer": "MARINAN"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Se alza en un motín, se...",
+              "answer": "AMOTINA"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Organización del Tratado del Atlántico Norte.",
+              "answer": "OTAN"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Difiero, me alejo.",
+              "answer": "DISTO"
+            },
+            "64": {
+              "col": 11,
+              "row": 13,
+              "clue": "Dios inca del sol.",
+              "answer": "INTI"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"... Hagen\", cantante alemana de ópera punk.",
+              "answer": "NINA"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "No son la ropa propiamente, pero completan el atuendo.",
+              "answer": "ACCESORIOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Añadí una cantidad a otra.\r\n2-Indivisos, unitarios.\r\n3-Medida de longitud agraria de la antigua Roma (2,7m). \r\n4-¡Espera! aquí va una de esparto.\r\n5-Caen en otoño.\r\n6-\"... Peters\" lo vemos en 'American Horror Story' y en 'Dahmer'.\r\n7-Richard Nixon.\r\n8-Prestaba atención.\r\n9-Goyescas o dantescas, en las dos.\r\n10-Calmar, por ejemplo el fuego.\r\n11-Cerrado herméticamente.\r\n12-Estatua de piedra monolítica propia de la Isla de Pascua.\r\n13-Altanería, soberbia, presunción.\r\n18-Se va a esforzar en hurtar algo.\r\n20-¿La... porque la necesitas o la necesitas porque la...?. \r\n24-Muy lleno.\r\n25-Me presentaré, iré, ahí...\r\n26-Faraón del Antiguo Egipto hijo de Akenatón.\r\n27-Dicho del ganado lanar (fem).\r\n28-El que dirige una universidad.\r\n30-Tela fina de algodón usada en especial para confeccionar pañuelos, ropa interior o blusas.\r\n33-El director ejecutivo es un titán de la inteligencia.\r\n34-Adoro a mi dueño.\r\n38-Flema que se arroja de una vez en cada expectoración.\r\n41-Cogerán o asirán con la mano algo.\r\n42-\"...a todo el mundo viviendo en paz\" JL.\r\n44-Apellido del mejor futbolista francés del siglo XX.\r\n46-Vine al mundo al revés.\r\n49-Lanzar, el comunicado oficial.\r\n51-De jurada y de curada.\r\n52-Conjunto de flores (pl).\r\n54-Con cariño a Matías.\r\n55-Palpita, pulsa.\r\n56-Aplico y extiendo, por ejemplo la mantequilla.\r\n57-Entregáis.\r\n59-Normas Internacionales de Contabilidad (siglas).\r\n63-Barriga de moscas.",
+        "horizontal_clues": "1-Lo es Batman o Superman.\r\n10-Enfermedad respiratoria.\r\n14-El lunes perdí 50 minuti.\r\n15-Vio platillos voladores por tomar vinos mezclados.\r\n16-Más que malo.\r\n17-Tela para cubrir a los muertos.\r\n19-Aplacar, aquietar, sosegar.\r\n21-\"Gloria...\", madre del pop latino.\r\n22-\"... Gimeno y Cabañas\" también conocido como Conde de Gimeno.\r\n23-Llegarás con tu risa destartalada.\r\n24-Malestar después de la fiesta.\r\n26-Me corresponden porque canto fatal.\r\n28-Cabeza de ganado.\r\n29-Caminas en dirección contraria.\r\n31-La sin pepitas.\r\n32-Tú di que sí y cambia esa petaca.\r\n35-Corten con los dientes.\r\n36-Titanio.\r\n37-Puse mi queja.\r\n39-No contesta Nacho Cano.\r\n40-Gramática. Prefijo que refiere una postura opuesta.\r\n43-Cerros aislados que dominan un llano.\r\n44-Vigésima tercera letra del alfabeto griego.\r\n45-\"... Watts\" protagonista de Birdman.\r\n47-Sufijo aumentativos (masc).\r\n48-Arepa de carne mechada y queso amarillo.\r\n50-Primer pueblo de tierra firme que pisó Cristóbal Colón en 1498 (Venezuela). \r\n52-Una pila de cosas desordenadas.\r\n53-Iniciar una finta.\r\n55-En el globo terráqueo, las líneas que corren de este a oeste.\r\n58-Conservan el pescado crudo, adobándolo con especies.\r\n60-Se alza en un motín, se...\r\n61-Organización del Tratado del Atlántico Norte.\r\n62-Difiero, me alejo.\r\n64-Dios inca del sol.\r\n65-\"... Hagen\", cantante alemana de ópera punk.\r\n66-No son la ropa propiamente, pero completan el atuendo.",
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,#,16,#,#,#\r\n17,#,#,#,18,#,#,#,19,#,20,#,#,#,#\r\n21,#,#,#,#,#,#,#,#,22,#,#,#,#,#\r\n#,#,23,#,#,#,#,24,25,#,#,#,#,#,#\r\n26,27,#,#,#,#,28,#,#,#,29,#,#,30,#\r\n31,#,#,#,32,33,#,#,#,34,#,35,#,#,#\r\n36,#,#,#,37,#,#,#,#,#,38,#,#,39,#\r\n40,#,41,42,#,43,#,#,#,#,#,#,44,#,#\r\n45,#,#,#,46,#,47,#,#,#,48,49,#,#,#\r\n#,#,50,#,#,51,#,#,#,52,#,#,#,#,#\r\n53,54,#,#,#,#,#,#,55,#,#,#,#,56,57\r\n58,#,#,#,#,#,59,#,60,#,#,#,#,#,#\r\n61,#,#,#,#,62,#,63,#,#,#,64,#,#,#\r\n65,#,#,#,#,66,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

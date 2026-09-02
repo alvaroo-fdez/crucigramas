@@ -1,0 +1,468 @@
+{
+  "data": {
+    "id": 1687,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-01-31T15:23:05.188482Z",
+      "updatedAt": "2025-01-31T15:24:51.456999Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-02-02",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ABORDO#IMPROPIA\r\nR#VIOLAR#LITE#P\r\nATADOS#R#ACERCA\r\nNOL#MEDIATO#DEL\r\nDUAS#NITRO#COLE\r\nERRES#SAR#KONDO\r\nL##CONCRETAR#A#\r\nADORNAR#BORROSA\r\n#O#ESCENARIO##G\r\nFLATO#PET#MEJOR\r\nLOLA#MAPAS#RUBI\r\nARE#DORARAN#NRA\r\nMARRON#L#GUSTAR\r\nE#TUPA#EVADIA#A\r\nAPODOSIS#SAURON",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Entre el tornillo y la tuerca",
+              "answer": "ARANDELA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dar a algo una forma redondeada",
+              "answer": "OVALAR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Un poco ridículos",
+              "answer": "RID"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Doctor…\" archienemigo de los 4 Fantásticos, de Marvel",
+              "answer": "DOOM"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"Elizabeth…\" la Bruja escarlata en 'Visión'",
+              "answer": "OLSEN"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Enrojecer la piel",
+              "answer": "IRRITAR"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Set de grabación",
+              "answer": "PLATO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Hombre con mucho dinero",
+              "answer": "RICO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Sufijo usado para formar aumentativos en las palabras (masc)",
+              "answer": "OTE"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Acto de exculpar una falta o error cometido",
+              "answer": "PERDON"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Le caigo a palazos, por ejemplo, a una alfombra",
+              "answer": "APALEO"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Gira de un grupo musical",
+              "answer": "TOUR"
+            },
+            "17": {
+              "col": 13,
+              "row": 2,
+              "clue": "Casillas del Excel",
+              "answer": "CELDAS"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Manifestar opinión contraria a lo establecido",
+              "answer": "DISCREPAR"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Arrancar, quitar con violencia",
+              "answer": "ARREBATAR"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "\"La cámara…\" el segundo libro de Harry Potter",
+              "answer": "SECRETA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Desgastar lentamente algo como royéndolo",
+              "answer": "CORROER"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Tonto, simple, mentecato",
+              "answer": "SONSO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Jugador ganador del Balón de Oro 2022",
+              "answer": "KARIM"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "El reflejo del perro",
+              "answer": "NAC"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Son medio torpes",
+              "answer": "TOR"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Breve composición poética de espíritu dramático que envuelve un pensamiento filosófico",
+              "answer": "DOLORA"
+            },
+            "37": {
+              "col": 14,
+              "row": 7,
+              "clue": "Se pondrán agrios, se…",
+              "answer": "AGRIARAN"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Gentilicio de Siddhārtha Gautama",
+              "answer": "NEPALES"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Ondea al viento con movimiento oscilante",
+              "answer": "FLAMEA"
+            },
+            "41": {
+              "col": 2,
+              "row": 9,
+              "clue": "Estado de máxima atención y vigilancia ante posibles peligros",
+              "answer": "ALERTO"
+            },
+            "44": {
+              "col": 12,
+              "row": 9,
+              "clue": "Unir unas cosas con otras",
+              "answer": "JUNTAR"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "Cualquier producto intelectual",
+              "answer": "OBRA"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Coquetas las orangutanas",
+              "answer": "MONAS"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Relatos generacionales de una familia",
+              "answer": "SAGAS"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Introduzco sustancias para mejorar el rendimiento físico",
+              "answer": "DOPO"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Der Propiedad que carece del usufructo",
+              "answer": "NUDA"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Le falta poco para ser rudo",
+              "answer": "RUD"
+            },
+            "57": {
+              "col": 11,
+              "row": 12,
+              "clue": "Pájaro americano muy semejante al jilguero",
+              "answer": "SIU"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Emplazo a los pasajeros que están en el avión",
+              "answer": "ABORDO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Por separado, Pipo rima de forma indebida",
+              "answer": "IMPROPIA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Quebrantar la ley",
+              "answer": "VIOLAR"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Derecho Pleito, litigio judicial",
+              "answer": "LITE"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inmovilizados, amarrados",
+              "answer": "ATADOS"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "Aproxima, arrima, avecina",
+              "answer": "ACERCA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Una magnolia deshojada",
+              "answer": "NOL"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "No es inmediato, pero casi",
+              "answer": "MEDIATO"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Contracción \"de el\"",
+              "answer": "DEL"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Porciones de tierra que reciben riego de una acequia",
+              "answer": "DUAS"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "El óxido nitroso, para potenciar los coches",
+              "answer": "NITRO"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "El colegio de mi hija",
+              "answer": "COLE"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "La regla de las tres… ecológicas",
+              "answer": "ERRES"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "\"En las orillas del…\" el último libro de poemas de Rosalía de Castro",
+              "answer": "SAR"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"Marie…\" la japonesa más organizada",
+              "answer": "KONDO"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Definir los detalles específicos de un plan o proyecto",
+              "answer": "CONCRETAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Engalanar, embellecer con objetos externos",
+              "answer": "ADORNAR"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Así se ve una imagen cuando tienes presbicia",
+              "answer": "BORROSA"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Lugar donde se realiza una representación teatral o musical",
+              "answer": "ESCENARIO"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Malestar digestivo y sensación de gases en el abdomen",
+              "answer": "FLATO"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Media petaca",
+              "answer": "PET"
+            },
+            "43": {
+              "col": 10,
+              "row": 9,
+              "clue": "Preferiblemente",
+              "answer": "MEJOR"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"… Flores\" la que dijo 'Si me queréis, irse'",
+              "answer": "LOLA"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Representación geográfica de la Tierra (pl)",
+              "answer": "MAPAS"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Piedra preciosa color rojo",
+              "answer": "RUBI"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Labré la tierra",
+              "answer": "ARE"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Cubrirán algo con oro",
+              "answer": "DORARAN"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Han invertido en el ácido ribonucleico",
+              "answer": "NRA"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Color que resulta de mezclar rojo y verde",
+              "answer": "MARRON"
+            },
+            "56": {
+              "col": 9,
+              "row": 12,
+              "clue": "Experimentar satisfacción o placer por algo",
+              "answer": "GUSTAR"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Apriete algo, llene a tope",
+              "answer": "TUPA"
+            },
+            "59": {
+              "col": 7,
+              "row": 13,
+              "clue": "Se hacía el loco con su responsabilidad",
+              "answer": "EVADIA"
+            },
+            "60": {
+              "col": 0,
+              "row": 14,
+              "clue": "Parte de una oración condicional que expresa la consecuencia",
+              "answer": "APODOSIS"
+            },
+            "61": {
+              "col": 9,
+              "row": 14,
+              "clue": "El Señor Oscuro, El Señor de los Anillos",
+              "answer": "SAURON"
+            }
+          }
+        },
+        "vertical_clues": "1-Entre el tornillo y la tuerca\r\n2-Dar a algo una forma redondeada\r\n3-Un poco ridículos\r\n4-\"Doctor…\" archienemigo de los 4 Fantásticos, de Marvel\r\n5-\"Elizabeth…\" la Bruja escarlata en 'Visión'\r\n6-Enrojecer la piel\r\n7-Set de grabación\r\n8-Hombre con mucho dinero\r\n9-Sufijo usado para formar aumentativos en las palabras (masc)\r\n10-Acto de exculpar una falta o error cometido \r\n11-Le caigo a palazos, por ejemplo, a una alfombra\r\n15-Gira de un grupo musical\r\n17-Casillas del Excel\r\n20-Manifestar opinión contraria a lo establecido \r\n21-Arrancar, quitar con violencia\r\n24-\"La cámara…\" el segundo libro de Harry Potter\r\n26-Desgastar lentamente algo como royéndolo\r\n28-Tonto, simple, mentecato\r\n30-Jugador ganador del Balón de Oro 2022\r\n32-El reflejo del perro\r\n33-Son medio torpes\r\n35-Breve composición poética de espíritu dramático que envuelve un pensamiento filosófico\r\n37-Se pondrán agrios, se…\r\n39-Gentilicio de Siddhārtha Gautama\r\n40-Ondea al viento con movimiento oscilante \r\n41-Estado de máxima atención y vigilancia ante posibles peligros \r\n44-Unir unas cosas con otras\r\n45-Cualquier producto intelectual\r\n47-Coquetas las orangutanas\r\n48-Relatos generacionales de una familia\r\n51-Introduzco sustancias para mejorar el rendimiento físico\r\n52-Der Propiedad que carece del usufructo\r\n55-Le falta poco para ser rudo\r\n57-Pájaro americano muy semejante al jilguero",
+        "horizontal_clues": "1-Emplazo a los pasajeros que están en el avión\r\n6-Por separado, Pipo rima de forma indebida\r\n12-Quebrantar la ley\r\n13-Derecho Pleito, litigio judicial\r\n14-Inmovilizados, amarrados\r\n16-Aproxima, arrima, avecina\r\n18-Una magnolia deshojada\r\n19-No es inmediato, pero casi\r\n22-Contracción \"de el\"\r\n23-Porciones de tierra que reciben riego de una acequia\r\n25-El óxido nitroso, para potenciar los coches\r\n26-El colegio de mi hija\r\n27-La regla de las tres… ecológicas\r\n29-\"En las orillas del…\" el último libro de poemas de Rosalía de Castro\r\n30-\"Marie…\" la japonesa más organizada\r\n31-Definir los detalles específicos de un plan o proyecto \r\n34-Engalanar, embellecer con objetos externos\r\n36-Así se ve una imagen cuando tienes presbicia\r\n38-Lugar donde se realiza una representación teatral o musical \r\n40-Malestar digestivo y sensación de gases en el abdomen \r\n42-Media petaca\r\n43-Preferiblemente\r\n46-\"… Flores\" la que dijo 'Si me queréis, irse'\r\n47-Representación geográfica de la Tierra (pl)\r\n49-Piedra preciosa color rojo\r\n50-Labré la tierra\r\n51-Cubrirán algo con oro\r\n53-Han invertido en el ácido ribonucleico\r\n54-Color que resulta de mezclar rojo y verde \r\n56-Experimentar satisfacción o placer por algo \r\n58-Apriete algo, llene a tope\r\n59-Se hacía el loco con su responsabilidad\r\n60-Parte de una oración condicional que expresa la consecuencia \r\n61-El Señor Oscuro, El Señor de los Anillos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,#,6,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,#,13,#,#,#,#,#\r\n14,15,#,#,#,#,#,#,#,16,#,#,#,17,#\r\n18,#,#,#,19,#,20,#,21,#,#,#,22,#,#\r\n23,#,#,24,#,25,#,#,#,#,#,26,#,#,#\r\n27,#,#,#,28,#,29,#,#,#,30,#,#,#,#\r\n#,#,#,31,#,32,#,#,#,33,#,#,#,#,#\r\n34,35,#,#,#,#,#,#,36,#,#,#,#,#,37\r\n#,#,#,38,#,#,#,39,#,#,#,#,#,#,#\r\n40,#,41,#,#,#,42,#,#,#,43,#,44,45,#\r\n46,#,#,#,#,47,#,#,#,48,#,49,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,52,#,53,#,#\r\n54,#,#,55,#,#,#,#,#,56,#,57,#,#,#\r\n#,#,58,#,#,#,#,59,#,#,#,#,#,#,#\r\n60,#,#,#,#,#,#,#,#,61,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

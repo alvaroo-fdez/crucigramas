@@ -1,0 +1,479 @@
+{
+  "data": {
+    "id": 5087,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-03-21T22:24:59.448163Z",
+      "updatedAt": "2026-03-21T22:24:59.466504Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-03-23",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "BAGATELA#AGALLA\r\nR#AVALAD#LANA#T\r\nEPL#KOBE#BRINCA\r\nCALCETIN#ONDEAR\r\nHIEL#EAT#REARME\r\nASTAS##RI#TROPA\r\n##AVIADOR#####D\r\nCASERIO#ARREGLO\r\nH#####MAQUINA##\r\nACTOS#AF##VELAD\r\nPERLAS#ECS#JABI\r\nABUELA#CHATARRA\r\nRONDAR#TELE#DEB\r\nR#COSA#ALUMNO#L\r\nADOREN#RODEANDO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Desigualdad, de genero o salarial",
+              "answer": "BRECHA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Las de jengibre son famosas en Navidad",
+              "answer": "GALLETAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Américo Vespucio",
+              "answer": "AV"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"… Kubo\" centrocampo japonés de la Real Sociedad",
+              "answer": "TAKE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "México Mazorca tierna de maíz",
+              "answer": "ELOTE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Verbosidad persuasiva y gracia en el hablar",
+              "answer": "LABIA"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Se metió a detonar el lío",
+              "answer": "ADENTRO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Comienzo o principio de algo",
+              "answer": "ALBOR"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Granate en inglés",
+              "answer": "GARNET"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Aves Hacer nido o vivir en él",
+              "answer": "ANIDAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vendedor de lanas",
+              "answer": "LANERO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Ocupado, repleto de tareas",
+              "answer": "ATAREADO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Territorio de una unidad geográfica, política y cultural",
+              "answer": "PAIS"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Campo en catalán",
+              "answer": "CAMP"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "Acerté la contraseña",
+              "answer": "CLAVE"
+            },
+            "27": {
+              "col": 4,
+              "row": 5,
+              "clue": "Aquí, media ración del sirope",
+              "answer": "SIR"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "País cuya capital es Bagdad",
+              "answer": "IRAQ"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Inic Director de la película \"Balada triste de la trompeta\"",
+              "answer": "AI"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Sujeta, amansa y haz dócil al animal",
+              "answer": "DOMA"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Persona bajita y rechoncha",
+              "answer": "CHAPARRA"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Cerámica china de la dinastía Song",
+              "answer": "RU"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Un poco de rivalidad en el River Plate",
+              "answer": "RIV"
+            },
+            "38": {
+              "col": 11,
+              "row": 7,
+              "clue": "Lo pone en su eje",
+              "answer": "ENEJA"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Premio",
+              "answer": "GALARDON"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Dañar, perjudicar",
+              "answer": "AFECTAR"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Comida que se da a los animales para atraerlos",
+              "answer": "CEBO"
+            },
+            "44": {
+              "col": 2,
+              "row": 9,
+              "clue": "Obstaculizo el truco al agregar un punto",
+              "answer": "TRUNCO"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Que exhala olor o lo percibe (masc)",
+              "answer": "OLEDOR"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Sazonase, condimentase",
+              "answer": "SALASE"
+            },
+            "49": {
+              "col": 13,
+              "row": 9,
+              "clue": "¿Cómo destapa el abrelatas roto?",
+              "answer": "ABRE"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "\"Más sabe el… por viejo que por…\"",
+              "answer": "DIABLO"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "España Cesto ordinario hecho de madera de castaño",
+              "answer": "SARAN"
+            },
+            "54": {
+              "col": 8,
+              "row": 10,
+              "clue": "Instrumento de cuerda frotada",
+              "answer": "CHELO"
+            },
+            "55": {
+              "col": 9,
+              "row": 10,
+              "clue": "¡Un brindis por los sanitarios!",
+              "answer": "SALUD"
+            },
+            "59": {
+              "col": 10,
+              "row": 11,
+              "clue": "Sospecha, desconfía, recela",
+              "answer": "TEME"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Símbolo químico del sodio",
+              "answer": "NA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Cosa de poco peso",
+              "answer": "BAGATELA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Branquia",
+              "answer": "AGALLA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Garantizad, acreditad",
+              "answer": "AVALAD"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "En México el pelo ovino deja dinero",
+              "answer": "LANA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "English Premier League",
+              "answer": "EPL"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "La mamba inmortal de la NBA",
+              "answer": "KOBE"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Salta, bota",
+              "answer": "BRINCA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Prenda que cubre el pie",
+              "answer": "CALCETIN"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Sacudir, flamear",
+              "answer": "ONDEAR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Esparciendo mi veneno, mi amargura, mi…",
+              "answer": "HIEL"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Comer en inglés",
+              "answer": "EAT"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Equipe nuevamente con armamento militar",
+              "answer": "REARME"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Los cuernos del ciervo",
+              "answer": "ASTAS"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Ir en contra",
+              "answer": "RI"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Conjunto de cabos y soldados",
+              "answer": "TROPA"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Piloto profesional",
+              "answer": "AVIADOR"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "La compañía anónima está al sureste del arroyo de la aldea",
+              "answer": "CASERIO"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "En el caos lograré un acuerdo",
+              "answer": "ARREGLO"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Aparato que realiza trabajo",
+              "answer": "MAQUINA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Celebraciones solemnes",
+              "answer": "ACTOS"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Iniciales de científico británico que descubrió la penicilina",
+              "answer": "AF"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Haced guardia por la noche",
+              "answer": "VELAD"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Concreción nacarada de las conchas marinas",
+              "answer": "PERLAS"
+            },
+            "53": {
+              "col": 7,
+              "row": 10,
+              "clue": "Educación, Cultura y Sociedad",
+              "answer": "ECS"
+            },
+            "56": {
+              "col": 11,
+              "row": 10,
+              "clue": "Especie de manzana silvestre y pequeña",
+              "answer": "JABI"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "La mamá de mi mamá",
+              "answer": "ABUELA"
+            },
+            "58": {
+              "col": 7,
+              "row": 11,
+              "clue": "Metal viejo para reciclar",
+              "answer": "CHATARRA"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Estar alrededor de, oscilar, por ejemplo los precios",
+              "answer": "RONDAR"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Con cariño a la Tv",
+              "answer": "TELE"
+            },
+            "62": {
+              "col": 12,
+              "row": 12,
+              "clue": "Débora ya no reza",
+              "answer": "DEB"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "La mano andante de la Familia Addams",
+              "answer": "COSA"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Un estudiante",
+              "answer": "ALUMNO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Rindan culto a un ser divino",
+              "answer": "ADOREN"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Bordeando, cercando",
+              "answer": "RODEANDO"
+            }
+          }
+        },
+        "vertical_clues": "1-Desigualdad, de genero o salarial\r\n2-Las de jengibre son famosas en Navidad \r\n3-Américo Vespucio\r\n4-\"… Kubo\" centrocampo japonés de la Real Sociedad\r\n5-México Mazorca tierna de maíz\r\n6-Verbosidad persuasiva y gracia en el hablar\r\n7-Se metió a detonar el lío\r\n8-Comienzo o principio de algo\r\n9-Granate en inglés\r\n10-Aves Hacer nido o vivir en él\r\n11-Vendedor de lanas\r\n12-Ocupado, repleto de tareas\r\n16-Territorio de una unidad geográfica, política y cultural\r\n19-Campo en catalán\r\n21-Acerté la contraseña\r\n27-Aquí, media ración del sirope\r\n29-País cuya capital es Bagdad\r\n32-Inic Director de la película \"Balada triste de la trompeta\"\r\n33-Sujeta, amansa y haz dócil al animal\r\n34-Persona bajita y rechoncha\r\n36-Cerámica china de la dinastía Song\r\n37-Un poco de rivalidad en el River Plate\r\n38-Lo pone en su eje\r\n39-Premio\r\n41-Dañar, perjudicar\r\n43-Comida que se da a los animales para atraerlos\r\n44-Obstaculizo el truco al agregar un punto\r\n45-Que exhala olor o lo percibe (masc)\r\n46-Sazonase, condimentase\r\n49-¿Cómo destapa el abrelatas roto? \r\n50-\"Más sabe el… por viejo que por…\"\r\n52-España Cesto ordinario hecho de madera de castaño\r\n54-Instrumento de cuerda frotada \r\n55-¡Un brindis por los sanitarios! \r\n59-Sospecha, desconfía, recela\r\n65-Símbolo químico del sodio\r\n",
+        "horizontal_clues": "1-Cosa de poco peso \r\n8-Branquia\r\n13-Garantizad, acreditad\r\n14-En México el pelo ovino deja dinero\r\n15-English Premier League\r\n17-La mamba inmortal de la NBA\r\n18-Salta, bota\r\n20-Prenda que cubre el pie \r\n22-Sacudir, flamear\r\n23-Esparciendo mi veneno, mi amargura, mi…\r\n24-Comer en inglés\r\n25-Equipe nuevamente con armamento militar\r\n26-Los cuernos del ciervo\r\n28-Ir en contra\r\n30-Conjunto de cabos y soldados\r\n31-Piloto profesional\r\n34-La compañía anónima está al sureste del arroyo de la aldea\r\n35-En el caos lograré un acuerdo \r\n40-Aparato que realiza trabajo \r\n42-Celebraciones solemnes\r\n47-Iniciales de científico británico que descubrió la penicilina\r\n48-Haced guardia por la noche\r\n51-Concreción nacarada de las conchas marinas\r\n53-Educación, Cultura y Sociedad\r\n56-Especie de manzana silvestre y pequeña\r\n57-La mamá de mi mamá\r\n58-Metal viejo para reciclar \r\n60-Estar alrededor de, oscilar, por ejemplo los precios\r\n61-Con cariño a la Tv\r\n62-Débora ya no reza\r\n63-La mano andante de la Familia Addams\r\n64-Un estudiante\r\n66-Rindan culto a un ser divino\r\n67-Bordeando, cercando\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,7,#,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,#,#,14,#,#,#,#,#\r\n15,16,#,#,17,#,#,#,#,18,#,#,#,19,#\r\n20,#,#,21,#,#,#,#,#,22,#,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,#,#,#,#\r\n26,#,#,#,27,#,#,28,29,#,30,#,#,#,#\r\n#,#,31,#,#,32,33,#,#,#,#,#,#,#,#\r\n34,#,#,#,#,#,#,#,35,36,37,38,39,#,#\r\n#,#,#,#,#,#,40,41,#,#,#,#,#,#,#\r\n42,43,44,45,46,#,47,#,#,#,48,#,#,49,50\r\n51,#,#,#,#,52,#,53,54,55,#,56,#,#,#\r\n57,#,#,#,#,#,#,58,#,#,59,#,#,#,#\r\n60,#,#,#,#,#,#,61,#,#,#,#,62,#,#\r\n#,#,63,#,#,#,#,64,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

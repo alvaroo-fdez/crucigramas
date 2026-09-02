@@ -1,0 +1,429 @@
+{
+  "data": {
+    "id": 684,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-29T10:39:40.622151Z",
+      "updatedAt": "2024-07-29T10:39:40.622174Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-31",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#RECALCO#POLCA#\r\nR#RAYAR#COPLA#C\r\nANIMADO#VOTANTE\r\nMATERIAL#LINDOR\r\nADELANTAR#MIEDO\r\nLIMO#OAT#AISLAS\r\n#AA#L##O#ESCASO\r\nD##MARINISMO##S\r\nOCTAVA#E##O#RN#\r\nCHALAN#REA#CEOS\r\nTIBET#LIMITANTE\r\nOCASOS#APRENDER\r\nRASTREE#ABSCISA\r\nA#CAIAS#TALED#N\r\n#COROS#REGALOS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Med. Inflamación de la piel, caracterizada por manchas rojas.",
+              "answer": "ERITEMA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Noticia falsa.",
+              "answer": "CAMELO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Nayara ha perdido la cabeza.",
+              "answer": "AYARA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Judeoespañol, el idioma de los judíos sefardíes.",
+              "answer": "LADINO"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Nacionalidad de Luka Modric.",
+              "answer": "CROATA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Juego de billar, pero tipo bola 8.",
+              "answer": "POOL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Pensamiento positivo.",
+              "answer": "OPTIMISMO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Natural de Llanes, ciudad de Asturias, en España (masc).",
+              "answer": "LLANISCO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"... Peña\" actriz española, Goya por 'Princesas'.",
+              "answer": "CANDELA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Parte que arranca de la línea principal de un camino.",
+              "answer": "RAMAL"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Curriculum Vitae.",
+              "answer": "CV"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Que tienen cera, o se parecen a ella.",
+              "answer": "CEROSOS"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "La Comaneci, una gimnasta de 10.",
+              "answer": "NADIA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Completas, absolutas.",
+              "answer": "TODAS"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Taller de objetos metálicos.",
+              "answer": "LATONERIA"
+            },
+            "26": {
+              "col": 9,
+              "row": 5,
+              "clue": "El cinturón del guardaespalda.",
+              "answer": "AES"
+            },
+            "28": {
+              "col": 4,
+              "row": 6,
+              "clue": "Pila para el aseo.",
+              "answer": "LAVATORIO"
+            },
+            "30": {
+              "col": 0,
+              "row": 7,
+              "clue": "Médica.",
+              "answer": "DOCTORA"
+            },
+            "31": {
+              "col": 3,
+              "row": 7,
+              "clue": "Parece que molestar genera incomodidad.",
+              "answer": "MALESTAR"
+            },
+            "32": {
+              "col": 5,
+              "row": 7,
+              "clue": "Diosa escandinava que lleva a los ahogados a su morada.",
+              "answer": "RAN"
+            },
+            "34": {
+              "col": 1,
+              "row": 8,
+              "clue": "Una pequeña mujer.",
+              "answer": "CHICA"
+            },
+            "35": {
+              "col": 2,
+              "row": 8,
+              "clue": "La clásica salsa picante, aparentemente mexicana.",
+              "answer": "TABASCO"
+            },
+            "36": {
+              "col": 12,
+              "row": 8,
+              "clue": "Fatigado o exhausto.",
+              "answer": "RENDIDO"
+            },
+            "37": {
+              "col": 13,
+              "row": 8,
+              "clue": "Observes, distingas.",
+              "answer": "NOTES"
+            },
+            "40": {
+              "col": 8,
+              "row": 9,
+              "clue": "1",
+              "answer": "EMPATE"
+            },
+            "41": {
+              "col": 9,
+              "row": 9,
+              "clue": "Bolsa que se infla automáticamente si chocas el auto.",
+              "answer": "AIRBAG"
+            },
+            "42": {
+              "col": 11,
+              "row": 9,
+              "clue": "Casi me cancelan.",
+              "answer": "CANCEL"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "Existirán, estarán.",
+              "answer": "SERAN"
+            },
+            "46": {
+              "col": 10,
+              "row": 10,
+              "clue": "Apellido de científico serbio que inventó la base de conexión inalámbrica de electricidad.",
+              "answer": "TESLA"
+            },
+            "48": {
+              "col": 5,
+              "row": 11,
+              "clue": "Existas, formes partes de algo.",
+              "answer": "SEAS"
+            },
+            "51": {
+              "col": 6,
+              "row": 12,
+              "clue": "Iniciales del escritor argentino de 'Sobre héroes y tumbas.'.",
+              "answer": "ES"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Resaltó, remarcó.",
+              "answer": "RECALCO"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Danza polaca.",
+              "answer": "POLCA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Tachar lo manuscrito o impreso.",
+              "answer": "RAYAR"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Combinación métrica o estrofa.",
+              "answer": "COPLA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aquí hay un andamio muy divertido.",
+              "answer": "ANIMADO"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Elector en las urnas.",
+              "answer": "VOTANTE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "En La Ermita está escondido todo el insumo.",
+              "answer": "MATERIAL"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Marca suiza de bombones.",
+              "answer": "LINDOR"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Aventajar, rebasar.",
+              "answer": "ADELANTAR"
+            },
+            "23": {
+              "col": 10,
+              "row": 4,
+              "clue": "Emoción del personaje morado de la peli 'Del Revés' (Intensamente).",
+              "answer": "MIEDO"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Me rebajo las uñas, me las...",
+              "answer": "LIMO"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Avena en inglés.",
+              "answer": "OAT"
+            },
+            "26": {
+              "col": 9,
+              "row": 5,
+              "clue": "Separas a los contagiados, los...",
+              "answer": "AISLAS"
+            },
+            "27": {
+              "col": 1,
+              "row": 6,
+              "clue": "Las fronteras de Argelia.",
+              "answer": "AA"
+            },
+            "29": {
+              "col": 9,
+              "row": 6,
+              "clue": "Cuando algo es limitado o insuficiente.",
+              "answer": "ESCASO"
+            },
+            "31": {
+              "col": 3,
+              "row": 7,
+              "clue": "Estilo literario barroco.",
+              "answer": "MARINISMO"
+            },
+            "33": {
+              "col": 0,
+              "row": 8,
+              "clue": "Métrica. Toda combinación de ocho versos.",
+              "answer": "OCTAVA"
+            },
+            "36": {
+              "col": 12,
+              "row": 8,
+              "clue": "Símbolo químico del Radón.",
+              "answer": "RN"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Colombia. Buen jinete.",
+              "answer": "CHALAN"
+            },
+            "39": {
+              "col": 7,
+              "row": 9,
+              "clue": "Madre de Zeus.",
+              "answer": "REA"
+            },
+            "42": {
+              "col": 11,
+              "row": 9,
+              "clue": "Directores ejecutivos.",
+              "answer": "CEOS"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Región natal del Dalai Lama.",
+              "answer": "TIBET"
+            },
+            "45": {
+              "col": 6,
+              "row": 10,
+              "clue": "Restrictivo o confinante.",
+              "answer": "LIMITANTE"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Puestas del Sol.",
+              "answer": "OCASOS"
+            },
+            "49": {
+              "col": 7,
+              "row": 11,
+              "clue": "Adquirir conocimiento.",
+              "answer": "APRENDER"
+            },
+            "50": {
+              "col": 0,
+              "row": 12,
+              "clue": "Siga su huella.",
+              "answer": "RASTREE"
+            },
+            "52": {
+              "col": 8,
+              "row": 12,
+              "clue": "Coordenada cartesiana horizontal.",
+              "answer": "ABSCISA"
+            },
+            "53": {
+              "col": 2,
+              "row": 13,
+              "clue": "Perdías el equilibrio y dabas de bruces con el suelo.",
+              "answer": "CAIAS"
+            },
+            "54": {
+              "col": 8,
+              "row": 13,
+              "clue": "Chal con que cubren su cabeza los judíos en sus ceremonias religiosas.",
+              "answer": "TALED"
+            },
+            "55": {
+              "col": 1,
+              "row": 14,
+              "clue": "Agrupación vocal coordinada (pl).",
+              "answer": "COROS"
+            },
+            "56": {
+              "col": 7,
+              "row": 14,
+              "clue": "Los traen Papá Noel y los Reyes.",
+              "answer": "REGALOS"
+            }
+          }
+        },
+        "vertical_clues": "2-Med. Inflamación de la piel, caracterizada por manchas rojas.\r\n3-Noticia falsa.\r\n4-Nayara ha perdido la cabeza.\r\n5-Judeoespañol, el idioma de los judíos sefardíes.\r\n6-Nacionalidad de Luka Modric.\r\n7-Juego de billar, pero tipo bola 8.\r\n8-Pensamiento positivo.\r\n9-Natural de Llanes, ciudad de Asturias, en España (masc).\r\n10-\"... Peña\" actriz española, Goya por 'Princesas'.\r\n11-Parte que arranca de la línea principal de un camino.\r\n13-Curriculum Vitae.\r\n14-Que tienen cera, o se parecen a ella.\r\n16-La Comaneci, una gimnasta de 10.\r\n18-Completas, absolutas.\r\n20-Taller de objetos metálicos. \r\n26-El cinturón del guardaespalda.\r\n28-Pila para el aseo. \r\n30-Médica.\r\n31-Parece que molestar genera incomodidad.\r\n32-Diosa escandinava que lleva a los ahogados a su morada.\r\n34-Una pequeña mujer.\r\n35-La clásica salsa picante, aparentemente mexicana.\r\n36-Fatigado o exhausto. \r\n37-Observes, distingas.\r\n40-1-1.\r\n41-Bolsa que se infla automáticamente si chocas el auto.\r\n42-Casi me cancelan.\r\n43-Existirán, estarán.\r\n46-Apellido de científico serbio que inventó la base de conexión inalámbrica de electricidad.\r\n48-Existas, formes partes de algo.\r\n51-Iniciales del escritor argentino de 'Sobre héroes y tumbas.'.",
+        "horizontal_clues": "1-Resaltó, remarcó.\r\n7-Danza polaca.\r\n12-Tachar lo manuscrito o impreso.\r\n13-Combinación métrica o estrofa.\r\n15-Aquí hay un andamio muy divertido.\r\n17-Elector en las urnas. \r\n19-En La Ermita está escondido todo el insumo.\r\n21-Marca suiza de bombones.\r\n22-Aventajar, rebasar.\r\n23-Emoción del personaje morado de la peli 'Del Revés' (Intensamente).\r\n24-Me rebajo las uñas, me las...\r\n25-Avena en inglés.\r\n26-Separas a los contagiados, los...\r\n27-Las fronteras de Argelia.\r\n29-Cuando algo es limitado o insuficiente.\r\n31-Estilo literario barroco. \r\n33-Métrica. Toda combinación de ocho versos.\r\n36-Símbolo químico del Radón.\r\n38-Colombia. Buen jinete.\r\n39-Madre de Zeus.\r\n42-Directores ejecutivos.\r\n44-Región natal del Dalai Lama. \r\n45-Restrictivo o confinante. \r\n47-Puestas del Sol. \r\n49-Adquirir conocimiento. \r\n50-Siga su huella.\r\n52-Coordenada cartesiana horizontal.\r\n53-Perdías el equilibrio y dabas de bruces con el suelo.\r\n54-Chal con que cubren su cabeza los judíos en sus ceremonias religiosas.\r\n55-Agrupación vocal coordinada (pl).\r\n56-Los traen Papá Noel y los Reyes.",
+        "board_clues_positions": "#,1,2,3,4,5,6,#,#,7,8,9,10,#,#\r\n11,#,12,#,#,#,#,#,13,#,#,#,#,#,14\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,#,#,20,#,21,#,#,#,#,#\r\n22,#,#,#,#,#,#,#,#,#,23,#,#,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,#,#,#,#\r\n#,27,#,#,28,#,#,#,#,29,#,#,#,#,#\r\n30,#,#,31,#,32,#,#,#,#,#,#,#,#,#\r\n33,34,35,#,#,#,#,#,#,#,#,#,36,37,#\r\n38,#,#,#,#,#,#,39,40,41,#,42,#,#,43\r\n44,#,#,#,#,#,45,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,#,49,#,#,#,#,#,#,#\r\n50,#,#,#,#,#,51,#,52,#,#,#,#,#,#\r\n#,#,53,#,#,#,#,#,54,#,#,#,#,#,#\r\n#,55,#,#,#,#,#,56,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

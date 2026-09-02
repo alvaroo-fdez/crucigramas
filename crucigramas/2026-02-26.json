@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 5001,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-25T19:17:22.941278Z",
+      "updatedAt": "2026-02-25T19:18:56.890786Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-26",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "GLAS#ORO#LACIOS\r\nRODE#PETROLOGIA\r\nACOPLADO#MANUAL\r\nPORTICO#CERCANA\r\nAMAINAR#RAMAL##\r\nROSCA##HU#AVALE\r\n#T#ARIMEZ#RADIO\r\nMOM##MINAZ##ATN\r\nCRECE#CORNAC#O#\r\nMATAR#HS##SALGA\r\n##ASOME#APURARE\r\nBENAGIL#REMEDAR\r\nLLOREN#ARRECIFE\r\nALIENACION#ENIO\r\nSOASAN#AZO#ROAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sujetar con grapas",
+              "answer": "GRAPAR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Máquina que arrastra vagones por vía férrea",
+              "answer": "LOCOMOTORA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Gustas de algo extremadamente",
+              "answer": "ADORAS"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Pozo negro, fosa…",
+              "answer": "SEPTICA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Sin brillo",
+              "answer": "OPACA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Rededor, alrededor",
+              "answer": "REDOR"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Especie de lechuza",
+              "answer": "OTO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "El caballo encorva el lomo con violencia",
+              "answer": "LOMEA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Preocupar, perturbar",
+              "answer": "ALARMAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Curvada hacia dentro",
+              "answer": "CONCAVA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Ciudad catalana en la comarca de la Anoia",
+              "answer": "IGUALADA"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Percibían los sonidos",
+              "answer": "OIAN"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Habitación principal de la casa",
+              "answer": "SALA"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Inicia la renovación",
+              "answer": "R"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Aquí hay muchísimo lino",
+              "answer": "LINAR"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Atravesar un camino",
+              "answer": "CRUZAR"
+            },
+            "25": {
+              "col": 7,
+              "row": 5,
+              "clue": "Planta que sirve de comida para los caballos (pl)",
+              "answer": "HENOS"
+            },
+            "27": {
+              "col": 13,
+              "row": 5,
+              "clue": "Técnica de impresión sobre piedra o plancha tratada",
+              "answer": "LITOGRAFIA"
+            },
+            "28": {
+              "col": 14,
+              "row": 5,
+              "clue": "Muchísimos años, millones",
+              "answer": "EON"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dos de los impuestos que han sido quitados",
+              "answer": "IM"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Modelo y actriz mexicana, expareja de Alejandro Sanz",
+              "answer": "MICHEL"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Mínimo común múltiplo",
+              "answer": "MCM"
+            },
+            "35": {
+              "col": 2,
+              "row": 7,
+              "clue": "Transformación interior de la conciencia y el sentido vital",
+              "answer": "METANOIA"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Símbolo químico del Zinc",
+              "answer": "ZN"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"Santiago… Quiroga\", presidente republicano, cuando la Guerra Civil",
+              "answer": "CASARES"
+            },
+            "41": {
+              "col": 4,
+              "row": 8,
+              "clue": "Zona sensible a la excitación sexual",
+              "answer": "EROGENA"
+            },
+            "43": {
+              "col": 10,
+              "row": 8,
+              "clue": "Se hace cargo",
+              "answer": "ASUME"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Tener falta o privación de algo",
+              "answer": "CARECER"
+            },
+            "49": {
+              "col": 12,
+              "row": 9,
+              "clue": "Judeoespañol, el idioma de los judíos sefardíes",
+              "answer": "LADINO"
+            },
+            "50": {
+              "col": 14,
+              "row": 9,
+              "clue": "Sutiles, vaporosos, ligeros",
+              "answer": "AEREOS"
+            },
+            "52": {
+              "col": 5,
+              "row": 10,
+              "clue": "Cultivan bitcoines",
+              "answer": "MINAN"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Ingrediente principal del sushi",
+              "answer": "ARROZ"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Se parece, pero no es un tornillo",
+              "answer": "PERNO"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Cantó\", representante de España en Eurovisión 2021",
+              "answer": "BLAS"
+            },
+            "56": {
+              "col": 1,
+              "row": 11,
+              "clue": "Primera instancia psíquica (Freud)",
+              "answer": "ELLO"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Aeropuerto Internacional de Atenas",
+              "answer": "AIA"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "La primera de cambio",
+              "answer": "C"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Azúcar nevada",
+              "answer": "GLAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "No todo lo que brilla es…",
+              "answer": "ORO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cabello que cae sin formar ondas ni rizos (pl)",
+              "answer": "LACIOS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Dirigí y actué en mi primera película",
+              "answer": "RODE"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Ciencia que estudia las rocas en profundidad",
+              "answer": "PETROLOGIA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un remolque cuando se ha enganchado a un camión",
+              "answer": "ACOPLADO"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "Instructivo, guía escrita",
+              "answer": "MANUAL"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Por ti corro desparramado hasta la entrada",
+              "answer": "PORTICO"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Próxima a la cerca de Ana",
+              "answer": "CERCANA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Ceder en algún deseo, empeño o pasión",
+              "answer": "AMAINAR"
+            },
+            "23": {
+              "col": 8,
+              "row": 4,
+              "clue": "Parte que arranca de la línea principal de un camino",
+              "answer": "RAMAL"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "El postre favorito del loco Óscar",
+              "answer": "ROSCA"
+            },
+            "25": {
+              "col": 7,
+              "row": 5,
+              "clue": "Dominio web para Hungría",
+              "answer": "HU"
+            },
+            "26": {
+              "col": 10,
+              "row": 5,
+              "clue": "Yo fui su avalista, lo apoyé, lo…",
+              "answer": "AVALE"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Para iniciar la transformación",
+              "answer": "T"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Arquitectura: Resalto que hay en algunos edificios",
+              "answer": "ARIMEZ"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "Línea que va desde el centro hasta la circunferencia",
+              "answer": "RADIO"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Mamá en inglés",
+              "answer": "MOM"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Que amenaza",
+              "answer": "MINAZ"
+            },
+            "38": {
+              "col": 12,
+              "row": 7,
+              "clue": "La Australian Technology Network",
+              "answer": "ATN"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aumenta de tamaño",
+              "answer": "CRECE"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Hombre que en la India doma, guía y cuida un elefante",
+              "answer": "CORNAC"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Cierra el ciclo",
+              "answer": "O"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Quitar la vida con violencia",
+              "answer": "MATAR"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Herbert Spencer",
+              "answer": "HS"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Emerja de las algas enredadas",
+              "answer": "SALGA"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Saqué la cabeza por la ventana, me…",
+              "answer": "ASOME"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Me daré prisa, me…",
+              "answer": "APURARE"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Bengalí alocado en la famosa cueva playera de Portugal",
+              "answer": "BENAGIL"
+            },
+            "57": {
+              "col": 8,
+              "row": 11,
+              "clue": "¿Ese derrame fue un desastre y tú me vas a imitar?",
+              "answer": "REMEDAR"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Derramen lágrimas",
+              "answer": "LLOREN"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Lo es la Gran Barrera de Coral en Australia",
+              "answer": "ARRECIFE"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Pérdida de la propia identidad o razón",
+              "answer": "ALIENACION"
+            },
+            "62": {
+              "col": 11,
+              "row": 13,
+              "clue": "La hermana de Ares, la 'Destructora de Ciudades'",
+              "answer": "ENIO"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Asan ligeramente algo",
+              "answer": "SOASAN"
+            },
+            "64": {
+              "col": 7,
+              "row": 14,
+              "clue": "Pedazo de brazo",
+              "answer": "AZO"
+            },
+            "65": {
+              "col": 11,
+              "row": 14,
+              "clue": "Cortes superficialmente, con los dientes",
+              "answer": "ROAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Sujetar con grapas\r\n2-Máquina que arrastra vagones por vía férrea \r\n3-Gustas de algo extremadamente\r\n4-Pozo negro, fosa…\r\n5-Sin brillo\r\n6-Rededor, alrededor\r\n7-Especie de lechuza\r\n8-El caballo encorva el lomo con violencia\r\n9-Preocupar, perturbar\r\n10-Curvada hacia dentro\r\n11-Ciudad catalana en la comarca de la Anoia \r\n12-Percibían los sonidos\r\n13-Habitación principal de la casa\r\n16-Inicia la renovación \r\n18-Aquí hay muchísimo lino \r\n21-Atravesar un camino\r\n25-Planta que sirve de comida para los caballos (pl)\r\n27-Técnica de impresión sobre piedra o plancha tratada \r\n28-Muchísimos años, millones\r\n31-Dos de los impuestos que han sido quitados\r\n32-Modelo y actriz mexicana, expareja de Alejandro Sanz\r\n34-Mínimo común múltiplo\r\n35-Transformación interior de la conciencia y el sentido vital\r\n37-Símbolo químico del Zinc\r\n40-\"Santiago… Quiroga\", presidente republicano, cuando la Guerra Civil\r\n41-Zona sensible a la excitación sexual\r\n43-Se hace cargo\r\n44-Tener falta o privación de algo\r\n49-Judeoespañol, el idioma de los judíos sefardíes\r\n50-Sutiles, vaporosos, ligeros\r\n52-Cultivan bitcoines\r\n53-Ingrediente principal del sushi\r\n54-Se parece, pero no es un tornillo\r\n55-\"… Cantó\", representante de España en Eurovisión 2021\r\n56-Primera instancia psíquica (Freud)\r\n59-Aeropuerto Internacional de Atenas\r\n61-La primera de cambio",
+        "horizontal_clues": "1-Azúcar nevada\r\n5-No todo lo que brilla es…\r\n8-Cabello que cae sin formar ondas ni rizos (pl)\r\n14-Dirigí y actué en mi primera película\r\n15-Ciencia que estudia las rocas en profundidad \r\n17-Un remolque cuando se ha enganchado a un camión \r\n19-Instructivo, guía escrita\r\n20-Por ti corro desparramado hasta la entrada\r\n21-Próxima a la cerca de Ana\r\n22-Ceder en algún deseo, empeño o pasión\r\n23-Parte que arranca de la línea principal de un camino\r\n24-El postre favorito del loco Óscar\r\n25-Dominio web para Hungría\r\n26-Yo fui su avalista, lo apoyé, lo…\r\n29-Para iniciar la transformación\r\n30-Arquitectura: Resalto que hay en algunos edificios\r\n33-Línea que va desde el centro hasta la circunferencia\r\n34-Mamá en inglés\r\n36-Que amenaza\r\n38-La Australian Technology Network\r\n39-Aumenta de tamaño\r\n42-Hombre que en la India doma, guía y cuida un elefante\r\n45-Cierra el ciclo\r\n46-Quitar la vida con violencia\r\n47-Herbert Spencer\r\n48-Emerja de las algas enredadas\r\n51-Saqué la cabeza por la ventana, me…\r\n53-Me daré prisa, me…\r\n55-Bengalí alocado en la famosa cueva playera de Portugal \r\n57-¿Ese derrame fue un desastre y tú me vas a imitar? \r\n58-Derramen lágrimas\r\n59-Lo es la Gran Barrera de Coral en Australia\r\n60-Pérdida de la propia identidad o razón \r\n62-La hermana de Ares, la 'Destructora de Ciudades' \r\n63-Asan ligeramente algo\r\n64-Pedazo de brazo\r\n65-Cortes superficialmente, con los dientes",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,19,#,#,#,#,#\r\n20,#,#,#,#,#,#,#,21,#,#,#,#,#,#\r\n22,#,#,#,#,#,#,#,23,#,#,#,#,#,#\r\n24,#,#,#,#,#,#,25,#,#,26,#,#,27,28\r\n#,29,#,30,#,31,32,#,#,#,33,#,#,#,#\r\n34,#,35,#,#,36,#,#,#,37,#,#,38,#,#\r\n39,#,#,40,41,#,42,#,#,#,43,44,#,45,#\r\n46,#,#,#,#,#,47,#,#,#,48,#,49,#,50\r\n#,#,51,#,#,52,#,#,53,54,#,#,#,#,#\r\n55,56,#,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,#,59,#,#,#,#,#,#,#\r\n60,#,#,#,#,#,61,#,#,#,#,62,#,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,65,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

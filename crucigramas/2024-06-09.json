@@ -1,0 +1,513 @@
+{
+  "data": {
+    "id": 370,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-06-09T01:27:23.834284Z",
+      "updatedAt": "2024-06-09T01:27:23.834303Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-09",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#AJUAR##MESIAS#\r\nTRASTE#REDOBLAR\r\nOR#ANDROGINO#TE\r\nRUEDE#USA#SOGUN\r\nTINO#CLARA#KURT\r\nENA#GOODALL#IEA\r\nLAMARR#A#COIS##\r\n#ROMANO#MAGNAS#\r\n##RIFE#U#LIONEL\r\nALA#OTALGIA#TRE\r\nLADY#AFTAS#PERO\r\nBRAUN#GIF#CASAN\r\nUG#CALAMARES#NO\r\nSABATINO#ABOLIR\r\n#RESIDO##RUSTA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Destruir, dañar.",
+              "answer": "ARRUINAR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Iniciales de la actriz que interpreta Rachel en 'Friends'.",
+              "answer": "JA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "De segunda mano, por ejemplo el vestido.",
+              "answer": "USADO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "La neta, es un caos total.",
+              "answer": "ATNE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Facebook o Instagram.",
+              "answer": "RED"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Disney. La novia de Hércules.",
+              "answer": "MEGARA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Estudiante Diseño Industrial.",
+              "answer": "EDI"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Hijos de Inglaterra.",
+              "answer": "SONS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Computadora portátil desarrollada por Apple (1999).",
+              "answer": "IBOOK"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"...",
+              "answer": "AL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Colmé, llené.",
+              "answer": "SATURE"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Bollo de hojaldre en forma de rosca.",
+              "answer": "TORTEL"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Coloración de la salsa coctel.",
+              "answer": "ROSADA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Entra que te retan, porque traen el pago del alquiler.",
+              "answer": "RENTA"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "El tubo de queso de cabra.",
+              "answer": "RULO"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Prendada de amor por alguien.",
+              "answer": "ENAMORADA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Petit pois o las bolitas verdes de la ensaladilla rusa.",
+              "answer": "GUISANTES"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Coarten la confusión del sonido de esa bocina.",
+              "answer": "CORNETA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Quím. Hidróxido metálico muy soluble en agua.",
+              "answer": "ALCALIS"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Matemática. Vértices o nodos unidos por aristas o arcos.",
+              "answer": "GRAFO"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"La... de los Búfalos Mojados\" en Los Picapiedra.",
+              "answer": "LOGIA"
+            },
+            "33": {
+              "col": 3,
+              "row": 6,
+              "clue": "Acortamiento de \"amiga\".",
+              "answer": "AMI"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Una de las hijas de Cadmo y Harmonía.",
+              "answer": "INO"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Terreno cruzado por montañas y sierras.",
+              "answer": "SERRANIA"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"El... de la fila\" los del tema 'Como un burro amarrado en la puerta del baile'.",
+              "answer": "ULTIMO"
+            },
+            "42": {
+              "col": 14,
+              "row": 8,
+              "clue": "Primera en la línea de sucesión al trono español.",
+              "answer": "LEONOR"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"... Dumbledore\" el director de Hogwarts.",
+              "answer": "ALBUS"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Se va a ir deliberadamente, se va a...",
+              "answer": "LARGAR"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Perro de pelo Pantene.",
+              "answer": "AFGANO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "La tonta usa un solo anteojo.",
+              "answer": "GAFA"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Tubérculos también conocidos como mandiocas.",
+              "answer": "YUCAS"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Movimiento sucesivo, que dejan huellas.",
+              "answer": "PASOS"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Diminutivo de Natalí.",
+              "answer": "NATI"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Variedad del toro común.",
+              "answer": "CEBU"
+            },
+            "59": {
+              "col": 5,
+              "row": 12,
+              "clue": "Combate, pelea, pugna.",
+              "answer": "LID"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Inform. Tipo de archivo comprimido.",
+              "answer": "RAR"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Dominio web para Bélgica.",
+              "answer": "BE"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Lo que tienen en común León Trotski y Liv Tyler.",
+              "answer": "LT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cosas que aporta la mujer al matrimonio.",
+              "answer": "AJUAR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Un sujeto imaginario que viene a salvar a la humanidad.",
+              "answer": "MESIAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Saliente de metal en el mástil de las guitarras.",
+              "answer": "TRASTE"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Aumentar la intensidad en el esfuerzo.",
+              "answer": "REDOBLAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Río que pasa por Rusia y Kazajistán.",
+              "answer": "OR"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Con aspecto masculino y femenino a la vez (masc).",
+              "answer": "ANDROGINO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Teluro.",
+              "answer": "TE"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Caiga, dando vueltas por una pendiente.",
+              "answer": "RUEDE"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Utiliza, emplea.",
+              "answer": "USA"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Antiguo representante del emperador japonés.",
+              "answer": "SOGUN"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "El loco Toni tiene buen juicio, siempre acierta.",
+              "answer": "TINO"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Un huevo sin yema.",
+              "answer": "CLARA"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Vocalista de Nirvana (1967",
+              "answer": "KURT"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Cena sin entrantes.",
+              "answer": "ENA"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"Jane …\" pionera en el estudio de los chimpancés salvajes.",
+              "answer": "GOODALL"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "\"Literal\" sin consonantes.",
+              "answer": "IEA"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Hedy...\" Inventora del WIFI y 1ª actriz en desnudarse en una peli.",
+              "answer": "LAMARR"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "\"Sandro...\", exfutbolista italiano.",
+              "answer": "COIS"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "El italiano, se dispersó en cuatro manos.",
+              "answer": "ROMANO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Son grandes y notables las mangas retorcidas.",
+              "answer": "MAGNAS"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Sortee.",
+              "answer": "RIFE"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "En el nombre del Messías.",
+              "answer": "LIONEL"
+            },
+            "43": {
+              "col": 0,
+              "row": 9,
+              "clue": "Malala no tiene malicia.",
+              "answer": "ALA"
+            },
+            "45": {
+              "col": 4,
+              "row": 9,
+              "clue": "Medicina. Dolor de oídos.",
+              "answer": "OTALGIA"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Tres incompletos.",
+              "answer": "TRE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"__bug\" la mariquita de Miraculous.",
+              "answer": "LADY"
+            },
+            "51": {
+              "col": 5,
+              "row": 10,
+              "clue": "Medicina. Úlceras pequeñas que se forman en la mucosa de la boca.",
+              "answer": "AFTAS"
+            },
+            "52": {
+              "col": 11,
+              "row": 10,
+              "clue": "Sin embargo, no obstante.",
+              "answer": "PERO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Marca de afeitadora eléctrica.",
+              "answer": "BRAUN"
+            },
+            "55": {
+              "col": 6,
+              "row": 11,
+              "clue": "Imagen animada para WhatsApp.",
+              "answer": "GIF"
+            },
+            "56": {
+              "col": 10,
+              "row": 11,
+              "clue": "Firman con gananciales, se...",
+              "answer": "CASAN"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Universidad de Guayaquil.",
+              "answer": "UG"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Molusco con pluma (pl).",
+              "answer": "CALAMARES"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Negativo el procedimiento.",
+              "answer": "NO"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Perteneciente o relativo al sábado o ejecutado en él.",
+              "answer": "SABATINO"
+            },
+            "64": {
+              "col": 9,
+              "row": 13,
+              "clue": "Derogar, dejar sin vigencia una ley.",
+              "answer": "ABOLIR"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Moro, vivo, habito.",
+              "answer": "RESIDO"
+            },
+            "67": {
+              "col": 9,
+              "row": 14,
+              "clue": "Coloquial. Aguante, soporte con paciencia trabajos y penas.",
+              "answer": "RUSTA"
+            }
+          }
+        },
+        "vertical_clues": "1-Destruir, dañar.\r\n2-Iniciales de la actriz que interpreta Rachel en 'Friends'.\r\n3-De segunda mano, por ejemplo el vestido.\r\n4-La neta, es un caos total.\r\n5-Facebook o Instagram.\r\n6-Disney. La novia de Hércules.\r\n7-Estudiante Diseño Industrial.\r\n8-Hijos de Inglaterra.\r\n9-Computadora portátil desarrollada por Apple (1999). \r\n10-\"...-Anon\" grupo de apoyo para los familiares de adictos.\r\n11-Colmé, llené.\r\n12-Bollo de hojaldre en forma de rosca.\r\n13-Coloración de la salsa coctel.\r\n14-Entra que te retan, porque traen el pago del alquiler.\r\n17-El tubo de queso de cabra.\r\n20-Prendada de amor por alguien.\r\n23-Petit pois o las bolitas verdes de la ensaladilla rusa.\r\n25-Coarten la confusión del sonido de esa bocina.\r\n26-Quím. Hidróxido metálico muy soluble en agua.\r\n29-Matemática. Vértices o nodos unidos por aristas o arcos.\r\n30-\"La... de los Búfalos Mojados\" en Los Picapiedra.\r\n33-Acortamiento de \"amiga\".\r\n35-Una de las hijas de Cadmo y Harmonía.\r\n38-Terreno cruzado por montañas y sierras. \r\n40-\"El... de la fila\" los del tema 'Como un burro amarrado en la puerta del baile'.\r\n42-Primera en la línea de sucesión al trono español.\r\n43-\"... Dumbledore\" el director de Hogwarts.\r\n44-Se va a ir deliberadamente, se va a...\r\n46-Perro de pelo Pantene.\r\n47-La tonta usa un solo anteojo.\r\n50-Tubérculos también conocidos como mandiocas.\r\n52-Movimiento sucesivo, que dejan huellas.\r\n54-Diminutivo de Natalí.\r\n56-Variedad del toro común.\r\n59-Combate, pelea, pugna.\r\n60-Inform. Tipo de archivo comprimido.\r\n63-Dominio web para Bélgica.\r\n65-Lo que tienen en común León Trotski y Liv Tyler.",
+        "horizontal_clues": "1-Cosas que aporta la mujer al matrimonio.\r\n6-Un sujeto imaginario que viene a salvar a la humanidad.\r\n12-Saliente de metal en el mástil de las guitarras.\r\n13-Aumentar la intensidad en el esfuerzo.\r\n15-Río que pasa por Rusia y Kazajistán.\r\n16-Con aspecto masculino y femenino a la vez (masc).\r\n18-Teluro.\r\n19-Caiga, dando vueltas por una pendiente.\r\n21-Utiliza, emplea.\r\n22-Antiguo representante del emperador japonés.\r\n24-El loco Toni tiene buen juicio, siempre acierta.\r\n25-Un huevo sin yema.\r\n27-Vocalista de Nirvana (1967-1994).\r\n28-Cena sin entrantes.\r\n29-\"Jane …\" pionera en el estudio de los chimpancés salvajes.\r\n31-\"Literal\" sin consonantes.\r\n32-\"Hedy...\" Inventora del WIFI y 1ª actriz en desnudarse en una peli.\r\n34-\"Sandro...\", exfutbolista italiano.\r\n36-El italiano, se dispersó en cuatro manos.\r\n37-Son grandes y notables las mangas retorcidas.\r\n39-Sortee.\r\n41-En el nombre del Messías.\r\n43-Malala no tiene malicia.\r\n45-Medicina. Dolor de oídos.\r\n48-Tres incompletos.\r\n49-\"__bug\" la mariquita de Miraculous.\r\n51-Medicina. Úlceras pequeñas que se forman en la mucosa de la boca.\r\n52-Sin embargo, no obstante.\r\n53-Marca de afeitadora eléctrica.\r\n55-Imagen animada para WhatsApp.\r\n56-Firman con gananciales, se...\r\n57-Universidad de Guayaquil.\r\n58-Molusco con pluma (pl).\r\n61-Negativo el procedimiento.\r\n62-Perteneciente o relativo al sábado o ejecutado en él.\r\n64-Derogar, dejar sin vigencia una ley.\r\n66-Moro, vivo, habito.\r\n67-Coloquial. Aguante, soporte con paciencia trabajos y penas.",
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,22,#,23,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,27,#,#,#\r\n28,#,#,#,29,#,#,#,#,#,30,#,31,#,#\r\n32,#,#,33,#,#,#,#,#,34,#,35,#,#,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,38,#\r\n#,#,39,#,#,#,#,40,#,41,#,#,#,#,42\r\n43,44,#,#,45,#,46,#,47,#,#,#,48,#,#\r\n49,#,#,50,#,51,#,#,#,#,#,52,#,#,#\r\n53,#,#,#,54,#,55,#,#,#,56,#,#,#,#\r\n57,#,#,58,#,59,#,#,#,60,#,#,#,61,#\r\n62,#,63,#,#,#,#,#,#,64,#,#,65,#,#\r\n#,66,#,#,#,#,#,#,#,67,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

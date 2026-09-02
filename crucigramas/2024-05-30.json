@@ -1,0 +1,477 @@
+{
+  "data": {
+    "id": 304,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-28T13:21:54.564378Z",
+      "updatedAt": "2024-05-30T19:14:55.951735Z",
+      "level": null,
+      "creationDate": "2024-05-30",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-05-30",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MARK#RELSB#VALE\r\nELE#MOVI#UBICAR\r\nDIABETES#Z##LMR\r\nAPLACEN##ZAFABA\r\nNO#CASTER#GIMEN\r\nORION#UNIFICAR#\r\n#INNOVAR#ELECTO\r\n##F##ELEVO##I##\r\nGERONA#DESAMOR#\r\n#LAMESIAS#CANES\r\nHOGAR#BRIBON#CA\r\nUGANDA##CAPATAZ\r\nAIN##Z#AUDITIVO\r\nNATIVO#ALIE#RAN\r\nGRIS#ROSAL#TERA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Montaña del desierto.",
+              "answer": "MEDANO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Vergüenza ajena.",
+              "answer": "ALIPORI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Que tiene existencia verdadera y efectiva.",
+              "answer": "REAL"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Cambies de turnos.",
+              "answer": "ROTES"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "De vez en cuando.",
+              "answer": "EVENTUAL"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Flor de loto.",
+              "answer": "LIS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"... Lightyear\" el que da saltos con estilo.",
+              "answer": "BUZZ"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Observé, percibí con los ojos.",
+              "answer": "VI"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Manifestación pública de aprobación o entusiasmo.",
+              "answer": "ACLAMACION"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"Christopher...\" interpreta a Connor MacLeod en 'Los inmortales'.",
+              "answer": "LAMBERT"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Meten la pata.",
+              "answer": "ERRAN"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Aquí cantaba Ana Torroja.",
+              "answer": "MECANO"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "\"Francis...\", el pintor irlandés o el filósofo inglés.",
+              "answer": "BACON"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Ligero, pronto, expedito.",
+              "answer": "AGIL"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Pez marino teleósteo.",
+              "answer": "FICE"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Enlazar, entretejer, enmarañar algo con otra cosa.",
+              "answer": "ENREDAR"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Ir de cabeza.",
+              "answer": "RI"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Pillado con las manos en la masa, sin escapatoria.",
+              "answer": "INFRAGANTI"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Desprovistos de belleza.",
+              "answer": "FEOS"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "A las aves locas, es mejor que la mires.",
+              "answer": "VEAS"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Órgano pequeño en forma de saco que almacena bilis.",
+              "answer": "VESICULA"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Galo ríe confundido, cuando lo quieren halagar.",
+              "answer": "ELOGIAR"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Mona confundida, en el Sultanato.",
+              "answer": "OMAN"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Término despectivo para los estudiosos.",
+              "answer": "NERD"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Reuní provisiones en cantidad.",
+              "answer": "ACOPIE"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Moneda empleada actualmente en Azerbaiyán y Turkmenistán.",
+              "answer": "MANAT"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Volver a cavar.",
+              "answer": "RECAVAR"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Inicales de la actriz protagonista de 'El Laberinto del fauno'.",
+              "answer": "IB"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Pon sal, pimienta y tu toque personal.",
+              "answer": "SAZONA"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Qin Shi...\" emperador chino cuya tumba custodia a los Guerreros de Terracota.",
+              "answer": "HUANG"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Paleta de hierro usada en chimeneas y braseros.",
+              "answer": "BADIL"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Primo del gavilán.",
+              "answer": "AZOR"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Lo eché al suelo, lo...",
+              "answer": "TIRE"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Ácido Acetilsalicílico (abrev).",
+              "answer": "AAS"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Es inglés.",
+              "answer": "IS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "\"... Ruffalo\" actor que interpreta a Hulk desde 2012.",
+              "answer": "MARK"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Rapero mallorquín autor del álbum 'La Isla LP'.",
+              "answer": "RELSB"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Entrada gratuita para un espectáculo público.",
+              "answer": "VALE"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Elena tiene pérdida de sodio.",
+              "answer": "ELE"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Cambié de lugar, me...",
+              "answer": "MOVI"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "Situar o instalar en determinado lugar.",
+              "answer": "UBICAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "La enfermedad dulce.",
+              "answer": "DIABETES"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Limite Máximo de Residuos (de plaguicidas).",
+              "answer": "LMR"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Dejen para después.",
+              "answer": "APLACEN"
+            },
+            "19": {
+              "col": 9,
+              "row": 3,
+              "clue": "Desembarazaba, liberaba.",
+              "answer": "ZAFABA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Gracias por preguntar, pero tengo compromisos ineludibles.",
+              "answer": "NO"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Un comentador de E",
+              "answer": "CASTER"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Emiten voz lastimera de pena, dolor o placer sexual.",
+              "answer": "GIMEN"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Él lleva un cinturón de estrellas.",
+              "answer": "ORION"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Reunir o integrar elementos en un todo.",
+              "answer": "UNIFICAR"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Introducir algo nuevo o hacer cambios significativos.",
+              "answer": "INNOVAR"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Votado, seleccionado.",
+              "answer": "ELECTO"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "Levanto, muevo hacia arriba.",
+              "answer": "ELEVO"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Provincia catalana que limita con Francia y el Mediterráneo.",
+              "answer": "GERONA"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Falta de amor hacia la persona antes amada.",
+              "answer": "DESAMOR"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "La salvadora y la última gran serie de Los Javis (2p).",
+              "answer": "LAMESIAS"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Los perros se secan sacudiéndose.",
+              "answer": "CANES"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "La casa, el lugar donde nos sentimos seguros.",
+              "answer": "HOGAR"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Aquí uno que se la da de malote y es tremendo holgazán.",
+              "answer": "BRIBON"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Símbolo químico del calcio.",
+              "answer": "CA"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "País africano cuya capital es Kampala.",
+              "answer": "UGANDA"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Persona que gobierna y vigila a muchos trabajadores.",
+              "answer": "CAPATAZ"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Caín perdió la cabeza.",
+              "answer": "AIN"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "El canal que convierte vibraciones en melodías para el cerebro.",
+              "answer": "AUDITIVO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Originario del lugar donde se ha nacido.",
+              "answer": "NATIVO"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Uní a una persona con otra.",
+              "answer": "ALIE"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Diosa escandinava que lleva a los ahogados a su morada.",
+              "answer": "RAN"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"Juan…\" gran maestro español del cubismo.",
+              "answer": "GRIS"
+            },
+            "63": {
+              "col": 5,
+              "row": 14,
+              "clue": "El arbusto favorito de Rosalía.",
+              "answer": "ROSAL"
+            },
+            "64": {
+              "col": 11,
+              "row": 14,
+              "clue": "1000 gigas = 1...",
+              "answer": "TERA"
+            }
+          }
+        },
+        "vertical_clues": "1-Montaña del desierto.\r\n2-Vergüenza ajena.\r\n3-Que tiene existencia verdadera y efectiva.\r\n4-Cambies de turnos.\r\n5-De vez en cuando.\r\n6-Flor de loto.\r\n7-\"... Lightyear\" el que da saltos con estilo.\r\n8-Observé, percibí con los ojos.\r\n9-Manifestación pública de aprobación o entusiasmo.\r\n10-\"Christopher...\" interpreta a Connor MacLeod en 'Los inmortales'.\r\n11-Meten la pata.\r\n13-Aquí cantaba Ana Torroja.\r\n16-\"Francis...\", el pintor irlandés o el filósofo inglés.\r\n20-Ligero, pronto, expedito.\r\n21-Pez marino teleósteo.\r\n24-Enlazar, entretejer, enmarañar algo con otra cosa.\r\n25-Ir de cabeza.\r\n28-Pillado con las manos en la masa, sin escapatoria.\r\n30-Desprovistos de belleza.\r\n32-A las aves locas, es mejor que la mires.\r\n35-Órgano pequeño en forma de saco que almacena bilis.\r\n37-Galo ríe confundido, cuando lo quieren halagar. \r\n38-Mona confundida, en el Sultanato.\r\n39-Término despectivo para los estudiosos.\r\n41-Reuní provisiones en cantidad.\r\n42-Moneda empleada actualmente en Azerbaiyán y Turkmenistán.\r\n43-Volver a cavar.\r\n45-Inicales de la actriz protagonista de 'El Laberinto del fauno'. \r\n47-Pon sal, pimienta y tu toque personal.\r\n48-\"Qin Shi...\" emperador chino cuya tumba custodia a los Guerreros de Terracota.\r\n50-Paleta de hierro usada en chimeneas y braseros.\r\n53-Primo del gavilán.\r\n55-Lo eché al suelo, lo...\r\n57-Ácido Acetilsalicílico (abrev).\r\n59-Es inglés.",
+        "horizontal_clues": "1-\"... Ruffalo\" actor que interpreta a Hulk desde 2012.\r\n4-Rapero mallorquín autor del álbum 'La Isla LP'.\r\n8-Entrada gratuita para un espectáculo público.\r\n12-Elena tiene pérdida de sodio.\r\n13-Cambié de lugar, me...\r\n14-Situar o instalar en determinado lugar.\r\n15-La enfermedad dulce.\r\n17-Limite Máximo de Residuos (de plaguicidas).\r\n18-Dejen para después.\r\n19-Desembarazaba, liberaba.\r\n22-Gracias por preguntar, pero tengo compromisos ineludibles.\r\n23-Un comentador de E-sports (voz inglesa). \r\n26-Emiten voz lastimera de pena, dolor o placer sexual.\r\n27-Él lleva un cinturón de estrellas.\r\n29-Reunir o integrar elementos en un todo.\r\n31-Introducir algo nuevo o hacer cambios significativos.\r\n33-Votado, seleccionado.\r\n34-Levanto, muevo hacia arriba.\r\n36-Provincia catalana que limita con Francia y el Mediterráneo.\r\n40-Falta de amor hacia la persona antes amada.\r\n44-La salvadora y la última gran serie de Los Javis (2p).\r\n46-Los perros se secan sacudiéndose.\r\n48-La casa, el lugar donde nos sentimos seguros.\r\n49-Aquí uno que se la da de malote y es tremendo holgazán.\r\n51-Símbolo químico del calcio.\r\n52-País africano cuya capital es Kampala. \r\n54-Persona que gobierna y vigila a muchos trabajadores.\r\n56-Caín perdió la cabeza.\r\n57-El canal que convierte vibraciones en melodías para el cerebro.\r\n58-Originario del lugar donde se ha nacido.\r\n60-Uní a una persona con otra.\r\n61-Diosa escandinava que lleva a los ahogados a su morada.\r\n62-\"Juan…\" gran maestro español del cubismo.\r\n63-El arbusto favorito de Rosalía.\r\n64-1000 gigas = 1...",
+        "board_clues_positions": "1,2,3,#,#,4,5,6,#,7,#,8,9,10,11\r\n12,#,#,#,13,#,#,#,#,14,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,#,17,#,#\r\n18,#,#,#,#,#,#,#,#,19,20,21,#,#,#\r\n22,#,#,23,#,#,#,24,25,#,26,#,#,#,#\r\n27,#,28,#,#,#,29,#,#,30,#,#,#,#,#\r\n#,31,#,#,#,32,#,#,#,33,#,#,#,#,#\r\n#,#,#,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,38,39,#,#,40,#,#,41,42,#,43,#\r\n#,44,#,#,#,#,45,#,#,#,46,#,#,#,47\r\n48,#,#,#,#,#,49,#,#,50,#,#,#,51,#\r\n52,#,#,#,#,53,#,#,54,#,#,#,55,#,#\r\n56,#,#,#,#,#,#,57,#,#,#,#,#,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,#,61,#,#\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

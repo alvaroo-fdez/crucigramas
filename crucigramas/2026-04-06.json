@@ -1,0 +1,505 @@
+{
+  "data": {
+    "id": 5360,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-05T19:43:49.772521Z",
+      "updatedAt": "2026-04-05T19:45:24.318885Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-06",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "MITOSIS###DRAMA\r\nANOMALOS#VIOLIN\r\nROLEX#COTIDIANO\r\nAPEGO#ACOTO#GIF\r\nCERA#PRIMO#CASE\r\nASA#MERAS#MI#TL\r\n##BLADES#MATARE\r\nBOLETIN#TIRANOS\r\nAFERIR#TOCINO##\r\nRR#DZ#ZORRO#NOM\r\nREMA#CORNO#LAPA\r\nINI#CHOCA#MUDEN\r\nADMIRASES#ACARO\r\nDAIMIO#ROBLEDAL\r\nARREE###LLENADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La cámara suena como un sonajero",
+              "answer": "MARACA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Pienso confuso que son indigentes",
+              "answer": "INOPES"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Admisible, soportable",
+              "answer": "TOLERABLE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Marca suiza de relojes con 30 años de patrocinio en los JJOO",
+              "answer": "OMEGA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Instrumento musical que toca el personaje Lisa Simpson",
+              "answer": "SAXO"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Finalizan en abril",
+              "answer": "IL"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tuesten el arroz al fondo de la paella",
+              "answer": "SOCARREN"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Fundadora y reina de la ciudad de Cartago",
+              "answer": "DIDO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Corté con los dientes",
+              "answer": "ROI"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Forma lagos o charcos",
+              "answer": "ALAGA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Representante del Ejecutivo especializado en un área concreta",
+              "answer": "MINISTRO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Mosquito que transmite la malaria o paludismo",
+              "answer": "ANOFELES"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Ellas son accionistas de la empresa",
+              "answer": "SOCIAS"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "\"Don … Corleone\" por Brando o por De Niro",
+              "answer": "VITO"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Tambores sobre el bombo de la batería",
+              "answer": "TOMS"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Solicitar",
+              "answer": "PEDIR"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Convocan con día y hora",
+              "answer": "CITAN"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Organiza el tamiz y cambia al tono",
+              "answer": "MATIZ"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "\"… Benedetti\" autor del poema 'Táctica y estrategia'",
+              "answer": "MARIO"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Bestia pesada y torpe en el andar",
+              "answer": "LERDA"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Un micrófono roto",
+              "answer": "MICRO"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "Abrumada, muy desconcertada",
+              "answer": "ANONADADA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Barrio con estructuras de baja calidad",
+              "answer": "BARRIADA"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Ofrecer sacrificios a los seres sobrenaturales",
+              "answer": "OFRENDAR"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Que presenta colores distintos, según el ángulo en que se mire",
+              "answer": "TORNASOL"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "No cede, no da su brazo a…",
+              "answer": "TORCER"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Pequeños zoológicos",
+              "answer": "ZOOS"
+            },
+            "42": {
+              "col": 13,
+              "row": 9,
+              "clue": "Intervenid quirúrgicamente",
+              "answer": "OPERAD"
+            },
+            "43": {
+              "col": 14,
+              "row": 9,
+              "clue": "\"… Valdés' el escultor de las meninas",
+              "answer": "MANOLO"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Tío materno de Odín y guardián de las fuentes de la sabiduría",
+              "answer": "MIMIR"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Adiós, hasta luego",
+              "answer": "CHAO"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Brillan, resplandecen con ropa nueva",
+              "answer": "LUCEN"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Cuidé y eduqué a una niña",
+              "answer": "CRIE"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Capital de las Maldivas",
+              "answer": "MALE"
+            },
+            "52": {
+              "col": 3,
+              "row": 12,
+              "clue": "Centro agroalimentario",
+              "answer": "IME"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Inic del artista marcial más influyente de todos los tiempos",
+              "answer": "BL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "División de la célula",
+              "answer": "MITOSIS"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vaya película la que se ha montado Darma",
+              "answer": "DRAMA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Irregulares, extraños",
+              "answer": "ANOMALOS"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Instrumento de cuerda frotada",
+              "answer": "VIOLIN"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Marca el tiempo en los Grand Slam",
+              "answer": "ROLEX"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Sucede con frecuencia habitual",
+              "answer": "COTIDIANO"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"Crianza con…\" lactancia, colecho y mucho cariño",
+              "answer": "APEGO"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Delimito un espacio",
+              "answer": "ACOTO"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Imagen animada para WhatsApp",
+              "answer": "GIF"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "“Palma de…” árbol Nacional de Colombia",
+              "answer": "CERA"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "El hijo de mi tía",
+              "answer": "PRIMO"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Contraje matrimonio, me…",
+              "answer": "CASE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "En el centro de las casas",
+              "answer": "ASA"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Puras, netas",
+              "answer": "MERAS"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Casi es mío",
+              "answer": "MI"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Símbolo químico del Talio",
+              "answer": "TL"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "\"Rubén …\" salsero que canta Pedro Navaja",
+              "answer": "BLADES"
+            },
+            "31": {
+              "col": 9,
+              "row": 6,
+              "clue": "Asesinaré, por ejemplo el tiempo",
+              "answer": "MATARE"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Publicación periódica y oficial",
+              "answer": "BOLETIN"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Arrójanos con fuerza porque somos los más villanos",
+              "answer": "TIRANOS"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Desuso Contrastar los pesos y medidas",
+              "answer": "AFERIR"
+            },
+            "37": {
+              "col": 7,
+              "row": 8,
+              "clue": "Bacon, tocineta, panceta",
+              "answer": "TOCINO"
+            },
+            "38": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dígrafo que nunca ha sido una letra",
+              "answer": "RR"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Dominio web para Argelia",
+              "answer": "DZ"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Superhéroe que firma \"Z\"",
+              "answer": "ZORRO"
+            },
+            "41": {
+              "col": 12,
+              "row": 9,
+              "clue": "\"Nombre\" en catalán",
+              "answer": "NOM"
+            },
+            "44": {
+              "col": 0,
+              "row": 10,
+              "clue": "Impulsa a brazo",
+              "answer": "REMA"
+            },
+            "46": {
+              "col": 5,
+              "row": 10,
+              "clue": "Cornejo, arbusto cornáceo",
+              "answer": "CORNO"
+            },
+            "47": {
+              "col": 11,
+              "row": 10,
+              "clue": "Barrio de Río de Janeiro donde se encuentra la Escalera de Selarón",
+              "answer": "LAPA"
+            },
+            "48": {
+              "col": 0,
+              "row": 11,
+              "clue": "Iniesta se ausenta",
+              "answer": "INI"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Colisiona, se estrella",
+              "answer": "CHOCA"
+            },
+            "50": {
+              "col": 10,
+              "row": 11,
+              "clue": "Cambien el pelo o la piel",
+              "answer": "MUDEN"
+            },
+            "51": {
+              "col": 0,
+              "row": 12,
+              "clue": "Tuvieses en singular estimación a alguien",
+              "answer": "ADMIRASES"
+            },
+            "53": {
+              "col": 10,
+              "row": 12,
+              "clue": "El terror de los alérgicos, el diminuto arácnido",
+              "answer": "ACARO"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Señor feudal del antiguo régimen japonés",
+              "answer": "DAIMIO"
+            },
+            "55": {
+              "col": 7,
+              "row": 13,
+              "clue": "Terreno poblado de robles",
+              "answer": "ROBLEDAL"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "Estimule a las bestias para que echen a andar",
+              "answer": "ARREE"
+            },
+            "58": {
+              "col": 8,
+              "row": 14,
+              "clue": "Acción y efecto de llenar",
+              "answer": "LLENADO"
+            }
+          }
+        },
+        "vertical_clues": "1-La cámara suena como un sonajero\r\n2-Pienso confuso que son indigentes\r\n3-Admisible, soportable\r\n4-Marca suiza de relojes con 30 años de patrocinio en los JJOO\r\n5-Instrumento musical que toca el personaje Lisa Simpson\r\n6-Finalizan en abril\r\n7-Tuesten el arroz al fondo de la paella\r\n8-Fundadora y reina de la ciudad de Cartago\r\n9-Corté con los dientes\r\n10-Forma lagos o charcos\r\n11-Representante del Ejecutivo especializado en un área concreta\r\n12-Mosquito que transmite la malaria o paludismo\r\n14-Ellas son accionistas de la empresa\r\n15-\"Don … Corleone\" por Brando o por De Niro\r\n18-Tambores sobre el bombo de la batería\r\n23-Solicitar\r\n24-Convocan con día y hora\r\n26-Organiza el tamiz y cambia al tono\r\n27-\"… Benedetti\" autor del poema 'Táctica y estrategia'\r\n30-Bestia pesada y torpe en el andar\r\n31-Un micrófono roto\r\n32-Abrumada, muy desconcertada\r\n33-Barrio con estructuras de baja calidad\r\n34-Ofrecer sacrificios a los seres sobrenaturales\r\n35-Que presenta colores distintos, según el ángulo en que se mire \r\n37-No cede, no da su brazo a…\r\n40-Pequeños zoológicos\r\n42-Intervenid quirúrgicamente\r\n43-\"… Valdés' el escultor de las meninas\r\n45-Tío materno de Odín y guardián de las fuentes de la sabiduría\r\n46-Adiós, hasta luego\r\n47-Brillan, resplandecen con ropa nueva\r\n49-Cuidé y eduqué a una niña\r\n50-Capital de las Maldivas\r\n52-Centro agroalimentario\r\n56-Inic del artista marcial más influyente de todos los tiempos",
+        "horizontal_clues": "1-División de la célula\r\n8-Vaya película la que se ha montado Darma\r\n13-Irregulares, extraños\r\n15-Instrumento de cuerda frotada\r\n16-Marca el tiempo en los Grand Slam\r\n17-Sucede con frecuencia habitual \r\n19-\"Crianza con…\" lactancia, colecho y mucho cariño\r\n20-Delimito un espacio\r\n21-Imagen animada para WhatsApp\r\n22-“Palma de…” árbol Nacional de Colombia\r\n23-El hijo de mi tía\r\n24-Contraje matrimonio, me…\r\n25-En el centro de las casas\r\n26-Puras, netas\r\n27-Casi es mío\r\n28-Símbolo químico del Talio\r\n29-\"Rubén …\" salsero que canta Pedro Navaja\r\n31-Asesinaré, por ejemplo el tiempo\r\n33-Publicación periódica y oficial\r\n35-Arrójanos con fuerza porque somos los más villanos\r\n36-Desuso Contrastar los pesos y medidas\r\n37-Bacon, tocineta, panceta\r\n38-Dígrafo que nunca ha sido una letra\r\n39-Dominio web para Argelia\r\n40-Superhéroe que firma \"Z\"\r\n41-\"Nombre\" en catalán\r\n44-Impulsa a brazo\r\n46-Cornejo, arbusto cornáceo\r\n47-Barrio de Río de Janeiro donde se encuentra la Escalera de Selarón\r\n48-Iniesta se ausenta\r\n49-Colisiona, se estrella\r\n50-Cambien el pelo o la piel\r\n51-Tuvieses en singular estimación a alguien\r\n53-El terror de los alérgicos, el diminuto arácnido\r\n54-Señor feudal del antiguo régimen japonés\r\n55-Terreno poblado de robles\r\n57-Estimule a las bestias para que echen a andar\r\n58-Acción y efecto de llenar",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,#,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,15,#,#,#,#,#\r\n16,#,#,#,#,#,17,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,#,#,#,#,#,24,#,#,#\r\n25,#,#,#,26,#,#,#,#,#,27,#,#,28,#\r\n#,#,29,30,#,#,#,#,#,31,#,#,32,#,#\r\n33,34,#,#,#,#,#,#,35,#,#,#,#,#,#\r\n36,#,#,#,#,#,#,37,#,#,#,#,#,#,#\r\n38,#,#,39,#,#,40,#,#,#,#,#,41,42,43\r\n44,#,45,#,#,46,#,#,#,#,#,47,#,#,#\r\n48,#,#,#,49,#,#,#,#,#,50,#,#,#,#\r\n51,#,#,52,#,#,#,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,#,#,55,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

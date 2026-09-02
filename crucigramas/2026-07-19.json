@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6723,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-07-18T22:43:24.449847Z",
+      "updatedAt": "2026-07-18T22:44:17.008554Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-07-19",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "BF#IDEABAS#ALGA\r\nIRADO#RAPO#CURA\r\nGABON#PRINCESA#\r\nAYUNADOR#GALOPE\r\n##SERENAN#PESAS\r\nCCAA#C#CONOR##P\r\nAOD#RABAT#NOEMI\r\nPROVEER#ATENUAR\r\nTIRES#OBRAS#RMA\r\nU##DOPAR#R#FIEL\r\nROTEN#SAETEAD##\r\nALETAS#SPARRING\r\n#ENTROPIA#ROCIO\r\nFRIE#FUET#ALEAN\r\nLEAS#ATRAERA#LG",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Carro tirado por dos caballos de frente",
+              "answer": "BIGA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tratamiento católico que recibe el pintor de la obra La Anunciación",
+              "answer": "FRAY"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Adecuada y apropiada para algo",
+              "answer": "IDONEA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ceder un órgano",
+              "answer": "DONAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Instrumento usado para capturar ballenas",
+              "answer": "ARPON"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Casa de labor, en las huertas de Murcia y Valencia",
+              "answer": "BARRACA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lápiz sin punta ni borrador",
+              "answer": "API"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Una canción inglesa",
+              "answer": "SONG"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Un subidón de velocidad",
+              "answer": "ACELERON"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Hombres de Portugal",
+              "answer": "LUSOS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Pieza metálica que se usa para sujetar papeles",
+              "answer": "GRAPA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Explotador de una persona mediante su poder",
+              "answer": "ABUSADOR"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Ates los sarmientos en la vid para que no estorben",
+              "answer": "CAPONES"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Que va a menos",
+              "answer": "DECAE"
+            },
+            "23": {
+              "col": 14,
+              "row": 3,
+              "clue": "Línea curva que va alejándose de su punto central",
+              "answer": "ESPIRAL"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Percibir, darse cuenta de algo",
+              "answer": "NOTAR"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Una foto a la pantalla del móvil",
+              "answer": "CAPTURA"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "A Corina con cariño",
+              "answer": "CORI"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Hacer vibrar a los tambores",
+              "answer": "RESONAR"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Ensenadas llenas de barras y rompientes",
+              "answer": "BROAS"
+            },
+            "34": {
+              "col": 12,
+              "row": 6,
+              "clue": "El amor de Orfeo",
+              "answer": "EURIDICE"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "Chupe la leche de los pechos",
+              "answer": "MAME"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Las artistas del clásico cabaret de la Belle Époque",
+              "answer": "VEDETTES"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "En el centro de la mesa en un cumpleaños",
+              "answer": "TARTA"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Prenda femenina para sujetar los senos",
+              "answer": "BRASIER"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Farol grande en la torre de los puertos",
+              "answer": "FAROLA"
+            },
+            "47": {
+              "col": 1,
+              "row": 10,
+              "clue": "Percibiré los olores",
+              "answer": "OLERE"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Escondía a un gusano parasitario",
+              "answer": "TENIA"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Produce asombro o admiración",
+              "answer": "EPATA"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Es de humanos",
+              "answer": "ERRAR"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Perfecto para sentarse a ver tele",
+              "answer": "SOFA"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "Almiar, balaguero",
+              "answer": "NIAL"
+            },
+            "56": {
+              "col": 14,
+              "row": 11,
+              "clue": "Instrumento de percusión asiático",
+              "answer": "GONG"
+            },
+            "58": {
+              "col": 6,
+              "row": 12,
+              "clue": "'Poner' en inglés",
+              "answer": "PUT"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tiene poco flow",
+              "answer": "FL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Dominio de nivel superior geográfico para Burkina Faso",
+              "answer": "BF"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Creabas un plan",
+              "answer": "IDEABAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lo es el wakame o el nori",
+              "answer": "ALGA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Desuso Forajido",
+              "answer": "IRADO"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Afeito, trasquilo",
+              "answer": "RAPO"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Sacerdote encargado",
+              "answer": "CURA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "País africano cuya capital es Libreville",
+              "answer": "GABON"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Precisan el caos de la hija del rey",
+              "answer": "PRINCESA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Quien se abstiene de comer por un tiempo",
+              "answer": "AYUNADOR"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "A caballo a paso, trote o…",
+              "answer": "GALOPE"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Sosiegan, tranquilizan algo",
+              "answer": "SERENAN"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Ponderas, mides, comparas",
+              "answer": "PESAS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Lo son Cataluña y el País Vasco",
+              "answer": "CCAA"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "\"… McGregor\" peleador de MMA con su caminar",
+              "answer": "CONOR"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Asistencia oficial para el desarrollo (siglas)",
+              "answer": "AOD"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Capital del Reino de Marruecos",
+              "answer": "RABAT"
+            },
+            "33": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"… Salazar\" la reina del brilli brilli",
+              "answer": "NOEMI"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Suministrar lo necesario",
+              "answer": "PROVEER"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Para disminuir el impacto, lo tuneará mejor",
+              "answer": "ATENUAR"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Derribes, derrumbes",
+              "answer": "TIRES"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Forjas tus esculturas",
+              "answer": "OBRAS"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "Mar revuelto",
+              "answer": "RMA"
+            },
+            "44": {
+              "col": 3,
+              "row": 9,
+              "clue": "Drogar para calmar",
+              "answer": "DOPAR"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Persona que no traiciona",
+              "answer": "FIEL"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Den vueltas alrededor de un núcleo",
+              "answer": "ROTEN"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Disparad las flechas, una tras otra",
+              "answer": "SAETEAD"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Se las cortan a los tiburones para hacer sopas y ellos mueren",
+              "answer": "ALETAS"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "Práctica de boxeo sin consecuencias (voz inglesa)",
+              "answer": "SPARRING"
+            },
+            "57": {
+              "col": 1,
+              "row": 12,
+              "clue": "Deterioro natural e inevitable de la energía",
+              "answer": "ENTROPIA"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "Gotas menudas esparcidas",
+              "answer": "ROCIO"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Cocina en aceite",
+              "answer": "FRIE"
+            },
+            "61": {
+              "col": 5,
+              "row": 13,
+              "clue": "Embutido típico de Cataluña",
+              "answer": "FUET"
+            },
+            "62": {
+              "col": 10,
+              "row": 13,
+              "clue": "Mezclan metales, los…",
+              "answer": "ALEAN"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Descifres el texto",
+              "answer": "LEAS"
+            },
+            "64": {
+              "col": 5,
+              "row": 14,
+              "clue": "Llamará su atención si tararea terrible",
+              "answer": "ATRAERA"
+            },
+            "65": {
+              "col": 13,
+              "row": 14,
+              "clue": "Laura Gallego, fantástica escritora española autora de 'Finis Mundi'",
+              "answer": "LG"
+            }
+          }
+        },
+        "vertical_clues": "1-Carro tirado por dos caballos de frente\r\n2-Tratamiento católico que recibe el pintor de la obra La Anunciación\r\n3-Adecuada y apropiada para algo\r\n4-Ceder un órgano\r\n5-Instrumento usado para capturar ballenas\r\n6-Casa de labor, en las huertas de Murcia y Valencia\r\n7-Lápiz sin punta ni borrador\r\n8-Una canción inglesa\r\n9-Un subidón de velocidad\r\n10-Hombres de Portugal\r\n11-Pieza metálica que se usa para sujetar papeles\r\n12-Alcohólicos Anónimos\r\n14-Explotador de una persona mediante su poder\r\n19-Ates los sarmientos en la vid para que no estorben\r\n21-Que va a menos\r\n23-Línea curva que va alejándose de su punto central\r\n25-Percibir, darse cuenta de algo\r\n27-Una foto a la pantalla del móvil \r\n28-A Corina con cariño\r\n31-Hacer vibrar a los tambores\r\n32-Ensenadas llenas de barras y rompientes \r\n34-El amor de Orfeo\r\n35-Chupe la leche de los pechos\r\n37-Las artistas del clásico cabaret de la Belle Époque\r\n39-En el centro de la mesa en un cumpleaños\r\n42-Prenda femenina para sujetar los senos\r\n45-Farol grande en la torre de los puertos\r\n47-Percibiré los olores\r\n48-Escondía a un gusano parasitario\r\n50-Produce asombro o admiración\r\n51-Es de humanos\r\n53-Perfecto para sentarse a ver tele\r\n55-Almiar, balaguero\r\n56-Instrumento de percusión asiático\r\n58-'Poner' en inglés\r\n60-Tiene poco flow",
+        "horizontal_clues": "1-Dominio de nivel superior geográfico para Burkina Faso\r\n3-Creabas un plan\r\n9-Lo es el wakame o el nori\r\n13-Desuso Forajido\r\n15-Afeito, trasquilo\r\n16-Sacerdote encargado\r\n17-País africano cuya capital es Libreville\r\n18-Precisan el caos de la hija del rey\r\n20-Quien se abstiene de comer por un tiempo \r\n22-A caballo a paso, trote o…\r\n24-Sosiegan, tranquilizan algo\r\n26-Ponderas, mides, comparas\r\n27-Lo son Cataluña y el País Vasco\r\n29-\"… McGregor\" peleador de MMA con su caminar\r\n30-Asistencia oficial para el desarrollo (siglas)\r\n31-Capital del Reino de Marruecos\r\n33-\"… Salazar\" la reina del brilli brilli\r\n36-Suministrar lo necesario \r\n38-Para disminuir el impacto, lo tuneará mejor\r\n40-Derribes, derrumbes\r\n41-Forjas tus esculturas\r\n43-Mar revuelto\r\n44-Drogar para calmar\r\n45-Persona que no traiciona\r\n46-Den vueltas alrededor de un núcleo\r\n49-Disparad las flechas, una tras otra\r\n52-Se las cortan a los tiburones para hacer sopas y ellos mueren\r\n54-Práctica de boxeo sin consecuencias (voz inglesa)\r\n57-Deterioro natural e inevitable de la energía \r\n59-Gotas menudas esparcidas\r\n60-Cocina en aceite\r\n61-Embutido típico de Cataluña\r\n62-Mezclan metales, los…\r\n63-Descifres el texto\r\n64-Llamará su atención si tararea terrible\r\n65-Laura Gallego, fantástica escritora española autora de 'Finis Mundi'",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,#,5,6,7,8,#,9,10,11,12\r\n13,#,14,#,#,#,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,#,#,18,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,#,#,#,23\r\n#,#,24,#,#,#,#,#,25,#,26,#,#,#,#\r\n27,28,#,#,#,#,#,29,#,#,#,#,#,#,#\r\n30,#,#,#,31,#,32,#,#,#,33,#,34,35,#\r\n36,#,#,37,#,#,#,#,38,39,#,#,#,#,#\r\n40,#,#,#,#,#,41,42,#,#,#,#,43,#,#\r\n#,#,#,44,#,#,#,#,#,#,#,45,#,#,#\r\n46,47,48,#,#,#,49,#,50,#,51,#,#,#,#\r\n52,#,#,#,#,53,#,54,#,#,#,#,#,55,56\r\n#,57,#,#,#,#,58,#,#,#,59,#,#,#,#\r\n60,#,#,#,#,61,#,#,#,#,62,#,#,#,#\r\n63,#,#,#,#,64,#,#,#,#,#,#,#,65,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

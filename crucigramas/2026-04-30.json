@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 5815,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-04-29T21:28:19.609573Z",
+      "updatedAt": "2026-04-29T21:33:40.930515Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-04-30",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "A#SILABA#REMEDO\r\nRYAN#MAYO#TUSI#\r\nCALIDAD#L#ESTOR\r\nEYACULA#MORTERO\r\nDODICI#BOREAL#C\r\nO##ATOMO#NONATO\r\n#TINI#ALZA#GRIS\r\nGR##LVI#INU##ÑA\r\nAUPA#ELMO#REJA#\r\nREUNAN#SNOBS##L\r\nR#RAMIRO#MATADO\r\nAGITADO#MINORIA\r\nSANOS#I#OTORGAR\r\n#LELA#AUPE#BOLI\r\nCASERO#VASCOS#A",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sitio poblado de arces",
+              "answer": "ARCEDO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Curad la carne con sal",
+              "answer": "SALAD"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Comienzan, dan principio a algo",
+              "answer": "INICIAN"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "\"… Gimeno y Cabañas\" también conocido como Conde de Gimeno",
+              "answer": "AMALIO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Adaptación al español de la palabra portuguesa para rinoceronte",
+              "answer": "BADA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Voz usada para expresar dolor",
+              "answer": "AY"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sutil, inaprensible, desprovisto de peso y forma",
+              "answer": "ETEREO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Deportivo icónico de Ford",
+              "answer": "MUSTANG"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Programación u horario de máxima audiencia",
+              "answer": "ESTELAR"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"Christian…\", marca de modas más lujosa del mundo",
+              "answer": "DIOR"
+            },
+            "13": {
+              "col": 1,
+              "row": 1,
+              "clue": "A mi abuelo con cariño",
+              "answer": "YAYO"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "El árbol al que no hay que pedirle peras",
+              "answer": "OLMO"
+            },
+            "18": {
+              "col": 4,
+              "row": 2,
+              "clue": "Dicho de un metal que admite grandes deformaciones en frío sin romperse",
+              "answer": "DUCTIL"
+            },
+            "20": {
+              "col": 14,
+              "row": 2,
+              "clue": "Pedregosa",
+              "answer": "ROCOSA"
+            },
+            "23": {
+              "col": 9,
+              "row": 3,
+              "clue": "Engalanan con adornos",
+              "answer": "ORNAN"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "Recipiente para el ponche",
+              "answer": "BOL"
+            },
+            "27": {
+              "col": 6,
+              "row": 5,
+              "clue": "Dame el correo del gringo",
+              "answer": "MAIL"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Se pinte las canas, se las…",
+              "answer": "TIÑA"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Un verdadero inglés",
+              "answer": "TRUE"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "La última ciudad humana en la tierra de Matrix",
+              "answer": "ZION"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Patas de un animal, armadas de uñas fuertes y agudas",
+              "answer": "GARRAS"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Acudid porque en la revuelta lo negocié",
+              "answer": "VENID"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Cortés, atento y de buen modo",
+              "answer": "URBANO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Excrementos del ganado, excesivos en las macrogranjas",
+              "answer": "PURINES"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "\"… France\", escritor, cuya obra se incluyó en el Índice de Libros Prohibidos de la Iglesia católica",
+              "answer": "ANATOLE"
+            },
+            "44": {
+              "col": 7,
+              "row": 8,
+              "clue": "Microsoft Office",
+              "answer": "MSO"
+            },
+            "46": {
+              "col": 11,
+              "row": 8,
+              "clue": "No quiero ser una molestia, un obstáculo, un…",
+              "answer": "ESTORBO"
+            },
+            "48": {
+              "col": 4,
+              "row": 9,
+              "clue": "Amarás como loco el faenar del panadero",
+              "answer": "AMASAR"
+            },
+            "50": {
+              "col": 9,
+              "row": 9,
+              "clue": "Ignoras, pasas por alto",
+              "answer": "OMITES"
+            },
+            "51": {
+              "col": 14,
+              "row": 9,
+              "clue": "Exclamaría, exageraría los valores positivos de alguien o algo",
+              "answer": "LOARIA"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Cortaba menudamente con los dientes",
+              "answer": "ROIA"
+            },
+            "55": {
+              "col": 12,
+              "row": 10,
+              "clue": "La ciudad más antigua de Grecia",
+              "answer": "ARGOS"
+            },
+            "56": {
+              "col": 13,
+              "row": 10,
+              "clue": "Conjunto de las emisoras de radio captadas",
+              "answer": "DIAL"
+            },
+            "58": {
+              "col": 1,
+              "row": 11,
+              "clue": "Fiesta en la que se exige vestido especial de esta clase",
+              "answer": "GALA"
+            },
+            "59": {
+              "col": 8,
+              "row": 11,
+              "clue": "Utensilio de limpieza",
+              "answer": "MOPA"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Ultra Violeta",
+              "answer": "UV"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Conjunto de letras que se pronuncian en un solo golpe de voz",
+              "answer": "SILABA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Repitió sus palabras, pero con tono burlón",
+              "answer": "REMEDO"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"Meg…\" junto a Antonio Banderas en la peli 'Mi novio es un ladrón'",
+              "answer": "RYAN"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Este mes",
+              "answer": "MAYO"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "Cocaína rosa",
+              "answer": "TUSI"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Característica de un producto que solemos relacionar con su precio",
+              "answer": "CALIDAD"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Tipo de cortina que se despliega verticalmente",
+              "answer": "ESTOR"
+            },
+            "21": {
+              "col": 0,
+              "row": 3,
+              "clue": "Lanza con rapidez y fuerza el contenido del órgano masculino",
+              "answer": "EYACULA"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Te voy a machacar con este utensilio de cocina",
+              "answer": "MORTERO"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Doce en italiano",
+              "answer": "DODICI"
+            },
+            "25": {
+              "col": 7,
+              "row": 4,
+              "clue": "\"Aurora…\" la del polo norte",
+              "answer": "BOREAL"
+            },
+            "26": {
+              "col": 3,
+              "row": 5,
+              "clue": "Cantidad indivisible de un elemento químico",
+              "answer": "ATOMO"
+            },
+            "28": {
+              "col": 9,
+              "row": 5,
+              "clue": "Nacido por cesárea",
+              "answer": "NONATO"
+            },
+            "30": {
+              "col": 1,
+              "row": 6,
+              "clue": "Cantante argentina de pop, del tema 'Cupido' y 'Miénteme'",
+              "answer": "TINI"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Aumento de valor de la moneda",
+              "answer": "ALZA"
+            },
+            "33": {
+              "col": 11,
+              "row": 6,
+              "clue": "\"Juan…\" gran maestro español del cubismo",
+              "answer": "GRIS"
+            },
+            "34": {
+              "col": 0,
+              "row": 7,
+              "clue": "Inic de la modelo argentina pareja de Cristiano",
+              "answer": "GR"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "56 romanos",
+              "answer": "LVI"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Medio inútil",
+              "answer": "INU"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "La doña perdió la clave",
+              "answer": "ÑA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Levanta o sube a alguien",
+              "answer": "AUPA"
+            },
+            "43": {
+              "col": 5,
+              "row": 8,
+              "clue": "Personaje de Sesame Street cuyo color favorito es el rojo",
+              "answer": "ELMO"
+            },
+            "45": {
+              "col": 10,
+              "row": 8,
+              "clue": "Barrotes en la ventana",
+              "answer": "REJA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Congreguen, agrupen",
+              "answer": "REUNAN"
+            },
+            "49": {
+              "col": 7,
+              "row": 9,
+              "clue": "Imitadores de los distinguidos (voz inglesa)",
+              "answer": "SNOBS"
+            },
+            "52": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"… de Maeztu\" de la Generación de 98",
+              "answer": "RAMIRO"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Un trabajo cuando es muy sacrificado",
+              "answer": "MATADO"
+            },
+            "57": {
+              "col": 0,
+              "row": 11,
+              "clue": "Que se desarrolla con mucha actividad o desasosiego (masc)",
+              "answer": "AGITADO"
+            },
+            "59": {
+              "col": 8,
+              "row": 11,
+              "clue": "Que difiere de la mayoría",
+              "answer": "MINORIA"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Hombres que gozan de perfecta salud",
+              "answer": "SANOS"
+            },
+            "61": {
+              "col": 8,
+              "row": 12,
+              "clue": "Conceder algo que se logra",
+              "answer": "OTORGAR"
+            },
+            "62": {
+              "col": 1,
+              "row": 13,
+              "clue": "Fatua, simple y como pasmada",
+              "answer": "LELA"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Yo lo incité a tomar esa decisión, lo…",
+              "answer": "AUPE"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Un lapicero, un…",
+              "answer": "BOLI"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "El dueño del piso es muy hogareño",
+              "answer": "CASERO"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "“Pintxos…” los aperitivos",
+              "answer": "VASCOS"
+            }
+          }
+        },
+        "vertical_clues": "1-Sitio poblado de arces\r\n2-Curad la carne con sal\r\n3-Comienzan, dan principio a algo\r\n4-\"… Gimeno y Cabañas\" también conocido como Conde de Gimeno\r\n5-Adaptación al español de la palabra portuguesa para rinoceronte\r\n6-Voz usada para expresar dolor\r\n8-Sutil, inaprensible, desprovisto de peso y forma\r\n9-Deportivo icónico de Ford \r\n10-Programación u horario de máxima audiencia\r\n11-\"Christian…\", marca de modas más lujosa del mundo\r\n13-A mi abuelo con cariño\r\n15-El árbol al que no hay que pedirle peras\r\n18-Dicho de un metal que admite grandes deformaciones en frío sin romperse\r\n20-Pedregosa\r\n23-Engalanan con adornos\r\n25-Recipiente para el ponche\r\n27-Dame el correo del gringo\r\n29-Se pinte las canas, se las…\r\n30-Un verdadero inglés\r\n32-La última ciudad humana en la tierra de Matrix\r\n34-Patas de un animal, armadas de uñas fuertes y agudas\r\n36-Acudid porque en la revuelta lo negocié\r\n38-Cortés, atento y de buen modo\r\n41-Excrementos del ganado, excesivos en las macrogranjas\r\n42-\"… France\", escritor, cuya obra se incluyó en el Índice de Libros Prohibidos de la Iglesia católica\r\n44-Microsoft Office\r\n46-No quiero ser una molestia, un obstáculo, un…\r\n48-Amarás como loco el faenar del panadero\r\n50-Ignoras, pasas por alto\r\n51-Exclamaría, exageraría los valores positivos de alguien o algo\r\n53-Cortaba menudamente con los dientes\r\n55-La ciudad más antigua de Grecia\r\n56-Conjunto de las emisoras de radio captadas\r\n58-Fiesta en la que se exige vestido especial de esta clase\r\n59-Utensilio de limpieza\r\n64-Ultra Violeta",
+        "horizontal_clues": "2-Conjunto de letras que se pronuncian en un solo golpe de voz\r\n7-Repitió sus palabras, pero con tono burlón \r\n12-\"Meg…\" junto a Antonio Banderas en la peli 'Mi novio es un ladrón'\r\n14-Este mes \r\n16-Cocaína rosa\r\n17-Característica de un producto que solemos relacionar con su precio\r\n19-Tipo de cortina que se despliega verticalmente\r\n21-Lanza con rapidez y fuerza el contenido del órgano masculino\r\n22-Te voy a machacar con este utensilio de cocina\r\n24-Doce en italiano \r\n25-\"Aurora…\" la del polo norte\r\n26-Cantidad indivisible de un elemento químico\r\n28-Nacido por cesárea\r\n30-Cantante argentina de pop, del tema 'Cupido' y 'Miénteme' \r\n31-Aumento de valor de la moneda\r\n33-\"Juan…\" gran maestro español del cubismo\r\n34-Inic de la modelo argentina pareja de Cristiano\r\n35-56 romanos\r\n37-Medio inútil\r\n39-La doña perdió la clave\r\n40-Levanta o sube a alguien\r\n43-Personaje de Sesame Street cuyo color favorito es el rojo\r\n45-Barrotes en la ventana\r\n47-Congreguen, agrupen\r\n49-Imitadores de los distinguidos (voz inglesa)\r\n52-\"… de Maeztu\" de la Generación de 98\r\n54-Un trabajo cuando es muy sacrificado\r\n57-Que se desarrolla con mucha actividad o desasosiego (masc)\r\n59-Que difiere de la mayoría\r\n60-Hombres que gozan de perfecta salud\r\n61-Conceder algo que se logra\r\n62-Fatua, simple y como pasmada\r\n63-Yo lo incité a tomar esa decisión, lo…\r\n65-Un lapicero, un…\r\n66-El dueño del piso es muy hogareño\r\n67-“Pintxos…” los aperitivos",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,#,4,5,6,#,7,8,9,10,11,#\r\n12,13,#,#,#,14,#,#,15,#,16,#,#,#,#\r\n17,#,#,#,18,#,#,#,#,#,19,#,#,#,20\r\n21,#,#,#,#,#,#,#,22,23,#,#,#,#,#\r\n24,#,#,#,#,#,#,25,#,#,#,#,#,#,#\r\n#,#,#,26,#,#,27,#,#,28,#,#,#,29,#\r\n#,30,#,#,#,#,31,#,32,#,#,33,#,#,#\r\n34,#,#,#,35,36,#,#,37,#,38,#,#,39,#\r\n40,#,41,42,#,43,#,44,#,#,45,46,#,#,#\r\n47,#,#,#,48,#,#,49,#,50,#,#,#,#,51\r\n#,#,52,#,#,#,53,#,#,54,#,#,55,56,#\r\n57,58,#,#,#,#,#,#,59,#,#,#,#,#,#\r\n60,#,#,#,#,#,#,#,61,#,#,#,#,#,#\r\n#,62,#,#,#,#,63,64,#,#,#,65,#,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

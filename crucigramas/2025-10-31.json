@@ -1,0 +1,510 @@
+{
+  "data": {
+    "id": 3873,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-28T10:04:22.486451Z",
+      "updatedAt": "2025-10-30T18:07:14.781123Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Culto al terror",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-31",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ESPECTRO#ATABAJ\r\nMASCARA#GUADAÑA\r\nOCIOSA###LLANOS\r\nJO##ESQUELA##SO\r\nI#DISGUSTARTE#N\r\n#NEF#OIDOS#EXO#\r\nCAGE##M#L##SOJA\r\n#ZOMBIE#ONFIRE#\r\n#ALABAR#GRESCA#\r\n#RL##MARIA##IR#\r\nVEALE#SEA#AISLO\r\n#TRUCO#O#TRATO#\r\nS#ACHIS#ARASA#E\r\nAL#HECHICERA#IL\r\nWAKA#REGAN#MMTM",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "El más usado es el 'Cara con lágrimas de alegría'",
+              "answer": "EMOJI"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "·Lo que usa ese Hombre para desaparecer a los niños desobedientes·",
+              "answer": "SACO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Letra griega asociada con la psicología",
+              "answer": "PSI"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Los principios ecológicos siempre resuenan",
+              "answer": "ECO"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Desposes, unas",
+              "answer": "CASES"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "·Duende travieso del folclore ibérico que asusta por diversión·",
+              "answer": "TRASGO"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Medio rara",
+              "answer": "RA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "·Haces como un hombre lobo a la luna llena·",
+              "answer": "AULLAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mutilar un árbol",
+              "answer": "TALAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… Lovelace\", la primera programadora de ordenadores",
+              "answer": "ADA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Te bloquearon en un servidor de juegos, te hicieron un…",
+              "answer": "BAN"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Que no pasen en vano",
+              "answer": "AÑOS"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "·Asesino de la máscara de hockey, el de Viernes 13·",
+              "answer": "JASON"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "·Seres monstruosos con partes de león, cabra y serpiente·",
+              "answer": "QUIMERAS"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Ustedes están locos por los dólares americanos",
+              "answer": "USD"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Disciplina que investiga las conductas instintivas de los seres vivos",
+              "answer": "ETOLOGIA"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "·Lo decapitará como al Jinete sin cabeza·",
+              "answer": "DEGOLLARA"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Los de las ferias, en Madrid",
+              "answer": "IFEMA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "·Película de Amenábar sobre el morbo y la violencia grabada en vídeo (1996)·",
+              "answer": "TESIS"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "·\"El…\" Historia maldita donde el demonio toma el cuerpo de una niña·",
+              "answer": "EXORCISTA"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "La aldea donde creció Jesús",
+              "answer": "NAZARET"
+            },
+            "31": {
+              "col": 13,
+              "row": 5,
+              "clue": "Mirarlo por encima, echarle un vistazo",
+              "answer": "OJEARLO"
+            },
+            "35": {
+              "col": 4,
+              "row": 7,
+              "clue": "Lo que tienen en común Bertolt Brecht y Bad Bunny",
+              "answer": "BB"
+            },
+            "36": {
+              "col": 5,
+              "row": 7,
+              "clue": "Te lo digo en dos palabras, Yo soy inglés",
+              "answer": "IAM"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Han invertido en el ácido ribonucleico",
+              "answer": "NRA"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "Fernando Esteso tiene una convicción de hierro",
+              "answer": "FE"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Oré con desespero por el preso",
+              "answer": "REO"
+            },
+            "47": {
+              "col": 3,
+              "row": 10,
+              "clue": "·Esta es entre el bien y el mal·",
+              "answer": "LUCHA"
+            },
+            "48": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"Te… de menos\", te extrañé",
+              "answer": "ECHE"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Cultivar, laborar la tierra",
+              "answer": "ARAR"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"Parque Nacional… Mara\" en Kenia, África (inv)",
+              "answer": "IASAM"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "¿Escuché que Cristiano Ronaldo es terriblemente rico?",
+              "answer": "OICR"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "·\"Estación Zombie: … a Busan\" la peli de zombies coreana·",
+              "answer": "TREN"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "·La saga de Jigsaw, el que somete a sus víctimas a pruebas sádicas·",
+              "answer": "SAW"
+            },
+            "57": {
+              "col": 6,
+              "row": 12,
+              "clue": "El pronombre de una guiri americana",
+              "answer": "SHE"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Acércate, ven…",
+              "answer": "ACA"
+            },
+            "59": {
+              "col": 14,
+              "row": 12,
+              "clue": "·La calle de las pesadillas malditas, la de Freddy Krueger·",
+              "answer": "ELM"
+            },
+            "61": {
+              "col": 1,
+              "row": 13,
+              "clue": "Un artículo para ella",
+              "answer": "LA"
+            },
+            "63": {
+              "col": 7,
+              "row": 13,
+              "clue": "Instagram",
+              "answer": "IG"
+            },
+            "64": {
+              "col": 13,
+              "row": 13,
+              "clue": "·¡Eso!, es Pennywise, el payaso que se nutre de tus miedos·",
+              "answer": "IT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "·Aparición fantasmal de un muerto·",
+              "answer": "ESPECTRO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cría hembra de jabalí (inv)",
+              "answer": "ATABAJ"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "·La de Leatherface está hecha de piel humana·",
+              "answer": "MASCARA"
+            },
+            "15": {
+              "col": 8,
+              "row": 1,
+              "clue": "·La herramienta de La Parca, el cosechador de almas·",
+              "answer": "GUADAÑA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inactiva, vaga, holgazana",
+              "answer": "OCIOSA"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "Iguales y extendidos, sin altos ni bajos",
+              "answer": "LLANOS"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Risa navideña",
+              "answer": "JO"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "·El anuncio del último viaje·",
+              "answer": "ESQUELA"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Sofía Oria dice que se calmen",
+              "answer": "SO"
+            },
+            "24": {
+              "col": 2,
+              "row": 4,
+              "clue": "Enojarte, enfadarte",
+              "answer": "DISGUSTARTE"
+            },
+            "28": {
+              "col": 1,
+              "row": 5,
+              "clue": "Fotografía Formato de archivo RAW específico de Nikon",
+              "answer": "NEF"
+            },
+            "29": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"A palabras necias, … Sordos\"",
+              "answer": "OIDOS"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Prefijo que significa 'fuera', 'en el exterior'",
+              "answer": "EXO"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "·Actor que interpreta a Drácula en la peli 'Renfield'·",
+              "answer": "CAGE"
+            },
+            "33": {
+              "col": 11,
+              "row": 6,
+              "clue": "Leche con la que se prepara el tofu asiático",
+              "answer": "SOJA"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "·Muerto que camina con hambre de los vivos·",
+              "answer": "ZOMBIE"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "En llamas, con la energía a tope, pero en inglés (2p)",
+              "answer": "ONFIRE"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Halagar, enaltecer sus virtudes",
+              "answer": "ALABAR"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Hay una riña porque la confundió con Las Grecas",
+              "answer": "GRESCA"
+            },
+            "42": {
+              "col": 1,
+              "row": 9,
+              "clue": "Iniciales del 9 del FC Barcelona",
+              "answer": "RL"
+            },
+            "43": {
+              "col": 5,
+              "row": 9,
+              "clue": "La de la técnica del baño, en la cocina",
+              "answer": "MARIA"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Mírele, obsérvele",
+              "answer": "VEALE"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "\"Que… lo que Dios quiera\"",
+              "answer": "SEA"
+            },
+            "50": {
+              "col": 10,
+              "row": 10,
+              "clue": "Salió enloquecido y se alejó de todos",
+              "answer": "AISLO"
+            },
+            "52": {
+              "col": 1,
+              "row": 11,
+              "clue": "·\"Equilibrio ancestral entre provocar o…·",
+              "answer": "TRUCO"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "·… apaciguar a las fuerzas del más allá\"·",
+              "answer": "TRATO"
+            },
+            "56": {
+              "col": 2,
+              "row": 12,
+              "clue": "¿Escuché un estornudo?",
+              "answer": "ACHIS"
+            },
+            "58": {
+              "col": 8,
+              "row": 12,
+              "clue": "Argentina Árbol del guayabo",
+              "answer": "ARASA"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "\"… Qaeda\" los terroristas",
+              "answer": "AL"
+            },
+            "62": {
+              "col": 3,
+              "row": 13,
+              "clue": "·Mujer que invoca sombras y doblega voluntades con sus conjuros·",
+              "answer": "HECHICERA"
+            },
+            "64": {
+              "col": 13,
+              "row": 13,
+              "clue": "El italiano saliendo de Brasil",
+              "answer": "IL"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Si la repites, es la canción del Mundial de Sudáfrica 2010",
+              "answer": "WAKA"
+            },
+            "66": {
+              "col": 5,
+              "row": 14,
+              "clue": "·\"… MacNeil\" la niña profanada por el poder infernal de Pazuzu·",
+              "answer": "REGAN"
+            },
+            "67": {
+              "col": 11,
+              "row": 14,
+              "clue": "·Michael Myers y Trevor Moorehouse·",
+              "answer": "MMTM"
+            }
+          }
+        },
+        "vertical_clues": "1-El más usado es el 'Cara con lágrimas de alegría'\r\n2-·Lo que usa ese Hombre para desaparecer a los niños desobedientes·\r\n3-Letra griega asociada con la psicología\r\n4-Los principios ecológicos siempre resuenan\r\n5-Desposes, unas\r\n6-·Duende travieso del folclore ibérico que asusta por diversión· \r\n7-Medio rara\r\n8-·Haces como un hombre lobo a la luna llena· \r\n9-Mutilar un árbol\r\n10-\"… Lovelace\", la primera programadora de ordenadores\r\n11-Te bloquearon en un servidor de juegos, te hicieron un…\r\n12-Que no pasen en vano\r\n13-·Asesino de la máscara de hockey, el de Viernes 13·\r\n20-·Seres monstruosos con partes de león, cabra y serpiente·\r\n21-Ustedes están locos por los dólares americanos\r\n22-Disciplina que investiga las conductas instintivas de los seres vivos \r\n24-·Lo decapitará como al Jinete sin cabeza· \r\n25-Los de las ferias, en Madrid\r\n26-·Película de Amenábar sobre el morbo y la violencia grabada en vídeo (1996)·\r\n27-·\"El…\" Historia maldita donde el demonio toma el cuerpo de una niña·\r\n28-La aldea donde creció Jesús\r\n31-Mirarlo por encima, echarle un vistazo\r\n35-Lo que tienen en común Bertolt Brecht y Bad Bunny\r\n36-Te lo digo en dos palabras, Yo soy inglés\r\n38-Han invertido en el ácido ribonucleico\r\n39-Fernando Esteso tiene una convicción de hierro\r\n44-Oré con desespero por el preso\r\n47-·Esta es entre el bien y el mal·\r\n48-\"Te… de menos\", te extrañé\r\n50-Cultivar, laborar la tierra\r\n51-\"Parque Nacional… Mara\" en Kenia, África (inv) \r\n53-¿Escuché que Cristiano Ronaldo es terriblemente rico? \r\n54-·\"Estación Zombie: … a Busan\" la peli de zombies coreana·\r\n55-·La saga de Jigsaw, el que somete a sus víctimas a pruebas sádicas·\r\n57-El pronombre de una guiri americana\r\n58-Acércate, ven… \r\n59-·La calle de las pesadillas malditas, la de Freddy Krueger·\r\n61-Un artículo para ella\r\n63-Instagram\r\n64-·¡Eso!, es Pennywise, el payaso que se nutre de tus miedos·",
+        "horizontal_clues": "1-·Aparición fantasmal de un muerto·\r\n8-Cría hembra de jabalí (inv)\r\n14-·La de Leatherface está hecha de piel humana·\r\n15-·La herramienta de La Parca, el cosechador de almas·\r\n16-Inactiva, vaga, holgazana\r\n17-Iguales y extendidos, sin altos ni bajos\r\n18-Risa navideña\r\n19-·El anuncio del último viaje·\r\n23-Sofía Oria dice que se calmen\r\n24-Enojarte, enfadarte\r\n28-Fotografía Formato de archivo RAW específico de Nikon\r\n29-\"A palabras necias, … Sordos\" \r\n30-Prefijo que significa 'fuera', 'en el exterior'\r\n32-·Actor que interpreta a Drácula en la peli 'Renfield'·\r\n33-Leche con la que se prepara el tofu asiático\r\n34-·Muerto que camina con hambre de los vivos·\r\n37-En llamas, con la energía a tope, pero en inglés (2p)\r\n40-Halagar, enaltecer sus virtudes\r\n41-Hay una riña porque la confundió con Las Grecas \r\n42-Iniciales del 9 del FC Barcelona \r\n43-La de la técnica del baño, en la cocina\r\n45-Andar, marchar\r\n46-Mírele, obsérvele\r\n49-\"Que… lo que Dios quiera\"\r\n50-Salió enloquecido y se alejó de todos\r\n52-·\"Equilibrio ancestral entre provocar o…·\r\n54-·… apaciguar a las fuerzas del más allá\"·\r\n56-¿Escuché un estornudo? \r\n58-Argentina Árbol del guayabo\r\n60-\"… Qaeda\" los terroristas\r\n62-·Mujer que invoca sombras y doblega voluntades con sus conjuros·\r\n64-El italiano saliendo de Brasil\r\n65-Si la repites, es la canción del Mundial de Sudáfrica 2010 \r\n66-·\"… MacNeil\" la niña profanada por el poder infernal de Pazuzu· \r\n67-·Michael Myers y Trevor Moorehouse·",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,#,8,9,10,11,12,13\r\n14,#,#,#,#,#,#,#,15,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,17,#,#,#,#,#\r\n18,#,#,#,19,#,20,21,22,#,#,#,#,23,#\r\n#,#,24,25,#,#,#,#,#,#,#,26,27,#,#\r\n#,28,#,#,#,29,#,#,#,#,#,30,#,31,#\r\n32,#,#,#,#,#,#,#,#,#,#,33,#,#,#\r\n#,34,#,#,35,36,#,#,37,38,39,#,#,#,#\r\n#,40,#,#,#,#,#,#,41,#,#,#,#,#,#\r\n#,42,#,#,#,43,#,44,#,#,#,#,45,#,#\r\n46,#,#,47,48,#,49,#,#,#,50,51,#,#,#\r\n#,52,#,#,#,53,#,#,#,54,#,#,#,#,#\r\n55,#,56,#,#,#,57,#,58,#,#,#,#,#,59\r\n60,61,#,62,#,#,#,63,#,#,#,#,#,64,#\r\n65,#,#,#,#,66,#,#,#,#,#,67,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

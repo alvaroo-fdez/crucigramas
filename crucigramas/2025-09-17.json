@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3381,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-09T14:04:25.075651Z",
+      "updatedAt": "2025-09-09T14:14:08.190604Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-09-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PECADOS#ESCALON\r\nAMAPOLA#APETITO\r\nTIMONEL#TONICOS\r\nO#ACEITE#TIPI#E\r\n#LRO#SOMU#TITO#\r\nKEOPS#NIÑO#CURO\r\nIGNEAS#SALVADOR\r\nN###BUDISMO###C\r\nGRADERIO#OTTAWA\r\nSUPO#FONO#AUTOS\r\n#TEME#SECA#MEN#\r\nS#TINO#SILLON#F\r\nASENTIR#ALARIDO\r\nPICARAS#REGADOS\r\nOJEROSO#ANALOGA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Tapó mal el de foie gras",
+              "answer": "PATO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Sello discográfico británico",
+              "answer": "EMI"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cantaor, ícono mundial del flamenco",
+              "answer": "CAMARON"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Supresión de algún sonido al final de un vocablo",
+              "answer": "APOCOPE"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cedí parte de mi patrimonio",
+              "answer": "DONE"
+            },
+            "6": {
+              "col": 5,
+              "row": 0,
+              "clue": "Olfateáis, percibáis",
+              "answer": "OLEIS"
+            },
+            "7": {
+              "col": 6,
+              "row": 0,
+              "clue": "Que anda a saltos",
+              "answer": "SALTON"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"Just…\" aplicación para pedir comida a domicilio",
+              "answer": "EAT"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Anuncio, soporte en que se transmite un mensaje publicitario",
+              "answer": "SPOT"
+            },
+            "10": {
+              "col": 10,
+              "row": 0,
+              "clue": "Punto culminante, apogeo",
+              "answer": "CENIT"
+            },
+            "11": {
+              "col": 11,
+              "row": 0,
+              "clue": "Que se aparta de los modelos o de los tipos conocidos (fem)",
+              "answer": "ATIPICA"
+            },
+            "12": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cualidad de lícito",
+              "answer": "LICITUD"
+            },
+            "13": {
+              "col": 13,
+              "row": 0,
+              "clue": "Especie de lechuza",
+              "answer": "OTO"
+            },
+            "14": {
+              "col": 14,
+              "row": 0,
+              "clue": "Lo desconozco (dos palabras)",
+              "answer": "NOSE"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Fluidos gaseosos producto de la actividad humana",
+              "answer": "EMISIONES"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Pierna en inglés",
+              "answer": "LEG"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Aunque estés nervioso, no te las muerdas",
+              "answer": "UÑAS"
+            },
+            "26": {
+              "col": 13,
+              "row": 4,
+              "clue": "No todo lo que brilla es…",
+              "answer": "ORO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"Sacramento…\", equipo de baloncesto de la NBA",
+              "answer": "KINGS"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Tiene sabor y está al tanto de ello",
+              "answer": "SABE"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "Me moló haber puesto este árbol",
+              "answer": "OLMO"
+            },
+            "32": {
+              "col": 14,
+              "row": 5,
+              "clue": "Ballenas de mala fama",
+              "answer": "ORCAS"
+            },
+            "34": {
+              "col": 5,
+              "row": 6,
+              "clue": "Deporte acuático, incluido en el 2020 en las competiciones olímpicas",
+              "answer": "SURF"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Elige, nomina",
+              "answer": "VOTA"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Todopoderoso",
+              "answer": "DIOS"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Antiguo Testamento Bisabuela del rey David",
+              "answer": "RUT"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Tengo ganas de algo, me…",
+              "answer": "APETECE"
+            },
+            "42": {
+              "col": 3,
+              "row": 8,
+              "clue": "Ejercer control total mientras dormían distraídos",
+              "answer": "DOMINAR"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Relativo a los tumores",
+              "answer": "TUMORAL"
+            },
+            "45": {
+              "col": 12,
+              "row": 8,
+              "clue": "Ajustado, sujetado en sus acciones a algo",
+              "answer": "ATENIDO"
+            },
+            "46": {
+              "col": 13,
+              "row": 8,
+              "clue": "Moneda oficial de Corea del Sur y Corea del Norte",
+              "answer": "WON"
+            },
+            "49": {
+              "col": 8,
+              "row": 9,
+              "clue": "Dejará el trabajo, permanecerá ocioso",
+              "answer": "OCIARA"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Rentó un tóner en el norte y se metió",
+              "answer": "ENTRO"
+            },
+            "54": {
+              "col": 9,
+              "row": 10,
+              "clue": "Llave hexagonal, con forma de L",
+              "answer": "ALLEN"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Anfibio anuro de cuerpo rechoncho",
+              "answer": "SAPO"
+            },
+            "58": {
+              "col": 5,
+              "row": 11,
+              "clue": "Percibías con el oído",
+              "answer": "OIAS"
+            },
+            "60": {
+              "col": 10,
+              "row": 11,
+              "clue": "Playa surfera de Vizcaya",
+              "answer": "LAGA"
+            },
+            "61": {
+              "col": 14,
+              "row": 11,
+              "clue": "Este hoyo no es un sofá",
+              "answer": "FOSA"
+            },
+            "63": {
+              "col": 1,
+              "row": 12,
+              "clue": "Seguidor del sijismo",
+              "answer": "SIJ"
+            },
+            "64": {
+              "col": 6,
+              "row": 12,
+              "clue": "En el fondo del universo",
+              "answer": "RSO"
+            },
+            "66": {
+              "col": 13,
+              "row": 12,
+              "clue": "El perro del inglés",
+              "answer": "DOG"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Transgresión voluntaria de un precepto religioso (pl)",
+              "answer": "PECADOS"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Peldaño",
+              "answer": "ESCALON"
+            },
+            "15": {
+              "col": 0,
+              "row": 1,
+              "clue": "Adormidera adictiva",
+              "answer": "AMAPOLA"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Comer con ganas, tener…",
+              "answer": "APETITO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "El que lleva el timón",
+              "answer": "TIMONEL"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Loción astringente para limpiar y refrescar el cutis (pl)",
+              "answer": "TONICOS"
+            },
+            "19": {
+              "col": 2,
+              "row": 3,
+              "clue": "Líquido denso de origen natural",
+              "answer": "ACEITE"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "La típica vivienda de indígenas norteamericanos",
+              "answer": "TIPI"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Lunar Reconnaissance Orbiter (siglas)",
+              "answer": "LRO"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sistema Online de Mensajería Urgente",
+              "answer": "SOMU"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Emperador romano, sucesor de Vespasiano",
+              "answer": "TITO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Faraón que ordenó construir la pirámide de Guiza",
+              "answer": "KEOPS"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Un chiquillo",
+              "answer": "NIÑO"
+            },
+            "31": {
+              "col": 11,
+              "row": 5,
+              "clue": "Remedio un mal",
+              "answer": "CURO"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"…, metamórficas y sedimentarias\" los tipos de rocas",
+              "answer": "IGNEAS"
+            },
+            "35": {
+              "col": 7,
+              "row": 6,
+              "clue": "\"… Allende\", expresidente chileno, anterior a Pinochet",
+              "answer": "SALVADOR"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Es tibetano el credo del Dalái Lama",
+              "answer": "BUDISMO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Conjunto de asientos en un estadio que vuelven loca a la regidora",
+              "answer": "GRADERIO"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Capital de Canadá",
+              "answer": "OTTAWA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Se enteró",
+              "answer": "SUPO"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Prefijo que refiere voz, sonido",
+              "answer": "FONO"
+            },
+            "50": {
+              "col": 10,
+              "row": 9,
+              "clue": "Carros, coches",
+              "answer": "AUTOS"
+            },
+            "51": {
+              "col": 1,
+              "row": 10,
+              "clue": "Sospecha, desconfía, recela",
+              "answer": "TEME"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "Recoge la ropa, ya está…",
+              "answer": "SECA"
+            },
+            "55": {
+              "col": 11,
+              "row": 10,
+              "clue": "\"X …\" La patrulla X",
+              "answer": "MEN"
+            },
+            "57": {
+              "col": 2,
+              "row": 11,
+              "clue": "El loco Toni tiene buen juicio, siempre acierta",
+              "answer": "TINO"
+            },
+            "59": {
+              "col": 7,
+              "row": 11,
+              "clue": "Con esta palabra me siento muy cómoda",
+              "answer": "SILLON"
+            },
+            "62": {
+              "col": 0,
+              "row": 12,
+              "clue": "Admitir como cierto lo que otra persona ha afirmado antes",
+              "answer": "ASENTIR"
+            },
+            "65": {
+              "col": 8,
+              "row": 12,
+              "clue": "Grito lastimero en que se prorrumpe por algún dolor",
+              "answer": "ALARIDO"
+            },
+            "67": {
+              "col": 0,
+              "row": 13,
+              "clue": "Por traviesas las cortarás",
+              "answer": "PICARAS"
+            },
+            "68": {
+              "col": 8,
+              "row": 13,
+              "clue": "Salpicados, rociados",
+              "answer": "REGADOS"
+            },
+            "69": {
+              "col": 0,
+              "row": 14,
+              "clue": "Hombre que tiene ojeras",
+              "answer": "OJEROSO"
+            },
+            "70": {
+              "col": 8,
+              "row": 14,
+              "clue": "Similar, semejante, equivalente, sinónima",
+              "answer": "ANALOGA"
+            }
+          }
+        },
+        "vertical_clues": "1-Tapó mal el de foie gras\r\n2-Sello discográfico británico\r\n3-Cantaor, ícono mundial del flamenco\r\n4-Supresión de algún sonido al final de un vocablo\r\n5-Cedí parte de mi patrimonio\r\n6-Olfateáis, percibáis\r\n7-Que anda a saltos\r\n8-\"Just…\" aplicación para pedir comida a domicilio\r\n9-Anuncio, soporte en que se transmite un mensaje publicitario\r\n10-Punto culminante, apogeo\r\n11-Que se aparta de los modelos o de los tipos conocidos (fem)\r\n12-Cualidad de lícito\r\n13-Especie de lechuza\r\n14-Lo desconozco (dos palabras)\r\n20-Fluidos gaseosos producto de la actividad humana\r\n22-Pierna en inglés\r\n24-Aunque estés nervioso, no te las muerdas\r\n26-No todo lo que brilla es…\r\n27-\"Sacramento…\", equipo de baloncesto de la NBA\r\n28-Tiene sabor y está al tanto de ello\r\n30-Me moló haber puesto este árbol\r\n32-Ballenas de mala fama\r\n34-Deporte acuático, incluido en el 2020 en las competiciones olímpicas\r\n36-Elige, nomina\r\n38-Todopoderoso\r\n40-Antiguo Testamento Bisabuela del rey David\r\n41-Tengo ganas de algo, me…\r\n42-Ejercer control total mientras dormían distraídos\r\n44-Relativo a los tumores\r\n45-Ajustado, sujetado en sus acciones a algo\r\n46-Moneda oficial de Corea del Sur y Corea del Norte\r\n49-Dejará el trabajo, permanecerá ocioso\r\n52-Rentó un tóner en el norte y se metió\r\n54-Llave hexagonal, con forma de L\r\n56-Anfibio anuro de cuerpo rechoncho\r\n58-Percibías con el oído\r\n60-Playa surfera de Vizcaya\r\n61-Este hoyo no es un sofá\r\n63-Seguidor del sijismo\r\n64-En el fondo del universo\r\n66-El perro del inglés",
+        "horizontal_clues": "1-Transgresión voluntaria de un precepto religioso (pl)\r\n8-Peldaño\r\n15-Adormidera adictiva\r\n16-Comer con ganas, tener…\r\n17-El que lleva el timón\r\n18-Loción astringente para limpiar y refrescar el cutis (pl)\r\n19-Líquido denso de origen natural\r\n21-La típica vivienda de indígenas norteamericanos\r\n22-Lunar Reconnaissance Orbiter (siglas)\r\n23-Sistema Online de Mensajería Urgente\r\n25-Emperador romano, sucesor de Vespasiano\r\n27-Faraón que ordenó construir la pirámide de Guiza\r\n29-Un chiquillo\r\n31-Remedio un mal\r\n33-\"…, metamórficas y sedimentarias\" los tipos de rocas\r\n35-\"… Allende\", expresidente chileno, anterior a Pinochet\r\n37-Es tibetano el credo del Dalái Lama\r\n39-Conjunto de asientos en un estadio que vuelven loca a la regidora\r\n43-Capital de Canadá\r\n47-Se enteró\r\n48-Prefijo que refiere voz, sonido\r\n50-Carros, coches\r\n51-Sospecha, desconfía, recela\r\n53-Recoge la ropa, ya está…\r\n55-\"X …\" La patrulla X\r\n57-El loco Toni tiene buen juicio, siempre acierta\r\n59-Con esta palabra me siento muy cómoda\r\n62-Admitir como cierto lo que otra persona ha afirmado antes\r\n65-Grito lastimero en que se prorrumpe por algún dolor\r\n67-Por traviesas las cortarás\r\n68-Salpicados, rociados\r\n69-Hombre que tiene ojeras\r\n70-Similar, semejante, equivalente, sinónima",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,6,7,#,8,9,10,11,12,13,14\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,#,#,#,#,18,#,#,#,#,#,#\r\n#,#,19,#,#,#,#,20,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,24,#,25,#,#,26,#\r\n27,#,#,#,28,#,29,#,#,30,#,31,#,#,32\r\n33,#,#,#,#,34,#,35,#,#,36,#,#,#,#\r\n#,#,#,#,37,#,38,#,#,#,#,#,#,#,#\r\n39,40,41,42,#,#,#,#,#,43,#,44,45,46,#\r\n47,#,#,#,#,48,#,#,49,#,50,#,#,#,#\r\n#,51,#,#,52,#,53,#,#,54,#,55,#,#,#\r\n56,#,57,#,#,58,#,59,#,#,60,#,#,#,61\r\n62,63,#,#,#,#,64,#,65,#,#,#,#,66,#\r\n67,#,#,#,#,#,#,#,68,#,#,#,#,#,#\r\n69,#,#,#,#,#,#,#,70,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

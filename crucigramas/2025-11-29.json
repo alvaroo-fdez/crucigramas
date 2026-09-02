@@ -1,0 +1,504 @@
+{
+  "data": {
+    "id": 3918,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:48.162973Z",
+      "updatedAt": "2025-11-06T12:50:28.579144Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-29",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "##PANIFICADOR##\r\n#TETIS#SUJETAR#\r\nMITRAL##EES#SET\r\nATEA#ATESTE##EI\r\nMARI##OSTENTOSO\r\nEN#AMUSIA#RIMES\r\nNI##ERTE#PELA##\r\n#CARTEA#MEDANO#\r\n##ÑORA#PAGA##CL\r\nAHOGA#MILORD#IU\r\nDESALMADO##IMAX\r\nRN##LATOSA#BORO\r\nARN#EMA##ULULAR\r\n#YOUTUBE#REJAS#\r\n##ACATARRAMOS##",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "El niño que nunca crece, pero puede volar",
+              "answer": "PETER"
+            },
+            "2": {
+              "col": 3,
+              "row": 0,
+              "clue": "Ganaba el afecto, gusto o atención de otro",
+              "answer": "ATRAIA"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ganadora de la edición 2020 de Operación Triunfo",
+              "answer": "NIA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Lo es Mallorca o Menorca",
+              "answer": "ISLA"
+            },
+            "5": {
+              "col": 7,
+              "row": 0,
+              "clue": "Louis en París",
+              "answer": "IS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lo que vale esta pendiente",
+              "answer": "CUESTA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ajo tierno que aún no ha echado cepa o cabeza",
+              "answer": "AJETE"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Ordenar los cables que estaban todos entrecruzados",
+              "answer": "DESENREDAR"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Otro en la OTAN",
+              "answer": "OT"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Igualdad en la altura de las cosas",
+              "answer": "RAS"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Se hundió por un iceberg",
+              "answer": "TITANIC"
+            },
+            "13": {
+              "col": 13,
+              "row": 1,
+              "clue": "La prota de 'Una chica muy legal'",
+              "answer": "REESE"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Chupen la leche de los pechos",
+              "answer": "MAMEN"
+            },
+            "17": {
+              "col": 14,
+              "row": 2,
+              "clue": "Hermanos de su padre o madre",
+              "answer": "TIOS"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Rebanada con aguacate encima, rollo hípster",
+              "answer": "TOSTA"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Equipos de Sensibilización e Información ante Emergencias",
+              "answer": "ESIE"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Una infusión tranquilizante",
+              "answer": "TILA"
+            },
+            "26": {
+              "col": 12,
+              "row": 4,
+              "clue": "País de Asia cuya capital es Mascate",
+              "answer": "OMAN"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Arma de fuego de gran velocidad de disparo",
+              "answer": "METRALLETA"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Producto nitrogenado de la orina",
+              "answer": "UREA"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Golpeó",
+              "answer": "PEGO"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Le he dedicado los mejores de mi vida",
+              "answer": "AÑOS"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Implorá, suplicá, pedí",
+              "answer": "ROGA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Los villanos, los…",
+              "answer": "MALOS"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "No harás nada",
+              "answer": "OCIARAS"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Solicito, demando",
+              "answer": "PIDO"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Templo egipcio, el corazón de la antigua Tebas",
+              "answer": "LUXOR"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Porción o división del vecindario de un pueblo",
+              "answer": "ADRA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Fundador de la compañía Ford Motor Company",
+              "answer": "HENRY"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Sacrificaba, inmolaba",
+              "answer": "MATABA"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Trazos hechos con el lápiz que representan una imagen",
+              "answer": "DIBUJO"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Elefante fósil, que quieren resucitar",
+              "answer": "MAMUT"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Caes bien, eres guay",
+              "answer": "MOLAS"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Percepción que se genera en torno a determinados cuerpos o fenómenos",
+              "answer": "AURA"
+            },
+            "58": {
+              "col": 2,
+              "row": 12,
+              "clue": "Nombre artístico de la cantante israelí \"Ajinoam Nini\"",
+              "answer": "NOA"
+            },
+            "61": {
+              "col": 10,
+              "row": 12,
+              "clue": "Escritor polaco de tono satírico y filosófico",
+              "answer": "LEM"
+            },
+            "63": {
+              "col": 3,
+              "row": 13,
+              "clue": "Unidad de control",
+              "answer": "UC"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Erbio",
+              "answer": "ER"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 2,
+              "row": 0,
+              "clue": "El que fabrica el pan es como un pacificador",
+              "answer": "PANIFICADOR"
+            },
+            "11": {
+              "col": 1,
+              "row": 1,
+              "clue": "Diosa de las aguas del mundo, esposa de Océano",
+              "answer": "TETIS"
+            },
+            "12": {
+              "col": 7,
+              "row": 1,
+              "clue": "Contener con la fuerza",
+              "answer": "SUJETAR"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Válvula del corazón",
+              "answer": "MITRAL"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Estrategia Europea de Seguridad",
+              "answer": "EES"
+            },
+            "16": {
+              "col": 12,
+              "row": 2,
+              "clue": "Plató cinematográfico",
+              "answer": "SET"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mujer que niega la existencia de dioses",
+              "answer": "ATEA"
+            },
+            "19": {
+              "col": 5,
+              "row": 3,
+              "clue": "Atraqué de comida",
+              "answer": "ATESTE"
+            },
+            "22": {
+              "col": 13,
+              "row": 3,
+              "clue": "Iniciales del español que canta \"Experiencia religiosa\"",
+              "answer": "EI"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Diosa vasca, reina de la naturaleza",
+              "answer": "MARI"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Llamativo por su apariencia lujosa o aparatosa",
+              "answer": "OSTENTOSO"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Preposición para indicar locación",
+              "answer": "EN"
+            },
+            "28": {
+              "col": 3,
+              "row": 5,
+              "clue": "Incapacidad de reconocer o reproducir tonos o ritmos musicales",
+              "answer": "AMUSIA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Combines versos",
+              "answer": "RIMES"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… tú… yo\", ninguno de los dos",
+              "answer": "NI"
+            },
+            "33": {
+              "col": 4,
+              "row": 6,
+              "clue": "Expediente de Regulación Temporal de Empleo",
+              "answer": "ERTE"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Quita la cáscara a la naranja",
+              "answer": "PELA"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "Comunícate por carta con otra persona",
+              "answer": "CARTEA"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Montón de arena casi a flor de agua",
+              "answer": "MEDANO"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Variedad de pimiento rojo secado al sol",
+              "answer": "ÑORA"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Cancela tu deuda",
+              "answer": "PAGA"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Dominio de nivel superior geográfico para Chile",
+              "answer": "CL"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Se queda sin aire, por ejemplo en un vaso de agua",
+              "answer": "AHOGA"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Canción interpretada por Édith Piaf (1959)",
+              "answer": "MILORD"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Las vocales débiles",
+              "answer": "IU"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Cruel, falto de conciencia",
+              "answer": "DESALMADO"
+            },
+            "51": {
+              "col": 11,
+              "row": 10,
+              "clue": "Formato de cinta cinematográfica",
+              "answer": "IMAX"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Richard Nixon",
+              "answer": "RN"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Fastidiosa, molesta, pesada",
+              "answer": "LATOSA"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Elemento químico que tiene el símbolo B y número atómico 5",
+              "answer": "BORO"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Ácido Ribonucleico (siglas en español)",
+              "answer": "ARN"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Premios de MTV",
+              "answer": "EMA"
+            },
+            "60": {
+              "col": 9,
+              "row": 12,
+              "clue": "Dicho del viento: Producir sonido",
+              "answer": "ULULAR"
+            },
+            "62": {
+              "col": 1,
+              "row": 13,
+              "clue": "Segundo sitio web más popular del mundo",
+              "answer": "YOUTUBE"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Conjunto de barrotes metálicos",
+              "answer": "REJAS"
+            },
+            "66": {
+              "col": 2,
+              "row": 14,
+              "clue": "Nos resfriamos, nos constipamos, nos…",
+              "answer": "ACATARRAMOS"
+            }
+          }
+        },
+        "vertical_clues": "1-El niño que nunca crece, pero puede volar\r\n2-Ganaba el afecto, gusto o atención de otro\r\n3-Ganadora de la edición 2020 de Operación Triunfo\r\n4-Lo es Mallorca o Menorca\r\n5-Louis en París\r\n6-Lo que vale esta pendiente\r\n7-Ajo tierno que aún no ha echado cepa o cabeza\r\n8-Ordenar los cables que estaban todos entrecruzados\r\n9-Otro en la OTAN\r\n10-Igualdad en la altura de las cosas\r\n11-Se hundió por un iceberg\r\n13-La prota de 'Una chica muy legal'\r\n14-Chupen la leche de los pechos\r\n17-Hermanos de su padre o madre\r\n20-Rebanada con aguacate encima, rollo hípster\r\n21-Equipos de Sensibilización e Información ante Emergencias\r\n25-Una infusión tranquilizante\r\n26-País de Asia cuya capital es Mascate\r\n29-Arma de fuego de gran velocidad de disparo\r\n30-Producto nitrogenado de la orina\r\n34-Golpeó\r\n36-Le he dedicado los mejores de mi vida\r\n37-Implorá, suplicá, pedí\r\n38-Los villanos, los…\r\n39-No harás nada\r\n41-Solicito, demando\r\n43-Templo egipcio, el corazón de la antigua Tebas\r\n44-Porción o división del vecindario de un pueblo\r\n45-Fundador de la compañía Ford Motor Company\r\n46-Sacrificaba, inmolaba\r\n47-Trazos hechos con el lápiz que representan una imagen\r\n50-Elefante fósil, que quieren resucitar\r\n52-Caes bien, eres guay\r\n55-Percepción que se genera en torno a determinados cuerpos o fenómenos\r\n58-Nombre artístico de la cantante israelí \"Ajinoam Nini\"\r\n61-Escritor polaco de tono satírico y filosófico\r\n63-Unidad de control\r\n64-Erbio",
+        "horizontal_clues": "1-El que fabrica el pan es como un pacificador\r\n11-Diosa de las aguas del mundo, esposa de Océano\r\n12-Contener con la fuerza\r\n14-Válvula del corazón\r\n15-Estrategia Europea de Seguridad\r\n16-Plató cinematográfico\r\n18-Mujer que niega la existencia de dioses\r\n19-Atraqué de comida\r\n22-Iniciales del español que canta \"Experiencia religiosa\"\r\n23-Diosa vasca, reina de la naturaleza\r\n24-Llamativo por su apariencia lujosa o aparatosa\r\n27-Preposición para indicar locación\r\n28-Incapacidad de reconocer o reproducir tonos o ritmos musicales\r\n31-Combines versos\r\n32-\"… tú… yo\", ninguno de los dos\r\n33-Expediente de Regulación Temporal de Empleo\r\n34-Quita la cáscara a la naranja\r\n35-Comunícate por carta con otra persona\r\n38-Montón de arena casi a flor de agua\r\n40-Variedad de pimiento rojo secado al sol\r\n41-Cancela tu deuda\r\n42-Dominio de nivel superior geográfico para Chile\r\n44-Se queda sin aire, por ejemplo en un vaso de agua\r\n46-Canción interpretada por Édith Piaf (1959)\r\n48-Las vocales débiles\r\n49-Cruel, falto de conciencia\r\n51-Formato de cinta cinematográfica\r\n53-Richard Nixon\r\n54-Fastidiosa, molesta, pesada\r\n56-Elemento químico que tiene el símbolo B y número atómico 5\r\n57-Ácido Ribonucleico (siglas en español)\r\n59-Premios de MTV\r\n60-Dicho del viento: Producir sonido\r\n62-Segundo sitio web más popular del mundo\r\n65-Conjunto de barrotes metálicos\r\n66-Nos resfriamos, nos constipamos, nos…",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,#,1,2,3,4,#,5,6,7,8,9,10,#,#\r\n#,11,#,#,#,#,#,12,#,#,#,#,#,13,#\r\n14,#,#,#,#,#,#,#,15,#,#,#,16,#,17\r\n18,#,#,#,#,19,20,21,#,#,#,#,#,22,#\r\n23,#,#,#,#,#,24,#,#,#,#,25,26,#,#\r\n27,#,#,28,29,30,#,#,#,#,31,#,#,#,#\r\n32,#,#,#,33,#,#,#,#,34,#,#,#,#,#\r\n#,35,36,37,#,#,#,#,38,#,#,#,#,39,#\r\n#,#,40,#,#,#,#,41,#,#,#,#,#,42,43\r\n44,45,#,#,#,#,46,#,#,#,#,47,#,48,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,52,#,#\r\n53,#,#,#,54,#,#,#,#,55,#,56,#,#,#\r\n57,#,58,#,59,#,#,#,#,60,61,#,#,#,#\r\n#,62,#,63,#,#,#,64,#,65,#,#,#,#,#\r\n#,#,66,#,#,#,#,#,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

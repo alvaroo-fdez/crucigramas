@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 308,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-05-28T14:15:50.235171Z",
+      "updatedAt": "2024-06-03T05:29:29.144881Z",
+      "level": null,
+      "creationDate": "2024-06-03",
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-06-03",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TROCA#ESCATIMAR\r\nA#LUTO#ARTURO#A\r\nUSELO#ABUR#AROS\r\nRILEN#RIMO#DEPP\r\nOR##TAPO#FRONTE\r\nFORMADO#SIU##E#\r\nOPIO#ENJUAGAR#B\r\nBEACH#E#B#ILUSO\r\nO#NAUFRAGO#ZEUS\r\n#L##GRO#RAPACES\r\nPORCHE#CUTI##NA\r\nOJAL#STOP#CREAN\r\nNADA#CUPO#HORNO\r\nE#OCTOPI#COGI#V\r\nSENSORIAL#NOVIA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Hombre que desaprueba las corridas de toros.",
+              "answer": "TAUROFOBO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Viene de vuelta el muy tonto.",
+              "answer": "OLEL"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Un seguidor del Barcelona.",
+              "answer": "CULE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Aturde o atolondra.",
+              "answer": "ATONTA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "\"El ignorante afirma, el... duda y reflexiona\" Aristóteles.",
+              "answer": "SABIO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"George...\", cocinero que creó los chips de patata.",
+              "answer": "CRUM"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Reducción de la funcionalidad de un órgano por desuso.",
+              "answer": "ATROFIA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "\"Me importas... / Y... y... / y nadie más que...\" Bobby Capó, 1952.",
+              "answer": "TU"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Desuso. Forajido.",
+              "answer": "IRADO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Habiten habitualmente en un lugar.",
+              "answer": "MOREN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Froté algo perdiendo algo de su superficie.",
+              "answer": "RASPE"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "De chocolate, fresa o caramelo, el líquido que baña al helado.",
+              "answer": "SIROPE"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "El cazador de los mares que dispara con precisión letal.",
+              "answer": "ARPONERO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Elija, escoja.",
+              "answer": "OPTE"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Administración y Dirección de Empresas.",
+              "answer": "ADE"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "Di bramidos, como el león.",
+              "answer": "RUGI"
+            },
+            "29": {
+              "col": 2,
+              "row": 5,
+              "clue": "Celebren con risa algo.",
+              "answer": "RIAN"
+            },
+            "30": {
+              "col": 3,
+              "row": 5,
+              "clue": "Café con leche + chocolate.",
+              "answer": "MOCA"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Cada una de las partes en que se divide un grupo.",
+              "answer": "SUBGRUPO"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Aumento de valor de la moneda.",
+              "answer": "ALZA"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Rueca sin pata.",
+              "answer": "RUEC"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Música brasileña con influencias del jazz (2p).",
+              "answer": "BOSSANOVA"
+            },
+            "38": {
+              "col": 4,
+              "row": 7,
+              "clue": "Hefner el de la Playboy.",
+              "answer": "HUGH"
+            },
+            "40": {
+              "col": 13,
+              "row": 7,
+              "clue": "Hacen o causan ruido.",
+              "answer": "SUENAN"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Una calidez, frescura.",
+              "answer": "FRESCOR"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Avena en inglés.",
+              "answer": "OAT"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Conocida como la ciudad del agua, en Granada.",
+              "answer": "LOJA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "El pincho favorito de Chopin era de cría de paloma.",
+              "answer": "PICHON"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Colocas, ubicas.",
+              "answer": "PONES"
+            },
+            "50": {
+              "col": 2,
+              "row": 10,
+              "clue": "Elemento químico cuyo símbolo es Rd.",
+              "answer": "RADON"
+            },
+            "51": {
+              "col": 3,
+              "row": 10,
+              "clue": "Sombreros de copa alta, plegables.",
+              "answer": "CLACS"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "Pulsa CtrlC.",
+              "answer": "COPIA"
+            },
+            "56": {
+              "col": 6,
+              "row": 11,
+              "clue": "Apiñé, atesté.",
+              "answer": "TUPI"
+            },
+            "58": {
+              "col": 11,
+              "row": 11,
+              "clue": "Le suplicó al ogro loco.",
+              "answer": "ROGO"
+            },
+            "59": {
+              "col": 12,
+              "row": 11,
+              "clue": "Giré en dirección contraria.",
+              "answer": "ERIV"
+            },
+            "64": {
+              "col": 4,
+              "row": 13,
+              "clue": "Todo al 50%.",
+              "answer": "TO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "México. Coloquial. Camión de carga.",
+              "answer": "TROCA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Limitar el uso de algo, especialmente recursos.",
+              "answer": "ESCATIMAR"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Signo exterior de pena y duelo.",
+              "answer": "LUTO"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "\"... Pérez Reverte\" autor de la novela \"La tabla de Flandes\".",
+              "answer": "ARTURO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aunque el suelo esté desastroso, utilícelo.",
+              "answer": "USELO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Voz vasca usada para despedirse.",
+              "answer": "ABUR"
+            },
+            "18": {
+              "col": 11,
+              "row": 2,
+              "clue": "Anillos, alianzas.",
+              "answer": "AROS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tiemblen, tiriten.",
+              "answer": "RILEN"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Compongo en verso.",
+              "answer": "RIMO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Actor que interpreta al Capitán Jack Sparrow.",
+              "answer": "DEPP"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Río que pasa por Rusia y Kazajistán.",
+              "answer": "OR"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Cierro, sello.",
+              "answer": "TAPO"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "En la frontera no hay radio.",
+              "answer": "FRONTE"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Que ha tomado una forma o estructura definida.",
+              "answer": "FORMADO"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Pájaro americano muy semejante al jilguero.",
+              "answer": "SIU"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Guerras del...\" conflictos anglochinos por el tráfico de esta sustancia (1839).",
+              "answer": "OPIO"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "Limpiar algo con agua para eliminar residuos.",
+              "answer": "ENJUAGAR"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "“South …”, Playa famosa en Florida, EEUU.",
+              "answer": "BEACH"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "Propenso a ilusionarse, soñador (masc).",
+              "answer": "ILUSO"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Peli de Tom Hank, la de Wilson, el balón de vóley.",
+              "answer": "NAUFRAGO"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Rey de los dioses del Olimpo.",
+              "answer": "ZEUS"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Tela de seda sin brillo.",
+              "answer": "GRO"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Aves cazadoras, aves...",
+              "answer": "RAPACES"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Parece que toma ponche en su deportivo alemán.",
+              "answer": "PORCHE"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "Tela de la capa externa de un colchón.",
+              "answer": "CUTI"
+            },
+            "53": {
+              "col": 13,
+              "row": 10,
+              "clue": "Casi nada.",
+              "answer": "NA"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Hendidura para abrochar un botón.",
+              "answer": "OJAL"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Estopa sin tabúes se detiene en Inglaterra.",
+              "answer": "STOP"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Confíen en algo.",
+              "answer": "CREAN"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Inexistencia total.",
+              "answer": "NADA"
+            },
+            "61": {
+              "col": 5,
+              "row": 12,
+              "clue": "Entró perfectamente.",
+              "answer": "CUPO"
+            },
+            "62": {
+              "col": 10,
+              "row": 12,
+              "clue": "Lo usa el panadero y el ceramista.",
+              "answer": "HORNO"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "\"Pulpos\" en inglés.",
+              "answer": "OCTOPI"
+            },
+            "65": {
+              "col": 9,
+              "row": 13,
+              "clue": "Tomé, agarré.",
+              "answer": "COGI"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Relativo a los sentidos o a las sensaciones.",
+              "answer": "SENSORIAL"
+            },
+            "67": {
+              "col": 10,
+              "row": 14,
+              "clue": "En avión o en navío, ella llega a la boda.",
+              "answer": "NOVIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Hombre que desaprueba las corridas de toros.\r\n2-Viene de vuelta el muy tonto.\r\n3-Un seguidor del Barcelona.\r\n4-Aturde o atolondra.\r\n6-\"El ignorante afirma, el... duda y reflexiona\" Aristóteles. \r\n7-\"George...\", cocinero que creó los chips de patata.\r\n8-Reducción de la funcionalidad de un órgano por desuso.\r\n9-\"Me importas... / Y... y... / y nadie más que...\" Bobby Capó, 1952.\r\n10-Desuso. Forajido.\r\n11-Habiten habitualmente en un lugar.\r\n12-Froté algo perdiendo algo de su superficie.\r\n16-De chocolate, fresa o caramelo, el líquido que baña al helado.\r\n17-El cazador de los mares que dispara con precisión letal.\r\n19-Elija, escoja.\r\n25-Administración y Dirección de Empresas.\r\n27-Di bramidos, como el león.\r\n29-Celebren con risa algo.\r\n30-Café con leche + chocolate.\r\n31-Cada una de las partes en que se divide un grupo.\r\n34-Aumento de valor de la moneda.\r\n35-Rueca sin pata.\r\n36-Música brasileña con influencias del jazz (2p).\r\n38-Hefner el de la Playboy.\r\n40-Hacen o causan ruido.\r\n42-Una calidez, frescura.\r\n43-Avena en inglés.\r\n45-Conocida como la ciudad del agua, en Granada.\r\n48-El pincho favorito de Chopin era de cría de paloma.\r\n49-Colocas, ubicas.\r\n50-Elemento químico cuyo símbolo es Rd.\r\n51-Sombreros de copa alta, plegables.\r\n52-Pulsa CtrlC.\r\n56-Apiñé, atesté.\r\n58-Le suplicó al ogro loco.\r\n59-Giré en dirección contraria.\r\n64-Todo al 50%.",
+        "horizontal_clues": "1-México. Coloquial. Camión de carga.\r\n5-Limitar el uso de algo, especialmente recursos.\r\n13-Signo exterior de pena y duelo.\r\n14-\"... Pérez Reverte\" autor de la novela \"La tabla de Flandes\".\r\n15-Aunque el suelo esté desastroso, utilícelo.\r\n17-Voz vasca usada para despedirse.\r\n18-Anillos, alianzas.\r\n20-Tiemblen, tiriten.\r\n21-Compongo en verso.\r\n22-Actor que interpreta al Capitán Jack Sparrow.\r\n23-Río que pasa por Rusia y Kazajistán.\r\n24-Cierro, sello.\r\n26-En la frontera no hay radio.\r\n28-Que ha tomado una forma o estructura definida.\r\n31-Pájaro americano muy semejante al jilguero.\r\n32-\"Guerras del...\" conflictos anglochinos por el tráfico de esta sustancia (1839).\r\n33-Limpiar algo con agua para eliminar residuos.\r\n37-“South …”, Playa famosa en Florida, EEUU.\r\n39-Propenso a ilusionarse, soñador (masc).\r\n41-Peli de Tom Hank, la de Wilson, el balón de vóley. \r\n44-Rey de los dioses del Olimpo.\r\n46-Tela de seda sin brillo.\r\n47-Aves cazadoras, aves...\r\n49-Parece que toma ponche en su deportivo alemán.\r\n52-Tela de la capa externa de un colchón.\r\n53-Casi nada.\r\n54-Hendidura para abrochar un botón.\r\n55-Estopa sin tabúes se detiene en Inglaterra.\r\n57-Confíen en algo.\r\n60-Inexistencia total.\r\n61-Entró perfectamente.\r\n62-Lo usa el panadero y el ceramista.\r\n63-\"Pulpos\" en inglés.\r\n65-Tomé, agarré.\r\n66-Relativo a los sentidos o a las sensaciones.\r\n67-En avión o en navío, ella llega a la boda.",
+        "board_clues_positions": "1,#,2,3,4,#,5,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,16,#,#,#,#,17,#,#,#,#,18,#,19,#\r\n20,#,#,#,#,#,21,#,#,#,#,22,#,#,#\r\n23,#,#,#,24,25,#,#,#,26,27,#,#,#,#\r\n28,#,29,30,#,#,#,#,31,#,#,#,#,#,#\r\n32,#,#,#,#,33,#,#,#,#,#,34,35,#,36\r\n37,#,#,#,38,#,#,#,#,#,39,#,#,40,#\r\n#,#,41,#,#,42,#,#,#,43,#,44,#,#,#\r\n#,45,#,#,46,#,#,#,47,#,48,#,#,#,#\r\n49,#,50,51,#,#,#,52,#,#,#,#,#,53,#\r\n54,#,#,#,#,55,56,#,#,#,57,58,59,#,#\r\n60,#,#,#,#,61,#,#,#,#,62,#,#,#,#\r\n#,#,63,#,64,#,#,#,#,65,#,#,#,#,#\r\n66,#,#,#,#,#,#,#,#,#,67,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

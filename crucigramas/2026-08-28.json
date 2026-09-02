@@ -1,0 +1,479 @@
+{
+  "data": {
+    "id": 8660,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-27T21:16:50.403350Z",
+      "updatedAt": "2026-08-27T21:16:50.403364Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-28",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PIPI#TOSCO#CHIN\r\nUNI#RAPA#PALOMO\r\nENTRECOT#T##MPL\r\nNOTABAN##ESFERA\r\nTB#PARECE#PONEN\r\nELIAS#MALVINAS#\r\n#ENSAYOS#ENOJON\r\n##T##USADA##E##\r\nPUESTA#DESATAR#\r\n#TRIUNFAL#CARIS\r\nMIMAR#ISABEL#CO\r\nELEVAR##CARACOL\r\nTED##O#DISCRETO\r\nARIMEZ#NOTA#SAM\r\nLOOK#ATINA#POSO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Estructura que cruza un río",
+              "answer": "PUENTE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Siempre noble, nunca…",
+              "answer": "INNOBLE"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Actor que coprotagonizó \"Sr y Sra Smith\"",
+              "answer": "PITT"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Desuso Marcar algo, señalar haciendo una mancha u otro daño",
+              "answer": "TACAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Estamos en contra, nos…",
+              "answer": "OPONEMOS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Un poco saturada",
+              "answer": "SAT"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Elija, escoja",
+              "answer": "OPTE"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "150 centilitros de cloro italiano",
+              "answer": "CL"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Rendir tributo a alguien admirado",
+              "answer": "HOMENAJEAR"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Ha imprimido el permiso incorrecto",
+              "answer": "IMPRESO"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Director de 'Inception', 'Memento' y 'Tenet'",
+              "answer": "NOLAN"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Adelanta a sus rivales",
+              "answer": "REBASA"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Cortas el cabello al ras de la cabeza",
+              "answer": "RAPAS"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Física Momento cinético intrínseco de una partícula",
+              "answer": "SPIN"
+            },
+            "21": {
+              "col": 11,
+              "row": 3,
+              "clue": "Prefijo que refiere voz, sonido",
+              "answer": "FONO"
+            },
+            "24": {
+              "col": 7,
+              "row": 4,
+              "clue": "Cansadas pierden el norte",
+              "answer": "CASADAS"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"¿Y cómo es …? / ¿en qué lugar se enamoró de ti? JL Perales",
+              "answer": "EL"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Pausa entre dos actos de una obra",
+              "answer": "INTERMEDIO"
+            },
+            "30": {
+              "col": 9,
+              "row": 5,
+              "clue": "A las aves locas, es mejor que la mires",
+              "answer": "VEAS"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Dinastía mongola que unificó China y Mongolia (1271-1368)",
+              "answer": "YUAN"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Acto de denunciar a un cómplice",
+              "answer": "DELACION"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Hombre encargado de la utilería",
+              "answer": "UTILERO"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Marcháis en dirección contraria",
+              "answer": "SIAV"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "A esta altura, ya no hay aluminio",
+              "answer": "TURA"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Aproxima, arrima, avecina",
+              "answer": "ACERCA"
+            },
+            "42": {
+              "col": 11,
+              "row": 8,
+              "clue": "Devastar un bosque",
+              "answer": "TALAR"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Divino yunque del orfebre, porque ahí pone requesones",
+              "answer": "RICOTAS"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "La entrada final",
+              "answer": "FI"
+            },
+            "47": {
+              "col": 14,
+              "row": 9,
+              "clue": "Lomo de cerdo adobado",
+              "answer": "SOLOMO"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Material conductor de calor y electricidad",
+              "answer": "METAL"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "¡Para ya! eres muy tosca",
+              "answer": "BASTA"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Corta leña menuda",
+              "answer": "ROZA"
+            },
+            "55": {
+              "col": 12,
+              "row": 11,
+              "clue": "Terminó, se detuvo",
+              "answer": "CESO"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Carné de identidad",
+              "answer": "DNI"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Inic famosa japonesa experta en organización",
+              "answer": "MK"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pis, orina",
+              "answer": "PIPI"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Grosero, escaso de educación y delicadeza",
+              "answer": "TOSCO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Así suena un brindis",
+              "answer": "CHIN"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Junté dos o más cosas entre sí",
+              "answer": "UNI"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Se corta el cabello completamente, se…",
+              "answer": "RAPA"
+            },
+            "14": {
+              "col": 9,
+              "row": 1,
+              "clue": "El macho de una paloma",
+              "answer": "PALOMO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Corte de carne vacuna cerca de las costillas",
+              "answer": "ENTRECOT"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Mozilla Public License",
+              "answer": "MPL"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Percibían, se percataban",
+              "answer": "NOTABAN"
+            },
+            "19": {
+              "col": 9,
+              "row": 3,
+              "clue": "Cada una de las siete de Dragon Ball",
+              "answer": "ESFERA"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tim Burton",
+              "answer": "TB"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Tiene pinta a otra cosa",
+              "answer": "PARECE"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Pone 1, ponen 2, todos…",
+              "answer": "PONEN"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "El segundo nombre de Walter Disney",
+              "answer": "ELIAS"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Archipiélago disputado del Atlántico Sur",
+              "answer": "MALVINAS"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Pruebas, tanteos, estudios",
+              "answer": "ENSAYOS"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Enfadón, de mal carácter",
+              "answer": "ENOJON"
+            },
+            "34": {
+              "col": 5,
+              "row": 7,
+              "clue": "De segunda mano, la ropa",
+              "answer": "USADA"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Momento del día cuando el sol se oculta",
+              "answer": "PUESTA"
+            },
+            "40": {
+              "col": 7,
+              "row": 8,
+              "clue": "Desencadenar, desenlazar",
+              "answer": "DESATAR"
+            },
+            "44": {
+              "col": 1,
+              "row": 9,
+              "clue": "Que celebra una gran victoria",
+              "answer": "TRIUNFAL"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "Argentina De color pardo o rojizo (pl)",
+              "answer": "CARIS"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tratar con especial cuidado y delicadeza",
+              "answer": "MIMAR"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Bailes mal con la reina de Inglaterra",
+              "answer": "ISABEL"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Símbolo químico del cobalto",
+              "answer": "CO"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Se revela la confusión y es mejor subir una plegaria",
+              "answer": "ELEVAR"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Molusco con concha espiral",
+              "answer": "CARACOL"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"…Lasso\" premiada serie de comedia",
+              "answer": "TED"
+            },
+            "57": {
+              "col": 7,
+              "row": 12,
+              "clue": "Él es prudente y reservado, es…",
+              "answer": "DISCRETO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Arquitectura Resalto que hay en algunos edificios",
+              "answer": "ARIMEZ"
+            },
+            "60": {
+              "col": 7,
+              "row": 13,
+              "clue": "Calificación, puntaje",
+              "answer": "NOTA"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "\"… Bigotes\" pistolero malhumorado de los Looney Tunes",
+              "answer": "SAM"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "Cambio de estilo, cambio de… (voz inglesa)",
+              "answer": "LOOK"
+            },
+            "63": {
+              "col": 5,
+              "row": 14,
+              "clue": "Anita regresa y acierta",
+              "answer": "ATINA"
+            },
+            "64": {
+              "col": 11,
+              "row": 14,
+              "clue": "Me coloco adecuadamente para la foto",
+              "answer": "POSO"
+            }
+          }
+        },
+        "vertical_clues": "1-Estructura que cruza un río \r\n2-Siempre noble, nunca…\r\n3-Actor que coprotagonizó \"Sr y Sra Smith\"\r\n4-Desuso Marcar algo, señalar haciendo una mancha u otro daño\r\n5-Estamos en contra, nos…\r\n6-Un poco saturada\r\n7-Elija, escoja\r\n8-150 centilitros de cloro italiano\r\n9-Rendir tributo a alguien admirado \r\n10-Ha imprimido el permiso incorrecto\r\n11-Director de 'Inception', 'Memento' y 'Tenet'\r\n13-Adelanta a sus rivales\r\n16-Cortas el cabello al ras de la cabeza\r\n20-Física Momento cinético intrínseco de una partícula\r\n21-Prefijo que refiere voz, sonido\r\n24-Cansadas pierden el norte \r\n25-\"¿Y cómo es …? / ¿en qué lugar se enamoró de ti? JL Perales\r\n28-Pausa entre dos actos de una obra \r\n30-A las aves locas, es mejor que la mires\r\n32-Dinastía mongola que unificó China y Mongolia (1271-1368)\r\n35-Acto de denunciar a un cómplice \r\n37-Hombre encargado de la utilería\r\n38-Marcháis en dirección contraria\r\n39-A esta altura, ya no hay aluminio\r\n41-Aproxima, arrima, avecina\r\n42-Devastar un bosque\r\n43-Divino yunque del orfebre, porque ahí pone requesones\r\n45-La entrada final \r\n47-Lomo de cerdo adobado\r\n48-Material conductor de calor y electricidad\r\n50-¡Para ya! eres muy tosca\r\n53-Corta leña menuda\r\n55-Terminó, se detuvo\r\n57-Carné de identidad\r\n59-Inic famosa japonesa experta en organización\r\n",
+        "horizontal_clues": "1-Pis, orina\r\n4-Grosero, escaso de educación y delicadeza\r\n8-Así suena un brindis\r\n12-Junté dos o más cosas entre sí\r\n13-Se corta el cabello completamente, se…\r\n14-El macho de una paloma\r\n15-Corte de carne vacuna cerca de las costillas \r\n17-Mozilla Public License\r\n18-Percibían, se percataban\r\n19-Cada una de las siete de Dragon Ball\r\n22-Tim Burton \r\n23-Tiene pinta a otra cosa\r\n26-Pone 1, ponen 2, todos…\r\n27-El segundo nombre de Walter Disney\r\n29-Archipiélago disputado del Atlántico Sur \r\n31-Pruebas, tanteos, estudios\r\n33-Enfadón, de mal carácter\r\n34-De segunda mano, la ropa\r\n36-Momento del día cuando el sol se oculta\r\n40-Desencadenar, desenlazar\r\n44-Que celebra una gran victoria \r\n46-Argentina De color pardo o rojizo (pl)\r\n48-Tratar con especial cuidado y delicadeza\r\n49-Bailes mal con la reina de Inglaterra\r\n51-Símbolo químico del cobalto\r\n52-Se revela la confusión y es mejor subir una plegaria\r\n54-Molusco con concha espiral\r\n56-\"…Lasso\" premiada serie de comedia\r\n57-Él es prudente y reservado, es…\r\n58-Arquitectura Resalto que hay en algunos edificios\r\n60-Calificación, puntaje\r\n61-\"… Bigotes\" pistolero malhumorado de los Looney Tunes\r\n62-Cambio de estilo, cambio de… (voz inglesa)\r\n63-Anita regresa y acierta\r\n64-Me coloco adecuadamente para la foto\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,#,#,4,5,6,#,7,#,8,9,10,11\r\n12,#,#,#,13,#,#,#,#,14,#,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,#,#,17,#,#\r\n18,#,#,#,#,#,#,#,#,19,20,21,#,#,#\r\n22,#,#,23,#,#,#,24,25,#,26,#,#,#,#\r\n27,#,28,#,#,#,29,#,#,30,#,#,#,#,#\r\n#,31,#,#,#,32,#,#,#,33,#,#,#,#,#\r\n#,#,#,#,#,34,#,#,35,#,#,#,#,#,#\r\n36,37,#,38,39,#,#,40,#,#,41,42,#,43,#\r\n#,44,#,#,#,#,45,#,#,#,46,#,#,#,47\r\n48,#,#,#,#,#,49,#,#,50,#,#,#,51,#\r\n52,#,#,#,#,53,#,#,54,#,#,#,55,#,#\r\n56,#,#,#,#,#,#,57,#,#,#,#,#,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,#,61,#,#\r\n62,#,#,#,#,63,#,#,#,#,#,64,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 3553,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-09-25T10:28:58.796939Z",
+      "updatedAt": "2025-09-25T10:41:21.964579Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-10-15",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#MALAGA#AMANSA#\r\nA#PAGAR#CAUSA#S\r\nMALCOLM#CINISMO\r\nPUA#RAYUELA#HAT\r\nAGUDO##NS#REINA\r\nRUDA#LAGOS#XMEN\r\nORILLA#I#A#TITA\r\n###MIDA#NUBE###\r\nSHIA#E#Y#RONCHA\r\nKANT#OSUDA#SUEZ\r\nOLIAS#OL##VOLGA\r\nDOC#IMBERBE#PER\r\nASIGNAR#AUREOLA\r\nS#APAÑA#IGLUS#N\r\n#ANSIAN#ASOMOS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Acompañé con las manos el ritmo de la música",
+              "answer": "APLAUDI"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Parte central de un Palacio",
+              "answer": "LAC"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Predigo, anuncio desdichas",
+              "answer": "AGORO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Fiesta elegante",
+              "answer": "GALA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "El ejército de fanes de los BTS",
+              "answer": "ARMY"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Entrada o paso",
+              "answer": "ACCESO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Dame el correo del gringo",
+              "answer": "MAIL"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Armonizar varias cosas",
+              "answer": "AUNAR"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "National Security Intelligence (siglas)",
+              "answer": "NSI"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Plato japonés de pescado crudo, cortado muy fino",
+              "answer": "SASHIMI"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Protección, ayuda",
+              "answer": "AMPARO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Vestidura talar que usan los eclesiásticos",
+              "answer": "SOTANA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Sacerdote romano que adivinaba por el cantar de las aves",
+              "answer": "AUGUR"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Pintor francés, con la primera obra impresionista",
+              "answer": "MANET"
+            },
+            "22": {
+              "col": 7,
+              "row": 3,
+              "clue": "Apliqué aceites sagrados",
+              "answer": "UNGI"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Perro bombero",
+              "answer": "DALMATA"
+            },
+            "28": {
+              "col": 11,
+              "row": 4,
+              "clue": "Vasto, casi interminable",
+              "answer": "EXTENSO"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Inclino, curvo, tuerzo",
+              "answer": "LADEO"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "\"Carlos…\" director español de '¡Ay, Carmela!' y 'Cría cuervos'",
+              "answer": "SAURA"
+            },
+            "34": {
+              "col": 4,
+              "row": 6,
+              "clue": "Las puertas del Lamborghini",
+              "answer": "LI"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Bastón largo usado como arma tradicional en el Bojutsu",
+              "answer": "BO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Los coches checos",
+              "answer": "SKODAS"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Círculos de luz difusa en torno de un cuerpo luminoso",
+              "answer": "HALOS"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Comienzan, dan principio a algo",
+              "answer": "INICIAN"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Fiesta escandinava por el solsticio de invierno",
+              "answer": "YULE"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Acto imprudente o negligente",
+              "answer": "CULPOSO"
+            },
+            "45": {
+              "col": 13,
+              "row": 8,
+              "clue": "Filósofo alemán, influyente en el pensamiento de Marx",
+              "answer": "HEGEL"
+            },
+            "46": {
+              "col": 14,
+              "row": 8,
+              "clue": "Turban, trastornan, sobresaltan",
+              "answer": "AZARAN"
+            },
+            "49": {
+              "col": 6,
+              "row": 9,
+              "clue": "Superan, exceden",
+              "answer": "SOBRAN"
+            },
+            "52": {
+              "col": 4,
+              "row": 10,
+              "clue": "Península ubicada en la región asiática de Oriente Próximo",
+              "answer": "SINAI"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Mirarlo",
+              "answer": "VERLO"
+            },
+            "57": {
+              "col": 5,
+              "row": 11,
+              "clue": "Vicio o mala costumbre, resabio",
+              "answer": "MAÑA"
+            },
+            "58": {
+              "col": 8,
+              "row": 11,
+              "clue": "Raspaba una superficie",
+              "answer": "RAIA"
+            },
+            "59": {
+              "col": 9,
+              "row": 11,
+              "clue": "El conejo de Merrie Melodies",
+              "answer": "BUGS"
+            },
+            "62": {
+              "col": 3,
+              "row": 12,
+              "clue": "El navegador satelital del jipi ese",
+              "answer": "GPS"
+            },
+            "64": {
+              "col": 11,
+              "row": 12,
+              "clue": "Estados Unidos Mexicanos",
+              "answer": "EUM"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Ciudad natal de Pablo Picasso",
+              "answer": "MALAGA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Doma el carácter violento",
+              "answer": "AMANSA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Saldar lo que se debe",
+              "answer": "PAGAR"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Algo que defender",
+              "answer": "CAUSA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"… X\" activista afroamericano, defensor de los derechos humanos",
+              "answer": "MALCOLM"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Corriente filosófica basada en eudaimonía, similar al Estoicismo",
+              "answer": "CINISMO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Aguijón, espina, puya",
+              "answer": "PUA"
+            },
+            "21": {
+              "col": 4,
+              "row": 3,
+              "clue": "Obra más reconocida del escritor Julio Cortázar",
+              "answer": "RAYUELA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "El sombrero de un inglés",
+              "answer": "HAT"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Acento prosódico en la última sílaba",
+              "answer": "AGUDO"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Símbolo de Nanosegundo",
+              "answer": "NS"
+            },
+            "27": {
+              "col": 10,
+              "row": 4,
+              "clue": "Aquí impera Leticia",
+              "answer": "REINA"
+            },
+            "29": {
+              "col": 0,
+              "row": 5,
+              "clue": "Rigurosa, violenta, impetuosa",
+              "answer": "RUDA"
+            },
+            "30": {
+              "col": 5,
+              "row": 5,
+              "clue": "Los son el Sanabria (España) y el Titicaca (Perú/Bolivia)",
+              "answer": "LAGOS"
+            },
+            "32": {
+              "col": 11,
+              "row": 5,
+              "clue": "Marvel Grupo de mutantes creado por el Profesor X",
+              "answer": "XMEN"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Donde termina la ola",
+              "answer": "ORILLA"
+            },
+            "35": {
+              "col": 11,
+              "row": 6,
+              "clue": "Hermana de mi madre",
+              "answer": "TITA"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Modere sus palabras",
+              "answer": "MIDA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "El lugar favorito de un despistado",
+              "answer": "NUBE"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "\"… LaBeouf​\" actor que protagonizó 'Transformers' (1, 2 y 3)",
+              "answer": "SHIA"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "El anchor del rancho es proporcional al eritema",
+              "answer": "RONCHA"
+            },
+            "47": {
+              "col": 0,
+              "row": 9,
+              "clue": "Filósofo alemán, autor de 'Crítica de la razón pura'",
+              "answer": "KANT"
+            },
+            "48": {
+              "col": 5,
+              "row": 9,
+              "clue": "Huesuda, de mucho hueso",
+              "answer": "OSUDA"
+            },
+            "50": {
+              "col": 11,
+              "row": 9,
+              "clue": "Canal de Egipto que une al Mediterráneo y al mar Rojo",
+              "answer": "SUEZ"
+            },
+            "51": {
+              "col": 0,
+              "row": 10,
+              "clue": "Te lo sospechabas, te lo…",
+              "answer": "OLIAS"
+            },
+            "53": {
+              "col": 6,
+              "row": 10,
+              "clue": "La última dosis del paracetamol",
+              "answer": "OL"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Río más largo de Europa",
+              "answer": "VOLGA"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Emmett Brown, el amigo de Marty McFly",
+              "answer": "DOC"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Que todavía no le sale la barba",
+              "answer": "IMBERBE"
+            },
+            "60": {
+              "col": 12,
+              "row": 11,
+              "clue": "\"… cápita\" por cabeza",
+              "answer": "PER"
+            },
+            "61": {
+              "col": 0,
+              "row": 12,
+              "clue": "Señalar lo que corresponde a alguien o algo",
+              "answer": "ASIGNAR"
+            },
+            "63": {
+              "col": 8,
+              "row": 12,
+              "clue": "Disco luminoso en la cabeza de los santos",
+              "answer": "AUREOLA"
+            },
+            "65": {
+              "col": 2,
+              "row": 13,
+              "clue": "Se las arregla como puede, se…",
+              "answer": "APAÑA"
+            },
+            "66": {
+              "col": 8,
+              "row": 13,
+              "clue": "Viviendas de los esquimales",
+              "answer": "IGLUS"
+            },
+            "67": {
+              "col": 1,
+              "row": 14,
+              "clue": "Desean con inquietud",
+              "answer": "ANSIAN"
+            },
+            "68": {
+              "col": 8,
+              "row": 14,
+              "clue": "Indicios o señales leves",
+              "answer": "ASOMOS"
+            }
+          }
+        },
+        "vertical_clues": "2-Acompañé con las manos el ritmo de la música\r\n3-Parte central de un Palacio\r\n4-Predigo, anuncio desdichas\r\n5-Fiesta elegante\r\n6-El ejército de fanes de los BTS\r\n7-Entrada o paso\r\n8-Dame el correo del gringo\r\n9-Armonizar varias cosas\r\n10-National Security Intelligence (siglas)\r\n11-Plato japonés de pescado crudo, cortado muy fino\r\n12-Protección, ayuda\r\n15-Vestidura talar que usan los eclesiásticos\r\n17-Sacerdote romano que adivinaba por el cantar de las aves\r\n19-Pintor francés, con la primera obra impresionista\r\n22-Apliqué aceites sagrados\r\n25-Perro bombero\r\n28-Vasto, casi interminable\r\n30-Inclino, curvo, tuerzo\r\n31-\"Carlos…\" director español de '¡Ay, Carmela!' y 'Cría cuervos'\r\n34-Las puertas del Lamborghini\r\n38-Bastón largo usado como arma tradicional en el Bojutsu\r\n39-Los coches checos\r\n40-Círculos de luz difusa en torno de un cuerpo luminoso\r\n41-Comienzan, dan principio a algo\r\n42-Fiesta escandinava por el solsticio de invierno\r\n44-Acto imprudente o negligente\r\n45-Filósofo alemán, influyente en el pensamiento de Marx\r\n46-Turban, trastornan, sobresaltan\r\n49-Superan, exceden\r\n52-Península ubicada en la región asiática de Oriente Próximo\r\n54-Mirarlo\r\n57-Vicio o mala costumbre, resabio\r\n58-Raspaba una superficie\r\n59-El conejo de Merrie Melodies\r\n62-El navegador satelital del jipi ese\r\n64-Estados Unidos Mexicanos",
+        "horizontal_clues": "1-Ciudad natal de Pablo Picasso\r\n7-Doma el carácter violento\r\n13-Saldar lo que se debe\r\n14-Algo que defender\r\n16-\"… X\" activista afroamericano, defensor de los derechos humanos\r\n18-Corriente filosófica basada en eudaimonía, similar al Estoicismo\r\n20-Aguijón, espina, puya\r\n21-Obra más reconocida del escritor Julio Cortázar\r\n23-El sombrero de un inglés\r\n24-Acento prosódico en la última sílaba\r\n26-Símbolo de Nanosegundo\r\n27-Aquí impera Leticia \r\n29-Rigurosa, violenta, impetuosa\r\n30-Los son el Sanabria (España) y el Titicaca (Perú/Bolivia)\r\n32-Marvel Grupo de mutantes creado por el Profesor X\r\n33-Donde termina la ola\r\n35-Hermana de mi madre\r\n36-Modere sus palabras\r\n37-El lugar favorito de un despistado\r\n39-\"… LaBeouf​\" actor que protagonizó 'Transformers' (1, 2 y 3)\r\n43-El anchor del rancho es proporcional al eritema\r\n47-Filósofo alemán, autor de 'Crítica de la razón pura'\r\n48-Huesuda, de mucho hueso\r\n50-Canal de Egipto que une al Mediterráneo y al mar Rojo\r\n51-Te lo sospechabas, te lo…\r\n53-La última dosis del paracetamol\r\n54-Río más largo de Europa\r\n55-Emmett Brown, el amigo de Marty McFly\r\n56-Que todavía no le sale la barba\r\n60-\"… cápita\" por cabeza\r\n61-Señalar lo que corresponde a alguien o algo\r\n63-Disco luminoso en la cabeza de los santos\r\n65-Se las arregla como puede, se…\r\n66-Viviendas de los esquimales\r\n67-Desean con inquietud\r\n68-Indicios o señales leves",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,17,#,#,#,#,#,#,18,#,#,#,#,19,#\r\n20,#,#,#,21,#,#,22,#,#,#,#,23,#,#\r\n24,#,#,25,#,#,#,26,#,#,27,28,#,#,#\r\n29,#,#,#,#,30,#,#,#,31,#,32,#,#,#\r\n33,#,#,#,34,#,#,#,#,#,#,35,#,#,#\r\n#,#,#,36,#,#,#,#,37,#,38,#,#,#,#\r\n39,40,41,#,#,#,#,42,#,43,#,#,44,45,46\r\n47,#,#,#,#,48,49,#,#,#,#,50,#,#,#\r\n51,#,#,#,52,#,53,#,#,#,54,#,#,#,#\r\n55,#,#,#,56,57,#,#,58,59,#,#,60,#,#\r\n61,#,#,62,#,#,#,#,63,#,#,64,#,#,#\r\n#,#,65,#,#,#,#,#,66,#,#,#,#,#,#\r\n#,67,#,#,#,#,#,#,68,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

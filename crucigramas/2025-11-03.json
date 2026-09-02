@@ -1,0 +1,478 @@
+{
+  "data": {
+    "id": 3893,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2025-10-30T17:55:47.577117Z",
+      "updatedAt": "2025-10-30T17:55:47.612743Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2025-11-03",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PARASOL#PARTE#\r\nCADENA#AGITARSE\r\nELECTO#CEFALICO\r\nIMPUESTOS#NADAL\r\nBOTA##ESTA#SEMI\r\nATO#CC#TOSE#NAC\r\n#E#CHAPERON#T#A\r\nCORBATA#ICAREAS\r\nA#O#TONTAINA#P#\r\nDAS#ADIR#AA#PRO\r\nANAS#OCON##SAEV\r\nVALOR#UNIONISTA\r\nELEGIBLE#RODEAR\r\nREDUCTOR#TIRADA\r\n#SANAS#ATORADO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Un aplauso pa'l Mateo",
+              "answer": "PALMOTEO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Partidario de alguna persona o idea con visión religiosa",
+              "answer": "ADEPTO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Conjunto de animales de carga, que sirve para trajinar",
+              "answer": "RECUA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "A, …, bajo, cabe, con, contra, de, desde, etc",
+              "answer": "ANTE"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Síndrome de Apneas Obstructivas del Sueño (siglas)",
+              "answer": "SAOS"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Cambia las coletas por el polo del cocodrilo",
+              "answer": "LACOSTE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Permiso Individual de Formación",
+              "answer": "PIF"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Amarran, anudan",
+              "answer": "ATAN"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Nada tupidas",
+              "answer": "RALAS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "El arpón de tres puntas que tiene el dios Neptuno",
+              "answer": "TRIDENTE"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Lámina dérmica",
+              "answer": "ESCAMA"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Árbol de gran envergadura, sagrado para los mayas",
+              "answer": "CEIBA"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Oficina privada que te lleva los impuestos y hace la declaración",
+              "answer": "GESTORIA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Energía producida por la fuerza del viento (pl)",
+              "answer": "EOLICAS"
+            },
+            "19": {
+              "col": 6,
+              "row": 3,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "23": {
+              "col": 9,
+              "row": 4,
+              "clue": "Relaciona las ideas",
+              "answer": "ASOCIA"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "Que tiene la nariz poco prominente y como aplastada",
+              "answer": "CHATA"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Electrodo negativo",
+              "answer": "CATODO"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Mujer muy pequeña",
+              "answer": "ENANA"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Lo que tienen en común Cardi B y Charles Bukowski",
+              "answer": "CB"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "\"… adiposo\" capa de tejido graso, debajo de la piel",
+              "answer": "PANICULO"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"La novia…\" peli gótica de Tim Burton",
+              "answer": "CADAVER"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Jardín o lugar donde se cultivan rosas",
+              "answer": "ROSALEDA"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Poco razonable",
+              "answer": "RA"
+            },
+            "37": {
+              "col": 13,
+              "row": 7,
+              "clue": "Como me va a quedar el vaquero después de Navidad",
+              "answer": "APRETADO"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Ventana pequeña y angosta por donde entra poca luz",
+              "answer": "TRONERA"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Relaciones de sucesos por años",
+              "answer": "ANALES"
+            },
+            "44": {
+              "col": 12,
+              "row": 9,
+              "clue": "Andad por entretenimiento",
+              "answer": "PASEAD"
+            },
+            "45": {
+              "col": 14,
+              "row": 9,
+              "clue": "¿Le pondrá huevos?",
+              "answer": "OVARA"
+            },
+            "47": {
+              "col": 3,
+              "row": 10,
+              "clue": "Antiguo representante del emperador japonés",
+              "answer": "SOGUN"
+            },
+            "49": {
+              "col": 8,
+              "row": 10,
+              "clue": "\"… tan calvo, … con dos pelucas\"",
+              "answer": "NI"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Sí, doctora, voy a por bebida embriagante de manzana",
+              "answer": "SIDRA"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Adinerada, acaudalada",
+              "answer": "RICA"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "Salida del sol o de otro astro por el horizonte",
+              "answer": "ORTO"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "El perfume negro de Tom Ford",
+              "answer": "NOIR"
+            },
+            "57": {
+              "col": 5,
+              "row": 12,
+              "clue": "Los reyes del K pop",
+              "answer": "BTS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La sombrilla excéntrica es para Sol",
+              "answer": "PARASOL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Informe negativo para Petra por desordenada",
+              "answer": "PARTE"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "En la alimenticia, los humanos estamos en la punta",
+              "answer": "CADENA"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Moverse como gaiteras enloquecidas",
+              "answer": "AGITARSE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "El ectomorfo ha sido elegido por unir sus partes",
+              "answer": "ELECTO"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "\"Perímetro…\" medida de la cabeza de un bebé",
+              "answer": "CEFALICO"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Aranceles forzados",
+              "answer": "IMPUESTOS"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Rafa prefiere una Navidad mallorquina",
+              "answer": "NADAL"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "La de oro del 2024/25 se la ganó Mbappé",
+              "answer": "BOTA"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Ni esa, ni aquella",
+              "answer": "ESTA"
+            },
+            "24": {
+              "col": 11,
+              "row": 4,
+              "clue": "Casi, medio lo es",
+              "answer": "SEMI"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Enlazo, uno",
+              "answer": "ATO"
+            },
+            "26": {
+              "col": 4,
+              "row": 5,
+              "clue": "En un centro comercial con Carmen Carbonell",
+              "answer": "CC"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Hace fuerza y violencia con la respiración",
+              "answer": "TOSE"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "El reflejo del perro",
+              "answer": "NAC"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Cuidador de jóvenes, el que vigila su comportamiento",
+              "answer": "CHAPERON"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Prenda masculina",
+              "answer": "CORBATA"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Referentes a Ícaro, personaje de la mitología griega (fem)",
+              "answer": "ICAREAS"
+            },
+            "38": {
+              "col": 4,
+              "row": 8,
+              "clue": "Un tonto con una vaina pegada",
+              "answer": "TONTAINA"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Entregas, otorgas, donas",
+              "answer": "DAS"
+            },
+            "42": {
+              "col": 4,
+              "row": 9,
+              "clue": "Derecho Aceptar la herencia tácita o expresamente",
+              "answer": "ADIR"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Las mellizas de Baamonde",
+              "answer": "AA"
+            },
+            "44": {
+              "col": 12,
+              "row": 9,
+              "clue": "Este bro parece profesional",
+              "answer": "PRO"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Antigua medida de longitud equivalente a un metro (pl)",
+              "answer": "ANAS"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "\"Pedro… de Oro\" el creador de las sopas de letras",
+              "answer": "OCON"
+            },
+            "50": {
+              "col": 11,
+              "row": 10,
+              "clue": "Mires para atrás",
+              "answer": "SAEV"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "El precio de la valentía",
+              "answer": "VALOR"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Partidario del unionismo",
+              "answer": "UNIONISTA"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Apto para ser seleccionado en una votación",
+              "answer": "ELEGIBLE"
+            },
+            "58": {
+              "col": 9,
+              "row": 12,
+              "clue": "Cercar algo poniéndolo en medio",
+              "answer": "RODEAR"
+            },
+            "59": {
+              "col": 0,
+              "row": 13,
+              "clue": "Mecanismo que disminuye la velocidad",
+              "answer": "REDUCTOR"
+            },
+            "60": {
+              "col": 9,
+              "row": 13,
+              "clue": "Número de ejemplares de que consta una edición",
+              "answer": "TIRADA"
+            },
+            "61": {
+              "col": 1,
+              "row": 14,
+              "clue": "Curas las heridas, a veces del cuerpo, a veces del alma",
+              "answer": "SANAS"
+            },
+            "62": {
+              "col": 7,
+              "row": 14,
+              "clue": "Atascado el tarado",
+              "answer": "ATORADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Un aplauso pa'l Mateo\r\n2-Partidario de alguna persona o idea con visión religiosa\r\n3-Conjunto de animales de carga, que sirve para trajinar\r\n4-A, …, bajo, cabe, con, contra, de, desde, etc\r\n5-Síndrome de Apneas Obstructivas del Sueño (siglas)\r\n6-Cambia las coletas por el polo del cocodrilo\r\n7-Permiso Individual de Formación \r\n8-Amarran, anudan \r\n9-Nada tupidas\r\n10-El arpón de tres puntas que tiene el dios Neptuno\r\n11-Lámina dérmica\r\n12-Árbol de gran envergadura, sagrado para los mayas\r\n14-Oficina privada que te lleva los impuestos y hace la declaración\r\n15-Energía producida por la fuerza del viento (pl)\r\n19-Teluro\r\n23-Relaciona las ideas\r\n26-Que tiene la nariz poco prominente y como aplastada\r\n27-Electrodo negativo\r\n29-Mujer muy pequeña\r\n31-Lo que tienen en común Cardi B y Charles Bukowski\r\n32-\"… adiposo\" capa de tejido graso, debajo de la piel\r\n33-\"La novia…\" peli gótica de Tim Burton\r\n34-Jardín o lugar donde se cultivan rosas\r\n36-Poco razonable\r\n37-Como me va a quedar el vaquero después de Navidad\r\n39-Ventana pequeña y angosta por donde entra poca luz\r\n41-Relaciones de sucesos por años\r\n44-Andad por entretenimiento\r\n45-¿Le pondrá huevos? \r\n47-Antiguo representante del emperador japonés\r\n49-\"… tan calvo, … con dos pelucas\" \r\n50-Sí, doctora, voy a por bebida embriagante de manzana\r\n52-Adinerada, acaudalada\r\n54-Salida del sol o de otro astro por el horizonte\r\n55-El perfume negro de Tom Ford\r\n57-Los reyes del K pop \r\n",
+        "horizontal_clues": "1-La sombrilla excéntrica es para Sol\r\n7-Informe negativo para Petra por desordenada\r\n12-En la alimenticia, los humanos estamos en la punta\r\n13-Moverse como gaiteras enloquecidas \r\n16-El ectomorfo ha sido elegido por unir sus partes\r\n17-\"Perímetro…\" medida de la cabeza de un bebé\r\n18-Aranceles forzados\r\n20-Rafa prefiere una Navidad mallorquina\r\n21-La de oro del 2024/25 se la ganó Mbappé\r\n22-Ni esa, ni aquella\r\n24-Casi, medio lo es\r\n25-Enlazo, uno\r\n26-En un centro comercial con Carmen Carbonell \r\n28-Hace fuerza y violencia con la respiración\r\n30-El reflejo del perro\r\n31-Cuidador de jóvenes, el que vigila su comportamiento\r\n33-Prenda masculina\r\n35-Referentes a Ícaro, personaje de la mitología griega (fem)\r\n38-Un tonto con una vaina pegada\r\n40-Entregas, otorgas, donas\r\n42-Derecho Aceptar la herencia tácita o expresamente\r\n43-Las mellizas de Baamonde\r\n44-Este bro parece profesional\r\n46-Antigua medida de longitud equivalente a un metro (pl)\r\n48-\"Pedro… de Oro\" el creador de las sopas de letras\r\n50-Mires para atrás\r\n51-El precio de la valentía\r\n53-Partidario del unionismo \r\n56-Apto para ser seleccionado en una votación \r\n58-Cercar algo poniéndolo en medio\r\n59-Mecanismo que disminuye la velocidad \r\n60-Número de ejemplares de que consta una edición\r\n61-Curas las heridas, a veces del cuerpo, a veces del alma\r\n62-Atascado el tarado\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,13,14,#,#,#,#,#,15\r\n16,#,#,#,#,#,#,17,#,#,#,#,#,#,#\r\n18,#,#,#,#,#,19,#,#,#,20,#,#,#,#\r\n21,#,#,#,#,#,22,#,#,23,#,24,#,#,#\r\n25,#,#,#,26,27,#,28,#,#,29,#,30,#,#\r\n#,#,#,31,#,#,32,#,#,#,#,#,#,#,#\r\n33,#,34,#,#,#,#,#,35,#,#,36,#,37,#\r\n#,#,#,#,38,#,#,39,#,#,#,#,#,#,#\r\n40,41,#,#,42,#,#,#,#,43,#,#,44,#,45\r\n46,#,#,47,#,48,#,#,49,#,#,50,#,#,#\r\n51,#,#,#,52,#,53,#,#,54,55,#,#,#,#\r\n56,#,#,#,#,57,#,#,#,58,#,#,#,#,#\r\n59,#,#,#,#,#,#,#,#,60,#,#,#,#,#\r\n#,61,#,#,#,#,#,62,#,#,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

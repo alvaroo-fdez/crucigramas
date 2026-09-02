@@ -1,0 +1,489 @@
+{
+  "data": {
+    "id": 546,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2024-07-08T20:30:52.456676Z",
+      "updatedAt": "2024-12-10T17:42:03.193545Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2024-07-09",
+      "unpublishDate": null,
+      "customLogoUrl": {},
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PROFE#PECHEAR#\r\nPUERIL#R#CASCOL\r\nEPITAFIO#ABUELA\r\nRIR#COTEJAR#ILS\r\nALABA#AZO#APTOS\r\nLOSA#CLASH#RUSO\r\nT##LIRA#HIMEN##\r\nENCINO###LAGAÑA\r\n##AZOAR#MARO##S\r\nIBRA#DEBER#NIKE\r\nMORSE#EON#PASOS\r\nPEA#REFLEJA#AMI\r\nLISTAN#EMERSION\r\nENCAJE#T#FINADA\r\n#GASEOSA#FALSO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Mi aprendiz, mi estudiante, mi...",
+              "answer": "PUPILO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Celebrarás con risa algo.",
+              "answer": "REIRAS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Corta el centro de la torta.",
+              "answer": "ORT"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Uruguay. Hambre, gana y necesidad de comer.",
+              "answer": "FIACA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Criatura mágica de la mitología nórdica.",
+              "answer": "ELFO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Acción valiente y destacada.",
+              "answer": "PROEZA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lo son Cataluña y el País Vasco.",
+              "answer": "CCAA"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Acaecerá, sucederá, ocurrirá.",
+              "answer": "HABRA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lo utilicé al revés.",
+              "answer": "ESU"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Fruto del olivo.",
+              "answer": "ACEITUNA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Voy a revelar que estos son fotográficos y vintage.",
+              "answer": "ROLLOS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Inclinación en una carretera.",
+              "answer": "PERALTE"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"Ted...\" mejor serie de comedia en los Emmy 2022.",
+              "answer": "LASSO"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "De procedencia italiana (fem).",
+              "answer": "ITALA"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "\"... Hutcherson\" el prota de 'Los juegos del hambre'.",
+              "answer": "JOSH"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Señales marítimas.",
+              "answer": "BALIZAS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Publica, propaga en voz alta un anuncio.",
+              "answer": "PREGONA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Haced sonidos como las ranas.",
+              "answer": "CROAD"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Sacar la seda del capullo con el gusano vivo dentro de él.",
+              "answer": "HILAR"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Una de las hijas de Cadmo y Harmonía.",
+              "answer": "INO"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"... Muerto\", el hipersalino.",
+              "answer": "MAR"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Roble pequeño.",
+              "answer": "CARRASCA"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "La tratase sin absolución, por homicida.",
+              "answer": "ASESINA"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Arrecife en inglés.",
+              "answer": "REEF"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Presidente de Argentina, en la década de los 90.",
+              "answer": "MENEM"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Inflé, hinché.",
+              "answer": "IMPLE"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"... 747\" Avión comercial de fuselaje ancho.",
+              "answer": "BOEING"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Tiquete para entrar.",
+              "answer": "BOLETA"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Profeta que anunció el nacimiento y gloria de Jesús.",
+              "answer": "ISAIAS"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"Dragón de...\" el lagarto de mayor tamaño del mundo.",
+              "answer": "KOMODO"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "Miel virgen.",
+              "answer": "ERAJE"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Individuo marginado.",
+              "answer": "PARIA"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Poético. De cobre o bronce.",
+              "answer": "ENEO"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "\"... The Killer\" uno de los creepypastas más famosos de internet.",
+              "answer": "JEFF"
+            },
+            "59": {
+              "col": 3,
+              "row": 12,
+              "clue": "Yunque de platero.",
+              "answer": "TAS"
+            },
+            "61": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"Saturday Night Live\" (siglas).",
+              "answer": "SNL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "A mi profesor con aprecio.",
+              "answer": "PROFE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Realizar actividades intensivamente.",
+              "answer": "PECHEAR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Edad infantil.",
+              "answer": "PUERIL"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Resina de un árbol para fabricar lacre negro.",
+              "answer": "CASCOL"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Inscripción en una tumba.",
+              "answer": "EPITAFIO"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "La mamá de mi mamá.",
+              "answer": "ABUELA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Parir en el oriente.",
+              "answer": "RIR"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Comparar cuidadosamente.",
+              "answer": "COTEJAR"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Lo que Nils e Ilse tienen en común.",
+              "answer": "ILS"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Adora, adula.",
+              "answer": "ALABA"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Pedazo de brazo.",
+              "answer": "AZO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Calificados, idóneos para cierta actividad.",
+              "answer": "APTOS"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pieza fina de cerámica, para cubrir suelos.",
+              "answer": "LOSA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"The...\" banda de punk con la canción 'Should I Stay or Should I Go'.",
+              "answer": "CLASH"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"... blanco\" cóctel con vodka, licor de café y nata líquida.",
+              "answer": "RUSO"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Instrumento antiguo de cuerda.",
+              "answer": "LIRA"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Membrana vaginal.",
+              "answer": "HIMEN"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Árbol robusto de hoja perenne.",
+              "answer": "ENCINO"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Secreción ocular seca.",
+              "answer": "LAGAÑA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Química. Impregnar de ázoe.",
+              "answer": "AZOAR"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Lugar donde se encuentra La Cueva de Nerja, en España.",
+              "answer": "MARO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Con cariño a Ibrahimović.",
+              "answer": "IBRA"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Estar obligado a algo.",
+              "answer": "DEBER"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "La diosa de la victoria.",
+              "answer": "NIKE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Clave",
+              "answer": "MORSE"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Muchísimos años, millones.",
+              "answer": "EON"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Movimiento sucesivo, que dejan huellas.",
+              "answer": "PASOS"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Venezuela. Embriaguez, borrachera.",
+              "answer": "PEA"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Imita como un espejo.",
+              "answer": "REFLEJA"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Acortamiento de \"amiga\".",
+              "answer": "AMI"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "“… negro”, uva tinta abundante en Islas Canarias, España.",
+              "answer": "LISTAN"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Salida a la superficie.",
+              "answer": "EMERSION"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ajuste una pieza con otra.",
+              "answer": "ENCAJE"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Muerta, fallecida.",
+              "answer": "FINADA"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Soda, refresco.",
+              "answer": "GASEOSA"
+            },
+            "65": {
+              "col": 9,
+              "row": 14,
+              "clue": "No auténtico.",
+              "answer": "FALSO"
+            }
+          }
+        },
+        "vertical_clues": "1-Mi aprendiz, mi estudiante, mi...\r\n2-Celebrarás con risa algo.\r\n3-Corta el centro de la torta.\r\n4-Uruguay. Hambre, gana y necesidad de comer.\r\n5-Criatura mágica de la mitología nórdica.\r\n6-Acción valiente y destacada. \r\n7-Lo son Cataluña y el País Vasco.\r\n8-Acaecerá, sucederá, ocurrirá.\r\n9-Lo utilicé al revés.\r\n10-Fruto del olivo.\r\n11-Voy a revelar que estos son fotográficos y vintage.\r\n12-Inclinación en una carretera. \r\n14-\"Ted...\" mejor serie de comedia en los Emmy 2022. \r\n16-De procedencia italiana (fem).\r\n20-\"... Hutcherson\" el prota de 'Los juegos del hambre'.\r\n23-Señales marítimas. \r\n26-Publica, propaga en voz alta un anuncio.\r\n28-Haced sonidos como las ranas.\r\n29-Sacar la seda del capullo con el gusano vivo dentro de él.\r\n32-Una de las hijas de Cadmo y Harmonía.\r\n34-\"... Muerto\", el hipersalino.\r\n36-Roble pequeño. \r\n38-La tratase sin absolución, por homicida.\r\n40-Arrecife en inglés.\r\n41-Presidente de Argentina, en la década de los 90.\r\n42-Inflé, hinché.\r\n43-\"... 747\" Avión comercial de fuselaje ancho.\r\n45-Tiquete para entrar. \r\n47-Profeta que anunció el nacimiento y gloria de Jesús.\r\n48-\"Dragón de...\" el lagarto de mayor tamaño del mundo.\r\n50-Miel virgen.\r\n52-Individuo marginado. \r\n55-Poético. De cobre o bronce.\r\n56-\"... The Killer\" uno de los creepypastas más famosos de internet.\r\n59-Yunque de platero.\r\n61-\"Saturday Night Live\" (siglas).",
+        "horizontal_clues": "1-A mi profesor con aprecio.\r\n6-Realizar actividades intensivamente. \r\n12-Edad infantil.\r\n13-Resina de un árbol para fabricar lacre negro.\r\n15-Inscripción en una tumba. \r\n17-La mamá de mi mamá.\r\n18-Parir en el oriente.\r\n19-Comparar cuidadosamente. \r\n21-Lo que Nils e Ilse tienen en común.\r\n22-Adora, adula.\r\n24-Pedazo de brazo.\r\n25-Calificados, idóneos para cierta actividad.\r\n27-Pieza fina de cerámica, para cubrir suelos.\r\n28-\"The...\" banda de punk con la canción 'Should I Stay or Should I Go'.\r\n30-\"... blanco\" cóctel con vodka, licor de café y nata líquida.\r\n31-Instrumento antiguo de cuerda.\r\n33-Membrana vaginal.\r\n35-Árbol robusto de hoja perenne. \r\n37-Secreción ocular seca. \r\n39-Química. Impregnar de ázoe.\r\n41-Lugar donde se encuentra La Cueva de Nerja, en España.\r\n42-Con cariño a Ibrahimović.\r\n44-Estar obligado a algo.\r\n46-La diosa de la victoria.\r\n49-Clave -- --- .-. ... .\r\n51-Muchísimos años, millones.\r\n52-Movimiento sucesivo, que dejan huellas.\r\n53-Venezuela. Embriaguez, borrachera.\r\n54-Imita como un espejo.\r\n57-Acortamiento de \"amiga\".\r\n58-“… negro”, uva tinta abundante en Islas Canarias, España.\r\n60-Salida a la superficie. \r\n62-Ajuste una pieza con otra.\r\n63-Muerta, fallecida.\r\n64-Soda, refresco.\r\n65-No auténtico.",
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,#,#,#,16,#,#,17,#,#,#,#,#\r\n18,#,#,#,19,#,#,#,20,#,#,#,21,#,#\r\n22,#,#,23,#,#,24,#,#,#,25,26,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n#,#,#,31,32,#,#,#,33,#,34,#,#,#,#\r\n35,#,36,#,#,#,#,#,#,37,#,#,#,#,38\r\n#,#,39,#,#,#,40,#,41,#,#,#,#,#,#\r\n42,43,#,#,#,44,#,45,#,#,#,46,47,48,#\r\n49,#,#,#,50,#,51,#,#,#,52,#,#,#,#\r\n53,#,#,#,54,55,#,#,#,56,#,#,57,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#\r\n#,64,#,#,#,#,#,#,#,65,#,#,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

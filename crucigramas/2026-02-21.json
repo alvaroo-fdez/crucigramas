@@ -1,0 +1,492 @@
+{
+  "data": {
+    "id": 4894,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-02-20T21:40:17.412359Z",
+      "updatedAt": "2026-02-20T21:42:13.798436Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-02-21",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "AFAN#UNTA#CALAS\r\nRABO#SEUL#ALEJO\r\nPLANCHA#ACEITES\r\nALTA#UNICO#GASA\r\nSAETEAD#RIMEL##\r\n###APIE#AMERICA\r\nGLASEAR#NADADOR\r\nLOC#########ASA\r\nABONARA#ATENDIO\r\nSONABAN#TENA###\r\n##TRUSS#INDICAR\r\nIKER#CINES#ROBO\r\nBACALAO#NICOLAS\r\nASERE#SUDO#BAJA\r\nSERAS#ASEN#IRAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Instrumento musical con 32 cuerdas (pl)",
+              "answer": "ARPAS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Erra el tiro",
+              "answer": "FALLA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Derroca, tumba",
+              "answer": "ABATE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Nacidas mediante cesárea",
+              "answer": "NONATAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Ciudad argentina conocida como \"La más austral del mundo\"",
+              "answer": "USHUAIA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Valle alemán donde encontraron al Feldhofer 1, el primer neandertal",
+              "answer": "NEANDER"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "No te hagas el loco, fuiste…",
+              "answer": "TU"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Escorpión, arácnido",
+              "answer": "ALACRAN"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Se desploma la bolsa",
+              "answer": "CAE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Alivia, modera, templa",
+              "answer": "ALIGERA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cualidad tóxica y mortal de una sustancia",
+              "answer": "LETALIDAD"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Desgastes, deteriores, desluzcas",
+              "answer": "AJES"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Que no tiene sal, o tiene poca (fem)",
+              "answer": "SOSA"
+            },
+            "19": {
+              "col": 9,
+              "row": 2,
+              "clue": "La paga de un soborno",
+              "answer": "COIMA"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Pepe ha perdido la cabeza",
+              "answer": "EPE"
+            },
+            "26": {
+              "col": 10,
+              "row": 4,
+              "clue": "Abrev de medicina",
+              "answer": "MED"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Suturé una herida",
+              "answer": "COSI"
+            },
+            "30": {
+              "col": 14,
+              "row": 5,
+              "clue": "Ave caradriforme de la familia Alcidae, nativa de Europa",
+              "answer": "ARAO"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Azúcar nevada",
+              "answer": "GLAS"
+            },
+            "32": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"El hombre es un… para el hombre\", frase de Hobbes",
+              "answer": "LOBO"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Hacerse realidad un evento",
+              "answer": "ACONTECER"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Nos contará el partido",
+              "answer": "NARRARA"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "El mejor amigo de Aladdín",
+              "answer": "ABU"
+            },
+            "40": {
+              "col": 5,
+              "row": 8,
+              "clue": "Se frota la piel por picazón, se…",
+              "answer": "RASCA"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Mujer con ansiedad",
+              "answer": "ANSIOSA"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Cuida, mira por alguien o algo",
+              "answer": "ATIENDE"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Electr Voltaje entre dos polos o electrodos",
+              "answer": "TENSION"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "El fin de un inglés",
+              "answer": "END"
+            },
+            "45": {
+              "col": 11,
+              "row": 8,
+              "clue": "Capital de Kenia",
+              "answer": "NAIROBI"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Hacer café usando la manga",
+              "answer": "COLAR"
+            },
+            "51": {
+              "col": 13,
+              "row": 10,
+              "clue": "Veterinaria Corta mucho del casco de las caballerías",
+              "answer": "ABAJA"
+            },
+            "52": {
+              "col": 14,
+              "row": 10,
+              "clue": "Las más vendidas en San Valentín",
+              "answer": "ROSAS"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Te trasladabas",
+              "answer": "IBAS"
+            },
+            "54": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"… O\", rapero, productor y compositor español",
+              "answer": "KASE"
+            },
+            "58": {
+              "col": 4,
+              "row": 12,
+              "clue": "Pronombre personal dativo de 3ª persona plural",
+              "answer": "LES"
+            },
+            "62": {
+              "col": 7,
+              "row": 13,
+              "clue": "En páginas web estadounidenses",
+              "answer": "US"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Prisa, diligencia, premura",
+              "answer": "AFAN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Le pone mantequilla, lo…",
+              "answer": "UNTA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Lo son Macarella y Turqueta, las de Menorca",
+              "answer": "CALAS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Cola de los animales",
+              "answer": "RABO"
+            },
+            "15": {
+              "col": 5,
+              "row": 1,
+              "clue": "Capital de Corea del Sur",
+              "answer": "SEUL"
+            },
+            "16": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"… Cuervo\" editor español y dueño de Gigamesh, la librería fantástica",
+              "answer": "ALEJO"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aparato para alisar la ropa con calor",
+              "answer": "PLANCHA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Los hay de semillas, de girasol y de oliva",
+              "answer": "ACEITES"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Si mide más de 1,70 ella es…",
+              "answer": "ALTA"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Solo y sin otro de su especie",
+              "answer": "UNICO"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Tejido para cirugía",
+              "answer": "GASA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Disparad las flechas, una tras otra",
+              "answer": "SAETEAD"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"Colirio en los ojos / pegote de… la copa en la mano / y vuelvo a tu lado\"",
+              "answer": "RIMEL"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Caminando, sin la necesidad de un vehículo (2p)",
+              "answer": "APIE"
+            },
+            "28": {
+              "col": 8,
+              "row": 5,
+              "clue": "Desde Alaska hasta la Patagonia",
+              "answer": "AMERICA"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Cubrir con azúcar glas",
+              "answer": "GLASEAR"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Lo es Michael Phelps o Hugo González",
+              "answer": "NADADOR"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Bloc sin tapa",
+              "answer": "LOC"
+            },
+            "36": {
+              "col": 12,
+              "row": 7,
+              "clue": "Mango, asidero de una vasija",
+              "answer": "ASA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Fertilizará la tierra",
+              "answer": "ABONARA"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Cuidó de alguien",
+              "answer": "ATENDIO"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Se escuchaban, hacían ruido",
+              "answer": "SONABAN"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Conjunto de útiles de un determinado arte de pesca",
+              "answer": "TENA"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"Liz…\" primera ministra del Reino Unido hasta 2022",
+              "answer": "TRUSS"
+            },
+            "49": {
+              "col": 8,
+              "row": 10,
+              "clue": "Señalar con el dedo índice",
+              "answer": "INDICAR"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "\"… Jiménez\" el de Cuarto Milenio",
+              "answer": "IKER"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Las salas de la gran pantalla",
+              "answer": "CINES"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Demasiado costoso, eso es un…",
+              "answer": "ROBO"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Pez preciado por su carne y el aceite de su hígado",
+              "answer": "BACALAO"
+            },
+            "59": {
+              "col": 8,
+              "row": 12,
+              "clue": "Copérnico o Cage",
+              "answer": "NICOLAS"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Coloquial Socio, hermano, amigo en Cuba",
+              "answer": "ASERE"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Secretó agua a través de los poros",
+              "answer": "SUDO"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Lo contrario de \"sube\"",
+              "answer": "BAJA"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Estarás, existirás",
+              "answer": "SERAS"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Tuesten, doren",
+              "answer": "ASEN"
+            },
+            "66": {
+              "col": 11,
+              "row": 14,
+              "clue": "Asistirás con el traje de la indias al revés",
+              "answer": "IRAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Instrumento musical con 32 cuerdas (pl)\r\n2-Erra el tiro\r\n3-Derroca, tumba\r\n4-Nacidas mediante cesárea\r\n5-Ciudad argentina conocida como \"La más austral del mundo\"\r\n6-Valle alemán donde encontraron al Feldhofer 1, el primer neandertal\r\n7-No te hagas el loco, fuiste…\r\n8-Escorpión, arácnido\r\n9-Se desploma la bolsa\r\n10-Alivia, modera, templa\r\n11-Cualidad tóxica y mortal de una sustancia\r\n12-Desgastes, deteriores, desluzcas\r\n13-Que no tiene sal, o tiene poca (fem)\r\n19-La paga de un soborno\r\n24-Pepe ha perdido la cabeza\r\n26-Abrev de medicina\r\n29-Suturé una herida\r\n30-Ave caradriforme de la familia Alcidae, nativa de Europa\r\n31-Azúcar nevada\r\n32-\"El hombre es un… para el hombre\", frase de Hobbes\r\n33-Hacerse realidad un evento\r\n38-Nos contará el partido\r\n39-El mejor amigo de Aladdín\r\n40-Se frota la piel por picazón, se…\r\n41-Mujer con ansiedad\r\n42-Cuida, mira por alguien o algo\r\n43-Electr Voltaje entre dos polos o electrodos \r\n44-El fin de un inglés\r\n45-Capital de Kenia\r\n50-Hacer café usando la manga\r\n51-Veterinaria Corta mucho del casco de las caballerías\r\n52-Las más vendidas en San Valentín\r\n53-Te trasladabas\r\n54-\"… O\", rapero, productor y compositor español\r\n58-Pronombre personal dativo de 3ª persona plural\r\n62-En páginas web estadounidenses",
+        "horizontal_clues": "1-Prisa, diligencia, premura\r\n5-Le pone mantequilla, lo…\r\n9-Lo son Macarella y Turqueta, las de Menorca\r\n14-Cola de los animales\r\n15-Capital de Corea del Sur\r\n16-\"… Cuervo\" editor español y dueño de Gigamesh, la librería fantástica\r\n17-Aparato para alisar la ropa con calor \r\n18-Los hay de semillas, de girasol y de oliva\r\n20-Si mide más de 1,70 ella es…\r\n21-Solo y sin otro de su especie\r\n22-Tejido para cirugía\r\n23-Disparad las flechas, una tras otra\r\n25-\"Colirio en los ojos / pegote de… la copa en la mano / y vuelvo a tu lado\"\r\n27-Caminando, sin la necesidad de un vehículo (2p)\r\n28-Desde Alaska hasta la Patagonia\r\n31-Cubrir con azúcar glas\r\n34-Lo es Michael Phelps o Hugo González\r\n35-Bloc sin tapa\r\n36-Mango, asidero de una vasija\r\n37-Fertilizará la tierra\r\n42-Cuidó de alguien\r\n46-Se escuchaban, hacían ruido\r\n47-Conjunto de útiles de un determinado arte de pesca\r\n48-\"Liz…\" primera ministra del Reino Unido hasta 2022\r\n49-Señalar con el dedo índice\r\n53-\"… Jiménez\" el de Cuarto Milenio\r\n55-Las salas de la gran pantalla\r\n56-Demasiado costoso, eso es un…\r\n57-Pez preciado por su carne y el aceite de su hígado\r\n59-Copérnico o Cage\r\n60-Coloquial Socio, hermano, amigo en Cuba\r\n61-Secretó agua a través de los poros\r\n63-Lo contrario de \"sube\"\r\n64-Estarás, existirás\r\n65-Tuesten, doren\r\n66-Asistirás con el traje de la indias al revés",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,9,10,11,12,13\r\n14,#,#,#,#,15,#,#,#,#,16,#,#,#,#\r\n17,#,#,#,#,#,#,#,18,19,#,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n23,#,#,#,24,#,#,#,25,#,26,#,#,#,#\r\n#,#,#,27,#,#,#,#,28,#,#,#,#,29,30\r\n31,32,33,#,#,#,#,#,34,#,#,#,#,#,#\r\n35,#,#,#,#,#,#,#,#,#,#,#,36,#,#\r\n37,#,#,38,39,40,41,#,42,43,44,45,#,#,#\r\n46,#,#,#,#,#,#,#,47,#,#,#,#,#,#\r\n#,#,48,#,#,#,#,#,49,#,#,#,50,51,52\r\n53,54,#,#,#,55,#,#,#,#,#,56,#,#,#\r\n57,#,#,#,58,#,#,#,59,#,#,#,#,#,#\r\n60,#,#,#,#,#,61,62,#,#,#,63,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,66,#,#,#"
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

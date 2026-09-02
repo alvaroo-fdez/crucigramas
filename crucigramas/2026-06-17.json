@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 6250,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-06-16T21:08:39.415344Z",
+      "updatedAt": "2026-06-16T21:10:13.040789Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-06-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PRAN#TIRITAD#FB\r\nSEÑORITO#ACOPLA\r\n#CADETE#PREMIAR\r\nCADUCAR#LIRISMO\r\nATILA#ELEFANTE#\r\nRODADA#IUA#GANG\r\nI#OREJEAR#ROSCA\r\nOF##RES#AFE##OB\r\nCOSMO#COLOSAL#I\r\nARLA#GAY#LIDIAR\r\n#CINGALES#SUSTO\r\nMEDIANO#ESTATAL\r\nOJEABAN#SAINAR#\r\nRESTOS#HONRADEZ\r\nIO#ONEROSA#LOEN",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Los bordes de las pizzas",
+              "answer": "PS"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Mejor retoca con cautela, con reserva",
+              "answer": "RECATO"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Agregado artificialmente",
+              "answer": "AÑADIDO"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Con pequeñas protuberancias redondeadas",
+              "answer": "NODULAR"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Mi tía, mi…",
+              "answer": "TITA"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Repita por favor, su títere perdió la cabeza",
+              "answer": "ITERE"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Un poco de rock and roll",
+              "answer": "RO"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "La ciudad más meridional de la península ibérica",
+              "answer": "TARIFA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Orilla de la calle",
+              "answer": "ACERA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Un plácido fin de semana",
+              "answer": "DOMINGO"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Manifestaciones socioculturales asociadas generalmente al pueblo gitano",
+              "answer": "FLAMENCO"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Prefijo relacionado con la presión atmosférica",
+              "answer": "BARO"
+            },
+            "14": {
+              "col": 4,
+              "row": 1,
+              "clue": "Acreedor tan desordenado que tiene su propio mensajero",
+              "answer": "RECADERO"
+            },
+            "16": {
+              "col": 12,
+              "row": 1,
+              "clue": "Las que estás leyendo ahora",
+              "answer": "PISTAS"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Relativo a la pleura",
+              "answer": "PLEURAL"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Este nació en Río de Janeiro, es un…",
+              "answer": "CARIOCA"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "Arma un alboroto en el Laboratorio de Inteligencia Artificial",
+              "answer": "LIA"
+            },
+            "25": {
+              "col": 5,
+              "row": 5,
+              "clue": "Maltraté, desgasté",
+              "answer": "AJE"
+            },
+            "28": {
+              "col": 14,
+              "row": 5,
+              "clue": "Poeta y filósofo judío de Al Ándalus del siglo XI",
+              "answer": "GABIROL"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Peldaño",
+              "answer": "ESCALON"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Aguantar sin ceder ante una fuerza",
+              "answer": "RESISTIR"
+            },
+            "33": {
+              "col": 1,
+              "row": 7,
+              "clue": "Lucha física entre dos personas que se agarran",
+              "answer": "FORCEJEO"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "Un poco folclórico",
+              "answer": "FOL"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "\"Google…\" programa para hacer diapositivas",
+              "answer": "SLIDES"
+            },
+            "40": {
+              "col": 3,
+              "row": 8,
+              "clue": "Lo ató e inmovilizó sus muñecas",
+              "answer": "MANIATO"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "\"…, abre tus ojos, mira hacia arriba / disfruta las cosas buenas que tiene la vida\" Chayanne",
+              "answer": "OYE"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Relativo a las Aduanas",
+              "answer": "ADUANAL"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Los latidos anormales están en una lista",
+              "answer": "LISTADO"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Obtuviese la victoria",
+              "answer": "GANASE"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Complique su tiempo con mucho trabajo",
+              "answer": "ATAREE"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "País africano cuya capital es Libreville",
+              "answer": "GABON"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Masa contenida en la cavidad del cráneo",
+              "answer": "SESOS"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Fallecí",
+              "answer": "MORI"
+            },
+            "55": {
+              "col": 9,
+              "row": 11,
+              "clue": "Capital de Yemen",
+              "answer": "SANA"
+            },
+            "59": {
+              "col": 7,
+              "row": 13,
+              "clue": "Símbolo químico del Holmio",
+              "answer": "HO"
+            },
+            "60": {
+              "col": 14,
+              "row": 13,
+              "clue": "Símbolo químico del Zinc",
+              "answer": "ZN"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Líder criminal de una cárcel",
+              "answer": "PRAN"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Temblad de frío",
+              "answer": "TIRITAD"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Facebook",
+              "answer": "FB"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Joven de familia acomodada que no trabaja",
+              "answer": "SEÑORITO"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Ajusta dos piezas exactamente",
+              "answer": "ACOPLA"
+            },
+            "17": {
+              "col": 1,
+              "row": 2,
+              "clue": "Alumno de una academia militar",
+              "answer": "CADETE"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Laurear al ganador de la lotería",
+              "answer": "PREMIAR"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Perder eficacia, un medicamento",
+              "answer": "CADUCAR"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Cualidad de lírico",
+              "answer": "LIRISMO"
+            },
+            "21": {
+              "col": 0,
+              "row": 4,
+              "clue": "El rey de los hunos y su caballo Othar",
+              "answer": "ATILA"
+            },
+            "22": {
+              "col": 6,
+              "row": 4,
+              "clue": "Animal terrestre más grande",
+              "answer": "ELEFANTE"
+            },
+            "24": {
+              "col": 0,
+              "row": 5,
+              "clue": "Filmada, grabada, una peli",
+              "answer": "RODADA"
+            },
+            "26": {
+              "col": 7,
+              "row": 5,
+              "clue": "Figura de ciudad",
+              "answer": "IUA"
+            },
+            "27": {
+              "col": 11,
+              "row": 5,
+              "clue": "Grupo organizado de delincuentes",
+              "answer": "GANG"
+            },
+            "29": {
+              "col": 2,
+              "row": 6,
+              "clue": "Mover las orejas",
+              "answer": "OREJEAR"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "El postre favorito del loco Óscar",
+              "answer": "ROSCA"
+            },
+            "32": {
+              "col": 0,
+              "row": 7,
+              "clue": "Símbolo de la escala de temperatura de Fahrenheit",
+              "answer": "OF"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Cabeza de ganado",
+              "answer": "RES"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Los primeros afectos",
+              "answer": "AFE"
+            },
+            "37": {
+              "col": 13,
+              "row": 7,
+              "clue": "Obligatorias las dos primeras",
+              "answer": "OB"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Uno de los padrinos mágicos de Timmy",
+              "answer": "COSMO"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Enorme, de dimensiones extraordinarias",
+              "answer": "COLOSAL"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pon las frutas en arlos",
+              "answer": "ARLA"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Persona homosexual",
+              "answer": "GAY"
+            },
+            "47": {
+              "col": 9,
+              "row": 9,
+              "clue": "Vivir con Lidia",
+              "answer": "LIDIAR"
+            },
+            "49": {
+              "col": 1,
+              "row": 10,
+              "clue": "Natural de la isla asiática del té y las especias",
+              "answer": "CINGALES"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Impresión causada por el miedo",
+              "answer": "SUSTO"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ni grande ni pequeño",
+              "answer": "MEDIANO"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Relativo al Estado",
+              "answer": "ESTATAL"
+            },
+            "56": {
+              "col": 0,
+              "row": 12,
+              "clue": "Echaban un ojo",
+              "answer": "OJEABAN"
+            },
+            "57": {
+              "col": 8,
+              "row": 12,
+              "clue": "Engordar a los animales",
+              "answer": "SAINAR"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Partes que quedan de un todo",
+              "answer": "RESTOS"
+            },
+            "59": {
+              "col": 7,
+              "row": 13,
+              "clue": "Virtud de quien actúa con rectitud e integridad",
+              "answer": "HONRADEZ"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Costa de Marfil Vs Ecuador",
+              "answer": "IO"
+            },
+            "62": {
+              "col": 3,
+              "row": 14,
+              "clue": "Pesada, engorrosa",
+              "answer": "ONEROSA"
+            },
+            "63": {
+              "col": 11,
+              "row": 14,
+              "clue": "Alaben, den por bueno algo",
+              "answer": "LOEN"
+            }
+          }
+        },
+        "vertical_clues": "1-Los bordes de las pizzas\r\n2-Mejor retoca con cautela, con reserva\r\n3-Agregado artificialmente\r\n4-Con pequeñas protuberancias redondeadas \r\n5-Mi tía, mi…\r\n6-Repita por favor, su títere perdió la cabeza\r\n7-Un poco de rock and roll\r\n8-La ciudad más meridional de la península ibérica\r\n9-Orilla de la calle\r\n10-Un plácido fin de semana\r\n11-Manifestaciones socioculturales asociadas generalmente al pueblo gitano\r\n12-Prefijo relacionado con la presión atmosférica\r\n14-Acreedor tan desordenado que tiene su propio mensajero\r\n16-Las que estás leyendo ahora\r\n18-Relativo a la pleura\r\n19-Este nació en Río de Janeiro; es un…\r\n23-Arma un alboroto en el Laboratorio de Inteligencia Artificial\r\n25-Maltraté, desgasté\r\n28-Poeta y filósofo judío de Al Ándalus del siglo XI \r\n30-Peldaño\r\n31-Aguantar sin ceder ante una fuerza \r\n33-Lucha física entre dos personas que se agarran \r\n36-Un poco folclórico\r\n39-\"Google…\" programa para hacer diapositivas\r\n40-Lo ató e inmovilizó sus muñecas \r\n42-\"…, abre tus ojos, mira hacia arriba / disfruta las cosas buenas que tiene la vida\" Chayanne\r\n43-Relativo a las Aduanas\r\n44-Los latidos anormales están en una lista\r\n46-Obtuviese la victoria\r\n48-Complique su tiempo con mucho trabajo\r\n50-País africano cuya capital es Libreville\r\n51-Masa contenida en la cavidad del cráneo\r\n53-Fallecí\r\n55-Capital de Yemen\r\n59-Símbolo químico del Holmio\r\n60-Símbolo químico del zinc",
+        "horizontal_clues": "1-Líder criminal de una cárcel\r\n5-Temblad de frío\r\n11-Facebook\r\n13-Joven de familia acomodada que no trabaja \r\n15-Ajusta dos piezas exactamente\r\n17-Alumno de una academia militar\r\n18-Laurear al ganador de la lotería\r\n19-Perder eficacia, un medicamento\r\n20-Cualidad de lírico\r\n21-El rey de los hunos y su caballo Othar\r\n22-Animal terrestre más grande\r\n24-Filmada, grabada, una peli\r\n26-Figura de ciudad\r\n27-Grupo organizado de delincuentes \r\n29-Mover las orejas\r\n31-El postre favorito del loco Óscar\r\n32-Símbolo de la escala de temperatura de Fahrenheit\r\n34-Cabeza de ganado\r\n35-Los primeros afectos\r\n37-Obligatorias las dos primeras\r\n38-Uno de los padrinos mágicos de Timmy\r\n41-Enorme, de dimensiones extraordinarias\r\n45-Pon las frutas en arlos\r\n46-Persona homosexual\r\n47-Vivir con Lidia\r\n49-Natural de la isla asiática del té y las especias \r\n52-Impresión causada por el miedo\r\n53-Ni grande ni pequeño \r\n54-Relativo al Estado\r\n56-Echaban un ojo\r\n57-Engordar a los animales\r\n58-Partes que quedan de un todo\r\n59-Virtud de quien actúa con rectitud e integridad \r\n61-Costa de Marfil vs Ecuador\r\n62-Pesada, engorrosa\r\n63-Alaben, den por bueno algo",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,#,8,9,10,#,11,12\r\n13,#,#,#,14,#,#,#,#,15,#,#,16,#,#\r\n#,17,#,#,#,#,#,#,18,#,#,#,#,#,#\r\n19,#,#,#,#,#,#,#,20,#,#,#,#,#,#\r\n21,#,#,#,#,#,22,23,#,#,#,#,#,#,#\r\n24,#,#,#,#,25,#,26,#,#,#,27,#,#,28\r\n#,#,29,#,#,#,30,#,#,#,31,#,#,#,#\r\n32,33,#,#,34,#,#,#,35,36,#,#,#,37,#\r\n38,#,39,40,#,#,41,42,#,#,#,43,44,#,#\r\n45,#,#,#,#,46,#,#,#,47,#,#,#,48,#\r\n#,49,#,#,50,#,#,#,51,#,52,#,#,#,#\r\n53,#,#,#,#,#,#,#,54,55,#,#,#,#,#\r\n56,#,#,#,#,#,#,#,57,#,#,#,#,#,#\r\n58,#,#,#,#,#,#,59,#,#,#,#,#,#,60\r\n61,#,#,62,#,#,#,#,#,#,#,63,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

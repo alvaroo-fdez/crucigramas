@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 6881,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-08-09T21:25:14.270489Z",
+      "updatedAt": "2026-08-09T21:26:16.024250Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-08-10",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CHAMBA#CULPAR#\r\nCAERIA###REEVES\r\nOM#METEORICO#LE\r\nMICOSIS#ACORDAR\r\nENO##ATADO##ETE\r\nTANTA#ANI#HALON\r\nARCES#DOC#AMARO\r\n##IMAGINACION##\r\nCALAD#SIL#TUTES\r\nALISO#TMI#IRENE\r\nNTA##LIOSA##ROC\r\nAEROBIC#MORTAJA\r\nDR#SANATORIO#AB\r\nANOCHE###TANTRA\r\n#AGOTAN#BALOTA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Andar",
+              "answer": "CAMINAR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo químico del helio",
+              "answer": "HE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Visto a alguien con sus armas",
+              "answer": "ARMO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Cereal de cuya semilla se hace pan",
+              "answer": "MIES"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Movía con fuerza, mezclaba",
+              "answer": "BATIA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Ácido de la orina",
+              "answer": "URICO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Grito, lamento muy sonoro",
+              "answer": "LECO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"El remedio es… que la enfermedad\"",
+              "answer": "PEOR"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Américo Vespucio",
+              "answer": "AV"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Un investigador de la ONU",
+              "answer": "RELATOR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "El Halley (próximamente en el 2061)",
+              "answer": "COMETA"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Humedad nocturna",
+              "answer": "SERENO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Rama de la matemática que analiza datos y calcula probabilidades",
+              "answer": "ESTADISTICA"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Doctrina que busca cambios profundos y rápidos",
+              "answer": "RADICALISMO"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Hacer compatible el tiempo de trabajo y familia",
+              "answer": "CONCILIAR"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Atenderla a la loca, que está en el frente",
+              "answer": "DELANTERA"
+            },
+            "26": {
+              "col": 7,
+              "row": 4,
+              "clue": "Escrito que no lleva el nombre de su autor",
+              "answer": "ANONIMO"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "No te metas con esas materias o asuntos",
+              "answer": "TEMAS"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Típica barbacoa argentina",
+              "answer": "ASADO"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "1er país de América Latina en independizarse de España",
+              "answer": "HAITI"
+            },
+            "33": {
+              "col": 11,
+              "row": 5,
+              "clue": "El amor de un francés",
+              "answer": "AMOUR"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "País más septentrional del mundo",
+              "answer": "CANADA"
+            },
+            "39": {
+              "col": 1,
+              "row": 8,
+              "clue": "Se alteran como locos si es una opción diferente",
+              "answer": "ALTERNA"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Se enfadará o disgustará",
+              "answer": "ENOJARA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Usaba el secador",
+              "answer": "SECABA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "La 10 es la más extensa del Metro de Madrid",
+              "answer": "LINEA"
+            },
+            "49": {
+              "col": 9,
+              "row": 10,
+              "clue": "Mayor arteria del cuerpo",
+              "answer": "AORTA"
+            },
+            "52": {
+              "col": 3,
+              "row": 11,
+              "clue": "Lengua indoeuropea hablada en la parte meridional de la península itálica",
+              "answer": "OSCO"
+            },
+            "53": {
+              "col": 4,
+              "row": 11,
+              "clue": "Moneda de Tailandia",
+              "answer": "BAHT"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "Moneda de Arabia Saudí",
+              "answer": "RIAL"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Cualidad de los sonidos, que permite ordenarlos",
+              "answer": "TONO"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales de pintor ecuatoriano autor de 'Quito en rojo'",
+              "answer": "OG"
+            },
+            "63": {
+              "col": 12,
+              "row": 13,
+              "clue": "Las gemelas del ghetto",
+              "answer": "TT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"Mi primera…\" versión de Eladio Carrión",
+              "answer": "CHAMBA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Atribuir la responsabilidad",
+              "answer": "CULPAR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Se desmoronaría, la bolsa",
+              "answer": "CAERIA"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Protagonista de la saga Matrix",
+              "answer": "REEVES"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Mantra de exhalación",
+              "answer": "OM"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Ascenso vertiginoso hacia el éxito",
+              "answer": "METEORICO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Iniciales de la mexicana autora de 'Como agua para chocolate'",
+              "answer": "LE"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Infección por hongos",
+              "answer": "MICOSIS"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Pactar, conciliar",
+              "answer": "ACORDAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Viene subiendo un inglés",
+              "answer": "ENO"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sujetado, inmovilizado",
+              "answer": "ATADO"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Cola de salmonete",
+              "answer": "ETE"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Demasiada, mucha",
+              "answer": "TANTA"
+            },
+            "31": {
+              "col": 6,
+              "row": 5,
+              "clue": "Ciudad arqueológica entre Armenia y Turquía",
+              "answer": "ANI"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Tirón, movimiento rápido y fuerte",
+              "answer": "HALON"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Árbol cuya hoja está impresa en la bandera de Canadá (pl)",
+              "answer": "ARCES"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Acortamiento de documento",
+              "answer": "DOC"
+            },
+            "36": {
+              "col": 10,
+              "row": 6,
+              "clue": "Dicho de un avión: que se posó en el agua",
+              "answer": "AMARO"
+            },
+            "37": {
+              "col": 2,
+              "row": 7,
+              "clue": "Cualidad indispensable para soñar despierto",
+              "answer": "IMAGINACION"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Cortad metal o cualquier otra materia, en forma o dibujos",
+              "answer": "CALAD"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Ocre, mineral que se emplea en pintura",
+              "answer": "SIL"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Juego en que se cantan puntos reuniendo caballos y reyes (pl)",
+              "answer": "TUTES"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Pongo liso algo",
+              "answer": "ALISO"
+            },
+            "45": {
+              "col": 6,
+              "row": 9,
+              "clue": "Argot internauta: 'Too Much Information' (Demasiada información)",
+              "answer": "TMI"
+            },
+            "46": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"… Joliot Curie\", Nobel de química en 1935",
+              "answer": "IRENE"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "A finales los 90'",
+              "answer": "NTA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Salió alocada, ella es muy embrolladora",
+              "answer": "LIOSA"
+            },
+            "50": {
+              "col": 12,
+              "row": 10,
+              "clue": "Pedazo de roca",
+              "answer": "ROC"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Técnica gimnástica acompañada de música",
+              "answer": "AEROBIC"
+            },
+            "54": {
+              "col": 8,
+              "row": 11,
+              "clue": "Tela para cubrir a los muertos",
+              "answer": "MORTAJA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Iniciales del actor que interpreta a Harry Potter",
+              "answer": "DR"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Un manicomio cerca de San Antonio",
+              "answer": "SANATORIO"
+            },
+            "59": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dos de absenta, por favor",
+              "answer": "AB"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "Ayer en la noche",
+              "answer": "ANOCHE"
+            },
+            "62": {
+              "col": 9,
+              "row": 13,
+              "clue": "Escritos y prácticas sagradas hindúes y budistas",
+              "answer": "TANTRA"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Hago tantos partidos que ustedes se cansan",
+              "answer": "AGOTAN"
+            },
+            "65": {
+              "col": 8,
+              "row": 14,
+              "clue": "Bolilla que comunidades religiosas usan para votar",
+              "answer": "BALOTA"
+            }
+          }
+        },
+        "vertical_clues": "1-Andar\r\n2-Símbolo químico del helio\r\n3-Visto a alguien con sus armas\r\n4-Cereal de cuya semilla se hace pan\r\n5-Movía con fuerza, mezclaba\r\n7-Ácido de la orina\r\n8-Grito, lamento muy sonoro\r\n9-\"El remedio es… que la enfermedad\" \r\n10-Américo Vespucio\r\n11-Un investigador de la ONU\r\n12-El Halley (próximamente en el 2061) \r\n14-Humedad nocturna\r\n17-Rama de la matemática que analiza datos y calcula probabilidades\r\n18-Doctrina que busca cambios profundos y rápidos \r\n21-Hacer compatible el tiempo de trabajo y familia\r\n23-Atenderla a la loca, que está en el frente\r\n26-Escrito que no lleva el nombre de su autor\r\n29-No te metas con esas materias o asuntos\r\n30-Típica barbacoa argentina\r\n32-1er país de América Latina en independizarse de España\r\n33-El amor de un francés\r\n38-País más septentrional del mundo\r\n39-Se alteran como locos si es una opción diferente\r\n42-Se enfadará o disgustará\r\n43-Usaba el secador \r\n48-La 10 es la más extensa del Metro de Madrid\r\n49-Mayor arteria del cuerpo\r\n52-Lengua indoeuropea hablada en la parte meridional de la península itálica\r\n53-Moneda de Tailandia\r\n55-Moneda de Arabia Saudí\r\n56-Cualidad de los sonidos, que permite ordenarlos\r\n61-Iniciales de pintor ecuatoriano autor de 'Quito en rojo'\r\n63-Las gemelas del ghetto",
+        "horizontal_clues": "1-\"Mi primera…\" versión de Eladio Carrión\r\n6-Atribuir la responsabilidad \r\n12-Se desmoronaría, la bolsa\r\n13-Protagonista de la saga Matrix\r\n15-Mantra de exhalación\r\n16-Ascenso vertiginoso hacia el éxito \r\n19-Iniciales de la mexicana autora de 'Como agua para chocolate' \r\n20-Infección por hongos\r\n22-Pactar, conciliar\r\n24-Viene subiendo un inglés\r\n25-Sujetado, inmovilizado\r\n27-Cola de salmonete\r\n28-Demasiada, mucha\r\n31-Ciudad arqueológica entre Armenia y Turquía\r\n32-Tirón, movimiento rápido y fuerte\r\n34-Árbol cuya hoja está impresa en la bandera de Canadá (pl)\r\n35-Acortamiento de documento\r\n36-Dicho de un avión: que se posó en el agua\r\n37-Cualidad indispensable para soñar despierto \r\n38-Cortad metal o cualquier otra materia, en forma o dibujos\r\n40-Ocre, mineral que se emplea en pintura\r\n41-Juego en que se cantan puntos reuniendo caballos y reyes (pl)\r\n44-Pongo liso algo\r\n45-Argot internauta: 'Too Much Information' (Demasiada información) \r\n46-\"… Joliot Curie\", Nobel de química en 1935\r\n47-A finales los 90'\r\n48-Salió alocada, ella es muy embrolladora\r\n50-Pedazo de roca\r\n51-Técnica gimnástica acompañada de música\r\n54-Tela para cubrir a los muertos\r\n57-Iniciales del actor que interpreta a Harry Potter\r\n58-Un manicomio cerca de San Antonio\r\n59-Dos de absenta, por favor\r\n60-Ayer en la noche\r\n62-Escritos y prácticas sagradas hindúes y budistas\r\n64-Hago tantos partidos que ustedes se cansan\r\n65-Bolilla que comunidades religiosas usan para votar",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,#,6,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,16,#,#,17,#,18,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,25,#,26,#,#,#,#,27,#,#\r\n28,#,#,29,30,#,31,#,#,#,32,33,#,#,#\r\n34,#,#,#,#,#,35,#,#,#,36,#,#,#,#\r\n#,#,37,#,#,#,#,#,#,#,#,#,#,#,#\r\n38,39,#,#,#,#,40,#,#,#,41,#,#,42,43\r\n44,#,#,#,#,#,45,#,#,#,46,#,#,#,#\r\n47,#,#,#,#,48,#,#,#,49,#,#,50,#,#\r\n51,#,#,52,53,#,#,#,54,#,55,56,#,#,#\r\n57,#,#,58,#,#,#,#,#,#,#,#,#,59,#\r\n60,#,61,#,#,#,#,#,#,62,#,#,63,#,#\r\n#,64,#,#,#,#,#,#,65,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}

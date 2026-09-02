@@ -1,0 +1,481 @@
+{
+  "data": {
+    "id": 5857,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-05-15T17:54:45.112938Z",
+      "updatedAt": "2026-05-15T17:56:44.515331Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-05-17",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#NORMAS#PELARA#\r\nPAS##NATURALEZA\r\nAPAGAS#INTRIGAR\r\nROMERIA#KEGEL#T\r\nALENTADA##UNA#U\r\nMINI#SOL#TETRIS\r\nOTTO##BEBERA#NI\r\n#AA#VIAJERO#TS#\r\nEN#MORRAL##TOPA\r\nSOBARA#RIP#INIC\r\nP#ANA##ACEITERA\r\nU#RAGUS#ESCALAR\r\nMARGINAL#CASADO\r\nALIENIGENA##DOS\r\n#MORERA#FROTAR#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Natural de la ciudad italiana del Vesubio",
+              "answer": "NAPOLITANO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "El esqueleto de la osa tiene menta",
+              "answer": "OSAMENTA"
+            },
+            "3": {
+              "col": 5,
+              "row": 0,
+              "clue": "Angustia o aflicción del ánimo (pl)",
+              "answer": "ANSIAS"
+            },
+            "4": {
+              "col": 6,
+              "row": 0,
+              "clue": "Su alteza",
+              "answer": "SA"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Los Ramones o los Sex Pistols lo son",
+              "answer": "PUNK"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Despedido temporal",
+              "answer": "ERTE"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "El tubo horizontal superior de una portería",
+              "answer": "LARGUERO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Lo anima, lo invita a que cambie su mal aliento",
+              "answer": "ALIENTA"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Regular, reglamentar",
+              "answer": "REGLAR"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Beata \"Juana de…\", madre de Santo Domingo de Guzmán",
+              "answer": "AZA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Lugar frío y desamparado",
+              "answer": "PARAMO"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "\"Pellegrino…\" el padre de la cocina italiana moderna",
+              "answer": "ARTUSI"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Hombre con capacidad mental extraordinaria para crear e inventar",
+              "answer": "GENIO"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Escribe la carta sin márgenes",
+              "answer": "ART"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Aderezar, condimentar",
+              "answer": "ADOBAR"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "¿Se distanciará de Alejandra?, así parece",
+              "answer": "ALEJARA"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Arquitecta e influencer española",
+              "answer": "TER"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Estimulante, vivificante",
+              "answer": "INSPIRADOR"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "País que limita con México y Guatemala",
+              "answer": "BELICE"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Remolino de agua o torbellino de sentimientos",
+              "answer": "VORAGINE"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Pasión que condena a Dante Alighieri al quinto círculo del infierno",
+              "answer": "IRA"
+            },
+            "36": {
+              "col": 12,
+              "row": 7,
+              "clue": "Te doy un mal adelanto, esto pesa muchísimo, unos 1000 kg",
+              "answer": "TONELADA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Baño de burbujas, baño de…",
+              "answer": "ESPUMA"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "El que dirige al artista",
+              "answer": "MANAGER"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "Tías andaluzas",
+              "answer": "TITAS"
+            },
+            "40": {
+              "col": 14,
+              "row": 8,
+              "clue": "Arácnidos microscópicos, que habitan las fibras de las telas",
+              "answer": "ACAROS"
+            },
+            "42": {
+              "col": 2,
+              "row": 9,
+              "clue": "Limpió su zona, con la escoba",
+              "answer": "BARRIO"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "\"… en río revuelto\" aprovechar la situación para sacar un beneficio",
+              "answer": "PESCAR"
+            },
+            "48": {
+              "col": 10,
+              "row": 10,
+              "clue": "Ubica a la derecha",
+              "answer": "ICA"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "¿Desunir? No, al contrario",
+              "answer": "UNIR"
+            },
+            "51": {
+              "col": 6,
+              "row": 11,
+              "clue": "Historia de varias generaciones",
+              "answer": "SAGA"
+            },
+            "54": {
+              "col": 1,
+              "row": 12,
+              "clue": "Alma corroída",
+              "answer": "ALM"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "\"… Corbusier\" padre de la arquitectura moderna",
+              "answer": "LE"
+            },
+            "58": {
+              "col": 8,
+              "row": 13,
+              "clue": "Norman Foster, el arquitecto del Estadio de Wembley",
+              "answer": "NF"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Leyes, reglas",
+              "answer": "NORMAS"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Quitará la piel de una fruta",
+              "answer": "PELARA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Río que pasa por la comunidad de Cantabria",
+              "answer": "PAS"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "Esencia característica de cada ser",
+              "answer": "NATURALEZA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Extingues la llama",
+              "answer": "APAGAS"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Despertar curiosidad o misterio",
+              "answer": "INTRIGAR"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Fiesta en formato peregrinación",
+              "answer": "ROMERIA"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Ejercicios de contracción y relajación vaginal",
+              "answer": "KEGEL"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Animada y llena de energía",
+              "answer": "ALENTADA"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "Que no está dividida en sí misma",
+              "answer": "UNA"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "La falda de Mary Quant",
+              "answer": "MINI"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Nota musical",
+              "answer": "SOL"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Videojuego tipo puzle, compuesto por 7 tetraminós (1984)",
+              "answer": "TETRIS"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"… Mann\" el conductor del bus escolar en 'Los Simpson'",
+              "answer": "OTTO"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "Tomará como un bebé",
+              "answer": "BEBERA"
+            },
+            "32": {
+              "col": 13,
+              "row": 6,
+              "clue": "\"… tan calvo, … con dos pelucas\"",
+              "answer": "NI"
+            },
+            "33": {
+              "col": 1,
+              "row": 7,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Quien recorre tierras lejanas",
+              "answer": "VIAJERO"
+            },
+            "36": {
+              "col": 12,
+              "row": 7,
+              "clue": "Tribunal supremo",
+              "answer": "TS"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Gram Preposición que denota lugar",
+              "answer": "EN"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Mochila, saco",
+              "answer": "MORRAL"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "Tropieza, choca, colisiona",
+              "answer": "TOPA"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Le hará \"Cura, sana, colita de rana\", lo…",
+              "answer": "SOBARA"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Descanse en paz",
+              "answer": "RIP"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Abreviatura de \"Iniciales\"",
+              "answer": "INIC"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "\"… de Armas\" actriz cubano",
+              "answer": "ANA"
+            },
+            "47": {
+              "col": 7,
+              "row": 10,
+              "clue": "Lo aceitaré mejor si uso el frasco adecuado",
+              "answer": "ACEITERA"
+            },
+            "49": {
+              "col": 2,
+              "row": 11,
+              "clue": "Guiso de carne con patatas y verduras (pl)",
+              "answer": "RAGUS"
+            },
+            "52": {
+              "col": 8,
+              "row": 11,
+              "clue": "Calarás mejor si aprendes a trepar",
+              "answer": "ESCALAR"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Una nota escrita a los lados de un documento",
+              "answer": "MARGINAL"
+            },
+            "56": {
+              "col": 9,
+              "row": 12,
+              "clue": "Estado civil",
+              "answer": "CASADO"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "De muy, muy, muy, MUY lejano",
+              "answer": "ALIENIGENA"
+            },
+            "59": {
+              "col": 12,
+              "row": 13,
+              "clue": "Número asociado a dualidad del ser",
+              "answer": "DOS"
+            },
+            "60": {
+              "col": 1,
+              "row": 14,
+              "clue": "El árbol de la mora",
+              "answer": "MORERA"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Rozar repetidamente las manos",
+              "answer": "FROTAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Natural de la ciudad italiana del Vesubio \r\n2-El esqueleto de la osa tiene menta\r\n3-Angustia o aflicción del ánimo (pl)\r\n4-Su alteza\r\n5-Los Ramones o los Sex Pistols lo son\r\n6-Despedido temporal\r\n7-El tubo horizontal superior de una portería\r\n8-Lo anima, lo invita a que cambie su mal aliento\r\n9-Regular, reglamentar\r\n10-Beata \"Juana de…\", madre de Santo Domingo de Guzmán\r\n11-Lugar frío y desamparado \r\n13-Titanio\r\n14-\"Pellegrino…\" el padre de la cocina italiana moderna\r\n16-Hombre con capacidad mental extraordinaria para crear e inventar\r\n17-Escribe la carta sin márgenes\r\n20-Aderezar, condimentar\r\n23-¿Se distanciará de Alejandra?, así parece\r\n27-Arquitecta e influencer española\r\n28-Estimulante, vivificante \r\n31-País que limita con México y Guatemala\r\n34-Remolino de agua o torbellino de sentimientos\r\n35-Pasión que condena a Dante Alighieri al quinto círculo del infierno\r\n36-Te doy un mal adelanto, esto pesa muchísimo, unos 1000 kg\r\n37-Baño de burbujas, baño de…\r\n38-El que dirige al artista\r\n39-Tías andaluzas\r\n40-Arácnidos microscópicos, que habitan las fibras de las telas\r\n42-Limpió su zona, con la escoba\r\n44-\"… en río revuelto\" aprovechar la situación para sacar un beneficio\r\n48-Ubica a la derecha\r\n50-¿Desunir? No, al contrario\r\n51-Historia de varias generaciones\r\n54-Alma corroída\r\n55-\"… Corbusier\" padre de la arquitectura moderna\r\n58-Norman Foster, el arquitecto del Estadio de Wembley",
+        "horizontal_clues": "1-Leyes, reglas\r\n5-Quitará la piel de una fruta\r\n11-Río que pasa por la comunidad de Cantabria\r\n12-Esencia característica de cada ser\r\n15-Extingues la llama\r\n18-Despertar curiosidad o misterio \r\n19-Fiesta en formato peregrinación\r\n21-Ejercicios de contracción y relajación vaginal\r\n22-Animada y llena de energía \r\n24-Que no está dividida en sí misma\r\n25-La falda de Mary Quant\r\n26-Nota musical\r\n27-Videojuego tipo puzle, compuesto por 7 tetraminós (1984)\r\n29-\"… Mann\" el conductor del bus escolar en 'Los Simpson' \r\n30-Tomará como un bebé\r\n32-\"… tan calvo, … con dos pelucas\" \r\n33-Alcohólicos Anónimos\r\n34-Quien recorre tierras lejanas \r\n36-Tribunal supremo\r\n37-Gram Preposición que denota lugar\r\n38-Mochila, saco\r\n39-Tropieza, choca, colisiona\r\n41-Le hará \"Cura, sana, colita de rana\", lo…\r\n43-Descanse en paz\r\n45-Abreviatura de \"Iniciales\" \r\n46-\"… de Armas\" actriz cubano-española\r\n47-Lo aceitaré mejor si uso el frasco adecuado\r\n49-Guiso de carne con patatas y verduras (pl)\r\n52-Calarás mejor si aprendes a trepar\r\n53-Una nota escrita a los lados de un documento\r\n56-Estado civil\r\n57-De muy, muy, muy, MUY lejano\r\n59-Número asociado a dualidad del ser\r\n60-El árbol de la mora\r\n61-Rozar repetidamente las manos",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,#,#,3,4,#,5,6,7,8,9,10,#\r\n11,#,#,#,#,12,#,13,#,#,#,#,#,#,14\r\n15,#,#,16,17,#,#,18,#,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,21,#,#,#,#,#,#\r\n22,#,#,#,#,#,#,23,#,#,24,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,#,#,28,#\r\n29,#,#,#,#,#,30,#,31,#,#,#,#,32,#\r\n#,33,#,#,34,35,#,#,#,#,#,#,36,#,#\r\n37,#,#,38,#,#,#,#,#,#,#,39,#,#,40\r\n41,#,42,#,#,#,#,43,#,44,#,45,#,#,#\r\n#,#,46,#,#,#,#,47,#,#,48,#,#,#,#\r\n#,#,49,#,#,50,51,#,52,#,#,#,#,#,#\r\n53,54,#,#,#,#,#,55,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,59,#,#\r\n#,60,#,#,#,#,#,#,61,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
