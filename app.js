@@ -44,7 +44,20 @@ function entryAt(row, col, direction) { return Object.values(state.entries[direc
 function orderedEntries() { return ['across', 'down'].flatMap((direction) => Object.values(state.entries[direction]).sort((a, b) => Number(a.number) - Number(b.number)).map((entry) => ({ direction, entry }))); }
 function entriesInDirection(direction) { return Object.values(state.entries[direction]).sort((a, b) => Number(a.number) - Number(b.number)); }
 function moveToEntry(entry, index = 0, direction = state.direction) { state.direction = direction; const [row, col] = entry.cells[index].split(',').map(Number); selectCell(row, col, false); }
-function nextEntry() { const current = state.selected && entryAt(state.selected.row, state.selected.col, state.direction); const currentEntries = entriesInDirection(state.direction); const currentIndex = current ? currentEntries.findIndex((entry) => entry.number === current.number) : -1; if (currentIndex + 1 < currentEntries.length) return moveToEntry(currentEntries[currentIndex + 1]); const nextDirection = state.direction === 'across' ? 'down' : 'across'; const nextEntries = entriesInDirection(nextDirection); moveToEntry(nextEntries[0], 0, nextDirection); }
+function firstEmptyIndex(entry) { const index = entry.cells.findIndex((key) => !state.cells[key]?.dataset.value); return index === -1 ? null : index; }
+function nextIncompleteEntry(entries, startIndex) { for (let offset = 0; offset < entries.length; offset++) { const entry = entries[(startIndex + offset) % entries.length]; const index = firstEmptyIndex(entry); if (index !== null) return { entry, index }; } return null; }
+function nextEntry() {
+  const current = state.selected && entryAt(state.selected.row, state.selected.col, state.direction);
+  const currentEntries = entriesInDirection(state.direction);
+  const currentIndex = current ? currentEntries.findIndex((entry) => entry.number === current.number) : -1;
+  const next = nextIncompleteEntry(currentEntries, currentIndex + 1);
+  if (next && (!current || next.entry.number !== current.number)) return moveToEntry(next.entry, next.index, state.direction);
+  const nextDirection = state.direction === 'across' ? 'down' : 'across';
+  const nextEntries = entriesInDirection(nextDirection);
+  const nextDirectionEntry = nextIncompleteEntry(nextEntries, 0);
+  if (nextDirectionEntry) return moveToEntry(nextDirectionEntry.entry, nextDirectionEntry.index, nextDirection);
+  if (next && current) return moveToEntry(next.entry, next.index, state.direction);
+}
 function previousEntry() { const current = state.selected && entryAt(state.selected.row, state.selected.col, state.direction); const currentEntries = entriesInDirection(state.direction); const currentIndex = current ? currentEntries.findIndex((entry) => entry.number === current.number) : 0; if (currentIndex > 0) return moveToEntry(currentEntries[currentIndex - 1], currentEntries[currentIndex - 1].cells.length - 1); const previousDirection = state.direction === 'down' ? 'across' : 'down'; const previousEntries = entriesInDirection(previousDirection); moveToEntry(previousEntries[previousEntries.length - 1], previousEntries[previousEntries.length - 1].cells.length - 1, previousDirection); }
 function selectCell(row, col, toggle = true) {
   if (!state.cells[`${row},${col}`]) return; const across = entryAt(row, col, 'across'); const down = entryAt(row, col, 'down');
