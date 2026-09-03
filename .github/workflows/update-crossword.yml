@@ -25,7 +25,6 @@ jobs:
         run: |
           if [ "$(TZ=Europe/Madrid date +%H)" != "08" ]; then
             echo "Fuera de las 08:00 en horario de Madrid; no se actualiza."
-            exit 0
           fi
           TODAY=$(TZ=Europe/Madrid date +%F)
           python scrape_crucigramas.py --start "$TODAY" --end "$TODAY" --output crucigramas
