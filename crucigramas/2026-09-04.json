@@ -1,0 +1,457 @@
+{
+  "data": {
+    "id": 8714,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-09-03T20:27:49.377581Z",
+      "updatedAt": "2026-09-03T20:28:48.228497Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-04",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "RUABAN##CASIMIR\r\nAVRIL##DESUSADO\r\nSERES#CALAMARES\r\nCROL#POLOLA#TNE\r\nLAZO#IRISO#PITT\r\nE##ROCOLA#CENIT\r\n##AREOLA#CONICA\r\n#ASUSTA#LAMECA#\r\nAPOSTA#SALITA##\r\nROCIE#RODEAR##M\r\nASIA#MEMES#ABRE\r\nNTA#LITERA#CEOS\r\nCARBONARA#SILBE\r\nETOLOGIA##TOLAR\r\nLANEROS##SONADO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Arte usado para la pesca del coral",
+              "answer": "RASCLE"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Mujer que vende uvas",
+              "answer": "UVERA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Cereal cuyas terrazas de cultivo forman un paisaje con más de 2000 años",
+              "answer": "ARROZ"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "País de Europa Oriental oficialmente llamado República de Belarús",
+              "answer": "BIELORRUSIA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "La sal derramada",
+              "answer": "ALS"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Desconfiada, insegura",
+              "answer": "CELOSA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cocínalo, no te lo comas crudo",
+              "answer": "ASALO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Matemática: Resultado de añadir a una cantidad otra",
+              "answer": "SUMA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Con cariño a Isabel",
+              "answer": "ISA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Isla francesa del Caribe cuya capital es Fort-de-France",
+              "answer": "MARTINICA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Igualita",
+              "answer": "IDENTICA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Famosa piedra, clave para descifrar los jeroglíficos egipcios",
+              "answer": "ROSETTA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Mujer a la que amó Sansón y que fue su perdición",
+              "answer": "DALILA"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Botánica: Segundo verticilo de las flores completas",
+              "answer": "COROLA"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Columna de piedra donde se castigaba públicamente a los delincuentes",
+              "answer": "PICOTA"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "Acto de introducir un elemento dentro de otro elemento",
+              "answer": "PENETRACION"
+            },
+            "24": {
+              "col": 4,
+              "row": 5,
+              "clue": "Punto cardinal donde se oculta el sol",
+              "answer": "OESTE"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Se alimentaba",
+              "answer": "COMIA"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Unieron, sindicaron",
+              "answer": "ASOCIARON"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Carruaje",
+              "answer": "CALESA"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "El que renuncia a sus ideales o religión",
+              "answer": "APOSTATA"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Declive de un monte o de una altura",
+              "answer": "LADERA"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Te laceran injustamente con este impuesto",
+              "answer": "ARANCEL"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "Superficial, insubstancial",
+              "answer": "SOMERA"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Desafiáis a duelo",
+              "answer": "RETAIS"
+            },
+            "34": {
+              "col": 14,
+              "row": 9,
+              "clue": "Camarero",
+              "answer": "MESERO"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "La bola blanca del billar",
+              "answer": "MINGO"
+            },
+            "38": {
+              "col": 12,
+              "row": 10,
+              "clue": "La princesa de la Bestia",
+              "answer": "BELLA"
+            },
+            "39": {
+              "col": 13,
+              "row": 10,
+              "clue": "Tomad para sí, con violencia, lo ajeno",
+              "answer": "ROBAD"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Elogio, aplauso",
+              "answer": "LOOR"
+            },
+            "44": {
+              "col": 3,
+              "row": 12,
+              "clue": "Hablé en Poblenou",
+              "answer": "BLE"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Pequeño santo",
+              "answer": "STO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Circulaban por las calles",
+              "answer": "RUABAN"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Cachemir, tejido de lana de oveja tibetana",
+              "answer": "CASIMIR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"… Lavigne\", la princesa del pop punk",
+              "answer": "AVRIL"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Se dejó de usar por anticuado, está…",
+              "answer": "DESUSADO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Sujetos palindrómicos",
+              "answer": "SERES"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Molusco con pluma (pl)",
+              "answer": "CALAMARES"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Estilo de natación más rápido",
+              "answer": "CROL"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Chile Coloq Novia",
+              "answer": "POLOLA"
+            },
+            "19": {
+              "col": 12,
+              "row": 3,
+              "clue": "Tumores NeuroEndocrinos",
+              "answer": "TNE"
+            },
+            "20": {
+              "col": 0,
+              "row": 4,
+              "clue": "Nudo que se deshace tirando de uno de sus extremos",
+              "answer": "LAZO"
+            },
+            "21": {
+              "col": 5,
+              "row": 4,
+              "clue": "Reflejó los colores del arcoíris",
+              "answer": "IRISO"
+            },
+            "22": {
+              "col": 11,
+              "row": 4,
+              "clue": "El prota de la peli 'Bullet Train'",
+              "answer": "PITT"
+            },
+            "23": {
+              "col": 3,
+              "row": 5,
+              "clue": "Caja musical traga monedas",
+              "answer": "ROCOLA"
+            },
+            "25": {
+              "col": 10,
+              "row": 5,
+              "clue": "Apogeo, punto máximo de la gloria",
+              "answer": "CENIT"
+            },
+            "26": {
+              "col": 2,
+              "row": 6,
+              "clue": "Círculo rojizo que rodea el pezón del pecho",
+              "answer": "AREOLA"
+            },
+            "27": {
+              "col": 9,
+              "row": 6,
+              "clue": "Una cosa cuando tiene forma de cono",
+              "answer": "CONICA"
+            },
+            "28": {
+              "col": 1,
+              "row": 7,
+              "clue": "Espanta, aterroriza",
+              "answer": "ASUSTA"
+            },
+            "29": {
+              "col": 8,
+              "row": 7,
+              "clue": "Ciudad natal de Mahoma (2P)",
+              "answer": "LAMECA"
+            },
+            "30": {
+              "col": 0,
+              "row": 8,
+              "clue": "Adrede, con intención deliberada",
+              "answer": "APOSTA"
+            },
+            "31": {
+              "col": 7,
+              "row": 8,
+              "clue": "La sala de estar de una casa de muñecas",
+              "answer": "SALITA"
+            },
+            "32": {
+              "col": 0,
+              "row": 9,
+              "clue": "Esparcí mi caos recio",
+              "answer": "ROCIE"
+            },
+            "33": {
+              "col": 6,
+              "row": 9,
+              "clue": "Cercar algo poniéndolo en medio",
+              "answer": "RODEAR"
+            },
+            "35": {
+              "col": 0,
+              "row": 10,
+              "clue": "El más poblado de los continentes",
+              "answer": "ASIA"
+            },
+            "36": {
+              "col": 5,
+              "row": 10,
+              "clue": "Publicación gráfica y graciosa, difundida en redes (pl)",
+              "answer": "MEMES"
+            },
+            "37": {
+              "col": 11,
+              "row": 10,
+              "clue": "¿Cómo destapa el abrelatas roto?",
+              "answer": "ABRE"
+            },
+            "40": {
+              "col": 0,
+              "row": 11,
+              "clue": "A finales los 90'",
+              "answer": "NTA"
+            },
+            "41": {
+              "col": 4,
+              "row": 11,
+              "clue": "Dos camas, una encima de la otra",
+              "answer": "LITERA"
+            },
+            "42": {
+              "col": 11,
+              "row": 11,
+              "clue": "Directores ejecutivos",
+              "answer": "CEOS"
+            },
+            "43": {
+              "col": 0,
+              "row": 12,
+              "clue": "Tipo de salsa para pastas",
+              "answer": "CARBONARA"
+            },
+            "45": {
+              "col": 10,
+              "row": 12,
+              "clue": "Emití un sonido agudo, soplando con la boca",
+              "answer": "SILBE"
+            },
+            "46": {
+              "col": 0,
+              "row": 13,
+              "clue": "Disciplina que investiga las conductas instintivas de los seres vivos",
+              "answer": "ETOLOGIA"
+            },
+            "47": {
+              "col": 10,
+              "row": 13,
+              "clue": "Moneda oficial de Eslovenia hasta el 2007",
+              "answer": "TOLAR"
+            },
+            "48": {
+              "col": 0,
+              "row": 14,
+              "clue": "Almacenes donde se guarda lana",
+              "answer": "LANEROS"
+            },
+            "49": {
+              "col": 9,
+              "row": 14,
+              "clue": "Ha hecho ruido, ha…",
+              "answer": "SONADO"
+            }
+          }
+        },
+        "vertical_clues": "1-Arte usado para la pesca del coral\r\n2-Mujer que vende uvas\r\n3-Cereal cuyas terrazas de cultivo forman un paisaje con más de 2000 años\r\n4-País de Europa Oriental oficialmente llamado República de Belarús\r\n5-La sal derramada\r\n6-Desconfiada, insegura\r\n7-Cocínalo, no te lo comas crudo\r\n8-Matemática: Resultado de añadir a una cantidad otra\r\n9-Con cariño a Isabel\r\n10-Isla francesa del Caribe cuya capital es Fort-de-France\r\n11-Igualita\r\n12-Famosa piedra, clave para descifrar los jeroglíficos egipcios\r\n14-Mujer a la que amó Sansón y que fue su perdición\r\n16-Botánica: Segundo verticilo de las flores completas\r\n18-Columna de piedra donde se castigaba públicamente a los delincuentes\r\n22-Acto de introducir un elemento dentro de otro elemento\r\n24-Punto cardinal donde se oculta el sol\r\n25-Se alimentaba\r\n26-Unieron, sindicaron\r\n27-Carruaje\r\n28-El que renuncia a sus ideales o religión\r\n29-Declive de un monte o de una altura\r\n30-Te laceran injustamente con este impuesto\r\n31-Superficial, insubstancial\r\n33-Desafiáis a duelo\r\n34-Camarero\r\n36-La bola blanca del billar\r\n38-La princesa de la Bestia\r\n39-Tomad para sí, con violencia, lo ajeno\r\n41-Elogio, aplauso\r\n44-Hablé en Poblenou\r\n45-Pequeño santo",
+        "horizontal_clues": "1-Circulaban por las calles\r\n6-Cachemir, tejido de lana de oveja tibetana\r\n13-\"… Lavigne\", la princesa del pop punk\r\n14-Se dejó de usar por anticuado, está…\r\n15-Sujetos palindrómicos\r\n16-Molusco con pluma (pl)\r\n17-Estilo de natación más rápido\r\n18-Chile Coloq Novia\r\n19-Tumores NeuroEndocrinos\r\n20-Nudo que se deshace tirando de uno de sus extremos \r\n21-Reflejó los colores del arcoíris\r\n22-El prota de la peli 'Bullet Train'\r\n23-Caja musical traga monedas\r\n25-Apogeo, punto máximo de la gloria\r\n26-Círculo rojizo que rodea el pezón del pecho\r\n27-Una cosa cuando tiene forma de cono\r\n28-Espanta, aterroriza\r\n29-Ciudad natal de Mahoma (2P)\r\n30-Adrede, con intención deliberada\r\n31-La sala de estar de una casa de muñecas\r\n32-Esparcí mi caos recio\r\n33-Cercar algo poniéndolo en medio\r\n35-El más poblado de los continentes\r\n36-Publicación gráfica y graciosa, difundida en redes (pl)\r\n37-¿Cómo destapa el abrelatas roto? \r\n40-A finales los 90'\r\n41-Dos camas, una encima de la otra\r\n42-Directores ejecutivos\r\n43-Tipo de salsa para pastas\r\n45-Emití un sonido agudo, soplando con la boca\r\n46-Disciplina que investiga las conductas instintivas de los seres vivos \r\n47-Moneda oficial de Eslovenia hasta el 2007\r\n48-Almacenes donde se guarda lana\r\n49-Ha hecho ruido, ha…",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,#,6,7,8,9,10,11,12\r\n13,#,#,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,#,#,#,#,#,16,#,#,#,#,#,#,#,#\r\n17,#,#,#,#,18,#,#,#,#,#,#,19,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n#,#,#,23,24,#,#,#,#,#,25,#,#,#,#\r\n#,#,26,#,#,#,#,#,#,27,#,#,#,#,#\r\n#,28,#,#,#,#,#,#,29,#,#,#,#,#,#\r\n30,#,#,#,#,#,#,31,#,#,#,#,#,#,#\r\n32,#,#,#,#,#,33,#,#,#,#,#,#,#,34\r\n35,#,#,#,#,36,#,#,#,#,#,37,38,39,#\r\n40,#,#,#,41,#,#,#,#,#,#,42,#,#,#\r\n43,#,#,44,#,#,#,#,#,#,45,#,#,#,#\r\n46,#,#,#,#,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,#,#,#,#,#,#,49,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
