@@ -2,8 +2,7 @@ name: Actualizar crucigrama diario
 
 on:
   schedule:
-    - cron: "0 6 * * *"
-    - cron: "0 7 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,9 +22,6 @@ jobs:
 
       - name: Descargar crucigrama del día
         run: |
-          if [ "$(TZ=Europe/Madrid date +%H)" != "08" ]; then
-            echo "Fuera de las 08:00 en horario de Madrid; no se actualiza."
-          fi
           TODAY=$(TZ=Europe/Madrid date +%F)
           python scrape_crucigramas.py --start "$TODAY" --end "$TODAY" --output crucigramas
 
