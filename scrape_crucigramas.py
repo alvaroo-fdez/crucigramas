@@ -127,9 +127,24 @@ def main():
             skipped += 1
             continue
 
-        url = args.url_template.format(date=date_text)
         try:
-            payload = fetch_json(url, args.cookie, max(0, args.retries))
+            try:
+                payload = fetch_json(
+                    args.url_template.format(date=date_text),
+                    args.cookie,
+                    max(0, args.retries),
+                )
+            except HTTPError as error:
+                if error.code != 404:
+                    raise
+                print(
+                    f"INFO {date_text}: no existe por fecha; probando endpoint last",
+                )
+                payload = fetch_json(
+                    args.url_template.format(date="last"),
+                    args.cookie,
+                    max(0, args.retries),
+                )
             if not validate_puzzle(payload):
                 print(
                     f"SKIP {date_text}: JSON sin esquema de crucigrama", file=sys.stderr
