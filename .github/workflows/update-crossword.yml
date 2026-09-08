@@ -23,7 +23,20 @@ jobs:
       - name: Descargar crucigrama del día
         run: |
           TODAY=$(TZ=Europe/Madrid date +%F)
-          python scrape_crucigramas.py --start "$TODAY" --end "$TODAY" --output crucigramas
+          DESTINATION="crucigramas/$TODAY.json"
+          for attempt in {1..16}; do
+            python scrape_crucigramas.py --start "$TODAY" --end "$TODAY" --output crucigramas
+            if [ -f "$DESTINATION" ]; then
+              echo "Crucigrama disponible: $DESTINATION"
+              exit 0
+            fi
+            if [ "$attempt" -lt 16 ]; then
+              echo "Todavia no esta publicado; reintento $((attempt + 1))/16 en 15 minutos"
+              sleep 900
+            fi
+          done
+          echo "El crucigrama de $TODAY no estuvo disponible tras 4 horas" >&2
+          exit 1
 
       - name: Publicar cambios
         run: |
