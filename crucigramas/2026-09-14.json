@@ -1,0 +1,493 @@
+{
+  "data": {
+    "id": 8762,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-09-13T20:12:31.256300Z",
+      "updatedAt": "2026-09-13T20:13:57.767043Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-14",
+      "unpublishDate": null,
+      "customLogoUrl": {
+        "icon": ""
+      },
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ADAPTO#SOLTERAS\r\nPINAR#TOPE#LOTE\r\nOVULO#OB#EMITIR\r\nCADENETA#SOTANO\r\nR#ATESORE#SISAS\r\nIBRA#CRESTAS##A\r\nFO##ROA#CRIMEN#\r\nOCULUS###ACOPIA\r\n#ADEMAS#LBO##KN\r\nP##VORONIA#AVIE\r\nESTAR#SANJOSE#M\r\nGARNET#LEOPARDO\r\nALETEO#GA#ARMAN\r\nDEPA#PTAS#LAURA\r\nAMOROSOS#MONTES",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Un libro cuando es de dudosa veracidad",
+              "answer": "APOCRIFO"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Artista del mundo del espectáculo",
+              "answer": "DIVA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "¿Atar en Ruanda?",
+              "answer": "ANUDAR"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Omóplato, paletilla",
+              "answer": "PALETA"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "Me soné estruendosamente, por ejemplo, los dedos",
+              "answer": "TRONE"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Manosearé, tocaré con afecto a alguien",
+              "answer": "SOBARE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Ordenador portátil",
+              "answer": "OP"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Que patalees por perder a la oca",
+              "answer": "LEES"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Preferencia por un grupo selecto considerado superior",
+              "answer": "ELITISMO"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "¡Ostra! están partidas",
+              "answer": "ROTAS"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Anita regresa y acierta",
+              "answer": "ATINA"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Sustancia parecida al suero",
+              "answer": "SEROSA"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "\"Caballitos de…\" embarcación milenaria del Antiguo Perú",
+              "answer": "TOTORA"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Un trencadís inspirado en las musas",
+              "answer": "MOSAICO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Dejar de dar leche, la perra o la gata",
+              "answer": "ESCOSAR"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Tecla para salir de un programa",
+              "answer": "ESC"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Denominación de \"aperitivo\" en Centroamérica",
+              "answer": "BOCA"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Faena, labor",
+              "answer": "TRABAJO"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Difunda una noticia incierta",
+              "answer": "RUMOREE"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "Entrada épica",
+              "answer": "EP"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "F1 \"… Lauda\" después del accidente, ganó 2 títulos más",
+              "answer": "NIKI"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Subir algo un piso más",
+              "answer": "LEVANTAR"
+            },
+            "39": {
+              "col": 14,
+              "row": 7,
+              "clue": "Hogares en los arrecifes para peces payasos",
+              "answer": "ANEMONAS"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Susana Oria Silvestre",
+              "answer": "SOS"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Límites que el crayón de un niño no tiene problema en cruzar",
+              "answer": "LINEAS"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Peg está muy unida a Ada",
+              "answer": "PEGADA"
+            },
+            "46": {
+              "col": 7,
+              "row": 9,
+              "clue": "Salgan enloquecidos por los glúteos",
+              "answer": "NALGAS"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Cocinarán al fuego",
+              "answer": "ASARAN"
+            },
+            "48": {
+              "col": 12,
+              "row": 9,
+              "clue": "Vino macerado en hierbas, servido como aperitivo",
+              "answer": "VERMUT"
+            },
+            "50": {
+              "col": 1,
+              "row": 10,
+              "clue": "\"Las brujas de…\" de Arthur Miller",
+              "answer": "SALEM"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Subió a un lugar valiéndose de los pies y las manos",
+              "answer": "TREPO"
+            },
+            "53": {
+              "col": 10,
+              "row": 10,
+              "clue": "Piedra con varios colores",
+              "answer": "OPALO"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Prendas de vestir femeninas que cubren el pecho",
+              "answer": "TOPS"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Entregaré, donaré",
+              "answer": "DARE"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Al final del parto",
+              "answer": "TO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Ajusto, acoplo",
+              "answer": "ADAPTO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Soltarse sin control es mejor cuando no tienen novio",
+              "answer": "SOLTERAS"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Sitio o lugar poblado de pinos",
+              "answer": "PINAR"
+            },
+            "14": {
+              "col": 6,
+              "row": 1,
+              "clue": "Capacidad máxima",
+              "answer": "TOPE"
+            },
+            "15": {
+              "col": 11,
+              "row": 1,
+              "clue": "Conjunto de objetos similares que se agrupan",
+              "answer": "LOTE"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "La pelotita de la vida",
+              "answer": "OVULO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Obligatorias las dos primeras",
+              "answer": "OB"
+            },
+            "18": {
+              "col": 9,
+              "row": 2,
+              "clue": "Lanzar, el comunicado oficial",
+              "answer": "EMITIR"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Bordado con forma de eslabones enlazados",
+              "answer": "CADENETA"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Depósito subterráneo de cachivaches",
+              "answer": "SOTANO"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Reuní y guardé cosas de valor",
+              "answer": "ATESORE"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Quitas dinerito de la compra",
+              "answer": "SISAS"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Con cariño a Ibrahimović",
+              "answer": "IBRA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Carnosidad roja que tienen sobre la cabeza el gallo",
+              "answer": "CRESTAS"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Voz para expresar repudio a un mal olor",
+              "answer": "FO"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Mordisquee un hueso",
+              "answer": "ROA"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"Lugar del…\" al que siempre vuelve el asesino",
+              "answer": "CRIMEN"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "\"… reparo\" el hechizo que reparó las gafas de Harry",
+              "answer": "OCULUS"
+            },
+            "38": {
+              "col": 9,
+              "row": 7,
+              "clue": "Junta, reúne granos o provisiones",
+              "answer": "ACOPIA"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Adverbio que añade más información a la ya expuesta",
+              "answer": "ADEMAS"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "No silbó",
+              "answer": "LBO"
+            },
+            "43": {
+              "col": 13,
+              "row": 8,
+              "clue": "Símbolo del nudo (unidad de medida de velocidad)",
+              "answer": "KN"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "Segunda cueva más profunda de la Tierra, Abjasia",
+              "answer": "VORONIA"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Me arreglé para salir, me…",
+              "answer": "AVIE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Esta está sin conjugar",
+              "answer": "ESTAR"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Padre adoptivo de Jesús (2p)",
+              "answer": "SANJOSE"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Granate en inglés",
+              "answer": "GARNET"
+            },
+            "56": {
+              "col": 7,
+              "row": 11,
+              "clue": "Felino parecido al jaguar, pero más pequeño y ligero",
+              "answer": "LEOPARDO"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "El más veloz es el del colibrí",
+              "answer": "ALETEO"
+            },
+            "59": {
+              "col": 7,
+              "row": 12,
+              "clue": "Piel de gallina",
+              "answer": "GA"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Completan el puzle, lo…",
+              "answer": "ARMAN"
+            },
+            "61": {
+              "col": 0,
+              "row": 13,
+              "clue": "Apócope de departamento",
+              "answer": "DEPA"
+            },
+            "62": {
+              "col": 5,
+              "row": 13,
+              "clue": "Puertas recortadas",
+              "answer": "PTAS"
+            },
+            "64": {
+              "col": 10,
+              "row": 13,
+              "clue": "\"… Pausini\", cantautora italiana",
+              "answer": "LAURA"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "Hombres que denotan y manifiestan amor",
+              "answer": "AMOROSOS"
+            },
+            "66": {
+              "col": 9,
+              "row": 14,
+              "clue": "Terrenos elevados con vegetación silvestre",
+              "answer": "MONTES"
+            }
+          }
+        },
+        "vertical_clues": "1-Un libro cuando es de dudosa veracidad\r\n2-Artista del mundo del espectáculo\r\n3-¿Atar en Ruanda? \r\n4-Omóplato, paletilla\r\n5-Me soné estruendosamente, por ejemplo, los dedos\r\n6-Manosearé, tocaré con afecto a alguien\r\n7-Ordenador portátil\r\n8-Que patalees por perder a la oca\r\n9-Preferencia por un grupo selecto considerado superior\r\n10-¡Ostra! están partidas\r\n11-Anita regresa y acierta\r\n12-Sustancia parecida al suero\r\n14-\"Caballitos de…\" embarcación milenaria del Antiguo Perú\r\n19-Un trencadís inspirado en las musas\r\n21-Dejar de dar leche, la perra o la gata\r\n24-Tecla para salir de un programa\r\n27-Denominación de \"aperitivo\" en Centroamérica\r\n29-Faena, labor\r\n31-Difunda una noticia incierta\r\n33-Entrada épica \r\n34-F1 \"… Lauda\" después del accidente, ganó 2 títulos más\r\n36-Abreviatura de usted\r\n37-Subir algo un piso más\r\n39-Hogares en los arrecifes para peces payasos\r\n41-Susana Oria Silvestre\r\n42-Límites que el crayón de un niño no tiene problema en cruzar\r\n44-Peg está muy unida a Ada\r\n46-Salgan enloquecidos por los glúteos\r\n47-Cocinarán al fuego\r\n48-Vino macerado en hierbas, servido como aperitivo\r\n50-\"Las brujas de…\" de Arthur Miller \r\n51-Subió a un lugar valiéndose de los pies y las manos\r\n53-Piedra con varios colores\r\n55-Prendas de vestir femeninas que cubren el pecho\r\n57-Entregaré, donaré\r\n63-Al final del parto",
+        "horizontal_clues": "1-Ajusto, acoplo\r\n6-Soltarse sin control es mejor cuando no tienen novio\r\n13-Sitio o lugar poblado de pinos\r\n14-Capacidad máxima \r\n15-Conjunto de objetos similares que se agrupan\r\n16-La pelotita de la vida\r\n17-Obligatorias las dos primeras\r\n18-Lanzar, el comunicado oficial\r\n20-Bordado con forma de eslabones enlazados\r\n22-Depósito subterráneo de cachivaches\r\n23-Reuní y guardé cosas de valor\r\n25-Quitas dinerito de la compra\r\n26-Con cariño a Ibrahimović\r\n28-Carnosidad roja que tienen sobre la cabeza el gallo \r\n30-Voz para expresar repudio a un mal olor\r\n31-Mordisquee un hueso\r\n32-\"Lugar del…\" al que siempre vuelve el asesino\r\n35-\"… reparo\" el hechizo que reparó las gafas de Harry\r\n38-Junta, reúne granos o provisiones\r\n40-Adverbio que añade más información a la ya expuesta\r\n42-No silbó\r\n43-Símbolo del nudo (unidad de medida de velocidad)\r\n45-Segunda cueva más profunda de la Tierra, Abjasia\r\n47-Me arreglé para salir, me…\r\n49-Esta está sin conjugar\r\n52-Padre adoptivo de Jesús (2p) \r\n54-Granate en inglés\r\n56-Felino parecido al jaguar, pero más pequeño y ligero\r\n58-El más veloz es el del colibrí\r\n59-Piel de gallina\r\n60-Completan el puzle, lo…\r\n61-Apócope de departamento\r\n62-Puertas recortadas\r\n64-\"… Pausini\", cantautora italiana\r\n65-Hombres que denotan y manifiestan amor\r\n66-Terrenos elevados con vegetación silvestre",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,#,6,7,8,#,9,10,11,12\r\n13,#,#,#,#,#,14,#,#,#,#,15,#,#,#\r\n16,#,#,#,#,#,17,#,#,18,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,#,#,#,#\r\n#,#,23,#,#,#,#,#,24,#,25,#,#,#,#\r\n26,27,#,#,#,28,#,#,#,29,#,#,#,#,#\r\n30,#,#,#,31,#,#,#,32,#,#,#,33,34,#\r\n35,#,36,37,#,#,#,#,#,38,#,#,#,#,39\r\n#,40,#,#,#,#,41,#,42,#,#,#,#,43,#\r\n44,#,#,45,#,#,#,46,#,#,#,47,48,#,#\r\n49,50,51,#,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,56,#,#,#,#,#,57,#\r\n58,#,#,#,#,#,#,59,#,#,60,#,#,#,#\r\n61,#,#,#,#,62,63,#,#,#,64,#,#,#,#\r\n65,#,#,#,#,#,#,#,#,66,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
