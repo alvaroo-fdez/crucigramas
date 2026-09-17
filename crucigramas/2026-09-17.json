@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 8775,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-09-16T15:57:37.647983Z",
+      "updatedAt": "2026-09-16T15:59:28.826474Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-17",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#OKUPAS#ACAMPO#\r\nBRASERO#DETALLA\r\nRZ#UTILMENTE#VF\r\nUUU#OSTENTA#CIE\r\nTETA#TENOR#CADA\r\nALERTAR#MADURAR\r\nSONRISA#ALABARE\r\n##SUB#####KIM##\r\nAFILIAR#PLATERO\r\nTALLADO#RURALES\r\nELIO#VEDAN#LOSA\r\nNAO#HEREDAD#SIS\r\nEF#MARINEROS#DT\r\nREVERSA#REMEDIE\r\n#LISTON#ASEDIA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Pequeño absceso en la base de las pestañas",
+              "answer": "ORZUELO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Octava consonante del abecedario español",
+              "answer": "KA"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Estratovolcán activo situado en Hokkaido, Japón",
+              "answer": "USU"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Beisbol: Protección acolchada para el pecho del cácher",
+              "answer": "PETO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Líneas que unen los vértices consecutivos de los polígonos",
+              "answer": "ARISTAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Sin novio, la chica",
+              "answer": "SOLTERA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Med Tumor de estructura semejante al de las glándulas",
+              "answer": "ADENOMA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "“… Park\" el pulmón de la Gran Manzana",
+              "answer": "CENTRAL"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Princesa de la Colonia en la película \"Bichos\", de Disney",
+              "answer": "ATTA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Palabra emblemática de los costarricenses",
+              "answer": "MAE"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Iniciales del cantautor español del tema 'Tu enemigo'",
+              "answer": "PL"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "'Sepan que… lo malo también es tener memoria' Martín Fierro",
+              "answer": "OLVIDAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Toscas, de delicadas nada",
+              "answer": "BRUTAS"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Era fea, pero yo la pondré peor",
+              "answer": "AFEARE"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "\"X …\" con el sidneyés como Wolverine (Lobezno)",
+              "answer": "MEN"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Cosa que sirve para el uso manual y frecuente",
+              "answer": "UTENSILIO"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Llueven en las Cabalgatas de Reyes Magos",
+              "answer": "CARAMELOS"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Todavía le canto canciones a mi hija antes de dormir",
+              "answer": "ARRULLO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "El nervio de la suegra",
+              "answer": "CUBITAL"
+            },
+            "29": {
+              "col": 4,
+              "row": 5,
+              "clue": "Ni fría, ni caliente",
+              "answer": "TIBIA"
+            },
+            "31": {
+              "col": 10,
+              "row": 5,
+              "clue": "Rally de Arabia Saudita",
+              "answer": "DAKAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Mantener, guardar u observar algo",
+              "answer": "ATENER"
+            },
+            "37": {
+              "col": 1,
+              "row": 8,
+              "clue": "Croqueta de garbanzos o haba",
+              "answer": "FALAFEL"
+            },
+            "38": {
+              "col": 5,
+              "row": 8,
+              "clue": "Un efecto cuando es contrario",
+              "answer": "ADVERSO"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Quitarían con los dientes, la carne pegada a un hueso",
+              "answer": "ROERIAN"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Se derrapa trastornado por el pastizal",
+              "answer": "PRADERA"
+            },
+            "41": {
+              "col": 9,
+              "row": 8,
+              "clue": "Manchas producidas por una acumulación de pigmento en la piel",
+              "answer": "LUNARES"
+            },
+            "42": {
+              "col": 13,
+              "row": 8,
+              "clue": "Vivía en una casa",
+              "answer": "RESIDIA"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "¿Te atreviste?",
+              "answer": "OSASTE"
+            },
+            "48": {
+              "col": 7,
+              "row": 10,
+              "clue": "Otorguen, entreguen",
+              "answer": "DEN"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Herbert L A …\" filósofo jurista, autor del libro 'El concepto de derecho'",
+              "answer": "HART"
+            },
+            "52": {
+              "col": 10,
+              "row": 11,
+              "clue": "Calmé a la bestia",
+              "answer": "DOME"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Una de las doce partes en que se divide el año",
+              "answer": "MES"
+            },
+            "56": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"… de venganza\", necesidad",
+              "answer": "SED"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Observé, percibí con los ojos",
+              "answer": "VI"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Que propugnan la ocupación de viviendas deshabitadas",
+              "answer": "OKUPAS"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Pernoctó en una tienda de campaña al aire libre",
+              "answer": "ACAMPO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Sitio que se destinaba para quemar a ciertos condenados",
+              "answer": "BRASERO"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Especifica, pormenoriza",
+              "answer": "DETALLA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "En la cintura de Tarzán",
+              "answer": "RZ"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "De manera útil y provechosa",
+              "answer": "UTILMENTE"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Inic de la actriz que protagonizó la serie 'Pepa y Pepe' (1995)",
+              "answer": "VF"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Tres herraduras",
+              "answer": "UUU"
+            },
+            "22": {
+              "col": 4,
+              "row": 3,
+              "clue": "Hace gala de su poder",
+              "answer": "OSTENTA"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Ande hacia atrás, retroceda",
+              "answer": "CIE"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Órgano que secreta la leche",
+              "answer": "TETA"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Música: Voz media entre la de contralto y la de barítono",
+              "answer": "TENOR"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Conforme a",
+              "answer": "CADA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "No está bien alterar, es mejor prevenir",
+              "answer": "ALERTAR"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Crecer con buen juicio y sensatez",
+              "answer": "MADURAR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "La expresión de la alegría",
+              "answer": "SONRISA"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Le diré solo cosas buenas de su trabajo",
+              "answer": "ALABARE"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "Prefijo que indica posición inferior",
+              "answer": "SUB"
+            },
+            "35": {
+              "col": 10,
+              "row": 7,
+              "clue": "\"… Jong Un\" dictador de Corea del Norte",
+              "answer": "KIM"
+            },
+            "36": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sumar a alguien en una organización",
+              "answer": "AFILIAR"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "\"… y yo\", libro de Juan Ramón Jiménez, sobre un burrito",
+              "answer": "PLATERO"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Como esculpido, pero en madera",
+              "answer": "TALLADO"
+            },
+            "45": {
+              "col": 8,
+              "row": 9,
+              "clue": "Pertenecientes o relativos a la vida del campo y a sus labores",
+              "answer": "RURALES"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Película de Pixar sobre un niño fascinado por extraterrestres",
+              "answer": "ELIO"
+            },
+            "47": {
+              "col": 5,
+              "row": 10,
+              "clue": "Prohíben una ley",
+              "answer": "VEDAN"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Pieza fina de cerámica, para cubrir suelos",
+              "answer": "LOSA"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Nave, embarcación antigua",
+              "answer": "NAO"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Recibid la riqueza de tus padres",
+              "answer": "HEREDAD"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Sistema en crisis",
+              "answer": "SIS"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Inic Actor español con un Goya por actuar en 'En la ciudad'",
+              "answer": "EF"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Soldados del mar",
+              "answer": "MARINEROS"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Director Técnico (siglas)",
+              "answer": "DT"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Retroceso, marcha atrás",
+              "answer": "REVERSA"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Corregí o enmendé algo",
+              "answer": "REMEDIE"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "\"Poner el… alto\", subir el nivel",
+              "answer": "LISTON"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Cerca un lugar fortificado, para impedir que salgan quienes están en él.",
+              "answer": "ASEDIA"
+            }
+          }
+        },
+        "vertical_clues": "1-Pequeño absceso en la base de las pestañas\r\n2-Octava consonante del abecedario español\r\n3-Estratovolcán activo situado en Hokkaido, Japón\r\n4-Beisbol: Protección acolchada para el pecho del cácher\r\n5-Líneas que unen los vértices consecutivos de los polígonos\r\n6-Sin novio, la chica\r\n7-Med Tumor de estructura semejante al de las glándulas\r\n8-“… Park\" el pulmón de la Gran Manzana\r\n9-Princesa de la Colonia en la película \"Bichos\", de Disney\r\n10-Palabra emblemática de los costarricenses\r\n11-Iniciales del cantautor español del tema 'Tu enemigo'\r\n12-'Sepan que… lo malo también es tener memoria' Martín Fierro \r\n13-Toscas, de delicadas nada\r\n15-Era fea, pero yo la pondré peor\r\n18-\"X …\" con el sidneyés como Wolverine (Lobezno)\r\n21-Cosa que sirve para el uso manual y frecuente\r\n23-Llueven en las Cabalgatas de Reyes Magos\r\n25-Todavía le canto canciones a mi hija antes de dormir\r\n27-El nervio de la suegra\r\n29-Ni fría, ni caliente\r\n31-Rally de Arabia Saudita\r\n36-Mantener, guardar u observar algo\r\n37-Croqueta de garbanzos o haba\r\n38-Un efecto cuando es contrario\r\n39-Quitarían con los dientes, la carne pegada a un hueso\r\n40-Se derrapa trastornado por el pastizal\r\n41-Manchas producidas por una acumulación de pigmento en la piel\r\n42-Vivía en una casa\r\n43-¿Te atreviste? \r\n48-Otorguen, entreguen\r\n51-\"Herbert L A …\" filósofo jurista, autor del libro 'El concepto de derecho'\r\n52-Calmé a la bestia\r\n55-Una de las doce partes en que se divide el año\r\n56-\"… de venganza\", necesidad\r\n59-Observé, percibí con los ojos\r\n61-Pronuncia 501 en romano antiguo",
+        "horizontal_clues": "1-Que propugnan la ocupación de viviendas deshabitadas\r\n7-Pernoctó en una tienda de campaña al aire libre\r\n13-Sitio que se destinaba para quemar a ciertos condenados \r\n14-Especifica, pormenoriza\r\n16-En la cintura de Tarzán\r\n17-De manera útil y provechosa\r\n19-Inic de la actriz que protagonizó la serie 'Pepa y Pepe' (1995)\r\n20-Tres herraduras\r\n22-Hace gala de su poder\r\n23-Ande hacia atrás, retroceda\r\n24-Órgano que secreta la leche\r\n26-Música: Voz media entre la de contralto y la de barítono\r\n27-Conforme a\r\n28-No está bien alterar, es mejor prevenir\r\n30-Crecer con buen juicio y sensatez\r\n32-La expresión de la alegría\r\n33-Le diré solo cosas buenas de su trabajo\r\n34-Prefijo que indica posición inferior\r\n35-\"… Jong Un\" dictador de Corea del Norte\r\n36-Sumar a alguien en una organización\r\n40-\"… y yo\", libro de Juan Ramón Jiménez, sobre un burrito\r\n44-Como esculpido, pero en madera\r\n45-Pertenecientes o relativos a la vida del campo y a sus labores\r\n46-Película de Pixar sobre un niño fascinado por extraterrestres\r\n47-Prohíben una ley\r\n49-Pieza fina de cerámica, para cubrir suelos\r\n50-Nave, embarcación antigua\r\n51-Recibid la riqueza de tus padres\r\n53-Sistema en crisis\r\n54-Inic Actor español con un Goya por actuar en 'En la ciudad'\r\n55-Soldados del mar\r\n57-Director Técnico (siglas)\r\n58-Retroceso, marcha atrás\r\n60-Corregí o enmendé algo\r\n62-\"Poner el… alto\", subir el nivel\r\n63-Cerca un lugar fortificado, para impedir que salgan quienes están en él.",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,17,#,#,#,18,#,#,#,#,#,19,#\r\n20,#,21,#,22,#,#,#,#,#,#,#,23,#,#\r\n24,#,#,25,#,26,#,#,#,#,#,27,#,#,#\r\n28,#,#,#,29,#,#,#,30,#,31,#,#,#,#\r\n32,#,#,#,#,#,#,#,33,#,#,#,#,#,#\r\n#,#,34,#,#,#,#,#,#,#,35,#,#,#,#\r\n36,37,#,#,#,38,39,#,40,41,#,#,#,42,43\r\n44,#,#,#,#,#,#,#,45,#,#,#,#,#,#\r\n46,#,#,#,#,47,#,48,#,#,#,49,#,#,#\r\n50,#,#,#,51,#,#,#,#,#,52,#,53,#,#\r\n54,#,#,55,#,#,#,#,#,#,#,56,#,57,#\r\n58,#,59,#,#,#,#,#,60,#,#,#,61,#,#\r\n#,62,#,#,#,#,#,#,63,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
