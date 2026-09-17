@@ -32,8 +32,8 @@ h1 { font-size:clamp(23px,3vw,32px); line-height:1.05; }
 .cell .number { position:absolute; z-index:1; top:2px; left:2px; font-size:clamp(5px,.75vw,8px); color:rgba(34,34,34,.45); line-height:1; font-weight:400; pointer-events:none; }
 .cell.in-word { background:var(--word) !important; }
 .cell.selected { background:var(--focus); }
-.cell.correct { background:var(--cell); box-shadow:inset 0 -2px 0 rgba(104,176,123,.34); }
-.cell.wrong { background:var(--cell); box-shadow:inset 0 -2px 0 rgba(204,111,111,.34); }
+.cell.correct { background:var(--cell); box-shadow:inset 0 0 0 2px rgba(104,176,123,.48); }
+.cell.wrong { background:var(--cell); box-shadow:inset 0 0 0 2px rgba(204,111,111,.48); }
 .cell.selected { background:var(--focus) !important; box-shadow:none !important; }
 .clues-panel { display:grid; grid-template-columns:1fr 1fr; gap:18px; min-height:458px; overflow:hidden; }
 .clues-column { min-width:0; }
