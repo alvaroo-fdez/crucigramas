@@ -1,0 +1,479 @@
+{
+  "data": {
+    "id": 8803,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-09-21T23:25:34.545554Z",
+      "updatedAt": "2026-09-21T23:26:53.691463Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-22",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#RECABE#RACIMO#\r\nC#MISAEL#TETA#G\r\nOPINES#CLASISMO\r\nLITIGA#CAÑA#CAZ\r\nEPICURO#VENTANA\r\nGIRAR##TI#TIROS\r\nA###OPTAN#ERAJE\r\n#SAM#SUTIL#ESO#\r\nDIVOS#CUASI###H\r\nURANO#AA##MARCO\r\nCOLORIN#ALIVIAN\r\nAPI#BOEB#ATISBO\r\nDESCENSO#CASTER\r\nO#TETE#BORRAR#E\r\n#GALESA#CAERAS#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Lanzar, el comunicado oficial",
+              "answer": "EMITIR"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Lo admite con desvergüenza, es una descarada, es una…",
+              "answer": "CINICA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Pago mi póliza y quedo tranquila, me…",
+              "answer": "ASEGURO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Asentar algo sobre una base",
+              "answer": "BASAR"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Piel de elefante",
+              "answer": "EE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Te corresponde, es contigo, te…",
+              "answer": "ATAÑE"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Persona que ha perdido su empleo en la administración pública",
+              "answer": "CESANTE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "En pleno mitin",
+              "answer": "ITI"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Pieza adornada que oculta el rostro (pl)",
+              "answer": "MASCARAS"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Compartimos oficio o profesión",
+              "answer": "COLEGA"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Liga de Curiosos Crónicos",
+              "answer": "LCC"
+            },
+            "16": {
+              "col": 14,
+              "row": 1,
+              "clue": "Bailase toda la noche",
+              "answer": "GOZASE"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "Pis, orina",
+              "answer": "PIPI"
+            },
+            "20": {
+              "col": 8,
+              "row": 2,
+              "clue": "Mit Hija de Latino y esposa de Eneas",
+              "answer": "LAVINIA"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Un puñado, mejor de rosas que de nervios",
+              "answer": "MANOJO"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Lo eché al suelo, lo…",
+              "answer": "TIRE"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Graba un dibujo en la piel",
+              "answer": "TATUA"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Los bordes de las pizzas",
+              "answer": "PS"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Aves negras con pico muy grande y de vistosos colores",
+              "answer": "TUCANES"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "De chocolate, fresa o caramelo, el líquido que baña al helado",
+              "answer": "SIROPE"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "Fiador, garante",
+              "answer": "AVALISTA"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Mamífero cuadrumano",
+              "answer": "MONO"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Iniciales del creador de los jeans o vaqueros",
+              "answer": "LS"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Territorio del noble medieval",
+              "answer": "DUCADO"
+            },
+            "42": {
+              "col": 4,
+              "row": 8,
+              "clue": "Un granizado con una pajita argentina",
+              "answer": "SORBETE"
+            },
+            "44": {
+              "col": 10,
+              "row": 8,
+              "clue": "Duplicaré, calcaré",
+              "answer": "IMITARE"
+            },
+            "45": {
+              "col": 14,
+              "row": 8,
+              "clue": "\"… de Balzac\" autor de la novela 'Papá Goriot'",
+              "answer": "HONORE"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Dar noticia de algún hecho",
+              "answer": "AVISAR"
+            },
+            "50": {
+              "col": 12,
+              "row": 9,
+              "clue": "Trenza hecha de los tallos de ajos o cebollas",
+              "answer": "RISTRA"
+            },
+            "51": {
+              "col": 13,
+              "row": 9,
+              "clue": "Entra perfectamente",
+              "answer": "CABE"
+            },
+            "53": {
+              "col": 5,
+              "row": 10,
+              "clue": "Átomos que adquieren carga eléctrica",
+              "answer": "IONES"
+            },
+            "55": {
+              "col": 9,
+              "row": 10,
+              "clue": "Vicio físico o moral que marca a quien lo tiene",
+              "answer": "LACRA"
+            },
+            "58": {
+              "col": 7,
+              "row": 11,
+              "clue": "Fút \"… Voulgaris\" el nuevo dueño del Castellón",
+              "answer": "BOB"
+            },
+            "61": {
+              "col": 3,
+              "row": 12,
+              "clue": "Acortamiento de celular",
+              "answer": "CEL"
+            },
+            "65": {
+              "col": 8,
+              "row": 13,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Recogí información",
+              "answer": "RECABE"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Un conjunto de uvas",
+              "answer": "RACIMO"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Ángel mensajero",
+              "answer": "MISAEL"
+            },
+            "15": {
+              "col": 9,
+              "row": 1,
+              "clue": "Órgano que secreta la leche",
+              "answer": "TETA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Hagas públicas tus conclusiones al respecto",
+              "answer": "OPINES"
+            },
+            "19": {
+              "col": 7,
+              "row": 2,
+              "clue": "Discriminación por clase social",
+              "answer": "CLASISMO"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pelea en un juicio",
+              "answer": "LITIGA"
+            },
+            "23": {
+              "col": 7,
+              "row": 3,
+              "clue": "\"Meter…\" presionar para que aumenten la intensidad de la faena",
+              "answer": "CAÑA"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "Canal para tomar el agua y conducirla a donde es aprovechada",
+              "answer": "CAZ"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Filósofo griego relacionado con el hedonismo",
+              "answer": "EPICURO"
+            },
+            "26": {
+              "col": 8,
+              "row": 4,
+              "clue": "\"Los ojos son la… del alma\"",
+              "answer": "VENTANA"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Dar vueltas sobre su propio eje",
+              "answer": "GIRAR"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Disparos, detonaciones",
+              "answer": "TIROS"
+            },
+            "31": {
+              "col": 4,
+              "row": 6,
+              "clue": "Escogen, eligen por algo entre varias cosas",
+              "answer": "OPTAN"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "Miel virgen",
+              "answer": "ERAJE"
+            },
+            "35": {
+              "col": 1,
+              "row": 7,
+              "clue": "\"… Bigotes\" pistolero malhumorado de los Looney Tunes",
+              "answer": "SAM"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Delicado, suave, tenue",
+              "answer": "SUTIL"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "\"… que tú me das / es mucho más de lo que pido\" Jarabe de Palo",
+              "answer": "ESO"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Artistas hermosos y famosos",
+              "answer": "DIVOS"
+            },
+            "43": {
+              "col": 6,
+              "row": 8,
+              "clue": "Prefijo que significa casi",
+              "answer": "CUASI"
+            },
+            "46": {
+              "col": 0,
+              "row": 9,
+              "clue": "Dios primordial del cielo",
+              "answer": "URANO"
+            },
+            "47": {
+              "col": 6,
+              "row": 9,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "\"… Polo\", mercader y viajero italiano",
+              "answer": "MARCO"
+            },
+            "52": {
+              "col": 0,
+              "row": 10,
+              "clue": "Algo con muchos colores vivos",
+              "answer": "COLORIN"
+            },
+            "54": {
+              "col": 8,
+              "row": 10,
+              "clue": "Calman un dolor",
+              "answer": "ALIVIAN"
+            },
+            "56": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lápiz sin punta ni borrador",
+              "answer": "API"
+            },
+            "57": {
+              "col": 4,
+              "row": 11,
+              "clue": "Bebo chorreado",
+              "answer": "BOEB"
+            },
+            "59": {
+              "col": 9,
+              "row": 11,
+              "clue": "Asomo, muestra de los que se va a vislumbrar",
+              "answer": "ATISBO"
+            },
+            "60": {
+              "col": 0,
+              "row": 12,
+              "clue": "Escondes como loco el camino hacia abajo",
+              "answer": "DESCENSO"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Un comentador de Esports (voz inglesa)",
+              "answer": "CASTER"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Forma cariñosa de llamar a los hermanos varones",
+              "answer": "TETE"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Hacer desaparecer por cualquier medio",
+              "answer": "BORRAR"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Nacionalidad de la famosa actriz Catherine Zeta Jones",
+              "answer": "GALESA"
+            },
+            "67": {
+              "col": 8,
+              "row": 14,
+              "clue": "Darás de bruces con el piso",
+              "answer": "CAERAS"
+            }
+          }
+        },
+        "vertical_clues": "2-Lanzar, el comunicado oficial\r\n3-Lo admite con desvergüenza, es una descarada, es una…\r\n4-Pago mi póliza y quedo tranquila, me…\r\n5-Asentar algo sobre una base\r\n6-Piel de elefante\r\n8-Te corresponde, es contigo, te…\r\n9-Persona que ha perdido su empleo en la administración pública \r\n10-En pleno mitin\r\n11-Pieza adornada que oculta el rostro (pl)\r\n12-Compartimos oficio o profesión\r\n14-Liga de Curiosos Crónicos \r\n16-Bailase toda la noche\r\n18-Pis, orina\r\n20-Mit Hija de Latino y esposa de Eneas\r\n21-Un puñado, mejor de rosas que de nervios\r\n27-Lo eché al suelo, lo…\r\n29-Graba un dibujo en la piel\r\n32-Los bordes de las pizzas\r\n33-Aves negras con pico muy grande y de vistosos colores\r\n35-De chocolate, fresa o caramelo, el líquido que baña al helado\r\n36-Fiador, garante\r\n37-Mamífero cuadrumano\r\n39-Iniciales del creador de los jeans o vaqueros\r\n41-Territorio del noble medieval \r\n42-Un granizado con una pajita argentina\r\n44-Duplicaré, calcaré\r\n45-\"… de Balzac\" autor de la novela 'Papá Goriot'\r\n49-Dar noticia de algún hecho\r\n50-Trenza hecha de los tallos de ajos o cebollas\r\n51-Entra perfectamente\r\n53-Átomos que adquieren carga eléctrica\r\n55-Vicio físico o moral que marca a quien lo tiene\r\n58-Fút \"… Voulgaris\" el nuevo dueño del Castellón\r\n61-Acortamiento de celular\r\n65-Lengua provenzal",
+        "horizontal_clues": "1-Recogí información\r\n7-Un conjunto de uvas\r\n13-Ángel mensajero\r\n15-Órgano que secreta la leche\r\n17-Hagas públicas tus conclusiones al respecto\r\n19-Discriminación por clase social \r\n22-Pelea en un juicio\r\n23-\"Meter…\" presionar para que aumenten la intensidad de la faena\r\n24-Canal para tomar el agua y conducirla a donde es aprovechada\r\n25-Filósofo griego relacionado con el hedonismo\r\n26-\"Los ojos son la… del alma\" \r\n28-Dar vueltas sobre su propio eje\r\n29-Titanio\r\n30-Disparos, detonaciones\r\n31-Escogen, eligen por algo entre varias cosas\r\n34-Miel virgen\r\n35-\"… Bigotes\" pistolero malhumorado de los Looney Tunes\r\n38-Delicado, suave, tenue\r\n40-\"… que tú me das / es mucho más de lo que pido\" Jarabe de Palo\r\n41-Artistas hermosos y famosos\r\n43-Prefijo que significa casi\r\n46-Dios primordial del cielo\r\n47-Alcohólicos Anónimos\r\n48-\"… Polo\", mercader y viajero italiano\r\n52-Algo con muchos colores vivos\r\n54-Calman un dolor\r\n56-Lápiz sin punta ni borrador\r\n57-Bebo chorreado \r\n59-Asomo, muestra de los que se va a vislumbrar\r\n60-Escondes como loco el camino hacia abajo\r\n62-Un comentador de Esports (voz inglesa) \r\n63-Forma cariñosa de llamar a los hermanos varones\r\n64-Hacer desaparecer por cualquier medio\r\n66-Nacionalidad de la famosa actriz Catherine Zeta Jones\r\n67-Darás de bruces con el piso",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,#\r\n12,#,13,#,#,#,#,14,#,15,#,#,#,#,16\r\n17,18,#,#,#,#,#,19,20,#,#,#,#,21,#\r\n22,#,#,#,#,#,#,23,#,#,#,#,24,#,#\r\n25,#,#,#,#,#,#,#,26,#,#,27,#,#,#\r\n28,#,#,#,#,#,#,29,#,#,30,#,#,#,#\r\n#,#,#,#,31,32,33,#,#,#,34,#,#,#,#\r\n#,35,36,37,#,38,#,#,#,39,#,40,#,#,#\r\n41,#,#,#,42,#,43,#,#,#,44,#,#,#,45\r\n46,#,#,#,#,#,47,#,#,#,48,49,50,51,#\r\n52,#,#,#,#,53,#,#,54,55,#,#,#,#,#\r\n56,#,#,#,57,#,#,58,#,59,#,#,#,#,#\r\n60,#,#,61,#,#,#,#,#,62,#,#,#,#,#\r\n#,#,63,#,#,#,#,64,65,#,#,#,#,#,#\r\n#,66,#,#,#,#,#,#,67,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
