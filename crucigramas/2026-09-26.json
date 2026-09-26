@@ -1,0 +1,473 @@
+{
+  "data": {
+    "id": 8980,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-09-25T20:31:54.139034Z",
+      "updatedAt": "2026-09-25T20:31:54.139050Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-26",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CAOS#ATAJA#DNI\r\nBASCAP#ERUPCION\r\nREPARE#RIAN#GIM\r\nIRISAN#RENE#IRO\r\nLECO#AZOTEA#T#L\r\nL###FLORES#GALA\r\nOPOSITO###VALOR\r\n#U#ANIMACION#S#\r\nDANGO###INSERTO\r\nERIA#PUENTE###S\r\nS#T#POTTER#CENE\r\nAPI#ARON#IRONIA\r\nTED#JOPE#GASTAR\r\nADEFESIO#ALTEZA\r\nDIZ#SOASA#AERO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Me iré directo al suelo",
+              "answer": "CAERE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Plato frío de carne cubierto de gelatina en un molde",
+              "answer": "ASPIC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Puesta del Sol",
+              "answer": "OCASO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"… Baras\", bailadora flamenca española",
+              "answer": "SARA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Género cinematográfico, que da miedo",
+              "answer": "TERROR"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tronco que usaban para derribar las puertas",
+              "answer": "ARIETE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cantautor colombiano de la canción \"A Dios le pido\"",
+              "answer": "JUANES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Deporte subacuático",
+              "answer": "APNEA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"Huella…\" el registro de todo lo que haces en línea",
+              "answer": "DIGITAL"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "El perfume negro de Tom Ford",
+              "answer": "NOIR"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Se va a sacrificar a Molinar en limonar, que inmoral",
+              "answer": "INMOLAR"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Lo más hermoso de las estrellas",
+              "answer": "BRILLO"
+            },
+            "14": {
+              "col": 5,
+              "row": 1,
+              "clue": "Fútbol Sanción, tras cometer una falta dentro del área",
+              "answer": "PENALTI"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Acercar la imagen, hacer… (voz inglesa)",
+              "answer": "ZOOM"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Exquisito, elegante",
+              "answer": "FINO"
+            },
+            "26": {
+              "col": 11,
+              "row": 5,
+              "clue": "\"Raspé y…\" en la lotería",
+              "answer": "GANE"
+            },
+            "27": {
+              "col": 13,
+              "row": 5,
+              "clue": "Perdidos por esta serie",
+              "answer": "LOST"
+            },
+            "29": {
+              "col": 1,
+              "row": 6,
+              "clue": "Pura y desordenada",
+              "answer": "PUAR"
+            },
+            "30": {
+              "col": 3,
+              "row": 6,
+              "clue": "Historia de varias generaciones",
+              "answer": "SAGA"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "Versión Original Subtitulada en Español",
+              "answer": "VOSE"
+            },
+            "33": {
+              "col": 8,
+              "row": 7,
+              "clue": "El séptimo arte",
+              "answer": "CINE"
+            },
+            "34": {
+              "col": 9,
+              "row": 7,
+              "clue": "Elemento narrativo asociado a la ocultación de información y embrollos",
+              "answer": "INTRIGA"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Soltad las amarras",
+              "answer": "DESATAD"
+            },
+            "36": {
+              "col": 2,
+              "row": 8,
+              "clue": "Claridad, perfección, pureza",
+              "answer": "NITIDEZ"
+            },
+            "38": {
+              "col": 14,
+              "row": 8,
+              "clue": "Espantará a las aves domésticas",
+              "answer": "OSEARA"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "Tiene muchos huequitos",
+              "answer": "POROSO"
+            },
+            "41": {
+              "col": 6,
+              "row": 9,
+              "clue": "Una idea fantástica e inalcanzable",
+              "answer": "UTOPIA"
+            },
+            "42": {
+              "col": 7,
+              "row": 9,
+              "clue": "Relativos al volcán Etna, en Sicilia",
+              "answer": "ETNEOS"
+            },
+            "43": {
+              "col": 4,
+              "row": 10,
+              "clue": "Escuderos",
+              "answer": "PAJES"
+            },
+            "44": {
+              "col": 11,
+              "row": 10,
+              "clue": "Conjunto de gastos para la producción de bienes y servicios",
+              "answer": "COSTE"
+            },
+            "45": {
+              "col": 12,
+              "row": 10,
+              "clue": "Tecla para indicar el fin de una cadena de caracteres de entrada",
+              "answer": "ENTER"
+            },
+            "46": {
+              "col": 13,
+              "row": 10,
+              "clue": "Montón grande de paja o heno",
+              "answer": "NIAZO"
+            },
+            "48": {
+              "col": 1,
+              "row": 11,
+              "clue": "Solicité",
+              "answer": "PEDI"
+            },
+            "51": {
+              "col": 10,
+              "row": 11,
+              "clue": "Coloquial El Salvador Aguada",
+              "answer": "RALA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"El… no es un foso, es una escalera\" Meñique en 'Juego de Tronos'",
+              "answer": "CAOS"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Atrapa el balón en el aire",
+              "answer": "ATAJA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Carné de identidad",
+              "answer": "DNI"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Org internacional contra la falsificación y la piratería",
+              "answer": "BASCAP"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Emisión líquida de un volcán",
+              "answer": "ERUPCION"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Enmendé, corregí o remedié",
+              "answer": "REPARE"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Celebren con risa algo",
+              "answer": "RIAN"
+            },
+            "18": {
+              "col": 12,
+              "row": 2,
+              "clue": "Alga comestible de Corea, parecido al nori japonés",
+              "answer": "GIM"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Presentan reflejos de luz con colores semejantes al arco iris",
+              "answer": "IRISAN"
+            },
+            "20": {
+              "col": 7,
+              "row": 3,
+              "clue": "Fue el vocalista de Calle 13",
+              "answer": "RENE"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Río revuelto",
+              "answer": "IRO"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Grito, lamento muy sonoro",
+              "answer": "LECO"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "Techo de un edificio",
+              "answer": "AZOTEA"
+            },
+            "25": {
+              "col": 4,
+              "row": 5,
+              "clue": "Obsequio romántico (pl)",
+              "answer": "FLORES"
+            },
+            "26": {
+              "col": 11,
+              "row": 5,
+              "clue": "Fiesta en la que se exige vestido especial de esta clase",
+              "answer": "GALA"
+            },
+            "28": {
+              "col": 0,
+              "row": 6,
+              "clue": "Examinó para funcionario",
+              "answer": "OPOSITO"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"… pero se necesita aún más__ para enfrentarnos a nuestros amigos\" Dumbledore",
+              "answer": "VALOR"
+            },
+            "32": {
+              "col": 3,
+              "row": 7,
+              "clue": "Porrismo, cheerleading",
+              "answer": "ANIMACION"
+            },
+            "35": {
+              "col": 0,
+              "row": 8,
+              "clue": "Dulce japonés Pincho con bolitas de harina de arroz",
+              "answer": "DANGO"
+            },
+            "37": {
+              "col": 8,
+              "row": 8,
+              "clue": "Elemento incluido dentro de otro mayor",
+              "answer": "INSERTO"
+            },
+            "39": {
+              "col": 0,
+              "row": 9,
+              "clue": "Terreno grande perteneciente a varios dueños",
+              "answer": "ERIA"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "\"Tito …\", conocido como El Rey de los timbales",
+              "answer": "PUENTE"
+            },
+            "43": {
+              "col": 4,
+              "row": 10,
+              "clue": "El mago más popular de Hogwarts",
+              "answer": "POTTER"
+            },
+            "44": {
+              "col": 11,
+              "row": 10,
+              "clue": "Probé bocado como a las 20 h",
+              "answer": "CENE"
+            },
+            "47": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lápiz sin punta ni borrador",
+              "answer": "API"
+            },
+            "49": {
+              "col": 4,
+              "row": 11,
+              "clue": "Anillo que sirve para el juego de la argolla",
+              "answer": "ARON"
+            },
+            "50": {
+              "col": 9,
+              "row": 11,
+              "clue": "Burla fina y disimulada",
+              "answer": "IRONIA"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"…Lasso\" premiada serie de comedia",
+              "answer": "TED"
+            },
+            "53": {
+              "col": 4,
+              "row": 12,
+              "clue": "¡Joder! un eufemismo",
+              "answer": "JOPE"
+            },
+            "54": {
+              "col": 9,
+              "row": 12,
+              "clue": "Es normal derrochar si tragas descontrolado",
+              "answer": "GASTAR"
+            },
+            "55": {
+              "col": 0,
+              "row": 13,
+              "clue": "Persona o cosa ridícula, extravagante o muy fea",
+              "answer": "ADEFESIO"
+            },
+            "56": {
+              "col": 9,
+              "row": 13,
+              "clue": "Tratamiento real para la princesa y la infanta",
+              "answer": "ALTEZA"
+            },
+            "57": {
+              "col": 0,
+              "row": 14,
+              "clue": "¡Dizque no tiene preguntas!",
+              "answer": "DIZ"
+            },
+            "58": {
+              "col": 4,
+              "row": 14,
+              "clue": "Asa ligeramente algo",
+              "answer": "SOASA"
+            },
+            "59": {
+              "col": 10,
+              "row": 14,
+              "clue": "Prefijo que refiere al aire",
+              "answer": "AERO"
+            }
+          }
+        },
+        "vertical_clues": "1-Me iré directo al suelo\r\n2-Plato frío de carne cubierto de gelatina en un molde\r\n3-Puesta del Sol\r\n4-\"… Baras\", bailadora flamenca española\r\n6-Género cinematográfico, que da miedo\r\n7-Tronco que usaban para derribar las puertas\r\n8-Cantautor colombiano de la canción \"A Dios le pido\" \r\n9-Deporte subacuático\r\n10-\"Huella…\" el registro de todo lo que haces en línea\r\n11-El perfume negro de Tom Ford\r\n12-Se va a sacrificar a Molinar en limonar, que inmoral\r\n13-Lo más hermoso de las estrellas\r\n14-Fútbol Sanción, tras cometer una falta dentro del área\r\n24-Acercar la imagen, hacer… (voz inglesa) \r\n25-Exquisito, elegante\r\n26-\"Raspé y…\" en la lotería\r\n27-Perdidos por esta serie \r\n29-Pura y desordenada\r\n30-Historia de varias generaciones\r\n31-Versión Original Subtitulada en Español \r\n33-El séptimo arte\r\n34-Elemento narrativo asociado a la ocultación de información y embrollos\r\n35-Soltad las amarras\r\n36-Claridad, perfección, pureza\r\n38-Espantará a las aves domésticas\r\n40-Tiene muchos huequitos\r\n41-Una idea fantástica e inalcanzable\r\n42-Relativos al volcán Etna, en Sicilia\r\n43-Escuderos\r\n44-Conjunto de gastos para la producción de bienes y servicios\r\n45-Tecla para indicar el fin de una cadena de caracteres de entrada\r\n46-Montón grande de paja o heno\r\n48-Solicité\r\n51-Coloquial El Salvador Aguada\r\n",
+        "horizontal_clues": "1-\"El… no es un foso, es una escalera\" Meñique en 'Juego de Tronos'\r\n5-Atrapa el balón en el aire\r\n10-Carné de identidad\r\n13-Org internacional contra la falsificación y la piratería\r\n15-Emisión líquida de un volcán \r\n16-Enmendé, corregí o remedié\r\n17-Celebren con risa algo\r\n18-Alga comestible de Corea, parecido al nori japonés\r\n19-Presentan reflejos de luz con colores semejantes al arco iris\r\n20-Fue el vocalista de Calle 13 \r\n21-Río revuelto\r\n22-Grito, lamento muy sonoro\r\n23-Techo de un edificio\r\n25-Obsequio romántico (pl)\r\n26-Fiesta en la que se exige vestido especial de esta clase\r\n28-Examinó para funcionario\r\n31-\"… pero se necesita aún más__ para enfrentarnos a nuestros amigos\" Dumbledore\r\n32-Porrismo, cheerleading \r\n35-Dulce japonés Pincho con bolitas de harina de arroz\r\n37-Elemento incluido dentro de otro mayor \r\n39-Terreno grande perteneciente a varios dueños\r\n40-\"Tito …\", conocido como El Rey de los timbales\r\n43-El mago más popular de Hogwarts\r\n44-Probé bocado como a las 20 h\r\n47-Lápiz sin punta ni borrador\r\n49-Anillo que sirve para el juego de la argolla\r\n50-Burla fina y disimulada\r\n52-\"…Lasso\" premiada serie de comedia\r\n53-¡Joder! un eufemismo\r\n54-Es normal derrochar si tragas descontrolado\r\n55-Persona o cosa ridícula, extravagante o muy fea\r\n56-Tratamiento real para la princesa y la infanta\r\n57-¡Dizque no tiene preguntas! \r\n58-Asa ligeramente algo\r\n59-Prefijo que refiere al aire\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,5,6,7,8,9,#,10,11,12\r\n13,#,#,#,#,14,#,15,#,#,#,#,#,#,#\r\n16,#,#,#,#,#,#,17,#,#,#,#,18,#,#\r\n19,#,#,#,#,#,#,20,#,#,#,#,21,#,#\r\n22,#,#,#,#,23,24,#,#,#,#,#,#,#,#\r\n#,#,#,#,25,#,#,#,#,#,#,26,#,27,#\r\n28,29,#,30,#,#,#,#,#,#,31,#,#,#,#\r\n#,#,#,32,#,#,#,#,33,34,#,#,#,#,#\r\n35,#,36,#,#,#,#,#,37,#,#,#,#,#,38\r\n39,#,#,#,#,40,41,42,#,#,#,#,#,#,#\r\n#,#,#,#,43,#,#,#,#,#,#,44,45,46,#\r\n47,48,#,#,49,#,#,#,#,50,51,#,#,#,#\r\n52,#,#,#,53,#,#,#,#,54,#,#,#,#,#\r\n55,#,#,#,#,#,#,#,#,56,#,#,#,#,#\r\n57,#,#,#,58,#,#,#,#,#,59,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
