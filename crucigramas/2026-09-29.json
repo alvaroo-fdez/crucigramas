@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 9026,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-09-28T21:09:51.105753Z",
+      "updatedAt": "2026-09-28T21:11:47.146681Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-09-29",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BRONCA#AFASIA#\r\nCAMPO#CEM#SHERA\r\nOB#ATAHUALPA#MF\r\nPESCA#INN#ARMAR\r\nLOTA#ACUSE#KANI\r\nA#U#ALACETS#R#C\r\nSPRINT#O#EOLICA\r\n#ARQUEO#ARJONA#\r\nGEISER#C#NACERA\r\nA#D#LATIDOS#R#G\r\nMEGA#DEBES#TOUR\r\nBREGA#RDT#BOSSA\r\nIA#UBICARIAN#UD\r\nAJEAR#IDA#SABRE\r\n#EUROPA#SIERVO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Se me sale la baba, me…",
+              "answer": "BABEO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Iniciales de puertorriqueño que canta \"Livin' la vida loca\"",
+              "answer": "RM"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Sin brillo",
+              "answer": "OPACA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Calificación, puntaje",
+              "answer": "NOTA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Saca el agua de una bomba",
+              "answer": "ACHICA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Calmé a las bestias, las…",
+              "answer": "AMANSE"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Cada uno de los brazos de un molino",
+              "answer": "ASPA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Tiburón en inglés",
+              "answer": "SHARK"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Siglas del primer navegador de Microsoft",
+              "answer": "IE"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Completan el puzle, lo…",
+              "answer": "ARMAN"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Combinación métrica o estrofa (pl)",
+              "answer": "COPLAS"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Hombre castrado",
+              "answer": "EUNUCO"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Waka waka (Esto es…) canción del Mundial 2010",
+              "answer": "AFRICA"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "\"Tom…\" actor británico prota de la serie \"The Sandman\" de Neil Gaiman",
+              "answer": "STURRIDGE"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Soldados del mar",
+              "answer": "MARINEROS"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Perturbad, trastornad, inquietad",
+              "answer": "ALTERAD"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Interminables",
+              "answer": "ETERNOS"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "\"… AA\" cantante boricua de trap, Top 10 de artistas más escuchados",
+              "answer": "ANUEL"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Principal cultivo de Argentina (pl)",
+              "answer": "SOJAS"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Puntos de Atención al Emprendedor",
+              "answer": "PAE"
+            },
+            "32": {
+              "col": 3,
+              "row": 6,
+              "clue": "Saludos al Instituto Químico de Sarría",
+              "answer": "IQS"
+            },
+            "34": {
+              "col": 11,
+              "row": 6,
+              "clue": "Bloc sin tapa",
+              "answer": "LOC"
+            },
+            "35": {
+              "col": 13,
+              "row": 6,
+              "clue": "\"Fast…\" famosa canción de Tracy Chapman",
+              "answer": "CAR"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "País africano cuya capital es Banjul",
+              "answer": "GAMBIA"
+            },
+            "39": {
+              "col": 7,
+              "row": 8,
+              "clue": "Forma muy antigua de decir 'ciudad'",
+              "answer": "CIBDAD"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Le caí bien, le…",
+              "answer": "AGRADE"
+            },
+            "43": {
+              "col": 6,
+              "row": 9,
+              "clue": "Tercera parte de una vara",
+              "answer": "TERCIA"
+            },
+            "44": {
+              "col": 8,
+              "row": 9,
+              "clue": "Por la parte posterior",
+              "answer": "DETRAS"
+            },
+            "46": {
+              "col": 1,
+              "row": 10,
+              "clue": "Miel virgen",
+              "answer": "ERAJE"
+            },
+            "47": {
+              "col": 3,
+              "row": 10,
+              "clue": "Rebajar con agua la chispa de la fiesta",
+              "answer": "AGUAR"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "El ratón del antro se pone a arrojar rayos",
+              "answer": "TONAR"
+            },
+            "50": {
+              "col": 13,
+              "row": 10,
+              "clue": "Gano excesivos intereses en un préstamo",
+              "answer": "USURO"
+            },
+            "52": {
+              "col": 4,
+              "row": 11,
+              "clue": "Extiendo, despliego",
+              "answer": "ABRO"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "Beisbol: Almohadilla en los vértices del diamante",
+              "answer": "BASE"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Símbolo químico del europio",
+              "answer": "EU"
+            },
+            "62": {
+              "col": 12,
+              "row": 13,
+              "clue": "Buen viaje",
+              "answer": "BV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cobran bien cabrón por el carbón y eso me da mucha rabia",
+              "answer": "BRONCA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Trastorno del lenguaje, por lesiones cerebrales",
+              "answer": "AFASIA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "No me gusta la ciudad, prefiero la vida de…",
+              "answer": "CAMPO"
+            },
+            "12": {
+              "col": 6,
+              "row": 1,
+              "clue": "Entrando al cementerio",
+              "answer": "CEM"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "La hermana gemela de HeMan",
+              "answer": "SHERA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Obligatorias las dos primeras",
+              "answer": "OB"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Último gobernante del Imperio Inca a la llegada de los españoles",
+              "answer": "ATAHUALPA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Lo que tienen en común Megan Fox y Michel Foucault",
+              "answer": "MF"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Actividad en la que se recogen peces",
+              "answer": "PESCA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "\"Posada\" en inglés",
+              "answer": "INN"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Vestir a alguien con sus armas",
+              "answer": "ARMAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Devuélveme mi atol",
+              "answer": "LOTA"
+            },
+            "25": {
+              "col": 5,
+              "row": 4,
+              "clue": "Imputé, denuncié, delaté",
+              "answer": "ACUSE"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "\"Karl …\" El padrino de la ropa hip-hop",
+              "answer": "KANI"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Arquitectura: Fundamento de un edificio (pl)",
+              "answer": "ALACETS"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Esfuerzo final en una carrera",
+              "answer": "SPRINT"
+            },
+            "33": {
+              "col": 9,
+              "row": 6,
+              "clue": "Energía producida por la fuerza del viento",
+              "answer": "EOLICA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Balance, recuento de caudales y papeles",
+              "answer": "ARQUEO"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "Cantautor guatemalteco, de la canción \"Tu reputación\"",
+              "answer": "ARJONA"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Fuente termal intermitente en forma de surtidor",
+              "answer": "GEISER"
+            },
+            "40": {
+              "col": 9,
+              "row": 8,
+              "clue": "Vendrá al mundo",
+              "answer": "NACERA"
+            },
+            "42": {
+              "col": 4,
+              "row": 9,
+              "clue": "Golpes producidos por los movimientos alternativos del corazón",
+              "answer": "LATIDOS"
+            },
+            "45": {
+              "col": 0,
+              "row": 10,
+              "clue": "1024 kilobytes = 1 …byte",
+              "answer": "MEGA"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Tienes la obligación",
+              "answer": "DEBES"
+            },
+            "49": {
+              "col": 11,
+              "row": 10,
+              "clue": "Gira de un grupo musical",
+              "answer": "TOUR"
+            },
+            "51": {
+              "col": 0,
+              "row": 11,
+              "clue": "Lidia, batalla con una situación",
+              "answer": "BREGA"
+            },
+            "53": {
+              "col": 6,
+              "row": 11,
+              "clue": "Risas De Turno",
+              "answer": "RDT"
+            },
+            "54": {
+              "col": 10,
+              "row": 11,
+              "clue": "\"… nova\", genero musical brasilero, derivado del samba y el jazz",
+              "answer": "BOSSA"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Salida de emergencia",
+              "answer": "IA"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "Situarían, colocarían",
+              "answer": "UBICARIAN"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Hacer como una perdiz cuando está acosada",
+              "answer": "AJEAR"
+            },
+            "60": {
+              "col": 6,
+              "row": 13,
+              "clue": "Una salida sosa la dejó perdida",
+              "answer": "IDA"
+            },
+            "61": {
+              "col": 10,
+              "row": 13,
+              "clue": "Conoceré, tendré el conocimiento",
+              "answer": "SABRE"
+            },
+            "63": {
+              "col": 1,
+              "row": 14,
+              "clue": "El viejo continente",
+              "answer": "EUROPA"
+            },
+            "64": {
+              "col": 8,
+              "row": 14,
+              "clue": "Leal servidor, fiel a su señor",
+              "answer": "SIERVO"
+            }
+          }
+        },
+        "vertical_clues": "1-Se me sale la baba, me…\r\n2-Iniciales de puertorriqueño que canta \"Livin' la vida loca\"\r\n3-Sin brillo\r\n4-Calificación, puntaje\r\n5-Saca el agua de una bomba\r\n6-Calmé a las bestias, las…\r\n7-Cada uno de los brazos de un molino\r\n8-Tiburón en inglés\r\n9-Siglas del primer navegador de Microsoft\r\n10-Completan el puzle, lo…\r\n11-Combinación métrica o estrofa (pl)\r\n13-Hombre castrado\r\n15-Waka waka (Esto es…) canción del Mundial 2010\r\n20-\"Tom…\" actor británico prota de la serie \"The Sandman\" de Neil Gaiman \r\n23-Soldados del mar\r\n25-Perturbad, trastornad, inquietad\r\n26-Interminables\r\n28-\"… AA\" cantante boricua de trap, Top 10 de artistas más escuchados\r\n29-Principal cultivo de Argentina (pl)\r\n31-Puntos de Atención al Emprendedor\r\n32-Saludos al Instituto Químico de Sarría\r\n34-Bloc sin tapa\r\n35-\"Fast…\" famosa canción de Tracy Chapman\r\n38-País africano cuya capital es Banjul\r\n39-Forma muy antigua de decir 'ciudad'\r\n41-Le caí bien, le…\r\n43-Tercera parte de una vara\r\n44-Por la parte posterior\r\n46-Miel virgen\r\n47-Rebajar con agua la chispa de la fiesta\r\n49-El ratón del antro se pone a arrojar rayos\r\n50-Gano excesivos intereses en un préstamo\r\n52-Extiendo, despliego\r\n54-Beisbol: Almohadilla en los vértices del diamante\r\n59-Símbolo químico del europio\r\n62-Buen viaje",
+        "horizontal_clues": "1-Cobran bien cabrón por el carbón y eso me da mucha rabia\r\n6-Trastorno del lenguaje, por lesiones cerebrales\r\n11-No me gusta la ciudad, prefiero la vida de…\r\n12-Entrando al cementerio\r\n14-La hermana gemela de HeMan\r\n16-Obligatorias las dos primeras\r\n17-Último gobernante del Imperio Inca a la llegada de los españoles\r\n18-Lo que tienen en común Megan Fox y Michel Foucault\r\n19-Actividad en la que se recogen peces\r\n21-\"Posada\" en inglés\r\n22-Vestir a alguien con sus armas\r\n24-Devuélveme mi atol\r\n25-Imputé, denuncié, delaté\r\n27-\"Karl …\" El padrino de la ropa hip-hop\r\n28-Arquitectura: Fundamento de un edificio (pl)\r\n30-Esfuerzo final en una carrera\r\n33-Energía producida por la fuerza del viento\r\n36-Balance, recuento de caudales y papeles\r\n37-Cantautor guatemalteco, de la canción \"Tu reputación\"\r\n38-Fuente termal intermitente en forma de surtidor\r\n40-Vendrá al mundo\r\n42-Golpes producidos por los movimientos alternativos del corazón\r\n45-1024 kilobytes = 1 …byte \r\n48-Tienes la obligación\r\n49-Gira de un grupo musical\r\n51-Lidia, batalla con una situación \r\n53-Risas De Turno \r\n54.-\"…nova\", género musical brasilero, derivado del samba y el jazz\r\n55-Salida de emergencia\r\n56-Situarían, colocarían\r\n57-Abreviatura de usted\r\n58-Hacer como una perdiz cuando está acosada\r\n60-Una salida sosa la dejó perdida\r\n61-Conoceré, tendré el conocimiento\r\n63-El viejo continente\r\n64-Leal servidor, fiel a su señor",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,5,#,6,#,7,8,9,10,#\r\n11,#,#,#,#,#,12,13,#,#,14,#,#,#,15\r\n16,#,#,17,#,#,#,#,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,22,#,23,#,#\r\n24,#,#,#,#,25,#,#,#,26,#,27,#,#,#\r\n#,#,#,#,28,#,#,#,#,#,29,#,#,#,#\r\n30,31,#,32,#,#,#,#,#,33,#,34,#,35,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,#,#\r\n38,#,#,#,#,#,#,39,#,40,#,#,#,#,41\r\n#,#,#,#,42,#,43,#,44,#,#,#,#,#,#\r\n45,46,#,47,#,48,#,#,#,#,#,49,#,50,#\r\n51,#,#,#,52,#,53,#,#,#,54,#,#,#,#\r\n55,#,#,56,#,#,#,#,#,#,#,#,#,57,#\r\n58,#,59,#,#,#,60,#,#,#,61,#,62,#,#\r\n#,63,#,#,#,#,#,#,64,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
