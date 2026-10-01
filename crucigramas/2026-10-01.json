@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 10382,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-01T00:04:22.050382Z",
+      "updatedAt": "2026-10-01T00:04:22.050397Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-01",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#COCUY#GLACIAR#\r\nCALAÑA#E#QUEBEC\r\nEMOTICON#URRACA\r\nLAR#DIRIGIR#RIP\r\nERIZO#GAO#YACER\r\nBONO#PILON#YANI\r\nR##OBRA#LEMUR##\r\nORILLA###CODAZO\r\n##GOUDA#FINA##S\r\nBANG#AUREA#BASE\r\nELIAS#DET#FALAZ\r\nLAC#UBICADO#ILN\r\nGRIEGA#ALERTADO\r\nAMORAL#B#PRESAS\r\n#ENGRANE#PODER#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Automóvil deportivo emblemático, creado en 1967",
+              "answer": "CAMARO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Personaje que es un gas intestinal en Ren & Stimpy",
+              "answer": "OLORIN"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Gato londinense",
+              "answer": "CAT"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Uncido, unido",
+              "answer": "UÑIDO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Tuve trato carnal con alguien",
+              "answer": "YACI"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Ingenioso y estupendo",
+              "answer": "GENIAL"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "En este lugar",
+              "answer": "AQUI"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Mezcla de especias, típica de la India (voz inglesa)",
+              "answer": "CURRY"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Sonreí (invertido)",
+              "answer": "IER"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Comprenderá, contendrá, alcanzará",
+              "answer": "ABARCARA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Hace nada, cuando algo acaba de suceder",
+              "answer": "RECIEN"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Festejo que tengo un cerebro muy extraño",
+              "answer": "CELEBRO"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Que cómico era Joan cuando iba a la Isla del mar Tirreno",
+              "answer": "CAPRI"
+            },
+            "16": {
+              "col": 6,
+              "row": 2,
+              "clue": "Encuentro grupal de carácter sexual",
+              "answer": "ORGIA"
+            },
+            "20": {
+              "col": 8,
+              "row": 3,
+              "clue": "Anotacióón, así, bien celebrada",
+              "answer": "GOOL"
+            },
+            "23": {
+              "col": 3,
+              "row": 4,
+              "clue": "Mujer que profesa la ciencia que estudia a los animales",
+              "answer": "ZOOLOGA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Le tiraba un cable, la…",
+              "answer": "AYUDABA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Casa de modas italiana, dirigida por Miuccia",
+              "answer": "PRADA"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Terca y porfiada en lo que hace o dice",
+              "answer": "NECIA"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Famoso grafitero italiano",
+              "answer": "BLU"
+            },
+            "34": {
+              "col": 10,
+              "row": 6,
+              "clue": "De Simón de Ramón",
+              "answer": "MON"
+            },
+            "36": {
+              "col": 2,
+              "row": 7,
+              "clue": "El proceso de encender el motor de un cohete espacial",
+              "answer": "IGNICION"
+            },
+            "38": {
+              "col": 14,
+              "row": 7,
+              "clue": "Cachorros de osos",
+              "answer": "OSEZNOS"
+            },
+            "40": {
+              "col": 6,
+              "row": 8,
+              "clue": "Fabricante alemán de vehículos",
+              "answer": "AUDI"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Relativo al feto",
+              "answer": "FETAL"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Gentilicio de JeanClaude Van Damme",
+              "answer": "BELGA"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Me asusté, me preocupé",
+              "answer": "ALARME"
+            },
+            "45": {
+              "col": 7,
+              "row": 9,
+              "clue": "Recogí información",
+              "answer": "RECABE"
+            },
+            "47": {
+              "col": 12,
+              "row": 9,
+              "clue": "Asociase, se uniese con alguien contra otro",
+              "answer": "ALIASE"
+            },
+            "48": {
+              "col": 13,
+              "row": 9,
+              "clue": "Pagar las deudas",
+              "answer": "SALDAR"
+            },
+            "50": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"… daddy\" hombre mayor que invierte en una relación con una chica muy joven",
+              "answer": "SUGAR"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Cubierta con que se reviste algo",
+              "answer": "FORRO"
+            },
+            "55": {
+              "col": 5,
+              "row": 11,
+              "clue": "Proyectil que evoluciona de la piedra",
+              "answer": "BALA"
+            },
+            "56": {
+              "col": 9,
+              "row": 11,
+              "clue": "Actor que interpreta al Capitán Jack Sparrow",
+              "answer": "DEPP"
+            },
+            "59": {
+              "col": 3,
+              "row": 12,
+              "clue": "Región arenosa de un desierto",
+              "answer": "ERG"
+            },
+            "61": {
+              "col": 11,
+              "row": 12,
+              "clue": "\"…Lasso\" premiada serie de comedia",
+              "answer": "TED"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Licor destilado originario de Venezuela",
+              "answer": "COCUY"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Lo es el Perito Moreno",
+              "answer": "GLACIAR"
+            },
+            "12": {
+              "col": 0,
+              "row": 1,
+              "clue": "Índole, calidad de una persona",
+              "answer": "CALAÑA"
+            },
+            "13": {
+              "col": 9,
+              "row": 1,
+              "clue": "Provincia francófona de Canadá",
+              "answer": "QUEBEC"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Símbolo que expresa emociones en mensajes digitales",
+              "answer": "EMOTICON"
+            },
+            "17": {
+              "col": 9,
+              "row": 2,
+              "clue": "\"… de Zamora\" primogénita de Fernando I de León",
+              "answer": "URRACA"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Grecia Antigua Cada uno de los dioses del hogar",
+              "answer": "LAR"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Direccionar",
+              "answer": "DIRIGIR"
+            },
+            "21": {
+              "col": 12,
+              "row": 3,
+              "clue": "Descanse en paz",
+              "answer": "RIP"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Mamífero pinchudo",
+              "answer": "ERIZO"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Ciudad de Malí situada a orillas del río Níger",
+              "answer": "GAO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Tener trato carnal con alguien",
+              "answer": "YACER"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "La voz de U2",
+              "answer": "BONO"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Abrevadero, lavadero",
+              "answer": "PILON"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "A Yanira con cariño",
+              "answer": "YANI"
+            },
+            "31": {
+              "col": 3,
+              "row": 6,
+              "clue": "Cualquier producto intelectual",
+              "answer": "OBRA"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Primate propio de Madagascar",
+              "answer": "LEMUR"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Límite de la tierra que la separa del mar",
+              "answer": "ORILLA"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Golpe dado con el codo",
+              "answer": "CODAZO"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Queso amarillo holandés",
+              "answer": "GOUDA"
+            },
+            "41": {
+              "col": 8,
+              "row": 8,
+              "clue": "Delicada, elegante, selecta",
+              "answer": "FINA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "El \"Big…\", la gran explosión",
+              "answer": "BANG"
+            },
+            "44": {
+              "col": 5,
+              "row": 9,
+              "clue": "Relativa al oro",
+              "answer": "AUREA"
+            },
+            "46": {
+              "col": 11,
+              "row": 9,
+              "clue": "Beisbol Almohadilla en los vértices del diamante",
+              "answer": "BASE"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "El segundo nombre de Walter Disney",
+              "answer": "ELIAS"
+            },
+            "51": {
+              "col": 6,
+              "row": 10,
+              "clue": "Detuve sin la V",
+              "answer": "DET"
+            },
+            "52": {
+              "col": 10,
+              "row": 10,
+              "clue": "Embustero, falso",
+              "answer": "FALAZ"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Dentro del palacio",
+              "answer": "LAC"
+            },
+            "54": {
+              "col": 4,
+              "row": 11,
+              "clue": "Puesto en tal sitio",
+              "answer": "UBICADO"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Instagram, Linkedin y Netflix",
+              "answer": "ILN"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Nacida en Grecia",
+              "answer": "GRIEGA"
+            },
+            "60": {
+              "col": 7,
+              "row": 12,
+              "clue": "Puesto en estado de vigilancia",
+              "answer": "ALERTADO"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Persona desprovista de sentido moral",
+              "answer": "AMORAL"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Privadas de libertad",
+              "answer": "PRESAS"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Encaje las ruedas dentadas",
+              "answer": "ENGRANE"
+            },
+            "65": {
+              "col": 9,
+              "row": 14,
+              "clue": "Capacidad de hacer determinada cosa",
+              "answer": "PODER"
+            }
+          }
+        },
+        "vertical_clues": "1-Automóvil deportivo emblemático, creado en 1967\r\n2-Personaje que es un gas intestinal en Ren & Stimpy\r\n3-Gato londinense\r\n4-Uncido, unido\r\n5-Tuve trato carnal con alguien\r\n6-Ingenioso y estupendo\r\n7-En este lugar\r\n8-Mezcla de especias, típica de la India (voz inglesa)\r\n9-Sonreí (invertido)\r\n10-Comprenderá, contendrá, alcanzará\r\n11-Hace nada, cuando algo acaba de suceder\r\n12-Festejo que tengo un cerebro muy extraño\r\n14-Que cómico era Joan cuando iba a la Isla del mar Tirreno\r\n16-Encuentro grupal de carácter sexual\r\n20-Anotacióón, así, bien celebrada\r\n23-Mujer que profesa la ciencia que estudia a los animales\r\n26-Le tiraba un cable, la…\r\n28-Casa de modas italiana, dirigida por Miuccia\r\n29-Terca y porfiada en lo que hace o dice\r\n32-Famoso grafitero italiano\r\n34-De Simón de Ramón\r\n36-El proceso de encender el motor de un cohete espacial\r\n38-Cachorros de osos\r\n40-Fabricante alemán de vehículos\r\n41-Relativo al feto\r\n42-Gentilicio de JeanClaude Van Damme\r\n43-Me asusté, me preocupé\r\n45-Recogí información\r\n47-Asociase, se uniese con alguien contra otro \r\n48-Pagar las deudas\r\n50-\"… daddy\" hombre mayor que invierte en una relación con una chica muy joven\r\n52-Cubierta con que se reviste algo\r\n55-Proyectil que evoluciona de la piedra\r\n56-Actor que interpreta al Capitán Jack Sparrow\r\n59-Región arenosa de un desierto\r\n61-\"…Lasso\" premiada serie de comedia\r\n",
+        "horizontal_clues": "1-Licor destilado originario de Venezuela\r\n6-Lo es el Perito Moreno\r\n12-Índole, calidad de una persona\r\n13-Provincia francófona de Canadá\r\n15-Símbolo que expresa emociones en mensajes digitales \r\n17-\"… de Zamora\" primogénita de Fernando I de León\r\n18-Grecia Antigua Cada uno de los dioses del hogar\r\n19-Direccionar\r\n21-Descanse en paz\r\n22-Mamífero pinchudo\r\n24-Ciudad de Malí situada a orillas del río Níger\r\n25-Tener trato carnal con alguien\r\n27-La voz de U2\r\n28-Abrevadero, lavadero\r\n30-A Yanira con cariño\r\n31-Cualquier producto intelectual\r\n33-Primate propio de Madagascar\r\n35-Límite de la tierra que la separa del mar\r\n37-Golpe dado con el codo\r\n39-Queso amarillo holandés\r\n41-Delicada, elegante, selecta\r\n42-El \"Big…\", la gran explosión\r\n44-Relativa al oro\r\n46-Beisbol Almohadilla en los vértices del diamante\r\n49-El segundo nombre de Walter Disney\r\n51-Detuve sin la V\r\n52-Embustero, falso\r\n53-Dentro del palacio\r\n54-Puesto en tal sitio\r\n57-Instagram, Linkedin y Netflix \r\n58-Nacida en Grecia\r\n60-Puesto en estado de vigilancia \r\n62-Persona desprovista de sentido moral\r\n63-Privadas de libertad\r\n64-Encaje las ruedas dentadas\r\n65-Capacidad de hacer determinada cosa\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,#,6,#,7,8,9,10,11,#\r\n12,#,#,#,#,#,#,#,#,13,#,#,#,#,14\r\n15,#,#,#,#,#,16,#,#,17,#,#,#,#,#\r\n18,#,#,#,19,#,#,#,20,#,#,#,21,#,#\r\n22,#,#,23,#,#,24,#,#,#,25,26,#,#,#\r\n27,#,#,#,#,28,#,#,#,29,#,30,#,#,#\r\n#,#,#,31,32,#,#,#,33,#,34,#,#,#,#\r\n35,#,36,#,#,#,#,#,#,37,#,#,#,#,38\r\n#,#,39,#,#,#,40,#,41,#,#,#,#,#,#\r\n42,43,#,#,#,44,#,45,#,#,#,46,47,48,#\r\n49,#,#,#,50,#,51,#,#,#,52,#,#,#,#\r\n53,#,#,#,54,55,#,#,#,56,#,#,57,#,#\r\n58,#,#,59,#,#,#,60,#,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#\r\n#,64,#,#,#,#,#,#,#,65,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
