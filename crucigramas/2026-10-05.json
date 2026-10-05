@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 10459,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-03T20:18:41.604413Z",
+      "updatedAt": "2026-10-03T20:19:45.876943Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-04",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "CONCLAVE#HANGAR\r\nA#SOLEO#DATOS#E\r\nMJ#DELIBERAR#IC\r\nPUTIN#LASTIMADO\r\n#NICO#ATO#SALEM\r\nPIPI#P#ECS##CAI\r\nENSAYAS#UKELELE\r\nN##DEJE#PYME##N\r\nESCANER#APROBAD\r\nTAO##SOS#E#PACA\r\nRILEN#TPA#SANE#\r\nANOTACION#ARGOT\r\nNZ#INEPTITUD#FO\r\nT#PLANO#MACON#G\r\nENDOSA#CABESTRO",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Campo en catalán",
+              "answer": "CAMP"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Natalia Sánchez",
+              "answer": "NS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Anhelada, deseada",
+              "answer": "CODICIADA"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"El infierno está… de buenas intenciones\"",
+              "answer": "LLENO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Al expandido (2p)",
+              "answer": "AEL"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Voz francesa que indica que algo está terminado",
+              "answer": "VOILA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"Herbert L A …\" filósofo jurista, autor del libro 'El concepto de derecho'",
+              "answer": "HART"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Sujetáis con ligaduras o nudos",
+              "answer": "ATAIS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Muy mal, Ramón, apégate a la ley",
+              "answer": "NORMA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "En el corazón de Kingston",
+              "answer": "GS"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Aconseja algo por considerarlo conveniente",
+              "answer": "RECOMIENDA"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Ella desaloja el área; así se libera de faena",
+              "answer": "DESOCUPA"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Batalla de…\", dio inicio a la independencia de Perú",
+              "answer": "JUNIN"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Béisbol: Para sacarla de homerun",
+              "answer": "BATE"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Excelente, perfecto en su línea",
+              "answer": "IDEAL"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Consejitos",
+              "answer": "TIPS"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Mamífero rumiante, con grandes astas",
+              "answer": "ALCE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Que se infiltra mucho en algo",
+              "answer": "PENETRANTE"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Escuderos",
+              "answer": "PAJES"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "El pionero de las videollamadas populares",
+              "answer": "SKYPE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Objeto redondo japonés de gran valor",
+              "answer": "YEN"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Variedad de un microorganismo identificada en un análisis serológico",
+              "answer": "SEROTIPO"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Equipo Móvil de Respuesta (siglas)",
+              "answer": "EMR"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Felino rojizo con manchas negras (pl)",
+              "answer": "LEOPARDOS"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "\"Carlos…\" considerado mejor piloto español de rally de la historia",
+              "answer": "SAINZ"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Pasó un líquido por una manga",
+              "answer": "COLO"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "El \"Big…\", la gran explosión",
+              "answer": "BANG"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "\"… … Base\" exagrupación sueca símbolo del pop de los 90",
+              "answer": "ACEOF"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Anuncio, mensaje publicitario (voz inglesa)",
+              "answer": "SPOT"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Química: Radical del etano",
+              "answer": "ETILO"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Niñeras, ayas",
+              "answer": "NANAS"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Alienta al alma en pena",
+              "answer": "ANIMA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Árbol Nacional de Ucrania",
+              "answer": "SAUCE"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Esto es lo que está presente en todos los países en que se celebra la Navidad de cualquier manera",
+              "answer": "CENA"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "País de África subsahariana cuya capital es Lomé",
+              "answer": "TOGO"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "Informática: Tecla tabuladora",
+              "answer": "TAB"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales del actor que interpreta a Tyrion Lannister en 'Juego de Tronos'",
+              "answer": "PD"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Nuevo Testamento",
+              "answer": "NT"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Junta de cardenales que eligen al Papa",
+              "answer": "CONCLAVE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Cobertizo para aviones",
+              "answer": "HANGAR"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Músculo cercano al gemelo, cuya función es la extensión del pie y la elevación del talón",
+              "answer": "SOLEO"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Antecedente necesario para llegar al conocimiento exacto de algo (pl)",
+              "answer": "DATOS"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "De Mick Jagger y de Mary Jane",
+              "answer": "MJ"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Reflexionar antes de tomar una decisión",
+              "answer": "DELIBERAR"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "En la punta del iceberg",
+              "answer": "IC"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Actual presidente de Rusia",
+              "answer": "PUTIN"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Maltratado, golpeado",
+              "answer": "LASTIMADO"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Con cariño a Nicolás",
+              "answer": "NICO"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Unió los cabos",
+              "answer": "ATO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "\"Las brujas de…\" de Arthur Miller",
+              "answer": "SALEM"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pis, orina",
+              "answer": "PIPI"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Educación, Cultura y Sociedad",
+              "answer": "ECS"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Me… y me hice pupa",
+              "answer": "CAI"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Te preparas para una obra teatral",
+              "answer": "ENSAYAS"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Instrumento musical emblemático de Hawái",
+              "answer": "UKELELE"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Me retiré o aparté de algo o de alguien",
+              "answer": "DEJE"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Empresa formada por un grupo pequeño de trabajadores",
+              "answer": "PYME"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Periférico que se usa para digitalizar imágenes impresas",
+              "answer": "ESCANER"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Dad curso a una petición",
+              "answer": "APROBAD"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… Te Ching\" texto clásico chino",
+              "answer": "TAO"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Susana Oria Silvestre",
+              "answer": "SOS"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Fardo o lío",
+              "answer": "PACA"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Tiemblen, tiriten",
+              "answer": "RILEN"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Trastorno de Personalidad Antisocial",
+              "answer": "TPA"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Recobré mi buena salud",
+              "answer": "SANE"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Notas, apuntes, citas",
+              "answer": "ANOTACION"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Grato el lenguaje coloquial",
+              "answer": "ARGOT"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Dominio web para Nueva Zelanda",
+              "answer": "NZ"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Falta total de habilidad o competencia",
+              "answer": "INEPTITUD"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Voz para expresar repudio a un mal olor",
+              "answer": "FO"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Esquema en 2D y a determinada escala, de un terreno",
+              "answer": "PLANO"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Coman desaforados un panal seco, sin miel",
+              "answer": "MACON"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Le adjudica a alguien una carga o responsabilidad",
+              "answer": "ENDOSA"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "Al buey manso que sirve de guía le cobraste mal",
+              "answer": "CABESTRO"
+            }
+          }
+        },
+        "vertical_clues": "1-Campo en catalán\r\n2-Natalia Sánchez\r\n3-Anhelada, deseada\r\n4-\"El infierno está… de buenas intenciones\" \r\n5-Al expandido (2p) \r\n6-Voz francesa que indica que algo está terminado\r\n7-\"Herbert L A …\" filósofo jurista, autor del libro 'El concepto de derecho'\r\n8-Sujetáis con ligaduras o nudos\r\n9-Muy mal, Ramón, apégate a la ley\r\n10-En el corazón de Kingston\r\n11-Aconseja algo por considerarlo conveniente\r\n13-Ella desaloja el área; así se libera de faena\r\n15-\"Batalla de…\", dio inicio a la independencia de Perú\r\n17-Béisbol: Para sacarla de homerun\r\n18-Excelente, perfecto en su línea\r\n20-Consejitos\r\n22-Mamífero rumiante, con grandes astas\r\n26-Que se infiltra mucho en algo\r\n27-Escuderos\r\n29-El pionero de las videollamadas populares\r\n32-Objeto redondo japonés de gran valor\r\n33-Variedad de un microorganismo identificada en un análisis serológico \r\n35-Equipo Móvil de Respuesta (siglas)\r\n36-Felino rojizo con manchas negras (pl)\r\n40-\"Carlos…\" considerado mejor piloto español de rally de la historia\r\n41-Pasó un líquido por una manga\r\n43-El \"Big…\", la gran explosión\r\n44-\"… … Base\" exagrupación sueca símbolo del pop de los 90\r\n47-Anuncio, mensaje publicitario (voz inglesa)\r\n50-Química: Radical del etano\r\n51-Niñeras, ayas\r\n53-Alienta al alma en pena\r\n54-Árbol Nacional de Ucrania\r\n56-Esto es lo que está presente en todos los países en que se celebra la Navidad de cualquier manera\r\n58-País de África subsahariana cuya capital es Lomé\r\n61-Informática: Tecla tabuladora\r\n63-Iniciales del actor que interpreta a Tyrion Lannister en 'Juego de Tronos'\r\n65-Nuevo Testamento",
+        "horizontal_clues": "1-Junta de cardenales que eligen al Papa\r\n7-Cobertizo para aviones\r\n12-Músculo cercano al gemelo, cuya función es la extensión del pie y la elevación del talón\r\n13-Antecedente necesario para llegar al conocimiento exacto de algo (pl)\r\n14-De Mick Jagger y de Mary Jane\r\n16-Reflexionar antes de tomar una decisión\r\n18-En la punta del iceberg\r\n19-Actual presidente de Rusia\r\n21-Maltratado, golpeado\r\n23-Con cariño a Nicolás\r\n24-Unió los cabos\r\n25-\"Las brujas de…\" de Arthur Miller \r\n26-Pis, orina\r\n28-Educación, Cultura y Sociedad\r\n30-Me… y me hice pupa\r\n31-Te preparas para una obra teatral\r\n34-Instrumento musical emblemático de Hawái\r\n37-Me retiré o aparté de algo o de alguien\r\n38-Empresa formada por un grupo pequeño de trabajadores\r\n39-Periférico que se usa para digitalizar imágenes impresas\r\n42-Dad curso a una petición\r\n45-\"… Te Ching\" texto clásico chino\r\n46-Susana Oria Silvestre\r\n48-Fardo o lío\r\n49-Tiemblen, tiriten\r\n52-Trastorno de Personalidad Antisocial\r\n54-Recobré mi buena salud\r\n55-Notas, apuntes, citas\r\n57-Grato el lenguaje coloquial\r\n59-Dominio web para Nueva Zelanda\r\n60-Falta total de habilidad o competencia \r\n62-Voz para expresar repudio a un mal olor\r\n63-Esquema en 2D y a determinada escala, de un terreno\r\n64-Coman desaforados un panal seco, sin miel\r\n66-Le adjudica a alguien una carga o responsabilidad\r\n67-Al buey manso que sirve de guía le cobraste mal",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,16,#,#,#,17,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,#,#,22,#,#\r\n#,23,#,#,#,#,24,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,28,#,29,#,#,30,#,#\r\n31,#,#,#,32,#,33,#,34,#,35,36,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,41,#,#,#,#,#,42,#,#,#,43,44,#\r\n45,#,#,#,#,46,#,47,#,#,#,48,#,#,#\r\n49,#,#,50,51,#,52,#,53,#,54,#,#,#,#\r\n55,#,#,#,#,56,#,#,#,#,57,#,#,#,58\r\n59,#,#,60,#,#,#,#,#,61,#,#,#,62,#\r\n#,#,63,#,#,#,#,#,64,#,#,#,65,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
