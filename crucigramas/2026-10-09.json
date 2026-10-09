@@ -1,0 +1,479 @@
+{
+  "data": {
+    "id": 10521,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-08T22:09:18.430485Z",
+      "updatedAt": "2026-10-08T22:11:09.308963Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-09",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PYME#TALADRO##\r\n##AUNE#HALLAR#Y\r\nTALES#DODI#SUBO\r\nELEVADOR#ALEJAD\r\nML#AYUNA#DENOTA\r\nPERSONA#BANG#E#\r\nEGO##ENLISTAR#C\r\nROBES#TAT#ANIDA\r\nA#ENUMERAR##JET\r\n#Y#FIAS#CULPOSO\r\nCOMITE#COGIO#UD\r\nOYESES#ORENSANO\r\nMOTE#TIPA#DARAS\r\nI#AMORAL#BODY##\r\n##SACARAS#ROAN#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mis amigas reguetoneras van a una prestigiosa universidad en EEUU",
+              "answer": "YALE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Parece que están nuevas, es mejor que las cambies de lugar",
+              "answer": "MUEVAS"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Prueba previa a una actuación o evento",
+              "answer": "ENSAYO"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "En este momento",
+              "answer": "AHORA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Por estos lados no hay osmio",
+              "answer": "LAD"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Las fuerzas afines a un bando",
+              "answer": "ALIADAS"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Decilitro",
+              "answer": "DL"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Ninjutsu de Naruto creado por el Cuarto Hokage",
+              "answer": "RASENGAN"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Bebida del hollejo de la uva, ideal como digestivo después de la cena de Navidad",
+              "answer": "ORUJO"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Star Wars: Gran Maestro de la Orden Jedi",
+              "answer": "YODA"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Calma, apacigua, sosiega",
+              "answer": "TEMPERA"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Le acercó, le arrimó algo, le…",
+              "answer": "ALLEGO"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "Persona que voluntariamente cede un órgano (pl)",
+              "answer": "DONANTES"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Béisbol: Para sacarla de homerun",
+              "answer": "BATE"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Película de Denis Villeneuve, ganadora de 6 Premios Óscar en 2022",
+              "answer": "DUNE"
+            },
+            "23": {
+              "col": 10,
+              "row": 3,
+              "clue": "Ella va a su ritmo, es un poco…",
+              "answer": "LENTA"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Hurté, afané",
+              "answer": "ROBE"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "Libro que un capitán deja bien lleno",
+              "answer": "BITACORA"
+            },
+            "32": {
+              "col": 7,
+              "row": 6,
+              "clue": "Grecia Antigua: Cada uno de los dioses del hogar",
+              "answer": "LAR"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "Guío, gobierno, mando",
+              "answer": "RIJO"
+            },
+            "34": {
+              "col": 14,
+              "row": 6,
+              "clue": "Electricidad: Electrodo negativo (pl)",
+              "answer": "CATODOS"
+            },
+            "36": {
+              "col": 3,
+              "row": 7,
+              "clue": "Med Tumefacción producida por aire en el tejido pulmonar",
+              "answer": "ENFISEMA"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Habitación lujosa de un hotel",
+              "answer": "SUITE"
+            },
+            "40": {
+              "col": 13,
+              "row": 7,
+              "clue": "Separe a la familia",
+              "answer": "DESUNA"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Mujer que enseña un arte u oficio",
+              "answer": "MAESTRA"
+            },
+            "43": {
+              "col": 9,
+              "row": 8,
+              "clue": "Hace como un león",
+              "answer": "RUGE"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "Juguete que sube y baja",
+              "answer": "YOYO"
+            },
+            "48": {
+              "col": 10,
+              "row": 9,
+              "clue": "Beisbol: Campocorto boricua de los Mets de Nueva York",
+              "answer": "LINDOR"
+            },
+            "49": {
+              "col": 11,
+              "row": 9,
+              "clue": "Se ha parado quieto, por ejemplo, un ave",
+              "answer": "POSADO"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "Me alimenté",
+              "answer": "COMI"
+            },
+            "51": {
+              "col": 2,
+              "row": 10,
+              "clue": "Encajones tus objetivos",
+              "answer": "METAS"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "Combinación métrica o estrofa",
+              "answer": "COPLA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "GOT Una chica no es nadie",
+              "answer": "ARYA"
+            },
+            "59": {
+              "col": 6,
+              "row": 12,
+              "clue": "Industria Aeronáutica Rumana (siglas)",
+              "answer": "IAR"
+            },
+            "62": {
+              "col": 4,
+              "row": 13,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Empresa formada por un grupo pequeño de trabajadores",
+              "answer": "PYME"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "El abre huecos",
+              "answer": "TALADRO"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Junte, complemente",
+              "answer": "AUNE"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Encontrar",
+              "answer": "HALLAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "\"… from the Loop\" serie surrealista, visualmente fascinante",
+              "answer": "TALES"
+            },
+            "17": {
+              "col": 6,
+              "row": 2,
+              "clue": "\"…Al-Fayed\" productor egipcio de cine, amigo de Diana",
+              "answer": "DODI"
+            },
+            "18": {
+              "col": 11,
+              "row": 2,
+              "clue": "Asciendo de nivel",
+              "answer": "SUBO"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Revelado el misterio en el ascensor",
+              "answer": "ELEVADOR"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Distanciad, llevad lejos",
+              "answer": "ALEJAD"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "1050 romanos",
+              "answer": "ML"
+            },
+            "25": {
+              "col": 3,
+              "row": 4,
+              "clue": "Abstente de comer y beber",
+              "answer": "AYUNA"
+            },
+            "26": {
+              "col": 9,
+              "row": 4,
+              "clue": "Señala o indica algo con claridad",
+              "answer": "DENOTA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "“Estoy más preocupado por ser una buena… que por ser el mejor jugador de fútbol del mundo” Messi",
+              "answer": "PERSONA"
+            },
+            "29": {
+              "col": 8,
+              "row": 5,
+              "clue": "El \"Big…\", la gran explosión",
+              "answer": "BANG"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Instancia psíquica",
+              "answer": "EGO"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Inscribir en un ejército latinoamericano",
+              "answer": "ENLISTAR"
+            },
+            "35": {
+              "col": 0,
+              "row": 7,
+              "clue": "Tomes para ti lo ajeno",
+              "answer": "ROBES"
+            },
+            "38": {
+              "col": 6,
+              "row": 7,
+              "clue": "Tatuaje sin terminar",
+              "answer": "TAT"
+            },
+            "39": {
+              "col": 10,
+              "row": 7,
+              "clue": "Inserta una función dentro de otra función en el Excel",
+              "answer": "ANIDA"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Poner números a una lista",
+              "answer": "ENUMERAR"
+            },
+            "44": {
+              "col": 12,
+              "row": 8,
+              "clue": "Avión impulsado con motores de reacción",
+              "answer": "JET"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Das crédito sin garantía",
+              "answer": "FIAS"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Acto imprudente o negligente",
+              "answer": "CULPOSO"
+            },
+            "50": {
+              "col": 0,
+              "row": 10,
+              "clue": "La comisión, la junta organizadora",
+              "answer": "COMITE"
+            },
+            "52": {
+              "col": 7,
+              "row": 10,
+              "clue": "Alcanzó a quien iba delante",
+              "answer": "COGIO"
+            },
+            "53": {
+              "col": 13,
+              "row": 10,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Percibieses el llanto del niño",
+              "answer": "OYESES"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Un tipo de Orense",
+              "answer": "ORENSANO"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Apodo, sobrenombre",
+              "answer": "MOTE"
+            },
+            "58": {
+              "col": 5,
+              "row": 12,
+              "clue": "Mujer adulta",
+              "answer": "TIPA"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Dotarás, surtirás",
+              "answer": "DARAS"
+            },
+            "61": {
+              "col": 2,
+              "row": 13,
+              "clue": "Persona desprovista de sentido moral",
+              "answer": "AMORAL"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "El cuerpo de un inglés",
+              "answer": "BODY"
+            },
+            "64": {
+              "col": 2,
+              "row": 14,
+              "clue": "Expondrás al exterior",
+              "answer": "SACARAS"
+            },
+            "65": {
+              "col": 10,
+              "row": 14,
+              "clue": "Corten con los dientes",
+              "answer": "ROAN"
+            }
+          }
+        },
+        "vertical_clues": "2-Mis amigas reguetoneras van a una prestigiosa universidad en EEUU\r\n3-Parece que están nuevas, es mejor que las cambies de lugar\r\n4-Prueba previa a una actuación o evento \r\n6-En este momento\r\n7-Por estos lados no hay osmio\r\n8-Las fuerzas afines a un bando\r\n9-Decilitro\r\n10-Ninjutsu de Naruto creado por el Cuarto Hokage\r\n11-Bebida del hollejo de la uva, ideal como digestivo después de la cena de Navidad \r\n14-Star Wars: Gran Maestro de la Orden Jedi\r\n15-Calma, apacigua, sosiega\r\n16-Le acercó, le arrimó algo, le…\r\n17-Persona que voluntariamente cede un órgano (pl)\r\n19-Béisbol: Para sacarla de homerun\r\n21-Película de Denis Villeneuve, ganadora de 6 Premios Óscar en 2022\r\n23-Ella va a su ritmo, es un poco…\r\n28-Hurté, afané\r\n29-Libro que un capitán deja bien lleno\r\n32-Grecia Antigua: Cada uno de los dioses del hogar\r\n33-Guío, gobierno, mando\r\n34-Electricidad: Electrodo negativo (pl)\r\n36-Med Tumefacción producida por aire en el tejido pulmonar\r\n37-Habitación lujosa de un hotel\r\n40-Separe a la familia\r\n42-Mujer que enseña un arte u oficio\r\n43-Hace como un león\r\n45-Juguete que sube y baja\r\n48-Beisbol: Campocorto boricua de los Mets de Nueva York\r\n49-Se ha parado quieto, por ejemplo, un ave\r\n50-Me alimenté\r\n51-Encajones tus objetivos\r\n52-Combinación métrica o estrofa\r\n56-GOT Una chica no es nadie\r\n59-Industria Aeronáutica Rumana (siglas)\r\n62-Lengua provenzal",
+        "horizontal_clues": "1-Empresa formada por un grupo pequeño de trabajadores\r\n5-El abre huecos\r\n12-Junte, complemente\r\n13-Encontrar\r\n15-\"… from the Loop\" serie surrealista, visualmente fascinante\r\n17-\"…Al-Fayed\" productor egipcio de cine, amigo de Diana\r\n18-Asciendo de nivel\r\n20-Revelado el misterio en el ascensor\r\n22-Distanciad, llevad lejos\r\n24-1050 romanos\r\n25-Abstente de comer y beber\r\n26-Señala o indica algo con claridad \r\n27-“Estoy más preocupado por ser una buena… que por ser el mejor jugador de fútbol del mundo” Messi\r\n29-El \"Big…\", la gran explosión\r\n30-Instancia psíquica\r\n31-Inscribir en un ejército latinoamericano\r\n35-Tomes para ti lo ajeno\r\n38-Tatuaje sin terminar\r\n39-Inserta una función dentro de otra función en el Excel\r\n41-Poner números a una lista\r\n44-Avión impulsado con motores de reacción\r\n46-Das crédito sin garantía \r\n47-Acto imprudente o negligente\r\n50-La comisión, la junta organizadora\r\n52-Alcanzó a quien iba delante\r\n53-Abreviatura de usted\r\n54-Percibieses el llanto del niño\r\n55-Un tipo de Orense\r\n57-Apodo, sobrenombre\r\n58-Mujer adulta\r\n60-Dotarás, surtirás\r\n61-Persona desprovista de sentido moral\r\n63-El cuerpo de un inglés\r\n64-Expondrás al exterior\r\n65-Corten con los dientes",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,#,5,6,7,8,9,10,11,#,#\r\n#,#,12,#,#,#,#,13,#,#,#,#,#,#,14\r\n15,16,#,#,#,#,17,#,#,#,#,18,#,19,#\r\n20,#,#,#,#,21,#,#,#,22,23,#,#,#,#\r\n24,#,#,25,#,#,#,#,#,26,#,#,#,#,#\r\n27,#,28,#,#,#,#,#,29,#,#,#,#,#,#\r\n30,#,#,#,#,31,#,32,#,#,#,#,33,#,34\r\n35,#,#,36,37,#,38,#,#,#,39,#,#,40,#\r\n#,#,41,#,#,42,#,#,#,43,#,#,44,#,#\r\n#,45,#,46,#,#,#,#,47,#,48,49,#,#,#\r\n50,#,51,#,#,#,#,52,#,#,#,#,#,53,#\r\n54,#,#,#,#,#,#,55,#,#,#,#,56,#,#\r\n57,#,#,#,#,58,59,#,#,#,60,#,#,#,#\r\n#,#,61,#,62,#,#,#,#,63,#,#,#,#,#\r\n#,#,64,#,#,#,#,#,#,#,65,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
