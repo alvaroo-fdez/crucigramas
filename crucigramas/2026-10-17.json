@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 10779,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-17T00:25:00.966828Z",
+      "updatedAt": "2026-10-17T00:26:29.756363Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-17",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#WEBCAM#TALADRA\r\nH#PLACER#PACA#V\r\nOC#EMULE#EXENTE\r\nBOM#PROPAGACION\r\nBOCK#ENEJA#HERI\r\nELFOS##LE#COLAD\r\nSILBO#GENTE###A\r\n#OYENTE#OVULAR#\r\nC###DIMAS#TILIA\r\nADULA#EG##AMBAS\r\nZOLA#PLANA#AUDI\r\nANTIBIOTICO#MAS\r\nLAICAS#AGRIA#ST\r\nL#MOZA#SUEGRO#O\r\nACOSARE#ASONDA#",
+        "entries": {
+          "down": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Elsa Pito",
+              "answer": "EP"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Hablé en Poblenou",
+              "answer": "BLE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Campo en catalán",
+              "answer": "CAMP"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Roedor doméstico, oriundo de las Antillas suramericanas",
+              "answer": "ACURE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Fruto que, en verano, se sirve con jamón serrano",
+              "answer": "MELON"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Se encariña, está muy unida, se…",
+              "answer": "APEGA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Se limpia el colon, se…",
+              "answer": "LAXA"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Aguardar cautelosamente con algún propósito, estar al…",
+              "answer": "ACECHO"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Actor que interpretó a Harry Potter",
+              "answer": "DANIEL"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "La Abandoibarra de Bilbao o el Paseo de la Reforma en Ciudad de México",
+              "answer": "AVENIDA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Fil: El hombre es el lobo del hombre, Thomas…",
+              "answer": "HOBBES"
+            },
+            "15": {
+              "col": 7,
+              "row": 1,
+              "clue": "Rechaza, ahuyenta los mosquitos",
+              "answer": "REPELE"
+            },
+            "18": {
+              "col": 1,
+              "row": 2,
+              "clue": "El autor de la canción de los 90 'Gangsta's Paradise'",
+              "answer": "COOLIO"
+            },
+            "21": {
+              "col": 13,
+              "row": 2,
+              "clue": "Libro de la ley de los judíos",
+              "answer": "TORA"
+            },
+            "23": {
+              "col": 2,
+              "row": 3,
+              "clue": "\"Marty…\" el prota de 'Volver al futuro'",
+              "answer": "MCFLY"
+            },
+            "25": {
+              "col": 8,
+              "row": 3,
+              "clue": "Pertenecientes a otra persona (masc)",
+              "answer": "AJENOS"
+            },
+            "27": {
+              "col": 3,
+              "row": 4,
+              "clue": "La mamba inmortal de la NBA",
+              "answer": "KOBE"
+            },
+            "31": {
+              "col": 4,
+              "row": 5,
+              "clue": "Instrumento que se introduce en un cuerpo para explorar alguna de sus partes",
+              "answer": "SONDA"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Ciudad autónoma española del norte de África",
+              "answer": "CEUTA"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "Mellizo, morocho, nacido en un mismo parto",
+              "answer": "GEMELO"
+            },
+            "36": {
+              "col": 9,
+              "row": 6,
+              "clue": "La caja mágica",
+              "answer": "TV"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Titanio",
+              "answer": "TI"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Pule sus uñas en la capital peruana",
+              "answer": "LIMA"
+            },
+            "41": {
+              "col": 12,
+              "row": 7,
+              "clue": "Libro que guarda fotografías",
+              "answer": "ALBUM"
+            },
+            "42": {
+              "col": 13,
+              "row": 7,
+              "clue": "Inundaciones, crecidas",
+              "answer": "RIADAS"
+            },
+            "43": {
+              "col": 0,
+              "row": 8,
+              "clue": "Aguardiente de anís seco, típico de Valencia",
+              "answer": "CAZALLA"
+            },
+            "45": {
+              "col": 7,
+              "row": 8,
+              "clue": "Piedra semipreciosa (pl)",
+              "answer": "AGATAS"
+            },
+            "47": {
+              "col": 14,
+              "row": 8,
+              "clue": "Voy y ayudo",
+              "answer": "ASISTO"
+            },
+            "49": {
+              "col": 1,
+              "row": 9,
+              "clue": "Una mujer catalana",
+              "answer": "DONA"
+            },
+            "50": {
+              "col": 2,
+              "row": 9,
+              "clue": "Al final de la cola",
+              "answer": "ULTIMO"
+            },
+            "51": {
+              "col": 3,
+              "row": 9,
+              "clue": "Ellos son independientes de cualquier organización religiosa",
+              "answer": "LAICOS"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Pisotear moralmente",
+              "answer": "PISAR"
+            },
+            "56": {
+              "col": 8,
+              "row": 10,
+              "clue": "Insecto que escarba bajo la piel",
+              "answer": "NIGUA"
+            },
+            "57": {
+              "col": 9,
+              "row": 10,
+              "clue": "Medida inglesa :Equivale a 40 áreas (pl)",
+              "answer": "ACRES"
+            },
+            "60": {
+              "col": 4,
+              "row": 11,
+              "clue": "\"Dama de…\", escultura ibera en piedra del siglo IV a C (expuesta en el MAN)",
+              "answer": "BAZA"
+            },
+            "61": {
+              "col": 10,
+              "row": 11,
+              "clue": "Escucho",
+              "answer": "OIGO"
+            },
+            "65": {
+              "col": 11,
+              "row": 12,
+              "clue": "Ácido Ribonucleico",
+              "answer": "ARN"
+            },
+            "69": {
+              "col": 12,
+              "row": 13,
+              "clue": "Un poco de odio",
+              "answer": "OD"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Cámara de red",
+              "answer": "WEBCAM"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Agujerea con un perforador",
+              "answer": "TALADRA"
+            },
+            "14": {
+              "col": 2,
+              "row": 1,
+              "clue": "Sensación agradable producida por las prácticas sexuales",
+              "answer": "PLACER"
+            },
+            "16": {
+              "col": 9,
+              "row": 1,
+              "clue": "Fardo o lío",
+              "answer": "PACA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            },
+            "19": {
+              "col": 3,
+              "row": 2,
+              "clue": "Imite al que muele mejor",
+              "answer": "EMULE"
+            },
+            "20": {
+              "col": 9,
+              "row": 2,
+              "clue": "Dispense, exima, excuse",
+              "answer": "EXENTE"
+            },
+            "22": {
+              "col": 0,
+              "row": 3,
+              "clue": "Medio bombón",
+              "answer": "BOM"
+            },
+            "24": {
+              "col": 4,
+              "row": 3,
+              "clue": "Difusión, transmisión",
+              "answer": "PROPAGACION"
+            },
+            "26": {
+              "col": 0,
+              "row": 4,
+              "clue": "Cerveza oscura y maltosa, de origen alemán",
+              "answer": "BOCK"
+            },
+            "28": {
+              "col": 5,
+              "row": 4,
+              "clue": "Lo pone en su eje",
+              "answer": "ENEJA"
+            },
+            "29": {
+              "col": 11,
+              "row": 4,
+              "clue": "Dañé a una persona produciéndole una contusión",
+              "answer": "HERI"
+            },
+            "30": {
+              "col": 0,
+              "row": 5,
+              "clue": "\"3 anillos para los Reyes… bajo el cielo, 7 para los Señores Enanos en palacios de piedra\"",
+              "answer": "ELFOS"
+            },
+            "32": {
+              "col": 7,
+              "row": 5,
+              "clue": "Iniciales de la mexicana autora de 'Como agua para chocolate'",
+              "answer": "LE"
+            },
+            "33": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pasad un líquido por una manga",
+              "answer": "COLAD"
+            },
+            "34": {
+              "col": 0,
+              "row": 6,
+              "clue": "Chifló, pitó",
+              "answer": "SILBO"
+            },
+            "35": {
+              "col": 6,
+              "row": 6,
+              "clue": "\"Hablando se entiende la…\"",
+              "answer": "GENTE"
+            },
+            "37": {
+              "col": 1,
+              "row": 7,
+              "clue": "No habla, solo escucha",
+              "answer": "OYENTE"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Producirse la ovulación en una mujer",
+              "answer": "OVULAR"
+            },
+            "44": {
+              "col": 4,
+              "row": 8,
+              "clue": "El Buen Ladrón, personaje crucificado junto a Jesucristo",
+              "answer": "DIMAS"
+            },
+            "46": {
+              "col": 10,
+              "row": 8,
+              "clue": "Árbol nacional de Eslovenia",
+              "answer": "TILIA"
+            },
+            "48": {
+              "col": 0,
+              "row": 9,
+              "clue": "Agrada con intenciones secundarias",
+              "answer": "ADULA"
+            },
+            "52": {
+              "col": 6,
+              "row": 9,
+              "clue": "Un poco egoísta",
+              "answer": "EG"
+            },
+            "53": {
+              "col": 10,
+              "row": 9,
+              "clue": "Las dos juntas, el par",
+              "answer": "AMBAS"
+            },
+            "54": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"Gianfranco…\" exfutbolista italiano",
+              "answer": "ZOLA"
+            },
+            "55": {
+              "col": 5,
+              "row": 10,
+              "clue": "Lisa, chata",
+              "answer": "PLANA"
+            },
+            "58": {
+              "col": 11,
+              "row": 10,
+              "clue": "Fabricante alemán de vehículos",
+              "answer": "AUDI"
+            },
+            "59": {
+              "col": 0,
+              "row": 11,
+              "clue": "Sustancia química de acción bactericida",
+              "answer": "ANTIBIOTICO"
+            },
+            "62": {
+              "col": 12,
+              "row": 11,
+              "clue": "Signo de la suma",
+              "answer": "MAS"
+            },
+            "63": {
+              "col": 0,
+              "row": 12,
+              "clue": "Libres de religiones (fem)",
+              "answer": "LAICAS"
+            },
+            "64": {
+              "col": 7,
+              "row": 12,
+              "clue": "Que produce sensación de acidez (fem)",
+              "answer": "AGRIA"
+            },
+            "66": {
+              "col": 13,
+              "row": 12,
+              "clue": "Inic Actriz que interpreta a Sansa Stark en 'Juego de Tronos'",
+              "answer": "ST"
+            },
+            "67": {
+              "col": 2,
+              "row": 13,
+              "clue": "Joven, guapa y soltera",
+              "answer": "MOZA"
+            },
+            "68": {
+              "col": 7,
+              "row": 13,
+              "clue": "Seguro que está loco (el papá de mi novio)",
+              "answer": "SUEGRO"
+            },
+            "70": {
+              "col": 0,
+              "row": 14,
+              "clue": "Perseguiré, hostigaré sin tregua",
+              "answer": "ACOSARE"
+            },
+            "71": {
+              "col": 8,
+              "row": 14,
+              "clue": "Investiga el subsuelo con una sonda",
+              "answer": "ASONDA"
+            }
+          }
+        },
+        "vertical_clues": "2-Elsa Pito\r\n3-Hablé en Poblenou\r\n4-Campo en catalán\r\n5-Roedor doméstico, oriundo de las Antillas suramericanas\r\n6-Fruto que, en verano, se sirve con jamón serrano\r\n8-Se encariña, está muy unida, se…\r\n9-Se limpia el colon, se…\r\n10-Aguardar cautelosamente con algún propósito, estar al…\r\n11-Actor que interpretó a Harry Potter\r\n12-La Abandoibarra de Bilbao o el Paseo de la Reforma en Ciudad de México \r\n13-Fil: El hombre es el lobo del hombre, Thomas…\r\n15-Rechaza, ahuyenta los mosquitos\r\n18-El autor de la canción de los 90 'Gangsta's Paradise' \r\n21-Libro de la ley de los judíos\r\n23-\"Marty…\" el prota de 'Volver al futuro' \r\n25-Pertenecientes a otra persona (masc)\r\n27-La mamba inmortal de la NBA\r\n31-Instrumento que se introduce en un cuerpo para explorar alguna de sus partes\r\n33-Ciudad autónoma española del norte de África\r\n35-Mellizo, morocho, nacido en un mismo parto\r\n36-La caja mágica\r\n38-Titanio\r\n40-Pule sus uñas en la capital peruana\r\n41-Libro que guarda fotografías\r\n42-Inundaciones, crecidas \r\n43-Aguardiente de anís seco, típico de Valencia\r\n45-Piedra semipreciosa (pl)\r\n47-Voy y ayudo\r\n49-Una mujer catalana\r\n50-Al final de la cola\r\n51-Ellos son independientes de cualquier organización religiosa\r\n55-Pisotear moralmente\r\n56-Insecto que escarba bajo la piel\r\n57-Medida inglesa :Equivale a 40 áreas (pl)\r\n60-\"Dama de…\", escultura ibera en piedra del siglo IV a C (expuesta en el MAN) \r\n61-Escucho\r\n65-Ácido Ribonucleico\r\n69-Un poco de odio",
+        "horizontal_clues": "1-Cámara de red\r\n7-Agujerea con un perforador\r\n14-Sensación agradable producida por las prácticas sexuales\r\n16-Fardo o lío\r\n17-Lengua provenzal \r\n19-Imite al que muele mejor\r\n20-Dispense, exima, excuse\r\n22-Medio bombón\r\n24-Difusión, transmisión\r\n26-Cerveza oscura y maltosa, de origen alemán\r\n28-Lo pone en su eje\r\n29-Dañé a una persona produciéndole una contusión\r\n30-\"3 anillos para los Reyes… bajo el cielo, 7 para los Señores Enanos en palacios de piedra\"\r\n32-Iniciales de la mexicana autora de 'Como agua para chocolate' \r\n33-Pasad un líquido por una manga\r\n34-Chifló, pitó\r\n35-\"Hablando se entiende la…\" \r\n37-No habla, solo escucha\r\n39-Producirse la ovulación en una mujer\r\n44-El Buen Ladrón, personaje crucificado junto a Jesucristo\r\n46-Árbol nacional de Eslovenia\r\n48-Agrada con intenciones secundarias\r\n52-Un poco egoísta\r\n53-Las dos juntas, el par\r\n54-\"Gianfranco…\" exfutbolista italiano\r\n55-Lisa, chata\r\n58-Fabricante alemán de vehículos\r\n59-Sustancia química de acción bactericida\r\n62-Signo de la suma\r\n63-Libres de religiones (fem)\r\n64-Que produce sensación de acidez (fem)\r\n66-Inic Actriz que interpreta a Sansa Stark en 'Juego de Tronos'\r\n67-Joven, guapa y soltera\r\n68-Seguro que está loco (el papá de mi novio)\r\n70-Perseguiré, hostigaré sin tregua\r\n71-Investiga el subsuelo con una sonda",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,#,12\r\n13,#,14,#,#,#,#,15,#,16,#,#,#,#,#\r\n17,18,#,19,#,#,#,#,#,20,#,#,#,21,#\r\n22,#,23,#,24,#,#,#,25,#,#,#,#,#,#\r\n26,#,#,27,#,28,#,#,#,#,#,29,#,#,#\r\n30,#,#,#,31,#,#,32,#,#,33,#,#,#,#\r\n34,#,#,#,#,#,35,#,#,36,#,#,#,#,#\r\n#,37,#,#,#,38,#,#,39,#,#,40,41,42,#\r\n43,#,#,#,44,#,#,45,#,#,46,#,#,#,47\r\n48,49,50,51,#,#,52,#,#,#,53,#,#,#,#\r\n54,#,#,#,#,55,#,#,56,57,#,58,#,#,#\r\n59,#,#,#,60,#,#,#,#,#,61,#,62,#,#\r\n63,#,#,#,#,#,#,64,#,#,#,65,#,66,#\r\n#,#,67,#,#,#,#,68,#,#,#,#,69,#,#\r\n70,#,#,#,#,#,#,#,71,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
