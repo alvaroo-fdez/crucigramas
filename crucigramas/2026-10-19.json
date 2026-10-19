@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 10806,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-19T03:58:44.479739Z",
+      "updatedAt": "2026-10-19T04:00:00.372251Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-19",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "DEPON#PIRENAICA\r\nE#EDAN#TOMASE#R\r\nGR#OC#MERECI#UD\r\nREELABORAR#GURU\r\nADN##ATAIS#NADO\r\nDICTADO#MOPA#E#\r\nAMARRAR#ANITA#P\r\nDEJAD#####SUPRA\r\nO#OSUDA#ATAREAR\r\n#K#VAIS#TIRANTE\r\nALCE#LUPIN##AIN\r\nMUIR#AMENAZANTE\r\nIM#SETICO#IR#OS\r\nG#CAMARA#COMI#I\r\nACELERADO#NAVAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Pintado de más oscuro a más claro",
+              "answer": "DEGRADADO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Inic de narco colombiano apodado \"El Patrón\"",
+              "answer": "PE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Aquí se empieza desde abajo, con el fango",
+              "answer": "ODOL"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Una cana rebelde",
+              "answer": "NACA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Repite, vuelve a decir lo dicho",
+              "answer": "ITERA"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Tepuy más alto de Venezuela",
+              "answer": "RORAIMA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Fittipaldi\" expiloto de F1",
+              "answer": "EMERSON"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "El reflejo del perro",
+              "answer": "NAC"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Cada materia del plan de estudios de una carrera universitaria",
+              "answer": "ASIGNATURA"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Siglas del primer navegador de Microsoft",
+              "answer": "IE"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Dificultoso, laborioso trabajo",
+              "answer": "ARDUO"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "\"Soy yo el que se… si no encuentro redentor\" Nach",
+              "answer": "REDIME"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Máquina que produce movimiento a través de energía",
+              "answer": "MOTOR"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Trama, arma un plan",
+              "answer": "URDE"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Uno ajustadamente una cosa con otra",
+              "answer": "ENCAJO"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Adaptación al español de la palabra portuguesa para rinoceronte",
+              "answer": "BADA"
+            },
+            "24": {
+              "col": 12,
+              "row": 3,
+              "clue": "Dominio web para Ucrania",
+              "answer": "UA"
+            },
+            "29": {
+              "col": 3,
+              "row": 5,
+              "clue": "Que cruza de un lado a otro",
+              "answer": "TRASVERSAL"
+            },
+            "30": {
+              "col": 4,
+              "row": 5,
+              "clue": "Labor áspera y fragosa",
+              "answer": "ARDUA"
+            },
+            "32": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pisotear moralmente",
+              "answer": "PISAR"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Avergüenzan, generan pudor",
+              "answer": "APENAN"
+            },
+            "36": {
+              "col": 14,
+              "row": 6,
+              "clue": "Discurso moral y persuasivo",
+              "answer": "PARENESIS"
+            },
+            "39": {
+              "col": 13,
+              "row": 7,
+              "clue": "Pequeñito lapso de tiempo",
+              "answer": "RATITO"
+            },
+            "41": {
+              "col": 5,
+              "row": 8,
+              "clue": "Expandir la pupila",
+              "answer": "DILATAR"
+            },
+            "42": {
+              "col": 6,
+              "row": 8,
+              "clue": "Aceptará su error, lo…",
+              "answer": "ASUMIRA"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Acierto, pero a ti no te importa",
+              "answer": "ATINO"
+            },
+            "44": {
+              "col": 9,
+              "row": 8,
+              "clue": "\"Anita lava la…\" famoso palíndromo",
+              "answer": "TINA"
+            },
+            "45": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"Heidi…\" modelo y presentadora alemana",
+              "answer": "KLUM"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "\"… mía, princesa de un cuento infinito\"",
+              "answer": "AMIGA"
+            },
+            "49": {
+              "col": 2,
+              "row": 10,
+              "clue": "101 en numeración romana",
+              "answer": "CI"
+            },
+            "51": {
+              "col": 7,
+              "row": 10,
+              "clue": "Ofended a Dios",
+              "answer": "PECAD"
+            },
+            "55": {
+              "col": 10,
+              "row": 11,
+              "clue": "La última ciudad humana en la tierra de Matrix",
+              "answer": "ZION"
+            },
+            "56": {
+              "col": 11,
+              "row": 11,
+              "clue": "Es un error amar a una pistola",
+              "answer": "ARMA"
+            },
+            "59": {
+              "col": 4,
+              "row": 12,
+              "clue": "Nombre de la letra \"m\"",
+              "answer": "EME"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "La tercera",
+              "answer": "CE"
+            },
+            "64": {
+              "col": 12,
+              "row": 13,
+              "clue": "Cuatro en números romanos",
+              "answer": "IV"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Baja las armas",
+              "answer": "DEPON"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "\"Alta Ruta…\" desde el mar Cantábrico hasta el Mediterráneo",
+              "answer": "PIRENAICA"
+            },
+            "13": {
+              "col": 2,
+              "row": 1,
+              "clue": "Milicia: Ayudante de campo",
+              "answer": "EDAN"
+            },
+            "14": {
+              "col": 7,
+              "row": 1,
+              "clue": "Hiciese buen uso de la barra libre",
+              "answer": "TOMASE"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Iniciales de la modelo argentina pareja de Cristiano",
+              "answer": "GR"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Recibí en relación con mi esfuerzo",
+              "answer": "MERECI"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Abreviatura de usted",
+              "answer": "UD"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Volver a hacer",
+              "answer": "REELABORAR"
+            },
+            "23": {
+              "col": 11,
+              "row": 3,
+              "clue": "Maestro espiritual o jefe religioso del hinduismo",
+              "answer": "GURU"
+            },
+            "25": {
+              "col": 0,
+              "row": 4,
+              "clue": "Prueba de paternidad",
+              "answer": "ADN"
+            },
+            "26": {
+              "col": 5,
+              "row": 4,
+              "clue": "Sujetáis con ligaduras o nudos",
+              "answer": "ATAIS"
+            },
+            "27": {
+              "col": 11,
+              "row": 4,
+              "clue": "Me desplazo en el agua braceando",
+              "answer": "NADO"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Ejercicio de ortografía común en la primaria",
+              "answer": "DICTADO"
+            },
+            "31": {
+              "col": 8,
+              "row": 5,
+              "clue": "Utensilio de limpieza",
+              "answer": "MOPA"
+            },
+            "33": {
+              "col": 0,
+              "row": 6,
+              "clue": "Asegurar el barco al muelle",
+              "answer": "AMARRAR"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "\"… Delgado Briones\" bailarina española maharaní de La India",
+              "answer": "ANITA"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "Soltad algo",
+              "answer": "DEJAD"
+            },
+            "38": {
+              "col": 10,
+              "row": 7,
+              "clue": "Si lo que está por abajo es \"infra\", lo que está por encima es…",
+              "answer": "SUPRA"
+            },
+            "40": {
+              "col": 2,
+              "row": 8,
+              "clue": "Huesuda, de mucho hueso",
+              "answer": "OSUDA"
+            },
+            "43": {
+              "col": 8,
+              "row": 8,
+              "clue": "Poner o señalar una tarea a alguien",
+              "answer": "ATAREAR"
+            },
+            "46": {
+              "col": 3,
+              "row": 9,
+              "clue": "Andáis, camináis",
+              "answer": "VAIS"
+            },
+            "47": {
+              "col": 8,
+              "row": 9,
+              "clue": "Una camiseta sin mangas",
+              "answer": "TIRANTE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Mamífero rumiante, con grandes astas",
+              "answer": "ALCE"
+            },
+            "50": {
+              "col": 5,
+              "row": 10,
+              "clue": "Serie francesa sobre un ladrón profesional, llamado Assane Diop",
+              "answer": "LUPIN"
+            },
+            "52": {
+              "col": 12,
+              "row": 10,
+              "clue": "Caín perdió la cabeza",
+              "answer": "AIN"
+            },
+            "53": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ordeñar a la vaca",
+              "answer": "MUIR"
+            },
+            "54": {
+              "col": 5,
+              "row": 11,
+              "clue": "Intimidante, que da miedo",
+              "answer": "AMENAZANTE"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Importan muy poco",
+              "answer": "IM"
+            },
+            "58": {
+              "col": 3,
+              "row": 12,
+              "clue": "Perú: Árbol amazónico, de madera liviana con la que se hacen balsas",
+              "answer": "SETICO"
+            },
+            "60": {
+              "col": 10,
+              "row": 12,
+              "clue": "Andar, marchar",
+              "answer": "IR"
+            },
+            "61": {
+              "col": 13,
+              "row": 12,
+              "clue": "Símbolo químico del osmio",
+              "answer": "OS"
+            },
+            "62": {
+              "col": 2,
+              "row": 13,
+              "clue": "Aparato óptico de vigilancia",
+              "answer": "CAMARA"
+            },
+            "63": {
+              "col": 9,
+              "row": 13,
+              "clue": "Me alimenté",
+              "answer": "COMI"
+            },
+            "65": {
+              "col": 0,
+              "row": 14,
+              "clue": "El auto va a máxima velocidad, está…",
+              "answer": "ACELERADO"
+            },
+            "66": {
+              "col": 10,
+              "row": 14,
+              "clue": "Exguardameta del Paris Saint-Germain FC",
+              "answer": "NAVAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Pintado de más oscuro a más claro \r\n2-Inic de narco colombiano apodado \"El Patrón\"\r\n3-Aquí se empieza desde abajo, con el fango\r\n4-Una cana rebelde\r\n6-Repite, vuelve a decir lo dicho\r\n7-Tepuy más alto de Venezuela\r\n8-\"… Fittipaldi\" expiloto de F1\r\n9-El reflejo del perro\r\n10-Cada materia del plan de estudios de una carrera universitaria\r\n11-Siglas del primer navegador de Microsoft\r\n12-Dificultoso, laborioso trabajo\r\n16-\"Soy yo el que se… si no encuentro redentor\" Nach\r\n18-Máquina que produce movimiento a través de energía\r\n19-Trama, arma un plan\r\n21-Uno ajustadamente una cosa con otra\r\n22-Adaptación al español de la palabra portuguesa para rinoceronte\r\n24-Dominio web para Ucrania\r\n29-Que cruza de un lado a otro \r\n30-Labor áspera y fragosa\r\n32-Pisotear moralmente\r\n35-Avergüenzan, generan pudor\r\n36-Discurso moral y persuasivo \r\n39-Pequeñito lapso de tiempo\r\n41-Expandir la pupila\r\n42-Aceptará su error, lo…\r\n43-Acierto, pero a ti no te importa\r\n44-\"Anita lava la…\" famoso palíndromo\r\n45-\"Heidi…\" modelo y presentadora alemana\r\n48-\"… mía, princesa de un cuento infinito\" \r\n49-101 en numeración romana\r\n51-Ofended a Dios\r\n55-La última ciudad humana en la tierra de Matrix\r\n56-Es un error amar a una pistola\r\n59-Nombre de la letra \"m\"\r\n62-La tercera\r\n64-Cuatro en números romanos",
+        "horizontal_clues": "1-Baja las armas\r\n5-\"Alta Ruta…\" desde el mar Cantábrico hasta el Mediterráneo\r\n13-Milicia: Ayudante de campo\r\n14-Hiciese buen uso de la barra libre\r\n15-Iniciales de la modelo argentina pareja de Cristiano\r\n17-Lengua provenzal \r\n18-Recibí en relación con mi esfuerzo\r\n19-Abreviatura de usted\r\n20-Volver a hacer\r\n23-Maestro espiritual o jefe religioso del hinduismo\r\n25-Prueba de paternidad\r\n26-Sujetáis con ligaduras o nudos\r\n27-Me desplazo en el agua braceando\r\n28-Ejercicio de ortografía común en la primaria\r\n31-Utensilio de limpieza\r\n33-Asegurar el barco al muelle\r\n34-\"… Delgado Briones\" bailarina española maharaní de La India\r\n37-Soltad algo\r\n38-Si lo que está por abajo es \"infra\", lo que está por encima es…\r\n40-Huesuda, de mucho hueso\r\n43-Poner o señalar una tarea a alguien\r\n46-Andáis, camináis\r\n47-Una camiseta sin mangas\r\n48-Mamífero rumiante, con grandes astas\r\n50-Serie francesa sobre un ladrón profesional, llamado Assane Diop\r\n52-Caín perdió la cabeza\r\n53-Ordeñar a la vaca\r\n54-Intimidante, que da miedo\r\n57-Importan muy poco\r\n58-Perú: Árbol amazónico, de madera liviana con la que se hacen balsas\r\n60-Andar, marchar\r\n61-Símbolo químico del osmio\r\n62-Aparato óptico de vigilancia\r\n63-Me alimenté\r\n65-El auto va a máxima velocidad, está…\r\n66-Exguardameta del Paris Saint-Germain FC",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,#,5,6,7,8,9,10,11,#,12\r\n#,#,13,#,#,#,#,14,#,#,#,#,#,#,#\r\n15,16,#,17,#,#,18,#,#,#,#,#,#,19,#\r\n20,#,21,#,#,22,#,#,#,#,#,23,24,#,#\r\n25,#,#,#,#,26,#,#,#,#,#,27,#,#,#\r\n28,#,#,29,30,#,#,#,31,#,32,#,#,#,#\r\n33,#,#,#,#,#,#,#,34,#,#,#,35,#,36\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,39,#\r\n#,#,40,#,#,41,42,#,43,44,#,#,#,#,#\r\n#,45,#,46,#,#,#,#,47,#,#,#,#,#,#\r\n48,#,49,#,#,50,#,51,#,#,#,#,52,#,#\r\n53,#,#,#,#,54,#,#,#,#,55,56,#,#,#\r\n57,#,#,58,59,#,#,#,#,#,60,#,#,61,#\r\n#,#,62,#,#,#,#,#,#,63,#,#,64,#,#\r\n65,#,#,#,#,#,#,#,#,#,66,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
