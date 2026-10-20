@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 10814,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-20T00:05:51.824308Z",
+      "updatedAt": "2026-10-20T00:05:51.824321Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-20",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#CIPRES#DECENA#\r\nPADROTE#INUSADA\r\nEEEE#ATOLE#TIOS\r\nTRAP#LORES#ERRE\r\nASLOB##L##ARENA\r\nTE#SANTORINI#OD\r\nE#HILAR#IDOLA#A\r\n#ROCOSA#CANINA#\r\nO#MINAS#OSADA#F\r\nBLOOM##E##DALGO\r\nLA#NATIVIDAD#RR\r\nIME#NAVIDAD#DEM\r\nGARGOLA#ORACULO\r\nORTO#ANCLA#SKOL\r\n#REA#NACOS#OIS#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Tropezarse, despeñarse",
+              "answer": "CAERSE"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Excelente, perfecto en su línea",
+              "answer": "IDEAL"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Palabra invariable que hace que una oración quede subordinada a otra",
+              "answer": "PREPOSICION"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Un poco de rock and roll",
+              "answer": "RO"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Voz latina para indicar más autores en la cita bibliográfica",
+              "answer": "ETAL"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Cercado hecho de matas o arbustos",
+              "answer": "SETO"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Cuéntale al edil porque está confundido",
+              "answer": "DILE"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Decimocuarta letra del alfabeto (pl)",
+              "answer": "ENES"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Símbolo químico del cobre",
+              "answer": "CU"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Incapacidad  para fecundar",
+              "answer": "ESTERILIDAD"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Cuidador de elefantes",
+              "answer": "NAIRE"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Engalanó a Horkheimer, para ir a un concierto en Frankfurt",
+              "answer": "ADORNO"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Estera de palma",
+              "answer": "PETATE"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Ella cuida su higiene, es muy…",
+              "answer": "ASEADA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Oboe rústico de los Alpes, con 2 metros de largo",
+              "answer": "ORLO"
+            },
+            "24": {
+              "col": 4,
+              "row": 4,
+              "clue": "Deporte en el que transportan la pelota con las manos",
+              "answer": "BALONMANO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Abrumada, muy desconcertada",
+              "answer": "ANONADADA"
+            },
+            "28": {
+              "col": 5,
+              "row": 5,
+              "clue": "Desvían meteoritos",
+              "answer": "NASA"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "En busca o seguimiento de",
+              "answer": "TRAS"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Hombre con mucho dinero",
+              "answer": "RICO"
+            },
+            "31": {
+              "col": 9,
+              "row": 5,
+              "clue": "Personas que están faltas de juicio",
+              "answer": "IDAS"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Prefijo que significa igual",
+              "answer": "HOMO"
+            },
+            "35": {
+              "col": 12,
+              "row": 6,
+              "clue": "Relativo al ano",
+              "answer": "ANAL"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Impuso, coaccionó, sometió",
+              "answer": "OBLIGO"
+            },
+            "41": {
+              "col": 14,
+              "row": 8,
+              "clue": "Sustancia que antiguamente se usaba para conservar cadáveres",
+              "answer": "FORMOL"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "\"Hedy…\" Inventora del WIFI y 1ª actriz en desnudarse en una peli",
+              "answer": "LAMARR"
+            },
+            "44": {
+              "col": 7,
+              "row": 9,
+              "clue": "Muy pocas evidencias",
+              "answer": "EVI"
+            },
+            "46": {
+              "col": 13,
+              "row": 9,
+              "clue": "Brote floral del nabo (pl)",
+              "answer": "GRELOS"
+            },
+            "49": {
+              "col": 5,
+              "row": 10,
+              "clue": "Liquidan a un árbol",
+              "answer": "TALAN"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Actriz que interpreta a Eva Villanueva en la serie 'Alta Mar'",
+              "answer": "IVANA"
+            },
+            "51": {
+              "col": 8,
+              "row": 10,
+              "clue": "Digno de admirar y seguir, es un…",
+              "answer": "IDOLO"
+            },
+            "52": {
+              "col": 9,
+              "row": 10,
+              "clue": "Dotarás, surtirás",
+              "answer": "DARAS"
+            },
+            "55": {
+              "col": 2,
+              "row": 11,
+              "clue": "Despedido temporal",
+              "answer": "ERTE"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Famoso rapero argentino",
+              "answer": "DUKI"
+            },
+            "59": {
+              "col": 3,
+              "row": 12,
+              "clue": "Antigua ciudad hindú",
+              "answer": "GOA"
+            },
+            "61": {
+              "col": 11,
+              "row": 12,
+              "clue": "El director científico, (Chief scientific officer)",
+              "answer": "CSO"
+            },
+            "64": {
+              "col": 7,
+              "row": 13,
+              "clue": "Centro Comercial",
+              "answer": "CC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Árbol que acompaña el descanso eterno",
+              "answer": "CIPRES"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Diez unidades",
+              "answer": "DECENA"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Macho destinado a la reproducción en ganadería",
+              "answer": "PADROTE"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Poco común, rara vez vista",
+              "answer": "INUSADA"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Eduardo Enrique Escobar Espinoza",
+              "answer": "EEEE"
+            },
+            "17": {
+              "col": 5,
+              "row": 2,
+              "clue": "Cocción dulce de harina de maíz, espesa, caliente",
+              "answer": "ATOLE"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Hermanos de su padre o madre",
+              "answer": "TIOS"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Género urbano similar al rap",
+              "answer": "TRAP"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Señores, nobles británicos",
+              "answer": "LORES"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "Me equivoqué",
+              "answer": "ERRE"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Retrocede la de valores",
+              "answer": "ASLOB"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Tatami de gladiadores",
+              "answer": "ARENA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Teluro",
+              "answer": "TE"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "En esta isla griega hay un mito sobre la Atlántida",
+              "answer": "SANTORINI"
+            },
+            "32": {
+              "col": 13,
+              "row": 5,
+              "clue": "Un poco de odio",
+              "answer": "OD"
+            },
+            "33": {
+              "col": 2,
+              "row": 6,
+              "clue": "Sacar la seda del capullo con el gusano vivo dentro de él",
+              "answer": "HILAR"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Celebridad femenina elevada a categoría de mito",
+              "answer": "IDOLA"
+            },
+            "36": {
+              "col": 1,
+              "row": 7,
+              "clue": "Pedregosa",
+              "answer": "ROCOSA"
+            },
+            "37": {
+              "col": 8,
+              "row": 7,
+              "clue": "La peluquería de los perretes",
+              "answer": "CANINA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Unas chicas argentinas",
+              "answer": "MINAS"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Temeraria, atrevida",
+              "answer": "OSADA"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Will Turner en \"Piratas del Caribe\"",
+              "answer": "BLOOM"
+            },
+            "45": {
+              "col": 10,
+              "row": 9,
+              "clue": "Desuso Hacer bien, tratar con agasajo y regalo",
+              "answer": "DALGO"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Nota musical",
+              "answer": "LA"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Celebración del nacimiento de Jesús en Belén",
+              "answer": "NATIVIDAD"
+            },
+            "53": {
+              "col": 13,
+              "row": 10,
+              "clue": "Dígrafo que nunca ha sido una letra",
+              "answer": "RR"
+            },
+            "54": {
+              "col": 0,
+              "row": 11,
+              "clue": "Centro agroalimentario",
+              "answer": "IME"
+            },
+            "56": {
+              "col": 4,
+              "row": 11,
+              "clue": "Fiesta capital del cristianismo",
+              "answer": "NAVIDAD"
+            },
+            "57": {
+              "col": 12,
+              "row": 11,
+              "clue": "Empieza a demostrar",
+              "answer": "DEM"
+            },
+            "58": {
+              "col": 0,
+              "row": 12,
+              "clue": "Criatura gótica de piedra",
+              "answer": "GARGOLA"
+            },
+            "60": {
+              "col": 8,
+              "row": 12,
+              "clue": "Vaticinio, profecía",
+              "answer": "ORACULO"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "Salida del sol o de otro astro por el horizonte",
+              "answer": "ORTO"
+            },
+            "63": {
+              "col": 5,
+              "row": 13,
+              "clue": "En el canal calan el áncora",
+              "answer": "ANCLA"
+            },
+            "65": {
+              "col": 11,
+              "row": 13,
+              "clue": "Salud a lo vikingo",
+              "answer": "SKOL"
+            },
+            "66": {
+              "col": 1,
+              "row": 14,
+              "clue": "Madre de Zeus",
+              "answer": "REA"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Puerto Rico y Uruguay Andullos de tabaco",
+              "answer": "NACOS"
+            },
+            "68": {
+              "col": 11,
+              "row": 14,
+              "clue": "Percibís un ruido",
+              "answer": "OIS"
+            }
+          }
+        },
+        "vertical_clues": "1-Tropezarse, despeñarse\r\n2-Excelente, perfecto en su línea\r\n3-Palabra invariable que hace que una oración quede subordinada a otra\r\n4-Un poco de rock and roll\r\n5-Voz latina para indicar más autores en la cita bibliográfica\r\n6-Cercado hecho de matas o arbustos\r\n7-Cuéntale al edil porque está confundido\r\n8-Decimocuarta letra del alfabeto (pl)\r\n9-Símbolo químico del cobre\r\n10-Incapacidad  para fecundar\r\n11-Cuidador de elefantes\r\n12-Engalanó a Horkheimer, para ir a un concierto en Frankfurt\r\n13-Estera de palma\r\n15-Ella cuida su higiene, es muy…\r\n18-Oboe rústico de los Alpes, con 2 metros de largo\r\n24-Deporte en el que transportan la pelota con las manos\r\n25-Abrumada, muy desconcertada\r\n28-Desvían meteoritos\r\n29-En busca o seguimiento de\r\n30-Hombre con mucho dinero\r\n31-Personas que están faltas de juicio\r\n33-Prefijo que significa igual\r\n35-Relativo al ano\r\n38-Impuso, coaccionó, sometió\r\n41-Sustancia que antiguamente se usaba para conservar cadáveres\r\n43-\"Hedy…\" Inventora del WIFI y 1ª actriz en desnudarse en una peli\r\n44-Muy pocas evidencias\r\n46-Brote floral del nabo (pl)\r\n49-Liquidan a un árbol\r\n50-Actriz que interpreta a Eva Villanueva en la serie 'Alta Mar'\r\n51-Digno de admirar y seguir, es un…\r\n52-Dotarás, surtirás\r\n55-Despedido temporal\r\n57-Famoso rapero argentino\r\n59-Antigua ciudad hindú\r\n61-El director científico, (Chief scientific officer)\r\n64-Centro Comercial\r\n",
+        "horizontal_clues": "1-Árbol que acompaña el descanso eterno\r\n7-Diez unidades\r\n13-Macho destinado a la reproducción en ganadería \r\n14-Poco común, rara vez vista \r\n16-Eduardo Enrique Escobar Espinoza\r\n17-Cocción dulce de harina de maíz, espesa, caliente\r\n19-Hermanos de su padre o madre\r\n20-Género urbano similar al rap\r\n21-Señores, nobles británicos\r\n22-Me equivoqué\r\n23-Retrocede la de valores \r\n25-Tatami de gladiadores\r\n26-Teluro\r\n27-En esta isla griega hay un mito sobre la Atlántida \r\n32-Un poco de odio\r\n33-Sacar la seda del capullo con el gusano vivo dentro de él\r\n34-Celebridad femenina elevada a categoría de mito \r\n36-Pedregosa\r\n37-La peluquería de los perretes\r\n39-Unas chicas argentinas\r\n40-Temeraria, atrevida\r\n42-Will Turner en \"Piratas del Caribe\"\r\n45-Desuso Hacer bien, tratar con agasajo y regalo\r\n47-Nota musical\r\n48-Celebración del nacimiento de Jesús en Belén\r\n53-Dígrafo que nunca ha sido una letra\r\n54-Centro agroalimentario\r\n56-Fiesta capital del cristianismo\r\n57-Empieza a demostrar\r\n58-Criatura gótica de piedra \r\n60-Vaticinio, profecía\r\n62-Salida del sol o de otro astro por el horizonte\r\n63-En el canal calan el áncora\r\n65-Salud a lo vikingo\r\n66-Madre de Zeus\r\n67-Puerto Rico y Uruguay Andullos de tabaco\r\n68-Percibís un ruido\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,4,5,6,#,7,8,9,10,11,12,#\r\n13,#,#,#,#,#,#,#,14,#,#,#,#,#,15\r\n16,#,#,#,#,17,#,18,#,#,#,19,#,#,#\r\n20,#,#,#,#,21,#,#,#,#,#,22,#,#,#\r\n23,#,#,#,24,#,#,#,#,#,25,#,#,#,#\r\n26,#,#,27,#,28,29,#,30,31,#,#,#,32,#\r\n#,#,33,#,#,#,#,#,34,#,#,#,35,#,#\r\n#,36,#,#,#,#,#,#,37,#,#,#,#,#,#\r\n38,#,39,#,#,#,#,#,40,#,#,#,#,#,41\r\n42,43,#,#,#,#,#,44,#,#,45,#,#,46,#\r\n47,#,#,48,#,49,50,#,51,52,#,#,#,53,#\r\n54,#,55,#,56,#,#,#,#,#,#,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,63,#,64,#,#,#,65,#,#,#\r\n#,66,#,#,#,67,#,#,#,#,#,68,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
