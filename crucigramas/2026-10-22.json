@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 10965,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-21T19:32:48.642138Z",
+      "updatedAt": "2026-10-21T19:34:28.823132Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-22",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "ADORABLE#TABLON\r\nM#SELLE#SELLA#U\r\nAT#AGUINALDO#MN\r\nNIMBA#DOBLECLIC\r\n#BOSS#AMO#ASUMA\r\nBELO#P#ATA##DIJ\r\nATAREAR#ACALORA\r\nS##BASI#JUDO##M\r\nCAMERON#EROGABA\r\nUSU##SOY#E#AMAS\r\nLAICA#REU#ERES#\r\nABRASARAS#MINAR\r\nNA#SUPERAVIT#DI\r\nT#MOMIA#RITMO#C\r\nELISEO#MEDIOCRE",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Capital de Jordania",
+              "answer": "AMAN"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Símbolo químico del osmio",
+              "answer": "OS"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Vuelve a absorber",
+              "answer": "REABSORBE"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Si hay mucho nitrato en el agua, habrá muchas de estas plantas",
+              "answer": "ALGAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Famoso grafitero italiano",
+              "answer": "BLU"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Es una tipa instruida, educada",
+              "answer": "LEIDA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Personaje suizo que le puso una manzana en la cabeza al hijo",
+              "answer": "TELL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Entidad de menor vecindario y población",
+              "answer": "ALDEA"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Conjunto de hojas para dibujar que se desprenden fácilmente",
+              "answer": "BLOCS"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Nota musical",
+              "answer": "LA"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "El País de Peter Pan (2p)",
+              "answer": "NUNCAJAMAS"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Entorpecimiento hecho aposta para perjudicar a alguien",
+              "answer": "SABOTAJE"
+            },
+            "15": {
+              "col": 1,
+              "row": 2,
+              "clue": "Región natal del Dalai Lama",
+              "answer": "TIBET"
+            },
+            "17": {
+              "col": 7,
+              "row": 2,
+              "clue": "Famoso restaurante de la cocina danesa moderna",
+              "answer": "NOMA"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Tío materno de Odín y guardián de las fuentes de la sabiduría",
+              "answer": "MIMIR"
+            },
+            "20": {
+              "col": 2,
+              "row": 3,
+              "clue": "Es guay",
+              "answer": "MOLA"
+            },
+            "22": {
+              "col": 12,
+              "row": 3,
+              "clue": "Prefijo que refiere al juego",
+              "answer": "LUDO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Oscilante, bamboleante, tambaleante",
+              "answer": "BASCULANTE"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Movimientos sucesivos, que dejan huellas",
+              "answer": "PASOS"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Roedor doméstico, oriundo de las Antillas suramericanas",
+              "answer": "ACURE"
+            },
+            "32": {
+              "col": 4,
+              "row": 6,
+              "clue": "Voltear a la derecha y ver la oreja de un inglés",
+              "answer": "EAR"
+            },
+            "33": {
+              "col": 6,
+              "row": 6,
+              "clue": "Emisión abundante de líquido por la nariz",
+              "answer": "RINORREA"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Entrando en la adolescencia",
+              "answer": "ADO"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "El algoritmo por error me ha mostrado esta función neperiana",
+              "answer": "LOGARITMO"
+            },
+            "40": {
+              "col": 1,
+              "row": 8,
+              "clue": "Hacía comestible un alimento por la acción directa del fuego",
+              "answer": "ASABA"
+            },
+            "41": {
+              "col": 2,
+              "row": 8,
+              "clue": "Ordeñar a la vaca",
+              "answer": "MUIR"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "Palabra católica, para cierre y verificación de lo dicho",
+              "answer": "AMEN"
+            },
+            "44": {
+              "col": 13,
+              "row": 8,
+              "clue": "Fundamentad",
+              "answer": "BASAD"
+            },
+            "47": {
+              "col": 7,
+              "row": 9,
+              "clue": "Año en inglés",
+              "answer": "YEAR"
+            },
+            "50": {
+              "col": 3,
+              "row": 10,
+              "clue": "Fenómenos, manifestaciones",
+              "answer": "CASOS"
+            },
+            "51": {
+              "col": 4,
+              "row": 10,
+              "clue": "Se hace cargo",
+              "answer": "ASUME"
+            },
+            "53": {
+              "col": 8,
+              "row": 10,
+              "clue": "Le daré utilidad",
+              "answer": "USARE"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Arrojé, eché hacia fuera algo",
+              "answer": "EMITI"
+            },
+            "56": {
+              "col": 5,
+              "row": 11,
+              "clue": "Planta herbácea que pertenece a la misma familia que el perejil",
+              "answer": "APIO"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Me hice bucles en el cabello, me lo ensortijé, me lo…",
+              "answer": "RICE"
+            },
+            "61": {
+              "col": 9,
+              "row": 12,
+              "clue": "La vida no acaba aquí",
+              "answer": "VID"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Casi es mío",
+              "answer": "MI"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Lengua provenzal",
+              "answer": "OC"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Encantador, cautivador",
+              "answer": "ADORABLE"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Este va a ser de anuncios",
+              "answer": "TABLON"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "Cierre bien esa carta",
+              "answer": "SELLE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Cierra herméticamente algo",
+              "answer": "SELLA"
+            },
+            "14": {
+              "col": 0,
+              "row": 2,
+              "clue": "Antiguo Testamento",
+              "answer": "AT"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Canción típica en Navidad",
+              "answer": "AGUINALDO"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Símbolo químico del Manganeso",
+              "answer": "MN"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Rodea con una aureola una figura santa",
+              "answer": "NIMBA"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Inform Doble acción en el ratón",
+              "answer": "DOBLECLIC"
+            },
+            "23": {
+              "col": 1,
+              "row": 4,
+              "clue": "Diseñó los uniformes de la SS",
+              "answer": "BOSS"
+            },
+            "24": {
+              "col": 6,
+              "row": 4,
+              "clue": "Dueño de esclavos",
+              "answer": "AMO"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Que se haga cargo",
+              "answer": "ASUMA"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "El padre de Egipto y Dánao",
+              "answer": "BELO"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Anuda",
+              "answer": "ATA"
+            },
+            "30": {
+              "col": 12,
+              "row": 5,
+              "clue": "Dije, alhaja pequeña",
+              "answer": "DIJ"
+            },
+            "31": {
+              "col": 0,
+              "row": 6,
+              "clue": "Poner o señalar una tarea a alguien",
+              "answer": "ATAREAR"
+            },
+            "34": {
+              "col": 8,
+              "row": 6,
+              "clue": "Enardece, calienta",
+              "answer": "ACALORA"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Ibas como loco buscando esa bebida filipina",
+              "answer": "BASI"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Arte marcial y deporte de combate de origen japonés",
+              "answer": "JUDO"
+            },
+            "39": {
+              "col": 0,
+              "row": 8,
+              "clue": "Cineasta canadiense, que dirigió 'Terminator', 'Avatar' y 'Titanic'",
+              "answer": "CAMERON"
+            },
+            "42": {
+              "col": 8,
+              "row": 8,
+              "clue": "Repartía los bienes",
+              "answer": "EROGABA"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "Estratovolcán activo situado en Hokkaido, Japón",
+              "answer": "USU"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "\"… leyenda\" película postapocalíptica con Will Smith",
+              "answer": "SOY"
+            },
+            "48": {
+              "col": 11,
+              "row": 9,
+              "clue": "Quiere, siente afecto",
+              "answer": "AMAS"
+            },
+            "49": {
+              "col": 0,
+              "row": 10,
+              "clue": "Educación independiente de organizaciones religiosas",
+              "answer": "LAICA"
+            },
+            "52": {
+              "col": 6,
+              "row": 10,
+              "clue": "Génesis: Hijo de Peleg, padre de Serug",
+              "answer": "REU"
+            },
+            "54": {
+              "col": 10,
+              "row": 10,
+              "clue": "Estás, existes",
+              "answer": "ERES"
+            },
+            "55": {
+              "col": 0,
+              "row": 11,
+              "clue": "Incendiarás, inflamarás",
+              "answer": "ABRASARAS"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Colocar bombas explosivas bajo la tierra",
+              "answer": "MINAR"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del sodio",
+              "answer": "NA"
+            },
+            "60": {
+              "col": 3,
+              "row": 12,
+              "clue": "Abundancia o exceso de algo que se considera necesario",
+              "answer": "SUPERAVIT"
+            },
+            "62": {
+              "col": 13,
+              "row": 12,
+              "clue": "Pronuncia 501 en romano antiguo",
+              "answer": "DI"
+            },
+            "63": {
+              "col": 2,
+              "row": 13,
+              "clue": "Un antiguo egipcio embalsamado",
+              "answer": "MOMIA"
+            },
+            "64": {
+              "col": 8,
+              "row": 13,
+              "clue": "Oído musical, tiene buen…",
+              "answer": "RITMO"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "Profeta sucesor de Elías",
+              "answer": "ELISEO"
+            },
+            "67": {
+              "col": 7,
+              "row": 14,
+              "clue": "De poco mérito, tirando a malo",
+              "answer": "MEDIOCRE"
+            }
+          }
+        },
+        "vertical_clues": "1-Capital de Jordania\r\n2-Símbolo químico del osmio\r\n3-Vuelve a absorber\r\n4-Si hay mucho nitrato en el agua, habrá muchas de estas plantas\r\n5-Famoso grafitero italiano\r\n6-Es una tipa instruida, educada\r\n7-Personaje suizo que le puso una manzana en la cabeza al hijo\r\n8-Entidad de menor vecindario y población\r\n9-Conjunto de hojas para dibujar que se desprenden fácilmente\r\n10-Nota musical\r\n11-El País de Peter Pan (2p) \r\n13-Entorpecimiento hecho aposta para perjudicar a alguien\r\n15-Región natal del Dalai Lama \r\n17-Famoso restaurante de la cocina danesa moderna\r\n18-Tío materno de Odín y guardián de las fuentes de la sabiduría\r\n20-Es guay\r\n22-Prefijo que refiere al juego\r\n26-Oscilante, bamboleante, tambaleante\r\n27-Movimientos sucesivos, que dejan huellas\r\n29-Roedor doméstico, oriundo de las Antillas suramericanas\r\n32-Voltear a la derecha y ver la oreja de un inglés\r\n33-Emisión abundante de líquido por la nariz\r\n35-Entrando en la adolescencia\r\n36-El algoritmo por error me ha mostrado esta función neperiana\r\n40-Hacía comestible un alimento por la acción directa del fuego\r\n41-Ordeñar a la vaca\r\n43-Palabra católica, para cierre y verificación de lo dicho\r\n44-Fundamentad\r\n47-Año en inglés\r\n50-Fenómenos, manifestaciones\r\n51-Se hace cargo\r\n53-Le daré utilidad\r\n54-Arrojé, eché hacia fuera algo\r\n56-Planta herbácea que pertenece a la misma familia que el perejil\r\n58-Me hice bucles en el cabello, me lo ensortijé, me lo…\r\n61-La vida no acaba aquí\r\n63-Casi es mío\r\n65-Lengua provenzal",
+        "horizontal_clues": "1-Encantador, cautivador\r\n7-Este va a ser de anuncios\r\n12-Cierre bien esa carta\r\n13-Cierra herméticamente algo\r\n14-Antiguo Testamento \r\n16-Canción típica en Navidad\r\n18-Símbolo químico del Manganeso\r\n19-Rodea con una aureola una figura santa\r\n21-Inform Doble acción en el ratón\r\n23-Diseñó los uniformes de la SS\r\n24-Dueño de esclavos\r\n25-Que se haga cargo\r\n26-El padre de Egipto y Dánao\r\n28-Anuda\r\n30-Dije, alhaja pequeña\r\n31-Poner o señalar una tarea a alguien\r\n34-Enardece, calienta\r\n37-Ibas como loco buscando esa bebida filipina\r\n38-Arte marcial y deporte de combate de origen japonés\r\n39-Cineasta canadiense, que dirigió 'Terminator', 'Avatar' y 'Titanic'\r\n42-Repartía los bienes\r\n45-Estratovolcán activo situado en Hokkaido, Japón\r\n46-\"… leyenda\" película postapocalíptica con Will Smith\r\n48-Quiere, siente afecto\r\n49-Educación independiente de organizaciones religiosas\r\n52-Génesis: Hijo de Peleg, padre de Serug\r\n54-Estás, existes\r\n55-Incendiarás, inflamarás\r\n57-Colocar bombas explosivas bajo la tierra\r\n59-Símbolo químico del sodio\r\n60-Abundancia o exceso de algo que se considera necesario\r\n62-Pronuncia 501 en romano antiguo\r\n63-Un antiguo egipcio embalsamado\r\n64-Oído musical, tiene buen…\r\n66-Profeta sucesor de Elías\r\n67-De poco mérito, tirando a malo",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,6,#,#,7,8,9,10,#,11\r\n#,#,12,#,#,#,#,#,13,#,#,#,#,#,#\r\n14,15,#,16,#,#,#,17,#,#,#,#,#,18,#\r\n19,#,20,#,#,#,21,#,#,#,#,#,22,#,#\r\n#,23,#,#,#,#,24,#,#,#,25,#,#,#,#\r\n26,#,#,#,#,27,#,28,#,29,#,#,30,#,#\r\n31,#,#,#,32,#,33,#,34,#,35,36,#,#,#\r\n#,#,#,37,#,#,#,#,38,#,#,#,#,#,#\r\n39,40,41,#,#,#,#,#,42,#,#,#,43,44,#\r\n45,#,#,#,#,46,#,47,#,#,#,48,#,#,#\r\n49,#,#,50,51,#,52,#,53,#,54,#,#,#,#\r\n55,#,#,#,#,56,#,#,#,#,57,#,#,#,58\r\n59,#,#,60,#,#,#,#,#,61,#,#,#,62,#\r\n#,#,63,#,#,#,#,#,64,#,#,#,65,#,#\r\n66,#,#,#,#,#,#,67,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
