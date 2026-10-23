@@ -1,0 +1,467 @@
+{
+  "data": {
+    "id": 10976,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-22T17:53:53.394263Z",
+      "updatedAt": "2026-10-22T17:55:34.360970Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-23",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "GONDOR##NALGADA\r\nU#CAPOS#APILO#M\r\nLG#TEME#TOMO#DB\r\nALTERAR#ADORNAR\r\nGUARANI#SOSIEGO\r\nSGTO#IER##NETAS\r\n#L##B#DECRETO#I\r\nBUENA#ALA#RASCA\r\nA#LUCIDEZ#O##E#\r\nSMITH##IOS#DUNA\r\nTEORIAS#LIBERAL\r\nASTILLA#EMULARE\r\nNA#CLAN#TURA#EG\r\nT#RIEGO#ALITA#A\r\nESPORAS##ALABAR",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Campo de concentración de la antigua Unión Soviética (pl)",
+              "answer": "GULAGS"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Iniciales del creador del musical 'Malinche'",
+              "answer": "NC"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Persona que da información o datos a los apostantes",
+              "answer": "DATERO"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ícono arquitectónico de Sídney",
+              "answer": "OPERA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Relativo a los gitanos o a su lengua",
+              "answer": "ROMANI"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Lo son la de montar y la de cocinar",
+              "answer": "NATAS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Alias, pseudónimo",
+              "answer": "APODO"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "El que pide dinero en la calle",
+              "answer": "LIMOSNERO"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Plaza circular donde confluyen varias calles",
+              "answer": "GLORIETA"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Principio y fin de algo",
+              "answer": "AO"
+            },
+            "11": {
+              "col": 14,
+              "row": 0,
+              "clue": "Manjar de los dioses del Olimpo",
+              "answer": "AMBROSIA"
+            },
+            "13": {
+              "col": 6,
+              "row": 1,
+              "clue": "Con el rostro estoico, con expresión imperturbable",
+              "answer": "SERIEDAD"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Un par de tragos",
+              "answer": "GLUGLU"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Arma blanca",
+              "answer": "DAGA"
+            },
+            "21": {
+              "col": 2,
+              "row": 3,
+              "clue": "Tatuaje sin terminar",
+              "answer": "TAT"
+            },
+            "23": {
+              "col": 12,
+              "row": 3,
+              "clue": "Notes que los pesos son sin taras",
+              "answer": "NETOS"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Volví a leer",
+              "answer": "RELEI"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Titulado en educación secundaria superior",
+              "answer": "BACHILLER"
+            },
+            "32": {
+              "col": 8,
+              "row": 6,
+              "clue": "Pieza de hierro que va debajo del puño de la espada y resguarda la mano",
+              "answer": "CAZOLETA"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "¿Lo tentabas de otra manera?, Sí, mucho, mucho",
+              "answer": "BASTANTE"
+            },
+            "34": {
+              "col": 2,
+              "row": 7,
+              "clue": "El líder de Los Intocables",
+              "answer": "ELIOT"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "\"Agujero…\" orificio del hueso por donde penetran los vasos que lo nutren",
+              "answer": "NUTRICIO"
+            },
+            "38": {
+              "col": 13,
+              "row": 7,
+              "clue": "Comeré por la noche",
+              "answer": "CENARE"
+            },
+            "41": {
+              "col": 1,
+              "row": 9,
+              "clue": "Mueble para el banquete",
+              "answer": "MESA"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Finge, aparenta",
+              "answer": "SIMULA"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "Revela a la autoridad un delito, designando al autor",
+              "answer": "DELATA"
+            },
+            "45": {
+              "col": 12,
+              "row": 9,
+              "clue": "Figura de cultura",
+              "answer": "URA"
+            },
+            "46": {
+              "col": 14,
+              "row": 9,
+              "clue": "Argumentar",
+              "answer": "ALEGAR"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Forma lagos o charcos",
+              "answer": "ALAGA"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Sin enfermedad, los chicos",
+              "answer": "SANOS"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Herramienta prehistórica",
+              "answer": "BURIL"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Iniciales del actor prota de 'Crepúsculo'",
+              "answer": "RP"
+            },
+            "60": {
+              "col": 12,
+              "row": 13,
+              "clue": "Receptor sanguíneo universal",
+              "answer": "AB"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "ESDLA: El reino que fundó Isildur, del que Aragorn sería heredero",
+              "answer": "GONDOR"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Como una cachetada, pero en los glúteos",
+              "answer": "NALGADA"
+            },
+            "12": {
+              "col": 2,
+              "row": 1,
+              "clue": "De copas locas con los mafiosos",
+              "answer": "CAPOS"
+            },
+            "14": {
+              "col": 8,
+              "row": 1,
+              "clue": "Hago una montaña de cosas, las…",
+              "answer": "APILO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Laura Gallego, fantástica escritora española autora de 'Finis Mundi'",
+              "answer": "LG"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Sospecha, desconfía, recela",
+              "answer": "TEME"
+            },
+            "18": {
+              "col": 8,
+              "row": 2,
+              "clue": "Cogió la moto equivocada",
+              "answer": "TOMO"
+            },
+            "19": {
+              "col": 13,
+              "row": 2,
+              "clue": "Símbolo químico del dubnio",
+              "answer": "DB"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Alertar incorrectamente puede romper la calma",
+              "answer": "ALTERAR"
+            },
+            "22": {
+              "col": 8,
+              "row": 3,
+              "clue": "Engalanar, embellecer con objetos externos",
+              "answer": "ADORNAR"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Lengua indígena de Paraguay",
+              "answer": "GUARANI"
+            },
+            "25": {
+              "col": 8,
+              "row": 4,
+              "clue": "Tener calma, controlar el ímpetu, encontrar…",
+              "answer": "SOSIEGO"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Pequeño sargento",
+              "answer": "SGTO"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "Sonreí (invertido)",
+              "answer": "IER"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Cantidades con impuestos descontados",
+              "answer": "NETAS"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Resolución oficial de obligado cumplimiento",
+              "answer": "DECRETO"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "El \"… Vista Social Club\"",
+              "answer": "BUENA"
+            },
+            "36": {
+              "col": 6,
+              "row": 7,
+              "clue": "Lado, flanco",
+              "answer": "ALA"
+            },
+            "37": {
+              "col": 10,
+              "row": 7,
+              "clue": "Se frota la piel por picazón, se…",
+              "answer": "RASCA"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Perspicacia, sagacidad, inteligencia",
+              "answer": "LUCIDEZ"
+            },
+            "40": {
+              "col": 0,
+              "row": 9,
+              "clue": "Actor que interpreta al Genio de Aladdin (2019)",
+              "answer": "SMITH"
+            },
+            "42": {
+              "col": 7,
+              "row": 9,
+              "clue": "Sistema operativo del iPhone",
+              "answer": "IOS"
+            },
+            "44": {
+              "col": 11,
+              "row": 9,
+              "clue": "Colina de arena",
+              "answer": "DUNA"
+            },
+            "47": {
+              "col": 0,
+              "row": 10,
+              "clue": "Ideas que intentan darle sentido al mundo",
+              "answer": "TEORIAS"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Persona que tiene costumbres e ideas libres y sin prejuicios",
+              "answer": "LIBERAL"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Fragmento pequeño e irregular de un trozo de madera",
+              "answer": "ASTILLA"
+            },
+            "53": {
+              "col": 8,
+              "row": 11,
+              "clue": "Imitaré la acción de otro procurando igualarla",
+              "answer": "EMULARE"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Símbolo químico del sodio",
+              "answer": "NA"
+            },
+            "55": {
+              "col": 3,
+              "row": 12,
+              "clue": "Grupo unido por fuertes vínculos",
+              "answer": "CLAN"
+            },
+            "56": {
+              "col": 8,
+              "row": 12,
+              "clue": "A esta altura, ya no hay aluminio",
+              "answer": "TURA"
+            },
+            "57": {
+              "col": 13,
+              "row": 12,
+              "clue": "Dominio web para Egipto",
+              "answer": "EG"
+            },
+            "58": {
+              "col": 2,
+              "row": 13,
+              "clue": "Esparzo agua sobre las plantas",
+              "answer": "RIEGO"
+            },
+            "59": {
+              "col": 8,
+              "row": 13,
+              "clue": "Alí tapa disimuladamente su presita de pollo",
+              "answer": "ALITA"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Células reproductoras de los hongos",
+              "answer": "ESPORAS"
+            },
+            "62": {
+              "col": 9,
+              "row": 14,
+              "clue": "Halagar, enaltecer sus virtudes",
+              "answer": "ALABAR"
+            }
+          }
+        },
+        "vertical_clues": "1-Campo de concentración de la antigua Unión Soviética (pl)\r\n2-Iniciales del creador del musical 'Malinche'\r\n3-Persona que da información o datos a los apostantes\r\n4-Ícono arquitectónico de Sídney\r\n5-Relativo a los gitanos o a su lengua\r\n6-Lo son la de montar y la de cocinar\r\n7-Alias, pseudónimo\r\n8-El que pide dinero en la calle\r\n9-Plaza circular donde confluyen varias calles \r\n10-Principio y fin de algo\r\n11-Manjar de los dioses del Olimpo\r\n13-Con el rostro estoico, con expresión imperturbable\r\n16-Un par de tragos\r\n19-Arma blanca\r\n21-Tatuaje sin terminar\r\n23-Notes que los pesos son sin taras\r\n28-Volví a leer\r\n30-Titulado en educación secundaria superior\r\n32-Pieza de hierro que va debajo del puño de la espada y resguarda la mano \r\n33-¿Lo tentabas de otra manera?, Sí, mucho, mucho \r\n34-El líder de Los Intocables\r\n35-\"Agujero…\" orificio del hueso por donde penetran los vasos que lo nutren\r\n38-Comeré por la noche\r\n41-Mueble para el banquete \r\n43-Finge, aparenta\r\n44-Revela a la autoridad un delito, designando al autor\r\n45-Figura de cultura\r\n46-Argumentar\r\n48-Forma lagos o charcos\r\n49-Sin enfermedad, los chicos\r\n51-Herramienta prehistórica\r\n58-Iniciales del actor prota de 'Crepúsculo'\r\n60-Receptor sanguíneo universal",
+        "horizontal_clues": "1-ESDLA: El reino que fundó Isildur, del que Aragorn sería heredero\r\n6-Como una cachetada, pero en los glúteos \r\n12-De copas locas con los mafiosos\r\n14-Hago una montaña de cosas, las…\r\n15-Laura Gallego, fantástica escritora española autora de 'Finis Mundi'\r\n17-Sospecha, desconfía, recela\r\n18-Cogió la moto equivocada\r\n19-Símbolo químico del dubnio\r\n20-Alertar incorrectamente puede romper la calma \r\n22-Engalanar, embellecer con objetos externos\r\n24-Lengua indígena de Paraguay\r\n25-Tener calma, controlar el ímpetu, encontrar…\r\n26-Pequeño sargento\r\n27-Sonreí (invertido)\r\n29-Cantidades con impuestos descontados\r\n31-Resolución oficial de obligado cumplimiento \r\n33-El \"… Vista Social Club\"\r\n36-Lado, flanco\r\n37-Se frota la piel por picazón, se…\r\n39-Perspicacia, sagacidad, inteligencia\r\n40-Actor que interpreta al Genio de Aladdin (2019)\r\n42-Sistema operativo del iPhone\r\n44-Colina de arena\r\n47-Ideas que intentan darle sentido al mundo\r\n50-Persona que tiene costumbres e ideas libres y sin prejuicios\r\n52-Fragmento pequeño e irregular de un trozo de madera\r\n53-Imitaré la acción de otro procurando igualarla\r\n54-Símbolo químico del sodio\r\n55-Grupo unido por fuertes vínculos\r\n56-A esta altura, ya no hay aluminio\r\n57-Dominio web para Egipto\r\n58-Esparzo agua sobre las plantas\r\n59-Alí tapa disimuladamente su presita de pollo\r\n61-Células reproductoras de los hongos\r\n62-Halagar, enaltecer sus virtudes",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,4,5,#,#,6,7,8,9,10,#,11\r\n#,#,12,#,#,#,13,#,14,#,#,#,#,#,#\r\n15,16,#,17,#,#,#,#,18,#,#,#,#,19,#\r\n20,#,21,#,#,#,#,#,22,#,#,#,23,#,#\r\n24,#,#,#,#,#,#,#,25,#,#,#,#,#,#\r\n26,#,#,#,#,27,#,28,#,#,29,#,#,#,#\r\n#,#,#,#,30,#,31,#,32,#,#,#,#,#,#\r\n33,#,34,35,#,#,36,#,#,#,37,#,#,38,#\r\n#,#,39,#,#,#,#,#,#,#,#,#,#,#,#\r\n40,41,#,#,#,#,#,42,#,43,#,44,45,#,46\r\n47,#,#,#,#,48,49,#,50,#,51,#,#,#,#\r\n52,#,#,#,#,#,#,#,53,#,#,#,#,#,#\r\n54,#,#,55,#,#,#,#,56,#,#,#,#,57,#\r\n#,#,58,#,#,#,#,#,59,#,#,#,60,#,#\r\n61,#,#,#,#,#,#,#,#,62,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
