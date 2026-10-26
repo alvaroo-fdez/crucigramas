@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 10989,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-23T19:02:53.526380Z",
+      "updatedAt": "2026-10-23T19:02:53.526391Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-26",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#PAUTEN#MIHRAB#\r\nMIR#GRAGEAS#GEH\r\nUNTE#ANUAL#FUGA\r\nSTEVE#SAB#MEJOR\r\nGOMA#MUSAS#LEÑA\r\nORILLO#A#IMITAS\r\n##SUELA#PREPA##\r\n#G#EVOS#RECE#R#\r\nTUL#ANEMONA#DEB\r\nRAIA#AGATA#RETE\r\nIGLUS#UÑE#BABAS\r\nGUITARRACLASICA\r\nAA#ANYA#TUTU#OR\r\nL#UNTAD#OPERA#E\r\n#AMAINO#RALEZA#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Oficio de Picasso, Van Gogh o Vermeer",
+              "answer": "PINTOR"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Programa espacial que busca volver a pisar la Luna",
+              "answer": "ARTEMIS"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Dominio web para Togo",
+              "answer": "TG"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Ya no es ese tiempo histórico",
+              "answer": "ERA"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Tela fina de algodón usada para confeccionar pañuelos, ropa interior o blusas",
+              "answer": "NANSU"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Hacía pis",
+              "answer": "MEABA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "No puedo marcar 500 en el dial",
+              "answer": "IAL"
+            },
+            "8": {
+              "col": 10,
+              "row": 0,
+              "clue": "Herbert Spencer",
+              "answer": "HS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Dolor muscular por hacer muchos ejercicios",
+              "answer": "AGUJETA"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… Vargas\" actriz española de 'Alta mar' y 'Berlín'",
+              "answer": "BEGOÑA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Alfombra vegetal Un clásico en el belén",
+              "answer": "MUSGO"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Música guayanesa en la que se interpreta merengue con cadencias de calipso",
+              "answer": "GUASA"
+            },
+            "15": {
+              "col": 14,
+              "row": 1,
+              "clue": "Crearás, producirás",
+              "answer": "HARAS"
+            },
+            "17": {
+              "col": 3,
+              "row": 2,
+              "clue": "Puse a prueba el conocimiento de mis alumnos",
+              "answer": "EVALUE"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "\"… Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia\"",
+              "answer": "FELIPE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Manolo cambió por una chica muy maja",
+              "answer": "MOLONA"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "Ninfa de los marineros",
+              "answer": "SIRENA"
+            },
+            "28": {
+              "col": 4,
+              "row": 5,
+              "clue": "Mar de fondo, mar de…",
+              "answer": "LEVA"
+            },
+            "30": {
+              "col": 10,
+              "row": 5,
+              "clue": "Hollywood es la… del cine",
+              "answer": "MECA"
+            },
+            "32": {
+              "col": 6,
+              "row": 6,
+              "clue": "Afirmado, aseverado",
+              "answer": "ASEGURADO"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Crema que cuida del sol",
+              "answer": "PROTECTOR"
+            },
+            "34": {
+              "col": 1,
+              "row": 7,
+              "clue": "Autobús canario",
+              "answer": "GUAGUA"
+            },
+            "37": {
+              "col": 13,
+              "row": 7,
+              "clue": "Escopeta corta muy reforzada en la recámara",
+              "answer": "RETACO"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Donde comen trigo los tres tristes tigres",
+              "answer": "TRIGAL"
+            },
+            "39": {
+              "col": 2,
+              "row": 8,
+              "clue": "Diminutivo de Liliana",
+              "answer": "LILI"
+            },
+            "41": {
+              "col": 7,
+              "row": 8,
+              "clue": "Por un mañana sin sodio",
+              "answer": "MAÑA"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Tuve una deuda",
+              "answer": "DEBI"
+            },
+            "43": {
+              "col": 14,
+              "row": 8,
+              "clue": "Haré príncipe a un sapo",
+              "answer": "BESARE"
+            },
+            "45": {
+              "col": 3,
+              "row": 9,
+              "clue": "El tepuy, al sur de Venezuela, con una cueva formada de cuarzo",
+              "answer": "AUTANA"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Afeité el pelo del cuerpo",
+              "answer": "RASURE"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"… Cazorla\" centrocampo apodado El Mago",
+              "answer": "SANTI"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Embarcación a remo, con 4 remeros y 1 timonel",
+              "answer": "BATEL"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "\"Meg…\" junto a Antonio Banderas en la peli 'Mi novio es un ladrón'",
+              "answer": "RYAN"
+            },
+            "54": {
+              "col": 9,
+              "row": 11,
+              "clue": "La herramienta de Sherlock Holmes",
+              "answer": "LUPA"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Universidad de Margarita (siglas)",
+              "answer": "UM"
+            },
+            "61": {
+              "col": 12,
+              "row": 13,
+              "clue": "Abril Zamora (de la serie 'Todo lo otro')",
+              "answer": "AZ"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Determinen el modo de ejecutar una acción",
+              "answer": "PAUTEN"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Nicho que señala el sitio adonde han de mirar quienes oran en las mezquitas",
+              "answer": "MIHRAB"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Médico Interno Residente (siglas)",
+              "answer": "MIR"
+            },
+            "12": {
+              "col": 4,
+              "row": 1,
+              "clue": "Pastillas, cápsulas",
+              "answer": "GRAGEAS"
+            },
+            "14": {
+              "col": 12,
+              "row": 1,
+              "clue": "Gigi Es Hermoso",
+              "answer": "GEH"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "Aplique y extienda sobre la piel, el bronceador",
+              "answer": "UNTE"
+            },
+            "18": {
+              "col": 5,
+              "row": 2,
+              "clue": "Que se repite cada año",
+              "answer": "ANUAL"
+            },
+            "19": {
+              "col": 11,
+              "row": 2,
+              "clue": "Huida apresurada",
+              "answer": "FUGA"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"… Jobs\" cofundador de Apple",
+              "answer": "STEVE"
+            },
+            "21": {
+              "col": 6,
+              "row": 3,
+              "clue": "Novela escrita por Gertrudis Gómez de Avellaneda en 1841",
+              "answer": "SAB"
+            },
+            "22": {
+              "col": 10,
+              "row": 3,
+              "clue": "Preferiblemente",
+              "answer": "MEJOR"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Tira o banda elástica",
+              "answer": "GOMA"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Seres que inspiran a los artistas",
+              "answer": "MUSAS"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Aliento, vigor",
+              "answer": "LEÑA"
+            },
+            "27": {
+              "col": 0,
+              "row": 5,
+              "clue": "Borde tejido en telas y tapices",
+              "answer": "ORILLO"
+            },
+            "29": {
+              "col": 9,
+              "row": 5,
+              "clue": "Simulas, emulas",
+              "answer": "IMITAS"
+            },
+            "31": {
+              "col": 2,
+              "row": 6,
+              "clue": "Parte baja del calzado",
+              "answer": "SUELA"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "El Instituto es al Insti lo que la Preparatoria es a la…",
+              "answer": "PREPA"
+            },
+            "35": {
+              "col": 3,
+              "row": 7,
+              "clue": "Poética Duración de tiempo sin término (pl)",
+              "answer": "EVOS"
+            },
+            "36": {
+              "col": 8,
+              "row": 7,
+              "clue": "Diríjase a Dios",
+              "answer": "RECE"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Velo de novia",
+              "answer": "TUL"
+            },
+            "40": {
+              "col": 4,
+              "row": 8,
+              "clue": "Hogar en los arrecifes de los peces payasos",
+              "answer": "ANEMONA"
+            },
+            "42": {
+              "col": 12,
+              "row": 8,
+              "clue": "Débora ya no reza",
+              "answer": "DEB"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Raspaba una superficie",
+              "answer": "RAIA"
+            },
+            "46": {
+              "col": 5,
+              "row": 9,
+              "clue": "Cuarzo lapídeo",
+              "answer": "AGATA"
+            },
+            "47": {
+              "col": 11,
+              "row": 9,
+              "clue": "Desafié a duelo o pelea",
+              "answer": "RETE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Viviendas de los esquimales",
+              "answer": "IGLUS"
+            },
+            "50": {
+              "col": 6,
+              "row": 10,
+              "clue": "Núñez sin abrigo",
+              "answer": "UÑE"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Venezuela Reptil americano más pequeño que el cocodrilo (pl)",
+              "answer": "BABAS"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "El instrumento de Andrés Segovia (2p)",
+              "answer": "GUITARRACLASICA"
+            },
+            "55": {
+              "col": 0,
+              "row": 12,
+              "clue": "Alcohólicos Anónimos",
+              "answer": "AA"
+            },
+            "56": {
+              "col": 3,
+              "row": 12,
+              "clue": "\"… Taylor-Joy\" la prota en 'Gambito de Dama'",
+              "answer": "ANYA"
+            },
+            "57": {
+              "col": 8,
+              "row": 12,
+              "clue": "Lo usan la bailarinas de Degas",
+              "answer": "TUTU"
+            },
+            "58": {
+              "col": 13,
+              "row": 12,
+              "clue": "Río que pasa por Rusia y Kazajistán",
+              "answer": "OR"
+            },
+            "59": {
+              "col": 2,
+              "row": 13,
+              "clue": "Extended superficialmente aceite sobre algo",
+              "answer": "UNTAD"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "Ícono arquitectónico de Sídney",
+              "answer": "OPERA"
+            },
+            "62": {
+              "col": 1,
+              "row": 14,
+              "clue": "Aflojó su potencia el viento",
+              "answer": "AMAINO"
+            },
+            "63": {
+              "col": 8,
+              "row": 14,
+              "clue": "Cualidad de ralo",
+              "answer": "RALEZA"
+            }
+          }
+        },
+        "vertical_clues": "1-Oficio de Picasso, Van Gogh o Vermeer\r\n2-Programa espacial que busca volver a pisar la Luna\r\n3-Dominio web para Togo\r\n4-Ya no es ese tiempo histórico\r\n5-Tela fina de algodón usada para confeccionar pañuelos, ropa interior o blusas\r\n6-Hacía pis\r\n7-No puedo marcar 500 en el dial\r\n8-Herbert Spencer\r\n9-Dolor muscular por hacer muchos ejercicios\r\n10-\"… Vargas\" actriz española de 'Alta mar' y 'Berlín'\r\n11-Alfombra vegetal Un clásico en el belén\r\n13-Música guayanesa en la que se interpreta merengue con cadencias de calipso\r\n15-Crearás, producirás\r\n17-Puse a prueba el conocimiento de mis alumnos\r\n19-\"… Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia\"\r\n24-Manolo cambió por una chica muy maja\r\n25-Ninfa de los marineros\r\n28-Mar de fondo, mar de…\r\n30-Hollywood es la… del cine\r\n32-Afirmado, aseverado\r\n33-Crema que cuida del sol\r\n34-Autobús canario\r\n37-Escopeta corta muy reforzada en la recámara\r\n38-Donde comen trigo los tres tristes tigres\r\n39-Diminutivo de Liliana\r\n41-Por un mañana sin sodio\r\n42-Tuve una deuda\r\n43-Haré príncipe a un sapo\r\n45-El tepuy, al sur de Venezuela, con una cueva formada de cuarzo\r\n47-Afeité el pelo del cuerpo\r\n49-\"… Cazorla\" centrocampo apodado El Mago\r\n51-Embarcación a remo, con 4 remeros y 1 timonel\r\n53-\"Meg…\" junto a Antonio Banderas en la peli 'Mi novio es un ladrón'\r\n54-La herramienta de Sherlock Holmes\r\n59-Universidad de Margarita (siglas)\r\n61-Abril Zamora (de la serie 'Todo lo otro') \r\n",
+        "horizontal_clues": "1-Determinen el modo de ejecutar una acción\r\n6-Nicho que señala el sitio adonde han de mirar quienes oran en las mezquitas\r\n11-Médico Interno Residente (siglas)\r\n12-Pastillas, cápsulas\r\n14-Gigi Es Hermoso \r\n16-Aplique y extienda sobre la piel, el bronceador\r\n18-Que se repite cada año\r\n19-Huida apresurada\r\n20-\"… Jobs\" cofundador de Apple\r\n21-Novela escrita por Gertrudis Gómez de Avellaneda en 1841\r\n22-Preferiblemente\r\n23-Tira o banda elástica\r\n24-Seres que inspiran a los artistas\r\n26-Aliento, vigor\r\n27-Borde tejido en telas y tapices \r\n29-Simulas, emulas\r\n31-Parte baja del calzado\r\n33-El Instituto es al Insti lo que la Preparatoria es a la…\r\n35-Poética Duración de tiempo sin término (pl)\r\n36-Diríjase a Dios\r\n38-Velo de novia\r\n40-Hogar en los arrecifes de los peces payasos\r\n42-Débora ya no reza\r\n44-Raspaba una superficie\r\n46-Cuarzo lapídeo\r\n47-Desafié a duelo o pelea\r\n48-Viviendas de los esquimales\r\n50-Núñez sin abrigo\r\n51-Venezuela Reptil americano más pequeño que el cocodrilo (pl)\r\n52-El instrumento de Andrés Segovia (2p) \r\n55-Alcohólicos Anónimos\r\n56-\"… Taylor-Joy\" la prota en 'Gambito de Dama'\r\n57-Lo usan la bailarinas de Degas\r\n58-Río que pasa por Rusia y Kazajistán\r\n59-Extended superficialmente aceite sobre algo\r\n60-Ícono arquitectónico de Sídney\r\n62-Aflojó su potencia el viento\r\n63-Cualidad de ralo\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,#,3,4,5,#,6,7,8,#,9,10,#\r\n11,#,#,#,12,#,#,13,#,#,#,#,14,#,15\r\n16,#,#,17,#,18,#,#,#,#,#,19,#,#,#\r\n20,#,#,#,#,#,21,#,#,#,22,#,#,#,#\r\n23,#,#,#,#,24,#,#,#,25,#,26,#,#,#\r\n27,#,#,#,28,#,#,#,#,29,30,#,#,#,#\r\n#,#,31,#,#,#,32,#,33,#,#,#,#,#,#\r\n#,34,#,35,#,#,#,#,36,#,#,#,#,37,#\r\n38,#,39,#,40,#,#,41,#,#,#,#,42,#,43\r\n44,#,#,45,#,46,#,#,#,#,#,47,#,#,#\r\n48,#,#,#,49,#,50,#,#,#,51,#,#,#,#\r\n52,#,#,#,#,53,#,#,#,54,#,#,#,#,#\r\n55,#,#,56,#,#,#,#,57,#,#,#,#,58,#\r\n#,#,59,#,#,#,#,#,60,#,#,#,61,#,#\r\n#,62,#,#,#,#,#,#,63,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
