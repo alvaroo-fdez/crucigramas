@@ -1,0 +1,503 @@
+{
+  "data": {
+    "id": 11169,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-10-30T19:57:17.094909Z",
+      "updatedAt": "2026-10-30T22:58:07.172636Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "Scary Cruci",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-10-31",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#BOZAL###PENAL#\r\nHUYE#######ERIC\r\nOJO##TRAJE##ONU\r\nMI##GARGOLA##DE\r\nBABEEN#U#MORGAN\r\nR#ARN##J##SEL#T\r\nESTO###A###PODA\r\nD#ET#BASIC#RB#C\r\nE#SISES#SAPEO#U\r\nLM#CUCHILLAS#ME\r\nSUMASE###DRAGON\r\nAÑO#TR###EC#ORT\r\nCEM#OR###RA#LEO\r\nOCIO#OM#IO#LENS\r\n#AAAH#OUT#MOMO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "La que produce la chispa, en el motor",
+              "answer": "BUJIA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "En el hoyo lo escuchó",
+              "answer": "OYO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Síndrome de Zollinger-Ellison (siglas)",
+              "answer": "ZE"
+            },
+            "5": {
+              "col": 11,
+              "row": 0,
+              "clue": "Hay neón en el noreste",
+              "answer": "NE"
+            },
+            "6": {
+              "col": 12,
+              "row": 0,
+              "clue": "\"El …\" una cinta maldita y siete días antes de morir",
+              "answer": "ARO"
+            },
+            "7": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… Blair\" actriz que aterrorizó al mundo con su posesión demoníaca",
+              "answer": "LINDA"
+            },
+            "8": {
+              "col": 0,
+              "row": 1,
+              "clue": "Acecha en la oscuridad para llevarse a los niños desobedientes (3p)",
+              "answer": "HOMBREDELSACO"
+            },
+            "10": {
+              "col": 14,
+              "row": 1,
+              "clue": "Persona que manifiesta verbalmente los contenidos de un libro",
+              "answer": "CUENTACUENTOS"
+            },
+            "12": {
+              "col": 5,
+              "row": 2,
+              "clue": "\"Soy… pobre que solo tengo dinero\" Cristina Onassi",
+              "answer": "TAN"
+            },
+            "13": {
+              "col": 6,
+              "row": 2,
+              "clue": "Dígrafo que nunca ha sido una letra",
+              "answer": "RR"
+            },
+            "14": {
+              "col": 7,
+              "row": 2,
+              "clue": "Las que atraviesan la cabeza de Pinhead, el demonio de Hellraiser",
+              "answer": "AGUJAS"
+            },
+            "15": {
+              "col": 8,
+              "row": 2,
+              "clue": "Risa grave",
+              "answer": "JO"
+            },
+            "16": {
+              "col": 9,
+              "row": 2,
+              "clue": "La calle de la pesadillas malditas, la de Freddy Krueger",
+              "answer": "ELM"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Unidad de almacenamiento de información genética",
+              "answer": "GEN"
+            },
+            "20": {
+              "col": 10,
+              "row": 3,
+              "clue": "Apnea Obstructiva del Sueño",
+              "answer": "AOS"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "\"Norman…\" que oculta un cadáver y un secreto mortal en su motel Psicosis",
+              "answer": "BATES"
+            },
+            "24": {
+              "col": 3,
+              "row": 4,
+              "clue": "Sensual, sexi",
+              "answer": "EROTICA"
+            },
+            "26": {
+              "col": 11,
+              "row": 4,
+              "clue": "Construcción regula el curso de las aguas",
+              "answer": "REPRESA"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Si ves uno rojo flotando, Pennywise anda cerca",
+              "answer": "GLOBO"
+            },
+            "33": {
+              "col": 5,
+              "row": 7,
+              "clue": "Cría de vaca que podría acabar sacrificada en un ritual macabro",
+              "answer": "BECERRO"
+            },
+            "34": {
+              "col": 6,
+              "row": 7,
+              "clue": "Entrenador Pokémon, dueño de Pikachu",
+              "answer": "ASH"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Lis está completamente loca",
+              "answer": "ISL"
+            },
+            "36": {
+              "col": 9,
+              "row": 7,
+              "clue": "En él, las brujas hierven los ingredientes de un brebaje infernal",
+              "answer": "CALDERO"
+            },
+            "39": {
+              "col": 4,
+              "row": 8,
+              "clue": "Sobresalto que no puede faltar en una película de terror",
+              "answer": "SUSTO"
+            },
+            "41": {
+              "col": 10,
+              "row": 8,
+              "clue": "Encapuchada que viene a buscarte con su guadaña",
+              "answer": "PARCA"
+            },
+            "43": {
+              "col": 1,
+              "row": 9,
+              "clue": "Annabelle es una de las más terroríficas del cine",
+              "answer": "MUÑECA"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "\"Eloy…\" escritor español, autor de la novela \"Invisible\"",
+              "answer": "MORENO"
+            },
+            "47": {
+              "col": 2,
+              "row": 10,
+              "clue": "Cadáver milenario que despierta de su tumba",
+              "answer": "MOMIA"
+            },
+            "49": {
+              "col": 12,
+              "row": 10,
+              "clue": "Gigante de barro al que un conjuro insufla vida",
+              "answer": "GOLEM"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Vocales abiertas",
+              "answer": "OA"
+            },
+            "61": {
+              "col": 6,
+              "row": 13,
+              "clue": "Símbolo químico del Molibdeno",
+              "answer": "MO"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Novela de Stephen King donde el terror adopta forma de payaso",
+              "answer": "IT"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "Artículo neutro",
+              "answer": "LO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Correaje que impide a Hannibal Lecter devorar a su próxima víctima",
+              "answer": "BOZAL"
+            },
+            "4": {
+              "col": 9,
+              "row": 0,
+              "clue": "Un tanto cruel",
+              "answer": "PENAL"
+            },
+            "8": {
+              "col": 0,
+              "row": 1,
+              "clue": "Escapa despavorido del monstruo que lo persigue",
+              "answer": "HUYE"
+            },
+            "9": {
+              "col": 11,
+              "row": 1,
+              "clue": "\"… Cartman\" personaje de South Park",
+              "answer": "ERIC"
+            },
+            "11": {
+              "col": 0,
+              "row": 2,
+              "clue": "El único que necesita un cíclope para vigilarte",
+              "answer": "OJO"
+            },
+            "12": {
+              "col": 5,
+              "row": 2,
+              "clue": "El de Slender Man es negro como tus peores pesadillas",
+              "answer": "TRAJE"
+            },
+            "17": {
+              "col": 12,
+              "row": 2,
+              "clue": "Mayor org internacional de Estados soberanos (siglas)",
+              "answer": "ONU"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Esa nota me pertenece",
+              "answer": "MI"
+            },
+            "19": {
+              "col": 4,
+              "row": 3,
+              "clue": "Monstruo de piedra que acecha desde las alturas",
+              "answer": "GARGOLA"
+            },
+            "21": {
+              "col": 13,
+              "row": 3,
+              "clue": "Idioma alemán, en los manuales de instrucción",
+              "answer": "DE"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Echen baba por la boca, como zombis hambrientos",
+              "answer": "BABEEN"
+            },
+            "25": {
+              "col": 9,
+              "row": 4,
+              "clue": "\"Samara…\" la niña del pozo que mata 7 días después de ver su vídeo maldito",
+              "answer": "MORGAN"
+            },
+            "28": {
+              "col": 2,
+              "row": 5,
+              "clue": "Mensajero biológico de nuestras células (siglas)",
+              "answer": "ARN"
+            },
+            "29": {
+              "col": 10,
+              "row": 5,
+              "clue": "Pradería de Asturias",
+              "answer": "SEL"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Lo que tengo aquí, pero no se su nombre",
+              "answer": "ESTO"
+            },
+            "31": {
+              "col": 11,
+              "row": 6,
+              "clue": "Les hace un cambio de look a los árboles, los…",
+              "answer": "PODA"
+            },
+            "32": {
+              "col": 2,
+              "row": 7,
+              "clue": "Extraterrestre creado por Steven Spielberg",
+              "answer": "ET"
+            },
+            "33": {
+              "col": 5,
+              "row": 7,
+              "clue": "Mi inglés es muy básico",
+              "answer": "BASIC"
+            },
+            "37": {
+              "col": 11,
+              "row": 7,
+              "clue": "Símbolo químico del rubidio",
+              "answer": "RB"
+            },
+            "38": {
+              "col": 2,
+              "row": 8,
+              "clue": "Quites, robes una pequeña porción",
+              "answer": "SISES"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Coloquial Denuncio, acuso",
+              "answer": "SAPEO"
+            },
+            "42": {
+              "col": 0,
+              "row": 9,
+              "clue": "Inic del jugador de fútbol con más balones de oro",
+              "answer": "LM"
+            },
+            "44": {
+              "col": 3,
+              "row": 9,
+              "clue": "Las afiladas garras con las que Freddy desgarra tus sueños",
+              "answer": "CUCHILLAS"
+            },
+            "45": {
+              "col": 13,
+              "row": 9,
+              "clue": "No llego a fin de mes",
+              "answer": "ME"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Incorporarse a un conjunto existente",
+              "answer": "SUMASE"
+            },
+            "48": {
+              "col": 9,
+              "row": 10,
+              "clue": "Bestia legendaria que escupe fuego por la boca",
+              "answer": "DRAGON"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Última porción del intestino grueso",
+              "answer": "AÑO"
+            },
+            "51": {
+              "col": 4,
+              "row": 11,
+              "clue": "Toro sin ojos",
+              "answer": "TR"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Lo que tienen en común Edward Culler y Ellen Creed",
+              "answer": "EC"
+            },
+            "53": {
+              "col": 12,
+              "row": 11,
+              "clue": "Muy poco ortodoxa",
+              "answer": "ORT"
+            },
+            "54": {
+              "col": 0,
+              "row": 12,
+              "clue": "Entrando al cementerio",
+              "answer": "CEM"
+            },
+            "55": {
+              "col": 4,
+              "row": 12,
+              "clue": "La oreja de Van Gogh",
+              "answer": "OR"
+            },
+            "56": {
+              "col": 9,
+              "row": 12,
+              "clue": "Símbolo químico del radio",
+              "answer": "RA"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "\"… Fender\" el creador de la Stratocaster",
+              "answer": "LEO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Tiempo de diversión",
+              "answer": "OCIO"
+            },
+            "60": {
+              "col": 5,
+              "row": 13,
+              "clue": "\"Cálmate, respira profundo y repite este mantra conmigo …\"",
+              "answer": "OM"
+            },
+            "62": {
+              "col": 8,
+              "row": 13,
+              "clue": "Una pareja de 10",
+              "answer": "IO"
+            },
+            "63": {
+              "col": 11,
+              "row": 13,
+              "clue": "\"Amelie…\"  DJ de música electrónica belga",
+              "answer": "LENS"
+            },
+            "64": {
+              "col": 1,
+              "row": 14,
+              "clue": "Grito desgarrador ante el horror que acecha",
+              "answer": "AAAH"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Beisbol Jugada decretada por el árbitro que retira a un jugador de la ofensiva",
+              "answer": "OUT"
+            },
+            "66": {
+              "col": 10,
+              "row": 14,
+              "clue": "Rostro de pesadilla que sembró el pánico en internet",
+              "answer": "MOMO"
+            }
+          }
+        },
+        "vertical_clues": "1-La que produce la chispa, en el motor\r\n2-En el hoyo lo escuchó \r\n3-Síndrome de Zollinger-Ellison (siglas)\r\n5-Hay neón en el noreste\r\n6-\"El …\" una cinta maldita y siete días antes de morir\r\n7-\"… Blair\" actriz que aterrorizó al mundo con su posesión demoníaca\r\n8-Acecha en la oscuridad para llevarse a los niños desobedientes (3p) \r\n10-Persona que manifiesta verbalmente los contenidos de un libro\r\n12-\"Soy… pobre que solo tengo dinero\" Cristina Onassi\r\n13-Dígrafo que nunca ha sido una letra\r\n14-Las que atraviesan la cabeza de Pinhead, el demonio de Hellraiser \r\n15-Risa grave\r\n16-La calle de la pesadillas malditas, la de Freddy Krueger\r\n19-Unidad de almacenamiento de información genética\r\n20-Apnea Obstructiva del Sueño\r\n23-\"Norman…\" que oculta un cadáver y un secreto mortal en su motel Psicosis \r\n24-Sensual, sexi\r\n26-Construcción regula el curso de las aguas\r\n27-Si ves uno rojo flotando, Pennywise anda cerca\r\n33-Cría de vaca que podría acabar sacrificada en un ritual macabro \r\n34-Entrenador Pokémon, dueño de Pikachu\r\n35-Lis está completamente loca\r\n36-En él, las brujas hierven los ingredientes de un brebaje infernal\r\n39-Sobresalto que no puede faltar en una película de terror\r\n41-Encapuchada que viene a buscarte con su guadaña\r\n43-Annabelle es una de las más terroríficas del cine\r\n45-\"Eloy…\" escritor español, autor de la novela \"Invisible\"\r\n47-Cadáver milenario que despierta de su tumba\r\n49-Gigante de barro al que un conjuro insufla vida\r\n59-Vocales abiertas\r\n61-Símbolo químico del Molibdeno\r\n62-Novela de Stephen King donde el terror adopta forma de payaso\r\n63-Artículo neutro",
+        "horizontal_clues": "1-Correaje que impide a Hannibal Lecter devorar a su próxima víctima\r\n4-Un tanto cruel\r\n8-Escapa despavorido del monstruo que lo persigue\r\n9-\"… Cartman\" personaje de South Park\r\n11-El único que necesita un cíclope para vigilarte\r\n12-El de Slender Man es negro como tus peores pesadillas\r\n17-Mayor org internacional de Estados soberanos (siglas)\r\n18-Esa nota me pertenece\r\n19-Monstruo de piedra que acecha desde las alturas\r\n21-Idioma alemán, en los manuales de instrucción\r\n22-Echen baba por la boca, como zombis hambrientos\r\n25-\"Samara…\" la niña del pozo que mata 7 días después de ver su vídeo maldito\r\n28-Mensajero biológico de nuestras células (siglas)\r\n29-Pradería de Asturias\r\n30-Lo que tengo aquí, pero no se su nombre\r\n31-Les hace un cambio de look a los árboles, los…\r\n32-Extraterrestre creado por Steven Spielberg\r\n33-Mi inglés es muy básico\r\n37-Símbolo químico del rubidio\r\n38-Quites, robes una pequeña porción\r\n40-Coloquial Denuncio, acuso\r\n42-Inic del jugador de fútbol con más balones de oro\r\n44-Las afiladas garras con las que Freddy desgarra tus sueños\r\n45-No llego a fin de mes\r\n46-Incorporarse a un conjunto existente \r\n48-Bestia legendaria que escupe fuego por la boca \r\n50-Última porción del intestino grueso\r\n51-Toro sin ojos\r\n52-Lo que tienen en común Edward Culler y Ellen Creed\r\n53-Muy poco ortodoxa\r\n54-Entrando al cementerio\r\n55-La oreja de Van Gogh\r\n56-Símbolo químico del radio\r\n57-\"… Fender\" el creador de la Stratocaster\r\n58-Tiempo de diversión \r\n60-\"Cálmate, respira profundo y repite este mantra conmigo …\"\r\n62-Una pareja de 10\r\n63-\"Amelie…\"  DJ de música electrónica belga\r\n64-Grito desgarrador ante el horror que acecha\r\n65-Beisbol Jugada decretada por el árbitro que retira a un jugador de la ofensiva\r\n66-Rostro de pesadilla que sembró el pánico en internet",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,#,#,#,#,#,4,#,5,6,7,#\r\n8,#,#,#,#,#,#,#,#,#,#,9,#,#,10\r\n11,#,#,#,#,12,13,14,15,16,#,#,17,#,#\r\n18,#,#,#,19,#,#,#,#,#,20,#,#,21,#\r\n22,#,23,24,#,#,#,#,#,25,#,26,27,#,#\r\n#,#,28,#,#,#,#,#,#,#,29,#,#,#,#\r\n30,#,#,#,#,#,#,#,#,#,#,31,#,#,#\r\n#,#,32,#,#,33,34,#,35,36,#,37,#,#,#\r\n#,#,38,#,39,#,#,#,40,#,41,#,#,#,#\r\n42,43,#,44,#,#,#,#,#,#,#,#,#,45,#\r\n46,#,47,#,#,#,#,#,#,48,#,#,49,#,#\r\n50,#,#,#,51,#,#,#,#,52,#,#,53,#,#\r\n54,#,#,#,55,#,#,#,#,56,#,#,57,#,#\r\n58,#,#,59,#,60,61,#,62,#,#,63,#,#,#\r\n#,64,#,#,#,#,65,#,#,#,66,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
