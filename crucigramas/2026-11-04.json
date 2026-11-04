@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 11233,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-03T12:04:20.596621Z",
+      "updatedAt": "2026-11-03T12:05:22.226848Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-04",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "VERAS#TAMO#STAN\r\nARELO#OMED#UEFA\r\nNIVEL#POLIESTER\r\nACOGEDOR#EXPIAR\r\n##CARASOL#CISNE\r\nORAN#R#SABER###\r\nROB#ALTOS#PASAR\r\nACLAMAR#ESTRENA\r\nLEERA#ARREO#PDF\r\n###TINTE#X#MAYA\r\nHAREN#ESCAPAR##\r\nALISAR#PARANADA\r\nCAMAROTES#VIDAL\r\nEDEN#TATA#OJOTA\r\nSALA#USOS#RARAS",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Falta de realidad, sustancia o entidad",
+              "answer": "VANA"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "\"… Clapton\" cantante y compositor de rock y blues británico",
+              "answer": "ERIC"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Que se puede dejar sin efecto e invalidar",
+              "answer": "REVOCABLE"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "Justifican que Ángela ha cambiado",
+              "answer": "ALEGAN"
+            },
+            "5": {
+              "col": 4,
+              "row": 0,
+              "clue": "\"Pastora …\", cantante y presentadora española",
+              "answer": "SOLER"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Animal subterráneo (pl)",
+              "answer": "TOPOS"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Afectuoso, cariñoso",
+              "answer": "AMOROSO"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Actor y productor de \"La pasión de Cristo\"",
+              "answer": "MEL"
+            },
+            "9": {
+              "col": 9,
+              "row": 0,
+              "clue": "Lo detesté, lo aborrecí",
+              "answer": "ODIE"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Exhalar aire profundamente por pena o deseo",
+              "answer": "SUSPIRAR"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Diosa de las aguas del mundo, esposa de Océano",
+              "answer": "TETIS"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "Se descuidan por la faena caótica",
+              "answer": "AFEAN"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Comuniqué, referí el hecho, fabulé",
+              "answer": "NARRE"
+            },
+            "19": {
+              "col": 10,
+              "row": 2,
+              "clue": "Salvo, sin contar, dejando de lado",
+              "answer": "EXCEPTO"
+            },
+            "21": {
+              "col": 5,
+              "row": 3,
+              "clue": "Entregarla, donarla",
+              "answer": "DARLA"
+            },
+            "24": {
+              "col": 8,
+              "row": 4,
+              "clue": "Dispositivo electrónico amplificador de luz",
+              "answer": "LASER"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Que se toma por la boca",
+              "answer": "ORAL"
+            },
+            "27": {
+              "col": 1,
+              "row": 5,
+              "clue": "Friccione, friegue, frote",
+              "answer": "ROCE"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Bajar potencia, perder fuerza",
+              "answer": "AMAINAR"
+            },
+            "31": {
+              "col": 6,
+              "row": 6,
+              "clue": "Intenté, procuré",
+              "answer": "TRATE"
+            },
+            "33": {
+              "col": 12,
+              "row": 6,
+              "clue": "Panel que convierte un espacio en dos",
+              "answer": "SEPARADOR"
+            },
+            "34": {
+              "col": 13,
+              "row": 6,
+              "clue": "Warhol no se llama Dany",
+              "answer": "ANDY"
+            },
+            "35": {
+              "col": 14,
+              "row": 6,
+              "clue": "Así llaman a Rafael sus amigos",
+              "answer": "RAFA"
+            },
+            "37": {
+              "col": 3,
+              "row": 7,
+              "clue": "Mujer que crea con sus manos",
+              "answer": "ARTESANA"
+            },
+            "39": {
+              "col": 9,
+              "row": 7,
+              "clue": "Tener relaciones sexuales",
+              "answer": "SEXAR"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Base fundamental de las relaciones interpersonales",
+              "answer": "RESPETO"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Sirve para abrir la puerta",
+              "answer": "MANIJA"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Realizas",
+              "answer": "HACES"
+            },
+            "47": {
+              "col": 1,
+              "row": 10,
+              "clue": "A la dama con alas",
+              "answer": "ALADA"
+            },
+            "48": {
+              "col": 2,
+              "row": 10,
+              "clue": "Máscara de pestañas",
+              "answer": "RIMEL"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "¿Las sacas de sus hogares?",
+              "answer": "CASAS"
+            },
+            "51": {
+              "col": 10,
+              "row": 10,
+              "clue": "Miedo a los pavos",
+              "answer": "PAVOR"
+            },
+            "53": {
+              "col": 5,
+              "row": 11,
+              "clue": "Un rotulador pequeño",
+              "answer": "ROTU"
+            },
+            "55": {
+              "col": 13,
+              "row": 11,
+              "clue": "\"Big …\" inmenso conjunto de datos para analizar el comportamiento de usuarios",
+              "answer": "DATA"
+            },
+            "56": {
+              "col": 14,
+              "row": 11,
+              "clue": "Algunos vuelan con ellas",
+              "answer": "ALAS"
+            },
+            "58": {
+              "col": 6,
+              "row": 12,
+              "clue": "Yunque de platero",
+              "answer": "TAS"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Notarás cambios en las raves",
+              "answer": "VERAS"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Pelusilla que se cría debajo de las camas por falta de aseo",
+              "answer": "TAMO"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Es tan listo este creador de superhéroes",
+              "answer": "STAN"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Limpio el trigo con arel",
+              "answer": "ARELO"
+            },
+            "15": {
+              "col": 6,
+              "row": 1,
+              "clue": "Pequeña demostración de que va marcha atrás",
+              "answer": "OMED"
+            },
+            "16": {
+              "col": 11,
+              "row": 1,
+              "clue": "Confederación europea de fútbol",
+              "answer": "UEFA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "La N de msnm",
+              "answer": "NIVEL"
+            },
+            "18": {
+              "col": 6,
+              "row": 2,
+              "clue": "Fibra sintética muy usada en la industria textil",
+              "answer": "POLIESTER"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "Un lugar que sientes que te abraza",
+              "answer": "ACOGEDOR"
+            },
+            "22": {
+              "col": 9,
+              "row": 3,
+              "clue": "Purgar una culpa mediante una penitencia",
+              "answer": "EXPIAR"
+            },
+            "23": {
+              "col": 2,
+              "row": 4,
+              "clue": "Solana, sitio donde da el sol",
+              "answer": "CARASOL"
+            },
+            "25": {
+              "col": 10,
+              "row": 4,
+              "clue": "Elegante ave acuática de largo cuello",
+              "answer": "CISNE"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Rezan a Dios",
+              "answer": "ORAN"
+            },
+            "28": {
+              "col": 7,
+              "row": 5,
+              "clue": "Tener certeza de algo",
+              "answer": "SABER"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Robo frustrado",
+              "answer": "ROB"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Miden más de 1,80 m, ellos son…",
+              "answer": "ALTOS"
+            },
+            "32": {
+              "col": 10,
+              "row": 6,
+              "clue": "\"… de todo\" que todo te dé igual, que te resbale",
+              "answer": "PASAR"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Conferir, por voz común, algún cargo u honor",
+              "answer": "ACLAMAR"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Hace su primera exhibición en público",
+              "answer": "ESTRENA"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Comprenderá lo escrito",
+              "answer": "LEERA"
+            },
+            "41": {
+              "col": 6,
+              "row": 8,
+              "clue": "Atavío, adorno",
+              "answer": "ARREO"
+            },
+            "43": {
+              "col": 12,
+              "row": 8,
+              "clue": "Formato de almacenamiento para documentos digitales",
+              "answer": "PDF"
+            },
+            "44": {
+              "col": 3,
+              "row": 9,
+              "clue": "Pintura para el cabello",
+              "answer": "TINTE"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Famosa abejita rebelde que protagoniza una caricatura",
+              "answer": "MAYA"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Aquí se reúnen las mujeres en las casas de los musulmanes",
+              "answer": "HAREN"
+            },
+            "49": {
+              "col": 6,
+              "row": 10,
+              "clue": "Salir de un encierro o un peligro",
+              "answer": "ESCAPAR"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Poner una keratina",
+              "answer": "ALISAR"
+            },
+            "54": {
+              "col": 7,
+              "row": 11,
+              "clue": "¿Adan rapa mal a cada una? De ningún modo (2p)",
+              "answer": "PARANADA"
+            },
+            "57": {
+              "col": 0,
+              "row": 12,
+              "clue": "Compartimentos reducidos que hay en los barcos para poner las camas",
+              "answer": "CAMAROTES"
+            },
+            "59": {
+              "col": 10,
+              "row": 12,
+              "clue": "Excentrocampista chileno del FC Barcelona",
+              "answer": "VIDAL"
+            },
+            "60": {
+              "col": 0,
+              "row": 13,
+              "clue": "El Paraíso",
+              "answer": "EDEN"
+            },
+            "61": {
+              "col": 5,
+              "row": 13,
+              "clue": "Coloquialmente, la hermana",
+              "answer": "TATA"
+            },
+            "62": {
+              "col": 10,
+              "row": 13,
+              "clue": "Chancla argentina",
+              "answer": "OJOTA"
+            },
+            "63": {
+              "col": 0,
+              "row": 14,
+              "clue": "Habitación principal de la casa",
+              "answer": "SALA"
+            },
+            "64": {
+              "col": 5,
+              "row": 14,
+              "clue": "Costumbres o hábitos",
+              "answer": "USOS"
+            },
+            "65": {
+              "col": 10,
+              "row": 14,
+              "clue": "Escasas en su clase o especie",
+              "answer": "RARAS"
+            }
+          }
+        },
+        "vertical_clues": "1-Falta de realidad, sustancia o entidad\r\n2-\"… Clapton\" cantante y compositor de rock y blues británico\r\n3-Que se puede dejar sin efecto e invalidar\r\n4-Justifican que Ángela ha cambiado\r\n5-\"Pastora …\", cantante y presentadora española\r\n6-Animal subterráneo (pl)\r\n7-Afectuoso, cariñoso\r\n8-Actor y productor de \"La pasión de Cristo\"\r\n9-Lo detesté, lo aborrecí \r\n10-Exhalar aire profundamente por pena o deseo\r\n11-Diosa de las aguas del mundo, esposa de Océano\r\n12-Se descuidan por la faena caótica\r\n13-Comuniqué, referí el hecho, fabulé\r\n19-Salvo, sin contar, dejando de lado\r\n21-Entregarla, donarla\r\n24-Dispositivo electrónico amplificador de luz\r\n26-Que se toma por la boca\r\n27-Friccione, friegue, frote\r\n30-Bajar potencia, perder fuerza\r\n31-Intenté, procuré\r\n33-Panel que convierte un espacio en dos\r\n34-Warhol no se llama Dany\r\n35-Así llaman a Rafael sus amigos\r\n37-Mujer que crea con sus manos\r\n39-Tener relaciones sexuales\r\n42-Base fundamental de las relaciones interpersonales\r\n45-Sirve para abrir la puerta\r\n46-Realizas\r\n47-A la dama con alas\r\n48-Máscara de pestañas\r\n50-¿Las sacas de sus hogares? \r\n51-Miedo a los pavos\r\n53-Un rotulador pequeño\r\n55-\"Big …\" inmenso conjunto de datos para analizar el comportamiento de usuarios\r\n56-Algunos vuelan con ellas\r\n58-Yunque de platero",
+        "horizontal_clues": "1-Notarás cambios en las raves \r\n6-Pelusilla que se cría debajo de las camas por falta de aseo\r\n10-Es tan listo este creador de superhéroes\r\n14-Limpio el trigo con arel\r\n15-Pequeña demostración de que va marcha atrás\r\n16-Confederación europea de fútbol\r\n17-La N de msnm\r\n18-Fibra sintética muy usada en la industria textil\r\n20-Un lugar que sientes que te abraza\r\n22-Purgar una culpa mediante una penitencia\r\n23-Solana, sitio donde da el sol\r\n25-Elegante ave acuática de largo cuello\r\n26-Rezan a Dios\r\n28-Tener certeza de algo\r\n29-Robo frustrado\r\n30-Miden más de 1,80 m, ellos son…\r\n32-\"… de todo\" que todo te dé igual, que te resbale\r\n36-Conferir, por voz común, algún cargo u honor\r\n38-Hace su primera exhibición en público\r\n40-Comprenderá lo escrito\r\n41-Atavío, adorno\r\n43-Formato de almacenamiento para documentos digitales\r\n44-Pintura para el cabello\r\n45-Famosa abejita rebelde que protagoniza una caricatura\r\n46-Aquí se reúnen las mujeres en las casas de los musulmanes\r\n49-Salir de un encierro o un peligro\r\n52-Poner una keratina \r\n54-¿Adan rapa mal a cada una? De ningún modo (2p) \r\n57-Compartimentos reducidos que hay en los barcos para poner las camas\r\n59-Excentrocampista chileno del FC Barcelona\r\n60-El Paraíso\r\n61-Coloquialmente, la hermana\r\n62-Chancla argentina\r\n63-Habitación principal de la casa\r\n64-Costumbres o hábitos\r\n65-Escasas en su clase o especie",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,5,#,6,7,8,9,#,10,11,12,13\r\n14,#,#,#,#,#,15,#,#,#,#,16,#,#,#\r\n17,#,#,#,#,#,18,#,#,#,19,#,#,#,#\r\n20,#,#,#,#,21,#,#,#,22,#,#,#,#,#\r\n#,#,23,#,#,#,#,#,24,#,25,#,#,#,#\r\n26,27,#,#,#,#,#,28,#,#,#,#,#,#,#\r\n29,#,#,#,30,#,31,#,#,#,32,#,33,34,35\r\n36,#,#,37,#,#,#,#,38,39,#,#,#,#,#\r\n40,#,#,#,#,#,41,42,#,#,#,#,43,#,#\r\n#,#,#,44,#,#,#,#,#,#,#,45,#,#,#\r\n46,47,48,#,#,#,49,#,50,#,51,#,#,#,#\r\n52,#,#,#,#,53,#,54,#,#,#,#,#,55,56\r\n57,#,#,#,#,#,58,#,#,#,59,#,#,#,#\r\n60,#,#,#,#,61,#,#,#,#,62,#,#,#,#\r\n63,#,#,#,#,64,#,#,#,#,65,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
