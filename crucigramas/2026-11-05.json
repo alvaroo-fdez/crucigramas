@@ -1,0 +1,455 @@
+{
+  "data": {
+    "id": 11258,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-04T21:35:06.693537Z",
+      "updatedAt": "2026-11-04T21:35:06.693550Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-05",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#DOCENA#SPEECH#\r\nARPA#AUTOR#REAS\r\nCOUNTRY#TOMILLO\r\nENEO#CAPAS#NEAR\r\nP#S#COMENTO#B#T\r\nTOTAL#ALA#JERTE\r\nOJOSOS#I#BEBERA\r\n#I#ESMERILAR#O#\r\nETEREO#R#ARISTA\r\nROMEU#ROM#LOPEZ\r\nE#U#PROJIMO#O#C\r\nCELA#ASONE#INTO\r\nTRASERA#EDINSON\r\nOIRE#ANDRE#TOCA\r\n#CANOSA#ALTIRO#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Aeronave no tripulada",
+              "answer": "DRON"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Contrario, antagónico",
+              "answer": "OPUESTO"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Que tiene blanco todo o gran parte del pelo",
+              "answer": "CANO"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Traficante de drogas",
+              "answer": "NARCO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Calabaza, zapallo",
+              "answer": "AUYAMA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Vestidura talar que usan los eclesiásticos",
+              "answer": "SOTANA"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "F1\"Alain…\" famoso rival de Ayrton Senna",
+              "answer": "PROST"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"… Brockovich\", activista ambiental interpretada en film por Julia Roberts",
+              "answer": "ERIN"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Festejé con el ilustre",
+              "answer": "CELEBRE"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "\"… Madrid y nada más\" el himno del Real",
+              "answer": "HALA"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Asumo que dañé el capote y la poceta",
+              "answer": "ACEPTO"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Rifa",
+              "answer": "SORTEA"
+            },
+            "19": {
+              "col": 7,
+              "row": 3,
+              "clue": "De cabello rojizo o cobrizo",
+              "answer": "PELIRROJO"
+            },
+            "21": {
+              "col": 4,
+              "row": 4,
+              "clue": "Primer plano cinematográfico o fotográfico",
+              "answer": "CLOSEUP"
+            },
+            "22": {
+              "col": 10,
+              "row": 4,
+              "clue": "Mirarlo por encima, echarle un vistazo",
+              "answer": "OJEARLO"
+            },
+            "24": {
+              "col": 1,
+              "row": 5,
+              "clue": "Alerta con el ojo pequeño",
+              "answer": "OJITO"
+            },
+            "25": {
+              "col": 3,
+              "row": 5,
+              "clue": "Coloquial Socio, hermano, amigo en Cuba",
+              "answer": "ASERE"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Bebido, borracho",
+              "answer": "EBRIO"
+            },
+            "29": {
+              "col": 13,
+              "row": 5,
+              "clue": "Ni caminé ni corrí",
+              "answer": "TROTE"
+            },
+            "31": {
+              "col": 5,
+              "row": 6,
+              "clue": "Fin del comunismo y del capitalismo",
+              "answer": "SMO"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Voz que sugiere habladurías",
+              "answer": "BLA"
+            },
+            "34": {
+              "col": 0,
+              "row": 8,
+              "clue": "Erguido, levantado",
+              "answer": "ERECTO"
+            },
+            "35": {
+              "col": 2,
+              "row": 8,
+              "clue": "Lo imitará pero disfrazada de mula rara",
+              "answer": "EMULARA"
+            },
+            "37": {
+              "col": 12,
+              "row": 8,
+              "clue": "Patrocinador en la Premier League",
+              "answer": "SPONSOR"
+            },
+            "38": {
+              "col": 14,
+              "row": 8,
+              "clue": "Arma arrojadiza, como un dardo, usada antiguamente",
+              "answer": "AZCONA"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Cantautora canaria del tema \"El Talismán\"",
+              "answer": "ROSANA"
+            },
+            "41": {
+              "col": 8,
+              "row": 9,
+              "clue": "Industria de extracción de recursos del subsuelo",
+              "answer": "MINERA"
+            },
+            "44": {
+              "col": 5,
+              "row": 10,
+              "clue": "Escasas en su clase o especie",
+              "answer": "RARAS"
+            },
+            "45": {
+              "col": 9,
+              "row": 10,
+              "clue": "\"Gary…\" futbolista chileno conocido como 'Pitbull'",
+              "answer": "MEDEL"
+            },
+            "47": {
+              "col": 1,
+              "row": 11,
+              "clue": "\"… Clapton\" cantante y compositor de rock y blues británico",
+              "answer": "ERIC"
+            },
+            "48": {
+              "col": 3,
+              "row": 11,
+              "clue": "Tuesten, doren",
+              "answer": "ASEN"
+            },
+            "50": {
+              "col": 11,
+              "row": 11,
+              "clue": "Dios inca del sol",
+              "answer": "INTI"
+            },
+            "51": {
+              "col": 13,
+              "row": 11,
+              "clue": "Palpó",
+              "answer": "TOCO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "He cenado con el decano unas 12 veces",
+              "answer": "DOCENA"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Discurso de un inglés",
+              "answer": "SPEECH"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Instrumento musical favorito de los ángeles",
+              "answer": "ARPA"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "A veces, cobra por los derechos de una obra",
+              "answer": "AUTOR"
+            },
+            "13": {
+              "col": 11,
+              "row": 1,
+              "clue": "Presas, reclusas",
+              "answer": "REAS"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Género musical de EEUU, que suena con guitarras, banjos y violines",
+              "answer": "COUNTRY"
+            },
+            "16": {
+              "col": 8,
+              "row": 2,
+              "clue": "Planta aromática utilizada en cocina",
+              "answer": "TOMILLO"
+            },
+            "17": {
+              "col": 0,
+              "row": 3,
+              "clue": "Poético De cobre o bronce",
+              "answer": "ENEO"
+            },
+            "18": {
+              "col": 5,
+              "row": 3,
+              "clue": "Zonas superpuestas a otras, con las que forma un todo",
+              "answer": "CAPAS"
+            },
+            "20": {
+              "col": 11,
+              "row": 3,
+              "clue": "Cerca del inglés",
+              "answer": "NEAR"
+            },
+            "21": {
+              "col": 4,
+              "row": 4,
+              "clue": "Expreso mi opinión sobre algo",
+              "answer": "COMENTO"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "General, universal y que lo comprende todo en su especie",
+              "answer": "TOTAL"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Malala expulsó la maldad",
+              "answer": "ALA"
+            },
+            "27": {
+              "col": 10,
+              "row": 5,
+              "clue": "Valle extremeño famoso por sus cerezos",
+              "answer": "JERTE"
+            },
+            "30": {
+              "col": 0,
+              "row": 6,
+              "clue": "Pan o queso que tiene muchos ojos (pl)",
+              "answer": "OJOSOS"
+            },
+            "32": {
+              "col": 9,
+              "row": 6,
+              "clue": "Tomará como un bebé",
+              "answer": "BEBERA"
+            },
+            "33": {
+              "col": 3,
+              "row": 7,
+              "clue": "Desgastar o pulir una superficie con abrasivos",
+              "answer": "ESMERILAR"
+            },
+            "34": {
+              "col": 0,
+              "row": 8,
+              "clue": "Sutil, inaprensible, desprovisto de peso y forma",
+              "answer": "ETEREO"
+            },
+            "36": {
+              "col": 9,
+              "row": 8,
+              "clue": "Línea donde se unen dos caras de un sólido",
+              "answer": "ARISTA"
+            },
+            "39": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"Carlos…\" creador de Miguelito, personaje de historietas",
+              "answer": "ROMEU"
+            },
+            "40": {
+              "col": 6,
+              "row": 9,
+              "clue": "Medio de almacenamiento utilizado en ordenadores",
+              "answer": "ROM"
+            },
+            "42": {
+              "col": 10,
+              "row": 9,
+              "clue": "Apellido de la cantante y actriz apodada JLo",
+              "answer": "LOPEZ"
+            },
+            "43": {
+              "col": 4,
+              "row": 10,
+              "clue": "Cualquier persona, considerada como semejante",
+              "answer": "PROJIMO"
+            },
+            "46": {
+              "col": 0,
+              "row": 11,
+              "clue": "Cuida, vigila",
+              "answer": "CELA"
+            },
+            "49": {
+              "col": 5,
+              "row": 11,
+              "clue": "Convierta un sonido con otro",
+              "answer": "ASONE"
+            },
+            "50": {
+              "col": 11,
+              "row": 11,
+              "clue": "\"Dentro\" en inglés",
+              "answer": "INTO"
+            },
+            "52": {
+              "col": 0,
+              "row": 12,
+              "clue": "Las erratas mal escritas están en la parte de atrás",
+              "answer": "TRASERA"
+            },
+            "53": {
+              "col": 8,
+              "row": 12,
+              "clue": "\"El Matador\", futbolista uruguayo",
+              "answer": "EDINSON"
+            },
+            "54": {
+              "col": 0,
+              "row": 13,
+              "clue": "Prestaré atención",
+              "answer": "OIRE"
+            },
+            "55": {
+              "col": 5,
+              "row": 13,
+              "clue": "\"… Agassi\", exjugador de tenis estadounidense",
+              "answer": "ANDRE"
+            },
+            "56": {
+              "col": 11,
+              "row": 13,
+              "clue": "Ejercita el sentido del tacto",
+              "answer": "TOCA"
+            },
+            "57": {
+              "col": 1,
+              "row": 14,
+              "clue": "Mujer de cabello blanco",
+              "answer": "CANOSA"
+            },
+            "58": {
+              "col": 8,
+              "row": 14,
+              "clue": "Expresión chilena de inmediatez (2p)",
+              "answer": "ALTIRO"
+            }
+          }
+        },
+        "vertical_clues": "1-Aeronave no tripulada\r\n2-Contrario, antagónico\r\n3-Que tiene blanco todo o gran parte del pelo\r\n4-Traficante de drogas\r\n5-Calabaza, zapallo\r\n6-Vestidura talar que usan los eclesiásticos\r\n7-F1\"Alain…\" famoso rival de Ayrton Senna\r\n8-\"… Brockovich\", activista ambiental interpretada en film por Julia Roberts\r\n9-Festejé con el ilustre\r\n10-\"… Madrid y nada más\" el himno del Real\r\n11-Asumo que dañé el capote y la poceta\r\n14-Rifa\r\n19-De cabello rojizo o cobrizo\r\n21-Primer plano cinematográfico o fotográfico\r\n22-Mirarlo por encima, echarle un vistazo\r\n24-Alerta con el ojo pequeño\r\n25-Coloquial Socio, hermano, amigo en Cuba\r\n28-Bebido, borracho\r\n29-Ni caminé ni corrí\r\n31-Fin del comunismo y del capitalismo\r\n32-Voz que sugiere habladurías\r\n34-Erguido, levantado\r\n35-Lo imitará pero disfrazada de mula rara\r\n37-Patrocinador en la Premier League\r\n38-Arma arrojadiza, como un dardo, usada antiguamente\r\n40-Cantautora canaria del tema \"El Talismán\"\r\n41-Industria de extracción de recursos del subsuelo \r\n44-Escasas en su clase o especie\r\n45-\"Gary…\" futbolista chileno conocido como 'Pitbull'\r\n47-\"… Clapton\" cantante y compositor de rock y blues británico\r\n48-Tuesten, doren\r\n50-Dios inca del sol\r\n51-Palpó\r\n",
+        "horizontal_clues": "1-He cenado con el decano unas 12 veces\r\n6-Discurso de un inglés\r\n11-Instrumento musical favorito de los ángeles \r\n12-A veces, cobra por los derechos de una obra\r\n13-Presas, reclusas \r\n15-Género musical de EEUU, que suena con guitarras, banjos y violines \r\n16-Planta aromática utilizada en cocina \r\n17-Poético De cobre o bronce\r\n18-Zonas superpuestas a otras, con las que forma un todo\r\n20-Cerca del inglés\r\n21-Expreso mi opinión sobre algo\r\n23-General, universal y que lo comprende todo en su especie\r\n26-Malala expulsó la maldad\r\n27-Valle extremeño famoso por sus cerezos \r\n30-Pan o queso que tiene muchos ojos (pl)\r\n32-Tomará como un bebé\r\n33-Desgastar o pulir una superficie con abrasivos\r\n34-Sutil, inaprensible, desprovisto de peso y forma\r\n36-Línea donde se unen dos caras de un sólido\r\n39-\"Carlos…\" creador de Miguelito, personaje de historietas\r\n40-Medio de almacenamiento utilizado en ordenadores\r\n42-Apellido de la cantante y actriz apodada JLo\r\n43-Cualquier persona, considerada como semejante\r\n46-Cuida, vigila\r\n49-Convierta un sonido con otro\r\n50-\"Dentro\" en inglés\r\n52-Las erratas mal escritas están en la parte de atrás\r\n53-\"El Matador\", futbolista uruguayo\r\n54-Prestaré atención\r\n55-\"… Agassi\", exjugador de tenis estadounidense\r\n56-Ejercita el sentido del tacto\r\n57-Mujer de cabello blanco\r\n58-Expresión chilena de inmediatez (2p)\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,3,#,4,5,#,6,7,#,8,9,10,#\r\n11,#,#,#,#,12,#,#,#,#,#,13,#,#,14\r\n15,#,#,#,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,#,#,#,18,#,19,#,#,#,20,#,#,#\r\n#,#,#,#,21,#,#,#,#,#,22,#,#,#,#\r\n23,24,#,25,#,#,26,#,#,#,27,28,#,29,#\r\n30,#,#,#,#,31,#,#,#,32,#,#,#,#,#\r\n#,#,#,33,#,#,#,#,#,#,#,#,#,#,#\r\n34,#,35,#,#,#,#,#,#,36,#,#,37,#,38\r\n39,#,#,#,#,#,40,#,41,#,42,#,#,#,#\r\n#,#,#,#,43,44,#,#,#,45,#,#,#,#,#\r\n46,47,#,48,#,49,#,#,#,#,#,50,#,51,#\r\n52,#,#,#,#,#,#,#,53,#,#,#,#,#,#\r\n54,#,#,#,#,55,#,#,#,#,#,56,#,#,#\r\n#,57,#,#,#,#,#,#,58,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
