@@ -1,0 +1,479 @@
+{
+  "data": {
+    "id": 11270,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-05T14:26:24.602011Z",
+      "updatedAt": "2026-11-05T14:28:21.645849Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-06",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "#FISICO#ROBOTS#\r\nBEN##REVOCACION\r\nARCADA#VEINTENA\r\nTROYANO#NADAN#R\r\nMENUDEAR##EVE#C\r\nATES#OXE#ORONDO\r\nNEXO##AGITAS#ES\r\n#RO#TACAZOS#PN#\r\nII#CIZAÑA##BLOC\r\nVAPORA#ASA#AUTO\r\nE#ANI##REFORMAR\r\nR#TOTAL#NORDICO\r\nNARCOSIS#CAOLIN\r\nALIENIGENA##LOO\r\n#TARADA#ARREAN#",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Comercio de herramientas y artículos metálicos",
+              "answer": "FERRETERIA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Que carece de relación o coherencia",
+              "answer": "INCONEXO"
+            },
+            "3": {
+              "col": 5,
+              "row": 0,
+              "clue": "Caja ósea en que está contenido el encéfalo",
+              "answer": "CRANEO"
+            },
+            "4": {
+              "col": 6,
+              "row": 0,
+              "clue": "Ocurre al principio y al final",
+              "answer": "OE"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "Mastican como ratas",
+              "answer": "ROEN"
+            },
+            "6": {
+              "col": 9,
+              "row": 0,
+              "clue": "Entrégate al ocio",
+              "answer": "OCIA"
+            },
+            "7": {
+              "col": 10,
+              "row": 0,
+              "clue": "Símbolos de identidad que ondean al viento",
+              "answer": "BANDERAS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Las ocho competiciones donde los ganadores pasan a los cuartos de final de un campeonato",
+              "answer": "OCTAVOS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Poseen",
+              "answer": "TIENEN"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Sonido que afecta agradablemente al oído",
+              "answer": "SON"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "Tiene su batmóvil aparcado en la baticueva",
+              "answer": "BATMAN"
+            },
+            "13": {
+              "col": 7,
+              "row": 1,
+              "clue": "Otra pareja de diez",
+              "answer": "VV"
+            },
+            "14": {
+              "col": 14,
+              "row": 1,
+              "clue": "Los que se dedican a la venta de drogas a gran escala",
+              "answer": "NARCOS"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Presidenta de la Comunidad de Madrid",
+              "answer": "AYUSO"
+            },
+            "17": {
+              "col": 4,
+              "row": 2,
+              "clue": "Papá yanqui",
+              "answer": "DAD"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Estado mexicano famoso por su mezcal y su mole",
+              "answer": "OAXACA"
+            },
+            "23": {
+              "col": 7,
+              "row": 4,
+              "clue": "Reprender a alguien por su conducta",
+              "answer": "REGAÑAR"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Especie de lechuza",
+              "answer": "OTO"
+            },
+            "28": {
+              "col": 13,
+              "row": 5,
+              "clue": "Significado literal y objetivo de una palabra",
+              "answer": "DENOTACION"
+            },
+            "31": {
+              "col": 8,
+              "row": 6,
+              "clue": "Elevasen, las banderas",
+              "answer": "IZASEN"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Temblor intenso causado por frío o fiebre",
+              "answer": "TIRITONA"
+            },
+            "35": {
+              "col": 5,
+              "row": 7,
+              "clue": "Sufijo aumentativo",
+              "answer": "AZA"
+            },
+            "36": {
+              "col": 12,
+              "row": 7,
+              "clue": "Punta metálica utilizada para escribir o dibujar",
+              "answer": "PLUMILLA"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Desuso Inverna, refúgiate del frío",
+              "answer": "IVERNA"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Estar al corriente de las consecuencias",
+              "answer": "CONOCER"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "Poeta épico de la antigua Grecia",
+              "answer": "BARDO"
+            },
+            "40": {
+              "col": 14,
+              "row": 8,
+              "clue": "Se pidió la reina con el peón",
+              "answer": "CORONO"
+            },
+            "42": {
+              "col": 2,
+              "row": 9,
+              "clue": "Pitará al pirata que partía a su tierra natal",
+              "answer": "PATRIA"
+            },
+            "44": {
+              "col": 9,
+              "row": 9,
+              "clue": "Enfocar",
+              "answer": "AFOCAR"
+            },
+            "48": {
+              "col": 10,
+              "row": 10,
+              "clue": "No lo hace el ateo",
+              "answer": "ORA"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Tomad o coged con la mano",
+              "answer": "ASID"
+            },
+            "51": {
+              "col": 6,
+              "row": 11,
+              "clue": "Cinta o banda de tejido elástico",
+              "answer": "LIGA"
+            },
+            "54": {
+              "col": 1,
+              "row": 12,
+              "clue": "Tecla alternativa",
+              "answer": "ALT"
+            },
+            "55": {
+              "col": 7,
+              "row": 12,
+              "clue": "Me ha quedado claro, lo…",
+              "answer": "SE"
+            },
+            "58": {
+              "col": 8,
+              "row": 13,
+              "clue": "Símbolo químico del sodio",
+              "answer": "NA"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 1,
+              "row": 0,
+              "clue": "Profesión de Einstein o Dirac",
+              "answer": "FISICO"
+            },
+            "5": {
+              "col": 8,
+              "row": 0,
+              "clue": "\"… humanoides\" ya llegaron, ya los venden en las tiendas",
+              "answer": "ROBOTS"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "\"… Stiller\" comediante neoyorquino, conocido por 'Zoolander'",
+              "answer": "BEN"
+            },
+            "12": {
+              "col": 5,
+              "row": 1,
+              "clue": "Anulación de una decisión o disposición",
+              "answer": "REVOCACION"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Movimiento anterior al vómito",
+              "answer": "ARCADA"
+            },
+            "18": {
+              "col": 7,
+              "row": 2,
+              "clue": "Dos decenas",
+              "answer": "VEINTENA"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Habitante de la ciudad que cayó por un caballo de madera",
+              "answer": "TROYANO"
+            },
+            "21": {
+              "col": 8,
+              "row": 3,
+              "clue": "Si no lo hacen, se ahogan",
+              "answer": "NADAN"
+            },
+            "22": {
+              "col": 0,
+              "row": 4,
+              "clue": "Repetirse algo con mucha frecuencia",
+              "answer": "MENUDEAR"
+            },
+            "24": {
+              "col": 10,
+              "row": 4,
+              "clue": "A Evelin de cariño",
+              "answer": "EVE"
+            },
+            "25": {
+              "col": 0,
+              "row": 5,
+              "clue": "Te amarres a esta seta con teas",
+              "answer": "ATES"
+            },
+            "26": {
+              "col": 5,
+              "row": 5,
+              "clue": "Voz para espantar la caza y las aves domésticas",
+              "answer": "OXE"
+            },
+            "27": {
+              "col": 9,
+              "row": 5,
+              "clue": "Hinchado, esponjado",
+              "answer": "ORONDO"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "Vínculo, lazo, conexión",
+              "answer": "NEXO"
+            },
+            "30": {
+              "col": 6,
+              "row": 6,
+              "clue": "¿Te inquietas con las gaitas?",
+              "answer": "AGITAS"
+            },
+            "32": {
+              "col": 13,
+              "row": 6,
+              "clue": "Dominio web para España",
+              "answer": "ES"
+            },
+            "33": {
+              "col": 1,
+              "row": 7,
+              "clue": "Lo que tienen en común Roberto Olabe y Robert Oppenheimer",
+              "answer": "RO"
+            },
+            "34": {
+              "col": 4,
+              "row": 7,
+              "clue": "Golpes fuertes con el taco de billar",
+              "answer": "TACAZOS"
+            },
+            "36": {
+              "col": 12,
+              "row": 7,
+              "clue": "Lo que permites al principio, te lo hacen al final",
+              "answer": "PN"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Dos columnas",
+              "answer": "II"
+            },
+            "38": {
+              "col": 3,
+              "row": 8,
+              "clue": "Discordia que se siembra entre personas",
+              "answer": "CIZAÑA"
+            },
+            "39": {
+              "col": 11,
+              "row": 8,
+              "clue": "Cuadernillo de diseñador de modas",
+              "answer": "BLOC"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "Evapora",
+              "answer": "VAPORA"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "En el centro de las casas",
+              "answer": "ASA"
+            },
+            "45": {
+              "col": 11,
+              "row": 9,
+              "clue": "Derecho: Documentos y escritos que recogen las actuaciones de un procedimiento judicial",
+              "answer": "AUTO"
+            },
+            "46": {
+              "col": 2,
+              "row": 10,
+              "clue": "Dani ha perdido la cabeza",
+              "answer": "ANI"
+            },
+            "47": {
+              "col": 7,
+              "row": 10,
+              "clue": "Renovar un piso para mejorarlo",
+              "answer": "REFORMAR"
+            },
+            "49": {
+              "col": 2,
+              "row": 11,
+              "clue": "General, universal y que lo comprende todo en su especie",
+              "answer": "TOTAL"
+            },
+            "52": {
+              "col": 8,
+              "row": 11,
+              "clue": "Este edredón es del norte de Europa",
+              "answer": "NORDICO"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Estado de sueño inducido por sustancias",
+              "answer": "NARCOSIS"
+            },
+            "56": {
+              "col": 9,
+              "row": 12,
+              "clue": "Arcilla blanca",
+              "answer": "CAOLIN"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "De muy, muy, muy, MUY lejano",
+              "answer": "ALIENIGENA"
+            },
+            "59": {
+              "col": 12,
+              "row": 13,
+              "clue": "Alabo",
+              "answer": "LOO"
+            },
+            "60": {
+              "col": 1,
+              "row": 14,
+              "clue": "Tonta, boba",
+              "answer": "TARADA"
+            },
+            "61": {
+              "col": 8,
+              "row": 14,
+              "clue": "Estimulan a las bestias para que echen a andar",
+              "answer": "ARREAN"
+            }
+          }
+        },
+        "vertical_clues": "1-Comercio de herramientas y artículos metálicos\r\n2-Que carece de relación o coherencia\r\n3-Caja ósea en que está contenido el encéfalo\r\n4-Ocurre al principio y al final \r\n5-Mastican como ratas\r\n6-Entrégate al ocio\r\n7-Símbolos de identidad que ondean al viento\r\n8-Las ocho competiciones donde los ganadores pasan a los cuartos de final de un campeonato\r\n9-Poseen\r\n10-Sonido que afecta agradablemente al oído\r\n11-Tiene su batmóvil aparcado en la baticueva \r\n13-Otra pareja de diez \r\n14-Los que se dedican a la venta de drogas a gran escala\r\n16-Presidenta de la Comunidad de Madrid\r\n17-Papá yanqui\r\n20-Estado mexicano famoso por su mezcal y su mole\r\n23-Reprender a alguien por su conducta\r\n27-Especie de lechuza\r\n28-Significado literal y objetivo de una palabra\r\n31-Elevasen, las banderas\r\n34-Temblor intenso causado por frío o fiebre\r\n35-Sufijo aumentativo \r\n36-Punta metálica utilizada para escribir o dibujar\r\n37-Desuso Inverna, refúgiate del frío\r\n38-Estar al corriente de las consecuencias\r\n39-Poeta épico de la antigua Grecia \r\n40-Se pidió la reina con el peón \r\n42-Pitará al pirata que partía a su tierra natal\r\n44-Enfocar\r\n48-No lo hace el ateo\r\n50-Tomad o coged con la mano\r\n51-Cinta o banda de tejido elástico\r\n54-Tecla alternativa\r\n55-Me ha quedado claro, lo…\r\n58-Símbolo químico del sodio",
+        "horizontal_clues": "1-Profesión de Einstein o Dirac\r\n5-\"… humanoides\" ya llegaron, ya los venden en las tiendas\r\n11-\"… Stiller\" comediante neoyorquino, conocido por 'Zoolander'\r\n12-Anulación de una decisión o disposición\r\n15-Movimiento anterior al vómito\r\n18-Dos decenas \r\n19-Habitante de la ciudad que cayó por un caballo de madera \r\n21-Si no lo hacen, se ahogan\r\n22-Repetirse algo con mucha frecuencia\r\n24-A Evelin de cariño\r\n25-Te amarres a esta seta con teas \r\n26-Voz para espantar la caza y las aves domésticas\r\n27-Hinchado, esponjado\r\n29-Vínculo, lazo, conexión\r\n30-¿Te inquietas con las gaitas? \r\n32-Dominio web para España\r\n33-Lo que tienen en común Roberto Olabe y Robert Oppenheimer \r\n34-Golpes fuertes con el taco de billar \r\n36-Lo que permites al principio, te lo hacen al final\r\n37-Dos columnas \r\n38-Discordia que se siembra entre personas\r\n39-Cuadernillo de diseñador de modas \r\n41-Evapora\r\n43-En el centro de las casas\r\n45-Derecho: Documentos y escritos que recogen las actuaciones de un procedimiento judicial\r\n46-Dani ha perdido la cabeza\r\n47-Renovar un piso para mejorarlo \r\n49-General, universal y que lo comprende todo en su especie\r\n52-Este edredón es del norte de Europa\r\n53-Estado de sueño inducido por sustancias\r\n56-Arcilla blanca\r\n57-De muy, muy, muy, MUY lejano\r\n59-Alabo\r\n60-Tonta, boba\r\n61-Estimulan a las bestias para que echen a andar",
+        "highlighted_cells": [],
+        "board_clues_positions": "#,1,2,#,#,3,4,#,5,6,7,8,9,10,#\r\n11,#,#,#,#,12,#,13,#,#,#,#,#,#,14\r\n15,#,#,16,17,#,#,18,#,#,#,#,#,#,#\r\n19,#,#,#,#,#,20,#,21,#,#,#,#,#,#\r\n22,#,#,#,#,#,#,23,#,#,24,#,#,#,#\r\n25,#,#,#,#,26,#,#,#,27,#,#,#,28,#\r\n29,#,#,#,#,#,30,#,31,#,#,#,#,32,#\r\n#,33,#,#,34,35,#,#,#,#,#,#,36,#,#\r\n37,#,#,38,#,#,#,#,#,#,#,39,#,#,40\r\n41,#,42,#,#,#,#,43,#,44,#,45,#,#,#\r\n#,#,46,#,#,#,#,47,#,#,48,#,#,#,#\r\n#,#,49,#,#,50,51,#,52,#,#,#,#,#,#\r\n53,54,#,#,#,#,#,55,#,56,#,#,#,#,#\r\n57,#,#,#,#,#,#,#,58,#,#,#,59,#,#\r\n#,60,#,#,#,#,#,#,61,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
