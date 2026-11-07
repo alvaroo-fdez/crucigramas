@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 11304,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-06T11:29:38.698874Z",
+      "updatedAt": "2026-11-06T11:29:38.698889Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": "",
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-07",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "M#SOFACAMA#CALI\r\nILA#ALIÑO#MANO#\r\nSANCIONAR#AJOLF\r\nOTEES#ALIARAN#L\r\n#SOLAZ###BELICO\r\nP##ONUBENSE#MAR\r\nAJIS#RADIO#PASE\r\nSANO#BM#VL#ATES\r\nTICS#ABREV#POST\r\nIMO#TRIPLETE##A\r\nLENGUA###ROLLO#\r\nL#FITNESS#REOCA\r\nAPEGO#VELATORIO\r\n#USAR#EXIGE#NAV\r\nESOS#PROPULSA#E",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Condimento japonés que acompaña a este tipo de ramen",
+              "answer": "MISO"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Libero de dificultades, limpio algo",
+              "answer": "SANEO"
+            },
+            "3": {
+              "col": 4,
+              "row": 0,
+              "clue": "Ave de consumo",
+              "answer": "FAISAN"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Voz para contestar a una llamada",
+              "answer": "ALO"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "No mira la vecina",
+              "answer": "CINA"
+            },
+            "6": {
+              "col": 7,
+              "row": 0,
+              "clue": "Ofrenda a los difuntos tras el primer año de su muerte",
+              "answer": "AÑAL"
+            },
+            "7": {
+              "col": 8,
+              "row": 0,
+              "clue": "Sucumbí por la extraña forma en que me miró",
+              "answer": "MORI"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "\"Santiago Ramón y…\" español, Nobel de Medicina en 1906",
+              "answer": "CAJAL"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Condición de un autor cuya identidad es desconocida",
+              "answer": "ANONIMATO"
+            },
+            "10": {
+              "col": 13,
+              "row": 0,
+              "clue": "Argot internauta \"Muchas risas\"",
+              "answer": "LOL"
+            },
+            "12": {
+              "col": 1,
+              "row": 1,
+              "clue": "Moneda de Letonia anterior al euro",
+              "answer": "LATS"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Confunda, turbe la cabeza",
+              "answer": "MAREE"
+            },
+            "16": {
+              "col": 3,
+              "row": 2,
+              "clue": "Los inseguros siempre temen un engaño marital",
+              "answer": "CELOSOS"
+            },
+            "18": {
+              "col": 14,
+              "row": 2,
+              "clue": "\"La …\", fortaleza andalusí en Córdoba",
+              "answer": "FLORESTA"
+            },
+            "21": {
+              "col": 9,
+              "row": 3,
+              "clue": "Declarar libre de responsabilidad penal al acusado de un delito",
+              "answer": "ABSOLVER"
+            },
+            "23": {
+              "col": 5,
+              "row": 4,
+              "clue": "\"Francisco de …\", español calificado como pintor tenebrista",
+              "answer": "ZURBARAN"
+            },
+            "25": {
+              "col": 13,
+              "row": 4,
+              "clue": "Desposes, unas",
+              "answer": "CASES"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Azul o roja, la de Matrix",
+              "answer": "PASTILLA"
+            },
+            "28": {
+              "col": 6,
+              "row": 5,
+              "clue": "El cervatillo de Disney",
+              "answer": "BAMBI"
+            },
+            "29": {
+              "col": 7,
+              "row": 5,
+              "clue": "Eugenio Derbez, comediante mexicano",
+              "answer": "ED"
+            },
+            "30": {
+              "col": 8,
+              "row": 5,
+              "clue": "Altura que algo alcanza, o a la que está colocado",
+              "answer": "NIVEL"
+            },
+            "33": {
+              "col": 1,
+              "row": 6,
+              "clue": "\"… Hayón\" diseñador y artista español",
+              "answer": "JAIME"
+            },
+            "34": {
+              "col": 2,
+              "row": 6,
+              "clue": "Dicho de un presunto reo, que no confiesa el delito que se le imputa",
+              "answer": "INCONFESO"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Trámites requeridos para la solución de un asunto",
+              "answer": "PAPELEO"
+            },
+            "43": {
+              "col": 7,
+              "row": 8,
+              "clue": "Ron Perlman, el de 'Hellboy'",
+              "answer": "RP"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "El profesor encargado",
+              "answer": "TUTOR"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Bollo de hojaldre en forma de rosca",
+              "answer": "TORTEL"
+            },
+            "49": {
+              "col": 3,
+              "row": 10,
+              "clue": "Informática 2000 megas = 2…",
+              "answer": "GIGAS"
+            },
+            "51": {
+              "col": 12,
+              "row": 10,
+              "clue": "Del festival Celsius 232, los Premios a los mejores comics",
+              "answer": "LORNA"
+            },
+            "52": {
+              "col": 13,
+              "row": 10,
+              "clue": "Entrégate al ocio",
+              "answer": "OCIA"
+            },
+            "54": {
+              "col": 6,
+              "row": 11,
+              "clue": "\"Alguna vez\" en inglés",
+              "answer": "EVER"
+            },
+            "55": {
+              "col": 7,
+              "row": 11,
+              "clue": "Actividad sexual",
+              "answer": "SEXO"
+            },
+            "56": {
+              "col": 8,
+              "row": 11,
+              "clue": "Calzoncillo ajustado",
+              "answer": "SLIP"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Aceite de Oliva Virgen Extra",
+              "answer": "AOVE"
+            },
+            "60": {
+              "col": 1,
+              "row": 12,
+              "clue": "Líquido segregado por tejidos infectados",
+              "answer": "PUS"
+            },
+            "62": {
+              "col": 9,
+              "row": 12,
+              "clue": "Aguantará muy poco",
+              "answer": "AGU"
+            }
+          },
+          "across": {
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Mueble que se transforma en cama",
+              "answer": "SOFACAMA"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Colombia Ciudad de la salsa",
+              "answer": "CALI"
+            },
+            "11": {
+              "col": 0,
+              "row": 1,
+              "clue": "En el centro de Milán",
+              "answer": "ILA"
+            },
+            "13": {
+              "col": 4,
+              "row": 1,
+              "clue": "Adobó, sazonó",
+              "answer": "ALIÑO"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Tírame un cable, échame una…",
+              "answer": "MANO"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Castigar, penalizar",
+              "answer": "SANCIONAR"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "No está tensa, al contrario",
+              "answer": "AJOLF"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Mires, examines desde arriba",
+              "answer": "OTEES"
+            },
+            "20": {
+              "col": 6,
+              "row": 3,
+              "clue": "Se confabularán, se…",
+              "answer": "ALIARAN"
+            },
+            "22": {
+              "col": 1,
+              "row": 4,
+              "clue": "Esparcimiento, alivio de los trabajos",
+              "answer": "SOLAZ"
+            },
+            "24": {
+              "col": 9,
+              "row": 4,
+              "clue": "Un conflicto cuando es armado, modo guerra",
+              "answer": "BELICO"
+            },
+            "27": {
+              "col": 3,
+              "row": 5,
+              "clue": "Gentilicio de Huelva",
+              "answer": "ONUBENSE"
+            },
+            "31": {
+              "col": 12,
+              "row": 5,
+              "clue": "Donde desemboca el delta de un río",
+              "answer": "MAR"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Peperoncinos, chiles, pimientos",
+              "answer": "AJIS"
+            },
+            "35": {
+              "col": 5,
+              "row": 6,
+              "clue": "\"… Ga Ga\" de Queen",
+              "answer": "RADIO"
+            },
+            "36": {
+              "col": 11,
+              "row": 6,
+              "clue": "Entré con un boleto de cortesía",
+              "answer": "PASE"
+            },
+            "37": {
+              "col": 0,
+              "row": 7,
+              "clue": "El asno esta loco, pero goza de buena salud",
+              "answer": "SANO"
+            },
+            "38": {
+              "col": 5,
+              "row": 7,
+              "clue": "Iniciales de exdictador italiano",
+              "answer": "BM"
+            },
+            "39": {
+              "col": 8,
+              "row": 7,
+              "clue": "Iniciales del Nobel de Literatura, autor de 'La fiesta del Chivo'",
+              "answer": "VL"
+            },
+            "40": {
+              "col": 11,
+              "row": 7,
+              "clue": "Yates sin proa",
+              "answer": "ATES"
+            },
+            "41": {
+              "col": 0,
+              "row": 8,
+              "clue": "Espasmos incontrolables",
+              "answer": "TICS"
+            },
+            "42": {
+              "col": 5,
+              "row": 8,
+              "clue": "Pequeña abreviatura",
+              "answer": "ABREV"
+            },
+            "44": {
+              "col": 11,
+              "row": 8,
+              "clue": "Publicación digital en redes",
+              "answer": "POST"
+            },
+            "45": {
+              "col": 0,
+              "row": 9,
+              "clue": "¡Simón, lo importante es lo de adentro!",
+              "answer": "IMO"
+            },
+            "46": {
+              "col": 4,
+              "row": 9,
+              "clue": "Hecho de ganar en una misma temporada tres competiciones deportivas",
+              "answer": "TRIPLETE"
+            },
+            "48": {
+              "col": 0,
+              "row": 10,
+              "clue": "Sistema de comunicación verbal o escrito",
+              "answer": "LENGUA"
+            },
+            "50": {
+              "col": 9,
+              "row": 10,
+              "clue": "Se vela, si abres la cámara analógica",
+              "answer": "ROLLO"
+            },
+            "53": {
+              "col": 2,
+              "row": 11,
+              "clue": "Práctica deportiva para estar en buena forma, similar al culturismo",
+              "answer": "FITNESS"
+            },
+            "57": {
+              "col": 10,
+              "row": 11,
+              "clue": "Voz usada para calificar una acción muy positiva",
+              "answer": "REOCA"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "\"Crianza con…\" lactancia, colecho y mucho cariño",
+              "answer": "APEGO"
+            },
+            "61": {
+              "col": 6,
+              "row": 12,
+              "clue": "Lugar donde se vela un difunto",
+              "answer": "VELATORIO"
+            },
+            "63": {
+              "col": 1,
+              "row": 13,
+              "clue": "Utilizar, emplear",
+              "answer": "USAR"
+            },
+            "64": {
+              "col": 6,
+              "row": 13,
+              "clue": "Reclama, demanda, obliga",
+              "answer": "EXIGE"
+            },
+            "65": {
+              "col": 12,
+              "row": 13,
+              "clue": "Se trasladan desde el oriente hasta el occidente",
+              "answer": "NAV"
+            },
+            "66": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"Choca… cinco\", la mano",
+              "answer": "ESOS"
+            },
+            "67": {
+              "col": 5,
+              "row": 14,
+              "clue": "Impulsa algo hacia adelante",
+              "answer": "PROPULSA"
+            }
+          }
+        },
+        "vertical_clues": "1-Condimento japonés que acompaña a este tipo de ramen\r\n2-Libero de dificultades, limpio algo\r\n3-Ave de consumo\r\n4-Voz para contestar a una llamada\r\n5-No mira la vecina \r\n6-Ofrenda a los difuntos tras el primer año de su muerte\r\n7-Sucumbí por la extraña forma en que me miró\r\n8-\"Santiago Ramón y…\" español, Nobel de Medicina en 1906\r\n9-Condición de un autor cuya identidad es desconocida\r\n10-Argot internauta \"Muchas risas\"\r\n12-Moneda de Letonia anterior al euro\r\n14-Confunda, turbe la cabeza\r\n16-Los inseguros siempre temen un engaño marital\r\n18-\"La …\", fortaleza andalusí en Córdoba\r\n21-Declarar libre de responsabilidad penal al acusado de un delito\r\n23-\"Francisco de …\", español calificado como pintor tenebrista\r\n25-Desposes, unas\r\n26-Azul o roja, la de Matrix\r\n28-El cervatillo de Disney\r\n29-Eugenio Derbez, comediante mexicano\r\n30-Altura que algo alcanza, o a la que está colocado\r\n33-\"… Hayón\" diseñador y artista español\r\n34-Dicho de un presunto reo, que no confiesa el delito que se le imputa \r\n36-Trámites requeridos para la solución de un asunto \r\n43-Ron Perlman, el de 'Hellboy' \r\n46-El profesor encargado\r\n47-Bollo de hojaldre en forma de rosca\r\n49-Informática 2000 megas = 2…\r\n51-Del festival Celsius 232, los Premios a los mejores comics\r\n52-Entrégate al ocio\r\n54-\"Alguna vez\" en inglés\r\n55-Actividad sexual\r\n56-Calzoncillo ajustado\r\n58-Aceite de Oliva Virgen Extra\r\n60-Líquido segregado por tejidos infectados\r\n62-Aguantará muy poco\r\n",
+        "horizontal_clues": "2-Mueble que se transforma en cama\r\n8-Colombia Ciudad de la salsa\r\n11-En el centro de Milán\r\n13-Adobó, sazonó\r\n14-Tírame un cable, échame una…\r\n15-Castigar, penalizar \r\n17-No está tensa, al contrario\r\n19-Mires, examines desde arriba \r\n20-Se confabularán, se…\r\n22-Esparcimiento, alivio de los trabajos\r\n24-Un conflicto cuando es armado, modo guerra\r\n27-Gentilicio de Huelva \r\n31-Donde desemboca el delta de un río\r\n32-Peperoncinos, chiles, pimientos \r\n35-\"… Ga Ga\" de Queen\r\n36-Entré con un boleto de cortesía\r\n37-El asno esta loco, pero goza de buena salud\r\n38-Iniciales de exdictador italiano\r\n39-Iniciales del Nobel de Literatura, autor de 'La fiesta del Chivo' \r\n40-Yates sin proa\r\n41-Espasmos incontrolables\r\n42-Pequeña abreviatura\r\n44-Publicación digital en redes \r\n45-¡Simón, lo importante es lo de adentro!\r\n46-Hecho de ganar en una misma temporada tres competiciones deportivas \r\n48-Sistema de comunicación verbal o escrito\r\n50-Se vela, si abres la cámara analógica\r\n53-Práctica deportiva para estar en buena forma, similar al culturismo\r\n57-Voz usada para calificar una acción muy positiva\r\n59-\"Crianza con…\" lactancia, colecho y mucho cariño\r\n61-Lugar donde se vela un difunto\r\n63-Utilizar, emplear\r\n64-Reclama, demanda, obliga\r\n65-Se trasladan desde el oriente hasta el occidente\r\n66-\"Choca… cinco\", la mano\r\n67-Impulsa algo hacia adelante\r\n",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,#,3,4,5,6,7,#,#,8,9,10,#\r\n11,12,#,#,13,#,#,#,#,#,14,#,#,#,#\r\n15,#,#,16,#,#,#,#,#,#,17,#,#,#,18\r\n19,#,#,#,#,#,20,#,#,21,#,#,#,#,#\r\n#,22,#,#,#,23,#,#,#,24,#,#,#,25,#\r\n26,#,#,27,#,#,28,29,30,#,#,#,31,#,#\r\n32,33,34,#,#,35,#,#,#,#,#,36,#,#,#\r\n37,#,#,#,#,38,#,#,39,#,#,40,#,#,#\r\n41,#,#,#,#,42,#,43,#,#,#,44,#,#,#\r\n45,#,#,#,46,#,#,#,#,#,47,#,#,#,#\r\n48,#,#,49,#,#,#,#,#,50,#,#,51,52,#\r\n#,#,53,#,#,#,54,55,56,#,57,#,#,#,58\r\n59,60,#,#,#,#,61,#,#,62,#,#,#,#,#\r\n#,63,#,#,#,#,64,#,#,#,#,#,65,#,#\r\n66,#,#,#,#,67,#,#,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
