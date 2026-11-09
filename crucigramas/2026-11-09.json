@@ -1,0 +1,485 @@
+{
+  "data": {
+    "id": 11337,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-08T20:29:17.018398Z",
+      "updatedAt": "2026-11-08T20:30:39.465316Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-09",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "PALA#AREAS#NALA\r\nE#INOPE#POLAR#G\r\nSACAMOS#OBTURAR\r\nAGIL#RUEDE#TELA\r\nDATE#REDOR#AMAD\r\nIRAS#ELISA#SEBE\r\nLRN#GALLINA#TAC\r\nLETRERO#SORBERE\r\nASEAN#####TIRAR\r\n###MEMA#DRAS###\r\n#LAPSOS#OAXACA#\r\nSISA#VOTOS#DANI\r\nEBT#FIN#NAC#BDO\r\nTRIPODE#GILBERT\r\nSELENA###SALSEA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Sueño angustioso que provoca miedo o ansiedad",
+              "answer": "PESADILLA"
+            },
+            "2": {
+              "col": 2,
+              "row": 0,
+              "clue": "Participante en una subasta",
+              "answer": "LICITANTE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Relaciones de sucesos por años",
+              "answer": "ANALES"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Golpear con una porra",
+              "answer": "APORREAR"
+            },
+            "5": {
+              "col": 6,
+              "row": 0,
+              "clue": "Respiración fuerte, agitada y ruidosa",
+              "answer": "RESUELLO"
+            },
+            "6": {
+              "col": 8,
+              "row": 0,
+              "clue": "Parte de una oración condicional que expresa la consecuencia",
+              "answer": "APODOSIS"
+            },
+            "7": {
+              "col": 9,
+              "row": 0,
+              "clue": "Gran gobernante",
+              "answer": "SOBERANO"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Tripulantes de embarcaciones marítimas",
+              "answer": "NAUTAS"
+            },
+            "9": {
+              "col": 12,
+              "row": 0,
+              "clue": "Atacar, embestir, acometer",
+              "answer": "ARREMETER"
+            },
+            "10": {
+              "col": 14,
+              "row": 0,
+              "clue": "Mostrar gratitud",
+              "answer": "AGRADECER"
+            },
+            "12": {
+              "col": 4,
+              "row": 1,
+              "clue": "Mantra de exhalación",
+              "answer": "OM"
+            },
+            "14": {
+              "col": 10,
+              "row": 1,
+              "clue": "Iniciales del desarrollador del sistema operativo Linux",
+              "answer": "LT"
+            },
+            "16": {
+              "col": 1,
+              "row": 2,
+              "clue": "Tomes, cojas",
+              "answer": "AGARRES"
+            },
+            "18": {
+              "col": 13,
+              "row": 2,
+              "clue": "Halagará por sus méritos a alguien",
+              "answer": "ALABARA"
+            },
+            "21": {
+              "col": 7,
+              "row": 3,
+              "clue": "Antiguos romanos: magistrado encargado de las obras públicas",
+              "answer": "EDIL"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Lo lleva en el ADN, lo tiene en los…",
+              "answer": "GENES"
+            },
+            "31": {
+              "col": 10,
+              "row": 6,
+              "clue": "El caballo de Atreyu, el de la 'Historia interminable'",
+              "answer": "ARTAX"
+            },
+            "34": {
+              "col": 3,
+              "row": 7,
+              "clue": "Plano inclinado",
+              "answer": "RAMPA"
+            },
+            "36": {
+              "col": 11,
+              "row": 7,
+              "clue": "Repetid, a petición de los oyentes, una canción",
+              "answer": "BISAD"
+            },
+            "40": {
+              "col": 5,
+              "row": 9,
+              "clue": "Un movimiento contracultural a la madrileña (1980)",
+              "answer": "MOVIDA"
+            },
+            "41": {
+              "col": 6,
+              "row": 9,
+              "clue": "Convierta un sonido con otro",
+              "answer": "ASONE"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "“Son…”, cueva más grande del mundo en Vietnam",
+              "answer": "DOONG"
+            },
+            "43": {
+              "col": 9,
+              "row": 9,
+              "clue": "Rozáis suave y ligeramente",
+              "answer": "RASAIS"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Mañana no hay trabajo, es…",
+              "answer": "LIBRE"
+            },
+            "45": {
+              "col": 2,
+              "row": 10,
+              "clue": "Mango del hacha",
+              "answer": "ASTIL"
+            },
+            "47": {
+              "col": 12,
+              "row": 10,
+              "clue": "Hay espacio para ti",
+              "answer": "CABES"
+            },
+            "48": {
+              "col": 13,
+              "row": 10,
+              "clue": "\"… Citroën\", fundador de esta marca de automóviles",
+              "answer": "ANDRE"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "Los segmentos del tenis",
+              "answer": "SETS"
+            },
+            "52": {
+              "col": 14,
+              "row": 11,
+              "clue": "Novena letra del alfabeto griego, equivale a la \"i\" del latino",
+              "answer": "IOTA"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "En el fondo del garrafón",
+              "answer": "FON"
+            },
+            "56": {
+              "col": 10,
+              "row": 12,
+              "clue": "No percibes las claves",
+              "answer": "CLA"
+            },
+            "59": {
+              "col": 3,
+              "row": 13,
+              "clue": "Cabeza de pescado",
+              "answer": "PE"
+            },
+            "61": {
+              "col": 11,
+              "row": 13,
+              "clue": "Inic del artista marcial más influyente de todos los tiempos",
+              "answer": "BL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Herramienta de campo y de obra",
+              "answer": "PALA"
+            },
+            "4": {
+              "col": 5,
+              "row": 0,
+              "clue": "Superficie comprendida dentro de un perímetro (pl)",
+              "answer": "AREAS"
+            },
+            "8": {
+              "col": 11,
+              "row": 0,
+              "clue": "Disney: La novia de Simba",
+              "answer": "NALA"
+            },
+            "11": {
+              "col": 2,
+              "row": 1,
+              "clue": "Pobre, indigente",
+              "answer": "INOPE"
+            },
+            "13": {
+              "col": 8,
+              "row": 1,
+              "clue": "Por la tela de invierno",
+              "answer": "POLAR"
+            },
+            "15": {
+              "col": 0,
+              "row": 2,
+              "clue": "Ponemos fuera",
+              "answer": "SACAMOS"
+            },
+            "17": {
+              "col": 8,
+              "row": 2,
+              "clue": "Obstruir, cerrar una abertura",
+              "answer": "OBTURAR"
+            },
+            "19": {
+              "col": 0,
+              "row": 3,
+              "clue": "Ligero, pronto, expedito",
+              "answer": "AGIL"
+            },
+            "20": {
+              "col": 5,
+              "row": 3,
+              "clue": "Caiga, dando vueltas por una pendiente",
+              "answer": "RUEDE"
+            },
+            "22": {
+              "col": 11,
+              "row": 3,
+              "clue": "'Vaya…', la marinera",
+              "answer": "TELA"
+            },
+            "23": {
+              "col": 0,
+              "row": 4,
+              "clue": "Fecha en inglés",
+              "answer": "DATE"
+            },
+            "24": {
+              "col": 5,
+              "row": 4,
+              "clue": "Rededor, alrededor",
+              "answer": "REDOR"
+            },
+            "25": {
+              "col": 11,
+              "row": 4,
+              "clue": "Quered, adorad",
+              "answer": "AMAD"
+            },
+            "26": {
+              "col": 0,
+              "row": 5,
+              "clue": "Asistirás con el traje de las indias al revés",
+              "answer": "IRAS"
+            },
+            "27": {
+              "col": 5,
+              "row": 5,
+              "clue": "\"Para…\", bagatela de Beethoven",
+              "answer": "ELISA"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Vallado de ramas entretejidas",
+              "answer": "SEBE"
+            },
+            "29": {
+              "col": 0,
+              "row": 6,
+              "clue": "\"Alearían\" sin vocales",
+              "answer": "LRN"
+            },
+            "30": {
+              "col": 4,
+              "row": 6,
+              "clue": "Hembra del ave más numerosa del planeta",
+              "answer": "GALLINA"
+            },
+            "32": {
+              "col": 12,
+              "row": 6,
+              "clue": "\"Tic …\", las agujas del reloj",
+              "answer": "TAC"
+            },
+            "33": {
+              "col": 0,
+              "row": 7,
+              "clue": "Conjunto de palabras escritas para notificar",
+              "answer": "LETRERO"
+            },
+            "35": {
+              "col": 8,
+              "row": 7,
+              "clue": "Beberé con pajita",
+              "answer": "SORBERE"
+            },
+            "37": {
+              "col": 0,
+              "row": 8,
+              "clue": "Limpian, higienizan",
+              "answer": "ASEAN"
+            },
+            "38": {
+              "col": 10,
+              "row": 8,
+              "clue": "Arrojar, lanzar",
+              "answer": "TIRAR"
+            },
+            "39": {
+              "col": 3,
+              "row": 9,
+              "clue": "Tonta, mentecata",
+              "answer": "MEMA"
+            },
+            "42": {
+              "col": 8,
+              "row": 9,
+              "clue": "Mujeres profesionales de la salud (abrev)",
+              "answer": "DRAS"
+            },
+            "44": {
+              "col": 1,
+              "row": 10,
+              "clue": "Espacios de tiempos",
+              "answer": "LAPSOS"
+            },
+            "46": {
+              "col": 8,
+              "row": 10,
+              "clue": "Estado de México, donde se ubican las Bahías de Huatulco",
+              "answer": "OAXACA"
+            },
+            "49": {
+              "col": 0,
+              "row": 11,
+              "clue": "La fracción que te roban",
+              "answer": "SISA"
+            },
+            "50": {
+              "col": 5,
+              "row": 11,
+              "clue": "Expresiones públicas o secretas de una preferencia ante una opción",
+              "answer": "VOTOS"
+            },
+            "51": {
+              "col": 11,
+              "row": 11,
+              "clue": "\"… Martín\" vocalista del grupo El Canto del Loco",
+              "answer": "DANI"
+            },
+            "53": {
+              "col": 0,
+              "row": 12,
+              "clue": "Empresa de base tecnológica",
+              "answer": "EBT"
+            },
+            "54": {
+              "col": 4,
+              "row": 12,
+              "clue": "Término de algo",
+              "answer": "FIN"
+            },
+            "55": {
+              "col": 8,
+              "row": 12,
+              "clue": "El reflejo del perro",
+              "answer": "NAC"
+            },
+            "57": {
+              "col": 12,
+              "row": 12,
+              "clue": "Iniciales de Bernardo Duque Osorio",
+              "answer": "BDO"
+            },
+            "58": {
+              "col": 0,
+              "row": 13,
+              "clue": "Es el díptero incorrecto, porque esta cosa tiene tres patas",
+              "answer": "TRIPODE"
+            },
+            "60": {
+              "col": 8,
+              "row": 13,
+              "clue": "\"… Newton Lewis\" el fisicoquímico que ideó el concepto de enlaces covalentes",
+              "answer": "GILBERT"
+            },
+            "62": {
+              "col": 0,
+              "row": 14,
+              "clue": "\"… Quintanilla\" la reina del texmex, asesinada en 1995",
+              "answer": "SELENA"
+            },
+            "63": {
+              "col": 9,
+              "row": 14,
+              "clue": "Cotillea por diversión",
+              "answer": "SALSEA"
+            }
+          }
+        },
+        "vertical_clues": "1-Sueño angustioso que provoca miedo o ansiedad\r\n2-Participante en una subasta \r\n3-Relaciones de sucesos por años\r\n4-Golpear con una porra\r\n5-Respiración fuerte, agitada y ruidosa \r\n6-Parte de una oración condicional que expresa la consecuencia \r\n7-Gran gobernante\r\n8-Tripulantes de embarcaciones marítimas \r\n9-Atacar, embestir, acometer\r\n10-Mostrar gratitud \r\n12-Mantra de exhalación\r\n14-Iniciales del desarrollador del sistema operativo Linux\r\n16-Tomes, cojas\r\n18-Halagará por sus méritos a alguien\r\n21-Antiguos romanos: magistrado encargado de las obras públicas\r\n30-Lo lleva en el ADN, lo tiene en los…\r\n31-El caballo de Atreyu, el de la 'Historia interminable'\r\n34-Plano inclinado\r\n36-Repetid, a petición de los oyentes, una canción\r\n40-Un movimiento contracultural a la madrileña (1980)\r\n41-Convierta un sonido con otro\r\n42-“Son…”, cueva más grande del mundo en Vietnam\r\n43-Rozáis suave y ligeramente\r\n44-Mañana no hay trabajo, es…\r\n45-Mango del hacha\r\n47-Hay espacio para ti\r\n48-\"… Citroën\", fundador de esta marca de automóviles\r\n49-Los segmentos del tenis\r\n52-Novena letra del alfabeto griego, equivale a la \"i\" del latino\r\n54-En el fondo del garrafón\r\n56-No percibes las claves\r\n59-Cabeza de pescado \r\n61-Inic del artista marcial más influyente de todos los tiempos",
+        "horizontal_clues": "1-Herramienta de campo y de obra\r\n4-Superficie comprendida dentro de un perímetro (pl)\r\n8-Disney: La novia de Simba \r\n11-Pobre, indigente\r\n13-Por la tela de invierno\r\n15-Ponemos fuera\r\n17-Obstruir, cerrar una abertura\r\n19-Ligero, pronto, expedito\r\n20-Caiga, dando vueltas por una pendiente\r\n22-'Vaya…', la marinera\r\n23-Fecha en inglés\r\n24-Rededor, alrededor\r\n25-Quered, adorad\r\n26-Asistirás con el traje de las indias al revés\r\n27-\"Para…\", bagatela de Beethoven\r\n28-Vallado de ramas entretejidas \r\n29-\"Alearían\" sin vocales\r\n30-Hembra del ave más numerosa del planeta\r\n32-\"Tic …\", las agujas del reloj\r\n33-Conjunto de palabras escritas para notificar\r\n35-Beberé con pajita\r\n37-Limpian, higienizan\r\n38-Arrojar, lanzar\r\n39-Tonta, mentecata\r\n42-Mujeres profesionales de la salud (abrev)\r\n44-Espacios de tiempos\r\n46-Estado de México, donde se ubican las Bahías de Huatulco\r\n49-La fracción que te roban\r\n50-Expresiones públicas o secretas de una preferencia ante una opción\r\n51-\"… Martín\" vocalista del grupo El Canto del Loco\r\n53-Empresa de base tecnológica\r\n54-Término de algo\r\n55-El reflejo del perro\r\n57-Iniciales de Bernardo Duque Osorio\r\n58-Es el díptero incorrecto, porque esta cosa tiene tres patas\r\n60-\"… Newton Lewis\" el fisicoquímico que ideó el concepto de enlaces covalentes\r\n62-\"… Quintanilla\" la reina del texmex, asesinada en 1995\r\n63-Cotillea por diversión",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,#,2,3,#,4,5,#,6,7,#,8,9,#,10\r\n#,#,11,#,12,#,#,#,13,#,14,#,#,#,#\r\n15,16,#,#,#,#,#,#,17,#,#,#,#,18,#\r\n19,#,#,#,#,20,#,21,#,#,#,22,#,#,#\r\n23,#,#,#,#,24,#,#,#,#,#,25,#,#,#\r\n26,#,#,#,#,27,#,#,#,#,#,28,#,#,#\r\n29,#,#,#,30,#,#,#,#,#,31,#,32,#,#\r\n33,#,#,34,#,#,#,#,35,#,#,36,#,#,#\r\n37,#,#,#,#,#,#,#,#,#,38,#,#,#,#\r\n#,#,#,39,#,40,41,#,42,43,#,#,#,#,#\r\n#,44,45,#,#,#,#,#,46,#,#,#,47,48,#\r\n49,#,#,#,#,50,#,#,#,#,#,51,#,#,52\r\n53,#,#,#,54,#,#,#,55,#,56,#,57,#,#\r\n58,#,#,59,#,#,#,#,60,#,#,61,#,#,#\r\n62,#,#,#,#,#,#,#,#,63,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
