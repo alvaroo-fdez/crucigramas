@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 11348,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-09T15:25:06.505093Z",
+      "updatedAt": "2026-11-09T15:26:15.041280Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-10",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "TITILARA#GRUPOS\r\nRR#DESENFRENADA\r\nARC#DISCREPAR#B\r\nTEAM#MULATOS#NO\r\nADMIN#MAGAN#TAR\r\nRUANA#INI##MECE\r\n#CRECER#LEJANIA\r\nATOREN###CANTOR\r\nPITARON#SURDAN#\r\nABEL##AJA#RATAS\r\nILS#MARIN#ATILA\r\nSE#FIGURAR#OVIL\r\nA#SAGITARIO#ADI\r\nDERMATOFAGIA#AD\r\nALEARE#ANACONDA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Intentar en nuestra tarima aunque esté rota",
+              "answer": "TRATAR"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "Que no se deja vencer ni someter",
+              "answer": "IRREDUCTIBLE"
+            },
+            "3": {
+              "col": 3,
+              "row": 0,
+              "clue": "Isadora Duncan (creadora de la danza contemporánea)",
+              "answer": "ID"
+            },
+            "4": {
+              "col": 4,
+              "row": 0,
+              "clue": "Tecnología de iluminación eficiente",
+              "answer": "LED"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "La cita con el señor (inv)",
+              "answer": "ASIM"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Decir en pocas palabras",
+              "answer": "RESUMIR"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Fondean, ancoran",
+              "answer": "ANCLAN"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "\"… Garbo\" legendaria actriz sueca de Hollywood",
+              "answer": "GRETA"
+            },
+            "9": {
+              "col": 10,
+              "row": 0,
+              "clue": "Vuelve a poner lo que ya se acabó",
+              "answer": "REPON"
+            },
+            "10": {
+              "col": 11,
+              "row": 0,
+              "clue": "Algunas lo usan mal",
+              "answer": "UNAS"
+            },
+            "11": {
+              "col": 12,
+              "row": 0,
+              "clue": "Número que es divisible entre 2",
+              "answer": "PAR"
+            },
+            "12": {
+              "col": 13,
+              "row": 0,
+              "clue": "En el centro de la moda",
+              "answer": "OD"
+            },
+            "13": {
+              "col": 14,
+              "row": 0,
+              "clue": "Se rebosará de confusión al catar el sabor",
+              "answer": "SABOREAR"
+            },
+            "16": {
+              "col": 8,
+              "row": 1,
+              "clue": "Lo pone en las cajas de Amazon, cuando trae algo de vidrio",
+              "answer": "FRAGIL"
+            },
+            "18": {
+              "col": 2,
+              "row": 2,
+              "clue": "Compartimentos reducidos que hay en los barcos para poner las camas",
+              "answer": "CAMAROTES"
+            },
+            "21": {
+              "col": 3,
+              "row": 3,
+              "clue": "El reino de las piedras",
+              "answer": "MINERAL"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "La que te hace hijo adoptivo de otra patria",
+              "answer": "NACIONALIDAD"
+            },
+            "25": {
+              "col": 4,
+              "row": 4,
+              "clue": "Salir por el horizonte, p ej, el sol",
+              "answer": "NACER"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Intento que puede quedarse en nada (fem)",
+              "answer": "TENTATIVA"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Orden o precepto que el superior da a los súbditos",
+              "answer": "MANDATO"
+            },
+            "32": {
+              "col": 5,
+              "row": 6,
+              "clue": "Un poco enojado con el loco Noé",
+              "answer": "ENO"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Ascendiente directo del euro",
+              "answer": "ECU"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Vasija ideal para compartir la sangría",
+              "answer": "JARRA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Toma en formato horizontal, más ancha que alta",
+              "answer": "APAISADA"
+            },
+            "39": {
+              "col": 6,
+              "row": 8,
+              "clue": "Anime: \"… Uzumaki\" el Jinchuriki de Kurama",
+              "answer": "NARUTO"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Recobrarán la salud",
+              "answer": "SANARAN"
+            },
+            "43": {
+              "col": 7,
+              "row": 9,
+              "clue": "Grúa de cuello largo",
+              "answer": "JIRAFA"
+            },
+            "45": {
+              "col": 14,
+              "row": 9,
+              "clue": "Sortida, eixida, saída, irteera, gessuda",
+              "answer": "SALIDA"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "Partir el pan en pedazos muy pequeños",
+              "answer": "MIGAR"
+            },
+            "48": {
+              "col": 5,
+              "row": 10,
+              "clue": "Inquieté, turbé, moví el ánimo",
+              "answer": "AGITE"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "\"Es mala amante la… y no va a quererte de verdad\" Rosalía",
+              "answer": "FAMA"
+            },
+            "52": {
+              "col": 9,
+              "row": 11,
+              "clue": "Capital y ciudad más poblada de Letonia",
+              "answer": "RIGA"
+            },
+            "54": {
+              "col": 2,
+              "row": 12,
+              "clue": "Secretaría de Relaciones Exteriores",
+              "answer": "SRE"
+            },
+            "55": {
+              "col": 10,
+              "row": 12,
+              "clue": "Retrocedo (inv)",
+              "answer": "OIC"
+            },
+            "58": {
+              "col": 1,
+              "row": 13,
+              "clue": "Ni yo, ni tú",
+              "answer": "EL"
+            },
+            "59": {
+              "col": 11,
+              "row": 13,
+              "clue": "Lo que tienen en común Aitana Ocaña y Aristóteles Onásis",
+              "answer": "AO"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Papaderará y Titi la hará a su manera",
+              "answer": "TITILARA"
+            },
+            "8": {
+              "col": 9,
+              "row": 0,
+              "clue": "Colectivo de bandas",
+              "answer": "GRUPOS"
+            },
+            "14": {
+              "col": 0,
+              "row": 1,
+              "clue": "Las iniciales que tienen en común Tolkien y Martin",
+              "answer": "RR"
+            },
+            "15": {
+              "col": 3,
+              "row": 1,
+              "clue": "Que actúa sin freno ni moderación",
+              "answer": "DESENFRENADA"
+            },
+            "17": {
+              "col": 0,
+              "row": 2,
+              "clue": "Un arco inglés",
+              "answer": "ARC"
+            },
+            "19": {
+              "col": 4,
+              "row": 2,
+              "clue": "Manifestar opinión contraria a lo establecido",
+              "answer": "DISCREPAR"
+            },
+            "20": {
+              "col": 0,
+              "row": 3,
+              "clue": "\"Dream…\" el equipo soñado del básquet en 1992",
+              "answer": "TEAM"
+            },
+            "22": {
+              "col": 5,
+              "row": 3,
+              "clue": "Hombres nacidos de la mezcla entre blancos y negros",
+              "answer": "MULATOS"
+            },
+            "23": {
+              "col": 13,
+              "row": 3,
+              "clue": "Web para Noruega",
+              "answer": "NO"
+            },
+            "24": {
+              "col": 0,
+              "row": 4,
+              "clue": "Quien gestiona y modera una comunidad en línea",
+              "answer": "ADMIN"
+            },
+            "26": {
+              "col": 6,
+              "row": 4,
+              "clue": "\"Juan …\" Dj que cantó con Belinda el tema de la peli de Tadeo Jones",
+              "answer": "MAGAN"
+            },
+            "27": {
+              "col": 12,
+              "row": 4,
+              "clue": "Instrumento persa",
+              "answer": "TAR"
+            },
+            "28": {
+              "col": 0,
+              "row": 5,
+              "clue": "Tipo de poncho hecho de lana",
+              "answer": "RUANA"
+            },
+            "29": {
+              "col": 6,
+              "row": 5,
+              "clue": "Inicia con las tres",
+              "answer": "INI"
+            },
+            "30": {
+              "col": 11,
+              "row": 5,
+              "clue": "Mueve con delicadeza al bebé para dormirlo",
+              "answer": "MECE"
+            },
+            "31": {
+              "col": 1,
+              "row": 6,
+              "clue": "Madurar, dejar de ser un niño",
+              "answer": "CRECER"
+            },
+            "33": {
+              "col": 8,
+              "row": 6,
+              "clue": "Distancia que alimenta la nostalgia",
+              "answer": "LEJANIA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Notaré difusamente cuando se obstruyan",
+              "answer": "ATOREN"
+            },
+            "37": {
+              "col": 9,
+              "row": 7,
+              "clue": "Contar correctamente con el cantante",
+              "answer": "CANTOR"
+            },
+            "38": {
+              "col": 0,
+              "row": 8,
+              "clue": "Le zumbaron los oídos a pintora tripona",
+              "answer": "PITARON"
+            },
+            "40": {
+              "col": 8,
+              "row": 8,
+              "clue": "Enderecen la embarcación",
+              "answer": "SURDAN"
+            },
+            "41": {
+              "col": 0,
+              "row": 9,
+              "clue": "\"… Antón\" el 1º en ganar 2 mundiales consecutivos de maratón (97 y 99)",
+              "answer": "ABEL"
+            },
+            "42": {
+              "col": 6,
+              "row": 9,
+              "clue": "Está bien, dame la caja sin tapa",
+              "answer": "AJA"
+            },
+            "44": {
+              "col": 10,
+              "row": 9,
+              "clue": "Las seguidoras del flautista de Hamelín",
+              "answer": "RATAS"
+            },
+            "46": {
+              "col": 0,
+              "row": 10,
+              "clue": "Lo que Nils e Ilse tienen en común",
+              "answer": "ILS"
+            },
+            "47": {
+              "col": 4,
+              "row": 10,
+              "clue": "\"Carolina…\" siete veces campeona de Europa en Badminton",
+              "answer": "MARIN"
+            },
+            "49": {
+              "col": 10,
+              "row": 10,
+              "clue": "El rey de los hunos",
+              "answer": "ATILA"
+            },
+            "50": {
+              "col": 0,
+              "row": 11,
+              "clue": "Ni idea, no lo…",
+              "answer": "SE"
+            },
+            "51": {
+              "col": 3,
+              "row": 11,
+              "clue": "Aparecer en una lista",
+              "answer": "FIGURAR"
+            },
+            "53": {
+              "col": 11,
+              "row": 11,
+              "clue": "Establo, corral",
+              "answer": "OVIL"
+            },
+            "54": {
+              "col": 2,
+              "row": 12,
+              "clue": "Signo del zodiaco representado por un arquero",
+              "answer": "SAGITARIO"
+            },
+            "56": {
+              "col": 12,
+              "row": 12,
+              "clue": "Cumbre del Pirineo navarro",
+              "answer": "ADI"
+            },
+            "57": {
+              "col": 0,
+              "row": 13,
+              "clue": "Trastorno donde una persona muerde compulsivamente su propia piel",
+              "answer": "DERMATOFAGIA"
+            },
+            "60": {
+              "col": 13,
+              "row": 13,
+              "clue": "Dominio web para Andorra",
+              "answer": "AD"
+            },
+            "61": {
+              "col": 0,
+              "row": 14,
+              "clue": "Mezclaré los metales",
+              "answer": "ALEARE"
+            },
+            "62": {
+              "col": 7,
+              "row": 14,
+              "clue": "Especie de boa americana de gran tamaño",
+              "answer": "ANACONDA"
+            }
+          }
+        },
+        "vertical_clues": "1-Intentar en nuestra tarima aunque esté rota\r\n2-Que no se deja vencer ni someter\r\n3-Isadora Duncan (creadora de la danza contemporánea) \r\n4-Tecnología de iluminación eficiente \r\n5-La cita con el señor (inv) \r\n6-Decir en pocas palabras \r\n7-Fondean, ancoran\r\n8-\"… Garbo\" legendaria actriz sueca de Hollywood\r\n9-Vuelve a poner lo que ya se acabó \r\n10-Algunas lo usan mal \r\n11-Número que es divisible entre 2\r\n12-En el centro de la moda \r\n13-Se rebosará de confusión al catar el sabor\r\n16-Lo pone en las cajas de Amazon, cuando trae algo de vidrio\r\n18-Compartimentos reducidos que hay en los barcos para poner las camas\r\n21-El reino de las piedras \r\n23-La que te hace hijo adoptivo de otra patria \r\n25-Salir por el horizonte, p ej, el sol \r\n27-Intento que puede quedarse en nada (fem) \r\n30-Orden o precepto que el superior da a los súbditos\r\n32-Un poco enojado con el loco Noé\r\n34-Ascendiente directo del euro \r\n35-Vasija ideal para compartir la sangría \r\n36-Toma en formato horizontal, más ancha que alta \r\n39-Anime: \"… Uzumaki\" el Jinchuriki de Kurama\r\n40-Recobrarán la salud\r\n43-Grúa de cuello largo \r\n45-Sortida, eixida, saída, irteera, gessuda\r\n47-Partir el pan en pedazos muy pequeños\r\n48-Inquieté, turbé, moví el ánimo\r\n51-\"Es mala amante la… y no va a quererte de verdad\" Rosalía \r\n52-Capital y ciudad más poblada de Letonia\r\n54-Secretaría de Relaciones Exteriores\r\n55-Retrocedo (inv) \r\n58-Ni yo, ni tú\r\n59-Lo que tienen en común Aitana Ocaña y Aristóteles Onásis",
+        "horizontal_clues": "1-Papaderará y Titi la hará a su manera\r\n8-Colectivo de bandas \r\n14-Las iniciales que tienen en común Tolkien y Martin\r\n15-Que actúa sin freno ni moderación\r\n17-Un arco inglés\r\n19-Manifestar opinión contraria a lo establecido \r\n20-\"Dream…\" el equipo soñado del básquet en 1992\r\n22-Hombres nacidos de la mezcla entre blancos y negros\r\n23-Web para Noruega\r\n24-Quien gestiona y modera una comunidad en línea \r\n26-\"Juan …\" Dj que cantó con Belinda el tema de la peli de Tadeo Jones\r\n27-Instrumento persa\r\n28-Tipo de poncho hecho de lana\r\n29-Inicia con las tres \r\n30-Mueve con delicadeza al bebé para dormirlo\r\n31-Madurar, dejar de ser un niño \r\n33-Distancia que alimenta la nostalgia \r\n36-Notaré difusamente cuando se obstruyan\r\n37-Contar correctamente con el cantante\r\n38-Le zumbaron los oídos a pintora tripona \r\n40-Enderecen la embarcación\r\n41-\"… Antón\" el 1º en ganar 2 mundiales consecutivos de maratón (97 y 99) \r\n42-Está bien, dame la caja sin tapa\r\n44-Las seguidoras del flautista de Hamelín \r\n46-Lo que Nils e Ilse tienen en común\r\n47-\"Carolina…\" siete veces campeona de Europa en Badminton \r\n49-El rey de los hunos\r\n50-Ni idea, no lo…\r\n51-Aparecer en una lista \r\n53-Establo, corral\r\n54-Signo del zodiaco representado por un arquero\r\n56-Cumbre del Pirineo navarro\r\n57-Trastorno donde una persona muerde compulsivamente su propia piel\r\n60-Dominio web para Andorra\r\n61-Mezclaré los metales\r\n62-Especie de boa americana de gran tamaño",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,#,3,4,5,6,7,#,8,9,10,11,12,13\r\n14,#,#,15,#,#,#,#,16,#,#,#,#,#,#\r\n17,#,18,#,19,#,#,#,#,#,#,#,#,#,#\r\n20,#,#,21,#,22,#,#,#,#,#,#,#,23,#\r\n24,#,#,#,25,#,26,#,#,#,#,#,27,#,#\r\n28,#,#,#,#,#,29,#,#,#,#,30,#,#,#\r\n#,31,#,#,#,32,#,#,33,34,35,#,#,#,#\r\n36,#,#,#,#,#,#,#,#,37,#,#,#,#,#\r\n38,#,#,#,#,#,39,#,40,#,#,#,#,#,#\r\n41,#,#,#,#,#,42,43,#,#,44,#,#,#,45\r\n46,#,#,#,47,48,#,#,#,#,49,#,#,#,#\r\n50,#,#,51,#,#,#,#,#,52,#,53,#,#,#\r\n#,#,54,#,#,#,#,#,#,#,55,#,56,#,#\r\n57,58,#,#,#,#,#,#,#,#,#,59,#,60,#\r\n61,#,#,#,#,#,#,62,#,#,#,#,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
