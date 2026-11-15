@@ -1,0 +1,491 @@
+{
+  "data": {
+    "id": 11408,
+    "type": null,
+    "attributes": {
+      "author": "Nataly Sanoja",
+      "customLogoUrl": null,
+      "stats": {
+        "completedPercentage": 0
+      },
+      "userState": null,
+      "userStateStatus": "initial",
+      "authorObj": null,
+      "gameType": "crossword",
+      "createdAt": "2026-11-14T19:37:20.240719Z",
+      "updatedAt": "2026-11-14T19:38:40.544180Z",
+      "level": null,
+      "creationDate": null,
+      "category": "experto",
+      "authorName": "Nataly Sanoja",
+      "theme": null,
+      "timer": 0,
+      "timerType": "incremental",
+      "publicationDate": "2026-11-15",
+      "unpublishDate": null,
+      "customSettings": {
+        "icon": "",
+        "title": "",
+        "colors": {
+          "enabled": false,
+          "primary": "#000000",
+          "secondary": "#000000"
+        }
+      },
+      "reviewStatus": "pending",
+      "config": {
+        "board": "OVAS#DISC##PURE\r\nPIROMANIA#FOSIL\r\nELEMENTAL#ODIES\r\nPASANTE#CERCANA\r\n###LOEN#ANDA###\r\nPATIN#TEST#STOP\r\nARRAIGAR#OBTUSA\r\nREI#TERRENO#PAS\r\nALOCAR#ACERCABA\r\nROSO#MENU#BOCAS\r\n###NIAL#EPOC###\r\nMISSONI#SATIVAS\r\nATAUD#PATRONAJE\r\nYELMO#SERENASEN\r\nAMAO##ELES#ROSA",
+        "entries": {
+          "down": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "La Organización que controla la producción de petróleo",
+              "answer": "OPEP"
+            },
+            "2": {
+              "col": 1,
+              "row": 0,
+              "clue": "El apellido de La Rosalía",
+              "answer": "VILA"
+            },
+            "3": {
+              "col": 2,
+              "row": 0,
+              "clue": "Dios olímpico de la guerra",
+              "answer": "ARES"
+            },
+            "4": {
+              "col": 3,
+              "row": 0,
+              "clue": "País africano cuya capital es Mogadiscio",
+              "answer": "SOMALIA"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "Te dan traspapelado el de Alighieri",
+              "answer": "DANTE"
+            },
+            "6": {
+              "col": 6,
+              "row": 0,
+              "clue": "Probar, tratar",
+              "answer": "INTENTAR"
+            },
+            "7": {
+              "col": 7,
+              "row": 0,
+              "clue": "Así, ajetreada, canta 'Snowman' o 'Unstoppable'",
+              "answer": "SIA"
+            },
+            "8": {
+              "col": 8,
+              "row": 0,
+              "clue": "Usas papel transparente para copiar un dibujo",
+              "answer": "CALCAS"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Serie episódica de archivos de audio",
+              "answer": "PODCAST"
+            },
+            "10": {
+              "col": 12,
+              "row": 0,
+              "clue": "Vuestra señoría",
+              "answer": "USIA"
+            },
+            "11": {
+              "col": 13,
+              "row": 0,
+              "clue": "Lo hacen de últimos y lo hacen mejor",
+              "answer": "RIEN"
+            },
+            "12": {
+              "col": 14,
+              "row": 0,
+              "clue": "Él sabe quién es la chica",
+              "answer": "ELSA"
+            },
+            "14": {
+              "col": 4,
+              "row": 1,
+              "clue": "Disidente de los anabaptistas, seguidor de Mennón Simons",
+              "answer": "MENONITA"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "\"Henry…\", padre de las cadenas de producción",
+              "answer": "FORD"
+            },
+            "20": {
+              "col": 9,
+              "row": 3,
+              "clue": "Ajuste el tono",
+              "answer": "ENTONE"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Bloquear un chute, para que no sea gol",
+              "answer": "PARAR"
+            },
+            "24": {
+              "col": 1,
+              "row": 5,
+              "clue": "Limpio el trigo con arel",
+              "answer": "ARELO"
+            },
+            "25": {
+              "col": 2,
+              "row": 5,
+              "clue": "Tres para tres",
+              "answer": "TRIOS"
+            },
+            "27": {
+              "col": 7,
+              "row": 5,
+              "clue": "Desaciertan, se equivocan",
+              "answer": "ERRAN"
+            },
+            "29": {
+              "col": 12,
+              "row": 5,
+              "clue": "Mejor rapero de todos los tiempos según la Rolling Stone",
+              "answer": "TUPAC"
+            },
+            "30": {
+              "col": 13,
+              "row": 5,
+              "clue": "Se arriesgaba, se aventuraba",
+              "answer": "OSABA"
+            },
+            "31": {
+              "col": 14,
+              "row": 5,
+              "clue": "Entras con las uvas desecadas",
+              "answer": "PASAS"
+            },
+            "33": {
+              "col": 5,
+              "row": 6,
+              "clue": "\"… Valdés\" conocido como Tin Tan, importante comediante mexicano (1915-73)",
+              "answer": "GERMAN"
+            },
+            "35": {
+              "col": 10,
+              "row": 6,
+              "clue": "Burbuja grande que brota con fuerza de un líquido",
+              "answer": "BORBOTON"
+            },
+            "38": {
+              "col": 8,
+              "row": 7,
+              "clue": "Tipo de escultura o pintura con un hombre a caballo",
+              "answer": "ECUESTRE"
+            },
+            "41": {
+              "col": 3,
+              "row": 8,
+              "clue": "Lo ingiero con sumo cuidado",
+              "answer": "CONSUMO"
+            },
+            "43": {
+              "col": 11,
+              "row": 8,
+              "clue": "Preparar una crónica de terror",
+              "answer": "COCINAR"
+            },
+            "46": {
+              "col": 6,
+              "row": 9,
+              "clue": "Circunferencia cónica, óvalo",
+              "answer": "ELIPSE"
+            },
+            "49": {
+              "col": 4,
+              "row": 10,
+              "clue": "Yodo",
+              "answer": "IODO"
+            },
+            "51": {
+              "col": 9,
+              "row": 10,
+              "clue": "Irá presa a pesar de que no continúes",
+              "answer": "PARES"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Famosa abejita rebelde que protagoniza una caricatura",
+              "answer": "MAYA"
+            },
+            "53": {
+              "col": 1,
+              "row": 11,
+              "clue": "Punto a tratar",
+              "answer": "ITEM"
+            },
+            "54": {
+              "col": 2,
+              "row": 11,
+              "clue": "Habitación principal de la casa",
+              "answer": "SALA"
+            },
+            "56": {
+              "col": 12,
+              "row": 11,
+              "clue": "Este va a ser de agua y no se le niega a nadie",
+              "answer": "VASO"
+            },
+            "57": {
+              "col": 13,
+              "row": 11,
+              "clue": "Desgastes, deteriores, desluzcas",
+              "answer": "AJES"
+            },
+            "58": {
+              "col": 14,
+              "row": 11,
+              "clue": "Río que discurre por París",
+              "answer": "SENA"
+            },
+            "61": {
+              "col": 7,
+              "row": 12,
+              "clue": "Al expandido (2p)",
+              "answer": "AEL"
+            }
+          },
+          "across": {
+            "1": {
+              "col": 0,
+              "row": 0,
+              "clue": "Huevas",
+              "answer": "OVAS"
+            },
+            "5": {
+              "col": 5,
+              "row": 0,
+              "clue": "El 'compact…' lo tiene el '… jockey'",
+              "answer": "DISC"
+            },
+            "9": {
+              "col": 11,
+              "row": 0,
+              "clue": "Papilla que se hace con patatas",
+              "answer": "PURE"
+            },
+            "13": {
+              "col": 0,
+              "row": 1,
+              "clue": "Trastorno relacionado con la atracción por el fuego",
+              "answer": "PIROMANIA"
+            },
+            "15": {
+              "col": 10,
+              "row": 1,
+              "clue": "Sustancia petrificada, de origen orgánico",
+              "answer": "FOSIL"
+            },
+            "16": {
+              "col": 0,
+              "row": 2,
+              "clue": "La base de todo, lo más simple de la materia",
+              "answer": "ELEMENTAL"
+            },
+            "17": {
+              "col": 10,
+              "row": 2,
+              "clue": "Le tengas animadversión, lo…",
+              "answer": "ODIES"
+            },
+            "18": {
+              "col": 0,
+              "row": 3,
+              "clue": "Pasa por la empresa para hacer sus prácticas",
+              "answer": "PASANTE"
+            },
+            "19": {
+              "col": 8,
+              "row": 3,
+              "clue": "Próxima",
+              "answer": "CERCANA"
+            },
+            "21": {
+              "col": 3,
+              "row": 4,
+              "clue": "Alaben, den por bueno algo",
+              "answer": "LOEN"
+            },
+            "22": {
+              "col": 8,
+              "row": 4,
+              "clue": "Nada muy mal, pero camina muy bien",
+              "answer": "ANDA"
+            },
+            "23": {
+              "col": 0,
+              "row": 5,
+              "clue": "Zapato con ruedas",
+              "answer": "PATIN"
+            },
+            "26": {
+              "col": 6,
+              "row": 5,
+              "clue": "Prueba psicológica",
+              "answer": "TEST"
+            },
+            "28": {
+              "col": 11,
+              "row": 5,
+              "clue": "Estopa sin tabúes se detiene en Inglaterra",
+              "answer": "STOP"
+            },
+            "32": {
+              "col": 0,
+              "row": 6,
+              "clue": "Echar raíces",
+              "answer": "ARRAIGAR"
+            },
+            "34": {
+              "col": 9,
+              "row": 6,
+              "clue": "Roma, sin punta",
+              "answer": "OBTUSA"
+            },
+            "36": {
+              "col": 0,
+              "row": 7,
+              "clue": "Me carcajeé con la reina",
+              "answer": "REI"
+            },
+            "37": {
+              "col": 4,
+              "row": 7,
+              "clue": "Enloqueció y lo enterró en esa porción de tierra",
+              "answer": "TERRENO"
+            },
+            "39": {
+              "col": 12,
+              "row": 7,
+              "clue": "Río que pasa por la comunidad de Cantabria",
+              "answer": "PAS"
+            },
+            "40": {
+              "col": 0,
+              "row": 8,
+              "clue": "Volver loca a Carola",
+              "answer": "ALOCAR"
+            },
+            "42": {
+              "col": 7,
+              "row": 8,
+              "clue": "Quitaba la distancia entre los dos",
+              "answer": "ACERCABA"
+            },
+            "44": {
+              "col": 0,
+              "row": 9,
+              "clue": "Raído, sin pelo",
+              "answer": "ROSO"
+            },
+            "45": {
+              "col": 5,
+              "row": 9,
+              "clue": "Carta del día de un restaurante",
+              "answer": "MENU"
+            },
+            "47": {
+              "col": 10,
+              "row": 9,
+              "clue": "Hay muchas que alimentar en una familia numerosa",
+              "answer": "BOCAS"
+            },
+            "48": {
+              "col": 3,
+              "row": 10,
+              "clue": "Almiar, balaguero",
+              "answer": "NIAL"
+            },
+            "50": {
+              "col": 8,
+              "row": 10,
+              "clue": "Enfermedad pulmonar obstructiva crónica",
+              "answer": "EPOC"
+            },
+            "52": {
+              "col": 0,
+              "row": 11,
+              "clue": "Casa de moda italiana creada por Lola Moura",
+              "answer": "MISSONI"
+            },
+            "55": {
+              "col": 8,
+              "row": 11,
+              "clue": "Cannabis tipo energizante (pl)",
+              "answer": "SATIVAS"
+            },
+            "59": {
+              "col": 0,
+              "row": 12,
+              "clue": "Dormitorio de vampiros",
+              "answer": "ATAUD"
+            },
+            "60": {
+              "col": 6,
+              "row": 12,
+              "clue": "Actividad de diseñar y adaptar patrones en la industria textil",
+              "answer": "PATRONAJE"
+            },
+            "62": {
+              "col": 0,
+              "row": 13,
+              "clue": "El de Mambrino y no es el crucigrama",
+              "answer": "YELMO"
+            },
+            "63": {
+              "col": 6,
+              "row": 13,
+              "clue": "Sosegasen, tranquilizasen algo",
+              "answer": "SERENASEN"
+            },
+            "64": {
+              "col": 0,
+              "row": 14,
+              "clue": "Amáos sin ese",
+              "answer": "AMAO"
+            },
+            "65": {
+              "col": 6,
+              "row": 14,
+              "clue": "Así lees la L, pero varias",
+              "answer": "ELES"
+            },
+            "66": {
+              "col": 11,
+              "row": 14,
+              "clue": "\"La… de Guadalupe\" serie mexicana",
+              "answer": "ROSA"
+            }
+          }
+        },
+        "vertical_clues": "1-La Organización que controla la producción de petróleo\r\n2-El apellido de La Rosalía\r\n3-Dios olímpico de la guerra\r\n4-País africano cuya capital es Mogadiscio\r\n5-Te dan traspapelado el de Alighieri\r\n6-Probar, tratar\r\n7-Así, ajetreada, canta 'Snowman' o 'Unstoppable'\r\n8-Usas papel transparente para copiar un dibujo\r\n9-Serie episódica de archivos de audio\r\n10-Vuestra señoría\r\n11-Lo hacen de últimos y lo hacen mejor\r\n12-Él sabe quién es la chica\r\n14-Disidente de los anabaptistas, seguidor de Mennón Simons\r\n15-\"Henry…\", padre de las cadenas de producción\r\n20-Ajuste el tono\r\n23-Bloquear un chute, para que no sea gol\r\n24-Limpio el trigo con arel\r\n25-Tres para tres\r\n27-Desaciertan, se equivocan\r\n29-Mejor rapero de todos los tiempos según la Rolling Stone\r\n30-Se arriesgaba, se aventuraba\r\n31-Entras con las uvas desecadas\r\n33-\"… Valdés\" conocido como Tin Tan, importante comediante mexicano (1915-73) \r\n35-Burbuja grande que brota con fuerza de un líquido \r\n38-Tipo de escultura o pintura con un hombre a caballo\r\n41-Lo ingiero con sumo cuidado \r\n43-Preparar una crónica de terror\r\n46-Circunferencia cónica, óvalo\r\n49-Yodo\r\n51-Irá presa a pesar de que no continúes\r\n52-Famosa abejita rebelde que protagoniza una caricatura\r\n53-Punto a tratar\r\n54-Habitación principal de la casa\r\n56-Este va a ser de agua y no se le niega a nadie\r\n57-Desgastes, deteriores, desluzcas\r\n58-Río que discurre por París\r\n61-Al expandido (2p)",
+        "horizontal_clues": "1-Huevas\r\n5-El 'compact…' lo tiene el '… jockey'\r\n9-Papilla que se hace con patatas\r\n13-Trastorno relacionado con la atracción por el fuego\r\n15-Sustancia petrificada, de origen orgánico\r\n16-La base de todo, lo más simple de la materia\r\n17-Le tengas animadversión, lo…\r\n18-Pasa por la empresa para hacer sus prácticas\r\n19-Próxima \r\n21-Alaben, den por bueno algo\r\n22-Nada muy mal, pero camina muy bien\r\n23-Zapato con ruedas\r\n26-Prueba psicológica\r\n28-Estopa sin tabúes se detiene en Inglaterra\r\n32-Echar raíces\r\n34-Roma, sin punta\r\n36-Me carcajeé con la reina\r\n37-Enloqueció y lo enterró en esa porción de tierra\r\n39-Río que pasa por la comunidad de Cantabria\r\n40-Volver loca a Carola\r\n42-Quitaba la distancia entre los dos\r\n44-Raído, sin pelo\r\n45-Carta del día de un restaurante\r\n47-Hay muchas que alimentar en una familia numerosa\r\n48-Almiar, balaguero\r\n50-Enfermedad pulmonar obstructiva crónica\r\n52-Casa de moda italiana creada por Lola Moura\r\n55-Cannabis tipo energizante (pl) \r\n59-Dormitorio de vampiros\r\n60-Actividad de diseñar y adaptar patrones en la industria textil\r\n62-El de Mambrino y no es el crucigrama\r\n63-Sosegasen, tranquilizasen algo\r\n64-Amáos sin ese\r\n65-Así lees la L, pero varias\r\n66-\"La… de Guadalupe\" serie mexicana",
+        "highlighted_cells": [],
+        "board_clues_positions": "1,2,3,4,#,5,6,7,8,#,#,9,10,11,12\r\n13,#,#,#,14,#,#,#,#,#,15,#,#,#,#\r\n16,#,#,#,#,#,#,#,#,#,17,#,#,#,#\r\n18,#,#,#,#,#,#,#,19,20,#,#,#,#,#\r\n#,#,#,21,#,#,#,#,22,#,#,#,#,#,#\r\n23,24,25,#,#,#,26,27,#,#,#,28,29,30,31\r\n32,#,#,#,#,33,#,#,#,34,35,#,#,#,#\r\n36,#,#,#,37,#,#,#,38,#,#,#,39,#,#\r\n40,#,#,41,#,#,#,42,#,#,#,43,#,#,#\r\n44,#,#,#,#,45,46,#,#,#,47,#,#,#,#\r\n#,#,#,48,49,#,#,#,50,51,#,#,#,#,#\r\n52,53,54,#,#,#,#,#,55,#,#,#,56,57,58\r\n59,#,#,#,#,#,60,61,#,#,#,#,#,#,#\r\n62,#,#,#,#,#,63,#,#,#,#,#,#,#,#\r\n64,#,#,#,#,#,65,#,#,#,#,66,#,#,#",
+        "cruciverba_import_metadata": {}
+      },
+      "sites": [
+        {
+          "type": "Site",
+          "id": "7"
+        }
+      ],
+      "siteGroups": []
+    }
+  }
+}
